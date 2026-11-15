@@ -1,0 +1,38 @@
+# Bilder und andere Binärdateien bleiben draußen. Das Repo soll klein
+# und als reiner Text nach Anytype/Notion importierbar bleiben.
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.avif
+*.heic
+*.heif
+*.bmp
+*.tif
+*.tiff
+*.ico
+*.icns
+*.psd
+*.ai
+*.pdf
+*.zip
+*.gz
+*.7z
+*.tar
+*.mp3
+*.mp4
+*.mov
+*.wav
+
+# Die SQLite-Datei ist ein Erzeugnis aus db/schema.sql und db/seed.sql.
+*.sqlite
+*.sqlite3
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+*.db
+*.db-journal
+
+__pycache__/
+.DS_Store

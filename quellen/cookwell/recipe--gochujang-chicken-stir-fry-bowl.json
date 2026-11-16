@@ -1,0 +1,47 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/gochujang-chicken-stir-fry-bowl",
+  "recipes": [
+    {
+      "name": "Gochujang Chicken Stir-Fry Bowl",
+      "source_url": "https://app.cookwell.com/recipe/gochujang-chicken-stir-fry-bowl",
+      "recipe_id": "https://app.cookwell.com/recipe/gochujang-chicken-stir-fry-bowl",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Ground chicken, 450 g",
+        "Salt, a sprinkle",
+        "Neutral oil, 10 g",
+        "Shallots, 1",
+        "Thai chilies, 1–2",
+        "Gochujang, 10 g",
+        "Light soy sauce, 10 g",
+        "Dark Soy Sauce, 5 g",
+        "Rice Vinegar, 15 g",
+        "Jasmine Rice, for serving",
+        "Mayonnaise, a drizzle",
+        "Scallions",
+        "Pickled ginger"
+      ],
+      "instructions": [
+        "Start the jasmine rice using your preferred cooking method (like rice cooker, pressure cooker, or stovetop) so it’s ready for serving once everything else is done. Thinly slice the shallot and Thai chilies into small pieces. Set aside. In a small bowl, combine the gochujang, light soy sauce, dark soy sauce, and rice vinegar. Stir until smooth and set aside.",
+        "Heat a wok or large skillet over medium-high heat. Add a drizzle of neutral oil (about 5 g), followed by the ground chicken and a pinch of salt. Press the chicken into an even layer and let it sear undisturbed for about 3 minutes, until deeply browned on the bottom. Flip the chicken over, then break it into smaller crumbles and continue searing until nearly cooked through.",
+        "Push the chicken to one side of the pan and add another 5 g drizzle of oil, followed by the sliced shallot and Thai chilies. Let the aromatics sauté for 1–2 minutes, until softened and fragrant, then stir-frythem into the ground chicken.",
+        "Pour the prepared gochujang sauce into the hot pan and let it simmer for about 30 seconds before stirring. Then, Stir-fry everything together for another 1–2 minutes, until the sauce has reduced slightly and evenly coats the chicken. Remove from the heat once the chicken is fully cooked and the sauce has formed a glossy coating.",
+        "Add a serving of cooked rice to a bowl, followed by a portion of the cooked, glazed chicken. Drizzle with kewpie mayo, then garnish with the sliced scallions and pickled ginger."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

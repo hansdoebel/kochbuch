@@ -1,0 +1,46 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/loaded-chipotle-chicken-snack-wrap",
+  "recipes": [
+    {
+      "name": "Chipotle Chicken Snack Wrap",
+      "source_url": "https://app.cookwell.com/recipe/loaded-chipotle-chicken-snack-wrap",
+      "recipe_id": "https://app.cookwell.com/recipe/loaded-chipotle-chicken-snack-wrap",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4-6 wraps",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Chicken Breasts, 2",
+        "Salt, a sprinkle",
+        "Chipotles in Adobo, a spoonful",
+        "Mayonnaise, a spoonful",
+        "Cumin, a sprinkle",
+        "Tortillas, 4-6",
+        "Beans",
+        "Colby Jack Cheese",
+        "Hot Sauce",
+        "Sour Cream",
+        "Lettuce",
+        "Tomatoes",
+        "Onions"
+      ],
+      "instructions": [
+        "After dicing the chicken into small (<1\") cubes, mix it in a bowl with the salt, minced adobo chilies, mayo, and cumin. The mixture should coat each piece of chicken. This effectively marinates the chicken but will also help with browning during cooking. You can move on to cooking the chicken right away, or optionally let it marinate up to overnight.",
+        "Add the marinated chicken cubes to a pan or griddle over high heat. No cooking oil is needed since the marinade has plenty of fat from the mayo in it. Allow the chicken pieces to sear undisturbed for a few minutes or until color develops on one side, then flip them periodically to finish cooking through and get color on different sides. Once cooked through, set the chicken bites aside to rest.",
+        "Lay down a square of wax paper or foil with a tortilla on top. Add in a layer of cooked chicken, beans (if using), cheese, and hot sauce. If you are freezing these for meal prep, skip adding the sour cream and fresh ingredients for now. (They'll taste good, but the texture gets weird when unthawed). If you won't be freezing these, you can add the remaining fresh ingredients to the wrap now. Once you have all your ingredients on the tortillas, wrap up it up as tight as you can by tucking in the sides of the tortilla, rolling it together, and then sealing it with the wax paper or foil. Repeat with the remaining tortillas, and then place the prepped wraps in the fridge or freezer for storage.",
+        "When you are ready to enjoy a snack wrap, you can warm these up in the microwave (if using foil, remove them from the foil before reheating). From the fridge - Microwave for 45 seconds From the freezer - Microwave for 90-120 seconds (let cool before biting!) If you froze these wraps without the fresh ingredients, add those to the wrap now after reheating, if desired. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

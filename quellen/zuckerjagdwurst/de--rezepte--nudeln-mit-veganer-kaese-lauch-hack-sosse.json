@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/nudeln-mit-veganer-kaese-lauch-hack-sosse",
+  "recipes": [
+    {
+      "name": "Nudeln mit veganer Käse-Lauch-Hack-Soße",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/nudeln-mit-veganer-kaese-lauch-hack-sosse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/nudeln-mit-veganer-kaese-lauch-hack-sosse#recipe-e8901f29-ade0-5549-b611-f041a701a70e",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "200 g Lauch",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "250 g veganes frisches Hack",
+        "50 g Sonnenblumenkerne",
+        "1 TL Sojasoße",
+        "1 EL Agavendicksaft",
+        "1 EL Mehl",
+        "300 ml Gemüsebrühe",
+        "250 ml vegane Kochsahne",
+        "3 EL Hefeflocken",
+        "2 TL Senf (z. B. von Byodo)",
+        "500 g Pasta (z. B. Strozzapreti von Byodo)",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "Pflanzenöl zum Braten (z. B. von Byodo)",
+        "veganer Parmesan zum Servieren"
+      ],
+      "instructions": [
+        "Die Lauchstange putzen, längs halbieren und in dickere Scheiben schneiden. Zwiebel und Knoblauch schälen und fein hacken.",
+        "Pflanzenöl in einer tiefen Pfanne oder einem Topf erwärmen. Das vegane Hack und die Sonnenblumenkerne darin circa 5 Minuten bei mittlerer Hitze anbraten, bis beides leicht gebräunt ist. Sojasoße und Agavendicksaft zugeben, weitere 2–3 Minuten braten. Zwiebel, Knoblauch und Lauch dazugeben und 3–4 Minuten mitbraten.",
+        "Alles mit Mehl bestäuben und vermengen. Danach mit Gemüsebrühe und veganer Sahne ablöschen. Hefeflocken und Senf dazugeben und die Soße bei kleiner Hitze köcheln lassen, bis die Nudeln fertig sind. Anschließend mit Salz, Pfeffer und Muskat abschmecken.",
+        "Parallel dazu einen großen Topf mit gesalzenem Wasser zum Kochen bringen und die Nudeln nach Packungsanweisung al dente kochen. Vor dem Abgießen etwas vom Kochwasser abschöpfen.",
+        "Die Nudeln abgießen und danach direkt in die Soße geben und vermengen. Nach Bedarf etwas vom Kochwasser der Nudeln dazugeben, bis die Soße so richtig cremig ist. Nochmal abschmecken und mit frischem Pfeffer und veganem Parmesan toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

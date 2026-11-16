@@ -1,0 +1,56 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/20-min-chicken-yellow-rice",
+  "recipes": [
+    {
+      "name": "20 Min Chicken & Yellow Rice",
+      "source_url": "https://app.cookwell.com/recipe/20-min-chicken-yellow-rice",
+      "recipe_id": "https://app.cookwell.com/recipe/20-min-chicken-yellow-rice",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "~4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Chicken Breasts, ~2",
+        "Spices of choice, to taste",
+        "Salt, to taste",
+        "Cooking oil, a drizzle",
+        "Jasmine Rice, 1 part",
+        "Water, 1.25 parts",
+        "Chicken bouillon, a spoonful",
+        "Turmeric powder, a sprinkle",
+        "Whole cloves, 1-2",
+        "Aleppo pepper, a sprinkle",
+        "Cooking oil, a drizzle",
+        "Low-fat sour cream, 3 parts",
+        "Mayonnaise, 1 part",
+        "Dried dill, a sprinkle",
+        "Lemon juice, a squeeze",
+        "Lemon zest, a pinch",
+        "Black Pepper, to taste",
+        "Cherry tomatoes",
+        "Iceberg lettuce",
+        "Cucumbers",
+        "Pickled onions",
+        "Hot Sauce"
+      ],
+      "instructions": [
+        "Add the rice, water, chicken bouillon, turmeric, cloves, and aleppo pepper to a rice cooker. Mix everything together so the spices are evenly dispersed, then start cooking. If you don't have a rice cooker, you can steam the rice in a pot on the stove, or use your favorite rice cooking method.",
+        "Thinly slice the iceberg lettuce for a light, crunchy base. Halve the cherry tomatoes, chop your cucumbers, and gather pickled onions and hot sauce, if using. In a bowl, combine sour cream, mayo, dried dill, lemon zest, lemon juice, and black pepper. Mix until smooth, taste, and adjust if needed.",
+        "Cut the chicken breast into small, even cubes. Smaller pieces = faster cooking and more surface area for seasoning. Heat a pan over high heat, then add a small drizzle of oil. Add the chicken and let it sear undisturbed to develop browning. Once one side is browned, add your spice rub & salt and toss to coat. Continue searing until fully cooked through, about 4–5 minutes total. Reduce heat or add a splash of water if anything threatens to burn. Taste and adjust final seasoning with salt, if needed.",
+        "Optional: Once the rice is done, drizzle in about 10 g of oil before fluffing. Mix the cooked rice thoroughly to coat the grains and distribute the oil. The fat enhances texture and helps carry the spice aromas.",
+        "To plate, start with a base of yellow rice. Add the chicken to one side, then layer on lettuce, tomatoes, cucumber, and pickled onions to taste. Drizzle the dill sauce over the chicken and finish with hot sauce if desired. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

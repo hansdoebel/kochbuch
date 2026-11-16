@@ -1,0 +1,45 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/pesto-pasta-salad",
+  "recipes": [
+    {
+      "name": "Pesto Pasta Salad",
+      "source_url": "https://app.cookwell.com/recipe/pesto-pasta-salad",
+      "recipe_id": "https://app.cookwell.com/recipe/pesto-pasta-salad",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Fresh basil, 50 g",
+        "Olive Oil, 100 g",
+        "Parmigiano Reggiano, 50 g",
+        "Pine nuts, 25 g",
+        "Garlic, 2 cloves",
+        "Salt, to taste",
+        "Black Pepper, to taste",
+        "Short pasta of choice, 225 g",
+        "Cooked chicken",
+        "Tomatoes",
+        "Corn",
+        "Roasted vegetables"
+      ],
+      "instructions": [
+        "Bring a pot of water to a boil and add a handful of salt. Add the dried pasta and boil until cooked through, stirring occasionally. Meanwhile, get started on the pesto.",
+        "Using a mortar & pestle, food processor, or blender, puree together all of the pesto ingredients. Taste and adjust with salt and pepper. If you need it thinner, you can add extra olive oil. To thicken it slightly, blend in more pine nuts or parmigiano.",
+        "Once the pasta is cooked, drain & then add to a large mixing bowl. Starting with about half the pesto, toss it with the pasta until the sauce has emulsified with any extra water and is clinging to the noodles. For a really saucy texture, use all of the pesto. For lighter coverage, save the other half of the sauce for another portion of pasta. At this point, you could save the pesto pasta in the fridge for meal prep, and add toppings for when you are ready to eat.",
+        "Dice up any meat or vegetables you want to add in as toppings into bite sized pieces. Warm up a portion or pesto pasta. Toss together with the toppings. Taste and adjust with extra parmigiano, salt, or pepper."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

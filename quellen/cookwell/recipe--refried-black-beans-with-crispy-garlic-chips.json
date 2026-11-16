@@ -1,0 +1,43 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/refried-black-beans-with-crispy-garlic-chips",
+  "recipes": [
+    {
+      "name": "Refried Black Beans with Crispy Garlic Chips",
+      "source_url": "https://app.cookwell.com/recipe/refried-black-beans-with-crispy-garlic-chips",
+      "recipe_id": "https://app.cookwell.com/recipe/refried-black-beans-with-crispy-garlic-chips",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Black Beans, 14 oz can",
+        "Chicken broth, as needed",
+        "Salt, to taste",
+        "Cooking oil, 30 g",
+        "Garlic, 1-2 cloves",
+        "Onions, 1/2",
+        "Epazote, 1 stalk",
+        "Crema, a drizzle",
+        "Cilantro, a sprinkle",
+        "Cotija cheese, a sprinkle"
+      ],
+      "instructions": [
+        "Set a pan over medium heat and add the cooking oil. Add the garlic slices and fry until golden brown and crispy. Remove and set aside on a paper towel to drain. These infuse the cooking oil with garlic aromas and will be used as a crispy garnish at the end. Be sure not to overly brown the garlic as it will become bitter. Keep the infused oil in the pan.",
+        "Add the minced onion and sauté until softened. Add the black beans and lightly mash with a fork or potato masher. You can add the black beans drained or undrained. Draining them means you’ll need to add more chicken broth in the next step but will have more control over the final texture.",
+        "While continuing to mash the beans, pour in small amounts of chicken broth until they are broken down and the mixture has reached your desired consistency. Add the epazote stalk and simmer the mixture for 10 minutes to infuse the flavors and slightly reduce the refried beans. At the end of the 10 minutes, assess the texture of the beans. If you want them looser, turn off the heat and mix in a bit more broth. If you want them tighter, feel free to reduce a few minutes longer. Keep in mind the beans will tighten up more as they cool down.",
+        "Taste and add salt (it will need some) until the beans are seasoned to your liking. Serve and garnish with the reserved crispy garlic chips. Optionally top with crema, cotija cheese and cilantro."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

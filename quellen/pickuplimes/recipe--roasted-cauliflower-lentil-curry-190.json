@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/roasted-cauliflower-lentil-curry-190",
+  "recipes": [
+    {
+      "name": "Roasted Cauliflower Lentil Curry",
+      "source_url": "https://www.pickuplimes.com/recipe/roasted-cauliflower-lentil-curry-190",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT50M",
+      "total_time": "PT01H00M",
+      "ingredients": [
+        "1 medium head cauliflower",
+        "1 Tbsp vegetable oil",
+        "1 tsp garlic powder",
+        "1 tsp onion powder",
+        "½ tsp sweet paprika powder",
+        "¼ tsp salt",
+        "¼ tsp ground black pepper",
+        "1 cup brown rice",
+        "1 Tbsp vegetable oil",
+        "1 medium onion",
+        "3 garlic clove",
+        "1 Tbsp curry powder",
+        "½ Tbsp garam masala",
+        "½ Tbsp ground turmeric",
+        "1 tsp ground cumin",
+        "1 tsp ground coriander",
+        "1 tsp ground cinnamon",
+        "1 tsp salt",
+        "1⅔ cup canned diced tomatoes",
+        "¾ cup cherry tomatoes",
+        "1⅔ cup canned full-fat coconut milk",
+        "1¼ cup cooked brown lentils",
+        "2 cup spinach"
+      ],
+      "instructions": [
+        "Line a baking tray and preheat the oven to 410°F (210°C)*.",
+        "On the baking tray, toss the cauliflower with the oil, garlic powder, onion powder, paprika, salt, and black pepper. Roast for 40 to 45 minutes, mixing once halfway.",
+        "Meanwhile, cook the rice according to the package instructions.",
+        "Heat the oil in a large pot over medium-high heat. When hot, add the onion and cook until golden. Add splashes of water if needed to deglaze the pot.",
+        "Add the garlic, curry powder, garam masala, turmeric, cumin, coriander, cinnamon, and salt. Stir continuously for 30 to 60 seconds to toast.",
+        "Add the diced tomatoes and cherry tomatoes (if using). Simmer for 5 minutes.",
+        "Add the coconut milk, lentils, spinach, and roasted cauliflower. Cook for about 5 minutes, or until heated through and the spinach has wilted.",
+        "Serve with rice or naan, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Store in an airtight container in the fridge for up to 4 days, or in the freezer for up to 1 month."
+  ]
+}

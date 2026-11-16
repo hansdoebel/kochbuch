@@ -1,0 +1,109 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/bok-choy-muchim",
+  "recipes": [
+    {
+      "name": "Bok choy seasoned with soybean paste (Cheonggyeongchae...",
+      "source_url": "https://www.maangchi.com/recipe/bok-choy-muchim",
+      "recipe_id": "/recipe/bok-choy-muchim#sso/recipe/57851",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 pound bok choy",
+        "1 garlic clove, minced",
+        "1 green onion, minced",
+        "2 tablespoons doenjang (fermented soybean paste)",
+        "2 teaspoons gochujang (hot pepper paste)",
+        "a pinch of sugar",
+        "2 teaspoons toasted sesame oil",
+        "2 teaspoons toasted sesame seeds"
+      ],
+      "instructions": [
+        "Cut off the ends of each bunch of bok choy and separate the leaves from the stalks. Cut into bite size pieces.",
+        "Bring a large pot of water into a boil. Blanch the bok choy for about 1 or 2 minutes until the white stems soften.",
+        "Strain and rinse in cold water to remove any dirt and stop them from cooking. Strain.",
+        "Combine garlic, green onion, doenjang, gochujang, sugar, and toasted sesame oil in a bowl and mix it with a wooden spoon.",
+        "Squeeze out the bok choy to remove excess water and add to the bowl. Mix it well by hand.",
+        "Sprinkle with crispy sesame seeds and serve immediately as a side dish for rice. You can refrigerate it up to 2 days."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound bok choy"
+        },
+        {
+          "tag": "li",
+          "text": "1 garlic clove, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 green onion, minced"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons doenjang (fermented soybean paste)"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons gochujang (hot pepper paste)"
+        },
+        {
+          "tag": "li",
+          "text": "a pinch of sugar"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons toasted sesame seeds"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Cut off the ends of each bunch of bok choy and separate the leaves from the stalks. Cut into bite size pieces."
+        },
+        {
+          "tag": "li",
+          "text": "Bring a large pot of water into a boil. Blanch the bok choy for about 1 or 2 minutes until the white stems soften."
+        },
+        {
+          "tag": "li",
+          "text": "Strain and rinse in cold water to remove any dirt and stop them from cooking. Strain."
+        },
+        {
+          "tag": "li",
+          "text": "Combine garlic, green onion, doenjang, gochujang, sugar, and toasted sesame oil in a bowl and mix it with a wooden spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Squeeze out the bok choy to remove excess water and add to the bowl. Mix it well by hand."
+        },
+        {
+          "tag": "li",
+          "text": "Sprinkle with crispy sesame seeds and serve immediately as a side dish for rice. You can refrigerate it up to 2 days."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-mujaddara-aus-nur-5-zutaten",
+  "recipes": [
+    {
+      "name": "Veganes Mujaddara aus nur 5 Zutaten",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-mujaddara-aus-nur-5-zutaten",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-mujaddara-aus-nur-5-zutaten#recipe-ebf2ebc1-d9c0-51ad-a905-65e0ef713473",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für die Reis-Linsen-Mischung:",
+        "250 g Langkorn Spitzenreis",
+        "200 g trockene grüne Linsen (z.B. Pardina Linsen)",
+        "500 ml Wasser",
+        "Salz",
+        "Für die Zwiebeln:",
+        "10-15 große Zwiebeln",
+        "100 ml Pflanzenöl",
+        "Zum Servieren:",
+        "30 g frische Petersilie",
+        "400 g pflanzlicher Joghurt"
+      ],
+      "instructions": [
+        "Den Reis ca. 30 Minuten in Wasser einweichen.",
+        "In der Zwischenzeit Zwiebeln schälen und in Ringe schneiden. Petersilie waschen, fein hacken und zum Servieren beiseitelegen.",
+        "Die grünen Linsen, Wasser und etwas Salz in einen beschichteten Topf (zu dem ihr auch einen Deckel habt) geben und zum Kochen bringen. Sobald das Wasser kocht, die Hitze auf mittlere bis kleine Stufe reduzieren, einen Deckel auf den Topf legen und die Linsen ca. 15 Minuten ziehen lassen. Währenddessen den Deckel nicht vom Topf nehmen und umrühren!",
+        "Den Boden einer großen Pfanne mit Pflanzenöl bedecken und die Zwiebelringe bei schwacher Hitze langsam anbraten, bis sie dunkelbraun sind – dabei regelmäßig umrühren. Das dauert bis zu 45 Minuten.",
+        "Nachdem die Linsen 15 Minuten bei schwacher Hitze ziehen durften, den eingeweichten Reis hinzugeben, einmal umrühren und den Deckel wieder auf den Topf setzen. Nun gilt wieder: den Deckel nicht mehr abnehmen oder umrühren. Weitere ca. 30 Minuten bei niedriger Hitze ziehen lassen.",
+        "Linsen und Reis vom Herd nehmen, kurz umrühren, gut salzen und mit den Zwiebeln, der gehackten Petersilie und dem pflanzlichem Joghurt servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

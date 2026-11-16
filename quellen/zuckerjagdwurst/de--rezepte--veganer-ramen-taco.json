@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-ramen-taco",
+  "recipes": [
+    {
+      "name": "Veganer Ramen Taco",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-ramen-taco",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-ramen-taco#recipe-e91f00ae-9b41-5a39-9d18-0676f925bff0",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "6 getrocknete Ramen-Nudel-Platten",
+        "FÜR DAS RAMEN-GEWÜRZ",
+        "4 EL Ingwerpulver",
+        "4 EL Knoblauchpulver",
+        "2 EL Zwiebelpulver",
+        "2 EL Paprikapulver",
+        "Salz&Pfeffer",
+        "FÜR DIE MARINADE",
+        "Eiersatz für 4 Eier",
+        "Heißes Wasser",
+        "FÜR DIE FÜLLUNG",
+        "6 Frühlingszwiebeln",
+        "Veganes „Chicken-like“ Sojafleisch",
+        "Mais",
+        "Bambussprossen",
+        "FÜR DIE DIPS",
+        "2 EL Wasabi",
+        "1 EL Teriyaki sauce",
+        "200 g Vegane Mayo",
+        "1 Limette"
+      ],
+      "instructions": [
+        "Wir bereiten erstmal die Marinade vor. Dazu verrührt ihr zunächst alle Zutaten für das Ramen-Gewürz. Rührt in einer Schüssel den Eiersatz an und gebt die Hälfte des Ramengewürz' dazu.",
+        "In einem großen Topf oder einer große Pfanne verrührt ihr die andere Hälfte des Ramen-Gewürz' mit heißem Wasser. Danach leicht köcheln lassen und jede Platte von jeder Seite für 1 Minute hineinlegen. Achtet auf die Zeit, denn wenn ihr die Platten zu lang im Wasser garen lasst, werden sie zu weich.",
+        "Legt alle Platten auf ein Brett und lasst sie für 2-3 Minuten abkühlen. In der Zeit sucht ihr euch schon mal eine Schüssel, ein Glas oder eine Ausstechform, mit dem ihr eure Platten ausstechen könnt. Diese sollte rund sein und groß genug, um die ganze Breite des Tacos einzuschließen. Mit der Schüssel stecht ihr nun aus jeder Platte einen Kreis heraus – tataaa, euer Taco. Die Platten sollten fest genug dafür sein, die Nudeln aber bereits einen leicht weichen Kern haben.",
+        "Diese Platten gebt ihr jetzt entweder in eure Tacoformen oder fettet eine Auflaufform ein und legt die Ramenplatten in Tacoform aneinander. Am besten bestreicht ihr die Fläche etwas mit Öl, damit sie nicht aneinanderkleben. Danach geht’s für 10 Minuten ab in den Ofen bei 180 Grad. Die Ramentacos sollten leicht kross und geröstet sein.",
+        "In der Zwischenzeit könnt ihr die Füllung zubereitet: Frühlingszwiebeln in Längsstreifen schneiden, Mais abtropfen und mit Wasser abspülen und das vegane Fleisch anbraten.",
+        "Nehmt die Hälfte der veganen Mayo und verrührt sie in einer kleinen Schüssel mit Wasabi. Testet gern nach 1 EL schon, ob euch die Mayo nicht zu scharf wird. Die zweite Hälfte Mayo verrührt ihr in einer zweiten Schüssel mit Teriyaki-Sauce. Limette ausdrücken und je 1 EL in beide Mayoschalen geben und alles gut verrühren.",
+        "Wenn eure Tacos fertig sind, könnt ihr sie rausnehmen und noch warm füllen. Zunächst mit Teriyaki-Mayo beschmieren, Sojafleisch und das Gemüse einfüllen und am Ende noch etwas Wasabi-Mayo darübergeben."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

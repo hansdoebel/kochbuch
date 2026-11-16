@@ -1,0 +1,46 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/high-protein-beef-bowl",
+  "recipes": [
+    {
+      "name": "High Protein Beef Bowl",
+      "source_url": "https://app.cookwell.com/recipe/high-protein-beef-bowl",
+      "recipe_id": "https://app.cookwell.com/recipe/high-protein-beef-bowl",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "93/7 ground beef, 450 g",
+        "Tomato Paste, 7 g",
+        "Salt, 7 g",
+        "Cumin, 3 g",
+        "Smoked Paprika, 3 g",
+        "Cayenne Pepper, 2 g",
+        "Yogurt, 50 g",
+        "Green chile sauce, 15 g",
+        "Lime juice, a drizzle",
+        "Tortilla Chips, ~10",
+        "Monterrey jack cheese, 30 g",
+        "Red Onions",
+        "Pickled jalapeños",
+        "Romaine lettuce"
+      ],
+      "instructions": [
+        "In a pan, add the ground beef, salt, and spices. Use a wooden spoon or potato masher to break up the beef as it cooks over medium-high heat. Once the beef is well browned, add in the tomato paste along with a splash of water and mix until the beef is glazed.",
+        "In a small bow, mix together yogurt, green chile sauce, and lime juice until homogenous and desired spice/acidity is reached.",
+        "Chop the veggies to your desired size, and grate the cheese. To assemble, add the lettuce as a base, then follow with 1/3 of the beef, grated cheese, pickled jalapeños, red onion, and the green chile yogurt sauce. Mix it all up and then eat it with a serving tortilla chips."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

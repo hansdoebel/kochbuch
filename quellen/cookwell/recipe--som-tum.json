@@ -1,0 +1,43 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/som-tum",
+  "recipes": [
+    {
+      "name": "Thai Papaya Salad (Som Tum)",
+      "source_url": "https://app.cookwell.com/recipe/som-tum",
+      "recipe_id": "https://app.cookwell.com/recipe/som-tum",
+      "authors": [
+        "Cook Well Official"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "Green papaya, 1-2",
+        "Green Beans, a handful",
+        "Tomatoes, a handful",
+        "Garlic, 2 cloves",
+        "Peanuts, 2 spoonfuls",
+        "Fresh ginger, 1” knob",
+        "Red Thai chiles, to taste",
+        "Sugar, a sprinkle",
+        "Salt, a sprinkle",
+        "Fish Sauce, a spoonful",
+        "Lime juice, a spoonful"
+      ],
+      "instructions": [
+        "In a mortar & pestle, crush all aromatics until they form a paste. Scoop out into a large salad bowl.",
+        "In batches, lightly crush the papaya shreds and vegetables in the same mortar & pestle. This will bruise and allow them to soak more of the dressing.",
+        "Toss the vegetables with the aromatic paste, and then add a sprinkle of salt, some sugar, and a few spoonfuls of lime juice and fish sauce. Do this a bit at a time until the salad is seasoned to your liking. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

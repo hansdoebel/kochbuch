@@ -1,0 +1,46 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/colombian-style-shredded-chicken-arepa",
+  "recipes": [
+    {
+      "name": "Colombian Style Shredded Chicken Arepa",
+      "source_url": "https://app.cookwell.com/recipe/colombian-style-shredded-chicken-arepa",
+      "recipe_id": "https://app.cookwell.com/recipe/colombian-style-shredded-chicken-arepa",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "3-4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Chicken Breasts, 2",
+        "Salt, a sprinkle",
+        "Cooking oil, as needed",
+        "Corn, 1-2 cobs",
+        "Garlic, 1-2 cloves",
+        "Cilantro, a handful",
+        "Mayonnaise, a spoonful",
+        "Lime juice, a squeeze",
+        "Hot Sauce, to taste",
+        "Salt, to taste",
+        "Arepa choclo, 3-4",
+        "Quesito, to taste",
+        "Hot Sauce, to taste"
+      ],
+      "instructions": [
+        "Use a knife to butterfly or thin out the chicken breast into an even width. Sprinkle an even coating of salt on all sides. Preheat a pan over medium high heat. Once hot, add a layer of oil to cover the pan. Lay the chicken into the hot pan to sear on one side. When the bottom has released from the pan and developed some browning, flip the chicken. Continue searing on the other side until it cooks through and reaches an internal temperature of 155°F/68°C. Set the chicken aside to rest.",
+        "Meanwhile, prep the corn salsa. Cut off the kernels from the corn cob. Add to a bowl and mix with the minced cilantro, garlic, and mayo. Add the lime juice, hot sauce, and salt to taste, adjusting as necessary. Set aside.",
+        "Shred the cooked chicken to your desired consistence with a fork. Toast the arepa in a pan on medium heat until warmed through and crispy on the exterior.",
+        "Layer a few slices of the quesito cheese on the warm arepa. Top with a serving of shredded chicken, hot sauce, and a few spoonfuls of the corn salsa. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

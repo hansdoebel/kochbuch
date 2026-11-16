@@ -1,0 +1,91 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-fischbroetchen-mit-selbstgemachten-fischstaebchen",
+  "recipes": [
+    {
+      "name": "Vegane Remoulade",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-fischbroetchen-mit-selbstgemachten-fischstaebchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-fischbroetchen-mit-selbstgemachten-fischstaebchen#recipe-6760575f-6c5b-57b3-ab19-d5ecc62cac8c",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "180 g Remoulade",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT300M",
+      "ingredients": [
+        "150 ml vegane Mayonnaise",
+        "1 TL mittelscharfer Senf",
+        "1 saure Gurken",
+        "3 Zweige Dill",
+        "2 Zweige Petersilie",
+        "4 - 5 Stängel Schnittlauch",
+        "15 Kapern (aus dem Glas)",
+        "Salz & Pfeffer"
+      ],
+      "instructions": [
+        "Die saure Gurke und die Kapern sehr, sehr klein schneiden.",
+        "Die Kräuter waschen und ebenfalls fein schneiden.",
+        "Alle Zutaten in eine Schüssel geben, gut verrühren und abschmecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Vegane Fischstäbchen im Brötchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-fischbroetchen-mit-selbstgemachten-fischstaebchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-fischbroetchen-mit-selbstgemachten-fischstaebchen#recipe-091dd6ff-c4bc-5a65-9221-b31d4fef1a29",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Fischbrötchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT300M",
+      "ingredients": [
+        "4 frische, knusprige Brötchen",
+        "1 Romana Salatherz",
+        "1 rote Zwiebel",
+        "4 saure Gurken",
+        "1/2 Portion vegane Remoulade (Rezept auf dem Blog)",
+        "1 Zitrone",
+        "Salz & Pfeffer",
+        "Vegane Fischstäbchen",
+        "400 g Naturtofu",
+        "1 Noriblatt",
+        "5 EL Sojasauce",
+        "3 EL Zitronensaft",
+        "250 ml kochendes Wasser",
+        "100 ml pflanzliche Milch",
+        "50 g Weizenmehl",
+        "Salz&Pfeffer",
+        "2 EL Hefeflocken",
+        "100 g Paniermehl",
+        "3 EL vegane Butter"
+      ],
+      "instructions": [
+        "Vegane Fischstäbchen",
+        "Den Tofu in Scheiben schneiden, in Frischhaltefolie einwickeln und am Abend zuvor einfrieren. Morgens aus dem Tiefkühlfach holen und für mindestens drei Stunden auftauen lassen.",
+        "Das Noriblatt in feine Streifen schneiden und mit Sojasauce, Zitronensaft und dem heißen Wasser in einer Schüssel vermengen. Die Tofuscheiben hineinlegen und für zwei Stunden marinieren. Immer mal wieder wenden.",
+        "Zum Panieren drei Schälchen vorbereiten: eine mit der Sojamilch, eine mit Paniermehl und die letzte Schale mit Mehl, Hefeflocken, Salz & Pfeffer.",
+        "Jedes Tofustäbchen nun zuerst in das Mehl geben, dann in die Sojamilch tunken und dann im Paniermehl wenden. Mit jedem Tofustäbchen zweimal die Runde durchgehen.",
+        "Eine Pfanne mit veganer Butter erhitzen und die Fischstäbchen darin braun braten.",
+        "Anrichten",
+        "Die Brötchen halbieren und mit ausreichend Remoulade bestreichen.",
+        "Salat waschen und die Salatblätter vom Strunk lösen. Die sauren Gurken in Scheiben schneiden.",
+        "Die rote Zwiebel schälen und in Ringe schneiden.",
+        "Die Brötchen mit Salat, sauren Gurken, Zwiebelringen und Fischstäbchen belegen. Die Fischstäbchen mit Zitronensaft beträufeln."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

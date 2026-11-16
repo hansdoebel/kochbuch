@@ -1,0 +1,46 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/homemade-big-mac",
+  "recipes": [
+    {
+      "name": "Homemade Big Mac",
+      "source_url": "https://app.cookwell.com/recipe/homemade-big-mac",
+      "recipe_id": "https://app.cookwell.com/recipe/homemade-big-mac",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 serving",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT18M",
+      "ingredients": [
+        "85/15 Ground beef, 200 g",
+        "Pickles, 6",
+        "American Cheese, 2 slices",
+        "Sesame seed bun, 1.5",
+        "Salt",
+        "Lettuce",
+        "Onions, a spoonful",
+        "Mayonnaise, 30 g",
+        "Ketchup, 20 g",
+        "Dijon Mustard, 10 g",
+        "Pickles, 2-3",
+        "Smoked Paprika, a sprinkle",
+        "Onion Powder, a sprinkle",
+        "Black Pepper, a sprinkle"
+      ],
+      "instructions": [
+        "Set a bowl on a scale and add all the ingredients. Mix together and taste. Adjust the salt and other ingredients as needed. Form the ground beef into two evenly-sized balls and sprinkle with salt.",
+        "Set a cast iron or carbon steel pan over medium-high heat. Once hot, drop one of the meat balls in and immediately smash it with a flat metal spatula. Do the same with the other ball of meat. Let the burgers sear for 60 to 90 seconds to develop a crust. Scrape the burgers and flip them over to cook the other side for another 60 to 90 seconds.",
+        "Gather the bun, lettuce, cheese, pickles, and diced onion. To assemble, add the sauce to the bottom bun, followed by the pickles, onion, and lettuce. Place the burger patty on top with the cheese and more sauce. Add the middle bun, more Big Mac sauce, onion, lettuce, burger patty, cheese, and top bun with more sauce. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

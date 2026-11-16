@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-hack-kaese-lauch-auflauf-mit-steckrueben",
+  "recipes": [
+    {
+      "name": "Veganer Hack-Käse-Lauch-Auflauf mit Steckrüben",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-hack-kaese-lauch-auflauf-mit-steckrueben",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-hack-kaese-lauch-auflauf-mit-steckrueben#recipe-3f3d9270-721d-5974-a6cf-36a8b4244195",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT65M",
+      "ingredients": [
+        "1 Steckrübe (ca. 1.5 kg)",
+        "2 EL Olivenöl",
+        "300 g Lauch",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "500 g veganes (rohes) Hackfleisch",
+        "1 TL Sojasoße",
+        "1 EL Agavendicksaft",
+        "3 EL vegane Butter",
+        "2 EL Mehl",
+        "500 ml Gemüsebrühe",
+        "250 ml pflanzliche Sahne",
+        "3 EL Hefeflocken",
+        "200 g veganer Streukäse",
+        "1 EL Wasser",
+        "1 EL Pflanzenöl",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "Pflanzenöl zum Braten"
+      ],
+      "instructions": [
+        "Den Backofen auf 200°C (Umluft) vorheizen. Die Steckrübe gründlich abwaschen, trocknen und anschließend schälen. Dafür den Strunk und das gegenüberliegende Ende der Steckrübe abschneiden und die Schale rundherum mit einem Messer abschneiden. Die Steckrübe danach in mundgerechte Stücke schneiden und auf einem Backblech verteilen. Mit Olivenöl beträufeln und mit Salz und Pfeffer würzen. Ca. 15 Minuten vorbacken, damit die Steckrübe weicher wird.",
+        "In der Zwischenzeit den Lauch gründlich putzen und in Ringe schneiden. Zwiebel und Knoblauch schälen und fein hacken.",
+        "Pflanzenöl in einer Pfanne erhitzen und das vegane Hackfleisch zusammen mit der Zwiebel und dem Knoblauch ca. 5 Minuten scharf anbraten. Sojasoße und Agavendicksaft dazugeben und weitere 5 Minuten anbraten. Das vegane Hack mit Salz und Pfeffer abschmecken und beiseitestellen.",
+        "Für die Soße vegane Butter in einem Topf schmelzen und mit Mehl bestäuben. Gemüsebrühe und pflanzliche Sahne einrühren. Die Soße mit Hefeflocken würzen und mit Salz, Pfeffer und Muskat abschmecken.",
+        "Veganen Streukäse mit Wasser und Öl in einer Schüssel vermengen.",
+        "Eine Auflaufform mit etwas Öl einfetten und die Steckrüben-Stückchen, den Lauch, die vegane Hackmischung und Soße hineingeben und vermengen. Alles mit veganem Käse bestreuen und bei 200°C (Umluft) ca. 20-25 Minuten backen, bis die „Käseschicht” goldbraun und die Steckrüben weich sind."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

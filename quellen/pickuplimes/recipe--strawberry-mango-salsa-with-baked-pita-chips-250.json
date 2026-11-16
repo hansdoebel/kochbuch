@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/strawberry-mango-salsa-with-baked-pita-chips-250",
+  "recipes": [
+    {
+      "name": "Strawberry Mango Salsa with Baked Pita Chips",
+      "source_url": "https://www.pickuplimes.com/recipe/strawberry-mango-salsa-with-baked-pita-chips-250",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT15M",
+      "cook_time": "PT10M",
+      "total_time": "PT25M",
+      "ingredients": [
+        "1 Tbsp unsalted vegan butter",
+        "3 small pita bread",
+        "1 tsp light brown sugar",
+        "⅛ tsp ground cinnamon",
+        "1 mango",
+        "1 avocado",
+        "1 lime",
+        "½ jalapeño",
+        "2 cup fresh strawberries",
+        "¼ small red onion",
+        "1 Tbsp fresh basil leaves",
+        "1 tsp agave syrup"
+      ],
+      "instructions": [
+        "Line a baking tray and preheat the oven to 400°F (210°C)*.",
+        "Spread the butter evenly onto the pita rounds, then cut each pita into eight equally-sized wedges. Transfer to the baking tray.",
+        "Stir together the sugar and cinnamon in a small bowl, then sprinkle onto the pita wedges. Bake for 7 minutes, or until crisped to your liking.",
+        "Add all of the salsa ingredients to a medium bowl and mix.",
+        "Serve the salsa with the pita chips and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Store the salsa in an airtight container in the fridge for up to 1 day."
+  ]
+}

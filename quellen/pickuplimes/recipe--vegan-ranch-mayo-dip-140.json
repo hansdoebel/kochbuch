@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vegan-ranch-mayo-dip-140",
+  "recipes": [
+    {
+      "name": "Vegan Ranch Mayo Dip",
+      "source_url": "https://www.pickuplimes.com/recipe/vegan-ranch-mayo-dip-140",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT03M",
+      "cook_time": "",
+      "total_time": "PT03M",
+      "ingredients": [
+        "½ cup vegan mayonnaise",
+        "1 tsp nutritional yeast flakes",
+        "1 tsp dried parsley",
+        "¼ tsp dried chives",
+        "¼ tsp garlic powder",
+        "¼ tsp onion powder",
+        "⅛ tsp dried dill",
+        "⅛ tsp salt",
+        "1 pinch ground black pepper"
+      ],
+      "instructions": [
+        "Combine all the ingredients in a bowl and stir until combined. Serve and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to one week."
+  ]
+}

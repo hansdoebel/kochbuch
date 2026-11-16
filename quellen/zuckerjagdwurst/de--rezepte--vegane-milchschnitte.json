@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-milchschnitte",
+  "recipes": [
+    {
+      "name": "Vegane Milchschnitte",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-milchschnitte",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-milchschnitte#recipe-62c263f5-d2f3-5627-ad53-ef47850add44",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "7-8 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "Für den Schokoladenbiskuit:",
+        "300 g Mehl",
+        "45 g Backkakao (ungesüßt)",
+        "220 g Zucker",
+        "375 ml Sprudelwasser",
+        "75 ml pflanzliches Öl (Raps- oder Sonnenblumenöl)",
+        "8 g Backpulver",
+        "8 g Vanillezucker",
+        "Für die „Milchcreme“:",
+        "300 ml vegane Schlagsahne",
+        "16 g Sahnesteif",
+        "8 g Vanillezucker",
+        "1-2 TL Vanillearoma",
+        "1-2 EL Agavendicksaft",
+        "50 g pflanzlicher Joghurt",
+        "Außerdem:",
+        "vegane Butter zum Einfetten",
+        "Backkakao zum Bestäuben"
+      ],
+      "instructions": [
+        "Schokoladenbiskuit",
+        "Den Ofen auf 180°C Umluft vorheizen. In einer großen Schüssel Mehl, Backkakao, Zucker, Vanillezucker und Backpulver verrühren. Anschließend das Öl und das Mineralwasser dazugeben und nur noch kurz unterrühren.",
+        "Ein Backblech mit veganer Butter einfetten und mit etwas Kakaopulver bestreuen. Den Teig hineingießen und gleichmäßig verstreichen.",
+        "Den Teig auf mittlerer Stufe für 20 Minuten bei Umluft backen. Mit einem Stäbchen testen, ob der Teig durch ist. Den Teig im Anschluss komplett abkühlen lassen.",
+        "„Milchcreme“",
+        "In der Zwischenzeit die pflanzliche Sahne mit Sahnesteif, Vanillearoma, Agavendicksaft (je nach Geschmack) und Vanillezucker aufschlagen.",
+        "Den pflanzlichen Joghurt unterrühren und die Masse im Kühlschrank kaltstellen.",
+        "Zusammensetzen",
+        "Die äußersten Ränder des Teigs abschneiden und mit einem Messer in etwa 5x10 cm lange Rechtecke schneiden.",
+        "Auf die Hälfte der Rechtecke mit einer Spritztülle Milchcreme geben.",
+        "Danach die restliche Hälfte der Biskuitstücke vorsichtig auf die Milchcreme legen, leicht andrücken und so die Milchschnitten schließen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

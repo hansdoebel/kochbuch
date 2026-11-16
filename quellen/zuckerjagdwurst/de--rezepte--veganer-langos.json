@@ -1,0 +1,93 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-langos",
+  "recipes": [
+    {
+      "name": "Veganer Langos",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-langos",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-langos#recipe-5498e841-b7e7-52f9-a701-e0becd9a904b",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Langos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "Für den Teig:",
+        "1 Würfel Hefe (42 g)",
+        "200 ml pflanzliche Milch (lauwarm)",
+        "100 ml Wasser (lauwarm)",
+        "400 g Mehl",
+        "Salz",
+        "1 l Pflanzenöl zum Frittieren",
+        "„Klassisch“ (für 2)",
+        "6 EL vegane Sour Cream",
+        "6 EL veganer Streukäse",
+        "1 TL Paprikapulver",
+        "frische Petersilie (gehackt)",
+        "Mit Räuchertofu (für 2)",
+        "6 EL vegane Sour Cream",
+        "200 g Räuchertofu (gewürfelt und angebraten)",
+        "1 Zwiebel (gewürfelt und angebraten)",
+        "1 Knoblauchzehe (gewürfelt und angebraten)",
+        "Schnittlauch",
+        "Rot (für 2)",
+        "6 EL Ajvar",
+        "1 Handvoll Kirschtomaten",
+        "10 schwarze Oliven (halbiert)",
+        "1 Schalotte (fein gewürfelt)",
+        "2 Frühlingszwiebeln (in feine Ringe geschnitten)",
+        "Süß (für 2)",
+        "1 Banane (in Scheiben geschnitten)",
+        "2 TL gemahlenen Zimt",
+        "Ahornsirup zum Beträufeln"
+      ],
+      "instructions": [
+        "Hefe in 100 ml lauwarmer pflanzlicher Milch auflösen. In einer zweiten Schüssel Mehl mit Salz vermengen und eine Kuhle in der Mitte formen. Die Hefe-Milch-Mischung hineingeben und mit ca. 100 g Mehl zu einem Vorteig vermengen. Abgedeckt ca. 15 Minuten an einem warmen Ort stehen lassen.",
+        "Nach und nach das restliche Mehl und die restliche pflanzliche Milch und das Wasser dazukneten bis ein glatter Teig entsteht, der sich vom Schüsselrand löst. Erneut abgedeckt ca. 30 Minuten gehen lassen, bis sich das Teigvolumen deutlich erhöht.",
+        "Öl in einer tiefen Pfanne oder einem Topf auf ca. 180°C erhitzen.",
+        "Den Teig aus der Schüssel auf eine bemehlte Arbeitsfläche geben und in sechs gleich große Stücke teilen. Mit den Händen zu einer Scheibe formen, am Rand sollte der Teig dicker sein als in der Mitte. Langos nach und nach ins heiße Fett geben und von beiden Seiten goldbraun frittieren.",
+        "Langos aus dem Fett nehmen, auf Küchenpapier abtropfen lassen und anschließend nach Wunsch belegen. Unbedingt direkt und noch warm essen!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Vegane Sour Cream",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-langos",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-langos#recipe-1839977b-1f0f-5050-9996-bfe18d29ce59",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "350 g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "200 g Sojaquark",
+        "150 g veganer Frischkäse",
+        "1 TL Knoblauchpulver",
+        "1 EL Apfelessig",
+        "1 Zitrone (Saft)",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Zitrone auspressen.",
+        "In einer Schüssel alle Zutaten verrühren, Zitronensaft dazurühren.",
+        "Mit Salz & Pfeffer abschmecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

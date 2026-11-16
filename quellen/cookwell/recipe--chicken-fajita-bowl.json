@@ -1,0 +1,58 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/chicken-fajita-bowl",
+  "recipes": [
+    {
+      "name": "Chicken Fajita Bowl",
+      "source_url": "https://app.cookwell.com/recipe/chicken-fajita-bowl",
+      "recipe_id": "https://app.cookwell.com/recipe/chicken-fajita-bowl",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT2H",
+      "ingredients": [
+        "Chicken Thighs, 520 g",
+        "Salt, 4 g",
+        "Cumin, 3 g",
+        "Chili Powder, 3 g",
+        "Chicken bouillon, 2 g",
+        "Bell peppers, 1/2",
+        "Onions, 1/4",
+        "Dried black beans, 110 g",
+        "Water, enough to submerge",
+        "Salt, 1 g",
+        "Cumin, 1 g",
+        "Garlic, 1 clove",
+        "Jalapeños, 1/2",
+        "Cooking oil, 10 g",
+        "White rice, 180 g",
+        "Water, 250 g",
+        "Onions",
+        "Roma tomatoes",
+        "Cooking oil",
+        "Salt",
+        "Low-fat sour cream, ~60 g",
+        "Lettuce",
+        "Cilantro"
+      ],
+      "instructions": [
+        "Add the dried black beans to a pot and cover them with plenty of water. Bring everything to a boil, then season with salt. Reduce to a gentle simmer and cook for about 1½ hours, or until the beans are tender. If you're short on time, substitute two cans of drained and rinsed black beans, and skip ahead to Step 5.",
+        "While the beans simmer, trim any excess fat from the chicken thighs and cut them into bite-size pieces. Season the chicken with the salt, cumin, chili powder, and chicken bouillon. Mix until evenly coated, then refrigerate to marinate while you prepare the remaining components.",
+        "Heat the cooking oil in a skillet over medium heat. Add the onion and tomato and sauté until softened, about 2–3 minutes. Stir in the rice and toast until the grains smell nutty and lightly change color. Transfer everything to a rice cooker with the water and salt. Cook until the rice is tender and the liquid has been absorbed, about 25 minutes. Alternatively, just finish by simmering on the stove, covered, on low heat until rice is tender. Fluff with a fork before serving.",
+        "Heat a large skillet or griddle over medium-high heat. Add a thin layer of oil to the cooking surface. Spread the marinated chicken into an even layer to sear, and add the bell pepper and onion on top. Let everything brown before stirring, then continue cooking until the chicken is cooked through and the vegetables are tender with a little char.",
+        "Once the beans are tender, you can infuse them with aromatics to finish, which is optional but improves the flavor. Heat the cooking oil in a skillet over medium heat. Add the cumin and let it bloom for about 30 seconds until fragrant. Stir in the garlic and jalapeño and sauté briefly until aromatic. Using a slotted spoon, add the cooked black beans (without their liquid) to the pan. Toss until coated in the seasoned oil and heated through. Taste and adjust with salt as needed.",
+        "Divide the Mexican rice between serving bowls. Top with the seasoned black beans, followed by the fajita chicken, peppers, and onions. Finish with shredded lettuce, chopped cilantro, and a generous dollop of low-fat sour cream."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

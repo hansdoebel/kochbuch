@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.recipetineats.com/honey-mustard-dipping-sauce/",
+  "recipes": [
+    {
+      "name": "Honey Mustard Dipping Sauce",
+      "source_url": "https://www.recipetineats.com/honey-mustard-dipping-sauce/",
+      "recipe_id": "https://www.recipetineats.com/honey-mustard-dipping-sauce/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "0.75",
+        "0.75 cup (180 ml)"
+      ],
+      "prep_time": "PT3M",
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1/2 cup mayonnaise",
+        "2 tbsp dijon mustard",
+        "2 tbsp honey",
+        "1 - 2 tsp apple cider vinegar or lemon juice",
+        "Pinch of salt and white pepper ((sub black))"
+      ],
+      "instructions": [
+        "Mix the ingredients together, starting with 1 teaspoon of vinegar or lemon juice, then adding the other if you want it a bit tangier. Ready to use!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. Whole egg mayonnaise (the label will specify as such) is creamier, smoother and more balanced than regular mayonnaise which is typically sharper and/or sweeter. Keeps for 2 – 3 weeks in the fridge. Nutrition per serving, assuming 6 servings."
+  ]
+}

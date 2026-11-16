@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/gingerbread-oatmeal-with-caramelized-pear-731",
+  "recipes": [
+    {
+      "name": "Gingerbread Oatmeal with Caramelized Pear",
+      "source_url": "https://www.pickuplimes.com/recipe/gingerbread-oatmeal-with-caramelized-pear-731",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT10M",
+      "total_time": "PT15M",
+      "ingredients": [
+        "1 cup rolled oats",
+        "2 cup unsweetened soy milk",
+        "1 tsp ground cinnamon",
+        "½ tsp ground ginger",
+        "¼ tsp ground cloves",
+        "⅛ tsp ground allspice",
+        "2 Tbsp ground flaxseeds",
+        "2 tsp maple syrup",
+        "1 tsp blackstrap molasses",
+        "1 pear",
+        "2 tsp maple syrup",
+        "½ cup unsweetened coconut yogurt",
+        "3 Tbsp unsalted roasted pecans"
+      ],
+      "instructions": [
+        "In a saucepan, combine the oats, milk, cinnamon, ginger, cloves, and allspice. Bring to a gentle boil, then reduce to a simmer for 5 minutes, stirring occasionally.",
+        "Meanwhile, to a medium pan over medium-high heat, add the sliced pear and the maple syrup. Let the pear caramelize for about 4 minutes while stirring and flipping the pear slices occasionally. Take off the heat.",
+        "To the saucepan of oatmeal, add the flaxseeds, maple syrup, and molasses and let it cook for another 1 to 2 minutes. Add more milk if you prefer a thinner consistency.",
+        "Divide the oatmeal, caramelized pear, yogurt, and pecans between the bowls. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store the oatmeal, without toppings, in an airtight container in the fridge for up to 2 days. The caramelized pear can also be stored separately in the fridge for up to 2 days."
+  ]
+}

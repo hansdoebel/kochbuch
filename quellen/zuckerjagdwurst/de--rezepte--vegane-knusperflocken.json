@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-knusperflocken",
+  "recipes": [
+    {
+      "name": "Vegane Knusperflocken",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-knusperflocken",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-knusperflocken#recipe-e024ba40-be29-59eb-81d1-08d27f6f1b29",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "40-45 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "65 g (ca. 5 Scheiben) Roggenknäckebrot",
+        "70 g Haferflocken",
+        "250 g Zartbitterschokolade",
+        "0.25 TL Salz",
+        "1 TL Kokosöl (optional)"
+      ],
+      "instructions": [
+        "Roggenknäckebrot entweder in einer Schüssel zerkrümeln, in einem Mörser zerstoßen oder in einem Zerkleinerer zu kleinen Stücken verarbeiten. Haferflocken dazugeben und beides gemeinsam zerkleinern. Ein paar größere Stückchen können gern dabei sein, denn dann werden die Knusperflocken auch wirklich erst knusprig.",
+        "Zartbitterschokolade grob hacken und zusammen mit Kokosöl über dem Wasserbad schmelzen lassen. Dafür packt ihr beides in eine hitzefeste Schüssel oder einen Topf und stellt das Ganze über einen größeren Topf mit köchelndem Wasser.",
+        "Sobald die Schokolade geschmolzen ist, die Schüssel oder den Topf vom Herd nehmen und die Knäckebrotmischung unterrühren. Danach ein paar Minuten abkühlen lassen.",
+        "Die Schokoladenmischung mit einem Löffel in kleinen Tupfern auf Backpapier oder eine Silikonbackmatte geben.",
+        "Die Knusperflocken anschließend im Kühlschrank oder bei Raumtemperatur trocknen lassen. Sie halten sich sowohl kühl als auch in einem Behälter bei Zimmertemperatur."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

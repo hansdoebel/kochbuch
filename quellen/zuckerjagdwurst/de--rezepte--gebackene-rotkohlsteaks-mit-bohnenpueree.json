@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gebackene-rotkohlsteaks-mit-bohnenpueree",
+  "recipes": [
+    {
+      "name": "Gebackene Rotkohlsteaks mit Bohnenpüree",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gebackene-rotkohlsteaks-mit-bohnenpueree",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gebackene-rotkohlsteaks-mit-bohnenpueree#recipe-43c86f54-cbb9-568d-bfb5-48970fa974be",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Für die Rotkohl-Steaks:",
+        "1 kleiner Rotkohl (ca. 800 g)",
+        "50 ml Hygge-Punsch (z. B. von Voelkel)",
+        "2 EL Apfelessig",
+        "3 EL Olivenöl",
+        "1 TL Senf",
+        "1 Knoblauchzehe",
+        "1 TL frisch geriebener Ingwer",
+        "1 Prise Zimt",
+        "Salz",
+        "Pfeffer",
+        "Für das weiße Bohnenpüree:",
+        "500 g gekochte weiße Bohnen (Abtropfgewicht)",
+        "0.5 Zitrone",
+        "1 Knoblauchzehe",
+        "1 Prise Muskat",
+        "1 Prise Zimt",
+        "Salz",
+        "Pfeffer",
+        "Für das Topping:",
+        "30 g Haselnüsse",
+        "100 g veganer Feta auf Nussbasis",
+        "0.5 Zitrone",
+        "frischer Thymian",
+        "Chili Crisp"
+      ],
+      "instructions": [
+        "Den Ofen auf 200 °C (Ober-/Unterhitze) vorheizen. Rotkohl waschen und ggf. alte Blätter entfernen. Den Rotkohl in etwa 4–5 Scheiben mit einer Dicke von 2 cm schneiden. Den Strunk nur leicht entfernen, damit die Scheiben weiterhin zusammenhalten. Dann auf ein mit Backpapier belegtes Blech legen.",
+        "Punsch, Essig, Öl, Senf, gepressten Knoblauch, geriebenen Ingwer, Zimt, Salz und Pfeffer gut verrühren. Die Marinade auf den Rotkohl-Steaks verteilen.",
+        "Haselnüsse hacken, den veganen Feta fein zerkrümeln und die Rotkohl-Steaks damit toppen.",
+        "Die Rotkohl-Steaks im vorgeheizten Ofen etwa 30 Minuten backen. Falls der vegane Feta am Ende noch nicht braun genug geworden ist für 3–4 Minuten mit Grillfunktion backen.",
+        "Während der Rotkohl im Ofen ist, die Bohnen aus dem Glas abtropfen lassen, aber die Flüssigkeit aufbewahren. Die Bohnen mit Zitronensaft, Knoblauch, Muskat, Zimt, Salz und Pfeffer cremig pürieren. Gegebenenfalls etwas von der Flüssigkeit nach und nach hinzugeben, bis eine cremige Konsistenz entsteht.",
+        "Bohnenpüree auf die Teller streichen, Rotkohlsteak darauflegen und mit Thymian, Zitronenscheiben und etwas Chili Crisp toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

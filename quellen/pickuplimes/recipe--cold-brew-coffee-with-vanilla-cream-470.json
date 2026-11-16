@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/cold-brew-coffee-with-vanilla-cream-470",
+  "recipes": [
+    {
+      "name": "Cold Brew Coffee with Vanilla Cream",
+      "source_url": "https://www.pickuplimes.com/recipe/cold-brew-coffee-with-vanilla-cream-470",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT07M",
+      "cook_time": "",
+      "total_time": "PT12H07M",
+      "ingredients": [
+        "1 cup whole coffee beans",
+        "3 cup water",
+        "1 cup vegan whipping cream",
+        "½ cup unsweetened soy milk",
+        "1 Tbsp pure vanilla extract",
+        "1 Tbsp agave syrup",
+        "1½ cup cold water",
+        "1¼ cup ice cubes"
+      ],
+      "instructions": [
+        "Grind the coffee beans to a medium-coarse consistency.",
+        "In a French press or large mason jar, combine the coffee grinds and water. Stir and top with the lid. Steep at room temperature or in the fridge for 12 to 24 hours. The longer it sits, the stronger the coffee taste.",
+        "To make the vanilla cream, combine the cream, soy milk, vanilla, and agave syrup in a separate jar, and store in the fridge until ready to use.",
+        "The next day, place a strainer over a bowl lined with cheese cloth (or nut milk bag). Strain the grounds through the cheesecloth. If desired, filter the coffee through a second time to remove any residual ground beans. The liquid that remains in the bowl is now your cold brew coffee concentrate!",
+        "To make the drink, fill a glass with ice. Then pour in 2 parts cold brew concentrate, 1 part cold water, and 1 part vanilla cream. Stir and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We used a 23% fat soy-based liquid cream used to traditionally make whipped cream.",
+    "Storage The cold brew concentrate can be kept in the fridge in a large glass container for up to 1 week. The vanilla cream can also be stored in the fridge for up to 5 days."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/smashed-italian-sausage-hoagie",
+  "recipes": [
+    {
+      "name": "Smashed Italian Sausage Hoagie",
+      "source_url": "https://app.cookwell.com/recipe/smashed-italian-sausage-hoagie",
+      "recipe_id": "https://app.cookwell.com/recipe/smashed-italian-sausage-hoagie",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 sandwich",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Hoagie rolls, 1",
+        "Italian Sausage, 180 g",
+        "Shallots, 1/2",
+        "Provolone, 2 slices",
+        "Marinara, to taste",
+        "Pickled onions, to taste",
+        "Italian Seasoning, a sprinkle"
+      ],
+      "instructions": [
+        "On a sheet tray, plate, or parchment paper, flatten & form the Italian sausage into a “hoagie patty”: press it into a cohesive flattened rectangle that is slightly wider and longer than the bread. It will shrink to size during cooking. If you have sausage links instead of loose ground sausage, remove their casing beforehand. Evenly spread the sliced onions over the meat patty and gently press them into the meat.",
+        "Preheat a cast iron pan or griddle over high heat. Once hot, flip the Italian sausage patty onto the cooking surface, onion side down, just like you would for an Oklahoma onion smash burger. You shouldn't need to add extra oil since the fat content from the sausage will render out. Allow the meat to sear undisturbed on the onion side for a few minutes, or until you see light charring.",
+        "Flip the patty. If it has fallen apart, arrange it back into its hoagie shape. Add a few spoonfuls of marinara sauce over the meat, followed by two slices of provolone cheese, which will help glue everything together. Add a splash of water to the pan, and cover with a lid, foil, or metal bowl. This will create steam that will melt the cheese and finish cooking everything through. Once the cheese is melted, turn off the heat, and add a sprinkle of Italian seasoning over the top.",
+        "Warm or toast the bread as desired and slice to open. Add an extra spread of marinara to the inside of the hoagie, then transfer the cooked, cheesy sausage patty to the hoagie roll. Top with pickled onions, then transfer to a piece of foil and tightly wrap. This will let everything steam, soften, and come together for a sandwich shop experience. Enjoy warm."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

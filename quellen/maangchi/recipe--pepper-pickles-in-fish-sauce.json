@@ -1,0 +1,161 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/pepper-pickles-in-fish-sauce",
+  "recipes": [
+    {
+      "name": "Pepper pickles in fish sauce",
+      "source_url": "https://www.maangchi.com/recipe/pepper-pickles-in-fish-sauce",
+      "recipe_id": null,
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "2 pounds Korean green chili peppers (not spicy), washed and drained",
+        "8 cups water",
+        "1¼ cup fish sauce",
+        "½ cup kosher salt",
+        "12 large dried anchovies (2½ inch long), heads and guts removed",
+        "a one gallon glass jar",
+        "a toothpick or a metal chopstick",
+        "weights for pickle making (or rocks that fit into the jar)"
+      ],
+      "instructions": [
+        "Cut off the stems of the peppers, leaving about ½ inch at the top.",
+        "Make a hole with a toothpick or metal chopstick on each pepper, just under the stem. These holes will allow the brine to seep into the pepper.",
+        "Put the peppers into the glass jar.",
+        "Set it aside.",
+        "Combine the water, fish sauce, salt, and the anchovies in a pot. Cover and cook over medium high heat for about 30 minutes.",
+        "Remove from the heat, discard the anchovies, and cool it down thoroughly. You will get about 7 cups nice savory brine.",
+        "Add the brine to the peppers in the jar. Keep the peppers submerged in the brine by weighing them down with pickle weights or rocks (or anything else handy)",
+        "Cool down, cover, and refrigerate for 24 hours.",
+        "Open the jar, take out the weights, and pour the brine out of the jar into a pot.",
+        "Cook until vigorously boiling for about 20 minutes over medium high heat. Remove from the heat and cool it down thoroughly.",
+        "Pour the cooled brine back into the jar. Place the weights and cover.",
+        "Refrigerate for 1 week and start eating."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "2 pounds Korean green chili peppers (not spicy), washed and drained"
+        },
+        {
+          "tag": "li",
+          "text": "8 cups water"
+        },
+        {
+          "tag": "li",
+          "text": "1¼ cup fish sauce"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "12 large dried anchovies (2½ inch long), heads and guts removed"
+        },
+        {
+          "tag": "h2",
+          "text": "Equipment needed"
+        },
+        {
+          "tag": "li",
+          "text": "a one gallon glass jar"
+        },
+        {
+          "tag": "li",
+          "text": "a toothpick or a metal chopstick"
+        },
+        {
+          "tag": "li",
+          "text": "weights for pickle making (or rocks that fit into the jar)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the peppers:"
+        },
+        {
+          "tag": "li",
+          "text": "Cut off the stems of the peppers, leaving about ½ inch at the top."
+        },
+        {
+          "tag": "li",
+          "text": "Make a hole with a toothpick or metal chopstick on each pepper, just under the stem. These holes will allow the brine to seep into the pepper."
+        },
+        {
+          "tag": "li",
+          "text": "Put the peppers into the glass jar."
+        },
+        {
+          "tag": "li",
+          "text": "Set it aside."
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the brine:"
+        },
+        {
+          "tag": "li",
+          "text": "Combine the water, fish sauce, salt, and the anchovies in a pot. Cover and cook over medium high heat for about 30 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat, discard the anchovies, and cool it down thoroughly. You will get about 7 cups nice savory brine."
+        },
+        {
+          "tag": "h3",
+          "text": "Add the brine into the peppers:"
+        },
+        {
+          "tag": "li",
+          "text": "Add the brine to the peppers in the jar. Keep the peppers submerged in the brine by weighing them down with pickle weights or rocks (or anything else handy)"
+        },
+        {
+          "tag": "li",
+          "text": "Cool down, cover, and refrigerate for 24 hours."
+        },
+        {
+          "tag": "h3",
+          "text": "Finish the pickles:"
+        },
+        {
+          "tag": "li",
+          "text": "Open the jar, take out the weights, and pour the brine out of the jar into a pot."
+        },
+        {
+          "tag": "li",
+          "text": "Cook until vigorously boiling for about 20 minutes over medium high heat. Remove from the heat and cool it down thoroughly."
+        },
+        {
+          "tag": "li",
+          "text": "Pour the cooled brine back into the jar. Place the weights and cover."
+        },
+        {
+          "tag": "li",
+          "text": "Refrigerate for 1 week and start eating."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [
+    "Kein Recipe-JSON-LD; sichtbare Rezeptkarte mit Originaltitel und sichtbarer Byline erfasst."
+  ],
+  "page_recipe_notes": []
+}

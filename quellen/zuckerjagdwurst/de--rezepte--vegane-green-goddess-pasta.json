@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-green-goddess-pasta",
+  "recipes": [
+    {
+      "name": "Vegane Green Goddess Pasta",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-green-goddess-pasta",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-green-goddess-pasta#recipe-6a4963b2-cb7f-507c-a859-2e7c388498c6",
+      "authors": [
+        "Ronja Gramse"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Nudeln und das Gemüse:",
+        "400 g Spiralnudeln",
+        "300 g Edamame",
+        "200 g Zuckerschoten",
+        "50 g Sonnenblumenkerne",
+        "2 Zucchini",
+        "100 g veganer Parmesan (optional)",
+        "Salz",
+        "Pflanzenöl",
+        "Für die Soße:",
+        "1 Zwiebel",
+        "1 Knoblauch",
+        "30 g frische Kräuter (z. B. Petersilie, Schnittlauch, Basilikum)",
+        "300 g veganer Joghurt",
+        "300 g veganer Frischkäse",
+        "3 EL Senf",
+        "2 TL Agavendicksaft",
+        "2 Zitronen (Saft)",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Für die Soße zunächst Zwiebel und Knoblauch schälen und klein schneiden. Die frischen Kräuter waschen und grob hacken. Anschließend in einer Schüssel veganen Joghurt, veganen Frischkäse, Senf, Agavendicksaft, Zitronensaft, Zwiebel, Knoblauch und frische Kräuter mit einem Pürierstab zu einer grünen Soße pürieren. Mit Salz und Pfeffer abschmecken.",
+        "Gesalzenes Wasser in einem Topf zum Kochen bringen und die Nudeln nach Packungsanleitung al dente kochen. Anschließend das Wasser abgießen und die Nudeln in eine große Schüssel geben und beiseitestellen.",
+        "Parallel dazu einen weiteren Topf mit Wasser zum Kochen bringen und die Edamame und Zuckerschoten darin ca. 5 Minuten blanchieren. Die Sonnenblumenkerne in einer fettfreien Pfanne bei mittlerer Hitze ca. 10 Minuten anrösten. Zwischendurch immer wieder in der Pfanne schwenken, damit sie gleichmäßig rösten und nicht anbrennen.",
+        "Die Zucchini mit einem Spiralschneider in dünne Streifen schneiden. Anschließend eine Pfanne mit Pflanzenöl erhitzen und die „Zoodles” darin ca. 5 Minuten anbraten.",
+        "Sobald die Nudeln gekocht sind, die grüne Soße und das Gemüse zu den Nudeln geben und alles gut vermengen. Mit gerösteten Sonnenblumenkernen, frischen Kräutern und veganem Parmesan servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/bold-filling-lentil-taco-salad-135",
+  "recipes": [
+    {
+      "name": "Lentil Taco Salad",
+      "source_url": "https://www.pickuplimes.com/recipe/bold-filling-lentil-taco-salad-135",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT30M",
+      "cook_time": "",
+      "total_time": "PT30M",
+      "ingredients": [
+        "1½ cup cooked brown lentils",
+        "½ cup raw walnuts",
+        "¼ cup roasted sunflower seeds",
+        "1 tsp extra-virgin olive oil",
+        "1 Tbsp Mexican seasoning",
+        "4 cup romaine lettuce",
+        "1 medium tomato",
+        "1 bell pepper",
+        "½ cucumber",
+        "½ cup canned corn",
+        "¼ cup black olives",
+        "½ cup raw cashews",
+        "⅓ cup boiling water",
+        "1 lime",
+        "2 avocado",
+        "1 lime",
+        "3 garlic clove",
+        "½ small red onion",
+        "1 tsp ground cumin",
+        "½ tsp salt",
+        "1 cup tortilla chips",
+        "½ cup salsa",
+        "1 Tbsp hot sauce"
+      ],
+      "instructions": [
+        "Add all the ingredients for the spiced lentil walnuts to a bowl. Mix and set aside.",
+        "Add all the salad base ingredients to a large bowl. Toss and set aside.",
+        "Add all the cashew lime cream ingredients to a small food processor or blender. Blend until smooth, and add more water if you prefer a thinner consistency.",
+        "To make the guacamole, mash the avocado in a bowl with a fork, then stir in the remaining ingredients. Set aside.",
+        "To assemble, add the salad base to the bottom of your bowl. Top with the lentil-walnut mixture, guacamole, salsa, and cashew cream. Lastly, add the crushed tortilla chips and a drizzle of hot sauce, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store components separately in air-tight containers in the fridge for up to 4 days."
+  ]
+}

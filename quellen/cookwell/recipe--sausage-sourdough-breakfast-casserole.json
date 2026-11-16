@@ -1,0 +1,53 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/sausage-sourdough-breakfast-casserole",
+  "recipes": [
+    {
+      "name": "Sausage & Sourdough Breakfast Casserole",
+      "source_url": "https://app.cookwell.com/recipe/sausage-sourdough-breakfast-casserole",
+      "recipe_id": "https://app.cookwell.com/recipe/sausage-sourdough-breakfast-casserole",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4-8 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT1H10M",
+      "ingredients": [
+        "Eggs, 10",
+        "Fairlife milk, 100 g",
+        "Cottage Cheese, 50 g",
+        "Dijon Mustard, 10 g",
+        "Salt, 3 g",
+        "Black Pepper, to taste",
+        "Butter, for greasing pan",
+        "Turkey breakfast sausage, 450 g",
+        "Sourdough bread, 300 g",
+        "Gruyere, 100 g",
+        "Spinach, 75 g",
+        "Shallots, 1",
+        "Neutral oil, a drizzle",
+        "Chives, for garnish",
+        "Mayonnaise, 50 g",
+        "Ketchup, 50 g",
+        "Hot Sauce, 50 g"
+      ],
+      "instructions": [
+        "Set a large skillet over high heat with a drizzle of oil. Add the breakfast sausage and press it into an even layer against the pan. Let it brown undisturbed for a few minutes, then break it into smaller pieces and continue searing until browned and cooked through. Transfer the sausage to a bowl or plate, leaving any rendered fat behind.",
+        "Add the diced shallot and frozen spinach directly to the same pan, adding a bit more oil if needed. Sauté until the shallot has softened and the spinach has completely thawed. Continue cooking as needed to evaporate any excess moisture from the spinach. Stir the sausage back into the vegetables, then remove the pan from the heat.",
+        "Preheat the oven to 350°F (175°C). Meanwhile, crack the eggs into a large bowl. Add the milk, cottage cheese, mustard, salt, and black pepper. Whisk until everything is evenly combined.",
+        "Lightly grease an 8x8-inch baking dish with butter or oil. Spread most of the bread cubes across the bottom, followed by all of the sausage and spinach mixture. Scatter the remaining bread over the top, leaving some pieces sticking up above the filling. Pour the egg mixture evenly over everything, giving it a moment to settle down between the bread pieces. Finish with the grated cheese over top.",
+        "Transfer to a 350°F (175°C) oven and bake for about 30–40 minutes. Begin checking after 20–25 minutes. The casserole is ready when the center is set and no longer looks wet or soupy.",
+        "While the casserole bakes, combine equal parts ketchup, mayonnaise, and hot sauce and stir until smooth. Thin with a small splash of water if needed for drizzling.",
+        "Let the casserole cool briefly before slicing into portions. Serve warm with a drizzle of the sauce and sliced chives over the top. For leftovers, microwave an individual portion for about 1 minute to warm it through, then sear it briefly in a nonstick skillet to crisp the bottom before serving."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

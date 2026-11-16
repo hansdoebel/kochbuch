@@ -1,0 +1,75 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-snickerdoodles-mit-kuerbis",
+  "recipes": [
+    {
+      "name": "Pumpkin Pie Spice",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-snickerdoodles-mit-kuerbis",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-snickerdoodles-mit-kuerbis#recipe-667af016-a492-57ff-8f83-7d3745100049",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 EL",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "2 TL Zimtpulver",
+        "1 TL Ingwerpulver",
+        "0.5 TL gemahlener Piment",
+        "0.5 TL Muskatnuss"
+      ],
+      "instructions": [
+        "Alle Gewürze in einem kleinen Gefäß vermischen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Vegane Snickerdoodles mit Kürbis",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-snickerdoodles-mit-kuerbis",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-snickerdoodles-mit-kuerbis#recipe-c1bf9192-7c37-5bbd-b4ea-d4a953a63941",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "25 Kekse",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "Für den Teig:",
+        "180 g Hokkaido Kürbis",
+        "200 g vegane Butter",
+        "100 g brauner Zucker",
+        "100 g weißer Zucker",
+        "1 Vanilleschote",
+        "400 g Weizenmehl (Typ 405) oder Dinkelmehl (Typ 603)",
+        "0.5 TL Salz",
+        "1 TL Backpulver",
+        "1 TL Zimt",
+        "1 TL Pumpkin Pie Spice",
+        "150 g vegane Schokodrops",
+        "Für die Zimt-und-Zucker-Schicht:",
+        "50 g weißer Zucker",
+        "1 TL Zimt"
+      ],
+      "instructions": [
+        "Kürbis klein schneiden, in einen Topf mit Wasser geben und circa 15 Minuten kochen, bis die Stücke weich sind. Wasser abgießen, die Kürbisstücke pürieren und abkühlen lassen.",
+        "In einem kleinen Topf vegane Butter schmelzen und braunen und weißen Zucker unterrühren. Vanilleschote längs halbieren, das Mark mit dem Messerrücken herauskratzen und ebenfalls dazugeben. Auch das abgekühlte Kürbispüree hinzugeben.",
+        "In einer großen Schüssel Mehl, Salz, Backpulver, Zimt und Pumpkin Pie Spice vermischen. Die feuchten Zutaten mit in die Schüssel geben, gut verkneten und die Schokotropfen unterheben. Den Teig für 30 Minuten in den Kühlschrank stellen.",
+        "Ofen auf 180 °C (Umluft) vorheizen. Zucker und Zimt für die Ummantelung der Kekse in einer kleinen Schüssel vermengen.",
+        "Je 1 Esslöffel Teig zu einer Kugel formen, in Zucker und Zimt rollen und auf dem Backpapier etwas plattdrücken. So mit dem restlichen Teig vorgehen, bis er aufgebraucht ist. Die Snickerdoodles 10 Minuten bei 180 °C (Umluft) backen. Nach dem Backen sind die Kekse noch sehr weich, daher am besten auf dem Blech erkalten lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

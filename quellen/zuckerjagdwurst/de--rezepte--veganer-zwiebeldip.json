@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zwiebeldip",
+  "recipes": [
+    {
+      "name": "Veganer Zwiebeldip",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zwiebeldip",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zwiebeldip#recipe-b824e934-27c2-5552-b8e4-846471fa76eb",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "600 g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "4 große, helle Zwiebeln (etwa 250 g)",
+        "2 Knoblauchzehen",
+        "1 EL pflanzliches Öl",
+        "1 EL vegane Butter",
+        "2 EL Agavendicksaft",
+        "400 g Seidentofu",
+        "100 ml pflanzliche Sahne",
+        "50 g Cashews (mind. 30 Minuten in warmem Wasser eingelegt)",
+        "1 EL Apfelessig naturtrüb",
+        "2 Jalapeno-Scheiben",
+        "3 EL Hefeflocken",
+        "1 TL Paprikapulver",
+        "1 TL Cayenne Pfeffer",
+        "Salz&Pfeffer"
+      ],
+      "instructions": [
+        "Zwiebeln und Knoblauch schälen. Die Zwiebeln in dünne Ringe schneiden, den Knoblauch einmal mit dem Messerrücken leicht zerdrücken.",
+        "Zwiebelringe und Knoblauch in einer großen Pfanne glasig braten. Dafür 1 EL Öl und 1 EL vegane Butter in einer Pfanne erhitzen.",
+        "Sobald die Zwiebeln glasig sind, gebt ihr einen Schuss Agavendicksaft dazu und lasst das ganze etwa 2 Minuten karamellisieren.",
+        "Im Mixer Seidentofu, eingeweichte Cashewkerne, vegane Sahne, Hefeflocken, Jalapeno-Scheiben und Apfelessig pürieren.",
+        "3/4 der Zwiebel-Knoblauch-Mischung dazugeben (den Rest für später zur Seite stellen). Erneut cremig pürieren.",
+        "Danach mit Salz, Pfeffer, Paprika und Cayenne abschmecken und mit den restlichen Zwiebeln garnieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,97 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/doenjang-jjigae",
+  "recipes": [
+    {
+      "name": "Doenjang-jjigae (Fermented soybean paste stew)",
+      "source_url": "https://www.maangchi.com/recipe/doenjang-jjigae",
+      "recipe_id": "/recipe/doenjang-jjigae#sso/recipe/66382",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "Serves 2-4",
+      "prep_time": "P0DT0H15M0S",
+      "cook_time": "P0DT0H35M0S",
+      "total_time": "P0DT0H50M0S",
+      "ingredients": [
+        "1 medium potato, peeled and cut into ½-inch cubes (about 1 cup)",
+        "1 medium onion, cut into ½-inch pieces (about 1 cup)",
+        "1 small zucchini, cut into ½-inch pieces (about 1 cup)",
+        "1 green Korean chili pepper (cheong-gochu), stemmed and chopped",
+        "4 garlic cloves, minced",
+        "4 large shrimp, shelled, deveined, washed, and coarsely chopped (about ⅓ cup)",
+        "2½ cups water",
+        "7 dried anchovies, guts removed",
+        "5 tablespoons fermented soybean paste (doenjang)",
+        "6 ounces medium-firm tofu, cut into ½-inch cubes (about 1 cup)",
+        "2 green onions, chopped"
+      ],
+      "instructions": [
+        "Combine the potato, onion, zucchini, chili pepper, garlic, and shrimp in a 1½-quart (6 cups) earthenware pot or other heavy pot. Wrap the dried anchovies in cheesecloth (or a dashi bag, a pouch for stock-making sold at a Korean grocery store), and put them into the pot with other ingredients Add water and cover.",
+        "Cook over medium-high heat for 15 minutes until it starts boiling. If you use a stainless steel pot, it will take less than 15 minutes, about 7 to 8 minutes.",
+        "Stir in the soybean paste, mixing well. Cover and cook for 20 minutes longer over medium heat. Add the tofu and cook for another 3 minutes. Remove the anchovy pouch and discard.",
+        "Sprinkle with the green onions and serve as a side dish to rice. Serve it directly from the pot, or transfer to a serving bowl. Everybody can eat together out of the pot, or portions can be ladled out in individual bowls for each person."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 2-4"
+        },
+        {
+          "tag": "li",
+          "text": "1 medium potato, peeled and cut into ½-inch cubes (about 1 cup)"
+        },
+        {
+          "tag": "li",
+          "text": "1 medium onion, cut into ½-inch pieces (about 1 cup)"
+        },
+        {
+          "tag": "li",
+          "text": "1 small zucchini, cut into ½-inch pieces (about 1 cup)"
+        },
+        {
+          "tag": "li",
+          "text": "1 green Korean chili pepper (cheong-gochu), stemmed and chopped"
+        },
+        {
+          "tag": "li",
+          "text": "4 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "4 large shrimp, shelled, deveined, washed, and coarsely chopped (about ⅓ cup)"
+        },
+        {
+          "tag": "li",
+          "text": "2½ cups water"
+        },
+        {
+          "tag": "li",
+          "text": "7 dried anchovies, guts removed"
+        },
+        {
+          "tag": "li",
+          "text": "5 tablespoons fermented soybean paste (doenjang)"
+        },
+        {
+          "tag": "li",
+          "text": "6 ounces medium-firm tofu, cut into ½-inch cubes (about 1 cup)"
+        },
+        {
+          "tag": "li",
+          "text": "2 green onions, chopped"
+        }
+      ],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

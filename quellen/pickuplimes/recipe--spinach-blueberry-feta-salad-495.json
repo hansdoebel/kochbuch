@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/spinach-blueberry-feta-salad-495",
+  "recipes": [
+    {
+      "name": "Spinach, Blueberry & \"Feta\" Salad",
+      "source_url": "https://www.pickuplimes.com/recipe/spinach-blueberry-feta-salad-495",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT03H10M",
+      "ingredients": [
+        "5.644 oz firm tofu",
+        "¼ cup refined coconut oil",
+        "1 Tbsp apple cider vinegar",
+        "1 tsp nutritional yeast flakes",
+        "½ tsp salt",
+        "½ tsp onion powder",
+        "⅛ tsp dried dill",
+        "¼ cup vegan mayonnaise",
+        "2 Tbsp agave syrup",
+        "2 Tbsp apple cider vinegar",
+        "1 Tbsp vegetable oil",
+        "1 Tbsp poppy seeds",
+        "½ tsp Dijon mustard",
+        "¼ tsp onion powder",
+        "¼ tsp salt",
+        "6 cup spinach",
+        "1 cup fresh blueberries",
+        "1 medium shallot",
+        "½ cup unsalted roasted walnuts"
+      ],
+      "instructions": [
+        "Add all the \"feta\" ingredients to a small food processor and blend until creamy. Transfer to an airtight container and store in the fridge for at least 3 hours to harden*.",
+        "For the dressing, combine the ingredients in a small bowl.",
+        "To assemble the salad, add the spinach, blueberries and shallot to a large bowl. Drizzle over some dressing and toss to coat.",
+        "Top with a crumbling of the feta and the chopped walnuts. Serve with extra dressing and feta on the side. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Refined coconut oil is coconut oil that doesn't smell or taste like coconuts. Using refined coconut oil is preferred to unrefined as the feta retains a more neutral flavour. * The longer it sits in the fridge, the more crumbly the texture will become.",
+    "Storage The undressed salad can be store in an airtight container in the fridge for up to 3 days. The poppyseed dressing can be kept in a sealed glass jar for up to 4 days. The tofu feta can be kept in its container for up to 5 days."
+  ]
+}

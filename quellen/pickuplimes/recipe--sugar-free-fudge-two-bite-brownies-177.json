@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/sugar-free-fudge-two-bite-brownies-177",
+  "recipes": [
+    {
+      "name": "Sugar-Free Fudgy Two-Bite Brownies",
+      "source_url": "https://www.pickuplimes.com/recipe/sugar-free-fudge-two-bite-brownies-177",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "15 brownies",
+      "prep_time": "PT10M",
+      "cook_time": "PT25M",
+      "total_time": "PT35M",
+      "ingredients": [
+        "1 Tbsp ground flaxseeds",
+        "½ cup unsweetened soy milk",
+        "¼ cup unsalted roasted hazelnuts",
+        "¾ cup Medjool date",
+        "⅓ cup Dutch-process cocoa powder",
+        "¼ cup almond butter",
+        "1 tsp pure vanilla extract",
+        "1 tsp instant coffee granules",
+        "¼ tsp salt",
+        "⅓ cup dairy-free dark chocolate chips"
+      ],
+      "instructions": [
+        "Line or oil a mini muffin pan. Preheat the oven to 350°F (180°C)*.",
+        "Combine the ground flaxseeds and milk in a large bowl. Set aside.",
+        "Add the hazelnuts and dates to a food processor and blend until smooth.",
+        "Transfer the mixture to the large bowl as well, and add all the remaining ingredients. Mix until well combined.",
+        "Spoon a tablespoon of batter into each well. Bake on the centre rack for 22 to 25 minutes or until the top is firm and a toothpick comes out clean.",
+        "Allow to cool for a couple of minutes before removing from the tin. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Store in an airtight container in the fridge for up to 4 days. Keeps frozen for up to 1 month."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/buffalo-pasta-salad-1530",
+  "recipes": [
+    {
+      "name": "Buffalo Pasta Salad",
+      "source_url": "https://www.pickuplimes.com/recipe/buffalo-pasta-salad-1530",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT15M",
+      "cook_time": "PT15M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "2½ cup orecchiette pasta",
+        "2 medium carrot",
+        "2 celery rib",
+        "½ small red onion",
+        "1 cup cherry tomatoes",
+        "¼ cup chopped pickles",
+        "2 tsp olive oil",
+        "1½ cup cooked butter beans",
+        "½ cup vegan mayonnaise",
+        "½ cup unsweetened soy yogurt",
+        "⅓ cup cayenne pepper hot sauce",
+        "1½ Tbsp ranch spice mix"
+      ],
+      "instructions": [
+        "Add the pasta to a pot of salted boiling water and cook for 10 minutes, or until al dente.",
+        "Meanwhile, mix all the dressing ingredients in a small bowl*.",
+        "Chop all the veggies and add them to a large bowl.",
+        "Heat the oil in a small pan over medium-high heat. Cook the beans for 3 to 4 minutes, or until lightly golden. This is an optional step.",
+        "When cooked, add the drained pasta to the large bowl, along with the cooked beans. Pour over the dressing, toss together, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Also known as lima beans. † We used Frank's Red Hot Sauce. * Note, the dressing packs a lot of heat and tang from the cayenne pepper hot sauce (we used Frank's Hot Sauce). For a less spicy and tangy dressing, start with less and add more to taste.",
+    "Storage The salad can be stored in an airtight container in the fridge for up to 3 days."
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gefuellte-crepes-mit-tofu-fuellung-orangen-marmelade",
+  "recipes": [
+    {
+      "name": "Gefüllte Crêpes mit Tofu-Füllung & Orangen-Marmelade",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gefuellte-crepes-mit-tofu-fuellung-orangen-marmelade",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gefuellte-crepes-mit-tofu-fuellung-orangen-marmelade#recipe-0fc0d259-9de4-50f7-bb14-242f03c77d6f",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6-8 gefüllte Crêpes",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für die Tofu-Füllung:",
+        "400 g fester Naturtofu",
+        "200 g Seidentofu",
+        "125 g Puderzucker",
+        "2 EL (14 g) Sahnesteif",
+        "1 Tonkabohne",
+        "Für die Orangen-Marmelade:",
+        "6 Orangen",
+        "200 g Gelierzucker",
+        "Für die Crêpes:",
+        "250 g Weizenmehl Typ 405",
+        "0.5 EL (6 g) Backpulver",
+        "1 TL Vanillezucker (5 g)",
+        "50 g Zucker",
+        "0.25 TL Salz",
+        "200 ml pflanzliche Milch",
+        "300 ml Sprudelwasser",
+        "Pflanzenöl zum Braten"
+      ],
+      "instructions": [
+        "Für die Tofu-Füllung Naturtofu, Seidentofu, Puderzucker und Sahnesteif in einem hohen Gefäß pürieren, bis eine homogene Masse entsteht. Die Tonkabohne mithilfe einer feinen Reibe hinzugeben und dabei immer wieder abschmecken. Die Füllung kalt stellen.",
+        "In der Zwischenzeit bereiten wir die Orangen-Marmelade vor. Dafür fünf der Orangen schälen und in Stücke schneiden. Die letzte Orange auspressen und die Orangenstücke, den Saft und den Gelierzucker in einem kleinen Topf bei mittlerer Hitze etwa 10 Minuten köcheln lassen. Vom Herd nehmen und auf Raumtemperatur abkühlen lassen.",
+        "Für den Crêpe-Teig Mehl in eine Schüssel sieben. Backpulver, Vanillezucker, Zucker und Salz dazugeben und verrühren. Nach und nach pflanzliche Milch und Sprudelwasser dazugeben und alles zu einem glatten, flüssigen Teig verrühren. Er sollte deutlich flüssiger als Pancaketeig sein. Gebt je nach Konsistenz mehr pflanzliche Milch dazu.",
+        "Etwas Pflanzenöl in einer beschichteten Pfanne bei kleiner bis mittlerer Stufe erhitzen. Eine Kelle des Teigs in die Pfanne geben und darin sofort schwenken, damit er sich in der ganzen Pfanne gleichmäßig dünn verteilt. Ca. 2 Minuten anbraten, bis der Crêpe goldbraun ist, dann wenden und von der anderen Seite ebenfalls goldbraun anbraten. Den fertigen Crêpe aus der Pfanne nehmen und beiseitelegen. Mit dem restlichen Teig wiederholen. Der Teig sollte für ca. 10-12 Crêpes reichen.",
+        "Nun werden die Crêpes gefüllt. Dafür 2-3 EL der Tofu-Füllung mittig auf einem Crêpe platzieren und zuerst das untere Ende über die Füllung klappen, dann die Seiten einklappen und am Ende das obere Ende über die Füllung legen. Die Crêpe-Tasche drehen, sodass die „Naht“ nach unten zeigt. Mit den restlichen Crêpes genauso vorgehen. Die gefüllten Crêpes auf einer großen Platte mit Orangen-Marmelade servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

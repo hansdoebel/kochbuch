@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-one-pot-udon-nudeln-mit-ingwer-gemuese-und-tofu",
+  "recipes": [
+    {
+      "name": "Schnelle One Pot Udon Nudeln mit Ingwer-Gemüse und Tofu",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-one-pot-udon-nudeln-mit-ingwer-gemuese-und-tofu",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-one-pot-udon-nudeln-mit-ingwer-gemuese-und-tofu#recipe-2228cd2d-5911-5c14-9be4-49fc748832d1",
+      "authors": [
+        "Anneke Schügner"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "2 Knoblauchzehen",
+        "1 kleine entkernte Chilischote (optional)",
+        "150 g frittierter Tofu",
+        "1 rote Zwiebel",
+        "100 g grüne Bohnen",
+        "100 g Brokkoli",
+        "60 g Shiitakepilze",
+        "50 g Mangold",
+        "0.5 Zucchini",
+        "1 rote Paprika",
+        "1 Pak Choi",
+        "1 EL Kokosöl",
+        "150 ml Ingwer Sirup (z. B. von Voelkel)",
+        "50 ml Sojasoße",
+        "1 EL helle Misopaste (optional)",
+        "2 TL Speisestärke",
+        "400 g Udon Nudeln",
+        "Erdnüsse (optional)",
+        "Koriander (optional)",
+        "Limetten (optional)"
+      ],
+      "instructions": [
+        "Knoblauch fein hacken. Chili in feine Ringe und den Tofu in Scheiben schneiden. Zwiebel, Bohnen, Brokkoli, Shiitakepilze, Mangold, Zucchini, Paprika und Pak Choi nach Belieben klein schneiden.",
+        "Kokosöl, Ingwer Sirup, Sojasoße und Misopaste in eine große Pfanne geben, unter ständigem Rühren aufkochen und für ca. 5 Minuten bei mittlerer Hitze reduzieren. Die Soße sollte nun merklich angedickt sein. Die Speisestärke mit ca. 1 EL Wasser mixen und zur Soße geben.",
+        "Nun zunächst Zwiebeln, Knoblauch und Chilli zur Soße geben und für ca. 1-2 Minuten leicht andünsten. Als nächstes Bohnen und Brokkoli hinzugeben und bei mittlerer Hitze ca. 4 Minuten köcheln. Nun auch das restliche Gemüse und die Udon Nudeln hinzugeben, gut umrühren und köcheln lassen, bis das Gemüse den gewünschten Gargrad hat. Den Tofu hinzugeben und unterrühren. Optional mit Erdnüssen, Koriander und Limettensaft servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

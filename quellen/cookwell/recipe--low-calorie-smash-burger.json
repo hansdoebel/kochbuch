@@ -1,0 +1,40 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/low-calorie-smash-burger",
+  "recipes": [
+    {
+      "name": "Low Calorie Weeknight Burger",
+      "source_url": "https://app.cookwell.com/recipe/low-calorie-smash-burger",
+      "recipe_id": "https://app.cookwell.com/recipe/low-calorie-smash-burger",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 serving",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "Ground beef, 125 g",
+        "American Cheese, 1 slice",
+        "Salt",
+        "Hamburger buns, 1",
+        "Ketchup",
+        "Dijon Mustard",
+        "Red Onions",
+        "Pickles",
+        "Lettuce"
+      ],
+      "instructions": [
+        "Heat a griddle or a pan to high heat. Shape the ground beef into a ball and place on the griddle. Sprinkle salt on top of the patty and smash it into the griddle, making it flat. Sear on one side until browned and crispy. Flip over the patty and place the slice of cheese on top. Cook the patty until browned on the other side, and the cheese has begun to melt.",
+        "Add a squirt of ketchup and dijon to the bun and spread evenly. Add the diced onions, pickles, lettuce, and the cooked patty. Close the burger and enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

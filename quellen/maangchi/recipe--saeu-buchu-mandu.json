@@ -1,0 +1,168 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/saeu-buchu-mandu",
+  "recipes": [
+    {
+      "name": "Shrimp & Asian chive dumplings",
+      "source_url": "https://www.maangchi.com/recipe/saeu-buchu-mandu",
+      "recipe_id": "/recipe/saeu-buchu-mandu#sso/recipe/68264",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 package (25 pieces) of dumpling wrappers (store-bought or made at home), thawed out in the fridge",
+        "8 ounces shelled, deveined, and cleaned shrimp, chopped",
+        "4 ounces Asian chives (or green onions), chopped",
+        "4 ounces of soft tofu, squeezed out excess water",
+        "½ teaspoon kosher salt",
+        "½ teaspoon ground black pepper",
+        "2 teaspoons toasted sesame oil",
+        "1 tablespoon potato starch",
+        "2 teaspoons soy sauce",
+        "1 teaspoon vinegar",
+        "½ teaspoon Korean hot pepper flakes (gochugaru)",
+        "½ teaspoon toasted sesame seeds, crushed"
+      ],
+      "instructions": [
+        "Mix the dipping sauce ingredients (soy sauce, vinegar, hot pepper flakes, and sesame seeds) in a small bowl. Set aside.",
+        "Combine shrimp, Asian chives, tofu, kosher salt, ground black pepper, toasted sesame oil, and potato starch in a bowl and mix well with a spoon.",
+        "Put a wrapper on your palm and put some water on the edge of the wrapper. Add 1 to 2 tablespoons of filling to the center of the wrapper and fold it along the edge to seal.",
+        "Fold ripples into the edge to hold it together and make a nice looking pouch.",
+        "Repeat until you’ve made mandu from all your fillings.",
+        "Boil water in a steamer. Line the steamer rack or basket with a parchment paper.",
+        "Place some mandu in the steamer basket and steam for 15 to 20 minutes.",
+        "Remove from the heat. If you use a bamboo steamer, you can put it directly on the table. Otherwise, it will be easier to plate the mandu before serving.",
+        "Serve with the dipping sauce"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Makes 25 dumplings"
+        },
+        {
+          "tag": "li",
+          "text": "1 package (25 pieces) of dumpling wrappers (store-bought or made at home), thawed out in the fridge"
+        },
+        {
+          "tag": "li",
+          "text": "8 ounces shelled, deveined, and cleaned shrimp, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "4 ounces Asian chives (or green onions), chopped"
+        },
+        {
+          "tag": "li",
+          "text": "4 ounces of soft tofu, squeezed out excess water"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon ground black pepper"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon potato starch"
+        },
+        {
+          "tag": "h3",
+          "text": "For dipping sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon Korean hot pepper flakes (gochugaru)"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon toasted sesame seeds, crushed"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Make the dipping sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "Mix the dipping sauce ingredients (soy sauce, vinegar, hot pepper flakes, and sesame seeds) in a small bowl. Set aside."
+        },
+        {
+          "tag": "h3",
+          "text": "Make the filling:"
+        },
+        {
+          "tag": "li",
+          "text": "Combine shrimp, Asian chives, tofu, kosher salt, ground black pepper, toasted sesame oil, and potato starch in a bowl and mix well with a spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Put a wrapper on your palm and put some water on the edge of the wrapper. Add 1 to 2 tablespoons of filling to the center of the wrapper and fold it along the edge to seal."
+        },
+        {
+          "tag": "li",
+          "text": "Fold ripples into the edge to hold it together and make a nice looking pouch."
+        },
+        {
+          "tag": "li",
+          "text": "Repeat until you’ve made mandu from all your fillings."
+        },
+        {
+          "tag": "h3",
+          "text": "Steam the mandu:"
+        },
+        {
+          "tag": "li",
+          "text": "Boil water in a steamer. Line the steamer rack or basket with a parchment paper."
+        },
+        {
+          "tag": "li",
+          "text": "Place some mandu in the steamer basket and steam for 15 to 20 minutes."
+        },
+        {
+          "tag": "h3",
+          "text": "Serve:"
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat. If you use a bamboo steamer, you can put it directly on the table. Otherwise, it will be easier to plate the mandu before serving."
+        },
+        {
+          "tag": "li",
+          "text": "Serve with the dipping sauce"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

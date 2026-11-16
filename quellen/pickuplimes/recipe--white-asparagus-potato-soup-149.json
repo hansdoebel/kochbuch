@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/white-asparagus-potato-soup-149",
+  "recipes": [
+    {
+      "name": "White Asparagus & Potato Soup",
+      "source_url": "https://www.pickuplimes.com/recipe/white-asparagus-potato-soup-149",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT15M",
+      "cook_time": "PT30M",
+      "total_time": "PT45M",
+      "ingredients": [
+        "22.928 oz white asparagus",
+        "4 cup vegetable broth",
+        "2 tsp olive oil",
+        "1 medium onion",
+        "3 garlic clove",
+        "2 medium potato",
+        "1 tsp sweet paprika powder",
+        "1 pinch ground black pepper"
+      ],
+      "instructions": [
+        "Peel the outer layer of the asparagus with a vegetable peeler. Trim off the ends to remove any tough, woody bits.",
+        "Place the asparagus and vegetable broth in a large pot. Cook at a gentle simmer for 8 to 10 minutes, partially covered with a lid.",
+        "Scoop out the cooked asparagus and transfer to a cutting board. Reserve the cooking liquid. Chop the asparagus into bite-sized pieces and reserve the tips for garnish.",
+        "Heat the oil in a large pot over medium-high heat. Cook the onion until golden, about 4 minutes.",
+        "Add the garlic and cook for another minute, until fragrant.",
+        "Add the remaining ingredients, including the asparagus and reserved broth. Cover with a lid.",
+        "Cook until the potatoes are softened, about 15 minutes. Then use an immersion blender or countertop blender to purée the soup.",
+        "Pour the hot soup into serving bowls. Serve with the reserved asparagus tips and any desired garnish. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 4 days. Store in the freezer for up to 1 month."
+  ]
+}

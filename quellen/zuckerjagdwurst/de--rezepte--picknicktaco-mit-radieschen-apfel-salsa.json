@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/picknicktaco-mit-radieschen-apfel-salsa",
+  "recipes": [
+    {
+      "name": "Picknicktaco mit Radieschen-Apfel-Salsa",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/picknicktaco-mit-radieschen-apfel-salsa",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/picknicktaco-mit-radieschen-apfel-salsa#recipe-3947c3c9-3cec-5dca-9ee6-3eebee68cae5",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "6 weiche Tacos",
+        "FÜR DIE FÜLLUNG",
+        "6-7 Radieschen",
+        "3 EL Kichererbsen",
+        "1 Apfel",
+        "1/2 Bund Petersilie",
+        "100 g Rotkraut",
+        "150 g veganes Hähnchen",
+        "FÜR DAS DRESSING",
+        "1/4 Mango (geschält und in Stücke geschnitten)",
+        "2 EL Senf",
+        "5 EL pflanzlicher Joghurt",
+        "Salz&Pfeffer"
+      ],
+      "instructions": [
+        "Zunächst machen wir uns an die Salsa. Dafür müsst ihr eure Radieschen und den Apfel waschen und in kleine Würfel schneiden.",
+        "In einer Schüssel verrührt ihr Radieschen- und Apfelwürfel mit Kichererbsen und hackt die Petersilie dazu.",
+        "Rotkraut in Scheiben runter schneiden.",
+        "In einer Pfanne mit etwas Öl bratet ihr das Geschnetzelte an, damit es leicht Farbe bekommt.",
+        "Für euer Dressing püriert ihr die Mango. Danach rührt ihr Senf und den pflanzlichen Joghurt unter und schmeckt mit Salz und Pfeffer ab.",
+        "Und schon geht’s los! Mango-Sojajoghurt-Dip auf euren Tacos verteilen, danach Salsa, Rotkraut und veganes Geschnetzeltes draufpacken und nochmal mit etwas Dip begießen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

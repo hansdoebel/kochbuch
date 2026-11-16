@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/reis-mit-pilzragout-in-rahmsosse",
+  "recipes": [
+    {
+      "name": "Reis mit Pilzragout in Rahmsoße",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/reis-mit-pilzragout-in-rahmsosse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/reis-mit-pilzragout-in-rahmsosse#recipe-a39455a2-22d9-5ef3-bda8-3036b67c6608",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "2 EL pflanzliches Öl",
+        "1 Knoblauchzehe",
+        "1 Zwiebel",
+        "250 g Champignons",
+        "100 g Kräuterseitlinge",
+        "100 g Shiitake Pilze",
+        "1/4 Lauch",
+        "1-2 Thymianzweige",
+        "200 ml Sahne",
+        "200 ml Gemüsebrühe",
+        "50 ml Weißwein",
+        "Salz, Pfeffer, Prise Zucker & Muskatnuss",
+        "Zitronensaft",
+        "1/2 Bund Petersilie",
+        "1 Tasse Reis"
+      ],
+      "instructions": [
+        "Reis in der doppelten Menge Wasser kochen. Das Wasser salzen und so lang köcheln, bis das Wasser vom Reis komplett aufgesogen ist, das dauert ca. 20 Minuten. Wenn er euch noch zu bissfest ist, noch etwas mehr Wasser dazugeben.",
+        "Zwiebel und Knoblauch schälen und fein würfeln. Lauch waschen und in Ringe schneiden.",
+        "Die Pilze mit einem feuchten Tuch säubern, Stielenden entfernen und halbieren oder vierteln.",
+        "Eine große, tiefe Pfanne mit Öl erhitzen. Pilze hinzugeben und 3 Minuten darin braten. Anschließend Zwiebel, Lauch und Knoblauch hinzugeben und nochmals 2 Minuten braten.",
+        "Mit der Gemüsebrühe und einem Schluck Weißwein ablöschen und 5 Minuten die Flüßigkeit etwas verkochen lassen. Nun Sahne hinzugeben bis die Konsistenz passt. Noch weiter bubbeln lassen.",
+        "Thymian und Petersilie waschen und trocken schütteln. Einen Zweig Thymian entnadeln und die Petersilienblätter vom Stiel befreien und etwas hacken. Hinzugeben!",
+        "Nun mit Salz, Pfeffer, einer Prise Zucker, etwas Zitronensaft und Muskatnuss abschmecken. Mit dem Reis servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

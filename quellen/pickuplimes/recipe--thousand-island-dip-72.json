@@ -1,0 +1,38 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/thousand-island-dip-72",
+  "recipes": [
+    {
+      "name": "Thousand Island Sauce",
+      "source_url": "https://www.pickuplimes.com/recipe/thousand-island-dip-72",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "⅓ cup vegan mayonnaise",
+        "2 Tbsp ketchup",
+        "2 Tbsp chopped pickles",
+        "1 Tbsp sweet chili sauce",
+        "1 tsp pickle juice",
+        "¼ tsp ground black pepper"
+      ],
+      "instructions": [
+        "Combine all of the ingredients together in a small bowl. Enjoy it as a sauce on burgers!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Keep in an airtight container in the fridge for up to 3 days."
+  ]
+}

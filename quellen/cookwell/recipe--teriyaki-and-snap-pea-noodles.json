@@ -1,0 +1,46 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/teriyaki-and-snap-pea-noodles",
+  "recipes": [
+    {
+      "name": "Teriyaki & Snap Pea Noodles",
+      "source_url": "https://app.cookwell.com/recipe/teriyaki-and-snap-pea-noodles",
+      "recipe_id": "https://app.cookwell.com/recipe/teriyaki-and-snap-pea-noodles",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Cooking oil, a drizzle",
+        "Garlic, 2 cloves",
+        "Fresh ginger, small knob",
+        "Soy Sauce, 1 part",
+        "Mirin, 1 part",
+        "Sake, 1 part",
+        "Sugar, a sprinkle",
+        "Cornstarch, 1 part",
+        "Water, 2 parts",
+        "Ramen Noodles, 2 servings",
+        "Braised beef, ~225 g",
+        "Snow peas, ~113 g",
+        "Salt, a sprinkle",
+        "Sesame Seeds"
+      ],
+      "instructions": [
+        "Set a pot over medium heat and add a drizzle of oil. Add the ginger garlic paste and bloom for about 1 minute to infuse the flavors into the oil. After a minute, pour in the soy sauce, mirin, and sake mixture, and bring it to a simmer. Let it cook and reduce for about 6 minutes. While the sauce is reducing, make the cornstarch slurry by mixing a spoonful of cornstarch into a spoonful of cold water. Add a splash of slurry to the sauce and bring it back to a simmer. Check the thickness and repeat until you've reached your desired consistency. Lastly, taste the sauce and add a spoonful of sugar if needed.",
+        "Place a wok or large pan over high heat and add a drizzle of neutral oil to the pan. Add the snow peas along with a sprinkle of salt and stir fry for about 1 minute. Add in the braised beef, which is already fully cooked, it just needs to be heated and mixed with the peas. If using a different protein, stir fry until well browned and mostly cooked through. Boil & drain the noodles according to package directions.",
+        "Add the cooked and drained noodles to the mix, and stir-fry them into the mix. Start adding drizzles of teriyaki sauce, tossing and stir-frying until the sauce coats everything, or until you've reached your desired sauce level. You might have some extra sauce left over. Serve warm, garnished with a sprinkle of black or white sesame seeds."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

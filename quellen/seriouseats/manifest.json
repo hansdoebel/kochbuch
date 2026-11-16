@@ -1,0 +1,12 @@
+{
+  "publisher": "Serious Eats",
+  "sitemap_url": "https://www.seriouseats.com/robots.txt",
+  "scraped_at": "2026-11-16T22:43:19.437357+00:00",
+  "completed": true,
+  "scope": "Der Herausgeber untersagt automatisiertes Content-Archiving ohne vorherige schriftliche Erlaubnis in https://www.seriouseats.com/robots.txt. Keine Rezeptseiten abgerufen.",
+  "page_count": 0,
+  "recipe_count": 0,
+  "source_status": "excluded",
+  "exclusion_reason": "Der Herausgeber untersagt automatisiertes Content-Archiving ohne vorherige schriftliche Erlaubnis in https://www.seriouseats.com/robots.txt. Keine Rezeptseiten abgerufen.",
+  "pages": []
+}

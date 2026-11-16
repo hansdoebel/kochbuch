@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/homemade-oat-milk-2766",
+  "recipes": [
+    {
+      "name": "Homemade Oat Milk",
+      "source_url": "https://www.pickuplimes.com/recipe/homemade-oat-milk-2766",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT15M",
+      "cook_time": "",
+      "total_time": "PT15M",
+      "ingredients": [
+        "¾ cup rolled oats",
+        "3 cup cold water",
+        "1 Tbsp maple syrup",
+        "1 tsp pure vanilla extract",
+        "1 pinch salt"
+      ],
+      "instructions": [
+        "Add the oats and water to a blender and blend for 30 seconds*.",
+        "Pour the mixture through a fine-mesh strainer into a large bowl.",
+        "Pour the mixture into a cheese cloth or nut milk bag set over a bowl to strain a second time. Let the milk drip slowly and avoid squeezing the bag**.",
+        "Stir through the maple syrup, vanilla, and salt. Test and add more maple syrup if desired. Transfer to a jar or bottle and enjoy chilled!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * Don't over-blend! Blending oats for too long can release too much starch, causing a slimy texture. ** Squeezing the bag can push starchy residue into the milk and lead to a slimy texture. It’s best to let the milk drip naturally.",
+    "Storage Store in an airtight container in the fridge for up to 3 days. Shake well before use. Headsup: this version doesn’t hold up well when heated, as the texture can turn a bit off. For the best result, keep it chilled and enjoy it cold."
+  ]
+}

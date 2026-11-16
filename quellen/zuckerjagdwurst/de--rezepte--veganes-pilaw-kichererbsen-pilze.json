@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-pilaw-kichererbsen-pilze",
+  "recipes": [
+    {
+      "name": "Veganes Pilaw mit Kichererbsen und Pilzen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-pilaw-kichererbsen-pilze",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-pilaw-kichererbsen-pilze#recipe-99713cbb-37a7-597f-83e5-f87f985d96f1",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "2 Knoblauchzehen",
+        "1 rote Zwiebel",
+        "1 Möhre",
+        "200 g braune Champignons",
+        "250 g Kichererbsen",
+        "1 EL gemahlener Koriander",
+        "1 TL Kurkuma",
+        "1 EL gemahlener Kreuzkümmel",
+        "0.5 TL Chiliflocken",
+        "200 g Langkornreis",
+        "500 ml warme Gemüsebrühe",
+        "100 g frischer Spinat",
+        "1 Zitrone",
+        "Pflanzenöl zum Braten",
+        "pflanzlicher Joghurt zum Servieren",
+        "Salz",
+        "Pfeffer",
+        "Für das Pesto:",
+        "50 g gehackte Mandeln",
+        "50 g Petersilie",
+        "15 g Koriander",
+        "1 Knoblauchzehe",
+        "0.5 Zitrone (Saft)",
+        "4 EL veganer Parmesan (optional, oder Hefeflocken)",
+        "ca. 150 ml Olivenöl",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Knoblauch und Zwiebel schälen und fein hacken. Möhre und Champignons klein schneiden und die Kichererbsen abgießen.",
+        "Pflanzenöl in einer großen Pfanne (für später benötigt ihr auch einen Deckel für diese Pfanne) erhitzen und zunächst Zwiebelwürfel ca. 2-3 Minuten glasig anschwitzen. Koriander, Kurkuma, Kreuzkümmel und Chiliflocken, sowie den Knoblauch dazugeben und zusammen ca. 2 Minuten anschwitzen. Nun Möhre, Pilze und Kichererbsen dazugeben. Mit Salz und Pfeffer würzen und gemeinsam ca. 3 Minuten anbraten.",
+        "Anschließend den Reis dazugeben und ebenfalls ca. 2-3 Minuten mit anbraten. Mit warmer Gemüsebrühe ablöschen, einmal aufkochen lassen und anschließend abgedeckt und bei mittlerer Hitze ca. 10-15 Minuten kochen, bis der Reis gar ist.",
+        "In der Zwischenzeit das Pesto zubereiten: Gehackte Mandeln in einer fettfreien Pfanne anrösten und danach in einen Zerkleinerer geben, zusammen mit Petersilie, Koriander, Knoblauch, Zitronensaft und veganem Parmesan (falls ihr ihn verwendet). Alles gut zerkleinern und dabei Olivenöl in einem dünnen Strahl dazugeben, bis euer Pesto die gewünschte Konsistenz hat. Das Pesto mit Salz und Pfeffer abschmecken.",
+        "Den Deckel von der Pfanne nehmen, den Reis auflockern und nun noch frischen Spinat dazugeben und ca. 2-3 Minuten erwärmen bis der Spinat zusammenfällt. Das Pilaf vor dem Servieren nochmal mit Salz und Pfeffer abschmecken. Mit einem Klecks pflanzlichem Joghurt und dem Petersilienpesto servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

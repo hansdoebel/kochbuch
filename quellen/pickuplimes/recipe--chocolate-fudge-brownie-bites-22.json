@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/chocolate-fudge-brownie-bites-22",
+  "recipes": [
+    {
+      "name": "Chocolate Fudge Brownie Bites",
+      "source_url": "https://www.pickuplimes.com/recipe/chocolate-fudge-brownie-bites-22",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "20 brownie bites",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT10M",
+      "ingredients": [
+        "1 cup Medjool date",
+        "1 cup raw walnuts",
+        "½ cup raw cashews",
+        "¼ cup Dutch-process cocoa powder",
+        "⅛ tsp salt",
+        "0.705 oz dairy-free dark chocolate"
+      ],
+      "instructions": [
+        "In a food processor, combine the dates, walnuts, cashews, cocoa powder, and salt. Blend until combined, being careful not to over-process, as this can result in an oily texture.",
+        "Add the chocolate and pulse a few times, until coarsely chopped and incorporated.",
+        "Using your hands, form the mixture into balls. If desired, roll in a decorative coating. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † If hard, soak the dates in warm water for 10 minutes and drain. † We use 50 - 60% cocoa chocolate for a balanced sweetness. Darker varieties (70%+) can make the result too bitter.",
+    "Storage Store in an airtight container in the fridge for up to 2 weeks. Store in the freezer for up to 2 months."
+  ]
+}

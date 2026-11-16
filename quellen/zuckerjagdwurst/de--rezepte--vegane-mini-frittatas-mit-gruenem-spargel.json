@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mini-frittatas-mit-gruenem-spargel",
+  "recipes": [
+    {
+      "name": "Vegane Mini-Frittatas mit grünem Spargel",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mini-frittatas-mit-gruenem-spargel",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mini-frittatas-mit-gruenem-spargel#recipe-f5c8abb0-5e3d-5af8-979d-ba691acf0571",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Mini-Frittatas",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "250 g Grüner Spargel",
+        "2 EL Rapsöl",
+        "1 Knoblauchzehe",
+        "1 Zwiebel",
+        "50 g Babyspinat",
+        "200 g Kichererbsenmehl",
+        "100 ml pflanzliche Milch",
+        "200 g Seidentofu",
+        "1 EL Hefeflocken",
+        "1 TL Kala Namak Salz",
+        "1 TL Kurkuma",
+        "10 g Petersilie",
+        "25 g Ruccola",
+        "Salz & Pfeffer",
+        "optional: Dip aus veganem Quark, Petersilie, Salz & Pfeffer"
+      ],
+      "instructions": [
+        "Den Grünen Spargel waschen und am unteren Ende brechen, sodass die holzigen Enden schnell abgetrennt werden.",
+        "Eine hohe Pfanne mit Wasser erwärmen, salzen und den Spargel darin 5 Minuten bissfest garen.",
+        "Knoblauch und Zwiebel schälen und klein schneiden. Den Babyspinat waschen und abtropfen lassen.",
+        "Eine zweite Pfanne mit etwas Öl erhitzen und Zwiebel und Knoblauch (nur kurz) andünsten. Anschließend den Spinach hinzugeben und weitere 3 Minuten dünsten. Gut mit Salz und Pfeffer würzen.",
+        "In einem Mixer nun alle Zutaten, bis auf den Spargel und den Spinatmix, geben und kurz mixen.",
+        "Den gedünsteten Spargel in kleine Stücken schneiden und die (am besten 12) Spargelköpfe bei Seite legen. Den Grünen Spargel, bis auf die Köpfe, gemeinsam mit dem Spinatmix unter den Frittatateig heben.",
+        "Die 12 Mulden einer Muffinform mit Öl bestreichen und die Frittatfüllung hineingeben. Mit den Spargelköpfen toppen und für 20-25 Minuten bei 180°C backen. Optional: Mit einem Quarkdip toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,48 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/braised-beef-tacos",
+  "recipes": [
+    {
+      "name": "Braised Beef Tacos",
+      "source_url": "https://app.cookwell.com/recipe/braised-beef-tacos",
+      "recipe_id": "https://app.cookwell.com/recipe/braised-beef-tacos",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "Yields 10-20 tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT6H12M",
+      "ingredients": [
+        "Tomato Paste, 30 g",
+        "Guajillo chile powder, 25 g",
+        "Cumin, 25 g",
+        "Beef bouillon paste, 15 g",
+        "Cayenne Pepper, 10 g",
+        "Garlic, 6 cloves",
+        "Chuck roast, 1",
+        "Water, 1.5 liters",
+        "Salt",
+        "Corn tortillas",
+        "Cilantro",
+        "Limes",
+        "Onions",
+        "Hot Sauce"
+      ],
+      "instructions": [
+        "Salt the chuck roast and let it brine for 30 minutes. Optionally, dry brine it in the refrigerator over night. Set a dutch oven over high heat and add a drizzle of oil. Add the roast to the pot and let it sear on each side until browned.",
+        "Add the water to a large bowl or container and add the bouillon, spices, and tomato paste. Blend it or mix it together.",
+        "Set the oven to 275°F/135°C. Add the garlic to the pot with the roast and let it toast for a few minutes. Add all of the braising liquid and cover. Place inside the oven and let it braise for 5-6 hours.",
+        "Once it’s finished braising, shred the beef and then add it back to the juices. Dip the tortillas in the beef juice and place them on a hot pan to crisp them up.",
+        "Add the beef to the crisped up tortillas. Top with cilantro, onion and a squeeze of lime. Add hot sauce if desired and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

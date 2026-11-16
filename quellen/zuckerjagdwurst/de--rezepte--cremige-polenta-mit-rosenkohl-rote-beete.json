@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/cremige-polenta-mit-rosenkohl-rote-beete",
+  "recipes": [
+    {
+      "name": "Cremige Polenta mit Rosenkohl und Rote Bete",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/cremige-polenta-mit-rosenkohl-rote-beete",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/cremige-polenta-mit-rosenkohl-rote-beete#recipe-ea52838f-a553-5bbc-be53-ef50bfe02ed6",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Polenta:",
+        "130 g Polenta/Maisgrieß",
+        "250 ml pflanzliche Sahne",
+        "400 ml Gemüsebrühe",
+        "1 EL Hefeflocken",
+        "Salz",
+        "Pfeffer",
+        "Für das Ofengemüse:",
+        "200 g Rosenkohl",
+        "1 große frische Rote Bete",
+        "1 Zwiebel",
+        "3-4 Zweige Rosmarin",
+        "Olivenöl",
+        "Salz",
+        "Pfeffer",
+        "Für das Kräuteröl:",
+        "10 g frische Petersilie",
+        "5 g frischer Basilikum",
+        "5 g frischer Schnittlauch",
+        "50 ml Olivenöl",
+        "1 EL Agavendicksaft",
+        "0.5 Zitrone (Saft)",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "Pinienkerne"
+      ],
+      "instructions": [
+        "Backofen auf 180 °C (Umluft) vorheizen. Die äußeren Blätter des Rosenkohls entfernen und den Strunk etwas kürzen. Röschen anschließend waschen und halbieren. Rote Bete waschen und zerkleinern (die Stücke sollten so groß sein wie die Rosenkohlhälften). Zwiebel schälen und vierteln.",
+        "Das Gemüse mit dem Rosmarin auf einem mit Backpapier ausgelegten Backblech verteilen. Mit Olivenöl beträufeln und mit Salz und Pfeffer würzen. Für 20–30 Minuten bei 180 °C (Umluft) backen, bis sich das Gemüse mit einer Gabel leicht einstechen lässt.",
+        "Für das Kräuteröl Petersilie, Basilikum und Schnittlauch waschen und grob hacken. Olivenöl, gehackte Kräuter, Agavendicksaft und Zitronensaft in ein hohes Gefäß geben und pürieren. Mit Salz und Pfeffer abschmecken und beiseitestellen.",
+        "Pinienkerne in einer fettfreien Pfanne goldbraun rösten.",
+        "Für die Polenta pflanzliche Sahne und Gemüsebrühe in einem Topf aufkochen. Maisgrieß (Polenta) unter Rühren hinzugeben und je nach Packungsanweisung bei schwacher Hitze köcheln lassen, bis der Grieß weich ist – je nach Polentasorte kann das nur wenige Minuten oder auch 10 Minuten oder länger dauern. Die Polenta mit Hefeflocken, Salz und Pfeffer abschmecken.",
+        "Die Polenta mit Ofengemüse, Kräuteröl und Pinienkernen servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

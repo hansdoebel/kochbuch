@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/cinnamon-coconut-cream-latte-40",
+  "recipes": [
+    {
+      "name": "Cinnamon Coconut Cream Latte",
+      "source_url": "https://www.pickuplimes.com/recipe/cinnamon-coconut-cream-latte-40",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT10M",
+      "total_time": "PT15M",
+      "ingredients": [
+        "½ cup canned full-fat coconut milk",
+        "¼ cup coconut sugar",
+        "½ tsp ground cinnamon",
+        "1½ cup barista oat milk",
+        "⅛ tsp pure vanilla extract",
+        "½ cup brewed espresso"
+      ],
+      "instructions": [
+        "In a saucepan, combine the coconut milk, coconut sugar, and cinnamon. Cook at a simmer for 5 minutes, stirring often to prevent burning.",
+        "When the mixture has thickened and resembles a caramel sauce, add the milk and vanilla. Whisk to combine. Bring to a boil, then remove from the heat.",
+        "Brew the espresso into your desired cups.",
+        "Pour the warm cinnamon coconut milk mixture overtop your espresso. Top with foamed milk and a sprinkle of cinnamon if desired. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We recommend using a coconut milk can that has no emulsifier (such as guar gum) in the ingredient list. We've found this results in a more desirable consistency. † Barista milk often has a higher proportion of fat and carbohydrates than other plant-based milk, which gives it a nice creamy texture.",
+    "Storage Best if enjoyed immediately."
+  ]
+}

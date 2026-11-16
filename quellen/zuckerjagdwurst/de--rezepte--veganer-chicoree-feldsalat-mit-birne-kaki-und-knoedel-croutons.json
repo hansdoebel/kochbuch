@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-chicoree-feldsalat-mit-birne-kaki-und-knoedel-croutons",
+  "recipes": [
+    {
+      "name": "Chicorée-Feldsalat mit Birne, Kaki und Knödel-Croûtons",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-chicoree-feldsalat-mit-birne-kaki-und-knoedel-croutons",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-chicoree-feldsalat-mit-birne-kaki-und-knoedel-croutons#recipe-275d4a77-465b-5a72-9610-838a239859d2",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für den Salat:",
+        "150 g Feldsalat",
+        "1 Chicorée",
+        "1 Kaki",
+        "1 Birne",
+        "Schwarzkümmelsamen zum Servieren",
+        "Für die karamellisierten Walnüsse:",
+        "50 g Zucker",
+        "50 g Wasser",
+        "100 g Walnüsse",
+        "Für die Schalotten-Vinaigrette:",
+        "2 Schalotten",
+        "6 EL Olivenöl",
+        "2 EL dunkler Balsamicoessig",
+        "1 EL körniger Senf",
+        "1 TL Ahornsirup (oder Agavendicksaft oder Zucker)",
+        "Wasser",
+        "Salz",
+        "Pfeffer",
+        "Für die Knödelcroûtons:",
+        "6 Knödel oder Klöße vom Vortag",
+        "ca. 100 g Semmelbrösel",
+        "vegane Butter zum Braten"
+      ],
+      "instructions": [
+        "Für den Salat den Feldsalat putzen und Chicorée erst halbieren und dann in dünne Streifen schneiden. Kaki und Birne in kleine Würfel schneiden. Alle geschnittenen Zutaten direkt auf Serviertellern oder einer großen Salatplatte verteilen.",
+        "Die Schalotten schälen und fein würfeln. Zusammen mit Olivenöl, dunklem Balsamicoessig, körnigem Senf, Ahornsirup, Salz und Pfeffer in ein Schraubglas geben. Kräftig schütteln, bis sich alles vermengt hat. Die Vinaigrette anschließend erneut abschmecken und etwas Wasser dazugeben, wenn sie etwas dünnflüssiger sein soll.",
+        "Für die karamellisierten Walnüsse zuerst Zucker und Wasser in einer Pfanne erhitzen, bis der Zucker geschmolzen ist. Die Walnüsse in die Pfanne geben und unter Rühren erhitzen, bis die Zuckermischung die Nüsse ummantelt, einkocht und dann karamellisiert. Das kann gut und gerne 10 Minuten dauern – die Nüsse werden oft zuerst matt und dann wieder glänzend. Die karamellisierten Nüsse vorsichtig auf Backpapier legen (Achtung, heiß!) und abkühlen lassen. Anschließend etwas kleiner hacken.",
+        "Knödel oder Klöße vom Vortag vierteln oder in mundgerechte Stücke schneiden. Anschließend rundum in Semmelbröseln wenden – sollten die Knödel zu trocken sein, vorher mit etwas Wasser befeuchten. Vegane Butter in einer Pfanne bei mittlerer Hitze erwärmen und die panierten Knödel darin rundum anbraten, bis sie gebräunt sind.",
+        "Erst kurz vor dem Servieren die Vinaigrette zum Salat geben und vermengen. Die Knödel-Croûtons und karamellisierten Walnüsse darauf verteilen und den Salat mit Schwarzkümmelsamen bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

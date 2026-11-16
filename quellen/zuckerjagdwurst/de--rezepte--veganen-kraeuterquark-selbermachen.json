@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganen-kraeuterquark-selbermachen",
+  "recipes": [
+    {
+      "name": "Veganen Kräuterquark selbermachen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganen-kraeuterquark-selbermachen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganen-kraeuterquark-selbermachen#recipe-abd8461b-39e6-50be-b5b9-0d469ee574d6",
+      "authors": [
+        "Team"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 600 g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Für den veganen Kräuterquark:",
+        "400 g veganer Quark",
+        "200 g veganer Natur-Joghurt",
+        "0.5 rote Zwiebel",
+        "1 Knoblauchzehe",
+        "15 g frische Kräuter (z. B. Schnittlauch, Petersilie, Basilikum, ...)",
+        "frischer Zitronensaft",
+        "Salz",
+        "Pfeffer",
+        "Für die gebratenen Champignons:",
+        "250 g Champignons",
+        "0.5 rote Zwiebel",
+        "2 EL Sojasoße",
+        "Pflanzenöl zum Anbraten",
+        "Weitere Toppings:",
+        "Radieschen",
+        "Salatgurke",
+        "Schnittlauch"
+      ],
+      "instructions": [
+        "Veganen Quark und Joghurt in einer großen Schüssel glatt rühren. Zwiebel und Knoblauch schälen und fein hacken. Die frischen Kräuter waschen, ebenfalls fein hacken und zusammen mit der Zwiebel und dem Knoblauch in die Schüssel geben. Den Kräuterquark gut verrühren und mit Zitronensaft, Salz und Pfeffer abschmecken.",
+        "Als zusätzliches Topping bereiten wir noch gebratene Champignons vor. Dafür die Champignons mit einem feuchten Tuch säubern, die Stiele etwas kürzen und die Pilze in Scheiben schneiden. Rote Zwiebel fein würfeln und gemeinsam mit den Pilzen in einer Pfanne mit Pflanzenöl anbraten. Wenn die Pilze gut gebräunt sind, mit etwas Sojasoße ablöschen und weitere ca. 2-3 Minuten braten.",
+        "Für die weiteren Toppings die Radieschen in Scheiben schneiden, die Gurke fein würfeln und den Schnittlauch in feine Röllchen schneiden. Den Kräuterquark nun entweder mit Radischen und Gurke toppen oder mit den gebratenen Pilzen und Schnittlauch."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

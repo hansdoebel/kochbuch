@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vegan-baked-donuts-682",
+  "recipes": [
+    {
+      "name": "Baked Donuts",
+      "source_url": "https://www.pickuplimes.com/recipe/vegan-baked-donuts-682",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "12 donuts",
+      "prep_time": "PT15M",
+      "cook_time": "PT20M",
+      "total_time": "PT35M",
+      "ingredients": [
+        "2 cup all-purpose flour",
+        "2 tsp baking powder",
+        "⅔ cup granulated sugar",
+        "½ tsp salt",
+        "1 cup unsweetened soy milk",
+        "¼ cup unsalted vegan butter",
+        "2 Tbsp unsweetened applesauce",
+        "2 tsp pure vanilla extract",
+        "½ cup powdered sugar",
+        "½ Tbsp unsweetened soy milk",
+        "½ tsp pure vanilla extract",
+        "1 tsp natural pink food colouring",
+        "2 Tbsp unsalted vegan butter",
+        "3 Tbsp granulated sugar",
+        "1 tsp ground cinnamon"
+      ],
+      "instructions": [
+        "Lightly grease a donut pan and preheat the oven to 350°F (180°C)*.",
+        "Place a sieve over a large bowl, and sift in the flour and baking powder. Then add the sugar and salt, and mix well.",
+        "Then add the milk, butter, applesauce, and vanilla. Stir until combined, but try not to overmix.",
+        "Fill each donut well until ¾ full. Bake on the center rack for 15 to 20 minutes, or until the top is golden and a toothpick inserted into the donuts comes out clean.",
+        "Make the vanilla glaze by combining the powdered sugar, milk, and vanilla in a bowl**. If the glaze is too thick, add a small splash more milk. Add a few drops of optional food colouring if desired.",
+        "Prepare the cinnamon sugar coating by mixing the sugar and cinnamon together on a plate. In a separate shallow bowl, melt the butter.",
+        "Remove the donuts from the oven and let cool for 2 minutes before flipping the donuts onto a wire rack until they are cool enough to handle, but still warm.",
+        "Dip half of the donuts in the glaze. For a thicker coating, let the first coat dry completely and then dip the donut in the glaze again.",
+        "For the sugar-cinnamon donuts, quickly dip the remaining donuts in the melted butter, and then in the mixture of sugar and cinnamon.",
+        "Transfer the frosted donuts to a wire rack and add optional toppings (like sprinkles) while the glaze is still wet. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection). ** This recipe makes enough for half of the donuts to have the glazed topping, and half of the donuts to have the sugar-cinnamon topping.",
+    "Storage The donuts can be stored in an airtight container on the counter for up to 3 days."
+  ]
+}

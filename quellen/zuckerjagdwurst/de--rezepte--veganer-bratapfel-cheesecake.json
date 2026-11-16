@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-bratapfel-cheesecake",
+  "recipes": [
+    {
+      "name": "Veganer Bratapfel-Cheesecake",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-bratapfel-cheesecake",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-bratapfel-cheesecake#recipe-2a743453-850b-5fea-a023-73697765b3e8",
+      "authors": [
+        "Anne-Sophie Hoffmann"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (Ø 20 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT130M",
+      "ingredients": [
+        "Für die Bratäpfel:",
+        "3 große Äpfel (z. B. Boskop oder Cox Orange)",
+        "40 g Marzipanrohmasse",
+        "30 g Mandelstifte",
+        "40 g gehackte Haselnüsse",
+        "50 ml Agavendicksaft",
+        "30 g pflanzliche Butter",
+        "1 EL Zitronensaft",
+        "1.5 TL Wintergewürz (z. B. von Lebensbaum)",
+        "Für den Boden:",
+        "200 g Spekulatiuskekse",
+        "80 g vegane Butter",
+        "Für die Käsekuchenmasse:",
+        "800 g Sojajoghurt",
+        "200 g veganer Frischkäse",
+        "100 g Zucker",
+        "56 g veganes Vanillepuddingpulver",
+        "125 g vegane Butter (geschmolzen)",
+        "1 EL Zitronensaft",
+        "Abrieb einer Zitrone"
+      ],
+      "instructions": [
+        "Für die Bratäpfel den Ofen auf 180 °C (Ober-/Unterhitze) vorheizen. Die Äpfel waschen, entkernen und vorsichtig aushöhlen. Für die Füllung Marzipanrohmasse, Mandelstifte, gehackte Haselnüsse, Agavendicksaft, pflanzliche Butter, Zitronensaft und Wintergewürze in einer Schüssel vermengen. Die Äpfel damit befüllen und 40 Minuten im Ofen backen. Anschließend etwas abkühlen lassen.",
+        "Für den Boden die vegane Butter in einem kleinen Topf schmelzen, die Spekulatiuskekse fein zerbröseln, mit der geschmolzenen Butter vermengen und in eine eingefettete Springform (20 Zentimeter Durchmesser) drücken.",
+        "Für die Käsekuchenmasse Sojajoghurt, veganen Frischkäse, Zucker, Vanillepuddingpulver, geschmolzene vegane Butter, Zitronensaft und Zitronenabrieb glatt rühren. Die Masse auf den vorbereiteten Boden geben.",
+        "Die gebackenen Äpfel kleinschneiden und die Masse auf der Käsekuchenmasse gleichmäßig verteilen. Den Kuchen bei 180 °C (Ober-/Unterhitze) etwa 50 Minuten backen.",
+        "Den Bratapfel-Käsekuchen vollständig abkühlen lassen, noch besser über Nacht."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

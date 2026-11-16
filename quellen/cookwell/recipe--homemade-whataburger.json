@@ -1,0 +1,42 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/homemade-whataburger",
+  "recipes": [
+    {
+      "name": "Homemade Whataburger",
+      "source_url": "https://app.cookwell.com/recipe/homemade-whataburger",
+      "recipe_id": "https://app.cookwell.com/recipe/homemade-whataburger",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 burger",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "80/20 ground beef, 225 g",
+        "Salt, a sprinkle",
+        "Black Pepper, a sprinkle",
+        "Hamburger buns, 1",
+        "Tomatoes, 2 slices",
+        "Onions, a handful",
+        "Iceberg lettuce, a handful",
+        "Pickles, 2-4",
+        "Mustard, to taste",
+        "Frozen Fries, for serving"
+      ],
+      "instructions": [
+        "Chop & gather all burger toppings. Start the French fries using your preferred cooking method (air fryer, oven, etc). While those cook, make the burger.",
+        "Divide the ground meat into two ~112 g (1/4 lb) balls. Press & shape each into a thin & wide patty, then season with salt & pepper. Preheat a griddle over high heat until smoking. Add both patties and sear until well browned on one side. Flip to finish cooking the patties through.",
+        "Toast the buns, if desired. Add a generous squiggle of mustard to each side of the bun. Layer on both cooked patties, and then top with onions, pickles, tomatoes, and lettuce. Close the bun & enjoy with your cooked fries."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

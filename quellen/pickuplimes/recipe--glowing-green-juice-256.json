@@ -1,0 +1,38 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/glowing-green-juice-256",
+  "recipes": [
+    {
+      "name": "Glowing Green Juice",
+      "source_url": "https://www.pickuplimes.com/recipe/glowing-green-juice-256",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT10M",
+      "ingredients": [
+        "3 cup kale",
+        "1 orange",
+        "1 apple",
+        "¾ cucumber",
+        "1 lime",
+        "1 Tbsp fresh ginger"
+      ],
+      "instructions": [
+        "Cut and place all of the ingredients in a juicer capable of juicing greens. Serve while fresh. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Best to enjoy this drink immediately."
+  ]
+}

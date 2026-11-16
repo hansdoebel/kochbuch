@@ -1,0 +1,62 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/strammer-max-mit-veganem-spiegelei",
+  "recipes": [
+    {
+      "name": "Veganer Strammer Max mit frittierten Gewürzgurken",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/strammer-max-mit-veganem-spiegelei",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/strammer-max-mit-veganem-spiegelei#recipe-22abd66c-614b-5210-aaef-3368c3f5eb5b",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "5 Brote",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für das vegane Spiegelei:",
+        "400 g Seidentofu",
+        "90 g Reismehl",
+        "6 EL neutrales Pflanzenöl",
+        "2 EL vegane Kochsahne",
+        "1 EL natives Rapsöl",
+        "vegane Butter zum Braten",
+        "Salz",
+        "weißer Pfeffer",
+        "Kurkuma",
+        "Kala Namak",
+        "Für Brot und Belag:",
+        "5 (glutenfreie) Brotscheiben (z. B. Vitaminbrot von Schär)",
+        "vegane Butter",
+        "Senf",
+        "veganer Schinken oder Räuchertofu",
+        "veganer Scheibenkäse (optional)",
+        "Schnittlauch",
+        "Salz",
+        "Pfeffer",
+        "Für die frittierten Gewürzgurken:",
+        "Gewürzgurken",
+        "glutenfreies Mehl",
+        "Senf",
+        "Wasser",
+        "glutenfreie Semmelbrösel",
+        "Salz",
+        "Pflanzenöl zum Braten oder Frittieren"
+      ],
+      "instructions": [
+        "Für die veganen Spiegeleier Seidentofu, Reismehl und neutrales Pflanzenöl glatt pürieren. Mit Salz und weißem Pfeffer würzen. Etwa zwei Esslöffel davon in eine separate Schüssel füllen und mit veganer Sahne, nativem Rapsöl und Kurkuma vermengen, bis ihr eine eigelbfarbene Mischung erhaltet.",
+        "Vegane Butter in einer beschichteten Pfanne erhitzen, bis sie geschmolzen ist und schon so heiß, dass sie richtig brutzelt. Große Kleckse der Eiweiß-Mischung in die Pfanne geben, jeweils einen kleinen Klecks des veganen Eigelbs auf das Eiweiß setzen und einen Deckel auf die Pfanne legen. Nach 3–4 Minuten den Deckel abnehmen und so weiterbraten, bis die veganen Spiegeleier von unten knusprig sind. Aus der Pfanne nehmen und mit etwas Kala Namak bestreuen.",
+        "Die (glutenfreien) Brotscheiben gut toasten. Danach mit veganer Butter und Senf bestreichen. Mit veganen Schinken- oder Räuchertofuscheiben und den veganen Spiegeleiern belegen und mit fein gehacktem Schnittlauch bestreuen. Je nach Geschmack mit Kala Namak, Salz oder Pfeffer nachwürzen.",
+        "Tipp: Man kann die Brote auch zuerst nur mit veganen Käsescheiben belegen und dann kurz in den Ofen legen, bis sie leicht schmelzen. Danach aus dem Ofen nehmen und wie angegeben weiter belegen.",
+        "Für die frittierten Gewürzgurken drei Schüsseln oder tiefe Teller zum Panieren vorbereiten: In die erste Schüssel glutenfreies Mehl geben, in der zweiten Senf mit etwas Wasser verrühren und in der dritten Schüssel glutenfreie Semmelbrösel mit Salz vermengen. Die Gewürzgurken halbieren, zuerst im Mehl wenden, dann in die Senfmischung tunken und rundherum mit den Semmelbröseln bedecken. Nach Wunsch in Pflanzenöl braten, frittieren oder im Ofen oder Airfryer zubereiten."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-lebkuchenmousse-mit-karamellisierten-orange",
+  "recipes": [
+    {
+      "name": "Vegane Lebkuchenmousse mit Orange",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-lebkuchenmousse-mit-karamellisierten-orange",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-lebkuchenmousse-mit-karamellisierten-orange#recipe-1f3e421b-be3d-5b24-947c-b6414a6ce139",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT515M",
+      "ingredients": [
+        "Für die Lebkuchenmousse",
+        "150 g Zartbitterschokolade",
+        "1 EL Kokosöl",
+        "1 TL Lebkuchengewürz",
+        "480 g Kichererbsen aus der Dose (Abtropfgewicht)",
+        "8 g (2 TL) Sahnesteif",
+        "8 g (1.5 TL) Vanillezucker",
+        "40 g (3 EL) Puderzucker",
+        "1 Prise Salz",
+        "Für die Quittenschicht:",
+        "100 g Quittengelee",
+        "1 Prise Zimt",
+        "1 Prise Kardamom",
+        "Zum Servieren:",
+        "2 Orangen",
+        "frische Minzblätter",
+        "Zartbitterschokolade"
+      ],
+      "instructions": [
+        "Schokolade und Kokosöl im Wasserbad schmelzen und das Lebkuchengewürz einrühren. Nach eigenem Geschmack mehr dazugeben. Die geschmolzene Schokolade danach abkühlen lassen.",
+        "Kichererbsen durch ein Sieb über einer großen Schüssel abgießen und die Flüssigkeit, also das Aquafaba, dabei auffangen. 150 Milliliter davon abmessen. Sahnesteif zum Aquafaba geben und mit einem Handrührgerät oder einer Küchenmaschine auf höchster Stufe circa 5 Minuten aufschlagen, bis das Aquafaba deutlich an Volumen gewinnt und andickt. Vanillezucker und Puderzucker dazugeben und weitere 3–4 Minuten aufschlagen.",
+        "Das aufgeschlagene Aquafaba nach und nach unter die geschmolzene, abgekühlte Schokolade rühren. Nur so lange rühren, bis sich alles gerade so vermengt hat, damit die Mousse nicht zusammenfällt. Die Mischung auf vier Gläser aufteilen und mehrere Stunden oder am besten über Nacht in den Kühlschrank stellen.",
+        "Die Orangen filetieren oder in einfache Spalten oder Scheiben schneiden. Zum Filetieren das obere und untere Ende der Orangen entfernen und die Schale ordentlich abschneiden. Die Filets mit einem scharfen Messer herausschneiden.",
+        "Das Quittengelee mit Zimt und Kardamom würzen und auf der abgekühlten Mousse verteilen. Mit den Orangenfilets, frischen Minzblättern und gehackter Zartbitterschokolade toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

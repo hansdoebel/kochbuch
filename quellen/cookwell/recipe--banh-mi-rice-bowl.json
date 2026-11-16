@@ -1,0 +1,54 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/banh-mi-rice-bowl",
+  "recipes": [
+    {
+      "name": "Banh Mi Rice Bowl",
+      "source_url": "https://app.cookwell.com/recipe/banh-mi-rice-bowl",
+      "recipe_id": "https://app.cookwell.com/recipe/banh-mi-rice-bowl",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-4 bowls",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT1H",
+      "ingredients": [
+        "Boneless pork loin, 700 g",
+        "Garlic, 3 cloves",
+        "Soy Sauce, 15 g",
+        "Fish Sauce, 15 g",
+        "Rice Vinegar, 10 g",
+        "Honey, 10 g",
+        "Chile flakes, a pinch",
+        "Neutral oil, a drizzle",
+        "Carrots, 2-3",
+        "Jalapeños, 1",
+        "Rice Vinegar, 100 g",
+        "Water, 100 g",
+        "Sugar, 8 g",
+        "Salt, 4 g",
+        "Kewpie mayo, 1 part",
+        "Sriracha, 1 part",
+        "Lime juice, a squeeze",
+        "Jasmine Rice, cooked",
+        "Cucumbers, sliced",
+        "Cilantro, chopped"
+      ],
+      "instructions": [
+        "Slice the pork tenderloin into thin strips, then add it to a bowl with the garlic, soy sauce, fish sauce, rice vinegar, honey, and a pinch of chili flakes. Mix until every piece is evenly coated, then cover, refrigerate, and marinate while you prepare the remaining components.",
+        "Julienne the carrots, or simply slice them into thin matchsticks with a knife. Thinly slice the jalapeño and place both into a heatproof jar or bowl. In a small saucepan, combine the vinegar, water, sugar, and salt. Bring the mixture just to a simmer, stirring until the sugar and salt dissolve. Pour the hot pickling liquid over the vegetables and let them cool while you prepare the rest of the bowl. The vegetables will develop good flavor after about 20-30 minutes, but they'll continue improving over time.",
+        "Prepare the jasmine rice according to your preferred method (rice cooker, stovetop) while the pork marinates and the vegetables pickle. Meanwhile, stir together equal parts Kewpie mayo and sriracha with a squeeze of fresh lime juice until smooth. Taste and adjust with additional lime juice or sriracha if desired.",
+        "Heat a large skillet over medium-high heat and add the oil. Add the marinated pork to sear in an even layer. At first, the meat will release moisture and begin steaming. Continue cooking until the excess liquid evaporates, then stir occasionally as the pork begins to brown and develop caramelized edges. Once everything is cooked through, remove from the heat.",
+        "Divide the cooked rice between bowls. Top with the browned pork, pickled carrots and jalapeños, sliced cucumber, and plenty of chopped cilantro. Finish with a generous drizzle of the sriracha mayo and serve."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

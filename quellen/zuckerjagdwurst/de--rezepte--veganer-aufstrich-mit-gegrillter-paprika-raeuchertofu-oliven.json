@@ -1,0 +1,38 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-aufstrich-mit-gegrillter-paprika-raeuchertofu-oliven",
+  "recipes": [
+    {
+      "name": "Veganer Aufstrich mit gegrillter Paprika, Räuchertofu und Oliven",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-aufstrich-mit-gegrillter-paprika-raeuchertofu-oliven",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-aufstrich-mit-gegrillter-paprika-raeuchertofu-oliven#recipe-9da7e896-25a3-5d76-87a8-a10a8995daec",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "200 g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "100 g Räuchertofu (z. B. von Taifun Tofu)",
+        "80 g gegrillte Paprika aus dem Glas",
+        "3 schwarze Oliven fein gehackt",
+        "Agavendicksaft",
+        "edelsüßes Paprikapulver",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Räuchertofu und gegrillte Paprika zerkleinern, in ein hohes Gefäß oder einen Mixer geben und glattpürieren.",
+        "Die Oliven fein hacken, unterheben und mit Agavendicksaft, Paprikapulver, Salz und Pfeffer abschmecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

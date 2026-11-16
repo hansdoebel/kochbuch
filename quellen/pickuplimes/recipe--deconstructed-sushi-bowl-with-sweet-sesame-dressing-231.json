@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/deconstructed-sushi-bowl-with-sweet-sesame-dressing-231",
+  "recipes": [
+    {
+      "name": "Deconstructed Sushi Bowl with Sweet Sesame Dressing",
+      "source_url": "https://www.pickuplimes.com/recipe/deconstructed-sushi-bowl-with-sweet-sesame-dressing-231",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT20M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "1½ cup brown rice",
+        "2¼ cup water",
+        "1 mango",
+        "1 avocado",
+        "¼ cucumber",
+        "1 cup shredded red cabbage",
+        "½ small red onion",
+        "1½ cup cooked shelled edamame",
+        "½ cup wakame seaweed salad",
+        "1 lime",
+        "2 Tbsp reduced-sodium soy sauce",
+        "2 tsp toasted sesame oil",
+        "2 tsp agave syrup",
+        "1 tsp garlic powder",
+        "1 tsp onion powder"
+      ],
+      "instructions": [
+        "In a medium pot, bring the rice and water to a boil*. Then reduce to a simmer, partially cover with a lid, and cook for 20 minutes.",
+        "Meanwhile, make the dressing. Add all the ingredients to a jar and mix well.",
+        "Prep the fruits and veggies.",
+        "When the rice is cooked, remove the pot from the heat, cover with a lid, and let rest for 5 minutes.",
+        "Add the rice to some bowls. Top with the fruit and veggies. Add the edamame and wakame salad, and drizzle over the dressing. Garnish and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † If unable to soak ahead of time, cook according to the package instructions. * If unable to soak the rice ahead of time, increase the water and cooking time.",
+    "Storage Store in an airtight container in the fridge for up to 3 days. Store the sauce separately for freshness."
+  ]
+}

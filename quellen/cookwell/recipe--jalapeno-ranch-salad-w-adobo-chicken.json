@@ -1,0 +1,50 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/jalapeno-ranch-salad-w-adobo-chicken",
+  "recipes": [
+    {
+      "name": "Jalapeño Ranch Salad w/ Adobo Chicken",
+      "source_url": "https://app.cookwell.com/recipe/jalapeno-ranch-salad-w-adobo-chicken",
+      "recipe_id": "https://app.cookwell.com/recipe/jalapeno-ranch-salad-w-adobo-chicken",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "3-4 salads",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Chicken Breasts, ~500 g",
+        "Salt, 5 g",
+        "Chipotles in Adobo, 10 g",
+        "Mayonnaise, 10 g",
+        "Cumin, a sprinkle",
+        "Sour Cream, 100 g",
+        "Mayonnaise, 15 g",
+        "Lime juice, 1/2 lime",
+        "Jalapeños, 1/2",
+        "Cilantro, 10 g",
+        "Dill, 3 g",
+        "Salt, a sprinkle",
+        "Lettuce",
+        "Tomatoes",
+        "Red Onions",
+        "Black Beans",
+        "Tortilla Chips"
+      ],
+      "instructions": [
+        "After dicing the chicken into small cubes, mix it in a bowl with the salt, minced adobo chilies, mayo, and cumin. The mixture should coat each piece of chicken. This effectively marinates the chicken but will also help with browning during cooking. You can move on to cooking the chicken right away, or optionally let it marinate overnight.",
+        "Add the marinated chicken cubes to a pan or griddle over high heat. Allow them to sear undisturbed for a few minutes or until color develops on one side, then flip them periodically to finish cooking through and get color on different sides. Once cooked through, set the chicken bites aside to rest.",
+        "Add all jalapeño ranch ingredients to a blender or food processor and pulse until smooth. Taste and adjust with salt and more lime juice, if needed. If it's too thick, adjust the consistency with a splash of water.",
+        "Prep or gather any remaining salad components you'd want to add. On a bowl or plate, layer your desired amount of each salad ingredient and toss or drizzle with the jalapeño ranch. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,45 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/mushroom-risotto",
+  "recipes": [
+    {
+      "name": "Mushroom Risotto",
+      "source_url": "https://app.cookwell.com/recipe/mushroom-risotto",
+      "recipe_id": "https://app.cookwell.com/recipe/mushroom-risotto",
+      "authors": [
+        "Cook Well Official"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Mushrooms, 450 g",
+        "Cooking oil, 15 g",
+        "Butter, 30 g",
+        "Garlic, 2",
+        "Onions, 1/2",
+        "Arborio rice, 200 g",
+        "Broth, 600-800 g",
+        "Parmigiano Reggiano, 40 g",
+        "Butter, 30 g",
+        "Salt, to taste",
+        "Black Pepper, to taste",
+        "Fresh thyme, for garnish"
+      ],
+      "instructions": [
+        "In a wide pan over high heat, add the cooking oil and mushrooms. Sauté until browned on all sides. Remove the mushrooms from the pan.",
+        "Add 30 g of butter to the pan. Once melted, add in the grated onion and garlic (if you don't have a grater or microplane, finely mince them with a knife instead). sauté for 1-2 minutes until softened and fragrant. Add the rice and stir to coat the kernels in fat and lightly toast their exterior.",
+        "Add about 80% of the total broth you’re going to use (look at rice packaging for risotto ratios). Alternatively, add enough broth to submerge the rice to start. You can add more and adjust the liquid at the end. Bring to a simmer, cover, and let cook undisturbed for 10 minutes. Stir to ensure nothing is sticking, and add a bit more broth if necessary. Simmer covered for 10 more minutes. Taste a rice kernel to make sure it is done to your liking, then turn off the heat.",
+        "Stir in the remaining 30 g of butter and the grated parm. Add in more broth or water until the risotto is your desired consistency. Season to taste with salt and pepper, then serve: add to a plate and top with the sautéed mushrooms and a sprinkle of parsley."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

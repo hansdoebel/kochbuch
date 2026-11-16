@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-toshikoshi-soba",
+  "recipes": [
+    {
+      "name": "Vegane Toshikoshi Soba",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-toshikoshi-soba",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-toshikoshi-soba#recipe-a84b8e36-430b-5a83-9013-1c8f991411ce",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT240M",
+      "ingredients": [
+        "150 g Sobanudeln",
+        "Frühlingszwiebeln, fein in Ringe geschnitten",
+        "80 ml Sojasauce",
+        "1 EL Zucker",
+        "50 ml Mirin Reiswein",
+        "Für die Brühe:",
+        "getrockene Shitake-Pilze",
+        "1 Blatt Kombu",
+        "500 ml Wasser"
+      ],
+      "instructions": [
+        "Mit den Vorbereitungen der Suppe müsst ihr schon eine Nacht vorher beginnen. Legt ein großes Blatt Kombu, sowie 5-6 große getrocknete Shitake-Pilze in Wasser über Nacht ein. Bei eurem Kombu-Blatt solltet ihr die Anweisungen auf der Packung beachten. Das Kombu-Blatt mit einem leicht feuchten Tuch säubern, auf keinen Fall waschen! Auf dem Kombu-Blatt seht ihr eine weiße Substanz, die für den Geschmack sehr wichtig ist und deswegen nicht abgewaschen werden soll. Nach dem säubern schneidet ihr euer Kombu-Blatt an den Seiten ein paar Mal ein.",
+        "Am nächsten Tag füllt ihr die Flüssigkeit in einen kleinen Topf und erwärmt das ganze. Wichtig ist, dass die Suppe nie kochen, sondern nur köcheln soll. Optimal ist eine Temperatur etwas unter 60 Grad.",
+        "Gebt Mirin, Zucker und Sojasauce dazu und lasst das ganze 10 Minuten köcheln. Anschließend die Brühe durch ein Sieb gießen, sodass Pilze und Kombu-Blatt darin hängen bleiben.",
+        "In der Zwischenzeit könnt ihr die Sobanudeln zubereiten. Diese werden etwa 5 Minuten in kochendem Wasser gegart. Gießt die Nudeln danach unbedingt ordentlich unter kaltem Wasser ab. Sie sollten einmal komplett damit abgespült werden, damit sie nicht mehr klebrig sind.",
+        "Nehmt euch eine Suppenschüssel, gebt eine Portion Sobanudeln hinein, gießt mit eurer Brühe auf.",
+        "Frühlingszwiebeln in Ringe schneiden und zum Schluss über die Suppe geben."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

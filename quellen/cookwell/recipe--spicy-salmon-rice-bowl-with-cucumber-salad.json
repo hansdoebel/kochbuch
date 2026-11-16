@@ -1,0 +1,48 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/spicy-salmon-rice-bowl-with-cucumber-salad",
+  "recipes": [
+    {
+      "name": "Spicy Salmon Rice Bowl with Cucumber Salad",
+      "source_url": "https://app.cookwell.com/recipe/spicy-salmon-rice-bowl-with-cucumber-salad",
+      "recipe_id": "https://app.cookwell.com/recipe/spicy-salmon-rice-bowl-with-cucumber-salad",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "3-4 bowls",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Cucumbers, 500 g",
+        "Rice Vinegar, 80 g",
+        "Soy Sauce, 20 g",
+        "Sesame Oil, 5 g",
+        "Furikake Rice Seasoning, a spoonful",
+        "Red Pepper Flakes, a sprinkle",
+        "Salmon, 400 g",
+        "Salt, 4 g",
+        "Neutral oil, a drizzle",
+        "Kewpie mayo, 15 g",
+        "Gochujang, 15 g",
+        "Rice Vinegar, 10 g",
+        "Cooked rice"
+      ],
+      "instructions": [
+        "Start your rice using your preferred cooking method so it finishes by the time everything else is made. Partially peel the cucumbers, leaving some stripes of skin for texture & color. Dice each cucumber into small, bite-sized cubes. Transfer the cucumber to a bowl and add vinegar, soy sauce, sesame oil, chili flakes, and furikake. Mix thoroughly until everything is evenly coated. Taste & adjust as needed. Store in the fridge to chill until serving.",
+        "In a small bowl, combine mayo, gochujang, and rice vinegar. Stir until smooth and set aside.",
+        "If frozen, thaw the salmon just enough to slice. Cut into planks, then rotate and cube into bite-sized pieces. Season lightly with salt.",
+        "Heat a nonstick pan over high heat and add a light drizzle of oil. Add the salmon cubes in a single layer and let them sear undisturbed to develop browning. Once browned on most sides, turn off the heat.",
+        "Add the sauce directly to the pan. Toss or mix gently until the salmon is fully coated and glossy. The residual heat in the pan should bring everything together and finish cooking the salmon through, but you can double check a piece for doneness before removing from the pan.",
+        "Add cooked rice to a bowl, followed by a generous portion of cucumber salad. Top with the glazed salmon bites. For the best flavor contrast, serve immediately while the salmon is hot and the cucumber salad is cold."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

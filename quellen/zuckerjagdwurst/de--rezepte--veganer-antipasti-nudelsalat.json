@@ -1,0 +1,105 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-antipasti-nudelsalat",
+  "recipes": [
+    {
+      "name": "Veganer Antipasti-Nudelsalat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-antipasti-nudelsalat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-antipasti-nudelsalat#recipe-7c42f58e-e077-52e5-9dc1-c82af6bf4941",
+      "authors": [
+        "Ronja Gramse"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für den Nudelsalat:",
+        "250 g kurze Nudeln",
+        "100 g Rucola",
+        "1 Aubergine",
+        "1 rote Paprika",
+        "1 Zucchini",
+        "2 Möhren",
+        "200 g Pimientos",
+        "250 g eingelegte Pilze",
+        "2 rote Zwiebeln",
+        "100 g Oliven",
+        "Olivenöl",
+        "getrockneter Rosmarin",
+        "getrockneter Oregano",
+        "getrockneter Thymian",
+        "Salz",
+        "Pfeffer",
+        "Für die gefüllten Tomaten:",
+        "16 Cocktailtomaten",
+        "50 g veganer Feta",
+        "20 g veganer Frischkäse",
+        "0.5 Knoblauchzehe",
+        "frischer Basilikum",
+        "Salz",
+        "Pfeffer",
+        "Für das Basilikumdressing:",
+        "80 g veganes Basilikumpesto",
+        "4 EL Olivenöl",
+        "0.5 Zitrone (Saft)"
+      ],
+      "instructions": [
+        "Wenn ihr für dieses Rezept eure Pilze selber einlegen möchtet, solltet ihr dies mindestens einen Tag vorher machen, damit die Pilze ausreichend Zeit zum Durchziehen haben. Das Rezept dazu findet ihr weiter unten. Wer Zeit sparen möchte, kauft fertig eingelegte Pilze.",
+        "Für die gefüllten Tomaten Basilikum waschen und fein hacken und Knoblauch schälen und mit einer Knoblauchpresse zerdrücken. Anschließend veganen Feta und veganen Frischkäse in einer Schüssel mit einer Gabel zerdrücken. Dann Knoblauch, Basilikum unterrühren und mit Salz und Pfeffer abschmecken. Anschließend in einem luftdicht verschlossenen Gefäß im Kühlschrank ziehen lassen.",
+        "Als Nächstes den Backofen auf 180°C (Umluft) vorheizen. Die Aubergine waschen, in mundgerechte Stücke schneiden, in eine Schüssel geben und salzen. Beiseitestellen, bis das restliche Gemüse vorbereitet ist. Durch das Salzen wird der Aubergine Wasser und Bitterstoffe entzogen und sie nimmt später weniger Fett auf.",
+        "Tipp: Ihr könnt das Gemüse auch auf dem Grill oder in einer Pfanne anbraten.",
+        "Den Rucola und das restliche Gemüse waschen, die Karotten ggfs. schälen und das Gemüse bis auf die Tomaten und die Pimientos in mundgerechte Stücke schneiden. Die Pimientos können ganz bleiben und die Tomaten brauchen wir später erst.",
+        "Das geschnittene Gemüse auf zwei Backblechen verteilen, mit Olivenöl beträufeln und mit Salz,Pfeffer und getrockneten Kräutern würzen. Im vorgeheizten Ofen ca. 20-30 Minuten backen, bis das Gemüse gar ist.",
+        "Währenddessen das Dressing vorbereiten und die Tomaten füllen. Für das Dressing Basilikumpesto mit Olivenöl und Zitronensaft in einer Schüssel verrühren. Für die gefüllten Tomaten den „Deckel“ der Tomaten abschneiden und die Tomaten anschließend mit einer Kuchengabel aushöhlen. Die ausgehöhlten Tomaten mit der Fetacreme füllen.",
+        "Kurz bevor das Gemüse fertig ist, einen Topf mit gesalzenem Wasser zum Kochen bringen und die Nudeln darin nach Packungsanweisung zubereiten.",
+        "Sobald das Gemüse gar ist, aus dem Ofen nehmen. Zusammen mit den gekochten Nudeln, Rucola, eingelegten Pilze, gefüllten Tomaten und Basilikum-Dressing auf einer Platte anrichten oder in einer Schüssel vermengen und servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Eingelegte Pilze",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-antipasti-nudelsalat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-antipasti-nudelsalat#recipe-4921fffd-55d9-5221-83ec-db173edbe738",
+      "authors": [
+        "Ronja Gramse"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "250 g braune Champignons",
+        "70 g Olivenöl",
+        "20 g Balsamicoessig",
+        "20 g Weißweinessig",
+        "1 Knoblauchzehe",
+        "1 TL bunte Pfefferkörner",
+        "0.5 TL Chiliflocken",
+        "1 TL getrockneter Thymian",
+        "1 TL getrockneter Rosmarin",
+        "1 TL getrockneter Basilikum",
+        "5 g Petersilie",
+        "Salz",
+        "Pflanzenöl zum Anbraten"
+      ],
+      "instructions": [
+        "Die Champignons putzen, trocken tupfen und bei Bedarf die Stiele etwas kürzen. Je nach Größe die Pilze ganz lassen, halbieren oder vierteln.",
+        "Eine Pfanne mit Öl erhitzen und die Champignons bei mittlerer Hitze kurz anbraten, bis sie leicht gebräunt sind, aber noch kein Wasser verloren haben. Anschließend in einer Schüssel bei Raumtemperatur abkühlen lassen.",
+        "Die Petersilie waschen und fein hacken und den Knoblauch schälen und klein schneiden.",
+        "Ein verschließbares Glas mit Öl und Essig füllen und die Kräuter und Gewürze sowie den Knoblauch und die abgekühlten Pilze hinzugeben. Alles kurz verrühren, das Glas verschließen und die Pilze an einem kühlen, dunklen Ort oder im Kühlschrank mindestens 24 Stunden ziehen lassen. Vor dem Verzehr aus dem Kühlschrank nehmen, damit das Öl wieder flüssiger wird. In einem luftdicht verschlossenen Schraubglas halten sich die Pilze mehrere Tage."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

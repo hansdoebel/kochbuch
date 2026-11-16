@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.recipetineats.com/mojito/",
+  "recipes": [
+    {
+      "name": "Mojito",
+      "source_url": "https://www.recipetineats.com/mojito/",
+      "recipe_id": "https://www.recipetineats.com/mojito/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "1"
+      ],
+      "prep_time": "PT3M",
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "30ml / 1 oz lime juice (, fresh)",
+        "30ml / 1 oz sugar syrup (, homemade (Note 1))",
+        "10 mint leaves",
+        "60 ml / 2 oz white rum ((I use Bicardi, Note 2))",
+        "1/2 cup (125ml) club soda / soda water ((Note 3))",
+        "Lime wedges or slices",
+        "Mint sprigs"
+      ],
+      "instructions": [
+        "Place lime juice, rum and sugar syrup in tall glass. Use a muddler (Note 4) to bruise the mint to release flavour.",
+        "Fill glass with ice, pour over rum and soda water, then stir.",
+        "Garnish with lime slice and mint leaves. Serve immediately!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. Sugar syrup – equal parts water and white sugar, heat in saucepan until sugar is dissolved. Cool then store for months in the fridge. Common ingredient used in cocktail recipes. Better to use syrup rather than sugar granules as it’s difficult to get them to fully melt when making mojito. 2. White rum – any white rum fine here, the most common used in Australia is Bacardi. 3. Club soda aka soda water – this is just water that’s been artificially carbonated. Don’t use sparkling mineral water (which is naturally fizzy, and usually has flavours from natural minerals in it). 4. Muddler – this is a tool used in cocktail making to crush things (herbs, fruit) in a glass to release flavour that mixes in with the cocktail. A pestle is a great alternative! Otherwise, crush the mint leaves well in your hand, then drop them into the glass and proceed with recipe without muddling. 5. No muddling lime wedges: You see some bartenders muddling lime wedges in the glass. I prefer not to do this because over enthusiastic muddling can release the bitterness from the white part of the lime into the drink. And after 1 or 2 mojitos, I get very enthusiastic with muddling!! (Also, from a practical perspective, just better to measure the lime juice properly). 6. Nutrition per serving."
+  ]
+}

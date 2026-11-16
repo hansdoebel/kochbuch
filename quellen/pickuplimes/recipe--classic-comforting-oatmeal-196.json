@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/classic-comforting-oatmeal-196",
+  "recipes": [
+    {
+      "name": "Classic Comforting Oatmeal",
+      "source_url": "https://www.pickuplimes.com/recipe/classic-comforting-oatmeal-196",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT10M",
+      "total_time": "PT15M",
+      "ingredients": [
+        "1 cup rolled oats",
+        "2 cup unsweetened soy milk",
+        "¾ tsp ground cinnamon",
+        "⅛ tsp pumpkin spice mix",
+        "2 banana",
+        "2 Tbsp ground flaxseeds",
+        "½ tsp pure vanilla extract",
+        "½ cup stewed berries",
+        "2 Tbsp natural peanut butter",
+        "1 Tbsp hemp seeds",
+        "2 Tbsp raw pumpkin seeds"
+      ],
+      "instructions": [
+        "In a saucepan, combine the oats, milk, cinnamon, pumpkin spice, and one of the bananas*. Cook at a gentle simmer for 5 minutes, stirring often.",
+        "Add the other banana and the flaxseeds, cooking for 3 to 5 minute longers. Add more milk for a thinner consistency, or cook for a few more minutes for a thicker porridge.",
+        "Remove the saucepan from the heat. Stir in the vanilla, plate, add desired toppings, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium . * The banana will start to partially dissolve as it cooks, which naturally sweetens the oatmeal.",
+    "Storage Store the oatmeal, without toppings, in an airtight container in the fridge for up to 2 days."
+  ]
+}

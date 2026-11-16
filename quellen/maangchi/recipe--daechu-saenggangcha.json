@@ -1,0 +1,98 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/daechu-saenggangcha",
+  "recipes": [
+    {
+      "name": "Jujube ginger tea (Daechu-saenggangcha: 대추생강차)",
+      "source_url": "https://www.maangchi.com/recipe/daechu-saenggangcha",
+      "recipe_id": "/recipe/daechu-saenggangcha#sso/recipe/95638",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "3 to 4 servings",
+      "prep_time": "P0DT0H15M0S",
+      "cook_time": "P0DT1H30M0S",
+      "total_time": "P0DT1H45M0S",
+      "ingredients": [
+        "4 ounces dried jujubes",
+        "1 ounce peeled ginger, sliced thinly",
+        "6 cups water",
+        "1 cinnamon stick",
+        "pine nuts, tips removed"
+      ],
+      "instructions": [
+        "Press the dregs of the liquid well with the wooden spoon so as not to waste. Discard.",
+        "Put the strained tea into the kettle (or pot) and reheat. Pour into cups, sprinkle with some pine nuts, and serve."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 3 to 4"
+        },
+        {
+          "tag": "li",
+          "text": "4 ounces dried jujubes"
+        },
+        {
+          "tag": "li",
+          "text": "1 ounce peeled ginger, sliced thinly"
+        },
+        {
+          "tag": "li",
+          "text": "6 cups water"
+        },
+        {
+          "tag": "li",
+          "text": "1 cinnamon stick"
+        },
+        {
+          "tag": "li",
+          "text": "pine nuts, tips removed"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Wash jujubes in cold running water and rub them with both hands to remove any dirt. Drain."
+        },
+        {
+          "tag": "li",
+          "text": "Slice into the side of each jujube with a sharp kitchen knife and add to a heat resistant glass kettle (or stainless steel pot)."
+        },
+        {
+          "tag": "li",
+          "text": "Add ginger, cinnamon stick, and water. Cover and cook over medium low heat for 30 minutes. You may have to crack the lid if the kettle or pot is small, because it will easily boil over."
+        },
+        {
+          "tag": "li",
+          "text": "Reduce the heat to low and simmer for 1 hour. Remove from the heat."
+        },
+        {
+          "tag": "li",
+          "text": "Pour through a large stainless steel strainer over a large bowl. Mash and press down the solids with a wooden spoon so that the jujube pulp goes through the strainer."
+        },
+        {
+          "tag": "li",
+          "text": "Press the dregs of the liquid well with the wooden spoon so as not to waste. Discard."
+        },
+        {
+          "tag": "li",
+          "text": "Put the strained tea into the kettle (or pot) and reheat. Pour into cups, sprinkle with some pine nuts, and serve."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

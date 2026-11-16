@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-feta-aus-tofu",
+  "recipes": [
+    {
+      "name": "Veganer Feta aus Tofu in Kräuterlake",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-feta-aus-tofu",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-feta-aus-tofu#recipe-fa7bd63a-3cab-5a78-9d4e-e45e78068829",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "200 g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "200 g Naturtofu",
+        "100–150 ml Olivenöl",
+        "2 EL getrockneter Basilikum",
+        "2 EL getrockneter Oregano",
+        "1 EL getrockneter Thymian",
+        "1 TL Salz",
+        "1 TL helle Misopaste (optional)",
+        "2 Knoblauchzehen"
+      ],
+      "instructions": [
+        "Den Naturtofu in mundgerechte Würfel schneiden.",
+        "In ein Einmach- oder Schraubglas 5 EL Olivenöl geben und mit getrocknetem Basilikum, Oregano, Thymian und Salz verrühren. Optional Misopaste unterrühren.",
+        "Knoblauchzehen schälen, mit einem Messerrücken leicht zerdrücken und in Scheiben schneiden. Knoblauchscheiben und Tofuwürfel ebenfalls in das Glas geben, mit Olivenöl auffüllen und gut schütteln, damit der Tofu gleichmäßig mit Kräutern bedeckt ist.",
+        "Das Glas in den Kühlschrank stellen und nach frühestens 24 Stunden servieren. Der Tofu hält sich darin bis zu fünf Tage. Zwischendurch das Glas immer wieder umdrehen oder schütteln, damit alles gleichmäßig mariniert."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

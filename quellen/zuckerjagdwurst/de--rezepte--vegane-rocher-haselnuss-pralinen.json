@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-rocher-haselnuss-pralinen",
+  "recipes": [
+    {
+      "name": "Vegane Ferrero Rocher (Haselnuss-Pralinen)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-rocher-haselnuss-pralinen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-rocher-haselnuss-pralinen#recipe-360b1ec8-4068-5990-a4a5-60ae934fdd17",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "15 Rocher",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für die Bällchenmasse:",
+        "50 g Zartbitterschokolade",
+        "60 g vegane Nougat Creme",
+        "50 g gemahlene Haselnüsse",
+        "30 g gehackte Haselnüsse",
+        "Für die Füllung und Dekoration:",
+        "70 g gehackte Haselnüsse",
+        "15 ganze Haselnüsse"
+      ],
+      "instructions": [
+        "Die vegane Zartbitterschokolade in einem kleinen Gefäß schmelzen.",
+        "Die geschmolzene Schokolade in einer Schüssel mit der Nougat-Creme, den gemahlenen Haselnüsse und den gehackte Haselnüssen vermengen.",
+        "Die gehackten Haselnüsse für die Dekoration und die ganzen Haselnüsse für die Füllung in zwei separate Schüsseln füllen.",
+        "1 TL der Masse zu einem Ball formen und eine ganze Haselnüsse in der Masse verstecken.",
+        "Nun den Nougatball in den gehackten Nüssen welzen. Kalt stellen. Eine Stunde vor der Servieren aus dem Kühlschrank nehmen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

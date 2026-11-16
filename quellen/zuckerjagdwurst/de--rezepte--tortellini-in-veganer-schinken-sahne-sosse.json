@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tortellini-in-veganer-schinken-sahne-sosse",
+  "recipes": [
+    {
+      "name": "Tortellini in veganer Schinken-Sahne-Soße",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tortellini-in-veganer-schinken-sahne-sosse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/tortellini-in-veganer-schinken-sahne-sosse#recipe-cff6fce1-e3f9-5dcb-ad3c-66cbc5e5c6f3",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Für die Schinken-Sahnesoße:",
+        "1 Zwiebel",
+        "2 Knoblauchzehen",
+        "175 g veganer Schinkenersatz (z. B. vegane Fleischwurst)",
+        "20 g vegane Butter",
+        "100 ml veganer Weißwein",
+        "200 g vegane Kochsahne",
+        "300 ml Gemüsebrühe",
+        "50 g veganer Parmesan",
+        "2 EL Hefeflocken",
+        "1 Zitrone (Saft)",
+        "Muskat",
+        "scharfes Paprikapulver",
+        "mildes Paprikapulver",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "250 g vegane Tortellini",
+        "30 g frische glatte Petersilie",
+        "frischer Pfeffer"
+      ],
+      "instructions": [
+        "Zu Beginn Zwiebel und Knoblauchzehen schälen und in kleine Würfel schneiden. Den veganen Schinken ebenfalls kleinschneiden.",
+        "Tipp: Veganer Schinkenspicker schmilzt leider bei Hitze, achtet deshalb darauf, welches Produkt ihr verwendet. Bei uns hat es mit veganer Fleischwurst gut funktioniert.",
+        "Einen Topf mit gesalzenem Wasser erhitzen und die Tortellini nach Packungsanleitung kochen.",
+        "In einer Pfanne vegane Butter auf mittlerer Hitze schmelzen. Zwiebeln darin anschwitzen und anschließend Knoblauch und veganen Schinken hinzugeben. Alles anbraten, bis es leicht braun ist und mit veganem Weißwein ablöschen und kurz köcheln lassen, bevor die vegane Kochsahne und die Gemüsebrühe hinzukommen.",
+        "Während die Soße leicht köchelt, den veganen Parmesan reiben und zusammen mit Hefeflocken und dem Saft einer halben Zitrone zur Soße hinzugeben. Nun mit Muskat, scharfem Paprikapulver, Salz und Pfeffer abschmecken.",
+        "Petersilie waschen, klein hacken und ca. die Hälfte zusammen mit den gekochten Tortellini zur Soße geben und alles gut verrühren. Die Tortellini mit der restlichen Petersilie, frischem Pfeffer und nach Wunsch mit etwas frischem Zitronensaft servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

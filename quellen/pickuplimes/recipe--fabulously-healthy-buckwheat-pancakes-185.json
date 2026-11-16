@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/fabulously-healthy-buckwheat-pancakes-185",
+  "recipes": [
+    {
+      "name": "Fabulously Healthy Buckwheat Pancakes",
+      "source_url": "https://www.pickuplimes.com/recipe/fabulously-healthy-buckwheat-pancakes-185",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT20M",
+      "total_time": "PT25M",
+      "ingredients": [
+        "2 ripe banana",
+        "1 Tbsp ground flaxseeds",
+        "1 cup unsweetened soy milk",
+        "1 cup buckwheat flour",
+        "1 tsp baking powder",
+        "1 tsp ground cinnamon",
+        "1 tsp pure vanilla extract",
+        "¼ tsp salt",
+        "¼ tsp pumpkin spice mix",
+        "1 cup fresh mixed berries",
+        "3 Tbsp almond butter"
+      ],
+      "instructions": [
+        "Mash the bananas in a large bowl.",
+        "Add all of the remaining ingredients and stir until well combined. If your batter seems too runny, let the mixture sit for 5 minutes to thicken slightly.",
+        "Preheat a non-stick large pan over medium heat, and add some oil. When hot, dollop about 2 Tbsp of batter into the pan, using the back of your spoon to shape the batter into round pancake shapes.",
+        "When lightly golden on the bottom, flip, and let cook on the other side.",
+        "Add desired toppings, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium .",
+    "Storage Best if enjoyed the day they are made, but they also freeze well with parchment paper in between each pancake so they don’t stick together. If frozen, enjoy within 1 month. To reheat from frozen, pop in the toaster or oven to defrost and enjoy."
+  ]
+}

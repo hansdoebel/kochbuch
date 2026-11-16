@@ -1,0 +1,64 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/strawberry-jam",
+  "recipes": [
+    {
+      "name": "Strawberry Jam",
+      "source_url": "https://www.maangchi.com/recipe/strawberry-jam",
+      "recipe_id": "/recipe/strawberry-jam#sso/recipe/37029",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 pound (453 grams) strawberries, washed and stemmed",
+        "½ cup (about 100 grams: 3 ½ ounces) white sugar"
+      ],
+      "instructions": [
+        "Combine the strawberries and sugar in a thick bottomed pot. Cover and boil it over medium heat for 12 to 15 minutes.",
+        "Open and mash the strawberries with a potato masher or a wooden spoon in the pot. Lower the heat to medium low and let it sizzle for 30 minutes until it bubbly and turns shiny jelly but still runny. Stir and mash the strawberries from time to time to keep the jam from burning.",
+        "Remove from the heat and let cool. Put it into a small glass jar. Serve with bread rolls or however else you like it."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound (453 grams) strawberries, washed and stemmed"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (about 100 grams: 3 ½ ounces) white sugar"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Combine the strawberries and sugar in a thick bottomed pot. Cover and boil it over medium heat for 12 to 15 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Open and mash the strawberries with a potato masher or a wooden spoon in the pot. Lower the heat to medium low and let it sizzle for 30 minutes until it bubbly and turns shiny jelly but still runny. Stir and mash the strawberries from time to time to keep the jam from burning."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and let cool. Put it into a small glass jar. Serve with bread rolls or however else you like it."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-sloppy-joe-sandwich",
+  "recipes": [
+    {
+      "name": "Veganes Sloppy Joe Sandwich",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-sloppy-joe-sandwich",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-sloppy-joe-sandwich#recipe-eac9e7a8-48d4-5f4b-9479-8ec544b44876",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Sandwiches",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "4 Hamburgerbrötchen",
+        "200 g Sojagranulat",
+        "1 l Gemüsebrühe fürs Einweichen",
+        "1 Zwiebel",
+        "2 Knoblauchzehen",
+        "1 grüne Paprika",
+        "400 g gehackte Tomaten (aus der Dose)",
+        "3 EL Ketchup",
+        "2 EL Sojasauce",
+        "1 EL vegane Worcestershire Sauce",
+        "1 EL Paprikapulver",
+        "1 TL Senf",
+        "1 EL Chilipulver",
+        "Pflanzenöl zum Braten",
+        "Salz",
+        "Pfeffer",
+        "Gewürzgurken zum Servieren",
+        "Riffle-Chips zum Servieren"
+      ],
+      "instructions": [
+        "Sojagranulat in heißer Gemüsebrühe ca. 10 Minuten einweichen. Anschließend abgießen und so viel Flüssigkeit wie möglich aus dem Granulat drücken. Mit Salz und Pfeffer würzen. Wenn ihr das nicht findet: Es gibt auch immer mal fertiges veganes \"Hack\" zu kaufen, das geht natürlich genauso und müsst ihr nicht einweichen.",
+        "Zwiebel und Knoblauch fein hacken. Paprika in kleine Würfel schneiden. Pflanzenöl in einer Pfanne erhitzen und das eingeweichte Sojagranulat mit Sojasauce ca. 10 Minuten scharf anbraten. Anschließend herausnehmen und beiseitestellen.",
+        "In der gleichen Pfanne Zwiebel, Knoblauch und Paprikawürfel anbraten, mit Chilipulver und Paprikapulver, Salz und Pfeffer würzen und ca. 8 Minuten anbraten. Danach das Sojagranulat wieder dazugeben, sowie gestückelte Tomaten, Ketchup, Senf und Worcestershire Sauce. Das ganze ca. 10-15 Minuten über kleiner Hitze einköcheln lassen. Mit Salz und Pfeffer abschmecken.",
+        "Die Hamburgerbrötchen halbieren und toasten. Anschließend die Sojahack-Tomaten-Masse auf den Brötchenhälften verteilen und mit Gewürzgurken und Riffle-Chips servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

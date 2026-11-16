@@ -1,0 +1,41 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/goat-breakfast-sandwich",
+  "recipes": [
+    {
+      "name": "GOAT Breakfast Sandwich",
+      "source_url": "https://app.cookwell.com/recipe/goat-breakfast-sandwich",
+      "recipe_id": "https://app.cookwell.com/recipe/goat-breakfast-sandwich",
+      "authors": [
+        "Brian Lagerstrom"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 Sandwich",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Mayonnaise, 50 g",
+        "Dijon Mustard, 25 g",
+        "Brioche Bun, 1",
+        "Eggs, 1",
+        "Salt, a sprinkle",
+        "American Cheese, 1 slice",
+        "Ham, a handful",
+        "Olive Oil, for cooking"
+      ],
+      "instructions": [
+        "Stir mayo and dijon together until well combined.",
+        "Add olive oil to nonstick pan over med heat and toast brioche bun until golden brown.",
+        "Reduce heat to med-low, add a little more oil to pan, then add the egg and a pinch of salt. Cook for 30 seconds or until the bottom of the egg is set. Break the yolk with the corner of the spatula, and flip the egg to set the other side. Add the cheese slice directly on top of the egg and melt for 30-45 seconds.",
+        "Add a spoonful of the dijonaise to both sides of toasted bun. Add the shaved ham, cheesed egg, & close the sandwich with the top bun."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

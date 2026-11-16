@@ -1,0 +1,103 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-griechische-mezze-platte",
+  "recipes": [
+    {
+      "name": "Veganer Tzatziki",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-griechische-mezze-platte",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-griechische-mezze-platte#recipe-94105ba1-b42a-5c6b-8379-fc23e438427d",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "500 g Tzatziki",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "500 g Sojajoghurt (ungesüßt)",
+        "1/2 Gurke",
+        "2 Zehen Knoblauch",
+        "2 EL Olivenöl",
+        "1 EL Weinessig",
+        "Salz&Pfeffer",
+        "optional: frischer Dill"
+      ],
+      "instructions": [
+        "Die Gurke waschen und grob reiben. Nun die Raspeln in ein feines Sieb geben über eine Schüssel oder die Spüle hängen und austropfen lassen. 1 TL Salz hinzugeben, unterrühren und mindestens 20 Minuten stehen lassen. Anschließend mit einem Löffel die restliche Flüssigkeit ausdrücken.",
+        "Den veganen Joghurt in eine Schüssel geben. Die Knoblauchzehen schälen und mit der Knoblauchpresse zum Joghurt geben.",
+        "Olivenöl, Weinessig und die Gurkenraspeln ebenfalls unterrühren. Mir Salz und Pfeffer abschmecken.",
+        "Den Tzatziki mindeststens 90 Minuten im Kühlschrank stehen lassen. Vor dem Servieren nochmals abschmecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Vegane Griechische Mezze Platte",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-griechische-mezze-platte",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-griechische-mezze-platte#recipe-c92dce6b-4925-50d9-b353-876044a378d1",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4-6 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "5-6 Pita Brote",
+        "100 g Grissini Stangen",
+        "200 g fermentierter Naturtofu (z.B. Feto von Taifun)",
+        "100 g Walnüsse",
+        "6-8 gefüllte Weinblätter",
+        "veganen Tzatziki (Rezept auf dem Blog)",
+        "Gemüse",
+        "1 Gurke",
+        "200 g getrocknete Tomaten",
+        "200 g helle und dunkle Oliven (ggf. gefüllt mit Mandeln)",
+        "200 g Cocktailtomaten",
+        "200 g Artischocken Herzen",
+        "1 rote Paprika",
+        "10 kleine Mini-Paprikas",
+        "Tomaten-Feto-Creme",
+        "200 g fermentierter Naturtofu (z.B. Feto von Taifun)",
+        "100 g getrocknete Tomaten",
+        "1 Knoblauchzehe",
+        "1 EL Tomatenmark",
+        "Salz & Pfeffer",
+        "Tofu-Oliven-Bällchen",
+        "200 g Tofu Olive (z.B. von Taifun)",
+        "30 g schwarze Oliven",
+        "15 g Senf mittelscharf",
+        "15 g Sojamehl",
+        "15 g Paniermehl",
+        "pflanzliches Öl"
+      ],
+      "instructions": [
+        "Den Tzatziki vorbereiten.",
+        "Tomaten-Feto-Creme",
+        "Die Knoblauchzehe schälen.",
+        "Den Tofu oder Feto mit den getrockneten Tomaten, der Knoblauchzehe und dem Tomatenmark pürieren und mit Salz und Pfeffer abschmecken.",
+        "Gemüse",
+        "Die Gurke und Paprika waschen und in Sticks schneiden. Die Cocktail-Tomaten waschen und ggf. halbieren.",
+        "Die getrockneten Tomaten, Olive und Artischocken Herzen auf kleine Schüsseln verteilen.",
+        "Die Mini-Paprikas waschen, die Deckel entfernen und mit der Tomaten-Feto-Creme füllen.",
+        "Tofu-Oliven-Bällchen",
+        "Die Oliven in einem Sieb abgießen und hacken. Den Tofu mit den Händen etwas ausdrücken, sodass dieser Flüssigkeit verliert.",
+        "In einer Schüssel den Tofu Olive mit den Oliven, dem Senf, dem Sojamehl und dem Paniermehl gut verkneten, bis ihr kleine Bällchen aus der Masse formen könnt.",
+        "Die Bällchen in einer beschichteten Pfanne auf mittlerer bis hoher Hitze mit Öl anbraten, bis diese rundum braun sind.",
+        "Servieren",
+        "Den Feto in Würfel schneiden.",
+        "Die Pita Brote nach Wunsch toasten und mit den Walnüssen, gefüllten Weinblättern, den Grissini Stangen, dem Gemüse, der Tomaten-Feta-Creme und den Oliven-Tofu-Bällchen servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

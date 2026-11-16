@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.recipetineats.com/green-bean-salad/",
+  "recipes": [
+    {
+      "name": "Green Bean Salad",
+      "source_url": "https://www.recipetineats.com/green-bean-salad/",
+      "recipe_id": "https://www.recipetineats.com/green-bean-salad/#recipe",
+      "authors": [
+        "Nagi | RecipeTin Eats"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "5"
+      ],
+      "prep_time": "PT10M",
+      "cook_time": "PT3M",
+      "total_time": "PT13M",
+      "ingredients": [
+        "1 lb / 500g green beans (, trimmed)",
+        "1 tomato (, diced)",
+        "1/4 red onion (, finely diced)",
+        "1 1/2 tbsp lemon juice ((or white wine vinegar))",
+        "3 - 4 tbsp extra virgin olive oil ((adjust to taste))",
+        "1 tsp dijon mustard",
+        "1 garlic clove",
+        "Salt and pepper",
+        "Finely chopped parsley ((optional))"
+      ],
+      "instructions": [
+        "Combine the Dressing ingredients in a jar and shake well. Set aside - or refrigerate up to 2 days. Bring to room temperature before using.",
+        "Bring a large pot of salted water to boil. Add the beans, bring it back up to a boil and boil beans for 60 seconds - no more!",
+        "Drain and plunge in ice cold water (or run under cold tap water) to stop them from cooking.",
+        "If making ahead, leave in the colander to dry before transferring to the fridge.",
+        "To serve, pile the beans on a plate, top with tomato and red onion, drizzled over dressing. Sprinkle with parsley if using."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

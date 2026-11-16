@@ -1,0 +1,44 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/steak-with-red-wine-pan-sauce",
+  "recipes": [
+    {
+      "name": "Steak with Red Wine Pan Sauce",
+      "source_url": "https://app.cookwell.com/recipe/steak-with-red-wine-pan-sauce",
+      "recipe_id": "https://app.cookwell.com/recipe/steak-with-red-wine-pan-sauce",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT1H30M",
+      "ingredients": [
+        "Steak of choice, 1",
+        "Salt",
+        "Cooking oil, a drizzle",
+        "Red wine, 100 g",
+        "chicken stock, 100 g",
+        "Butter, 30 g",
+        "Shallots, 1/4",
+        "Cornstarch slurry, as needed",
+        "Parsley, to taste",
+        "Black Pepper, to taste",
+        "Salt, to taste"
+      ],
+      "instructions": [
+        "Sprinkle salt over both sides of the steak. If you have time, allow the steak to dry brine for at least 1 hour or up to overnight. Prep the shallot, parsley and gather all the ingredients needed for the pan sauce.",
+        "Set a pan over medium-high heat and add a drizzle of oil, enough to coat the entire pan in a thin layer. Once hot, add the steak and sear to the desired doneness, flipping as needed. I like medium or medium-rare, roughly 130-135°F/54-57°C internal at the thickest point. Remove the steak from the heat and let rest for 5 minutes while you prepare the pan sauce.",
+        "Turn the heat down to medium. Add the minced shallot and bloom for 30 seconds. Pour in the red wine to deglaze the pan and bring to a rapid simmer. Reduce the red wine by about 1/2, roughly 2-3 minutes. Once the wine has been reduced, add the chicken stock and reduce it again by half. Turn the heat to low and add the butter. Stir and melt the butter so it emulsifies into a cohesive sauce. If you want the sauce thicker add a splash of the cornstarch slurry (equal parts cornstarch and water) with the heat on to thicken.",
+        "Turn the heat off. Stir in the fresh cracked black pepper and minced parlsey . Taste it! Add salt or other flavorings as needed. Slice the rested steak and slather the sauce over top. Enjoy with dressed greens or roasted vegetables."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,71 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schneller-veganer-kimchi-in-nur-30-minuten",
+  "recipes": [
+    {
+      "name": "Vegane Fischsauce",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schneller-veganer-kimchi-in-nur-30-minuten",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/schneller-veganer-kimchi-in-nur-30-minuten#recipe-ba84cf2c-0b7c-5ed6-b2b6-2c81b83a4cd0",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "180 - 200 ml",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "3 Noriblätter",
+        "750 ml Wasser",
+        "1 TL Zucker",
+        "50 ml Sojasauce",
+        "Pfeffer",
+        "2 TL Misopaste"
+      ],
+      "instructions": [
+        "Die Noriblätter grob schneiden und mit 750 ml Wasser in einen Topf geben. Aufkochen lassen!",
+        "Nach 15 Minuten 1 TL Zucker, eine Prise Pfeffer, Sojasauce und 2 TL Misopaste hinzugeben. Weitere 5 Minuten köcheln lassen.",
+        "Nun das Wasser durch ein Sieb gießen, damit ihr die Noriblätter aussiebt (die haben sich inzwischen aufgelöst). Ihr solltet ca. 300 ml Flüßigkeit auffangen.",
+        "Das Wasser zurück geben und nochmals für 20-30 Minuten köcheln lassen. Abkühlen lassen und weiter verwenden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Schneller, veganer Kimchi (in nur 30 Minuten)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schneller-veganer-kimchi-in-nur-30-minuten",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/schneller-veganer-kimchi-in-nur-30-minuten#recipe-3c6cca8f-f9af-5f8d-b6cb-56cadead7ab5",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 kleine Portionen / 500 ml Glas",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "1/2 Chinakohl",
+        "2 EL Salz",
+        "1 kleine oder 1/2 Chilischote (wer es schärfer mag, nimmt eine komplette Chilischote oder gar zwei)",
+        "4 EL Sesamöl",
+        "4 TL vegane Fischsauce (Rezept auch auf dem Blog)",
+        "5 TL Sriracha",
+        "2 Frühlingszwiebeln"
+      ],
+      "instructions": [
+        "Den Chinakohl waschen und in feine Scheiben schneiden.",
+        "Chinakohl mit heißem Wasser bedecken, salzen und ca. 20 Minuten ziehen lassen.",
+        "Chilischote waschen, entkernen und fein würfeln. Frühlingszwiebeln waschen und in Ringe schneiden.",
+        "Chinakohl abgießen. Sesamöl, Fischsauce, Chilisoße, Chilischoten und Frühlingszwiebeln mit dem Chinakohl vermengen. Gut umrühren, sodass alles gleichmäßig verteilt ist. Nochmals würzen, falls gewünscht."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/golden-latte-instant-mix-718",
+  "recipes": [
+    {
+      "name": "Golden Latte Instant Mix",
+      "source_url": "https://www.pickuplimes.com/recipe/golden-latte-instant-mix-718",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "27 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "3 Tbsp ground turmeric",
+        "2 Tbsp ground cinnamon",
+        "2 Tbsp vanilla sugar",
+        "1½ Tbsp granulated sugar",
+        "1½ tsp ground cardamom",
+        "1 tsp ground ginger",
+        "¼ tsp ground nutmeg",
+        "⅛ tsp ground black pepper"
+      ],
+      "instructions": [
+        "To make the latte mix, mix all the ingredients together in a bowl or jar until well combined.",
+        "When ready to make a latte, add 1 tsp of the mix to a cup, followed by 1 cup (240 mL) of hot barista oat milk (or other plant milk). Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Vanilla sugar is granulated sugar infused with vanilla beans, commonly used in European kitchens. It can easily be substituted with regular granulated sugar and a splash of vanilla extract. † Add more if you like a kick.",
+    "Storage The mix can be stored in an airtight container or mason jar in a cool and dry place for up to 6 months."
+  ]
+}

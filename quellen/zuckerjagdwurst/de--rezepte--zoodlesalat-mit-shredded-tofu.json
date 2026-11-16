@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/zoodlesalat-mit-shredded-tofu",
+  "recipes": [
+    {
+      "name": "Zoodlesalat mit Shredded Tofu",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/zoodlesalat-mit-shredded-tofu",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/zoodlesalat-mit-shredded-tofu#recipe-5bc5d46d-45a2-5089-a693-611fb8635ecc",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Für den Shredded Tofu:",
+        "1 Zwiebel",
+        "2 Knoblauchzehen",
+        "200 g Naturtofu",
+        "2 EL Umami Gewürzmischung (z. B. von Sonnentor)",
+        "Pflanzenöl",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "200 g Spaghetti",
+        "2 Zucchini (ca. 600 g)",
+        "250 g Karotten",
+        "100 g Tomatenpaste (z. B. von Mani Bläuel)",
+        "80 g schwarze Oliven",
+        "100 g Artischocken",
+        "150 g eingelegte Paprika",
+        "1 Zitrone",
+        "Frisches Basilikum",
+        "Salz",
+        "Pfeffer",
+        "Pflanzenöl"
+      ],
+      "instructions": [
+        "Zwiebel und Knoblauch schälen, fein würfeln und in einer Pfanne mit Pflanzenöl anschwitzen. Naturtofu mit einer Reibe grob reiben, in die Pfanne geben und bei starker Hitze braten, bis er kross ist. Umami-Gewürz hinzugeben, verrühren und mit Salz und Pfeffer abschmecken. Den Shredded Tofu beiseitestellen.",
+        "Die Nudeln nach Packungsanweisung al dente kochen.",
+        "Die Zucchini und Karotten mit einem Spiralschneider in dünne Streifen schneiden. Anschließend die Gemüsenudeln in einer Pfanne mit Pflanzenöl bei mittlerer Hitze circa 5 Minuten anbraten. Vom Herd nehmen und Tomatenpaste unterrühren. Mit Salz und Pfeffer abschmecken.",
+        "Oliven, Artischocken und eingelegte Paprika abtropfen. Artischocken halbieren und Paprika in Streifen schneiden.",
+        "Zum Anrichten Gemüsenudeln auf einen Teller geben, mit Oliven, Artischocken und eingelegten Paprika toppen. Spaghetti aufdrehen und zusammen mit Basilikum auf den Teller geben. Nun den Shredded Tofu darüberstreuen und alles mit Zitronensaft beträufeln.",
+        "Tipp: Wer will, kann noch ein paar Kleckse der Tomatenpaste auf dem Teller verteilen und etwas des Umami-Gewürzes darüberstreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

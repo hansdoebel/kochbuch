@@ -1,0 +1,83 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/gulbi-gui",
+  "recipes": [
+    {
+      "name": "Grilled salted & dried yellow corvina (Gulbi-gui: 굴비구이)",
+      "source_url": "https://www.maangchi.com/recipe/gulbi-gui",
+      "recipe_id": "/recipe/gulbi-gui#sso/recipe/68146",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "4 salted & gulbi (dried yellow corvina) (9 to 10 inches long)",
+        "¼ cup cooking oil (grape seed oil, vegetable oil, or corn oil)"
+      ],
+      "instructions": [
+        "Thaw out the gulbi over a few hours on the kitchen counter or in the fridge overnight. Use kitchen shears to remove all the fins, then clean gulbi with a moist paper towel or cloth.",
+        "Heat up a non-stick skillet or frying pan over medium high heat.",
+        "Add the cooking oil and swirl to coat evenly.",
+        "Place the gulbi side by side and cover. Cook for 4 minutes until the bottom of each gulbi turn golden brown. Turn them over and cover. Let them cook for another 4 minutes.",
+        "Turn them over and cook for a couple of minutes with the lid open. Turn them once more and cook for a couple minutes, until all sides are crunchy and golden brown. Total cooking time for a 9 inch gulbi will be around 12 minutes (4 minutes + 4 minutes + 2 minutes + 2 minutes) over medium high heat.",
+        "Transfer the gulbi-gui to a serving plate. Serve right away with rice and more side dishes."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 4"
+        },
+        {
+          "tag": "li",
+          "text": "4 salted & gulbi (dried yellow corvina) (9 to 10 inches long)"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup cooking oil (grape seed oil, vegetable oil, or corn oil)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Thaw out the gulbi over a few hours on the kitchen counter or in the fridge overnight. Use kitchen shears to remove all the fins, then clean gulbi with a moist paper towel or cloth."
+        },
+        {
+          "tag": "li",
+          "text": "Heat up a non-stick skillet or frying pan over medium high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Add the cooking oil and swirl to coat evenly."
+        },
+        {
+          "tag": "li",
+          "text": "Place the gulbi side by side and cover. Cook for 4 minutes until the bottom of each gulbi turn golden brown. Turn them over and cover. Let them cook for another 4 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Turn them over and cook for a couple of minutes with the lid open. Turn them once more and cook for a couple minutes, until all sides are crunchy and golden brown. Total cooking time for a 9 inch gulbi will be around 12 minutes (4 minutes + 4 minutes + 2 minutes + 2 minutes) over medium high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer the gulbi-gui to a serving plate. Serve right away with rice and more side dishes."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

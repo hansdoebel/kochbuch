@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/homemade-almond-butter-20",
+  "recipes": [
+    {
+      "name": "Homemade Almond Butter",
+      "source_url": "https://www.pickuplimes.com/recipe/homemade-almond-butter-20",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "25 servings",
+      "prep_time": "PT07M",
+      "cook_time": "PT10M",
+      "total_time": "PT17M",
+      "ingredients": [
+        "3 cup raw almonds"
+      ],
+      "instructions": [
+        "Place the almonds onto a baking tray and preheat the oven to 350°F (180°C)*.",
+        "Toast in the oven for 9 to 12 minutes, stirring occasionally until golden and fragrant**. Allow the almonds to cool slightly, though not completely.",
+        "Add the toasted almonds to a high-powered food processor (ideally 900W or higher)***.",
+        "Start processing the almonds at high speed. After a minute or two, the almonds will turn into a coarse meal.",
+        "When the almonds start to stick together, stop the processor and scrape down the sides with a spatula.",
+        "Continue processing for at least 7 to 10 minutes****. The almonds will go through several stages: from meal, to a dough-like ball, and finally to smooth almond butter.",
+        "Let the mixture cool, then store it in a jar. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection). ** The almonds will continue to \"bake\" even when removed from the oven, so be careful not to overcook. *** Use a food processor and not a blender for this. If the mixture heats up, let it rest to cool slightly so as to not damage your food processor. **** If your food processor isn't very powerful, blend for an additional 5 minutes to achieve the desired consistency. You can also add a bit of neutral-tasting oil to help the process along.",
+    "Storage Store in an airtight container or mason jar in a cool, dry, and dark place for up to 1 month. Store in the fridge for up to 3 months."
+  ]
+}

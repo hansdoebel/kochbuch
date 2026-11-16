@@ -1,0 +1,98 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/gotgamssam",
+  "recipes": [
+    {
+      "name": "Gotgamssam (Walnuts wrapped in persimmons)",
+      "source_url": "https://www.maangchi.com/recipe/gotgamssam",
+      "recipe_id": "/recipe/gotgamssam#sso/recipe/21360",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "2 dried persimmons, stalks removed (replace with dried apricots if not available)",
+        "6 roasted walnut halves"
+      ],
+      "instructions": [
+        "Slice open the persimmons by slitting the sides. Make sure not to cut them all the way through.",
+        "Open them up and remove the seeds. Flatten them out and trim the edges to make rectangular strips.",
+        "Put them side by side with sticky part up.",
+        "Add 3 halved walnuts lengthwise, with the wrinkly part down.",
+        "Add 3 more halved walnuts to fit on the first like lids.",
+        "Roll up the persimmon. Cover with plastic wrap and press it together. Keep in the freezer.",
+        "Serve with tea and slice the wraps into ⅓ inch thick pieces.",
+        "Make 3-4 strips of apricot. Put them side by side on your cutting board with sticky part up.",
+        "Add walnuts and roll them up the same way you would do for gotgamssam."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "2 dried persimmons, stalks removed (replace with dried apricots if not available)"
+        },
+        {
+          "tag": "li",
+          "text": "6 roasted walnut halves"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Slice open the persimmons by slitting the sides. Make sure not to cut them all the way through."
+        },
+        {
+          "tag": "li",
+          "text": "Open them up and remove the seeds. Flatten them out and trim the edges to make rectangular strips."
+        },
+        {
+          "tag": "li",
+          "text": "Put them side by side with sticky part up."
+        },
+        {
+          "tag": "li",
+          "text": "Add 3 halved walnuts lengthwise, with the wrinkly part down."
+        },
+        {
+          "tag": "li",
+          "text": "Add 3 more halved walnuts to fit on the first like lids."
+        },
+        {
+          "tag": "li",
+          "text": "Roll up the persimmon. Cover with plastic wrap and press it together. Keep in the freezer."
+        },
+        {
+          "tag": "li",
+          "text": "Serve with tea and slice the wraps into ⅓ inch thick pieces."
+        },
+        {
+          "tag": "h3",
+          "text": "Salgussam (Walnuts wrapped in dried apricots)"
+        },
+        {
+          "tag": "li",
+          "text": "Make 3-4 strips of apricot. Put them side by side on your cutting board with sticky part up."
+        },
+        {
+          "tag": "li",
+          "text": "Add walnuts and roll them up the same way you would do for gotgamssam."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

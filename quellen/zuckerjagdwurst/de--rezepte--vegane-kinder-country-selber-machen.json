@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kinder-country-selber-machen",
+  "recipes": [
+    {
+      "name": "Vegane Kinder Country",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kinder-country-selber-machen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kinder-country-selber-machen#recipe-c975bab9-2589-5193-9336-c85c748fd896",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Schokoladenriegel",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "150 g vegane „Milchschokolade“ (optional: Zartbitterschokolade)",
+        "200 g vegane weiße Schokolade",
+        "30 g gepuffte Cerealien, z.B. Quinoa, Reis, Amaranth, Weizen, Dinkel)",
+        "Silikonform/Eiswürfelform"
+      ],
+      "instructions": [
+        "Die vegane „Milchschokolade“ grob hacken und im Wasserbad schmelzen.",
+        "Mit einem Pinsel die Silikonformen mit der geschmolzenen veganen Schokolade bestreichen. Dafür könnt ihr etwas mehr als die Hälfte der Schokolade verwenden. Die restliche geschmolzene Schokolade beiseitestellen und die Formen in den Kühlschrank stellen, bis die Schokohülle fest ist.",
+        "In der Zwischenzeit die vegane weiße Schokolade im Wasserbad schmelzen.",
+        "Sobald die weiße Schokolade flüssig ist, den Topf vom Herd nehmen und die gepufften Cerealien gut unter die geschmolzene weiße Schokolade rühren.",
+        "Die Silikonform aus dem Kühlschrank holen und mit dem Schokolade-Cerealien-Mix füllen. Erneut ca. 10 Min. in den Kühlschrank stellen.",
+        "In der Zwischenzeit (falls nötig) die vegane „Milchschokolade“ erneut schmelzen. Eine dünne Schokoladenschicht mithilfe des Pinsels auf den Riegeln verteilen, sodass die Riegel nun rundherum mit der dunkleren Schokolade bedeckt sind. Im Kühlschrank erneut abkühlen lassen und innerhalb von 5-7 Tagen essen (das sollte kein Problem sein)."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

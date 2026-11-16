@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schokoladen-vom-blech-mit-frischkaese-topping",
+  "recipes": [
+    {
+      "name": "Veganer Schokoladenkuchen vom Blech mit Frischkäse-Topping",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schokoladen-vom-blech-mit-frischkaese-topping",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schokoladen-vom-blech-mit-frischkaese-topping#recipe-0abbd73c-48af-5946-8095-abdad6774279",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (23x40 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "Für den Teig:",
+        "180 ml starken Kaffee",
+        "550 ml pflanzliche Milch",
+        "2 EL Apfelessig",
+        "525 g Mehl (Type 405)",
+        "350 g Zucker",
+        "150 g ungesüßtes Kakaopulver",
+        "16 g (3 TL) Backpulver",
+        "2 TL Natron",
+        "1 Prise Salz",
+        "450 g Apfelmus",
+        "225 ml Rapsöl",
+        "Für die Creme:",
+        "300 ml pflanzliche Sahne zum Aufschlagen",
+        "16 g (1.5 EL) Vanillezucker",
+        "16 g (2.5 EL) Sahnesteif",
+        "300 g pflanzlicher Frischkäse Natur",
+        "50 g Puderzucker",
+        "1 Zitrone (Abrieb)",
+        "Außerdem:",
+        "vegane Butter oder Pflanzenöl zum Einfetten",
+        "bunte vegane Zuckerstreusel zum Dekorieren"
+      ],
+      "instructions": [
+        "Starken Kaffee kochen und abkühlen lassen. In der Zwischenzeit pflanzliche Milch und Apfelessig in einer Schüssel verrühren und ca. 5 Minuten stehen lassen.",
+        "Backofen auf 180°C Umluft vorheizen und eine viereckige Backform (23x40 cm) mit veganer Butter oder Pflanzenöl einfetten.",
+        "Für den Teig Mehl, Zucker, ungesüßtes Kakaopulver, Backpulver, Natron und Salz in einer großen Schüssel vermischen. In einer zweiten Schüssel Apfelmus, Rapsöl, den abgekühlten Kaffee und die Apfelessig-Pflanzenmilch-Mischung miteinander verrühren. Die flüssige Mischung zu den trockenen Zutaten geben und alles zu einem glatten Teig vermengen.",
+        "Den Teig in die vorbereitete Kuchenform füllen und ca. 60 Minuten bei 180°C Umluft backen. Mit einem Stäbchen testen, ob der Teig durch ist: das Holzstäbchen dafür schräg in den Teig stechen. Wenn beim Herausziehen kein Teig am Stäbchen kleben bleibt, ist der Kuchen durchgebacken. Den Kuchen aus dem Ofen nehmen und komplett abkühlen lassen.",
+        "Für die Creme die pflanzliche Sahne mit Vanillezucker und Sahnesteif aufschlagen. Pflanzlichen Frischkäse vorsichtig unterheben und die Creme mit Puderzucker und Zitronenabrieb abschmecken. Die Creme im Anschluss kaltstellen, bis der Kuchen komplett abgekühlt ist.",
+        "Die Creme auf dem abgekühlten Teig verstreichen und mit bunten Zuckerstreuseln dekorieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-erdbeer-donauwelle",
+  "recipes": [
+    {
+      "name": "Vegane Erdbeer-Donauwelle",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-erdbeer-donauwelle",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-erdbeer-donauwelle#recipe-b6381721-3669-5aeb-bcc1-c7ed8ce2119d",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Springform (∅ 26 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT220M",
+      "ingredients": [
+        "Für den Teig:",
+        "340 g Weizenmehl Typ 405 oder Dinkelmehl Typ 603",
+        "150 g Zucker",
+        "8 g (1.5 TL) Backpulver",
+        "8 g (1.5 TL) Vanillezucker",
+        "425 ml Sprudelwasser",
+        "75 ml Sonnenblumenöl",
+        "20 g Backkakao",
+        "Für die Buttercreme:",
+        "37 g veganes Vanille-Puddingpulver",
+        "40 g Zucker",
+        "500 ml Soja- oder Nussmilch",
+        "125 g vegane Butter (Zimmertemperatur)",
+        "300 g Erdbeeren",
+        "Für die Schokoladenschicht:",
+        "100 g Zartbitterschokolade",
+        "2 EL Kokosöl",
+        "200 g Erdbeeren"
+      ],
+      "instructions": [
+        "Den Ofen auf 180°C (Umluft) vorheizen. Für den Teig Mehl, Zucker, Backpulver und Vanillezucker in einer großen Schüssel vermischen. 375 ml Sprudelwasser und pflanzliches Öl hinzugeben und nur noch kurz verrühren. Eine Springform (∅ 26 cm) einfetten und die Hälfte des Teiges hineinfüllen.",
+        "In den restlichen Teig Kakaopulver und die übrigen 50 ml Sprudelwasser einrühren. Den Schokoladenteig nun auf den hellen Teig gießen. Bei 180°C (Umluft) für 40 Minuten backen und anschließend komplett abkühlen lassen.",
+        "Das Puddingpulver nach Packungsanweisung zubereiten und ebenfalls komplett abkühlen lassen. Dafür vermischt man meist das Vanille-Puddingpulver mit Zucker und Soja- oder Nussmilch und gießt diesen Mix im Anschluss zur restlichen kochenden Milch.",
+        "Erdbeeren waschen und entstielen. 300 g in kleine Würfel schneiden und 200 g in feine Scheiben.",
+        "Die vegane Butter mit einem Rührgerät aufschlagen und den abgekühlten Pudding nach und nach hinzugeben, bis eine glatte Creme entsteht. Die gewürfelten Erdbeeren vorsichtig unterheben. Die Puddingcreme auf dem erkalteten Kuchen verteilen und kaltstellen.",
+        "Für die Schokoladenschicht die Zartbitterschokolade in einem Wasserbad erhitzen und das Kokosöl unterrühren. Die Schokolade auf Raumtemperatur abkühlen lassen und gleichmäßig auf dem Kuchen verteilen. Nun direkt mit den Erdbeerscheiben dekorieren und für mindestens 1 Stunde kaltstellen.",
+        "Tipp: Zum Schneiden des Kuchens am besten ein scharfes Messer verwenden, das zuvor in heißes Wasser getaucht (und natürlich abgetrocknet) wurde."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

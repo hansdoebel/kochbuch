@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-cheesecake-brownies",
+  "recipes": [
+    {
+      "name": "Vegane Cheesecake Brownies",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-cheesecake-brownies",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-cheesecake-brownies#recipe-0ac51d83-15c1-5ad2-8a68-bd12c815f97f",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "9 Brownies (20 x 25 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT55M",
+      "ingredients": [
+        "Für den Brownieteig:",
+        "200 g Zartbitterschokolade",
+        "200 g Weizenmehl (Type 405)",
+        "200 g Zucker",
+        "50 g ungesüßtes Kakaopulver",
+        "100 g Apfelmus",
+        "100 ml neutrales Pflanzenöl",
+        "200 ml pflanzliche Milch",
+        "Für die Cheesecake-Creme:",
+        "150 g veganer Skyr/Quark",
+        "200 g veganer Frischkäse auf Mandelbasis",
+        "20 g Zucker",
+        "37 g veganes Vanille-Puddingpulver",
+        "2 TL Zitronensaft",
+        "1 Zitrone (Abrieb)"
+      ],
+      "instructions": [
+        "Zartbitterschokolade über einem Wasserbad schmelzen und im Anschluss etwas abkühlen lassen. Den Ofen auf 180 °C (Umluft) vorheizen. Eine Backform (20 x 25 Zentimeter) einfetten.",
+        "Mehl, Zucker und Kakaopulver in einer großen Schüssel verrühren. Danach die geschmolzene Schokolade, Apfelmus, Pflanzenöl und pflanzliche Milch hinzugeben und zu einem glatten Teig mischen.",
+        "Für die Cheesecake-Creme veganen Quark, Frischkäse und Zucker verrühren. Das Vanille-Puddingpulver mit etwas Wasser glattrühren und unterrühren. Mit Zitronensaft und -abrieb abschmecken.",
+        "Den Brownie-Teig in die vorbereitete Backform geben und glattstreichen. Nun die Cheesecake-Creme auf dem Brownie-Teig verteilen und ebenfalls glattstreichen.",
+        "Die Brownies bei 180 °C (Umluft) 30 Minuten backen. Vor dem Anschneiden abkühlen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

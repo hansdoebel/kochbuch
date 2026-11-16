@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pizza-aus-der-pfanne",
+  "recipes": [
+    {
+      "name": "Vegane Pizza aus der Pfanne",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pizza-aus-der-pfanne",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pizza-aus-der-pfanne#recipe-ed88f3c6-4f03-5761-9a2f-69a22e70077e",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "3 große Pizzen (oder 6 kleine) (Ø Pfanne 28 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "Für den Teig:",
+        "15 g frische Hefe",
+        "360 ml Wasser (lauwarm)",
+        "1 TL Zucker",
+        "500 g Weizenmehl (Type 550) oder Dinkelmehl (Type 630)",
+        "100 g Weizenvollkornmehl",
+        "2 TL Salz",
+        "3 EL Olivenöl",
+        "Für den Belag:",
+        "300 g passierte Tomaten",
+        "2 Knoblauchzehen",
+        "1 TL getrockneter Oregano",
+        "1 rote Zwiebel",
+        "200 g Mais aus der Dose",
+        "200 g bunte Cocktailtomaten",
+        "250 g Rucola",
+        "200 g veganer Reibekäse",
+        "Olivenöl",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Die frische Hefe in eine große Schüssel geben. Lauwarmes Wasser und Zucker dazugeben und circa 10 Minuten warten, bis die Hefe Bläschen an der Wasseroberfläche schlägt. Anschließend Weizen- und Weizenvollkornmehl, Salz und Olivenöl dazugeben und gut mit einem Kochlöffel verrühren, bis sich alle Zutaten zu einem Teig verbunden haben.",
+        "Die Schüssel mit einem feuchten Tuch abdecken und circa 1 Stunde an einem warmen Ort gehen lassen, bis sich das Volumen des Teigs verdoppelt hat.",
+        "Tipp: Wenn ihr den Teig schon morgens ansetzen wollt, könnt ihr ihn bis abends in den Kühlschrank stellen und dort gehen lassen.",
+        "Für die Soße passierte Tomaten in eine kleine Schüssel geben. Knoblauchzehen mit einer Presse zerdrücken und zusammen mit getrocknetem Oregano zu den Tomaten geben. Mit Salz und Pfeffer abschmecken.",
+        "Rote Zwiebel in feine halbe Ringe schneiden, Mais abtropfen lassen, Cocktailtomaten halbieren und Rucola waschen. Veganen Reibekäse mit etwas Olivenöl und Wasser in einer Schüssel vermischen.",
+        "Sobald der Teig gegangen ist, in 6–8 Portionen teilen und zu Kugeln formen. Anschließend jede Kugel zu einem Fladen ausrollen.",
+        "Eine große Pfanne mit etwas Olivenöl auf kleiner Stufe erhitzen (Stufe 3–4). Das Öl mit einem Pinsel in der gesamten Pfanne verstreichen. Je nach Größe der Pfanne 1–3 Teigfladen in die Pfanne legen, den Deckel aufsetzen und circa 5 Minuten anbraten. Umdrehen und auch die andere Seite circa 5 Minuten anbraten. Die Fladen mit einem Pfannenwender andrücken, damit der Teig gleichmäßig gebräunt wird.",
+        "Nun die Pizzen erneut wenden und mit Tomatensoße bestreichen. Anschließend mit veganem Reibekäse, Zwiebeln, Mais und halbierten Tomaten belegen. Den Deckel auf die Pfanne setzen und circa 10 Minuten braten, bis der Käse geschmolzen ist. Zwischendurch immer wieder den Boden kontrollieren, damit dieser nicht zu dunkel wird. Falls nötig, die Temperatur etwas herunterstellen.",
+        "Die Pizzen aus der Pfanne nehmen, mit Salz, Pfeffer und getrocknetem Oregano bestreuen und mit Rucola toppen und servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

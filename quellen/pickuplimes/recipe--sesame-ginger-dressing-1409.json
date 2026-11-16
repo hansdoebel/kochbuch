@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/sesame-ginger-dressing-1409",
+  "recipes": [
+    {
+      "name": "Sesame Ginger Dressing",
+      "source_url": "https://www.pickuplimes.com/recipe/sesame-ginger-dressing-1409",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "1 lime",
+        "3 Tbsp rice vinegar",
+        "3 Tbsp reduced-sodium soy sauce",
+        "2 Tbsp toasted sesame oil",
+        "2 Tbsp grated fresh ginger",
+        "2 Tbsp agave syrup",
+        "1 tsp toasted sesame seeds"
+      ],
+      "instructions": [
+        "Add all the ingredients to a small bowl.",
+        "Mix, and enjoy with your favourite salad!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 4 days."
+  ]
+}

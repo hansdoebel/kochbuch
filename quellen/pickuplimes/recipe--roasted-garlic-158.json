@@ -1,0 +1,38 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/roasted-garlic-158",
+  "recipes": [
+    {
+      "name": "Perfect Roasted Garlic",
+      "source_url": "https://www.pickuplimes.com/recipe/roasted-garlic-158",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 bulbs",
+      "prep_time": "PT02M",
+      "cook_time": "PT20M",
+      "total_time": "PT22M",
+      "ingredients": [
+        "1 head of garlic",
+        "2 tsp olive oil"
+      ],
+      "instructions": [
+        "Preheat the oven to 400°F (200°C)*. Cut the top ½ cm off the top of a bulb of garlic to expose the cloves.",
+        "Transfer to a baking tray, and drizzle on the olive oil.",
+        "Roast in the centre rack of the oven for 20 to 25 minutes, or until they are lightly golden.",
+        "Remove from the oven and let cool. The garlic can be squeezed from the peel once cooled."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

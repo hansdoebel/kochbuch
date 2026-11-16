@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/flinke-black-forest-schnitten",
+  "recipes": [
+    {
+      "name": "Flinke Black-Forest-Schnitte",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/flinke-black-forest-schnitten",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/flinke-black-forest-schnitten#recipe-6aa8e412-0221-58f0-b3d9-8e258611e056",
+      "authors": [
+        "Anneke Schügner"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Schnitten",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT85M",
+      "ingredients": [
+        "300 g Weizenmehl Type 405",
+        "100 g Zucker",
+        "16 g Vanillezucker",
+        "200 g vegane Butter",
+        "kaltes Wasser nach Bedarf",
+        "160 g Kirsch-Schoko-Fruchtaufstrich (z.B. Black Forest von Flink’s Finest)",
+        "150 g Zartbitter Schokolade"
+      ],
+      "instructions": [
+        "Ofen auf 180°C (Ober-/Unterhitze) vorheizen. Für den Teig Mehl, Zucker und Vanillezucker in eine große Schüssel vermischen. Die kalte vegane Butter hinzugeben und sorgfältig mit den Händen verkneten, bis ein geschmeidiger Teig entsteht. Sollte der Teig zu fest sein, etwas kaltes Wasser hinzugeben.",
+        "Den Teig in zwei teilen und jeweils zu einem Rechteck (20 cm x 30 cm) ausrollen und für 10 Minuten bei 180°C (Ober-/Unterhitze) backen.",
+        "In der Zwischenzeit vegane Schokolade im Wasserbad schmelzen.",
+        "Einen der noch warmen Böden großzügig mit Kirsch-Schoko-Fruchtaufstrich bestreichen und im Anschluss den Zweiten darauf platzieren.",
+        "Die Schokolade darauf verstreichen und in acht gleichgroße Stücke teilen. Im Kühlschrank halten sich die Schnitten bis zu fünf Tage."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

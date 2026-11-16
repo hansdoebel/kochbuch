@@ -1,0 +1,34 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/sriracha-mayo-67",
+  "recipes": [
+    {
+      "name": "Sriracha Mayo",
+      "source_url": "https://www.pickuplimes.com/recipe/sriracha-mayo-67",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT03M",
+      "cook_time": "",
+      "total_time": "PT03M",
+      "ingredients": [
+        "6 Tbsp vegan mayonnaise",
+        "2 Tbsp sriracha"
+      ],
+      "instructions": [
+        "Mix together the mayo and sriracha in a bowl, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage The sauce can be stored in an airtight container in the fridge for up to 3 weeks."
+  ]
+}

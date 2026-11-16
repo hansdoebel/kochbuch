@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nougatringe-wie-von-der-baeckerei",
+  "recipes": [
+    {
+      "name": "Vegane Nougatringe wie von der Bäckerei",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nougatringe-wie-von-der-baeckerei",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nougatringe-wie-von-der-baeckerei#recipe-4544eeff-7fb5-5b92-b3e8-2fc8252e191f",
+      "authors": [
+        "Gesine Fiedler"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT162M",
+      "ingredients": [
+        "Für den Keksteig:",
+        "250 g Weizenmehl (Type 405)",
+        "150 g kalte vegane Butter",
+        "100 g Zucker",
+        "1 Prise Salz",
+        "Für die Nougatfüllung:",
+        "450 g fester Nougat",
+        "150 g vegane Butter",
+        "1 Prise Vanille",
+        "Ansonsten:",
+        "300 g dunkle Kuvertüre (60 % Kakao)"
+      ],
+      "instructions": [
+        "Für den Teig Mehl, vegane Butter, Zucker und Salz in eine Schüssel geben und zügig glatt kneten. Den fertigen Teig zu einer Kugel formen und in Folie gewickelt für mindestens eine Stunde in den Kühlschrank legen.",
+        "Den Ofen auf 180 °C (Ober-/Unterhitze) vorheizen und ein Blech mit Backpapier auslegen. Den Teig auf der Arbeitsfläche zwischen zwei Bögen Backpapier circa 3 Millimeter dünn ausrollen, dann mit einem Ausstecher oder einem Trinkglas 12 Teigkreise ausstechen. Mit einem kleineren Ausstecher in jeden Kreis ein Loch mittig ausstechen. Die Kringel auf das Backblech legen und für circa 12 Minuten bei 180 °C (Ober-/Unterhitze) goldbraun backen. Danach auf dem Blech vollständig auskühlen lassen.",
+        "Für die Füllung Nougat und vegane Butter in kleine Würfel schneiden. Beides in einem Topf zusammen mit Vanille unter Rühren erwärmen, bis eine flüssig-cremige Masse entstanden ist. Die Nougatcreme in eine Schüssel umfüllen und solange in den Kühlschrank stellen, bis die Masse cremig-fest geworden ist (dauert circa 1 Stunde). Die Masse in einen Spritzbeutel mit großer Lochtülle füllen und auf jeden Keks, je nach gewünschter Dicke, ein bis zwei dicke Kringel spritzen. Die Kekse danach kurz in den Kühlschrank stellen, damit die Nougatcreme richtig fest wird.",
+        "Für den Überzug dunkle Kuvertüre fein hacken und im Wasserbad schmelzen. Je nach Wunsch können jetzt noch gehackte Nüsse in die Schokolade gerührt werden. Dann jeden Keks mit der Nougatseite voran in die flüssige Schokolade tunken. Die Kekse etwas abklopfen, dann zurück aufs Backpapier setzen und vollständig fest werden lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

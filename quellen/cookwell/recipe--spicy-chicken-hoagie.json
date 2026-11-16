@@ -1,0 +1,47 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/spicy-chicken-hoagie",
+  "recipes": [
+    {
+      "name": "Spicy Chicken Hoagie",
+      "source_url": "https://app.cookwell.com/recipe/spicy-chicken-hoagie",
+      "recipe_id": "https://app.cookwell.com/recipe/spicy-chicken-hoagie",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Chicken Breasts, 2",
+        "Cooking oil, a drizzle",
+        "Salt, a sprinkle",
+        "Dried oregano, 2 parts",
+        "Garlic Powder, 1 part",
+        "Cayenne Pepper, 1/2 part",
+        "Mayonnaise, 3 parts",
+        "Calabrian chilies, 1 part",
+        "Hoagie rolls, 2",
+        "Lettuce, to taste",
+        "Tomatoes, to taste",
+        "Onions, to taste",
+        "Balsamic Vinegar, a drizzle",
+        "Parmesan, a sprinkle"
+      ],
+      "instructions": [
+        "Add the oregano, garlic powder, and cayenne to a mortar & pestle (or spice grinder). Grind until the oregano has pulverized and the mixture is a uniform powder. You’ll need enough spice mix to cover all of the chicken generously. Use a knife to butterfly or thin out each chicken breast to a uniform thickness. Sprinkle each side of the chicken with some salt. Then, evenly sprinkle the spice mixture all over the chicken until it is completely covered with a layer of seasoning. Full coverage is necessary to “blacken” the chicken during searing in the next step.",
+        "Add a bit of oil to a pan on medium-high heat then lay in the chicken. Sear the chicken until the seasonings “blacken” or form a light crust, making sure to flip frequently while doing so to avoid burning. Use a thermometer to pull the chicken breast at around 155°F/68°C (internal temp). Remove the chicken from the pan and let it rest before slicing.",
+        "Meanwhile, mix the mayo and chopped chilies until well combined. Taste and adjust if needed. Warm or toast the hoagie roll. Chop or gather any other toppings and components you need for the sandwich. Now that the cooked chicken has rested for a few minutes, slice it up into thin shavings.",
+        "Add a slather of Calabrian Mayo to the insides of the hoagie roll. Add a serving of warm chicken followed by any remaining toppings. TIP: Adding the parmesan directly to the warm chicken will help it melt (feel free to bust out a blowtorch or the broiler to help it along). A final drizzle of balsamic brings the sandwich together. Optionally wrap with parchment paper or foil to contain the sandwich during eating. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

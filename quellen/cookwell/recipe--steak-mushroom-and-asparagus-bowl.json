@@ -1,0 +1,50 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/steak-mushroom-and-asparagus-bowl",
+  "recipes": [
+    {
+      "name": "Steak, Mushroom, and Asparagus Bowl",
+      "source_url": "https://app.cookwell.com/recipe/steak-mushroom-and-asparagus-bowl",
+      "recipe_id": "https://app.cookwell.com/recipe/steak-mushroom-and-asparagus-bowl",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Flank, skirt, or flatiron steak, 350 g",
+        "Neutral oil, a spoonful",
+        "Salt",
+        "Soy Sauce, 1 part",
+        "Hoisin, 1 part",
+        "Chili garlic paste, 1 part",
+        "Sesame Seeds, 1/2 part",
+        "Shiitake Mushrooms, 5",
+        "Garlic, 2 cloves",
+        "Asparagus, 1/2 bunch",
+        "Neutral oil, a drizzle",
+        "Salt, a sprinkle",
+        "White rice",
+        "Sesame Seeds",
+        "Pickled ginger",
+        "Scallions",
+        "Kewpie mayo"
+      ],
+      "instructions": [
+        "Combine all the sweet & spicy sauce ingredients together until homogenous. Set aside.",
+        "To cook, heat a wok (or a large fry pan) over high heat. Add a drizzle of neutral oil and the garlic and bloom for 20 seconds. Add the mushrooms and asparagus with a pinch of salt and stir fry for a couple of minutes. Set aside, and wipe the wok clean.",
+        "Heat the wok until smoking again and add oil to the pan. Add steak cubes and let them sear on one side for a couple of minutes to brown the exterior. Toss and cook the other sides of the steak, then add the stir-fry sauce. Cook for another minute or so to let the sauce reduce and glaze the steak.",
+        "Add a serving of rice to a bowl, half of the vegetables, a sprinkle of toasted sesame seeds, and the steak. Add any additional toppings you may enjoy: scallions, mayo, stir fry sauce, and pickled ginger. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

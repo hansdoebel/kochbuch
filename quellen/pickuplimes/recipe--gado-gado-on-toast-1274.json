@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/gado-gado-on-toast-1274",
+  "recipes": [
+    {
+      "name": "Gado Gado on Toast",
+      "source_url": "https://www.pickuplimes.com/recipe/gado-gado-on-toast-1274",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT10M",
+      "ingredients": [
+        "2 tsp vegetable oil",
+        "4 slice whole wheat bread",
+        "⅓ cup natural peanut butter",
+        "¼ cucumber",
+        "¼ cup grated carrot",
+        "1 Tbsp ketjap manis",
+        "1 Tbsp sambal oelek",
+        "2 Tbsp fried shallots"
+      ],
+      "instructions": [
+        "To a large pan over medium-high heat, add the oil and slices of bread. Toast the bread until golden on both sides.",
+        "Top the toast with peanut butter, cucumber, carrot, ketjap, sambal, and fried shallots. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Ketjap manis is a sweetened Indonesian soy sauce with a thick, syrupy texture and rich, sweet flavour. Made from fermented soybeans, sugar, garlic, and spices, it has a complex, aromatic taste. Find it at your local Asian grocery store.",
+    "Storage The assembled toast is best when enjoyed immediately."
+  ]
+}

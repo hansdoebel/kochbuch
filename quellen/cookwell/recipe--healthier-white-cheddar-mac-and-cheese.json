@@ -1,0 +1,39 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/healthier-white-cheddar-mac-and-cheese",
+  "recipes": [
+    {
+      "name": "Healthier White Cheddar Mac & Cheese",
+      "source_url": "https://app.cookwell.com/recipe/healthier-white-cheddar-mac-and-cheese",
+      "recipe_id": "https://app.cookwell.com/recipe/healthier-white-cheddar-mac-and-cheese",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "White Cheddar Powder, 30 g",
+        "Skim milk, 30 g",
+        "Low-fat sour cream, 30 g",
+        "Dried pasta, 170 g",
+        "Salt, to taste",
+        "chicken, 150 g",
+        "Frozen peas, 100 g"
+      ],
+      "instructions": [
+        "In a saucepot or wide pan, barely submerge the dried pasta with water and add a sprinkle of salt. Boil until most of the water has been absorbed by the pasta, and the pasta is al dente, about 12-13 minutes. This will concentrate the starch from the paste and help create a sauce without needing extra butter and cheese.",
+        "Turn off the heat. To create the sauce, add the cheddar powder, milk, and sour cream and stir until creamy.",
+        "Eat the mac as is, or add peas & chicken until warmed through. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

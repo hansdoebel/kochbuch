@@ -1,0 +1,48 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/za-atar-marinated-pasta-and-chicken-salad",
+  "recipes": [
+    {
+      "name": "Za’atar Marinated Pasta & Chicken Salad",
+      "source_url": "https://app.cookwell.com/recipe/za-atar-marinated-pasta-and-chicken-salad",
+      "recipe_id": "https://app.cookwell.com/recipe/za-atar-marinated-pasta-and-chicken-salad",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT35M",
+      "ingredients": [
+        "Chicken Breasts, 225 g",
+        "Salt, a sprinkle",
+        "Cooking oil, a drizzle",
+        "Olive Oil, 50 g",
+        "Vinegar, 50 g",
+        "Za'atar, 10 g",
+        "Dried oregano, 5 g",
+        "Red Pepper Flakes, 1/2 spoonful",
+        "Short pasta of choice, 112 g",
+        "Chickpeas, 75 g",
+        "Parmesan, 30 g",
+        "Arugula, 30 g",
+        "Tomatoes, 30 g",
+        "Red Onions, 15 g",
+        "Pepperoncini Peppers, 15 g"
+      ],
+      "instructions": [
+        "Boil the pasta according to package directions (in salted water). While the pasta cooks, make the chicken or prep other ingredients.",
+        "First, thin out the chicken breast(s) with a knife so it cooks more evenly and quickly. You can either butterfly it into one thinner piece, or slice it horizontally into two thinner pieces. Once thinned out, add a sprinkle of salt to both sides of each piece (optionally you can let this rest in the fridge overnight to dry brine). Add a drizzle of oil to a pan or griddle on high heat and sear the chicken pieces on each side until cooked through. Pull the chicken breast off the heat when the internal temp hits 155°F/68°C (so it doesn’t dry out). Let it rest before slicing up to maintain moisture, during which you can mix the sauce.",
+        "Combine all za’atar marinade dressing ingredients in a bowl. If you haven’t already, drain the pasta and gather or prep any remaining ingredients.",
+        "Dice up the cooked chicken and add it to a large mixing bowl. Add the drained pasta followed by all of the remaining pasta salad components. Slowly add in the marinade dressing while tossing everything together. Taste and add more dressing until it has reached your desired seasoning and sauce consistency. Adjust with salt or extra ingredients or spices as needed. Serve warm or cold."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

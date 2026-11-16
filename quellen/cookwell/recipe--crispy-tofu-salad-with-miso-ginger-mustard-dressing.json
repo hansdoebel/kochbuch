@@ -1,0 +1,47 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/crispy-tofu-salad-with-miso-ginger-mustard-dressing",
+  "recipes": [
+    {
+      "name": "Crispy Tofu Salad with Miso Ginger Mustard Dressing",
+      "source_url": "https://app.cookwell.com/recipe/crispy-tofu-salad-with-miso-ginger-mustard-dressing",
+      "recipe_id": "https://app.cookwell.com/recipe/crispy-tofu-salad-with-miso-ginger-mustard-dressing",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-4 salads",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Firm tofu, 1 package",
+        "Salt, a sprinkle",
+        "Baking spray, as needed",
+        "Rice Vinegar, 5 parts",
+        "Miso Paste, 4 parts",
+        "Sesame Oil, 1 part",
+        "Karashi mustard, 1/2 part",
+        "Fresh ginger, to taste",
+        "Romaine lettuce, a handful",
+        "Cucumbers, a handful",
+        "Cherry tomatoes, a handful",
+        "Sesame Seeds",
+        "Pickled ginger",
+        "Chili crisp oil"
+      ],
+      "instructions": [
+        "Cut the tofu package into even, 1\" cubes. Evenly sprinkle all sides of the tofu pieces with salt to brine. Place on a wire rack or paper towel. Let it rest for at least 10 minutes to season and draw out some moisture.",
+        "Meanwhile, add all miso dressing ingredients to a container or squirt bottle and shake until emulsified. Taste and adjust as needed.",
+        "Preheat an oven broiler on the high setting. Use a paper towel to dry off the exterior of the tofu pieces. Add them to a lightly oiled sheet pan, and spritz or toss with a bit more oil to just barely coat. Broil for 5-7 minutes, flip, and broil for another 5-7 minutes until well colored and crispy. Alternatively, use an air fryer at 450°F/232°C and go for 10-15 minutes or until crispy.",
+        "Add all remaining salad components to a bowl, including a portion of crispy tofu. The ratios are up to you, but equal parts of the tofu, lettuce, tomato, and cucumber make for a satisfying & texturally interesting meal. Toss or drizzle with the miso dressing and garnish as desired. Serve & enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

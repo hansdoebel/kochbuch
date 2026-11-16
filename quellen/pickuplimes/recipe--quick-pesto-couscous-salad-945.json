@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/quick-pesto-couscous-salad-945",
+  "recipes": [
+    {
+      "name": "Quick Pesto Couscous Salad",
+      "source_url": "https://www.pickuplimes.com/recipe/quick-pesto-couscous-salad-945",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT10M",
+      "ingredients": [
+        "1 cup couscous",
+        "½ vegetable bouillon cube",
+        "1 cup boiling water",
+        "1 cup cherry tomatoes",
+        "½ cucumber",
+        "⅓ cup kalamata olives",
+        "3.175 oz vegan feta",
+        "¼ cup fresh basil leaves",
+        "3 Tbsp fresh mint leaves",
+        "3 Tbsp fresh parsley",
+        "¾ cup cooked brown lentils",
+        "¼ cup vegan green pesto"
+      ],
+      "instructions": [
+        "In a large bowl, combine the couscous, crushed bouillon, and boiling water. Mix, cover with a plate and set aside.",
+        "In the meantime, chop the veggies, olives and feta into bite-sized pieces, and finely chop the herbs.",
+        "Coming back to the large bowl with couscous, remove the plate and use a fork to “fluff” the couscous.",
+        "Add the veggies, feta, herbs, lentils and pesto to the bowl with couscous. Mix and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage The couscous salad can be stored in an airtight container in the fridge for up to 3 days."
+  ]
+}

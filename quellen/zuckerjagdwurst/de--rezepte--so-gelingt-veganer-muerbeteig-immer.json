@@ -1,0 +1,35 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/so-gelingt-veganer-muerbeteig-immer",
+  "recipes": [
+    {
+      "name": "Grundrezept für veganen Mürbeteig",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/so-gelingt-veganer-muerbeteig-immer",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/so-gelingt-veganer-muerbeteig-immer#recipe-8dd5e73b-1b46-5b81-9448-5f28d0361322",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Teig",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "300 g Weizenmehl",
+        "200 g vegane Butter",
+        "100 g Zucker",
+        "kaltes Wasser nach Bedarf"
+      ],
+      "instructions": [
+        "Vermischt Weizenmehl und Zucker in einer großen Schüssel. Die kalte vegane Butter in Flocken darübergeben und mit kalten Händen verkneten. Gebt etwas Eiswasser (oder sehr kaltes Wasser) dazu und knetet bis ein geschmeidiger Teig entsteht.",
+        "Den Teig in Frischhaltefolie einpacken und mindestens 30 Minuten im Kühlschrank kühlen lassen, bevor ihr ihn weiterverarbeitet."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

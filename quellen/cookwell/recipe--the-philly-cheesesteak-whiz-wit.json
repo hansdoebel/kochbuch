@@ -1,0 +1,42 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/the-philly-cheesesteak-whiz-wit",
+  "recipes": [
+    {
+      "name": "The Philly Cheesesteak (Whiz Wit)",
+      "source_url": "https://app.cookwell.com/recipe/the-philly-cheesesteak-whiz-wit",
+      "recipe_id": "https://app.cookwell.com/recipe/the-philly-cheesesteak-whiz-wit",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT22M",
+      "ingredients": [
+        "Hoagie rolls, 2",
+        "Ribeye, 450 g",
+        "Sweet onion, 1/4",
+        "Cooking oil, a spoonful",
+        "Salt, to taste",
+        "Evaporated milk, 50 g",
+        "Cheddar, 50 g",
+        "American Cheese, 4 slices"
+      ],
+      "instructions": [
+        "Trim any exterior fat from the steak and slice it into thin pieces (get rid of any gristle). Place the fat pieces along with a spoonful of oil on a cast iron griddle or pan. Set to low heat to render the beef fat. Meanwhile, cut the steak in half and then into very thin shavings across the grain (you’ll need a sharp knife for this). Cut the resulting beef shavings in half so they are smaller, bite-size pieces. Note: If you’re having trouble making thin slices, it can help to firm up the steak in the freezer for up to an hour.",
+        "Remove any unrendered fat pieces from the oil. Toss in the diced onions along with a small pinch of salt. Let those gently sauté over low heat, stirring occasionally until the onions are translucent, about 8 minutes.",
+        "Meanwhile, set a nonstick pan over medium-low heat. Add the evaporated milk, American cheese slices, and cheddar cheese. Stir constantly until well melted and completely smooth. Transfer the cheese whiz to a bowl. Wash the pan immediately — any remaining whiz that dries up will be difficult to clean later.",
+        "When the onions are mostly translucent and softened, slide them to the side of the pan. Add the steak along with another pinch of salt and let that sauté slowly. When the steak has mostly cooked through but has some pink left, toss the cooked onions back into the mix, and finish cooking the steak through. Turn off the heat.",
+        "On the griddle, loosely separate the steak into two sandwich portions. Add about half the cheese sauce over top of the steak portions so it melts into each mixture (save the rest of the whiz for adding directly to the sandwich). Transfer the cheesy steak mixture to sliced hoagie rolls. Drizzle in the remaining cheese sauce over top of each sandwich. To finish, wrap each hoagie tightly in parchment paper to let the meat juices and cheese soak into the bread and steam everything together. Enjoy as is or top with extra condiments as desired."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

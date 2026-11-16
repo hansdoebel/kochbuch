@@ -1,0 +1,84 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/gamjachae-bokkeum",
+  "recipes": [
+    {
+      "name": "Stir-fried shredded potato side dish (Gamjachae-bokkeum)",
+      "source_url": "https://www.maangchi.com/recipe/gamjachae-bokkeum",
+      "recipe_id": "/recipe/gamjachae-bokkeum#sso/recipe/33139",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Potatoes, garlic, mushrooms, onion, kosher salt, olive oil, toasted sesame oil, sesame seeds, green onion, water."
+      ],
+      "instructions": [
+        "Peel the 2-3 medium sized potatoes (15 oz :425 grams), wash, and cut them into matchsticks.",
+        "Wash the potato in running water using a colander to remove starch.",
+        "Cut ½ cup worth onion into thin strips. Set aside.",
+        "Slice 4-5 white mushrooms and set aside.",
+        "In a heated pan, add 1 tbs of olive oil and add the potato strips. Stir it with a wooden spoon for 1 minute.",
+        "Add mushrooms, ⅓ cup of water, 1 ts kosher salt, and 2 cloves of minced garlic. Keep stirring until fully cooked.",
+        "Remove from the heat and add 1 ts of toasted sesame oil and 1 ts sesame seeds.",
+        "Garnish with chopped red pepper and green onion. Serve with rice."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Potatoes, garlic, mushrooms, onion, kosher salt, olive oil, toasted sesame oil, sesame seeds, green onion, water."
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Peel the 2-3 medium sized potatoes (15 oz :425 grams), wash, and cut them into matchsticks."
+        },
+        {
+          "tag": "li",
+          "text": "Wash the potato in running water using a colander to remove starch."
+        },
+        {
+          "tag": "li",
+          "text": "Cut ½ cup worth onion into thin strips. Set aside."
+        },
+        {
+          "tag": "li",
+          "text": "Slice 4-5 white mushrooms and set aside."
+        },
+        {
+          "tag": "li",
+          "text": "In a heated pan, add 1 tbs of olive oil and add the potato strips. Stir it with a wooden spoon for 1 minute."
+        },
+        {
+          "tag": "li",
+          "text": "Add mushrooms, ⅓ cup of water, 1 ts kosher salt, and 2 cloves of minced garlic. Keep stirring until fully cooked."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and add 1 ts of toasted sesame oil and 1 ts sesame seeds."
+        },
+        {
+          "tag": "li",
+          "text": "Garnish with chopped red pepper and green onion. Serve with rice."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

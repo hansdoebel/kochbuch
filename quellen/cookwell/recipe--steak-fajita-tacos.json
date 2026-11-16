@@ -1,0 +1,60 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/steak-fajita-tacos",
+  "recipes": [
+    {
+      "name": "Steak Fajita Tacos",
+      "source_url": "https://app.cookwell.com/recipe/steak-fajita-tacos",
+      "recipe_id": "https://app.cookwell.com/recipe/steak-fajita-tacos",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "~10 tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT1H",
+      "ingredients": [
+        "Flank, skirt, or flatiron steak, 700 g",
+        "Salt, 7 g",
+        "Neutral oil, for searing",
+        "Frozen corn, 300 g",
+        "Cherry tomatoes, 150 g",
+        "Red Onions, 1/2",
+        "Serrano peppers, 1",
+        "Cilantro, a handful",
+        "Smoked Paprika, a sprinkle",
+        "Lime juice, to taste",
+        "Salt, to taste",
+        "Neutral oil, a drizzle",
+        "Black Beans, 1 can",
+        "Garlic, 2 cloves",
+        "Cumin seeds, 5 g",
+        "Salt, to taste",
+        "Neutral oil, a drizzle",
+        "Bell peppers, 2",
+        "Onions, 1",
+        "Cumin seeds, 5 g",
+        "Chili Powder, 5 g",
+        "Smoked Paprika, 5g",
+        "Salt, to taste",
+        "Flour tortillas, 8-12",
+        "Queso Fresco"
+      ],
+      "instructions": [
+        "Season the flank steak generously with salt on both sides. If time allows, place uncovered in the fridge for at least 2 hours or up to 24 hours ahead to dry brine.",
+        "Heat a large skillet over medium-high heat. Add a small amount of oil and the frozen corn kernels along with the smoked paprika. Sear for 6-8 minutes, stirring occasionally, until excess moisture cooks off and parts of the corn begin to char lightly. Transfer the corn to a bowl and mix with the tomatoes, red onion, serrano, and cilantro. Add lime and salt to taste. Set aside.",
+        "Using the same pan, add an extra dizzle of oil along with the cumin seeds and sliced garlic. Bloom over medium heat for 1-2 minutes until fragrant and lightly golden. Add the black beans and stir until warmed through. If needed, reduce excess liquid. Once the beans are warm and at the right consistency, season with salt to taste.",
+        "Heat a large cast-iron skillet over high heat until very hot, roughly 400°F/205°C surface temperature. Add a thin layer of oil, then place the steak into the pan. Sear for 2-4 minutes per side until deeply browned. Once the steak reaches around 90-100°F/32-38°C internal temperature, temporarily remove it from the pan.",
+        "Add the sliced peppers and onions directly into the same hot pan. Season with salt, crushed cumin seed, chili powder, and smoked paprika, then saute for 4-6 minutes, stirring occasionally, until softened and browned around the edges. Return the steak to the pan (on top of the peppers) and finish cooking everything together until the steak reaches 125-130°F/52-54°C for medium-rare.",
+        "Rest the steak for at least 5 minutes after cooking, then slice very thinly across the grain. Warm the tortillas in a dry pan or directly over a burner until lightly toasted. Then, assemble your tacos: layer each tortilla with black beans, peppers and onions, sliced steak, corn salsa, and queso fresco. Finish with extra lime juice if desired."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

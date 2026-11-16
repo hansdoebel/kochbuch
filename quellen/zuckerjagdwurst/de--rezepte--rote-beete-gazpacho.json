@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/rote-beete-gazpacho",
+  "recipes": [
+    {
+      "name": "Rote Beete Gazpacho",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/rote-beete-gazpacho",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/rote-beete-gazpacho#recipe-682ba14f-0cd1-56e6-90d8-cad94bbaafe2",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT240M",
+      "ingredients": [
+        "2 Packungen gekochte Rote Beete",
+        "2 Gurken",
+        "1 rote Zwiebel",
+        "2 Avocado",
+        "3 EL pflanzliche Sahne",
+        "1 Nektarine",
+        "10 g Kresse",
+        "10 g Dill",
+        "Wasser (nach Bedarf)",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Zwiebel schälen, rote Beete abtropfen lassen, aber den Saft auffangen.",
+        "Eine Gurke waschen, Avocado schälen und entkernen.",
+        "Zwiebel, rote Beete mit Saft, Gurke, Avocado, pflanzliche Sahne, Kresse und Dill pürieren, bis eine dickflüssige Masse entsteht.",
+        "Anschließend soviel Wasser hinzugeben, bis ihr die gewünschte Suppenkonsistenz erreicht (bei uns waren es locker 400ml). Mit Salz und Pfeffer abschmecken.",
+        "Anschließend die Suppe in ein Gefäß füllen und im Kühlschrank ca. 4 Stunden kühlen.",
+        "Ist die Suppe kalt genug? Dann geht’s weiter! Die zweite Gurke und zweite Avocado, sowie die Nektarine fein würfeln.",
+        "Richtet eure Suppe in einer Schüssel an, gebt die kleinen Würfel darauf und gebt zum Schluss einen Klecks pflanzliche Sahne, sowie frische Kresse und Dill dazu. Bon Appetit!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

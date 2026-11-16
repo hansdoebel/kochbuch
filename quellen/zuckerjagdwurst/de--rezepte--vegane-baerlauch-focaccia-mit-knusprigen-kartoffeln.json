@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-baerlauch-focaccia-mit-knusprigen-kartoffeln",
+  "recipes": [
+    {
+      "name": "Vegane Bärlauch-Focaccia mit knusprigen Kartoffeln",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-baerlauch-focaccia-mit-knusprigen-kartoffeln",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-baerlauch-focaccia-mit-knusprigen-kartoffeln#recipe-a102255a-805a-5419-85da-4a31b65b7c36",
+      "authors": [
+        "Rahel Würsching"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 kleines Blech (20 cm x 25 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT240M",
+      "ingredients": [
+        "Für den Teig:",
+        "250 g Weizenmehl Type 550",
+        "7 g Trockenhefe",
+        "1 TL brauner Zucker",
+        "200 ml lauwarmes Wasser",
+        "1 TL Salz",
+        "Für das Topping:",
+        "3 EL Olivenöl",
+        "60 g frischer Bärlauch",
+        "2 EL Olivenöl",
+        "2 kleine Kartoffeln",
+        "Pinienkerne zum Bestreuen",
+        "Salz"
+      ],
+      "instructions": [
+        "Teig",
+        "Weizenmehl, Trockenhefe und braunen Zucker in eine Schüssel geben. Lauwarmes Wasser dazugeben und mind. 10 Minuten stehen lassen.",
+        "Die Zutaten mit einem Rührgerät ca. 10 Minuten zu einem geschmeidigen Teig verarbeiten. Mit einem feuchten Geschirrtuch abdecken und mind. 1 Stunde gehen lassen, bis sich das Teigvolumen verdoppelt hat. Noch besser sind 3 Stunden bei Zimmertemperatur und über Nacht im Kühlschrank. Im Anschluss Salz zum Teig geben und einarbeiten.",
+        "Eine kleine Form (20 cm x 25 cm) einölen und den Teig darin verteilen, erneut für mindestens 30 Minuten gehen lassen. Den Backofen auf 220° C Ober- Unterhitze vorheizen.",
+        "Topping",
+        "In der Zwischenzeit den Bärlauch waschen und in Streifen schneiden. Mit Olivenöl und etwas Salz in einem Mörser zerstampfen. Die Kartoffeln in hauchdünne Scheiben schneiden.",
+        "Den Bärlauch auf der Focaccia verteilen und mit den Fingern in den Teig einarbeiten. Wenn der Teig klebt, einfach die Hände mit Wasser oder Olivenöl befeuchten.",
+        "Die Kartoffelscheiben auf dem Hefeteig verteilen und Pinienkerne darüberstreuen. Die Focaccia auf mittlerer Schiene im vorgeheizten Backofen für 12 - 15 Min. backen bis die Pinienkerne und die Kartoffelscheiben gebräunt sind. Am besten schmeckt die Focaccia frisch nach dem Backen, wenn der Teig warm und die Kartoffeln knusprig sind."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

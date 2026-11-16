@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/the-best-vegan-chow-mein-800",
+  "recipes": [
+    {
+      "name": "The Best Vegan Chow Mein",
+      "source_url": "https://www.pickuplimes.com/recipe/the-best-vegan-chow-mein-800",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT20M",
+      "cook_time": "PT15M",
+      "total_time": "PT35M",
+      "ingredients": [
+        "3 Tbsp dark soy sauce",
+        "2 Tbsp water",
+        "2 Tbsp toasted sesame oil",
+        "½ vegetable bouillon cube",
+        "2 tsp cornstarch",
+        "2 tsp agave syrup",
+        "1 tsp sriracha",
+        "1 tsp rice vinegar",
+        "½ Tbsp vegetable oil",
+        "1 cup mock chicken pieces",
+        "1 Tbsp vegetable oil",
+        "1 medium onion",
+        "2 garlic clove",
+        "5.291 oz vegan chow mein noodles",
+        "¼ napa cabbage",
+        "2 medium carrot",
+        "1 head of bok choy"
+      ],
+      "instructions": [
+        "Combine sauce ingredients in a jar or small bowl.",
+        "Heat the oil in sauté pan over high heat. Cook the mock chicken pieces until golden. Transfer to a plate and set aside.",
+        "Heat some more oil in the now-empty pan. Cook the onion and garlic until the garlic becomes golden.",
+        "Then add the cabbage, carrots, and white stems of the bok choy. Cook for 3 to 4 minutes.",
+        "Meanwhile, cook the noodles according to the package directions. Then drain and rinse with cold water to stop the cooking process.",
+        "Add the mock chicken back to the pan along with the bok choy leaves. Cook until warmed through.",
+        "Stir through the cooked noodles, then pour over the sauce and toss to combine. Cook for 3 minutes to allow the cornstarch to thicken.",
+        "Serve with green onions and sesame seeds. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

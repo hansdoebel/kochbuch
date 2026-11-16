@@ -1,0 +1,41 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/braised-beef-frito-pie",
+  "recipes": [
+    {
+      "name": "Braised Beef Frito Pie",
+      "source_url": "https://app.cookwell.com/recipe/braised-beef-frito-pie",
+      "recipe_id": "https://app.cookwell.com/recipe/braised-beef-frito-pie",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Enchilada Sauce, 400 g",
+        "Braised beef, 2-3 portions",
+        "Garlic Powder, a spoonful",
+        "Smoked Paprika, a sprinkle",
+        "Frito Corn Chips, 1 bag",
+        "Colby Jack Cheese, to taste",
+        "White onions, to taste",
+        "Cilantro, to taste",
+        "Sour Cream, to taste",
+        "Hot Sauce, to taste"
+      ],
+      "instructions": [
+        "Add the can of enchilada sauce to a saucepan and set to medium heat. Taste and adjust the sauce with garlic powder, smoked paprika, and any other seasonings you see fit. Bring to a simmer and add the braised beef. Let that warm through and reduce until the meat is fully incorporated and the chili mixture has reached your desired consistency. Taste and adjust as needed.",
+        "In serving bowls, layer in a portion of Fritos and grated cheese. Top with the warmed chili braised meat, then garnish with diced onion, cilantro, sour cream, and hot sauce as desired. Alternatively, serve the chili and garnishes right in the Frito bag. Enjoy warm."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

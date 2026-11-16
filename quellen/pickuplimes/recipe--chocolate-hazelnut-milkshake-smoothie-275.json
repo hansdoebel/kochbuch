@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/chocolate-hazelnut-milkshake-smoothie-275",
+  "recipes": [
+    {
+      "name": "Chocolate & Hazelnut Milkshake Smoothie",
+      "source_url": "https://www.pickuplimes.com/recipe/chocolate-hazelnut-milkshake-smoothie-275",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "2 frozen banana",
+        "1½ cup unsweetened soy milk",
+        "2 Tbsp hazelnut butter",
+        "2 Tbsp Dutch-process cocoa powder",
+        "¼ tsp pure vanilla extract",
+        "¼ tsp ground cinnamon",
+        "1 pinch salt",
+        "4 Medjool date"
+      ],
+      "instructions": [
+        "To a blender, add the bananas, milk, hazelnut butter, cocoa powder, vanilla, cinnamon, and salt. Blend until smooth.",
+        "Then add the dates and blend briefly so that some small chunks remain to add some texture*.",
+        "Serve in a glass or a bowl with desired toppings. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium . * This step is optional. If you prefer, you can also blend the dates until smooth.",
+    "Storage Best to enjoy this smoothie immediately."
+  ]
+}

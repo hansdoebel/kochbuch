@@ -1,0 +1,127 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/gamja-salad",
+  "recipes": [
+    {
+      "name": "Potato Salad",
+      "source_url": "https://www.maangchi.com/recipe/gamja-salad",
+      "recipe_id": "/recipe/gamja-salad#sso/recipe/36450",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 pound peeled russet potatoes, cut into ½ inch thick pieces",
+        "3 hard-boiled eggs, shelled",
+        "1 English cucumber, washed, seeded, and chopped into pieces",
+        "kosher salt",
+        "¼ teaspoon white ground pepper (or black pepper)",
+        "2 tablespoons rice syrup (or sugar)",
+        "½ cup any mayonnaise (or canola cholesterol free mayonnaise)"
+      ],
+      "instructions": [
+        "In a bowl, combine the cucumber with ¼ teaspoon kosher salt and mix well. Let it sit for 5 minutes until it sweats out water. Strain and squeeze out excess moisture.",
+        "Crack open the hard-boiled eggs and separate the yolks from the whites.",
+        "Chop up the egg whites. Set aside.",
+        "Grate an egg yolk for garnish: Press 1 egg yolk through a sieve (or wire strainer) with a wooden spoon. Set the other 2 egg yolks aside.",
+        "Rinse the potato chunks in cold water to remove excess starch and place them in a heavy-bottomed pot. Add ½ cup water and a pinch of salt. Cook for 20 minutes over medium high heat.",
+        "Remove from the heat. Drain any excess water, and put the cooked potato back to the pot. Cover and simmer for 1 or 2 minutes over very low heat, to remove more moisture. Uncover.",
+        "Mash the hot potato with a wooden spoon or a potato masher for 30 seconds and add the 2 cooked egg yolks and the egg whites. Keep mashing until well mixed.",
+        "Add the squeezed cucumber, ¼ teaspoon ground white pepper, and rice syrup. Mix it well with a wooden spoon. Add the mayonnaise and mix well. Cool it down at room temperature and keep it in the refrigerator. Serve cold as a side dish or snack.",
+        "Spread a scoop of chilled gamja-salad over a fresh leaf of lettuce, between two toasted pieces of bread. Serve or pack in a lunch with some fruit."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Makes about 2 pounds’ worth"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound peeled russet potatoes, cut into ½ inch thick pieces"
+        },
+        {
+          "tag": "li",
+          "text": "3 hard-boiled eggs, shelled"
+        },
+        {
+          "tag": "li",
+          "text": "1 English cucumber, washed, seeded, and chopped into pieces"
+        },
+        {
+          "tag": "li",
+          "text": "kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "¼ teaspoon white ground pepper (or black pepper)"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons rice syrup (or sugar)"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup any mayonnaise (or canola cholesterol free mayonnaise)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "In a bowl, combine the cucumber with ¼ teaspoon kosher salt and mix well. Let it sit for 5 minutes until it sweats out water. Strain and squeeze out excess moisture."
+        },
+        {
+          "tag": "li",
+          "text": "Crack open the hard-boiled eggs and separate the yolks from the whites."
+        },
+        {
+          "tag": "li",
+          "text": "Chop up the egg whites. Set aside."
+        },
+        {
+          "tag": "li",
+          "text": "Grate an egg yolk for garnish: Press 1 egg yolk through a sieve (or wire strainer) with a wooden spoon. Set the other 2 egg yolks aside."
+        },
+        {
+          "tag": "li",
+          "text": "Rinse the potato chunks in cold water to remove excess starch and place them in a heavy-bottomed pot. Add ½ cup water and a pinch of salt. Cook for 20 minutes over medium high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat. Drain any excess water, and put the cooked potato back to the pot. Cover and simmer for 1 or 2 minutes over very low heat, to remove more moisture. Uncover."
+        },
+        {
+          "tag": "li",
+          "text": "Mash the hot potato with a wooden spoon or a potato masher for 30 seconds and add the 2 cooked egg yolks and the egg whites. Keep mashing until well mixed."
+        },
+        {
+          "tag": "li",
+          "text": "Add the squeezed cucumber, ¼ teaspoon ground white pepper, and rice syrup. Mix it well with a wooden spoon. Add the mayonnaise and mix well. Cool it down at room temperature and keep it in the refrigerator. Serve cold as a side dish or snack."
+        },
+        {
+          "tag": "h3",
+          "text": "Make a sandwich:"
+        },
+        {
+          "tag": "li",
+          "text": "Spread a scoop of chilled gamja-salad over a fresh leaf of lettuce, between two toasted pieces of bread. Serve or pack in a lunch with some fruit."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

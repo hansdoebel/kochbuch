@@ -1,0 +1,69 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pinsa",
+  "recipes": [
+    {
+      "name": "Vegane Pinsa",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pinsa",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pinsa#recipe-8dec1d07-0f8b-527e-9dda-583a80480c27",
+      "authors": [
+        "Anneke Schügner"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Pinsen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT80M",
+      "ingredients": [
+        "Für den Teig:",
+        "500 g Weizenmehl (Typo 00 / Pizzamehl)",
+        "150 g Reismehl",
+        "50 g Sojamehl",
+        "350 ml Wasser (lauwarm)",
+        "3 g frische Hefe",
+        "25 g Lievito Madre oder 120 g frischer Weizensauerteig (siehe Intro)",
+        "1 TL Salz",
+        "30 ml Olivenöl",
+        "Für die Pinsa-Soße:",
+        "400 g stückige Tomaten aus der Dose",
+        "50 ml Olivenöl",
+        "1 große Knoblauchzehe",
+        "0.5 TL Salz",
+        "Für den Belag:",
+        "Pinsa Basilikum:",
+        "Pinsa-Soße",
+        "frische Cherrytomaten",
+        "veganes Basilikumpesto",
+        "Rucola",
+        "veganer Parmesan",
+        "Pinsa Gremolata:",
+        "Pinsa-Soße",
+        "Gremolata (hier)",
+        "Pinsa mit Ofengemüse:",
+        "Pinsa-Soße",
+        "Aubergine (in Scheiben und gebacken)",
+        "Zucchini (in Scheiben und gebacken)",
+        "entsteinte, schwarze Oliven",
+        "veganer Feta",
+        "Süße Pinsa (Idee aus der Community):",
+        "vegane Schokocreme",
+        "Banane"
+      ],
+      "instructions": [
+        "Weizenmehl, Reismehl, Sojamehl und Wasser in einer Schüssel grob vermengen, mit einem sauberen Küchenhandtuch bedecken und circa 30 Minuten beiseitestellen für die Autolyse.",
+        "Hefe, Lievito Madre oder frischen Weizensauerteig (siehe Intro), Salz und Olivenöl hinzugeben und alles mit der Küchenmaschine zu einem klebrigen, glatten Teig kneten. Der Teig sollte sehr dehnbar sein und bei Auseinanderziehen nicht reißen.",
+        "Tipp: Ich habe ein Lievito Madre Pulver verwendet. Solltet ihr frischen Sauerteig verwenden, müsst ihr die Menge entsprechend angleichen. Die Menge an zu verwendenem Pulver kann von Hersteller zu Hersteller abweichen. Achtet auf das Sauerteig-Mehl-Verhältnis, das vom Hersteller angegeben wird.",
+        "Den Teig 2–3 Stunden mit einem sauberen Küchentuch abgedeckt gehen lassen. Anschließend im Kühlschrank mindestens 21 Stunden gehen lassen (bestenfalls bis zu 69 Stunden).",
+        "Den Teig vierteln und zu Kugeln formen. Erneut circa 1 Stunde gehen lassen. In der Zwischenzeit den Ofen auf 250 °C (Umluft) vorheizen.",
+        "In der Zwischenzeit für die Soße Tomaten aus der Dose, Olivenöl, gehackten Knoblauch und Salz vermengen. Den Belag eurer Wahl vorbereiten und die Zutaten dafür schneiden.",
+        "Die Teigkugeln flach drücken und ovale Pinsen mit ca. 1 cm Dicke daraus formen. Die Pinsen nach Wahl belegen und im vorgeheizten Ofen bei 250 °C (Umluft) 15–20 Minuten backen, bis sie durchgebacken und knusprig sind."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

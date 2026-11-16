@@ -1,0 +1,88 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/koreanische-tacos-mit-kimchi-und-gochujang-tofu",
+  "recipes": [
+    {
+      "name": "Schneller, veganer Kimchi (in nur 30 Minuten)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/koreanische-tacos-mit-kimchi-und-gochujang-tofu",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/koreanische-tacos-mit-kimchi-und-gochujang-tofu#recipe-3c6cca8f-f9af-5f8d-b6cb-56cadead7ab5",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 kleine Portionen / 500 ml Glas",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "1/2 Chinakohl",
+        "2 EL Salz",
+        "1 kleine oder 1/2 Chilischote (wer es schärfer mag, nimmt eine komplette Chilischote oder gar zwei)",
+        "4 EL Sesamöl",
+        "4 TL vegane Fischsauce (Rezept auch auf dem Blog)",
+        "5 TL Sriracha",
+        "2 Frühlingszwiebeln"
+      ],
+      "instructions": [
+        "Den Chinakohl waschen und in feine Scheiben schneiden.",
+        "Chinakohl mit heißem Wasser bedecken, salzen und ca. 20 Minuten ziehen lassen.",
+        "Chilischote waschen, entkernen und fein würfeln. Frühlingszwiebeln waschen und in Ringe schneiden.",
+        "Chinakohl abgießen. Sesamöl, Fischsauce, Chilisoße, Chilischoten und Frühlingszwiebeln mit dem Chinakohl vermengen. Gut umrühren, sodass alles gleichmäßig verteilt ist. Nochmals würzen, falls gewünscht."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Tacos mit Kimchi & Gochujang Tofu",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/koreanische-tacos-mit-kimchi-und-gochujang-tofu",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/koreanische-tacos-mit-kimchi-und-gochujang-tofu#recipe-8e8d616a-5a67-52ea-afdc-6f95805f9df1",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "1 Romana Salatherz",
+        "150 g Basmati Reis",
+        "1 Frühlingszwiebel",
+        "2 TL heller",
+        "2 TL schwarzer Sesam",
+        "1/2 Portion veganer Kimchi (Rezept auf dem Blog)",
+        "Gochujang Tofu",
+        "400 g fester Tofu (am besten aus dem Asia-Supermarkt)",
+        "Salz & Pfeffer",
+        "80 g Speisestärke",
+        "500 ml pflanzliches Öl",
+        "2 TL Gochujang (3-5 TL für scharfe Esser)",
+        "4 EL Wasser",
+        "4 EL Ketchup",
+        "4 EL Agavendicksaft",
+        "2 Knoblauchzehen"
+      ],
+      "instructions": [
+        "Den Reis abkochen.",
+        "Den Kimchi (Rezept auf dem Blog) und Tofu zubereiten.",
+        "Frühlingszwiebeln waschen und in Ringe schneiden.",
+        "Salatblätter vom Strunk entfernen, waschen und mit Reis, Kimchi und dem marinierten Tofu befüllen. Mit Sesam und Frühlingszwiebeln toppen.",
+        "Koranischer Tofu",
+        "Die Flüssigkeit des Tofus mit Küchentüchern etwas heraus pressen. Anschließend den Tofu würfeln und gut salzen und pfeffern.",
+        "In eine Schüssel die Speisestärke geben und die Tofu-Würfel darin gut wenden, sodass jede Seite mit Stärke bedeckt ist. Bei Seite stellen.",
+        "Zwei Knoblauchzehen fein hacken und in einen Topf geben.",
+        "Ketchup, Wasser, Agavendicksaft und Gochunjang ebenfalls dazu geben und gut verrühren. Für 3-4 Minuten leicht köcheln lassen. Bei Seite stellen.",
+        "In einer hohen Pfanne Öl erhitzen und den Tofu darin gold frittieren.",
+        "Anschließend den Tofu in eine Schüssel geben und mit der Soße vermischen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,252 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/samgyeopsal-gui",
+  "recipes": [
+    {
+      "name": "Grilled pork belly BBQ (Samgyeopsal-gui)",
+      "source_url": "https://www.maangchi.com/recipe/samgyeopsal-gui",
+      "recipe_id": "/recipe/samgyeopsal-gui#sso/recipe/3633",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "14-16 green onions (about 5 cups), sliced thinly",
+        "¼ cup soy sauce",
+        "2 teaspoons sugar",
+        "1 tablespoon toasted sesame seeds",
+        "1 tablespoon toasted sesame oil",
+        "2 tablespoon hot pepper flakes (gochugaru)",
+        "¼ cup doenjang",
+        "1 green onion, chopped",
+        "1 garlic clove, minced",
+        "2 tablespoon gochujang",
+        "2 teaspoons sugar",
+        "2 teaspoons toasted sesame seeds",
+        "1 tablespoon toasted sesame oil",
+        "1 bunch of lettuce, washed and drained",
+        "2 dozens of perilla leaves (optional), washed and drained",
+        "2 carrots, cut into bite size sticks",
+        "1 English cucumber, cut into bite size sticks",
+        "7-8 green chili peppers, chopped",
+        "a dozen of raw garlic, sliced",
+        "1 large onion, cut across into ¼ size pieces"
+      ],
+      "instructions": [
+        "Slice pork belly into bite sized pieces. Put it on a large plate and keep it in the refrigerator.",
+        "Soak shredded green onion in cold water for 5 minutes. Rinse and drain.",
+        "Combine soy sauce, sugar, sesame seeds, toasted sesame oil, and hot pepper flakes in a small bowl. Mix well and set aside.",
+        "Portion the green onion into small serving bowls, and put some sauce on top of each. Set aside.",
+        "Combine soybean paste, hot pepper paste, sugar, green onion, garlic, sesame seeds, and toasted sesame oil in a bowl and mix well. Set aside.",
+        "Heat up your grill plate or pan. Put a little toasted sesame oil on the hot plate for flavor.",
+        "Cover the grill plate with pork belly. Grill them and turn them over when the bottoms get a little crispy. Keep cooking and turning them over until both sides are crispy.",
+        "As the pieces get ready to eat, take them off the grill and put them on a small side plate. People can take the pieces from this plate, or if they’re too hungry they can take them right off the grill!",
+        "Eat, but keep cooking!",
+        "Put a piece of lettuce on a plate or in your hand. Add a piece of perilla leaf and a piece of cooked pork.",
+        "Add ssamjang, cooked onion or garlic, and some green onion salad on top.",
+        "Fold the lettuce leaf over so you have a little package.",
+        "Pop it into your mouth in one shot. Don’t bite it in half, it will break open! One-shot!"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "(for 4 servings) 3 pounds of pork belly (fresh or pre-sliced frozen)"
+        },
+        {
+          "tag": "p",
+          "text": "Green onion salad (pajeori):"
+        },
+        {
+          "tag": "li",
+          "text": "14-16 green onions (about 5 cups), sliced thinly"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons sugar"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame seeds"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoon hot pepper flakes (gochugaru)"
+        },
+        {
+          "tag": "p",
+          "text": "Doenjang-gochujang dipping sauce (my special kind of ssamjang I make for samgyeopsal-gui):"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup doenjang"
+        },
+        {
+          "tag": "li",
+          "text": "1 green onion, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 garlic clove, minced"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoon gochujang"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons sugar"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons toasted sesame seeds"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame oil"
+        },
+        {
+          "tag": "p",
+          "text": "Vegetables:"
+        },
+        {
+          "tag": "li",
+          "text": "1 bunch of lettuce, washed and drained"
+        },
+        {
+          "tag": "li",
+          "text": "2 dozens of perilla leaves (optional), washed and drained"
+        },
+        {
+          "tag": "li",
+          "text": "2 carrots, cut into bite size sticks"
+        },
+        {
+          "tag": "li",
+          "text": "1 English cucumber, cut into bite size sticks"
+        },
+        {
+          "tag": "li",
+          "text": "7-8 green chili peppers, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "a dozen of raw garlic, sliced"
+        },
+        {
+          "tag": "li",
+          "text": "1 large onion, cut across into ¼ size pieces"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Slice pork belly into bite sized pieces. Put it on a large plate and keep it in the refrigerator."
+        },
+        {
+          "tag": "h3",
+          "text": "Make green onion salad"
+        },
+        {
+          "tag": "li",
+          "text": "Soak shredded green onion in cold water for 5 minutes. Rinse and drain."
+        },
+        {
+          "tag": "li",
+          "text": "Combine soy sauce, sugar, sesame seeds, toasted sesame oil, and hot pepper flakes in a small bowl. Mix well and set aside."
+        },
+        {
+          "tag": "li",
+          "text": "Portion the green onion into small serving bowls, and put some sauce on top of each. Set aside."
+        },
+        {
+          "tag": "h3",
+          "text": "Make ssamjang (dipping sauce)"
+        },
+        {
+          "tag": "li",
+          "text": "Combine soybean paste, hot pepper paste, sugar, green onion, garlic, sesame seeds, and toasted sesame oil in a bowl and mix well. Set aside."
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare vegetables:"
+        },
+        {
+          "tag": "p",
+          "text": "From the left: onion, garlic, green chili peppers, cucumber, carrot, and perilla leaves"
+        },
+        {
+          "tag": "h3",
+          "text": "How to cook:"
+        },
+        {
+          "tag": "li",
+          "text": "Heat up your grill plate or pan. Put a little toasted sesame oil on the hot plate for flavor."
+        },
+        {
+          "tag": "li",
+          "text": "Cover the grill plate with pork belly. Grill them and turn them over when the bottoms get a little crispy. Keep cooking and turning them over until both sides are crispy."
+        },
+        {
+          "tag": "li",
+          "text": "As the pieces get ready to eat, take them off the grill and put them on a small side plate. People can take the pieces from this plate, or if they’re too hungry they can take them right off the grill!"
+        },
+        {
+          "tag": "li",
+          "text": "Eat, but keep cooking!"
+        },
+        {
+          "tag": "p",
+          "text": "Doenjangjjigae (Korean fermented bean paste stew: 된장찌개)"
+        },
+        {
+          "tag": "p",
+          "text": "Kongnamulmuchim (Soybean sprout side dish: 콩나물무침)"
+        },
+        {
+          "tag": "h3",
+          "text": "How to eat:"
+        },
+        {
+          "tag": "li",
+          "text": "Put a piece of lettuce on a plate or in your hand. Add a piece of perilla leaf and a piece of cooked pork."
+        },
+        {
+          "tag": "li",
+          "text": "Add ssamjang, cooked onion or garlic, and some green onion salad on top."
+        },
+        {
+          "tag": "li",
+          "text": "Fold the lettuce leaf over so you have a little package."
+        },
+        {
+          "tag": "li",
+          "text": "Pop it into your mouth in one shot. Don’t bite it in half, it will break open! One-shot!"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

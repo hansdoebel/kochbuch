@@ -1,0 +1,46 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/vodka-pasta-sausage",
+  "recipes": [
+    {
+      "name": "Vodka Pasta & Sausage",
+      "source_url": "https://app.cookwell.com/recipe/vodka-pasta-sausage",
+      "recipe_id": "https://app.cookwell.com/recipe/vodka-pasta-sausage",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4-5 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Crushed tomatoes, 800 g",
+        "Butter, 30 g",
+        "Shallots, 1",
+        "Chile flakes, a sprinkle",
+        "Fennel Seeds, a sprinkle",
+        "Dried oregano, a sprinkle",
+        "Heavy cream, to taste",
+        "Vodka, a splash",
+        "Short pasta of choice, 450 g",
+        "Italian Sausage, 2-3 links",
+        "Salt, as needed",
+        "Parmigiano Reggiano, for garnish"
+      ],
+      "instructions": [
+        "Set a pot of water over the stove to boil. Meanwhile, cut the Italian sausage into rings. Preheat a stainless steel saucepan over medium-high heat, and add the Italian sausage slices in one even layer. Allow to sear undisturbed until well browned on one side. Flip each piece to sear the other side and finish cooking through. Remove from the pan & set aside.",
+        "Add the pasta to your boiling pot of water, along with a small handful of salt. Set a timer and drain when finished. While the pasta is boiling, you can make the sauce. In the same pan as the sausage, melt the butter, then add the diced shallot, chile flakes, fennel, and oregano. Sauté until the shallot is starting to soften and the spices have bloomed and are fragrant. Deglaze with vodka, if using. Most of it should quickly evaporate when added to the pan.",
+        "Add the crushed tomatoes to the pan. Scrape to deglaze any remaining stuck bits of fond on the bottom of the pan. Simmer for 5-10 minutes until the sauce is lightly reduced and thickened.",
+        "Add as much cream as desired (starting with ~100 g) until the sauce reaches your desired color and creaminess. Taste and adjust with salt and Parmigiano Reggiano until you are happy with the flavor.",
+        "Combine the sauce with the cooked sausage and boiled, drained pasta. Garnish with extra Parmigiano Reggiano and chile flakes, if desired. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

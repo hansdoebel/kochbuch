@@ -1,0 +1,38 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/chimichurri",
+  "recipes": [
+    {
+      "name": "Chimichurri",
+      "source_url": "https://app.cookwell.com/recipe/chimichurri",
+      "recipe_id": "https://app.cookwell.com/recipe/chimichurri",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "Parsley, 1 bunch",
+        "Extra Virgin Olive Oil, 3 parts",
+        "Red Wine Vinegar, 1 part",
+        "Garlic, 2 cloves",
+        "Dried oregano, a sprinkle",
+        "Red Pepper Flakes, a sprinkle",
+        "Black Pepper, a few cranks",
+        "Salt, to taste"
+      ],
+      "instructions": [
+        "Finely chop the parsley and mince the garlic. Gather all remaining ingredients. Add parsley and garlic to a bowl, then add the olive oil and red wine vinegar, which should barely submerge the mixture. If you want a looser consistency, add a bit more oil and vinegar. Sprinkle in the dried oregano, red pepper flakes, salt, and black pepper. Taste and adjust the seasoning as needed. Enjoy over everything."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

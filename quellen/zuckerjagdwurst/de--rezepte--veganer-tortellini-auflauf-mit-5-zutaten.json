@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-tortellini-auflauf-mit-5-zutaten",
+  "recipes": [
+    {
+      "name": "Veganer Tortellini-Auflauf (mit 5 Zutaten)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-tortellini-auflauf-mit-5-zutaten",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-tortellini-auflauf-mit-5-zutaten#recipe-cc52ae7a-798c-5c8d-9f93-dee45752b6eb",
+      "authors": [
+        "Ronja Gramse"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "800 g veganer Rahmspinat",
+        "450 g vegane Tortellini",
+        "150 g veganer geriebener Parmesan",
+        "50 g Pinienkerne",
+        "10 Kirschtomaten",
+        "Pflanzenöl zum Braten",
+        "Salz"
+      ],
+      "instructions": [
+        "Den Ofen auf 200°C (Ober-/Unterhitze) vorheizen. Etwas Pflanzenöl in einer Pfanne erwärmen. Den veganen Rahmspinat dazugeben und bei mittlerer Hitze darin auftauen. Sobald der Spinat aufgetaut ist, 50 g vom veganen Parmesan unterrühren und bei niedriger Hitze weiter köcheln lassen.",
+        "Parallel dazu gesalzenes Wasser in einem großen Topf zum Kochen bringen und die Tortellini nach Packungsbeilage zubereiten, aber ca. 2 Minuten vor der angegebenen Zeit abgießen, da sie im Ofen noch weiter garen.",
+        "Eine Pfanne bei mittlerer Hitze erwärmen und die Pinienkerne darin 2-3 Minuten ohne Fett anrösten, bis sie eine goldbraune Farbe haben. Dabei mit einem Pfannenwender bewegen, da die Kerne sonst schnell zu dunkel werden.",
+        "Kirschtomaten waschen und halbieren. Anschließend Tomaten, gekochte Tortellini und geröstete Pinienkerne zum Spinat geben und vermengen. Die Mischung danach auf einem leicht eingeölten Backblech verteilen.",
+        "Den restlichen veganen Käse großzügig über den Auflauf streuen und das Blech in den Ofen schieben. Den Auflauf bei 200°C (Ober-/Unterhitze) ca. 20 Minuten backen, bis die „Käseschicht“ goldbraun und knusprig ist."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

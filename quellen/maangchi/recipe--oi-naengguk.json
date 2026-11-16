@@ -1,0 +1,124 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/oi-naengguk",
+  "recipes": [
+    {
+      "name": "Cold cucumber soup side dish (Oi-naengguk)",
+      "source_url": "https://www.maangchi.com/recipe/oi-naengguk",
+      "recipe_id": "/recipe/oi-naengguk#sso/recipe/145",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 large English cucumber (12 ounces) or 2 to 3 kirby cucumbers, chilled",
+        "1 clove garlic, minced",
+        "1 green onion, chopped",
+        "1 tablespoon chopped fresh red chili pepper (optional)",
+        "1½ teaspoons kosher salt",
+        "1 teaspoon soy sauce",
+        "2 teaspoons sugar",
+        "4 teaspoons vinegar",
+        "5-6 cherry tomatoes, sliced (optional)",
+        "1 cup cold water",
+        "7-8 ice cubes (1 cup)",
+        "1- 2 tablespoons toasted sesame seeds, ground"
+      ],
+      "instructions": [
+        "Cut the cucumber into 3 inch long thin matchsticks and put them into a chilled mixing bowl.",
+        "Add garlic, green onion, and red chili pepper (if used).",
+        "Add the salt, soy sauce, sugar, and vinegar. Mix well, gently with a spoon until the salt and sugar are well dissolved.",
+        "Add the water, ice cubes, and the sliced tomato (if you use), and gently mix with a spoon.",
+        "Put the sesame seeds powder on top, scoop out 4 portions into individual bowls, and serve right away with rice."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients (serves 4)"
+        },
+        {
+          "tag": "li",
+          "text": "1 large English cucumber (12 ounces) or 2 to 3 kirby cucumbers, chilled"
+        },
+        {
+          "tag": "li",
+          "text": "1 clove garlic, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 green onion, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon chopped fresh red chili pepper (optional)"
+        },
+        {
+          "tag": "li",
+          "text": "1½ teaspoons kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons sugar"
+        },
+        {
+          "tag": "li",
+          "text": "4 teaspoons vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "5-6 cherry tomatoes, sliced (optional)"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup cold water"
+        },
+        {
+          "tag": "li",
+          "text": "7-8 ice cubes (1 cup)"
+        },
+        {
+          "tag": "li",
+          "text": "1- 2 tablespoons toasted sesame seeds, ground"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Cut the cucumber into 3 inch long thin matchsticks and put them into a chilled mixing bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Add garlic, green onion, and red chili pepper (if used)."
+        },
+        {
+          "tag": "li",
+          "text": "Add the salt, soy sauce, sugar, and vinegar. Mix well, gently with a spoon until the salt and sugar are well dissolved."
+        },
+        {
+          "tag": "li",
+          "text": "Add the water, ice cubes, and the sliced tomato (if you use), and gently mix with a spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Put the sesame seeds powder on top, scoop out 4 portions into individual bowls, and serve right away with rice."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

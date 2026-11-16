@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/creamy-coleslaw-with-tahini-dijon-dressing-280",
+  "recipes": [
+    {
+      "name": "Creamy Tahini Dijon Slaw",
+      "source_url": "https://www.pickuplimes.com/recipe/creamy-coleslaw-with-tahini-dijon-dressing-280",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT15M",
+      "cook_time": "",
+      "total_time": "PT15M",
+      "ingredients": [
+        "1 lime",
+        "⅓ cup tahini",
+        "1 Tbsp Dijon mustard",
+        "⅓ cup water",
+        "1 Tbsp apple cider vinegar",
+        "2 tsp agave syrup",
+        "5 cup shredded green cabbage",
+        "2 medium carrot",
+        "½ daikon radish",
+        "⅓ cup roasted sunflower seeds"
+      ],
+      "instructions": [
+        "Place all of the dressing ingredients in a bowl and mix well.",
+        "Toss the salad ingredients and dressing in a large bowl. Ideally, allow the salad to sit for at least 15 minutes for the cabbage to soften. Serve and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 1 day."
+  ]
+}

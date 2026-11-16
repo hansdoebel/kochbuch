@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.recipetineats.com/mexican-couscous-express/",
+  "recipes": [
+    {
+      "name": "Mexican Couscous Express",
+      "source_url": "https://www.recipetineats.com/mexican-couscous-express/",
+      "recipe_id": "https://www.recipetineats.com/mexican-couscous-express/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "4"
+      ],
+      "prep_time": "PT10M",
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "1 1/2 tsp salt",
+        "2 tsp cumin powder",
+        "1 tsp onion powder",
+        "1 cup couscous",
+        "1 cup boiling water",
+        "1/4 cup tomato paste",
+        "1 tbsp diced jalapeño ((fresh is better, but tinned also ok))",
+        "2 scallions ((shallots), roughly sliced (optional))",
+        "1 can (15 oz / 400 g) black beans (or red kidney beans)",
+        "1 can (15 oz / 400 g) corn kernels",
+        "Handful of coriander / cilantro",
+        "1 tomato (, deseeded and diced)",
+        "1/2 avocado (, diced)",
+        "Sour cream",
+        "Grated cheese"
+      ],
+      "instructions": [
+        "Place salt, cumin, onion powder and couscous in a bowl, quickly toss to combine.",
+        "Add boiling water, cover and set aside for 5 minutes.",
+        "Fluff with fork, add tomato paste and stir to evenly coat the couscous.",
+        "Add remaining ingredients.",
+        "Serve with optional toppings."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. You can substitute the scallions for red onion or spring onion, or leave it out if you prefer."
+  ]
+}

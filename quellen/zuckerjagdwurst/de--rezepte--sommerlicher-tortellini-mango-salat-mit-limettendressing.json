@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/sommerlicher-tortellini-mango-salat-mit-limettendressing",
+  "recipes": [
+    {
+      "name": "Sommerlicher Tortellini-Mango-Salat mit Limettendressing",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/sommerlicher-tortellini-mango-salat-mit-limettendressing",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/sommerlicher-tortellini-mango-salat-mit-limettendressing#recipe-c5fdb1dd-5176-5271-b160-414754a00b91",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für den Salat:",
+        "250 g vegane Tortellini (z. B. Cappelletti Fantasia von D’Angelo)",
+        "1 grüne (unreife) Mango",
+        "1 gelbe Paprika",
+        "0.5 Gurke",
+        "1 Schalotte",
+        "Für das Limettendressing:",
+        "1 rote (Thai-) Chilischote",
+        "3 Limetten (Saft)",
+        "2 EL Sojasoße",
+        "1 EL Agavendicksaft",
+        "Für das Topping:",
+        "Erdnüsse",
+        "Kokoschips",
+        "Koriander",
+        "Minze"
+      ],
+      "instructions": [
+        "Die Mango schälen und zusammen mit der gelben Paprika und Gurke Julienne schneiden. Die Schalotte halbieren und in dünne Scheiben schneiden. Das Gemüse in eine Schüssel geben.",
+        "Für das Dressing die Chilischote in dünne Scheiben schneiden und mit Limettensaft, Sojasoße und Agavendicksaft verrühren oder in einem Schraubglas schütteln. Das Dressing zu den geschnittenen frischen Zutaten geben und vermengen.",
+        "Tipp: Ganz nach persönlichem Geschmack könnt ihr hier auch mehr oder weniger Chili oder Chiliflocken verwenden.",
+        "Gesalzenes Wasser in einem Topf erhitzen und die Tortellini in leicht siedendem Wasser nach Packungsanleitung ziehen lassen, bis sie al dente sind.",
+        "Parallel dazu Erdnüsse und Kokoschips in einer fettfreien Pfanne rösten. Danach aus der Pfanne nehmen und grob durchhacken. Koriander und Minze ebenfalls hacken.",
+        "Die Tortellini gut abtropfen lassen und zum Salat geben. Nach Geschmack mit mehr Limettensaft, Zucker oder Sojasoße abschmecken. Mit gerösteten Erdnüssen, Kokoschips und frischem Koriander und Minze bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

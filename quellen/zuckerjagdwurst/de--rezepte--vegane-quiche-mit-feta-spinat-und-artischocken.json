@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-quiche-mit-feta-spinat-und-artischocken",
+  "recipes": [
+    {
+      "name": "Vegane Quiche mit „Feta“, Spinat und Artischocken",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-quiche-mit-feta-spinat-und-artischocken",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-quiche-mit-feta-spinat-und-artischocken#recipe-e60eaf0b-63d2-599a-8729-ca97bcdfe5b1",
+      "authors": [
+        "Lara Iwaloye"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Quiche (∅ 28 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für den Boden:",
+        "300 g Weizenmehl (Type 450 oder 550)",
+        "1 TL Salz",
+        "180 g vegane Butter (kalt)",
+        "ca. 4 EL kaltes Wasser (nach Bedarf)",
+        "Für die Füllung:",
+        "150 g Sojajoghurt (ungesüßt)",
+        "200 g Naturtofu",
+        "2 EL Speisestärke",
+        "2 EL Hefeflocken",
+        "1 EL Zitronensaft",
+        "1 TL Muskatnuss",
+        "1 Zwiebel",
+        "100 g Babyspinat",
+        "165 g Artischockenherzen",
+        "150 g veganer Feta",
+        "30 g Haselnüsse",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Für den Boden Mehl, Salz, vegane Butter (in kleinen Würfeln) und Wasser circa 5 Minuten verkneten, bis ein glatter Teig entstanden ist. Das Wasser lieber erst nach und nach dazugeben, bis der Teig die gewünschte Konsistenz hat und weder bröselig noch klebrig ist. Circa 30 Minuten kalt stellen.",
+        "Für die Füllung Sojajoghurt, Tofu, Speisestärke, Hefeflocken, Zitronensaft und Muskatnuss pürieren. Die Zwiebel in kleine Würfel und den Spinat in Streifen schneiden. Die Artischockenherzen halbieren, den veganen Feta in Würfel schneiden und die Haselnüsse grob hacken. Alles zur Tofu-Sojajoghurt-Mischung geben, vermengen und mit Salz und Pfeffer abschmecken.",
+        "Den Teig ausrollen oder direkt in eine eingefettete Quicheform legen und an den Rändern festdrücken. Mit einer Gabel einige Löcher in den Boden pieksen und die Füllung hineingeben.",
+        "Circa 30 Minuten bei 180 °C (Umluft) backen. Vor dem Anschneiden etwas abkühlen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

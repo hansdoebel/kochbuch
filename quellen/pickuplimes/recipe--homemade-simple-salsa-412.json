@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/homemade-simple-salsa-412",
+  "recipes": [
+    {
+      "name": "Homemade Simple Salsa",
+      "source_url": "https://www.pickuplimes.com/recipe/homemade-simple-salsa-412",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT07M",
+      "cook_time": "",
+      "total_time": "PT07M",
+      "ingredients": [
+        "4 large tomato",
+        "2 garlic clove",
+        "½ small red onion",
+        "½ lime",
+        "¼ cup fresh cilantro",
+        "¼ tsp salt",
+        "¼ tsp dried oregano",
+        "¼ tsp ground cumin",
+        "⅛ tsp cayenne pepper",
+        "1 pinch ground black pepper"
+      ],
+      "instructions": [
+        "Combine all the ingredients in a bowl. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Salsa is best if enjoyed immediately. Leftovers can be stored in an airtight container in the fridge for up to 1 day."
+  ]
+}

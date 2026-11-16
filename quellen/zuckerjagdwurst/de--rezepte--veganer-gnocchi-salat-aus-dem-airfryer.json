@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-gnocchi-salat-aus-dem-airfryer",
+  "recipes": [
+    {
+      "name": "Veganer Gnocchi-Salat aus dem Airfryer",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-gnocchi-salat-aus-dem-airfryer",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-gnocchi-salat-aus-dem-airfryer#recipe-1607edf5-0ce4-53e3-a504-9f62a4efd8d8",
+      "authors": [
+        "Anna Germek"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für den Salat:",
+        "400 g frische vegane Gnocchi",
+        "2 EL Gewürzmischung (z. B. Veggie-Küche von LEBENSBAUM)",
+        "3 EL Olivenöl",
+        "200 g Champignons",
+        "60 g getrocknete Tomaten",
+        "60 g Oliven",
+        "200 g Kirschtomaten",
+        "125 g vegane Mini-Mozzarella-Kugeln",
+        "25 g Pinienkerne",
+        "50 g Rucola",
+        "Öl zum Anbraten",
+        "Salz",
+        "Pfeffer",
+        "Für das Dressing:",
+        "4 EL Balsamicoessig",
+        "4 EL Olivenöl",
+        "1 EL Agavendicksaft",
+        "1 TL Gewürzmischung (z. B. Veggie-Küche von LEBENSBAUM)",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Die Gnocchi mit 2 Esslöffel Gewürzmischung und 3 Esslöffel Olivenöl vermischen und 15–20 Minuten im Airfryer bei 200 °C backen. Alternativ im Ofen bei 200 °C (Umluft).",
+        "Die Champignons vierteln und ohne Öl in einer Pfanne braten. Sobald sie Wasser lassen, etwas Öl dazugeben, würzen und kurz weiterbraten. Parallel die getrockneten Tomaten in Streifen schneiden und Oliven, Kirschtomaten und Mini-Mozzarellakugeln halbieren. Die Pinienkerne in einer Pfanne rösten. Alles zusammen mit dem Rucola in eine Schüssel geben.",
+        "Die Gnocchi kurz abkühlen lassen und in die Schüssel geben. Dann alle Zutaten für das Dressing vermengen und über den Salat geben."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

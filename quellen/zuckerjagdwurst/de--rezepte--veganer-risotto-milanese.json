@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-risotto-milanese",
+  "recipes": [
+    {
+      "name": "Veganes Risotto Milanese",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-risotto-milanese",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-risotto-milanese#recipe-26436f16-9f3b-5aac-bd35-cf320c152fc6",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für das Risotto Milanese:",
+        "1 TL Safranfäden (30 Stück)",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "4 EL vegane Butter (aufgeteilt)",
+        "300 g Risottoreis",
+        "100 ml veganer Weißwein",
+        "ca. 1 l Gemüsebrühe",
+        "veganer Parmesan am Stück",
+        "Zitronensaft",
+        "Salz",
+        "Pfeffer",
+        "#### Für das Basilikumöl:",
+        "30 g frischer Basilikum",
+        "10 g frischer Blattspinat",
+        "100 ml neutrales Pflanzenöl",
+        "Salz",
+        "Außerdem:",
+        "4 vegane Bratlinge „BackVish Style“ von Bunte Burger",
+        "Pflanzenöl zum Braten"
+      ],
+      "instructions": [
+        "Safranfäden in eine kleine Schüssel geben und mit 25 Milliliter heißem Wasser übergießen.",
+        "Zwiebel und Knoblauchzehe schälen und fein würfeln. 2 Esslöffel vegane Butter in einem großen Topf schmelzen und Zwiebel und Knoblauch darin 3–4 Minuten anschwitzen, bis die Zwiebelwürfel glasig sind.",
+        "Den Risottoreis dazugeben und auf niedriger Flamme ebenfalls anschwitzen, bis die Reiskörner leicht glasig sind, das dauert etwa 5–7 Minuten. Den Reis dabei immer wieder umrühren.",
+        "Mit veganem Weißwein ablöschen und köcheln lassen, bis der Wein fast komplett verkocht ist. Nun kommt nach und nach immer eine Kelle Gemüsebrühe hinzu und wird eingerührt. Die Gemüsebrühe einköcheln lassen und erst wieder eine neue Kelle dazugeben, wenn fast die ganze Brühe aufgesogen wurde. Dabei regelmäßig umrühren, damit nichts anbrennt. Eventuell benötigt ihr weniger oder mehr Gemüsebrühe als angegeben. Nach etwa 20–25 Minuten sollte das Risotto cremig sein und dennoch etwas Biss haben.",
+        "Für das Kräuteröl frischen Basilikum, Spinat, Pflanzenöl und eine Prise Salz circa 5 Minuten in einem Standmixer mixen, bis eine wirklich glatte Mischung entsteht. Diese in einen kleinen Topf geben und auf circa 70 Grad erhitzen. Anschließend durch ein feines Sieb filtern und abkühlen lassen. Danach das Basilikumöl in eine Flasche umfüllen.",
+        "Die veganen Bratlinge in einer Pfanne mit Öl anbraten.",
+        "Wenn das Risotto gar ist, Safranfäden und Wasser und restliche vegane Butter unterrühren und das Risotto mit veganem Parmesan, frischem Zitronensaft, Salz und Pfeffer abschmecken. Die gebratenen Pattys in Streifen schneiden und auf das Risotto legen oder daneben servieren. Mit Basilikumöl toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

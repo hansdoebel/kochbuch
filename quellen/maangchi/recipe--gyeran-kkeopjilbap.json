@@ -1,0 +1,89 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/gyeran-kkeopjilbap",
+  "recipes": [
+    {
+      "name": "Rice cooked in eggshells (Gyeran-kkeopjilbap: 계란껍질밥)",
+      "source_url": "https://www.maangchi.com/recipe/gyeran-kkeopjilbap",
+      "recipe_id": "/recipe/gyeran-kkeopjilbap#sso/recipe/95066",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "3 servings",
+      "prep_time": "P0DT0H20M0S",
+      "cook_time": "P0DT0H20M0S",
+      "total_time": "P0DT0H40M0S",
+      "ingredients": [
+        "⅓ cup short grain rice, soaked in cold water at least 30 minutes, drained",
+        "3 eggshells (How to empty egg whites and yolks from the shells below)"
+      ],
+      "instructions": [
+        "Make a hole on the center of the pointed end of an egg by tapping it with a metal chopstick, then carefully breaking and removing the shell around the hole with your fingers. Keep removing the shell a little by little until the hole is about ½ inch wide.",
+        "Insert the chopstick and pour out the egg insides into a pan. I put the egg into my earthenware pot to make steamed eggs later. Repeat it with the other 2 eggs and empty all the insides. Put the shells into a small baking dish, the pointed end up.",
+        "Fill each egg with 2 tablespoons soaked rice and 2 tablespoons water. A small funnel and the chopstick are very useful for this.",
+        "Preheat the broiler in the oven for a couple of minutes. Add the eggshells and rice. Broil for 20 minutes."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "For 3 servings"
+        },
+        {
+          "tag": "li",
+          "text": "⅓ cup short grain rice, soaked in cold water at least 30 minutes, drained"
+        },
+        {
+          "tag": "li",
+          "text": "3 eggshells (How to empty egg whites and yolks from the shells below)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Make a hole on the center of the pointed end of an egg by tapping it with a metal chopstick, then carefully breaking and removing the shell around the hole with your fingers. Keep removing the shell a little by little until the hole is about ½ inch wide."
+        },
+        {
+          "tag": "li",
+          "text": "Insert the chopstick and pour out the egg insides into a pan. I put the egg into my earthenware pot to make steamed eggs later."
+        },
+        {
+          "tag": "li",
+          "text": "Repeat it with the other 2 eggs and empty all the insides."
+        },
+        {
+          "tag": "li",
+          "text": "Put the shells into a small baking dish, the pointed end up."
+        },
+        {
+          "tag": "li",
+          "text": "Fill each egg with 2 tablespoons soaked rice and 2 tablespoons water. A small funnel and the chopstick are very useful for this."
+        },
+        {
+          "tag": "li",
+          "text": "Preheat the broiler in the oven for a couple of minutes. Add the eggshells and rice."
+        },
+        {
+          "tag": "li",
+          "text": "Broil for 20 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and serve."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

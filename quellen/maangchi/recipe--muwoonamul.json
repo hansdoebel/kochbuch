@@ -1,0 +1,65 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/muwoonamul",
+  "recipes": [
+    {
+      "name": "Cooked radish side dish (Muwoonamul)",
+      "source_url": "https://www.maangchi.com/recipe/muwoonamul",
+      "recipe_id": "/recipe/muwoonamul#sso/recipe/1811",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 medium size Korean radish, kosher salt, garlic, toasted sesame oil, vegetable oil, shredded red pepper (silgochu)."
+      ],
+      "instructions": [
+        "Cut radish into thin strips. Make about 5-6 cups.",
+        "Heat up a pan and add the radish strips, 1tbs vegetable oil, 1 ts kosher salt, and 1 clove of minced garlic. Sauté for a few minutes.",
+        "Add ¼ cup of water and close the lid. Lower the heat and simmer for 8-10 minutes.",
+        "Turn off the heat. Add a few drops of toasted sesame oil and mix it gently.",
+        "Transfer it to a serving dish and garnish with shredded red pepper."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "1 medium size Korean radish, kosher salt, garlic, toasted sesame oil, vegetable oil, shredded red pepper (silgochu)."
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Cut radish into thin strips. Make about 5-6 cups."
+        },
+        {
+          "tag": "li",
+          "text": "Heat up a pan and add the radish strips, 1tbs vegetable oil, 1 ts kosher salt, and 1 clove of minced garlic. Sauté for a few minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Add ¼ cup of water and close the lid. Lower the heat and simmer for 8-10 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Turn off the heat. Add a few drops of toasted sesame oil and mix it gently."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer it to a serving dish and garnish with shredded red pepper."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

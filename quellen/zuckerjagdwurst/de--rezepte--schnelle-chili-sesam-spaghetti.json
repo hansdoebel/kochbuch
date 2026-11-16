@@ -1,0 +1,78 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-chili-sesam-spaghetti",
+  "recipes": [
+    {
+      "name": "Chili-Sesam-Spaghetti",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-chili-sesam-spaghetti",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-chili-sesam-spaghetti#recipe-61a31dfa-3684-574b-841e-11a5082e4b89",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "3-4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "350 g Spaghetti, z.B. Chili-Knoblauch-Spaghetti von Birkel",
+        "Für die Soße:",
+        "3 EL Chiliöl",
+        "3 EL Tahini",
+        "3 EL Sojasauce",
+        "2 EL Reisessig",
+        "2 TL Sesamöl",
+        "1 TL Agavendicksaft",
+        "2 Knoblauchzehen",
+        "Für das Topping:",
+        "4 Frühlingszwiebeln",
+        "3 EL Erdnüsse",
+        "2 EL Sesam"
+      ],
+      "instructions": [
+        "Die Spaghetti in kochendem, gesalzenem Wasser ca. 8 Min. kochen. In der Kochzeit könnt ihr schon die Soße vorbereiten. Wenn die Nudeln dann fertig sind, könnt ihr sie abgießen und direkt in die Pfanne zur Soße geben und darin schwenken.",
+        "Für die Soße verrührt ihr Chiliöl, Tahini, Reisessig, Sesamöl und Agavendicksaft in einer kleinen Schüssel. Knoblauchzehen schälen und in Scheiben schneiden. In einer großen Pfanne etwas Öl erhitzen und die Knoblauchscheiben darin ca. 2 – 3 Min. anbraten. Anschließend die Soße dazugeben und auf kleiner Flamme warm halten, bis ihr die gekochten Spaghetti darin schwenkt. Mit Salz und Pfeffer abschmecken.",
+        "Für das Topping Frühlingszwiebeln in feine Ringe schneiden und Erdnüsse hacken. Die Spaghetti servieren und mit Frühlingszwiebeln, gehackten Erdnüssen und Sesam bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Selbstgemachtes Chiliöl",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-chili-sesam-spaghetti",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-chili-sesam-spaghetti#recipe-de1adbd8-94dd-5c8b-85f1-57ab36472783",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "300 ml",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "250 ml Rapsöl",
+        "3 Sternanise",
+        "1 cm Ingwer",
+        "3 Knoblauchzehen",
+        "1 Zimtstange",
+        "2 Kardamom-Kapseln",
+        "3 Szechuan-Pfefferkörner",
+        "4 EL Chiliflocken",
+        "1/2 TL Salz"
+      ],
+      "instructions": [
+        "Knoblauchzehen schälen und halbieren. Pflanzenöl, Sternanis, Ingwer, Zimtstange, Kardamom, Szechuan-Pfefferkörner und halbierte Knoblauchzehen in einen kleinen Topf geben und bei mittlerer Hitze erwärmen. Das Öl sollte nie kochen, sondern immer nur leichte Blasen schlagen. Kontrolliert also immer wieder die Temperatur und dreht sie zurück, falls nötig. So lasst ihr das ganze ca. 30 Minuten auf dem Herd und das Öl anschließend abkühlen.",
+        "Chiliflocken und Salz in eine hitzefeste Schüssel geben, für den Fall dass das Öl immer noch warm ist. Gebt das Öl durch ein Sieb, sodass die Gewürze herausgesiebt werden, und hinein in die Schüssel. Vermengt Öl, Chiliflocken und Salz.",
+        "Das Chiliöl könnt ihr danach in ein verschließbares Gefäß füllen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

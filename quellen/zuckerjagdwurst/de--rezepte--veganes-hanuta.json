@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-hanuta",
+  "recipes": [
+    {
+      "name": "Veganes Hanuta",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-hanuta",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-hanuta#recipe-a4b15c7a-8cc7-55b0-9b40-6d0478f1b046",
+      "authors": [
+        "Rahel Würsching"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Hanuta",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "vegane Waffelplatten (ca. 2 Platten 25 x 25cm)",
+        "150 g Halbbitter Schokolade",
+        "100 g Nugat",
+        "100 g Haselnussmus",
+        "4 TL Bourbon-Vanille-Paste",
+        "1 TL Salz",
+        "50 g gehackte Haselnüsse (geröstet)"
+      ],
+      "instructions": [
+        "Die veganen Waffelplatten in Quadrate (5.5 x 5.5 cm) schneiden. Halbbitter Schokolade, Nugat und Haselnussmus über dem Wasserbad schmelzen.",
+        "Mit Bourbon-Vanille-Paste und Salz zu einer homogenen Creme verrühren. Die gehackten Haselnüsse unterheben.",
+        "Circa 2 - 3 TL der Schoko-Haselnuss-Masse auf einem Waffelboden verteilen und einen zweiten Waffelboden daraufsetzen. So fortfahren, bis die Masse aufgebraucht ist.",
+        "Die fertigen Schnitten entweder bei Zimmertemperatur oder im Kühlschrank anziehen lassen, bis die Füllung fest ist. Nach Wunsch mit gehackten Haselnüssen verzieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

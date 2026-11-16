@@ -1,0 +1,37 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/beginners-green-smoothie-peanut-butter-banana-288",
+  "recipes": [
+    {
+      "name": "Beginner's Green Smoothie: Peanut Butter & Banana",
+      "source_url": "https://www.pickuplimes.com/recipe/beginners-green-smoothie-peanut-butter-banana-288",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "2 frozen banana",
+        "2 Tbsp natural peanut butter",
+        "1 cup spinach",
+        "1½ cup unsweetened soy milk"
+      ],
+      "instructions": [
+        "Place all ingredients in a blender. Blend on high until smooth. If you prefer a thinner consistency, add more plant-based milk.",
+        "Pour, serve and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Smoothies are best enjoyed immediately."
+  ]
+}

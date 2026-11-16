@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-auberginen-eggplant-parm-sandwich",
+  "recipes": [
+    {
+      "name": "Veganes Eggplant Parm Sandwich",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-auberginen-eggplant-parm-sandwich",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-auberginen-eggplant-parm-sandwich#recipe-e8aac7f7-0524-5b50-a3e7-da7a76883ed3",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Sandwiches",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT85M",
+      "ingredients": [
+        "1 großes Ciabattabaguette (oder 2 kleine Ciabatta)",
+        "1 Aubergine",
+        "3 EL Mehl",
+        "4 EL Semmelbrösel",
+        "2 EL veganer Parmesan",
+        "1 TL getrockneter Oregano",
+        "3 EL Sojamehl",
+        "7 EL Wasser",
+        "100 g Marinarasoße",
+        "200 g veganer Mozzarella",
+        "Olivenöl zum Einfetten",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Aubergine in Scheiben schneiden. Jede Scheibe von beiden Seiten salzen und auf eine Schicht Küchenpapier auf ein Backblech legen. Eine weitere Schicht Küchenpapier darauflegen und mit einem zweiten Backblech bedecken. Einen schweren Gegenstand wie einen Topf daraufstellen, damit die Auberginenscheiben zusammengedrückt werden und Wasser verlieren. So werden sie später im Backofen toll zart. Die Auberginenscheiben ca. 45 Minuten ruhen lassen. Anschließend die Aubergine nochmal abtupfen um das restliche Salz zu entfernen.",
+        "Drei Schüsseln zum Panieren vorbereiten: Mehl in eine Schüssel geben, Sojamehl und Wasser in einer zweiten Schüssel anrühren und in einer dritten Schüssel Semmelbrösel, veganen Parmesan, getrockneten Oregano, Salz und Pfeffer verrühren.",
+        "Die Auberginenscheiben erst im Mehl wenden, dann durch die Sojamehl-Mischung ziehen und zum Schluss mit dem Semmelbrösel-Mix panieren.",
+        "Backofen auf 200°C vorheizen. Die Auberginenscheiben auf ein mit Olivenöl eingefettetes Backblech legen und ca. 20 Minuten backen. Dabei nach der Hälfte der Backzeit wenden. Sie sollten gebräunt und die Panierung knusprig sein. Wer sie richtig knusprig haben möchte, kann sie auch in einer Pfanne mit Öl von beiden Seiten ausbacken, bis sie goldbraun sind.",
+        "Ciabatta halbieren, die Schnittseiten mit Olivenöl bestreichen und in den letzten 5 Minuten mit in den Backofen legen und rösten.",
+        "Sobald Brot und Auberginenscheiben knusprig sind, geht's ans Belegen. Die untere Brothälfte mit einer guten Schicht Marinarasoße bestreichen. Knusprige Auberginenscheiben darauf legen und diese ebenfalls mit Tomatensauce bestreichen. Mit veganem Mozzarella belegen und entweder direkt mit der zweiten Brothälfte zuklappen oder das Sandwich vorher nochmal kurz in den Ofen geben, damit der vegane Mozzarella leicht „schmilzt“, oder weicher wird."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

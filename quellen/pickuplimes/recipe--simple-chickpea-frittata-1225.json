@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/simple-chickpea-frittata-1225",
+  "recipes": [
+    {
+      "name": "Simple Chickpea Frittata",
+      "source_url": "https://www.pickuplimes.com/recipe/simple-chickpea-frittata-1225",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT15M",
+      "total_time": "PT25M",
+      "ingredients": [
+        "1 cup chickpea flour",
+        "¾ tsp kala namak",
+        "¼ tsp baking powder",
+        "¾ cup water",
+        "1 medium tomato",
+        "½ medium zucchini",
+        "½ cup frozen green peas",
+        "⅓ cup fresh basil leaves",
+        "1 Tbsp olive oil",
+        "½ avocado",
+        "½ cup unsweetened soy yogurt"
+      ],
+      "instructions": [
+        "To a large bowl, add the chickpea flour, kala namak, baking powder, and water. Whisk until smooth.",
+        "Add the tomato, zucchini, peas, basil. Mix well.",
+        "Heat the oil in a non-stick medium pan over medium heat. Once warm, add the frittata mixture. Cook, fully covered, for 8 to 10 minutes or until the bottom, is golden.",
+        "Flip the frittata and cook, covered, for another 5 to 8 minutes, until golden and cooked through.",
+        "Serve it with sliced avocado and unsweetened yogurt. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Kala namak, also known as Himalayan black salt, is a salt found in some South Asian cuisines. The sulphur compounds give the salt an egg-like smell and flavour.",
+    "Storage Store in an airtight container in the fridge for up to 2 days."
+  ]
+}

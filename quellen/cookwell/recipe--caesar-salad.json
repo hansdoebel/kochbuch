@@ -1,0 +1,50 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/caesar-salad",
+  "recipes": [
+    {
+      "name": "Caesar Salad",
+      "source_url": "https://app.cookwell.com/recipe/caesar-salad",
+      "recipe_id": "https://app.cookwell.com/recipe/caesar-salad",
+      "authors": [
+        "Cook Well Official"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT35M",
+      "ingredients": [
+        "Egg Yolks, 1",
+        "Anchovies, 3-4",
+        "Garlic, 1-2 cloves",
+        "Dijon Mustard, 1 spoonful",
+        "Lemon juice, 1/2 lemon",
+        "Parmigiano Reggiano, 2 spoonfuls",
+        "Neutral oil, as needed",
+        "Black Pepper, to taste",
+        "Salt, to taste",
+        "Romaine lettuce",
+        "Parmigiano Reggiano, for garnish",
+        "Black Pepper, for garnish",
+        "Croutons",
+        "Bacon",
+        "Shallots",
+        "Chicken Breasts",
+        "Anchovies",
+        "Cherry tomatoes"
+      ],
+      "instructions": [
+        "Clean & dry the lettuce you will be using. If you have the time, tear the lettuce into large bite-sized pieces instead of chopping it. Lettuce tears easily along its cell walls, but can bruise and oxidize along cut lines if you use a knife. Tearing also gets you slightly irregular pieces for a more natural texture and eating experience. Start the pungent emulsion base. In a blender or food processor, puree together egg, anchovies, garlic, mustard, lemon juice, and parmesan until smooth.",
+        "Slowly drizzle in the oil while blending, starting with a very small stream and gradually increasing the flow as an emulsion forms. Pause frequently and check that the oil is fully incorporated into the mixture — the dressing should be smooth and creamy and thicken as you add more oil. Continue blending in oil until the desired consistency is reached. If it gets too thick, you can thin it out with water or lemon juice. It’s hard to say exactly how much oil you will need because it depends on the emulsion power of your base. Keep blending in oil until the dressing is creamy, viscous, and lighter in color. Don’t hold back — you can always thin it back with a splash of water if you go too far into mayo-thickness-territory. Add freshly cracked black pepper, and salt if needed (taste it first — many of the ingredients are naturally salty already). Add more lemon juice if extra acidity is needed. This will make enough dressing for multiple servings/heads of lettuce. Keep extra in a sealed container in the fridge. Note: If your emulsion breaks (you’ll know — it’ll separate into a greasy mess) you added too much oil too quickly. You can save it by emptying the blender into another vessel, start with one more egg yolk and a bit of lemon juice in the blender. Slowly drizzle the broken dressing into the running blender until it properly emulsifies.",
+        "Toss your choice of prepared lettuce and toppings with enough dressing to coat everything. Garnish with plenty of black pepper and grated parmesan. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

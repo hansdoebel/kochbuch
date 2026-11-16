@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-tacos-mit-fischstaebchen-und-erbsen-minz-pueree",
+  "recipes": [
+    {
+      "name": "Vegane Fischstäbchen-Tacos mit Erbsen-Minz-Püree",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-tacos-mit-fischstaebchen-und-erbsen-minz-pueree",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-tacos-mit-fischstaebchen-und-erbsen-minz-pueree#recipe-3de3f555-86ec-559a-9302-0742e883e299",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "15 Tacos (4 Personen)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Für die Tacos:",
+        "375 g (15 Stück) vegane Fischstäbchen (z. B. von Fisch vom Feld)",
+        "15 Wraps / Soft Tacos",
+        "1 Zwiebel",
+        "Für das Erbsen-Minz-Püree:",
+        "500 g gefrorene Erbsen",
+        "10 g frische Minze",
+        "2 EL vegane Butter",
+        "3 EL veganer Naturjoghurt",
+        "Zitronensaft",
+        "Salz",
+        "Pfeffer",
+        "Für die vegane Joghurt-Creme:",
+        "250 g veganer Naturjoghurt",
+        "1 Knoblauchzehe",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Für die vegane Joghurt-Creme den veganen Naturjoghurt in eine Schüssel geben. Eine Knoblauchzehe fein hacken (oder durch eine Knoblauchpresse drücken) und hinzugeben. Die Creme mit Salz und Pfeffer abschmecken und beiseitestellen.",
+        "Die Minze waschen, trocken schütteln, die Blätter ablösen und grob hacken. Die Zwiebel schälen und fein hacken.",
+        "Die gefrorenen Erbsen in einen kleinen Topf geben und mit Wasser bedecken. Das Wasser zum Kochen bringen und ca. 5 Minuten köcheln lassen. Alle Erbsen sollten am Ende an der Wasseroberfläche schwimmen. Im Anschluss die Erbsen abgießen und mit kaltem Wasser abbrausen.",
+        "In der Zwischenzeit Pflanzenöl in einer großen Pfanne erhitzen und die pflanzlichen Fischstäbchen darin auf mittlerer bis hoher Stufe ca. 4-6 Minuten von beiden Seiten knusprig und goldbraun braten.",
+        "Die gekochten Erbsen in eine Schüssel geben und zerstampfen – das Püree kann aber gern auch noch leicht stückig bleiben. Vegane Butter und den pflanzlichen Joghurt dazugeben und vermengen. Wer mag, kann von beidem auch mehr dazugeben, wenn ihr das Püree cremiger mögt. Mit Salz und Pfeffer abschmecken und die gehackte frische Minze unterrühren.",
+        "Die Wraps (oder Soft Tacos) einzeln in einer fettfreien Pfanne ca. 1-2 Minuten pro Seite erwärmen. Im Anschluss mit dem Erbsen-Minz-Püree, der veganen Joghurt-Creme, den pflanzlichen Fischstäbchen und ein paar Zwiebelwürfeln belegen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

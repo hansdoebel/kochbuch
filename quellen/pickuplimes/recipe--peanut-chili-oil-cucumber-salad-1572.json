@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/peanut-chili-oil-cucumber-salad-1572",
+  "recipes": [
+    {
+      "name": "Peanut & Chili Oil Cucumber Salad",
+      "source_url": "https://www.pickuplimes.com/recipe/peanut-chili-oil-cucumber-salad-1572",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT15M",
+      "cook_time": "",
+      "total_time": "PT25M",
+      "ingredients": [
+        "3 Tbsp natural peanut butter",
+        "1 Tbsp reduced-sodium soy sauce",
+        "½ lime",
+        "1 tsp agave syrup",
+        "¾ tsp garlic powder",
+        "1 Tbsp water",
+        "9 mini cucumber",
+        "¼ cup fresh cilantro",
+        "¼ cup unsalted roasted peanuts",
+        "1 Tbsp toasted sesame seeds",
+        "1 Tbsp chili crisp"
+      ],
+      "instructions": [
+        "In a small bowl, mix together all the dressing ingredients until smooth*.",
+        "In a large bowl, combine the cucumber, cilantro, peanuts, and sesame seeds (if using). Add the dressing and toss to coat. Let sit for at least 10 minutes for the flavours to infuse and for the cucumber to soften slightly.",
+        "Plate, drizzle over the chili crisp, and garnish with more cilantro, peanuts, and sesame seeds, if desired. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * Add more water if a thinner consistency is desired. Keep in mind that the cucumber will release some liquid as it sits in the dressing.",
+    "Storage Best on the day it's made, but can be stored in an airtight container in the fridge for up to 2 days."
+  ]
+}

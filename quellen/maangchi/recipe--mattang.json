@@ -1,0 +1,135 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/mattang",
+  "recipes": [
+    {
+      "name": "Candied sweet potato (Mattang: 맛탕)",
+      "source_url": "https://www.maangchi.com/recipe/mattang",
+      "recipe_id": "/recipe/mattang#sso/recipe/10776",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "Serves 3 to 4",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "P0DT0H14M0S",
+      "ingredients": [
+        "1 pound peeled and washed Korean sweet potato, roll cut into ½ to 1 inch thick pieces",
+        "⅓ cup white sugar",
+        "cooking oil (vegetable, grape seeds, or corn oil) for making syrup and frying",
+        "1 teaspoon toasted black sesame seeds (optional)"
+      ],
+      "instructions": [
+        "Heat 1½ inch cooking oil in a large pan over medium high heat until the temperature reaches about 340ºF. (I used 6 cups cooking oil in my 12 inch pan and heated it up for 12 minutes over medium-high) Gently add the sweet potato pieces to the hot oil. Fry them for about 4 to 5 minutes, stirring occasionally with a wooden or slotted spoon, until light golden brown. Use tongs or slotted spoon to take out the sweet potato pieces and put them into a stainless steel strainer over a bowl so they can drain. Turn off the heat and let them sit until the syrup is ready.",
+        "Add about 2 tablespoons cooking oil to a skillet. Swirl it around to evenly coat. Sprinkle sugar evenly over the oil. Heat up the skillet over medium heat. When the sugar starts melting after about 5 minutes, reduce the heat to medium low. Grab the handle of the skillet, lift it up and move it around so the sugar evenly melts in the oil. Don't stir it, or it will crystalize. Keep moving and shifting the pan for another 2 to 3 minutes until all the sugar melts into to brownish syrup. Turn off the heat.",
+        "Reheat the oil for about 2 to 3 minutes until it reaches 340ºF. Add the fried sweet potato pieces and fry them for 1 to 2 minutes until crunchy and golden brown. Use tongs or slotted spoon to take out the sweet potato pieces and put them into a stainless steel strainer over a bowl so they can drain. Turn off the heat.",
+        "Reheat the syrup. Add the sweet potato and mix with a wooden spoon until they are totally covered in the syrup. Sprinkle the black sesame seeds over top. Remove from the heat and transfer the sweet potato to a large baking sheet lined with a parchment paper. Leave a gap between each piece so that they don’t stick together. Let them cool down. When the syrup hardens, transfer the mattang to a serving bowl and serve."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 3 to 4"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound peeled and washed Korean sweet potato, roll cut into ½ to 1 inch thick pieces"
+        },
+        {
+          "tag": "li",
+          "text": "⅓ cup white sugar"
+        },
+        {
+          "tag": "li",
+          "text": "cooking oil (vegetable, grape seeds, or corn oil) for making syrup and frying"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon toasted black sesame seeds (optional)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "First fry for the sweet potato:"
+        },
+        {
+          "tag": "li",
+          "text": "Heat 1½ inch cooking oil in a large pan over medium high heat until the temperature reaches about 340ºF. (I used 6 cups cooking oil in my 12 inch pan and heated it up for 12 minutes over medium-high)"
+        },
+        {
+          "tag": "li",
+          "text": "Gently add the sweet potato pieces to the hot oil. Fry them for about 4 to 5 minutes, stirring occasionally with a wooden or slotted spoon, until light golden brown."
+        },
+        {
+          "tag": "li",
+          "text": "Use tongs or slotted spoon to take out the sweet potato pieces and put them into a stainless steel strainer over a bowl so they can drain. Turn off the heat and let them sit until the syrup is ready."
+        },
+        {
+          "tag": "h3",
+          "text": "Make syrup:"
+        },
+        {
+          "tag": "li",
+          "text": "Add about 2 tablespoons cooking oil to a skillet. Swirl it around to evenly coat."
+        },
+        {
+          "tag": "li",
+          "text": "Sprinkle sugar evenly over the oil."
+        },
+        {
+          "tag": "li",
+          "text": "Heat up the skillet over medium heat. When the sugar starts melting after about 5 minutes, reduce the heat to medium low."
+        },
+        {
+          "tag": "li",
+          "text": "Grab the handle of the skillet, lift it up and move it around so the sugar evenly melts in the oil. Don’t stir it, or it will crystalize. Keep moving and shifting the pan for another 2 to 3 minutes until all the sugar melts into to brownish syrup. Turn off the heat."
+        },
+        {
+          "tag": "h3",
+          "text": "2nd fry for the sweet potato:"
+        },
+        {
+          "tag": "li",
+          "text": "Reheat the oil for about 2 to 3 minutes until it reaches 340ºF. Add the fried sweet potato pieces and fry them for 1 to 2 minutes until crunchy and golden brown."
+        },
+        {
+          "tag": "li",
+          "text": "Use tongs or slotted spoon to take out the sweet potato pieces and put them into a stainless steel strainer over a bowl so they can drain. Turn off the heat."
+        },
+        {
+          "tag": "h3",
+          "text": "Finish and serve:"
+        },
+        {
+          "tag": "li",
+          "text": "Reheat the syrup. Add the sweet potato and mix with a wooden spoon until they are totally covered in the syrup. Sprinkle the black sesame seeds over top."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and transfer the sweet potato to a large baking sheet lined with a parchment paper."
+        },
+        {
+          "tag": "li",
+          "text": "Leave a gap between each piece so that they don’t stick together. Let them cool down."
+        },
+        {
+          "tag": "li",
+          "text": "When the syrup hardens, transfer the mattang to a serving bowl and serve."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

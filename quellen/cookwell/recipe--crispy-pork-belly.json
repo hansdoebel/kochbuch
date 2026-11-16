@@ -1,0 +1,39 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/crispy-pork-belly",
+  "recipes": [
+    {
+      "name": "Crispy Pork Belly",
+      "source_url": "https://app.cookwell.com/recipe/crispy-pork-belly",
+      "recipe_id": "https://app.cookwell.com/recipe/crispy-pork-belly",
+      "authors": [
+        "Cook Well Official"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT27H",
+      "ingredients": [
+        "Pork belly, 2-4 lbs",
+        "Salt",
+        "Tortillas",
+        "Bao bun",
+        "Sandwich bread",
+        "Ramen Noodles"
+      ],
+      "instructions": [
+        "Generously sprinkle all sides of the pork with salt. Set skin side up on a wire rack, and let dry brine uncovered in the refrigerator for 12-24 hours. This will season the cut and dry out the skin.",
+        "Add the pork belly to a similarly sized baking pan. Optionally wrap the sides (not the top skin) in foil, to keep the meat from drying out. Roast for 2-3 hours at 275°F/135°C or until the meat is completely tender, and remove from the oven. The meat is essentially just braising at this point.",
+        "Turn the oven up to 465°F/240°C. Dry off the skin, and optionally brush or pour over any rendered fat onto the skin, which will help the skin almost fry during this step. Roast in the oven for 20-35 minutes until the skin puffs and crisps up. Watch carefully so the skin doesn't go too far and burn.",
+        "Let it rest for at least an hour before slicing. Serve on your desired form. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

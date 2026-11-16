@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mohnnudeln-mit-pflaumensauce",
+  "recipes": [
+    {
+      "name": "Vegane Mohn-Schupfnudeln mit Pflaumensauce",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mohnnudeln-mit-pflaumensauce",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mohnnudeln-mit-pflaumensauce#recipe-d4bc7d1f-8bcf-5d67-b743-a92b1403371d",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "Für den Teig:",
+        "400 g mehlig kochende Kartoffeln",
+        "100 g Mehl",
+        "2 EL Sojamehl",
+        "1 EL Speisestärke",
+        "2 EL vegane Butter (weich)",
+        "1 EL Vanillezucker",
+        "Salz",
+        "Für die Mohnbutter:",
+        "50 g vegane Butter",
+        "50 g Mohn",
+        "1 EL Vanillezucker",
+        "Für die Pflaumensoße:",
+        "5 Pflaumen",
+        "100 ml Wasser",
+        "3 EL Zucker",
+        "1 TL Zimt",
+        "1 Vanilleschote",
+        "Zum Servieren:",
+        "Puderzucker"
+      ],
+      "instructions": [
+        "Kartoffeln schälen, ggf. kleiner schneiden und in einen Topf geben. Mit Wasser bedecken, salzen und ca. 20 Minuten kochen, bis sie weich sind. Das Wasser abgießen und die Kartoffeln abkühlen lassen.",
+        "Während die Kartoffeln kochen, die Pflaumensoße zubereiten. Pflaumen waschen, entkernen und in Spalten schneiden. Die Pflaumenstücke zusammen mit Wasser und Zucker in einen kleinen Topf geben. Einen Deckel auf den Topf legen und die Pflaumen ca. 10 Minuten köcheln lassen, bis sie weich sind. Anschließend die Mischung aus dem Topf gut pürieren, bis eine sämige Soße entsteht. Diese durch ein Sieb passieren, um die übrigen Schalen auszusieben. Die Soße zurück in den Topf geben und mit Zimt sowie dem Vanillemark einer Schote würzen. Anschließend bei kleiner Hitze warm halten, bis die Schupfnudeln fertig sind. Sollte die Soße zu dick werden, etwas Wasser dazugeben.",
+        "Sobald die Kartoffeln etwas abgekühlt sind, direkt im Topf stampfen, bis keine größeren Stücken mehr darin sind. Die Hälfte des Mehls, Sojamehl, Speisestärke, vegane Butter, Vanillezucker und Salz zu den gestampften Kartoffeln geben und vermengen. Den Teig danach auf eine bemehlte Arbeitsfläche geben und das restliche Mehl nach und nach einarbeiten, bis der Teig nicht mehr klebt. Es kann sein, dass ihr für euren Teig mehr/weniger vom Mehl benötigt.",
+        "Den Teig halbieren oder vierteln und jeweils zu einer dünnen Rolle formen. Diese in gleich große Stücke schneiden und jeweils zu Schupfnudeln formen, fast wie Vanillekipferl zu Weihnachten, nur dass ihr die Schupfnudeln nicht zu einem Halbmond biegt. Die fertigen Schupfnudeln lagert ihr am besten auf einer bemehlten Unterlage.",
+        "Für die Mohnbutter vegane Butter in einem Topf schmelzen und den Mohn darin ca. 2-3 Minuten köcheln lassen. Danach die Mohnbutter in einen tiefen Teller geben und Vanillezucker unterrühren.",
+        "Wasser in einem großen Topf zum Sieden bringen. Eine Pfanne neben dem Topf bereitstellen. Die Schupfnudeln portionsweise im siedenden Wasser kochen lassen, bis sie an der Wasseroberfläche schwimmen. Danach aus dem Wasser schöpfen, etwas abtropfen lassen und nacheinander in der Mohnbutter wenden, damit sie gut bedeckt sind. Nun in die Pfanne geben und anbraten, bis sie goldbraun und außen leicht knusprig sind. Die Mohnbutter sollte als Fett eigentlich ausreichen, damit die Mohnnudeln nicht anbraten, aber gebt falls nötig noch etwas vegane Butter dazu. So immer weiter vorgehen, bis alle Mohn-Schupfnudeln gekocht und gebraten sind.",
+        "Die Mohnnudeln zum Schluss mit Puderzucker bestäuben und mit der Pflaumensoße servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

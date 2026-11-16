@@ -1,0 +1,138 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/mu-bap",
+  "recipes": [
+    {
+      "name": "Steamed radish rice (Mu-bap: 무밥)",
+      "source_url": "https://www.maangchi.com/recipe/mu-bap",
+      "recipe_id": "/recipe/mu-bap#sso/recipe/100497",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "2 servings",
+      "prep_time": "P0DT0H10M0S",
+      "cook_time": "P0DT0H20M0S",
+      "total_time": "P0DT0H30M0S",
+      "ingredients": [
+        "1 pound Korean radish (or daikon), peeled and cut into matchsticks",
+        "1 cup rice, washed and soaked in cold water at least for 30 minutes",
+        "4 garlic cloves, minced",
+        "4 green onions, chopped",
+        "¼ cup soy sauce",
+        "1 tablespoon gochu-garu (Korean hot pepper flakes)",
+        "2 tablespoons crushed toasted sesame seeds",
+        "2 tablespoons toasted sesame oil"
+      ],
+      "instructions": [
+        "Open the pot and taste a few grains of rice to ensure that both the rice and radish are cooked to your liking. Once they're ready, remove the pot from the heat and cover it to keep the rice warm.",
+        "In a bowl, combine garlic, green onion, soy sauce, gochu-garu, sesame seeds, and sesame oil. Mix it well.",
+        "Transfer the steamed radish rice to 2 large, shallow bowls. Serve with the prepared seasoning sauce. To enjoy, add some of the sauce to the hot rice and mix it well. Enjoy your delicious steamed radish rice with a flavorful seasoning sauce!"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 2"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound Korean radish (or daikon), peeled and cut into matchsticks"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup rice, washed and soaked in cold water at least for 30 minutes"
+        },
+        {
+          "tag": "h3",
+          "text": "For seasoning sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "4 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "4 green onions, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon gochu-garu (Korean hot pepper flakes)"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons crushed toasted sesame seeds"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons toasted sesame oil"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "You have the option to use either a rice cooker or a pot for making this dish. If you choose to use a pot, begin by adding half of the radish matchsticks to a medium-sized, heavy pot or pan."
+        },
+        {
+          "tag": "li",
+          "text": "Drain the rice and add it to the pot, along with 1 cup of water."
+        },
+        {
+          "tag": "li",
+          "text": "Place the remaining radish matchsticks on top of the rice, and then put the lid on."
+        },
+        {
+          "tag": "li",
+          "text": "Cook over medium-high heat for 10 minutes. Afterward, gently turn the radish rice over using a rice scoop or a wooden spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Cover the pot again, but this time reduce the heat to medium-low and let it simmer for 8 to 10 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Open the pot and taste a few grains of rice to ensure that both the rice and radish are cooked to your liking. Once they’re ready, remove the pot from the heat and cover it to keep the rice warm."
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the seasoning sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "In a bowl, combine garlic, green onion, soy sauce, gochu-garu, sesame seeds, and sesame oil."
+        },
+        {
+          "tag": "li",
+          "text": "Mix well."
+        },
+        {
+          "tag": "h3",
+          "text": "Serving:"
+        },
+        {
+          "tag": "li",
+          "text": "Transfer the steamed radish rice to 2 large, shallow bowls, and serve with the prepared seasoning sauce."
+        },
+        {
+          "tag": "li",
+          "text": "To eat, add some of the sauce to the hot rice and mix well. Enjoy your delicious steamed radish rice with a flavorful seasoning sauce!"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

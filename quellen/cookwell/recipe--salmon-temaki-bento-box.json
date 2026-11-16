@@ -1,0 +1,47 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/salmon-temaki-bento-box",
+  "recipes": [
+    {
+      "name": "Salmon Temaki Bento Box",
+      "source_url": "https://app.cookwell.com/recipe/salmon-temaki-bento-box",
+      "recipe_id": "https://app.cookwell.com/recipe/salmon-temaki-bento-box",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 serving",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Salmon, 160 g",
+        "Sushi rice, 100 g",
+        "Edamame, 50 g",
+        "Seaweed handroll sheets, 3",
+        "Kewpie mayo",
+        "Sriracha",
+        "Black sesame seeds",
+        "Salt",
+        "Carrots, 3",
+        "Serrano peppers, 1",
+        "Water, 2 parts",
+        "Rice Vinegar, 1 part",
+        "White Vinegar, 1 part",
+        "Salt, a sprinkle",
+        "MSG, a pinch"
+      ],
+      "instructions": [
+        "Start cooking your rice in a rice cooker or pot according to the package directions. For the salmon, take a thawed filet, remove the skin, and sprinkle all sides with salt. Add a little bit of oil to a hot pan and place it down to develop a nice sear. Add a tiny drizzle of oil to the uneven side and then flip over the salmon. It’s hard to get an even sear on this side since it bellies out, but try adding weight or pressing the salmon with a spatula to develop a sear. Sear for about 7 minutes or until just cooked through and take it off the pan. Set aside to rest.",
+        "Add julienned carrots to a glass jar along with some thinly sliced serrano peppers for heat. Add salt and a tiny pinch of msg. Pour over the water and vinegar mixture, ensuring the sliced veggies are completely submerged and will pickle evenly. These will get more pickled over time and store well in the fridge for a long time.",
+        "To assemble the bento, place the re-heatable items in the bottom layer (if you have a two-layer bento box). First, put in the salmon, followed by 100 g of cooked rice in the center. Lastly, for additional protein, add 50 g of frozen edamame on the side with a sprinkle of salt."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

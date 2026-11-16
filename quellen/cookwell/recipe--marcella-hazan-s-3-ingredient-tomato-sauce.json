@@ -1,0 +1,36 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/marcella-hazan-s-3-ingredient-tomato-sauce",
+  "recipes": [
+    {
+      "name": "Marcella Hazan's 3 Ingredient Tomato Sauce",
+      "source_url": "https://app.cookwell.com/recipe/marcella-hazan-s-3-ingredient-tomato-sauce",
+      "recipe_id": "https://app.cookwell.com/recipe/marcella-hazan-s-3-ingredient-tomato-sauce",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1-2 servings worth",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Whole peeled tomatoes, 800 g",
+        "Butter, 70 g",
+        "Onions, 1",
+        "Salt, to taste"
+      ],
+      "instructions": [
+        "Crush the whole peeled tomatoes with a food mill, food processor, or blender until smooth. If you want a more rustic sauce, leave the tomatoes whole or chunky, and let them break down naturally during the cooking. Peel and cut the onion in half, but leave the root end attached so the onion doesn't fall apart during cooking.",
+        "Add the tomatoes, butter, peeled onion halves, and a small pinch of salt to a large skillet over medium-low heat. A wider skillet reduces sauce more effectively than a deep pot: the wider surface area evaporates moisture more easily. Stirring occasionally, let the sauce simmer until it is reduced and thickened, about 30 minutes.",
+        "Turn off the heat and fish out the onion halves (you can eat or discard these). Taste the sauce and add salt as needed. Use immediately, or store the sauce in the fridge for about a week."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

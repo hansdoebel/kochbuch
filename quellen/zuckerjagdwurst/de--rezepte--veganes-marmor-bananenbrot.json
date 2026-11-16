@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-marmor-bananenbrot",
+  "recipes": [
+    {
+      "name": "Veganes Marmor-Bananenbrot",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-marmor-bananenbrot",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-marmor-bananenbrot#recipe-e46e4cb2-4f39-5469-8120-9590b884c735",
+      "authors": [
+        "Nele Riese"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kastenform (ca. 22,5 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT75M",
+      "ingredients": [
+        "Für den hellen Teig:",
+        "420 g Dinkelmehl (Typ 630)",
+        "16 g (4 TL) Backpulver",
+        "100 g Zucker",
+        "1.5 TL gemahlene Vanille",
+        "10 g Speisestärke",
+        "0.5 TL Salz",
+        "2 sehr reife Bananen (ca. 200 g)",
+        "220 ml pflanzliche Milch",
+        "180 ml neutrales Pflanzenöl",
+        "Für den Schokoteig:",
+        "2–3 EL (30 g) Backkakao",
+        "60 ml pflanzliche Milch",
+        "Außerdem:",
+        "1 sehr reife Banane",
+        "vegane Butter zum Einfetten"
+      ],
+      "instructions": [
+        "Den Ofen auf 180 °C (Ober- Unterhitze) vorheizen. Eine Kastenform (circa 22,5 Zentimeter) mit veganer Butter einfetten.",
+        "Dinkelmehl, Backpulver, Zucker, gemahlene Vanille, Speisestärke und Salz in eine Schüssel geben und vermengen.",
+        "Die zwei Bananen, pflanzliche Milch und neutrales Pflanzenöl in einen Mixer geben und glatt pürieren. Anschließend zu den trockenen Zutaten in die Schüssel geben und miteinander zu einem glatten Teig rühren.",
+        "Ein Drittel des Teigs in eine kleine Schüssel umfüllen. Den Backkakao und 60 Milliliter pflanzliche Milch dazugeben und gut unterrühren, bis eine gleichmäßige Kakaomasse entstanden ist.",
+        "Zuerst den hellen Teig in die Kastenform füllen und darauf den dunklen Teig. Anschließend mit einem Löffel von unten nach oben durch den Teig fahren, um einen Marmor-Swirl zu erzeugen.",
+        "Die übrige Banane der Länge nach halbieren und mit der Schnittfläche nach oben auf den Teig legen. Das Bananenbrot circa 60 Minuten bei 180 °C backen, bis ein Holzstäbchen sauber herauskommt. Falls die Oberfläche zu dunkel wird, mit Alufolie abdecken. Das Bananenbrot circa 10 Minuten in der Form abkühlen lassen, dann vorsichtig stürzen und auf einem Gitter vollständig auskühlen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

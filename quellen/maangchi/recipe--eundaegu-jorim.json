@@ -1,0 +1,127 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/eundaegu-jorim",
+  "recipes": [
+    {
+      "name": "Braised sablefish (black cod) with radish (Eundaegu-jorim) 은대구조림",
+      "source_url": "https://www.maangchi.com/recipe/eundaegu-jorim",
+      "recipe_id": "/recipe/eundaegu-jorim#sso/recipe/100724",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "Four servings",
+      "prep_time": "P0DT0H10M0S",
+      "cook_time": "P0DT0H35M0S",
+      "total_time": "P0DT0H45M0S",
+      "ingredients": [
+        "1 pound black cod (also known as sablefish) fillets, cut into 3-inch pieces",
+        "1 pound Korean radish (or daikon), peeled and sliced into ½-inch thick rounds",
+        "1 large onion, sliced",
+        "1 dae-pa (or 4 green onions), cut diagonally into 1 inch pieces.",
+        "1 or 2 green chili peppers, coarsely chopped.",
+        "⅓ cup soy sauce",
+        "6 garlic cloves, minced",
+        "1 tablespoon gochu-garu (Korean hot pepper flakes)",
+        "1 teaspoon sugar (optional)"
+      ],
+      "instructions": [
+        "Open and gently move the radish around with a spoon so that the radish wouldn't burn. Spoon some broth over the fish and radish to season evenly.",
+        "Cover and simmer over medium heat for another 5 to 7 minutes until both the radish and fish are well infused with the sauce, and some broth has evaporated. The radish should appear a little brown and transparent when properly cooked.",
+        "Remove from heat and serve the dish with rice and a few more side dishes."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound black cod (also known as sablefish) fillets, cut into 3-inch pieces"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound Korean radish (or daikon), peeled and sliced into ½-inch thick rounds"
+        },
+        {
+          "tag": "li",
+          "text": "1 large onion, sliced"
+        },
+        {
+          "tag": "li",
+          "text": "1 dae-pa (or 4 green onions), cut diagonally into 1 inch pieces."
+        },
+        {
+          "tag": "li",
+          "text": "1 or 2 green chili peppers, coarsely chopped."
+        },
+        {
+          "tag": "p",
+          "text": "For seasoning sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "⅓ cup soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "6 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon gochu-garu (Korean hot pepper flakes)"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon sugar (optional)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "In a bowl, combine soy sauce, minced garlic, gochu-garu, and sugar (if using). Mix well and set aside."
+        },
+        {
+          "tag": "li",
+          "text": "Arrange the radish rounds on the bottom of a large pot or skillet. Add 2 cups of water, cover, and cook over medium-high heat for 15 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Uncover and flip the radish rounds with a spatula for even cooking. Add sliced onions, daepa, and green chili peppers over the radish."
+        },
+        {
+          "tag": "li",
+          "text": "Place the fish fillets on top one by one, leaving space between each piece."
+        },
+        {
+          "tag": "li",
+          "text": "Pour the prepared sauce over the top and cover. Reduce the heat to medium and cook for 10 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Open and gently move the radish around with a spoon so that the radish wouldn’t burn. Spoon some broth over the fish and radish to season evenly."
+        },
+        {
+          "tag": "li",
+          "text": "Cover and simmer over medium heat for another 5 to 7 minutes until both the radish and fish are well infused with the sauce, and some broth has evaporated. The radish should appear a little brown and transparent when properly cooked."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from heat and serve the dish with rice and a few more side dishes."
+        },
+        {
+          "tag": "p",
+          "text": "Note: Adjust the cooking time based on the thickness of the fish fillets and your stove’s heat level. You may need to add a bit more water during braising. Enjoy your delicious black cod and radish stew!"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

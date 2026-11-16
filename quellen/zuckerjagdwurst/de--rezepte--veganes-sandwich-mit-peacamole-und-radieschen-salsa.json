@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-sandwich-mit-peacamole-und-radieschen-salsa",
+  "recipes": [
+    {
+      "name": "Veganes Sandwich mit Peacamole & Radieschen-Salsa",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-sandwich-mit-peacamole-und-radieschen-salsa",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-sandwich-mit-peacamole-und-radieschen-salsa#recipe-792389e5-b0f2-573b-b8e8-eb2b3e2a27b9",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Sandwiches",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Für die Peacamole:",
+        "250 g gefrorene Erbsen",
+        "25 g Pinienkerne",
+        "1 Knoblauchzehe",
+        "15 g Minze",
+        "2 EL Olivenöl",
+        "Salz",
+        "Pfeffer",
+        "Für die Radieschen-Salsa:",
+        "200 g Radieschen",
+        "0.5 rote Zwiebel",
+        "0.25 Zitrone",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "4 Scheiben Sauerteigbrot",
+        "Avocado (optional)",
+        "Kräuter Stullen Spice von Just Spices",
+        "geröstete Pinienkerne",
+        "Kresse und Sprossen"
+      ],
+      "instructions": [
+        "Wasser in einem Topf zum Kochen bringen. Die tiefgefrorenen Erbsen ca. 5 Minuten darin köcheln lassen. Im Anschluss abgießen und die Erbsen unter eiskaltem Wasser abspülen, damit sie ihre kräftig grüne Farbe behalten.",
+        "Die Pinienkerne für die Peacamole in einer Pfanne ohne Öl rösten, bis sie gebräunt sind und gut duften. Die Knoblauchzehe schälen und fein hacken oder durch eine Knoblauchpresse drücken. Die Minzblätter waschen, trocken schütteln und fein hacken.",
+        "Die gekochten Erbsen mit den gerösteten Pinienkernen, Olivenöl und Knoblauch zerstampfen und mit frischer Minze, Salz und Pfeffer abschmecken.",
+        "Für die Salsa Radieschen waschen und die rote Zwiebel schälen. Beides in einen Zerkleinerer geben und fein würfeln. Die Salsa danach mit Zitronensaft und -abrieb, Salz und Pfeffer abschmecken.",
+        "Das Sauerteigbrot in einem Kontaktgrill oder einer Grillpfanne mit etwas Öl rösten oder ganz einfach toasten. Die Peacamole und Radieschen-Salsa darauf verteilen und mit Kräuter Stullen Spice, noch mehr Pinienkernen und Kresse oder Sprossen bestreuen. Wer mag, kann auch Avocadoscheiben aufs Brot geben."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

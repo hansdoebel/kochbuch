@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pasta-primavera",
+  "recipes": [
+    {
+      "name": "Vegane Pasta Primavera",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pasta-primavera",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pasta-primavera#recipe-68c79f7e-3b6b-5ee7-9bd7-81aee7b89d10",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4-6 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "500 g Nudeln (z.B. Byodo Bio-Penne)",
+        "400 g grüner Spargel",
+        "1 rote Zwiebel",
+        "1 gelbe Paprikaschote",
+        "8 Radieschen",
+        "300 g Kirschtomaten",
+        "200 g frische Erbsen (oder Zuckerschoten)",
+        "100 ml pflanzliche Sahne",
+        "1 TL Weißweinessig",
+        "2 EL Hefeflocken",
+        "0.5 Zitrone",
+        "Pflanzenöl zum Braten",
+        "Basilikum zum Servieren",
+        "Kresse zum Servieren",
+        "Salz",
+        "Pfeffer",
+        "Zucker"
+      ],
+      "instructions": [
+        "Zunächst das Gemüse vorbereiten und gegebenenfalls vorher waschen: Die eventuell trockenen Enden des grünen Spargels abknapsen und sie in mundgerechte Stücke schneiden. Rote Zwiebel fein würfeln, Paprika würfeln, Radieschen in Scheiben schneiden und die Kirschtomaten halbieren. Die Erbsen oder Zuckerschoten etwas kleiner schneiden.",
+        "Gesalzenes Wasser in einem großen Topf zum Kochen bringen und die Nudeln je nach Packungsangabe kochen, jedoch ca. 2 Minuten weniger als angegeben. Vor dem Abgießen ca. 100 ml des Kochwassers abschöpfen und beiseitestellen.",
+        "Während die Nudeln kochen, Pflanzenöl in einer großen Pfanne erhitzen und zuerst die roten Zwiebelwürfel ca. 1-2 Minuten anschwitzen, bis sie glasig werden. Grünen Spargel und Paprikawürfel dazugeben und weitere 3-4 Minuten braten. Mit etwas Zucker und Salz würzen. Nun die Erbsen dazugeben und ca. 2 Minuten anbraten.",
+        "Pflanzliche Sahne, Weißweinessig und Hefeflocken dazugeben. Den Abrieb und den Saft einer halben (gewaschenen) Zitrone in die Pfanne geben und alles gut durchschwenken und mit Salz und Pfeffer abschmecken.",
+        "Zum Schluss Radieschen, Tomaten und die gekochten Nudeln dazugeben und so viel Kochwasser der Nudeln dazugeben, bis die Soße alle Zutaten gut ummantelt und gemeinsam ca. 1-2 Minuten erwärmen.",
+        "In einer großen Schüssel servieren und mit frischem Basilikum und Kresse bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/pasta-mit-veganem-baerlauchpesto",
+  "recipes": [
+    {
+      "name": "Pasta mit veganem Bärlauchpesto",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/pasta-mit-veganem-baerlauchpesto",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/pasta-mit-veganem-baerlauchpesto#recipe-58b629a0-df8c-522b-8575-293de1bf3f21",
+      "authors": [
+        "Rahel Würsching"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Pasta:",
+        "250 g Nudeln",
+        "Salz",
+        "Für das Bärlauch-Pesto:",
+        "20 g Mandeln",
+        "80 g Bärlauch",
+        "1 TL Hefeflocken",
+        "0.5 TL (4 g) brauner Zucker",
+        "3 EL Olivenöl",
+        "4-6 EL Nudelwasser",
+        "Chiliflocken",
+        "Salz",
+        "Für das Topping:",
+        "Mandeln",
+        "Chiliflocken",
+        "Hefeflocken"
+      ],
+      "instructions": [
+        "Gesalzenes Wasser in einem Topf zum Kochen bringen und die Pasta darin je nach Packungsangabe al dente kochen. Vor dem Abgießen etwas von dem Kochwasser auffangen und beiseitestellen.",
+        "Den Ofen auf 220°C Ober- und Unterhitze vorheizen. Mandeln auf ein Backblech geben und ca. 5 Minuten rösten, bis sie leicht geröstet sind und duften. In der Zwischenzeit den Bärlauch waschen und klein schneiden.",
+        "Die Mandeln mit Bärlauch, Hefeflocken, braunem Zucker und Olivenöl in einem Mixer zerkleinern, bis alles vermengt ist. Jetzt das Nudelwasser Esslöffel für Esslöffel hinzugeben und vermengen, bis ein geschmeidiges Pesto entsteht. Das Pesto mit Chiliflocken und Salz abschmecken.",
+        "Das Bärlauchpesto zu den gekochten Nudeln geben und alles gut vermengen. Nach Bedarf noch mehr Nudelwasser unterrühren, bis das sämige Pesto die Nudeln ummantelt. Mit gerösteten Mandeln, Chiliflocken und Hefeflocken servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

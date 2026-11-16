@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/harissa-spiced-beans-898",
+  "recipes": [
+    {
+      "name": "Harissa Spiced Beans",
+      "source_url": "https://www.pickuplimes.com/recipe/harissa-spiced-beans-898",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT06M",
+      "cook_time": "PT09M",
+      "total_time": "PT15M",
+      "ingredients": [
+        "2 tsp olive oil",
+        "1 small onion",
+        "1 garlic clove",
+        "1 yellow bell pepper",
+        "1½ cup cooked butter beans",
+        "¾ cup cherry tomatoes",
+        "2 Tbsp harissa sauce",
+        "¼ tsp salt",
+        "⅛ tsp ground black pepper",
+        "½ lemon",
+        "½ cup unsweetened coconut yogurt",
+        "½ avocado",
+        "2 small pita bread"
+      ],
+      "instructions": [
+        "Heat the oil in a large pan over medium-high heat. Cook the onion, garlic, and bell pepper for 3 to 4 minutes, until softened.",
+        "Add the beans, tomatoes, and harissa, and cook for 3 to 4 minutes*. Deglaze the pan with a small splash of water if necessary.",
+        "Season with salt and pepper, and stir in the lemon juice.",
+        "Divide the coconut yogurt between your plates, top with the harissa beans, some avocado slices, and serve with toasted pita. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Also known as lima beans. † Harissa sauce is typically a thinner, milder form of harissa paste, blended with additional oil, tomatoes, or other liquids for a pourable consistency. It's available in both mild and hot varieties. * Harissa offers a deep tangy and spicy flavour, but add less if you'd prefer less heat.",
+    "Storage The beans can be stored separately from the other components in an airtight container in the fridge for up to 3 days."
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/warm-lentil-potato-salad-300",
+  "recipes": [
+    {
+      "name": "Warm Lentil & Potato Salad",
+      "source_url": "https://www.pickuplimes.com/recipe/warm-lentil-potato-salad-300",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT25M",
+      "total_time": "PT08H30M",
+      "ingredients": [
+        "1 Tbsp vegetable oil",
+        "1 medium onion",
+        "1 medium potato",
+        "1 cup dry green lentils",
+        "1 cup water",
+        "½ tsp ground turmeric",
+        "½ tsp ground cinnamon",
+        "½ tsp salt"
+      ],
+      "instructions": [
+        "Heat the oil in a medium pot over medium-high heat . Cook the onion until lightly golden, about 3 to 5 minutes.",
+        "Add the remaining ingredients. Cook at a gentle simmer, partially covered, for 20 minutes. Stir occasionally.",
+        "Serve, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Soaking isn't necessary but helps to increase nutrient absorption and quickens cooking time.",
+    "Storage Store in an airtight container in the fridge for up to 4 days."
+  ]
+}

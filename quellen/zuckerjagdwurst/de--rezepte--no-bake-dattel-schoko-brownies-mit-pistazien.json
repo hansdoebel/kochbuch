@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/no-bake-dattel-schoko-brownies-mit-pistazien",
+  "recipes": [
+    {
+      "name": "No-Bake Dattel-Schoko-Brownies mit Pistazien",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/no-bake-dattel-schoko-brownies-mit-pistazien",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/no-bake-dattel-schoko-brownies-mit-pistazien#recipe-8afd7d04-ffe3-4c4e-b3de-9808cfb49b59",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Backform (ca. 15 cm x 23 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT35M",
+      "ingredients": [
+        "Für die Dattel-Schoko-Schicht:",
+        "350 g entsteinte Datteln",
+        "80 g vegane Schokolade (z. B. Feine Bitter Dattelsüße 80% von Vivani)",
+        "200 g Nüsse",
+        "1 Prise Salz",
+        "Für das Topping:",
+        "160 g vegane Schokolade (z. B. Feine Bitter Dattelsüße 80% von Vivani)",
+        "100 ml vegane Sahne",
+        "Pistazien",
+        "Meersalzflocken"
+      ],
+      "instructions": [
+        "Die Datteln in eine hitzefeste Schüssel oder einen Topf geben und mit heißem Wasser bedecken. 10–15 Minuten einweichen lassen und danach aus dem Wasser nehmen, aber die Flüssigkeit nicht weggießen.",
+        "In der Zwischenzeit die vegane Schokolade für die „Teigschicht“ im Wasserbad schmelzen und kurz abkühlen lassen. Parallel dazu Nüsse in einen Zerkleinerer geben und mixen, bis sie nur noch fein stückig sind. Danach die eingeweichten Datteln, die abgekühlte geschmolzene Schokolade und eine Prise Salz dazugeben und nochmal vermengen. Dabei nach und nach wenige Löffel vom Einweichwasser der Datteln dazugeben, bis die Mischung klebrig-teigig, aber nicht zu flüssig ist.",
+        "Den Teig in einer mit Backpapier ausgelegten Backform verstreichen und gut andrücken.",
+        "Für die Ganache erneut vegane Schokolade im Wasserbad schmelzen lassen. Parallel dazu die vegane Sahne erhitzen, damit beides die gleiche Temperatur hat. Die erwärmte vegane Sahne mit einem Schneebesen in die geschmolzene Schokolade einrühren, so dass daraus ein streichbares, cremiges Topping wird. Die Ganache über den Teig verteilen.",
+        "Pistazien fein hacken und zusammen mit Meersalzflocken über die Brownies streuen. Die Brownies können direkt gegessen werden, halten sich im Kühlschrank aber auch locker eine Woche."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

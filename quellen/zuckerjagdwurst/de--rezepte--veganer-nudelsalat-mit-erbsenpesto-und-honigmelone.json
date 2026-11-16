@@ -1,0 +1,78 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-nudelsalat-mit-erbsenpesto-und-honigmelone",
+  "recipes": [
+    {
+      "name": "Veganer Parmesan",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-nudelsalat-mit-erbsenpesto-und-honigmelone",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-nudelsalat-mit-erbsenpesto-und-honigmelone#recipe-7cc00455-45ac-5abf-ad76-298521fc2022",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "150 g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "100 g Cashewkerne",
+        "50 g gehackte Mandeln",
+        "3 EL Hefeflocken",
+        "1 TL Salz",
+        "0.5 TL Knoblauchpulver"
+      ],
+      "instructions": [
+        "Alle Zutaten in einen Mixer geben und verarbeiten, bis eine fein gemahlene Mischung entsteht. Wenn dennoch ein paar größere Stücken übrig bleiben, ist das gar nicht schlimm.",
+        "Wenn du den Parmesan nicht sofort verwendet, solltest du ihn in einem Einweckglas aufbewahren. Danach kannst ihn über deine Pasta streuen oder für ein Pesto verwenden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Veganer Nudelsalat mit Erbsenpesto & Honigmelone",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-nudelsalat-mit-erbsenpesto-und-honigmelone",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-nudelsalat-mit-erbsenpesto-und-honigmelone#recipe-6e6d07c9-1c68-5dd3-8a99-37292cfcaa47",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4–6 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für den Nudelsalat:",
+        "500 g kurze Nudeln",
+        "340 g getrocknete Tomaten in Öl",
+        "150 g Feldsalat",
+        "300–400 g Honigmelone",
+        "25 g Pinienkerne",
+        "50 g veganer Parmesan",
+        "Für das Erbsenpesto:",
+        "35 g Basilikum",
+        "120 g Erbsen (aus der Dose)",
+        "1 Knoblauchzehe",
+        "75 g Pinienkerne",
+        "50 g veganer Parmesan",
+        "70 ml Olivenöl",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Gesalzenes Wasser in einem großen Topf zum Kochen bringen und kurze Nudeln",
+        "nach Packungsanweisung al dente kochen. Danach abgießen und ausdampfen lassen.",
+        "Während die Nudeln kochen, das Pesto zubereiten. Dafür Erbsen abgießen und Knoblauch schälen. Basilikumblätter, Erbsen, Knoblauch, Pinienkerne, veganen Parmesan, Olivenöl, Salz und Pfeffer in ein hohes Gefäß geben und glattpürieren.",
+        "Getrocknete Tomaten abgießen (das Öl aber auffangen) und in mundgerechte Stücke schneiden. Feldsalat waschen und ggf. Wurzeln entfernen. Honigmelone schälen, entkernen und klein schneiden, dann die Pinienkerne in einer fettfreien Pfanne rösten.",
+        "In einer großen Schüssel Nudeln, getrocknete Tomaten, Feldsalat, Honigmelone und das Pesto vermengen und mit Pinienkernen und veganem Parmesan toppen. Das Pesto ggf. mit etwas Wasser oder dem Öl der getrockneten Tomaten strecken, falls der Salat zu trocken erscheint."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

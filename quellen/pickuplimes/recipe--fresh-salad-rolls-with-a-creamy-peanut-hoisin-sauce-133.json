@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/fresh-salad-rolls-with-a-creamy-peanut-hoisin-sauce-133",
+  "recipes": [
+    {
+      "name": "Fresh Salad Rolls with a Creamy Peanut Hoisin Sauce",
+      "source_url": "https://www.pickuplimes.com/recipe/fresh-salad-rolls-with-a-creamy-peanut-hoisin-sauce-133",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT10M",
+      "total_time": "PT20M",
+      "ingredients": [
+        "1.764 oz rice vermicelli noodles",
+        "½ cup frozen shelled edamame",
+        "6 rice paper sheet",
+        "1 avocado",
+        "2 red bell pepper",
+        "1 medium carrot",
+        "1 cup shredded red cabbage",
+        "½ cucumber",
+        "¼ cup natural peanut butter",
+        "¼ cup hoisin sauce",
+        "½ lime",
+        "3 Tbsp water"
+      ],
+      "instructions": [
+        "Add the rice noodles and edamame into separate bowls. Pour plenty of boiling water over each. Set aside for 5 minutes, then drain.",
+        "Meanwhile, add the sauce ingredients to a small bowl and mix. Add a bit more water if a thinner consistency is desired.",
+        "In a large shallow dish, soak 1 sheet of rice paper in lukewarm water for 5 seconds. The paper will continue to soften even after removed from the water. Avoid over-soaking to prevent tearing when rolling.",
+        "Let the excess water drip off the paper, then transfer the sheet to a large plate. In a line across the centre, add some rice noodles, edamame, and veggies.",
+        "Wrap the salad roll like you would a burrito: folding in the sides, then tucking and rolling. Cut in half using a sharp knife*.",
+        "Serve the rolls with the peanut sauce or with a sweet chili sauce, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * It can help to lightly brush each side of the knife in just a little bit of oil, so that the rice paper and noodles don't stick to the knife.",
+    "Storage Store in an airtight container lined with a damp paper towel or cloth in the fridge for up to 3 days."
+  ]
+}

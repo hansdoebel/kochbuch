@@ -1,0 +1,43 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/hot-honey-buffalo-grilled-chicken-sandwich",
+  "recipes": [
+    {
+      "name": "Hot Honey Buffalo Grilled Chicken Sandwich",
+      "source_url": "https://app.cookwell.com/recipe/hot-honey-buffalo-grilled-chicken-sandwich",
+      "recipe_id": "https://app.cookwell.com/recipe/hot-honey-buffalo-grilled-chicken-sandwich",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "Chicken Breasts, 2",
+        "Salt, a sprinkle",
+        "Cooking oil, a drizzle",
+        "Hot Sauce, 60 g",
+        "Mayonnaise, 20 g",
+        "Hot honey, 10 g",
+        "Sandwich buns, 2",
+        "Pickles",
+        "Lettuce",
+        "Tomatoes"
+      ],
+      "instructions": [
+        "Thin out or butterfly the chicken breasts with a knife until they are an even thickness. Generously cover them with an even sprinkle of salt. If you have the time, dry brine these ahead of time for up to 24 hours. Set a griddle or pan over high heat. Once the pan is ripping hot, add a drizzle of oil and place the chicken breast down to sear. While those develop some color, mix the sauce.",
+        "Add the hot sauce, mayo, and hot honey to a jar or container that seals. Close it and shake vigorously until well combined and emulsified. Taste and adjust if needed.",
+        "Check back on the chicken breasts. Once one side has developed a nice sear and some color, flip the breast over. Continue searing until their temperature reaches 155°F/68°C. Thinned-out chicken breasts should take around 5-7 minutes to reach this temp. Prep or gather any remaining toppings for the sandwich.",
+        "Optionally toast the buns, then start assembling each sandwich: Spread a spoonful of the buffalo sauce on the bottom bun, followed by the pickled, tomatoes, and then a mound of lettuce. In a separate bowl, coat the chicken breasts with the remaining sauce. Add each coated chicken breast to the assembled sandwiches and close with the top bun. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

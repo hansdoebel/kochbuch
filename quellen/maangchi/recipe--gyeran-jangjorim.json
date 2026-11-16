@@ -1,0 +1,146 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/gyeran-jangjorim",
+  "recipes": [
+    {
+      "name": "Eggs in soy broth (Gyeran-jangjorim)",
+      "source_url": "https://www.maangchi.com/recipe/gyeran-jangjorim",
+      "recipe_id": "/recipe/gyeran-jangjorim#sso/recipe/59839",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "7 medium or large eggs, put them at room temperature for 1 or 2 hours",
+        "2 teaspoons white vinegar",
+        "4 large dried anchovies, guts removed",
+        "½ a medium onion, sliced thinly",
+        "1 large garlic clove, minced",
+        "1 jalapeño pepper (or green chili pepper), chopped (optional)",
+        "1 cup water",
+        "¼ cup soy sauce"
+      ],
+      "instructions": [
+        "Bring 5 cups of water to a boil over medium high heat.",
+        "Add the vinegar and the eggs. Cover and let cook 1 minute, then stir with a wooden spoon so that the egg yolks will be set in the center. Cover and cook another 1 minute, then stir again. Cover and cook for 6 more minutes. If you use extra large sized eggs, cook a few minutes longer.",
+        "Remove from the heat and strain in cold running water. Soak the eggs in cold water for 10 minutes. Pour out the water and shake the pan so that the egg shells crack.",
+        "Open and add some cold water. You should now be able to shell the eggs easily and cleanly. You want to keep the eggs as round and beautiful as possible!",
+        "Heat a sauce pan over medium high heat.",
+        "Add the anchovies and stir with a wooden spoon for 2 minutes, until the anchovies turn a little light brown.",
+        "Add garlic, onion, and jalapeño pepper, stirring for 1 minute.",
+        "Add the water and the soy sauce. Cover and cook for 10 to 12 minutes over medium heat.",
+        "Strain over a bowl and press down on the mixture in your strainer to get all the good, clear broth out of the ingredients. Let the broth cool down.",
+        "To serve immediately, cut the eggs in half, put them in a shallow bowl, and pour the broth over top. Serve as a side dish.",
+        "To save for later, but all the eggs and the broth in a glass jar and refrigerate up to a week."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients (Serves 7)"
+        },
+        {
+          "tag": "li",
+          "text": "7 medium or large eggs, put them at room temperature for 1 or 2 hours"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons white vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "4 large dried anchovies, guts removed"
+        },
+        {
+          "tag": "li",
+          "text": "½ a medium onion, sliced thinly"
+        },
+        {
+          "tag": "li",
+          "text": "1 large garlic clove, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 jalapeño pepper (or green chili pepper), chopped (optional)"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup water"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup soy sauce"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the eggs:"
+        },
+        {
+          "tag": "li",
+          "text": "Bring 5 cups of water to a boil over medium high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Add the vinegar and the eggs. Cover and let cook 1 minute, then stir with a wooden spoon so that the egg yolks will be set in the center. Cover and cook another 1 minute, then stir again. Cover and cook for 6 more minutes. If you use extra large sized eggs, cook a few minutes longer."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and strain in cold running water. Soak the eggs in cold water for 10 minutes. Pour out the water and shake the pan so that the egg shells crack."
+        },
+        {
+          "tag": "li",
+          "text": "Open and add some cold water. You should now be able to shell the eggs easily and cleanly. You want to keep the eggs as round and beautiful as possible!"
+        },
+        {
+          "tag": "h3",
+          "text": "Make soy broth:"
+        },
+        {
+          "tag": "li",
+          "text": "Heat a sauce pan over medium high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Add the anchovies and stir with a wooden spoon for 2 minutes, until the anchovies turn a little light brown."
+        },
+        {
+          "tag": "li",
+          "text": "Add garlic, onion, and jalapeño pepper, stirring for 1 minute."
+        },
+        {
+          "tag": "li",
+          "text": "Add the water and the soy sauce. Cover and cook for 10 to 12 minutes over medium heat."
+        },
+        {
+          "tag": "li",
+          "text": "Strain over a bowl and press down on the mixture in your strainer to get all the good, clear broth out of the ingredients. Let the broth cool down."
+        },
+        {
+          "tag": "h3",
+          "text": "Serve"
+        },
+        {
+          "tag": "li",
+          "text": "To serve immediately, cut the eggs in half, put them in a shallow bowl, and pour the broth over top. Serve as a side dish."
+        },
+        {
+          "tag": "li",
+          "text": "To save for later, but all the eggs and the broth in a glass jar and refrigerate up to a week."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

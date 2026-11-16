@@ -1,0 +1,53 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/congee-with-crispy-chili-pork",
+  "recipes": [
+    {
+      "name": "Congee with Crispy Chili Pork",
+      "source_url": "https://app.cookwell.com/recipe/congee-with-crispy-chili-pork",
+      "recipe_id": "https://app.cookwell.com/recipe/congee-with-crispy-chili-pork",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT55M",
+      "ingredients": [
+        "Chicken broth, 400 g",
+        "Rice, 200 g",
+        "Garlic, 2 cloves",
+        "Carrots, 1",
+        "Onions, 1/4",
+        "Neutral oil, 15 g",
+        "Sesame Oil, 5 g",
+        "Salt, to taste",
+        "Ground pork, ~ 454 g",
+        "Salt, a sprinkle",
+        "Birds eye green chilies, 2",
+        "Garlic, 5 cloves",
+        "Scallions, 1",
+        "Neutral oil, 15 g",
+        "Water, 30 g",
+        "Soy Sauce, 15 g",
+        "Hoison, 5 g",
+        "Chili crisp oil",
+        "Fresh ginger",
+        "Scallions"
+      ],
+      "instructions": [
+        "First, grate the carrot, onion, and garlic cloves. Then, set a pot over medium heat and add the neutral oil along with a drizzle of sesame oil. Add the vegetables and sauté until they start to brown, which should take about 2 to 3 minutes. Next, add the leftover rice to the vegetables and mix them together. Pour in the stock and stir well. Bring the mixture to a boil, then reduce the heat to let it simmer.",
+        "Simmer the congee for 20-30 minutes, stirring occasionally, until the rice breaks down and the liquid starts to evaporate, achieving a porridge-like consistency. While the congee is simmering, prepare the garlic chili pork. If necessary, thin out the congee with more stock or let it reduce longer for a thicker consistency. Taste and add salt as needed.",
+        "Mince the chilis, garlic, and scallion whites and place them into a bowl. Set a wok over medium heat and add the oil. Once hot, toss them into the hot oil and sauté for 1-2 minutes. Turn the heat to high and toss in the ground pork and salt. Crush the meat up with a potato masher into little pebbles of meat. The fat will start to render and the pork should crisp up, about 3-5 minutes. Add a splash of water into the pan to deglaze the crispy bits on the bottom. Once the liquid has evaporated, add the soy sauce and a drizzle of hoisin. Mix to combine until the pork is coated and slightly sticky. Taste and adjust with more salt, hoisin, or soy sauce if needed.",
+        "To serve, ladle a serving of congee into a bowl. Top with a few spoonfuls of crispy pork, then garnish with ginger, scallions, and chili crisp oil."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

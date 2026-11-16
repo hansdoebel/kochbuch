@@ -1,0 +1,84 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/ramyeon",
+  "recipes": [
+    {
+      "name": "Ramyeon",
+      "source_url": "https://www.maangchi.com/recipe/ramyeon",
+      "recipe_id": "/recipe/ramyeon#sso/recipe/31784",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 package of Korean ramyeon",
+        "2½ cups water",
+        "1 egg",
+        "2 green onions, chopped"
+      ],
+      "instructions": [
+        "Bring the water to a boil over high heat.",
+        "Add the noodles and the included soup powder to the boiling water. Cover and boil for 1 minute.",
+        "Open the lid and turn the ramyeon over with a spoon.",
+        "Crack the egg directly into the boiling ramyeon, and cover and cook for 1 to 2 minutes. Don’t stir, so the egg will be poached.",
+        "Remove from the heat. Open the lid and add the green onions and the included package of dried vegetables. Serve with kimchi and rice."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "1 package of Korean ramyeon"
+        },
+        {
+          "tag": "li",
+          "text": "2½ cups water"
+        },
+        {
+          "tag": "li",
+          "text": "1 egg"
+        },
+        {
+          "tag": "li",
+          "text": "2 green onions, chopped"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Bring the water to a boil over high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Add the noodles and the included soup powder to the boiling water. Cover and boil for 1 minute."
+        },
+        {
+          "tag": "li",
+          "text": "Open the lid and turn the ramyeon over with a spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Crack the egg directly into the boiling ramyeon, and cover and cook for 1 to 2 minutes. Don’t stir, so the egg will be poached."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat. Open the lid and add the green onions and the included package of dried vegetables. Serve with kimchi and rice."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

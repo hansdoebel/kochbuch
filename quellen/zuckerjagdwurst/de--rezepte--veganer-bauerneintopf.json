@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-bauerneintopf",
+  "recipes": [
+    {
+      "name": "Veganer Bauerntopf",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-bauerneintopf",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-bauerneintopf#recipe-24abd88d-50b5-5685-9eef-627d8e899451",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4–6 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Für den Eintopf:",
+        "750 g mehligkochende Kartoffeln",
+        "2 rote Paprikaschoten",
+        "3–4 Karotten",
+        "200 g Lauch",
+        "2 Zwiebeln",
+        "2 Knoblauchzehen",
+        "500 g veganes Hack",
+        "2 EL edelsüßes Paprikapulver",
+        "1 TL rosenscharfes Paprikapulver",
+        "2–3 EL Tomatenmark",
+        "600 ml Gemüsebrühe",
+        "200 g passierte Tomaten",
+        "0.5 TL Muskat",
+        "0.5 TL Majoran",
+        "0.5 TL Thymian",
+        "Pflanzenöl",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "Petersilie",
+        "vegane Crème fraîche"
+      ],
+      "instructions": [
+        "Kartoffeln schälen und in mundgerechte Stücke schneiden. Paprikaschoten in Streifen und Karotten und Lauch in Ringe schneiden. Zwiebeln und Knoblauch schälen und fein würfeln.",
+        "Pflanzenöl in einem großen Topf bei mittlerer Hitze erwärmen. Zuerst die Kartoffelstücke und das Hack anbraten, bis beides leicht braun wird. Zwiebelwürfel dazugeben und ca. 2–3 Minuten anschwitzen, bis sie glasig sind. Danach Knoblauch dazugeben und ca. 2 Minuten weiterbraten. Nun das restliche Gemüse bis auf die Paprika hinzugeben und für 5–10 Minuten gut anbraten.",
+        "Paprikapulver, Tomatenmark und Paprikastreifen hinzugeben und noch mal 2–3 Minuten anbraten. Nun Gemüsebrühe und passierte Tomaten hinzugeben und den Eintopf etwa 10–15 Minuten auf mittlerer Hitze köcheln lassen, bis das Gemüse weich ist.",
+        "Den Eintopf mit Salz, Pfeffer, Muskat, Majoran, Thymian und veganer Crème fraîche abschmecken und mit frischer Petersilie servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

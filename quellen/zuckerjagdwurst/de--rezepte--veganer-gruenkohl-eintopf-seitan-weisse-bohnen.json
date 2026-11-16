@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-gruenkohl-eintopf-seitan-weisse-bohnen",
+  "recipes": [
+    {
+      "name": "Veganer Grünkohleintopf mit Seitan und weißen Bohnen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-gruenkohl-eintopf-seitan-weisse-bohnen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-gruenkohl-eintopf-seitan-weisse-bohnen#recipe-6815c0d3-ded6-59b0-8233-6947e8d0604c",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "200 g frischer Grünkohl",
+        "500 g festkochende Kartoffeln",
+        "2 Zwiebeln",
+        "2 Knoblauchzehen",
+        "200 g Seitan",
+        "500 ml Wasser",
+        "500 ml Gemüsebrühe",
+        "240 g weiße Bohnen aus der Dose (Abtropfgewicht)",
+        "1 TL gemahlener Piment",
+        "1 EL weiße Misopaste (optional)",
+        "neutrales Pflanzenöl zum Braten",
+        "Salz",
+        "Pfeffer",
+        "Muskat"
+      ],
+      "instructions": [
+        "Den frischen Grünkohl waschen und die harten Stiele entfernen, so dass nur weiche Stiele und Blätter übrig bleiben. Diese grob hacken. Kartoffeln schälen und in mundgerechte Stücke schneiden. Zwiebeln und Knoblauch schälen und fein würfeln. Seitan in mundgerechte Stücke schneiden.",
+        "Pflanzenöl in einem großen Topf bei mittlerer Hitze erwärmen. Zuerst den Seitan circa 5 Minuten scharf anbraten, bis er gebräunt ist. Zwiebelwürfel dazugeben und 2–3 Minuten anschwitzen, bis sie glasig sind. Danach Knoblauch dazugeben und circa 2 Minuten weiterbraten.",
+        "Gemüsebrühe und Wasser dazugeben. Die Kartoffeln in den Topf geben, alles einmal aufkochen lassen, dann die Hitze reduzieren und die Kartoffelstückchen circa 8 Minuten köcheln lassen.",
+        "Den gehackten Grünkohl dazugeben und weitere 10 Minuten garen. In den letzten 5 Minuten die weißen Bohnen dazugeben (entweder ohne oder mitsamt der Flüssigkeit).",
+        "Den Eintopf mit Salz, Pfeffer, Piment und optional mit Misopaste abschmecken. Erst kurz vor dem Servieren frischen Muskat darüberstreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

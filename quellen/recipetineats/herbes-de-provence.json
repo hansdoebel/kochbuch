@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.recipetineats.com/herbes-de-provence/",
+  "recipes": [
+    {
+      "name": "Herbes de Provence",
+      "source_url": "https://www.recipetineats.com/herbes-de-provence/",
+      "recipe_id": "https://www.recipetineats.com/herbes-de-provence/#recipe",
+      "authors": [
+        "Chef JB (RecipeTin)"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "5",
+        "5 tablespoons"
+      ],
+      "prep_time": "PT5M",
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "2 tbsp dried thyme",
+        "2 tbsp dried rosemary ((Note 1))",
+        "2 tsp dried marjoram (or savory) ((Note 2))",
+        "1 tsp dried organo"
+      ],
+      "instructions": [
+        "Finely chop if needed - If any of the leaves are especially large (rosemary and thyme can be), finely chop them with a knife or use a spice grinder. You will get more flavour out of them.",
+        "Mix the dried herbs then use per recipe.",
+        "Store in an airtight jar in a cool, dry pantry for up to 3 months (or the shelf life of the herbs you used)."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. Rosemary – The Dried rosemary we use has short needles, which work well in this recipe because they blend easily into the breadcrumbs. However, sometimes you may only find long sprigs. If that’s the case, it’s best to roughly chop them with a knife before using. This prevents the long pieces from burning during cooking. 2. Marjoram or savory – In France, savory (sarriette) is traditionally part of the blend. However, it can be quite hard to find. Marjoram has a similar gentle herbal flavour and is more widely available here in Australia, which is why I chose to use it in this recipe."
+  ]
+}

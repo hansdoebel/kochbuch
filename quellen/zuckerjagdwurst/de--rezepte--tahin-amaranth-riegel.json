@@ -1,0 +1,36 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tahin-amaranth-riegel",
+  "recipes": [
+    {
+      "name": "Vegane Tahin-Amaranth-Riegel",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tahin-amaranth-riegel",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/tahin-amaranth-riegel#recipe-cc3f04c9-d354-51ae-a371-da15971e10c3",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "240 g vegane Zartbitterschokolade (etwa 50 % Kakao-Anteil)",
+        "240 g Tahin",
+        "160 g gepuffter Amaranth",
+        "2 TL grobes Meersalz"
+      ],
+      "instructions": [
+        "Zartbitterschokolade im Wasserbad schmelzen. Die Schokolade in eine Schüssel umfüllen und Tahin und Amaranth sorgfältig unterrühren. Eine Form (22 x 22 cm) mit Backpapier auslegen.",
+        "Die Schokoladen-Amaranth-Mischung hineinfüllen, glattstreichen und etwas andrücken. Etwas grobes Meersalz darüberstreuen. Bei Zimmertemperatur auskühlen lassen.",
+        "Mit einem scharfen Messer Riegel aus der Masse schneiden. Bis zum Servieren in einem luftdichten Behälter im Kühlschrank aufbewahren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

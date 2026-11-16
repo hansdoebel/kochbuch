@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.recipetineats.com/leftover-celery-salad/",
+  "recipes": [
+    {
+      "name": "Leftover Celery Salad",
+      "source_url": "https://www.recipetineats.com/leftover-celery-salad/",
+      "recipe_id": "https://www.recipetineats.com/leftover-celery-salad/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "3",
+        "3 as a side"
+      ],
+      "prep_time": "PT10M",
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "5 ribs celery",
+        "3 tbsp dill (, finely chopped)",
+        "2 tbsp parsley (, finely chopped)",
+        "1.5 tsp caraway seeds",
+        "2 1/2 tbsp white wine vinegar (, red wine vinegar or cider vinegar)",
+        "3 tbsp extra virgin olive oil",
+        "2 tsp sugar",
+        "1/2 tsp salt",
+        "1/4 tsp black pepper"
+      ],
+      "instructions": [
+        "Remove the leaves from the celery and trim off the dirty base. Finely slice on the diagonal into 4mm / 1/6\" slices.",
+        "Toss in a bowl with remaining ingredients. Set aside for 10 minutes before serving.",
+        "Keeps for up to 3 days in the fridge - the celery softens and becomes even more pickle like."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: Herb alternatives – if you don’t have fresh dill and caraway seeds, try mustard seeds and a pinch of pepper flakes, or toasted coriander or cumin seeds for a Middle Eastern/Indian spin."
+  ]
+}

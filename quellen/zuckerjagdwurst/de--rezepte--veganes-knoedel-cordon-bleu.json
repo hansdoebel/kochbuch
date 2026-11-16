@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-knoedel-cordon-bleu",
+  "recipes": [
+    {
+      "name": "Veganes Knödel Cordon Bleu",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-knoedel-cordon-bleu",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-knoedel-cordon-bleu#recipe-6a9c6564-98c5-5e5f-8f13-096b17ecdef7",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen (2 Stück pro Person)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für den Knödelteig:",
+        "1 kg festkochende Kartoffeln",
+        "125 g Kartoffelstärke",
+        "65 g vegane Butter (Zimmertemperatur)",
+        "1–2 TL gemahlener Muskat",
+        "Salz",
+        "Pfeffer",
+        "Für die Füllung:",
+        "100 g veganer Käse am Stück",
+        "100 g vegane Fleischwurst am Stück",
+        "Zum Panieren/Braten:",
+        "Mehl",
+        "pflanzliche Milch",
+        "Panko / Paniermehl",
+        "neutrales Pflanzenöl",
+        "Für den Salat:",
+        "Wildkräutersalat",
+        "1.5 TL Dijon Senf",
+        "3 TL Ahornsirup",
+        "6 EL Olivenöl",
+        "2 TL Zitronensaft",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Kartoffeln mit Schale in einen Topf geben, mit kaltem Wasser bedecken und kräftig salzen. Das Wasser aufkochen lassen und danach bei mittlerer Hitze circa 20 Minuten kochen, oder bis die Kartoffeln gar sind. Danach abgießen und noch im warmen Topf ausdampfen lassen.",
+        "Die Kartoffeln schälen und mit einer Kartoffelpresse oder einem Kartoffelstampfer zerdrücken, bis der Kartoffelstampf keine großen Stückchen mehr enthält. Kartoffelstärke, Mehl und weiche vegane Butter dazugeben und alles zu einem Teig vermengen. Mit Salz, Pfeffer und Muskat würzen.",
+        "Für die Füllung veganen Käse und vegane Fleischwurst in je acht Scheiben schneiden.",
+        "Den Knödelteig in 16 gleich große Portionen aufteilen. Eine Portion Teig auf die Hand legen und plattdrücken. Eine Scheibe veganen Käse und vegane Fleischwurst mittig auf dem Teig platzieren und eine zweite Scheibe Knödelteig darauf legen. Beide Teige miteinander verbinden, sodass die Füllung gut verschlossen wird. Mit dem restlichen Knödelteig so vorgehen, bis Teig und Füllung aufgebraucht sind.",
+        "Zum Panieren drei tiefe Teller vorbereiten: einen Teller mit Mehl, einen Teller mit pflanzlicher Milch und den letzten Teller mit Panko füllen. Zuerst kommt jedes Cordon Bleu ins Mehl, damit die Panade gut hält. Danach in pflanzliche Milch tunken und direkt danach in Panko wenden. Damit die Panade noch knuspriger wird, die Cordon Bleu im Anschluss erneut in pflanzliche Milch tunken und nochmal in Panko wenden.",
+        "Ausreichend Pflanzenöl in einer großen Pfanne erhitzen. Die Cordon Bleu circa 3–4 Minuten von jeder Seite anbraten, bis sie goldbraun sind. Anschließend auf etwas Küchenpapier abfetten lassen.",
+        "Für das Salat-Dressing Dijon-Senf mit Ahornsirup in einer Schüssel miteinander verrühren und langsam das Olivenöl dazugeben. Mit Zitronensaft, Salz und Pfeffer abschmecken. Den Wildkräutersalat waschen und kurz vor dem Servieren mit dem Dressing vermengen.",
+        "Die gefüllten Knödel auf dem Wildkräutersalat servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

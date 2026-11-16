@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/one-pot-creamy-rosé-pasta-99",
+  "recipes": [
+    {
+      "name": "One-Pot Creamy Rosé Pasta",
+      "source_url": "https://www.pickuplimes.com/recipe/one-pot-creamy-rosé-pasta-99",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT25M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "1 Tbsp vegetable oil",
+        "4 garlic clove",
+        "1 large onion",
+        "2 vegetable bouillon cube",
+        "1 tsp chili flakes",
+        "3 cup penne pasta",
+        "3 cup passata sauce",
+        "1½ cup water",
+        "¾ cup hummus",
+        "3 Tbsp nutritional yeast flakes",
+        "1 medium zucchini",
+        "¾ cup soy cooking cream",
+        "1 jarred roasted red pepper",
+        "½ cup marinated artichoke hearts",
+        "1½ cup arugula"
+      ],
+      "instructions": [
+        "Drizzle the oil in a large pot over medium-high heat. When hot, add the garlic, onion, bouillon, and chili flakes. Cook for 2 to 3 minutes.",
+        "Then add the uncooked pasta, passata sauce, water, hummus, and nutritional yeast to the pot.",
+        "Reduce heat to medium, partially cover with a lid, and cook for 10 minutes. Check on the pasta a few times and stir to prevent sticking to the bottom of the pot.",
+        "Add the zucchini, cooking cream, bell pepper, and artichokes. Cook until the pasta is al dente, about another 5 minutes.",
+        "Stir in the arugula when ready to serve. Garnish as desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Passata is a smooth, thick tomato sauce made from strained tomatoes without added seasonings, herbs, or spices.",
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-wikingertopf-hackbaellchen-kartoffeln",
+  "recipes": [
+    {
+      "name": "Veganer Wikingertopf",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-wikingertopf-hackbaellchen-kartoffeln",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-wikingertopf-hackbaellchen-kartoffeln#recipe-d09117d1-31b7-556f-89de-fea81d6b1109",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Für den Wikingertopf:",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "2 Karotten",
+        "2 EL vegane Butter",
+        "1 EL Mehl",
+        "500 ml Gemüsebrühe",
+        "250 ml vegane Kochsahne",
+        "150 g TK-Erbsen",
+        "1 TL Senf",
+        "3 EL Hefeflocken",
+        "Muskat",
+        "Salz",
+        "Pfeffer",
+        "Für die Frikadellen:",
+        "150 g vegane Frikadellen / Burger Patties (z. B. Linsen-Burger von Bauck Mühle)",
+        "Öl zum Braten",
+        "Außerdem:",
+        "1 kg vorwiegend festkochende Kartoffeln",
+        "Petersilie zum Servieren"
+      ],
+      "instructions": [
+        "Die Kartoffeln schälen, in Spalten schneiden und in einen Topf geben. Mit kaltem Wasser bedecken, salzen und einmal aufkochen lassen. Danach bei mittlerer Hitze circa 20 Minuten kochen lassen, bis sie gar sind. Anschließend abgießen und warmhalten.",
+        "In der Zwischenzeit Zwiebel und Knoblauch schälen und fein würfeln. Karotten schälen und in Scheiben schneiden.",
+        "Die veganen Frikadellen nach Packungsanleitung zubereiten und in etwas Öl in einer großen Pfanne bei mittlerer Hitze goldbraun anbraten. Aus der Pfanne nehmen und beiseitestellen. Alternativ können die veganen Frikadellen auch im Airfryer bei 180 °C circa 15 Minuten gebacken werden.",
+        "In derselben Pfanne die vegane Butter erhitzen und Zwiebeln, Knoblauch und Karotten bei mittlerer Hitze circa 5 Minuten anbraten, bis die Zwiebeln glasig sind.",
+        "Mehl über das Gemüse stauben und circa 1 Minute unter Rühren anrösten. Mit Gemüsebrühe und veganer Kochsahne ablöschen und gut verrühren, bis keine Klümpchen mehr vorhanden sind. Kurz köcheln lassen, bis die Soße etwas andickt.",
+        "TK-Erbsen dazugeben und weitere 3–4 Minuten köcheln lassen, bis die Erbsen gar sind. Mit Senf, Hefeflocken, Muskat, Salz und Pfeffer abschmecken. Die gebratenen Frikadellen in die Soße setzen.",
+        "Die Kartoffeln zusammen mit dem Wikingertopf servieren und mit frischer Petersilie garnieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

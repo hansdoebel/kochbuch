@@ -1,0 +1,69 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kraeuter-und-tomatenbutter",
+  "recipes": [
+    {
+      "name": "Vegane Kräuterbutter",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kraeuter-und-tomatenbutter",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kraeuter-und-tomatenbutter#recipe-b56196c1-639b-55f7-b21c-a77a9257dac2",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 große Rolle",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "250 g vegane, weiche Butter",
+        "30 g frische Kräuter nach Wahl (z.B. Schnittlauch, Petersilie, Dill)",
+        "0.5 TL Knoblauchpulver",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Härtere Stiele der Kräuter abschneiden, den Rest der Kräuter waschen, gut trocknen und fein hacken.",
+        "Vegane Butter, gehackte Kräuter und Knoblauchpulver verrühren. Mit Salz und Pfeffer würzen.",
+        "Die Buttermasse auf Frischhaltefolie legen und zu einer Rolle formen.",
+        "Die Kräuterbutter für mindestens eine Stunde in den Kühlschrank legen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Vegane Tomatenbutter",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kraeuter-und-tomatenbutter",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kraeuter-und-tomatenbutter#recipe-b34d152d-a897-56e6-8623-e61c212669b2",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 große Rolle",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "250 g vegane, weiche Butter",
+        "3 EL Tomatenmark",
+        "10 g Basilikum",
+        "5 getrocknete Tomaten in Öl",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Basilikum waschen, trocknen und fein hacken. Getrocknete Tomaten fein hacken.",
+        "Weiche vegane Butter, Tomatenmark, Basilikum und getrocknete Tomaten in eine Schüssel geben und gut vermengen. Mit Salz und Pfeffer würzen.",
+        "Die Buttermasse auf Frischhaltefolie legen und zu einer Rolle formen.",
+        "Die Kräuterbutter für mindestens eine Stunde in den Kühlschrank legen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

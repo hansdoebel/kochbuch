@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/macaroni-chili-82",
+  "recipes": [
+    {
+      "name": "Macaroni Chili",
+      "source_url": "https://www.pickuplimes.com/recipe/macaroni-chili-82",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT15M",
+      "total_time": "PT25M",
+      "ingredients": [
+        "2 cup whole wheat macaroni",
+        "1 Tbsp vegetable oil",
+        "1 medium onion",
+        "2 garlic clove",
+        "1⅔ cup canned diced tomatoes",
+        "2 Tbsp tomato paste",
+        "1 vegetable bouillon cube",
+        "1 tsp chili powder",
+        "1 tsp sweet paprika powder",
+        "1 tsp salt",
+        "¼ tsp ground black pepper",
+        "1¾ cup cooked kidney beans",
+        "1½ cup veggie ground",
+        "2 medium carrot",
+        "1 red bell pepper",
+        "3 cup spinach"
+      ],
+      "instructions": [
+        "Cook the macaroni according to the package directions, but decrease cooking time by 1 to 2 minutes. Once nearly al dente, drain.",
+        "Meanwhile, heat the oil in a large pot over medium-high heat and cook the onions and garlic for 3 to 5 minutes.",
+        "Add the diced tomatoes, and rinse out the can with water (about 400 mL) adding this to the pot as well, along with the tomato paste, bouillon cube, and spices. Bring to a boil.",
+        "Once bubbling, add the kidney beans, veggie ground, carrot, and bell pepper. Cook until the carrots have softed, about 5 minutes.",
+        "Lastly, add the drained noodles and spinach. Cook for another minute, or until the pasta is al dente. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We use pure ground chili powder made from dried chili peppers - not to be confused with the chili powder spice blend commonly found in the US, which often includes cumin, garlic powder, and other seasonings. For the intended heat and flavour, be sure to use pure chili powder. † This plant-based product has a dry texture and resembles already-cooked ground meat.",
+    "Storage Keep in an airtight container in the fridge for up to 4 days. Store in the freezer for up to 1 month."
+  ]
+}

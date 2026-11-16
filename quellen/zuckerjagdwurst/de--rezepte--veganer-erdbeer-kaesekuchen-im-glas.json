@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-erdbeer-kaesekuchen-im-glas",
+  "recipes": [
+    {
+      "name": "Veganer Erdbeer-Käsekuchen im Glas (mit Baileys Almande)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-erdbeer-kaesekuchen-im-glas",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-erdbeer-kaesekuchen-im-glas#recipe-3d04388f-b2a7-5890-b2dd-fffd89c5a4d9",
+      "authors": [
+        "Isa Zucker & Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Gläser",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "300 g vegane Butterkekse",
+        "4 EL vegane Butter",
+        "250 g Erdbeeren (+ ein paar mehr zum Dekorieren)",
+        "Käsekuchencreme",
+        "200 ml vegane Sahne zum Aufschlagen",
+        "2 Pck Sahnesteif",
+        "250 g veganer Quark Natur",
+        "1 Vanilleschote",
+        "4-5 EL Baileys Almande"
+      ],
+      "instructions": [
+        "In einem kleinen Topf die vegane Butter zum Schmelzen bringen.",
+        "Die veganen Butterkekse in eine verschließbare Tüte geben und mit einem Nudelholz zerkrümeln.",
+        "Die Kekskrümel zurück in eine Schüssel geben und mit der veganen, geschmolzenen Butter vermengen. In kleine Gläser umfüllen und für 10 Minuten im Kühlschrank kalt stellen.",
+        "In der Zwischenzeit die Erdbeeren waschen und den Strunk entfernen. In ein hohes Gefäß füllen und pürieren.",
+        "Die Sahne mit dem Sahnesteif aufschlagen und die Vanillemark der Vanilleschote auskratzen.",
+        "Nun alle Zutaten für die Käsekuchencreme miteinander verrühren: veganer Quark, aufgeschlagene Sahne, Vanillemark und Baileys Almande.",
+        "Nehmt eure Gläser aus dem Kühlschrank und schichtet nun die Käsekuchencreme auf den Keksboden in euren Gläsern.",
+        "Nun 2-3 TL Erdbeersoße darauf geben. Wenn ihr noch ein paar Kekskrümel übrigt habt könnt ihr die Gläser damit toppen. Ihr könnt aber auch Früchte und Beeren verwenden.",
+        "Bis zum Servieren in den Kühlschrank stellen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

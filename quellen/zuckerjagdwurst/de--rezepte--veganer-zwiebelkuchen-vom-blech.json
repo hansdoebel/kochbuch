@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zwiebelkuchen-vom-blech",
+  "recipes": [
+    {
+      "name": "Veganer Zwiebelkuchen vom Blech",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zwiebelkuchen-vom-blech",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zwiebelkuchen-vom-blech#recipe-5c766f97-5d07-5fa7-8730-5a1e00906690",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Backblech",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT125M",
+      "ingredients": [
+        "Für den Hefeteig:",
+        "1 Päckchen Trockenhefe",
+        "1 EL brauner Zucker",
+        "350 ml warmes Wasser",
+        "500 g Mehl",
+        "1 TL Salz",
+        "1.5 EL Olivenöl",
+        "Für den Belag:",
+        "600 g rote Zwiebeln",
+        "200 g Räuchertofu",
+        "1 TL Sojasauce",
+        "400 g Seidentofu",
+        "3 EL Speisestärke",
+        "3 EL Kichererbsenmehl",
+        "1 TL Kümmel",
+        "Pflanzenöl zum Braten",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "Schnittlauch zum Bestreuen"
+      ],
+      "instructions": [
+        "Trockenhefe, Zucker und lauwarmes Wasser in die Schüssel einer Küchenmaschine mit Knethaken geben, verrühren und ca. 10 Minuten stehen lassen, bis sich Bläschen an der Oberfläche bilden.",
+        "Mehl und Salz verrühren und nach und nach zur Wasser-Hefe-Mischung geben. Zuerst auf kleiner Stufe verrühren, dann Olivenöl dazugeben und auf mittlerer Stufe ca. 5 – 10 Minuten vermengen und kneten, bis ein leicht klebriger Teig entsteht. Die Schüssel mit einem Geschirrtuch abdecken und an einem warmen Ort ca. 1 Stunde gehen lassen, bis sich das Teigvolumen verdoppelt hat.",
+        "In der Zwischenzeit Zwiebeln schälen und in feine Ringe schneiden. Räuchertofu fein würfeln und mit Sojasauce vermengen. Pflanzenöl in einer Pfanne erhitzen und den Tofu ca. 3-4 Minuten anbraten. Er soll noch nicht zu knusprig werden, weil er sonst im Ofen später verbrennt.",
+        "Seidentofu mit Speisestärke und Kichererbsenmehl pürieren und kräftig mit Salz, Pfeffer, Muskat und Kümmel würzen. Die Zwiebelringe und die Hälfte des Räuchertofus zur Seidentofu-Mischung geben und vermengen.",
+        "Ein Backblech mit Öl einfetten und den Hefeteig hineingeben und vorsichtig bis zum Rand des Backblechs ziehen. Falls er sich immer wieder zurückzieht, gebt ihm ein paar Minuten Ruhe und probiert es dann erneut. Den Teig nochmal 10 Minuten ruhen lassen und den Backofen in der Zeit auf 200°C Umluft vorheizen.",
+        "Die Seidentofu-Zwiebel-Mischung auf dem Teig verteilen und mit den restlichen Tofuwürfeln bestreuen. Bei 200°C ca. 25 Minuten auf mittlerer Schiene backen, bis der Zwiebelkuchen goldbraun ist. Mit gehacktem Schnittlauch bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,100 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/buchujeon",
+  "recipes": [
+    {
+      "name": "Chive pancake (Buchujeon: 부추전)",
+      "source_url": "https://www.maangchi.com/recipe/buchujeon",
+      "recipe_id": "/recipe/buchujeon#sso/recipe/115",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "Serves 2",
+      "prep_time": "P0DT0H5M0S",
+      "cook_time": "P0DT0H7M0S",
+      "total_time": "P0DT0H12M0S",
+      "ingredients": [
+        "¾ cup all-purpose flour",
+        "2 teaspoons fish sauce or 1½ teaspoons kosher salt",
+        "4 ounces Asian chives (buchu in Korean), chopped (about 1½ cups)",
+        "¼ cup onion, chopped",
+        "2 to 4 tablespoons vegetable oil"
+      ],
+      "instructions": [
+        "Combine the flour, ¾ cup water, and fish sauce in a medium sized bowl and mix well. Stir in the chives and onion.",
+        "Heat a large nonstick skillet over medium-high heat. Add 1 or 2 tablespoons of the oil to the hot skillet and swirl it around to coat. Scrape all the chive batter into a mound in the center of the skillet and spread it evenly so that it forms a thin, round pancake, about 11 to 12 inches in diameter. Cook until lightly browned and crisp on the bottom, 3 to 5 minutes. If your skillet is small, divide the batter in half and cook 2 pancakes one, at a time.",
+        "Shake the skillet to check its crispness. You should be able to hear the crispy pancake swish around in the nonstick pan. Turn the pancake over with a spatula and drizzle the remaining 1 or 2 tablespoons of oil around the edge of the skillet so that it runs under the pancake.buchujeon Cook for 2 to 3 minutes, pressing the pancake down occasionally with the spatula until the other side is crisp. Turn the pancake again and cook for another 2 to 3 minutes, until it’s crisp on both sides.",
+        "Turn it over one more time and then slide it onto a plate. Serve right away. Or, to serve in a lunchbox, cool for 5 minutes and cut into bite-size pieces."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 2"
+        },
+        {
+          "tag": "li",
+          "text": "¾ cup all-purpose flour"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons fish sauce or 1½ teaspoons kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "4 ounces Asian chives (buchu in Korean), chopped (about 1½ cups)"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup onion, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "2 to 4 tablespoons vegetable oil"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Combine the flour, ¾ cup water, and fish sauce in a medium sized bowl and mix well. Stir in the chives and onion."
+        },
+        {
+          "tag": "li",
+          "text": "Heat a large nonstick skillet over medium-high heat. Add 1 or 2 tablespoons of the oil to the hot skillet and swirl it around to coat."
+        },
+        {
+          "tag": "li",
+          "text": "Scrape all the chive batter into a mound in the center of the skillet and spread it evenly so that it forms a thin, round pancake, about 11 to 12 inches in diameter. Cook until lightly browned and crisp on the bottom, 3 to 5 minutes. If your skillet is small, divide the batter in half and cook 2 pancakes one at a time."
+        },
+        {
+          "tag": "li",
+          "text": "Shake the skillet to check its crispness. You should be able to hear the crispy pancake swish around in the nonstick pan."
+        },
+        {
+          "tag": "li",
+          "text": "Turn the pancake over with a spatula and drizzle the remaining 1 or 2 tablespoons of oil around the edge of the skillet so that it runs under the pancake."
+        },
+        {
+          "tag": "li",
+          "text": "Cook for 2 to 3 minutes, pressing the pancake down occasionally with the spatula until the other side is crisp. Turn the pancake again and cook for another 2 to 3 minutes, until it’s crisp on both sides."
+        },
+        {
+          "tag": "li",
+          "text": "Turn it over one more time and then slide it onto a plate. Serve right away. Or, to serve in a lunchbox, cool for 5 minutes and cut into bite-size pieces."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-frikadellen-mit-kartoffeln-oma-kohlrabi-moehren-gemuese",
+  "recipes": [
+    {
+      "name": "Vegane Frikadellen mit Kartoffeln und Kohlrabi-Möhren-Gemüse wie bei Oma",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-frikadellen-mit-kartoffeln-oma-kohlrabi-moehren-gemuese",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-frikadellen-mit-kartoffeln-oma-kohlrabi-moehren-gemuese#recipe-ae3c6b68-e962-5a17-9165-649c0a47d92a",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für die Kartoffeln:",
+        "1 kg vorwiegend festkochende Kartoffeln",
+        "Salz",
+        "Für das Oma-Gemüse:",
+        "3 Kohlrabi (oder Mairübchen)",
+        "1 Möhre",
+        "1 Zwiebel",
+        "10 g Schnittlauch",
+        "2 EL vegane Butter",
+        "100 ml vegane Kochsahne",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "Für die veganen Frikadellen:",
+        "500 g veganes (frisches) Hack",
+        "2 Zwiebeln",
+        "10 g frische Petersilie",
+        "2 EL Senf",
+        "1 TL edelsüßes Paprikapulver",
+        "Salz",
+        "Pfeffer",
+        "Pflanzenöl zum Braten"
+      ],
+      "instructions": [
+        "Die Kartoffeln schälen, in Spalten schneiden und in einen Topf geben. Mit kaltem Wasser bedecken, salzen und einmal aufkochen lassen. Danach bei mittlerer Hitze circa 20 Minuten kochen lassen, bis sie gar sind. Anschließend abgießen.",
+        "In der Zwischenzeit die Mairübchen (oder den Kohlrabi) schälen, halbieren und in Scheiben schneiden. Die Möhre schälen und ebenfalls in Scheiben schneiden. Die Zwiebeln für das Gemüse und die Frikadellen in feine Würfel schneiden und Schnittlauch und Petersilie fein hacken.",
+        "Vegane Butter in einem kleinen Topf schmelzen und zunächst die Zwiebelwürfel für das Gemüse darin anschwitzen, bis sie glasig sind. Mairübchen und Möhre dazugeben, salzen und pfeffern. Die vegane Sahne dazugeben und das Gemüse abgedeckt circa 10 Minuten dünsten, bis es weicher, aber noch leicht bissfest ist. Danach den restlichen Esslöffel vegane Butter und den fein gehackten Schnittlauch dazugeben. Nochmal mit Salz und Pfeffer abschmecken und das Gemüse bei kleiner Hitze warm halten.",
+        "Während Gemüse und Kartoffeln köcheln, die veganen Frikadellen zubereiten. Dafür in einer Schüssel das vegane Hack mit den restlichen Zwiebelwürfeln, gehackter Petersilie, Senf, Paprikapulver, Salz und Pfeffer vermengen. Aus der Masse vier bis sechs vegane Frikadellen formen.",
+        "Pflanzenöl in einer Pfanne erhitzen und die veganen Frikadellen darin anbraten, bis sie von beiden Seiten gut gebräunt sind.",
+        "Die Frikadellen mit dem Oma-Gemüse und den gekochten Kartoffeln servieren und nach Wunsch mit frischem Schnittlauch oder Petersilie bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

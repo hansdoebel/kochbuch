@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/cinnamon-spiced-orange-thyme-mocktail-1258",
+  "recipes": [
+    {
+      "name": "Cinnamon-Spiced Orange & Thyme Mocktail",
+      "source_url": "https://www.pickuplimes.com/recipe/cinnamon-spiced-orange-thyme-mocktail-1258",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT05M",
+      "total_time": "PT20M",
+      "ingredients": [
+        "½ cup water",
+        "¼ cup maple syrup",
+        "4 sprig fresh thyme",
+        "½ tsp ground cinnamon",
+        "2 Tbsp grated fresh ginger",
+        "½ lemon",
+        "2 cup ice cubes",
+        "2 cup orange juice",
+        "2 cup ginger ale"
+      ],
+      "instructions": [
+        "Add the water, maple syrup, thyme sprigs, and cinnamon to a small pan. Bring to a simmer.",
+        "Reduce the heat to low and let it steep for about 3 minutes. Then let it cool to room temperature.",
+        "Fill a shaker or mason jar halfway with ice cubes and strain in the thyme syrup. Add the grated ginger and lemon juice and shake well for 10 seconds*.",
+        "Divide the ice cubes between your cups, strain the contents from the shaker over top, and add the orange juice and ginger ale in equal parts.",
+        "Garnish as desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * To turn this mocktail into a cocktail, simply add your favourite whiskey to the shaker.",
+    "Storage The syrup can be stored in an airtight container or mason jar in the fridge for up to 5 days. The assembled drink is best when enjoyed immediately."
+  ]
+}

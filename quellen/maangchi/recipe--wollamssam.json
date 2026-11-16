@@ -1,0 +1,321 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/wollamssam",
+  "recipes": [
+    {
+      "name": "Wollamssam (Korean style Vietnamese rice paper rolls) 월남쌈",
+      "source_url": "https://www.maangchi.com/recipe/wollamssam",
+      "recipe_id": "/recipe/wollamssam#sso/recipe/97018",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "2 servings",
+      "prep_time": "P0DT0H35M0S",
+      "cook_time": "P0DT0H4M0S",
+      "total_time": "P0DT0H39M0S",
+      "ingredients": [
+        "1 small can (8 ounces: 1 cup) of pineapple with the juice",
+        "½ cup peanut butter",
+        "2 tablespoons chopped onion",
+        "1 garlic clove, chopped",
+        "1 small serrano pepper (or jalapeño), chopped",
+        "2 tablespoons soy sauce",
+        "½ of a large lemon, squeezed (2 to 3 tablespoons of juice)",
+        "1 large peeled mango, pureed",
+        "1 to 2 tablespoons squeezed lemon juice",
+        "2 tablespoons fish sauce",
+        "2 teaspoons honey",
+        "2 tablespoons squeezed lemon juice",
+        "1 garlic clove, minced",
+        "1 small serrano pepper (or jalapeño), chopped",
+        "1 small bunch (50 grams) of mung bean vermicelli (or thin rice noodles)",
+        "10 to 14 sheets of 22cm/8.5″ round rice paper",
+        "10 to 14 large shrimp, shelled, deveined, and rinsed in cold water",
+        "10 to 14 (or more) leaves of lettuce",
+        "10 to 14 perilla leaves (optional)",
+        "½ of seedless English cucumber, cut into matchsticks",
+        "2 medium sized carrot, peeled and cut into matchsticks",
+        "2 cups purple cabbage, sliced thinly",
+        "1 red bell pepper (or green bell pepper)",
+        "2 cups cilantro, washed and dried",
+        "1 large avocado, cut in halves in lengthwise, pitted, peeled, and cut into slices"
+      ],
+      "instructions": [
+        "Place all the ingredients for peanut sauce in a food processor and blend for 1 to 2 minutes until creamy. Transfer to a bowl, cover and refrigerate.peanut sauce",
+        "Peel and cut off the flesh of a mango from around the stone. Cut the pieces a few times and add them to a food processor. Drizzle the lemon juice and puree until smooth. Cover and refrigerate.mango puree",
+        "Combine fish sauce, honey, garlic, and pepper in a bowl. Mix well. Cover and refrigerate.",
+        "Bring 3 cups water in a steamer to a boil. Place the shrimp to the steamer basket. Cover and steam for 2 to 3 minutes. Open and flip them over to cook evenly. Cover and steam for another 2 to 3 minutes. Remove from the heat. Transfer to a plate.",
+        "Bring a small pot of water to a boil. Add the noodles and cook for 3 minutes, until nicely cooked. Drain and rinse in cold running water. Squeeze out the excess water and transfer to a bowl. Cut the noodles several times with kitchen scissors. Mix with 1 tablespoon squeezed lemon juice and a pinch of salt.",
+        "Place the perilla leaves (if used), lettuce, noodles, cucumber, cabbage, carrot, avocado, and cilantro on a large platter. Drizzle 1 tablespoon lemon juice over the avocado to keep it from going brown. Cut off the top and bottom of the bell pepper. Make a slit on one side of the pepper. Remove the seeds and veins and cut the pepper into matchsticks. Put it on the platter.",
+        "Place the platter on the table along with shrimp. Divide each sauce into 2 servings and put them in front of you and your guest. Set the rice paper on the table but keep it in the plastic package so it doesn’t draw moisture from the air. Prepare 2 medium size plates, one for you, one for your guest. Heat up about 4 cups of water in a shallow pan until warm, but not boiling hot. Put it on the table.",
+        "Dip a piece of rice paper in warm water and put it on the serving plate. Add lettuce leaves, perilla leaves (if used) on the rice paper first, and then add everything else you want, closer to the front of the paper. Leave some room on the sides. Gently lift the edge of the paper closest to you and tuck in the sides so that everything stays tightly. Roll it up over the ingredients.",
+        "Pick up your roll and dip it into one of the sauces. Take a bite, and then spoon some sauce into the end of the roll (to prevent double-dipping) for your next bite. Keep making wraps and eating them until you’ve had enough."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "For 2 servings."
+        },
+        {
+          "tag": "h3",
+          "text": "For the peanut sauce (makes about 2 cups):"
+        },
+        {
+          "tag": "li",
+          "text": "1 small can (8 ounces: 1 cup) of pineapple with the juice"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup peanut butter"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons chopped onion"
+        },
+        {
+          "tag": "li",
+          "text": "1 garlic clove, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 small serrano pepper (or jalapeño), chopped"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "½ of a large lemon, squeezed (2 to 3 tablespoons of juice)"
+        },
+        {
+          "tag": "h3",
+          "text": "For the mango sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "1 large peeled mango, pureed"
+        },
+        {
+          "tag": "li",
+          "text": "1 to 2 tablespoons squeezed lemon juice"
+        },
+        {
+          "tag": "h3",
+          "text": "For the fish sauce mixture:"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons fish sauce"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons honey"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons squeezed lemon juice"
+        },
+        {
+          "tag": "li",
+          "text": "1 garlic clove, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 small serrano pepper (or jalapeño), chopped"
+        },
+        {
+          "tag": "h3",
+          "text": "For the wraps:"
+        },
+        {
+          "tag": "li",
+          "text": "1 small bunch (50 grams) of mung bean vermicelli (or thin rice noodles)"
+        },
+        {
+          "tag": "li",
+          "text": "10 to 14 sheets of 22cm/8.5″ round rice paper"
+        },
+        {
+          "tag": "li",
+          "text": "10 to 14 large shrimp, shelled, deveined, and rinsed in cold water"
+        },
+        {
+          "tag": "li",
+          "text": "10 to 14 (or more) leaves of lettuce"
+        },
+        {
+          "tag": "li",
+          "text": "10 to 14 perilla leaves (optional)"
+        },
+        {
+          "tag": "li",
+          "text": "½ of seedless English cucumber, cut into matchsticks"
+        },
+        {
+          "tag": "li",
+          "text": "2 medium sized carrot, peeled and cut into matchsticks"
+        },
+        {
+          "tag": "li",
+          "text": "2 cups purple cabbage, sliced thinly"
+        },
+        {
+          "tag": "li",
+          "text": "1 red bell pepper (or green bell pepper)"
+        },
+        {
+          "tag": "li",
+          "text": "2 cups cilantro, washed and dried"
+        },
+        {
+          "tag": "li",
+          "text": "1 large avocado, cut in halves in lengthwise, pitted, peeled, and cut into slices"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Make peanut sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "Place all the ingredients for peanut sauce in a food processor and blend for 1 to 2 minutes until creamy."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer to a bowl, cover and refrigerate."
+        },
+        {
+          "tag": "h3",
+          "text": "Make mango sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "Peel and cut off the flesh of a mango from around the stone. Cut the pieces a few times and add them to a food processor."
+        },
+        {
+          "tag": "li",
+          "text": "Drizzle the lemon juice and puree until smooth. Cover and refrigerate."
+        },
+        {
+          "tag": "h3",
+          "text": "Make fish sauce mixture:"
+        },
+        {
+          "tag": "li",
+          "text": "Combine fish sauce, honey, garlic, and pepper in a bowl. Mix well. Cover and refrigerate."
+        },
+        {
+          "tag": "h3",
+          "text": "Cook shrimp:"
+        },
+        {
+          "tag": "li",
+          "text": "Bring 3 cups water in a steamer to a boil."
+        },
+        {
+          "tag": "li",
+          "text": "Place the shrimp to the steamer basket. Cover and steam for 2 to 3 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Open and flip them over to cook evenly. Cover and steam for another 2 to 3 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat. Transfer to a plate."
+        },
+        {
+          "tag": "h3",
+          "text": "Cook the noodles:"
+        },
+        {
+          "tag": "li",
+          "text": "Bring a small pot of water to a boil. Add the noodles and cook for 3 minutes, stirring a few times until nicely cooked."
+        },
+        {
+          "tag": "li",
+          "text": "Drain and rinse in cold running water. Squeeze out the excess water and transfer to a bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Cut the noodles several times with kitchen scissors. Mix with 1 tablespoon squeezed lemon juice and a pinch of salt."
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the wrap ingredients and the rice paper:"
+        },
+        {
+          "tag": "li",
+          "text": "Place the perilla leaves (if used), lettuce, noodles, cucumber, cabbage, carrot, avocado, and cilantro on a large platter. Drizzle 1 tablespoon lemon juice over the avocado to keep it from going brown."
+        },
+        {
+          "tag": "li",
+          "text": "Cut off the top and bottom of the bell pepper. Make a slit on one side of the pepper. Remove the seeds and veins and cut the pepper into matchsticks. Put it on the platter."
+        },
+        {
+          "tag": "h3",
+          "text": "Serve"
+        },
+        {
+          "tag": "li",
+          "text": "Place the platter on the table along with shrimp."
+        },
+        {
+          "tag": "li",
+          "text": "Divide each sauce into 2 servings and put them in front of you and your guest."
+        },
+        {
+          "tag": "li",
+          "text": "Set the rice paper on the table but keep it in the plastic package so it doesn’t draw moisture from the air."
+        },
+        {
+          "tag": "li",
+          "text": "Prepare 2 medium size plates a little larger than the rice paper, one for you, one for your guest."
+        },
+        {
+          "tag": "li",
+          "text": "Heat up about 4 cups of water in a shallow pan until warm, but not boiling hot. Put it on the table."
+        },
+        {
+          "tag": "h3",
+          "text": "Roll the wollamssam!"
+        },
+        {
+          "tag": "li",
+          "text": "Dip a piece of rice paper in warm water and put it on the serving plate."
+        },
+        {
+          "tag": "li",
+          "text": "Add lettuce leaves, perilla leaves (if used) on the rice paper first, and then add everything else you want, closer to the front of the paper. Leave some room on the sides."
+        },
+        {
+          "tag": "li",
+          "text": "Gently lift the edge of the paper closest to you and tuck in the sides so that everything stays tightly. Roll it up over the ingredients."
+        },
+        {
+          "tag": "h3",
+          "text": "Eat"
+        },
+        {
+          "tag": "li",
+          "text": "Pick up your roll and dip it into one of the sauces. Take a bite, and then spoon some sauce into the end of the roll (to prevent double-dipping) for your next bite. Keep making wraps and eating them until you’ve had enough."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

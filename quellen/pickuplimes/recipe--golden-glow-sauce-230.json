@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/golden-glow-sauce-230",
+  "recipes": [
+    {
+      "name": "Golden Glow Sauce",
+      "source_url": "https://www.pickuplimes.com/recipe/golden-glow-sauce-230",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT03M",
+      "cook_time": "",
+      "total_time": "PT03M",
+      "ingredients": [
+        "¼ cup tahini",
+        "3 Tbsp water",
+        "1 tsp white miso paste",
+        "1 tsp Dijon mustard",
+        "½ tsp ground turmeric",
+        "½ lemon",
+        "½ tsp onion powder",
+        "1 pinch ground black pepper"
+      ],
+      "instructions": [
+        "Add all the ingredients toa jar and whisk. Serve on salads or nourish bowls and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † White miso, also called \"Shiro Miso,\" is fermented for less time than red miso, which gives it a milder, sweeter flavour. If substituting red miso, use a smaller amount and adjust to taste, as red miso is saltier and stronger.",
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

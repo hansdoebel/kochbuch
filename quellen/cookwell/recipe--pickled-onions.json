@@ -1,0 +1,35 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/pickled-onions",
+  "recipes": [
+    {
+      "name": "Pickled Onions",
+      "source_url": "https://app.cookwell.com/recipe/pickled-onions",
+      "recipe_id": "https://app.cookwell.com/recipe/pickled-onions",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "Red Onions",
+        "Vinegar, 1 part",
+        "Water, 1 part",
+        "Salt, a big pinch"
+      ],
+      "instructions": [
+        "Very thinly slice the red onions from root to stem and add them to a jar. Add equal parts vinegar and water to a pot (use enough to submerge the onions in the jar) with a big pinch of salt (2% by weight if you want to measure). Set the pot on the stove and bring to a boil. Turn off the heat.",
+        "Pour the hot pickling liquid over the onions until they are completely submerged or the jar is filled. Cover and let sit in the fridge for at least 2 hours before serving. The pink color will get deeper the more days they sit (keep in the fridge). Put them on everything & enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

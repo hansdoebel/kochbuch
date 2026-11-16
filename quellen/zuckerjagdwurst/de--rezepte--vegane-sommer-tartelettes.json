@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-sommer-tartelettes",
+  "recipes": [
+    {
+      "name": "Vegane Beeren-Tartelettes",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-sommer-tartelettes",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-sommer-tartelettes#recipe-cde94edf-3e43-5c4c-a077-4180041ffc7e",
+      "authors": [
+        "Isa Zucker & Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Tartelettes",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Teig",
+        "200 g Weizenmehl",
+        "100 g vegane Butter",
+        "50 g Zucker",
+        "1 Prise Salz",
+        "3 EL Eiswasser",
+        "Creme",
+        "300 ml vegane Sahne zum Aufschlagen",
+        "8 g Sahnesteif",
+        "50 g vegane weiße Schokolade",
+        "1 Vanilleschote",
+        "optional: Agavendicksaft",
+        "Topping",
+        "400 g frische Beeren oder Obst",
+        "15 g gehackte Pistazien"
+      ],
+      "instructions": [
+        "Teig",
+        "Für den Teig in einer großen Schüssel Weizenmehl, Zucker und Salz vermischen.",
+        "Die kalte vegane Butter in Flocken dazugeben und mit kalten Händen unterkneten.",
+        "3 EL sehr kaltes Wasser unterkneten. Wenn der Teig noch zu fest ist, gebt ihr vorsichtig mehr Wasser dazu. Der Teig sollte allerdings nicht kleben, sondern eine schöne, gleichmäßige Kugel ergeben.",
+        "Den Teig mindestens 30 Minuten im Kühlschrank kühlen.",
+        "Creme",
+        "Die Sahne mit dem Sahnesteif aufschlagen.",
+        "Die weiße Schokolade im Wasserbad schmelzen, danach mit der Schlagsahne in einer Schüssel verrühren.",
+        "Eine Vanilleschote aufschneiden, mit dem Messerrücken das Mark auskratzen und zur Creme hinzugeben. Nach Geschmack Agavendicksaft hinzugeben und kaltstellen.",
+        "Servieren",
+        "Den Ofen auf 175°C Umluft vorheizen.",
+        "Auf einer bemehlten Unterfläche den Teig etwa 0,5 cm dick ausrollen.",
+        "Kreise ausstechen, je nachdem wie groß eure Tartelettesförmchen sind. Der Teig sollte im Durchmesser etwa 1 cm mehr ausgestochen sein, als eure Form im Durchmesser hat.",
+        "Die Tartelettesförmchen mit veganer Butter einfetten und mit etwas Mehl ausklopfen.",
+        "Den Teig in die Förmchen geben und am Rand festdrücken. Der Teig sollte bis oben gehen, alles Überschüssige könnt ihr wegnehmen. Mit einer Gabel mehrmals in den Teigboden piksen, sodass er beim Backen keine Blasen schlägt.",
+        "Bei 175°C etwa 10-15 Minuten auf mittlerer Schiene backen, bis der Teig eine leichte Farbe bekommt. Danach die Förmchen abkühlen lassen und den Teig aus den Formen lösen.",
+        "Wenn der Teig abgekühlt ist, mit der Creme, den Beeren und den gehackten Pistazien füllen. Im Kühlschrank aufbewahren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

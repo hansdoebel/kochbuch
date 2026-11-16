@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schmand-mandarinen-kuchen-mit-bluetenummantelung",
+  "recipes": [
+    {
+      "name": "Veganer Schmand-Mandarinen-Kuchen mit Blütenummantelung",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schmand-mandarinen-kuchen-mit-bluetenummantelung",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schmand-mandarinen-kuchen-mit-bluetenummantelung#recipe-902acf33-0911-56b6-a060-878920e4c0b1",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (∅ 22 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT500M",
+      "ingredients": [
+        "Für den Mürbeteig:",
+        "250 g Weizenmehl (Type 405) oder Dinkelmehl (Type 630)",
+        "75 g Zucker",
+        "125 g vegane Butter (kalt)",
+        "Prise Salz",
+        "eiskaltes Wasser nach Bedarf",
+        "Für die Creme:",
+        "200 ml vegane Sahne zum Aufschlagen",
+        "16 g (3 EL) Sahnesteif",
+        "16 g (4 TL) Vanillezucker",
+        "200 ml Saft aus der Mandarinen-Dose",
+        "20 g Agar Agar (100%)",
+        "100 g Zucker",
+        "800 g veganer Skyr/Quark",
+        "Sonstiges:",
+        "essbare Deko-Blüten (z. B. von Tante Fine)",
+        "2 Dosen (600 g) Mandarinen"
+      ],
+      "instructions": [
+        "Mehl, Zucker, kalte vegane Butter und Salz in einer Schüssel verkneten. Gegebenenfalls löffelweise eiskaltes Wasser dazugeben, sodass ein glatter Teig entsteht. Den Teig circa 30 Minuten in den Kühlschrank stellen.",
+        "Für die Creme vegane Sahne zusammen mit Sahnesteif und Vanillezucker aufschlagen und kalt stellen.",
+        "Den Ofen auf 180 °C (Ober- und Unterhitze) vorheizen. Den Teig mit einem Nudelholz rund ausrollen und in eine eingefettete oder mit Backpapier ausgelegte Springform (∅ 22 Zentimeter) legen und leicht festdrücken. Mit einer Gabel Löcher in den Teig piksen und ihn anschließend bei 180 °C (Ober- und Unterhitze) circa 25 Minuten backen, bis er leicht braun ist. Anschließend komplett auskühlen lassen.",
+        "Saft aus der Mandarinen-Dose zusammen mit Agartine in einen Topf geben, mit einem Schneebesen verrühren, damit keine Klümpchen entstehen. Anschließend 1–2 Minuten köcheln lassen. Topf von der Herdplatte nehmen und Zucker einrühren. Danach löffelweise den veganen Skyr einrühren, sodass keine Klümpchen entstehen. Zum Schluss geschlagene Sahne vorsichtig unterheben.",
+        "Sobald der Kuchenboden ausgekühlt ist, Quarkcreme gleichmäßig darauf verteilen. Den Kuchen über Nacht in den Kühlschrank stellen, sodass die Creme komplett fest wird.",
+        "Vor dem Servieren den Tortenring abnehmen und den Kuchen obendrauf mit Mandarinen dekorieren. Die getrockneten Blüten vorsichtig an den Rand der Torte drücken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

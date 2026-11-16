@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-all-green-taco-mit-salsa-verde",
+  "recipes": [
+    {
+      "name": "Veganer All Green Taco mit Salsa Verde",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-all-green-taco-mit-salsa-verde",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-all-green-taco-mit-salsa-verde#recipe-89fd4604-f0ba-58e7-a4ed-8937376ac912",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "6 weiche Tacos",
+        "2 Avocado",
+        "1 Gurke",
+        "1 grüne Paprika",
+        "3 Lauchzwiebeln",
+        "FÜR DIE SALSA VERDE",
+        "1 Bund Petersilie",
+        "1 Bund Minze",
+        "1 EL Kapern",
+        "1 Knoblauchzehe",
+        "1/2 Zitrone",
+        "Olivenöl",
+        "Salz und Pfeffer",
+        "Agavendicksaft"
+      ],
+      "instructions": [
+        "Die grüne Paprika halbieren, entkernen und in Scheiben schneiden. Danach in einer Pfanne mit etwas Öl anbraten, mit einen Schuss Agavendicksaft leicht karamellisieren lassen und mit Salz und Pfeffer abschmecken.",
+        "Die Frühlingszwiebeln und eine Avocado in Streifen schneiden, die Gurke grob würfeln.",
+        "Die zweite Avocado mit einer Gabel zermatschen (natürlich könnt ihr sie auch pürieren oder in den Mixer werfen). Danach mit Pfeffer, 1 TL Olivenöl und 1 TL Zitronensaft verrühren.",
+        "Für die Salsa hackt ihr Kapern, Koblauchzehe, Minze und Petersilie, legt aber jeweils ein paar Blätter der Kräuter für später zur Seite. Alles in einer kleinen Schale verrühren und mit etwa 5-6 EL Olivenöl auffüllen. Mit Salz, Pfeffer und einem Schuss Zitronensaft abschmecken.",
+        "Und schon könnt ihr euren Taco kurz im Ofen erwärmen und belegen. Erst mit ein bisschen Guacamole bestreichen, euer grünes Gemüse darauf legen und zum Schluss mit Salsa und den bei Seite gelegten frischen Kräutern bedecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

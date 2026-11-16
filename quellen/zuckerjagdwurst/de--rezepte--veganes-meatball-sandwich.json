@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-meatball-sandwich",
+  "recipes": [
+    {
+      "name": "Veganes Meatball Sandwich",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-meatball-sandwich",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-meatball-sandwich#recipe-260879c2-eb46-5f23-8615-23b032fc982a",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Sandwiches",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "4 Brötchen",
+        "400 g gestückelte Tomaten (1 Dose)",
+        "1 EL getrockneter Oregano",
+        "frischer Basilikum zum Servieren",
+        "Für die veganen Fleischbällchen:",
+        "400 g Kidneybohnen (1 Dose)",
+        "1 Knoblauchzehe",
+        "0.5 Zwiebel",
+        "1 TL Oregano",
+        "1 EL Tomatenmark",
+        "1 TL Sojasauce",
+        "2 TL Senf",
+        "4 EL zarte Haferflocken",
+        "Öl zum Braten",
+        "Für die vegane Käseschicht:",
+        "100 g Cashewnüsse (über Nacht in Wasser eingeweicht)",
+        "250 ml Wasser",
+        "1 EL Hefeflocken",
+        "1 TL Knoblauchpulver",
+        "30 g Tapiokastärke"
+      ],
+      "instructions": [
+        "Zwiebeln und Knoblauch schälen und fein hacken. Die Haferflocken ebenfalls nochmal durchhacken.",
+        "Kidneybohnen in ein Sieb geben und unter klarem Wasser abspülen. Danach in eine große Schüssel geben und mit einer Gabel zerdrücken. Zwiebeln, Knoblauch, Haferflocken, Sojasauce, Senf, Tomatenmark und Oregano dazugeben und vermengen.",
+        "Formt mit euren Händen kleine Bällchen aus der Masse (es kommen ca. 12 Stück raus). Öl in einer großen Pfanne erhitzen und die Kidneybällchen ca. 5 - 6 Min. anbraten, bis sie rundum gebräunt sind.",
+        "Gestückelte Tomaten dazugeben und ca. 3 Min. erhitzen. Erneut getrockneten Oregano dazugeben und mit Salz und Pfeffer abschmecken.",
+        "Eingeweichte Cashews, Wasser, Hefeflocken, Knoblauchpulver und Tapiokastärke pürieren, bis eine glatte, flüssige Mischung entsteht. In einen Topf geben und unter Rühren erwärmen, bis die Masse leicht andickt, aber noch dickflüssig ist.",
+        "Brötchen aufschneiden und je 3 vegane Fleischbällchen hineinlegen und etwas der Tomatensoße darauf verteilen. Die Käsecreme daraufgeben und mit ein bisschen frischem Basilikum servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

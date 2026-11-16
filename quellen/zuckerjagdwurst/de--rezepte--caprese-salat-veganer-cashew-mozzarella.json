@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/caprese-salat-veganer-cashew-mozzarella",
+  "recipes": [
+    {
+      "name": "Caprese Salat mit veganem Cashew-Mozzarella",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/caprese-salat-veganer-cashew-mozzarella",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/caprese-salat-veganer-cashew-mozzarella#recipe-e2b31f40-06c6-5f6e-96e4-8ba21cf9be7e",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen als Vorspeise",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Für den Cashew-Mozzarella:",
+        "100 g Cashewnüsse (mind. 30 Min. eingeweicht)",
+        "150 ml Wasser",
+        "1 EL Hefeflocken",
+        "1 TL Knoblauchpulver",
+        "35 g Tapiokastärke",
+        "0.5 TL Salz",
+        "1 TL Agaranta",
+        "50 ml Wasser",
+        "Zum Servieren:",
+        "frische, gemischte Tomaten",
+        "frischer Basilikum",
+        "Baguette",
+        "Für die Balsamico-Vinaigrette:",
+        "1.5 EL Öl",
+        "1 EL dunkler Balsamicoessig",
+        "1 TL Agavendicksaft",
+        "1 TL Senf",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Die eingeweichten Cashewnüsse abgießen und zusammen mit Wasser, Hefeflocken, Knoblauchpulver, Tapiokastärke und Salz in einen Standmixer geben oder mit dem Pürierstab glattmixen. Danach mit Salz abschmecken.",
+        "Eine Schüssel mit eiskaltem Wasser vorbereiten und neben den Herd stellen. Agaranta in Wasser einrühren, aufkochen lassen und 2–3 Minuten köcheln lassen. Anschließend die Cashew-Mischung in den Topf geben und über mittlerer Hitze und unter konstantem Rühren erwärmen. Nicht aufhören zu rühren, bis die Mischung nach ein paar Minuten zäh wird und sich vom Topfrand löst. An diesem Punkt den Topf vom Herd nehmen.",
+        "Mit Löffeln oder einem Eisportionierer kleine Kugeln von der Cashew-Mischung nehmen, dann direkt in das Eiswasser geben und beiseitestellen.",
+        "Tomaten in Scheiben schneiden und auf einem Teller oder einer Platte verteilen. Alle Zutaten für die Balsamico-Vinaigrette miteinander verrühren und mit Salz und Pfeffer abschmecken. Den Cashew-Mozzarella über den Tomaten verteilen, mit frischen Basilikumblätter garnieren und alles mit der Vinaigrette beträufeln.",
+        "Tipp: Der vegane Caprese-Salat schmeckt auch ganz hervorragend auf leicht geröstetem Weißbrot, Ciabatta oder Baguette!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

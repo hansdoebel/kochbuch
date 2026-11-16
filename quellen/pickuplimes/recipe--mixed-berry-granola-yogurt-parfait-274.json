@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/mixed-berry-granola-yogurt-parfait-274",
+  "recipes": [
+    {
+      "name": "Mixed Berry & Granola Yogurt Parfait",
+      "source_url": "https://www.pickuplimes.com/recipe/mixed-berry-granola-yogurt-parfait-274",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "½ cup frozen mixed berries",
+        "½ cup unsweetened soy yogurt",
+        "½ cup vegan granola",
+        "½ banana",
+        "½ Tbsp ground flaxseeds"
+      ],
+      "instructions": [
+        "Place the frozen berries in a microwave for 2 to 3 minutes at 600W, or until defrosted. Alternatively, the berries can be heated on the stove.",
+        "Layer the ingredients in a bowl, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use a plant-based yogurt that is fortified with calcium .",
+    "Storage Best to enjoy immediately."
+  ]
+}

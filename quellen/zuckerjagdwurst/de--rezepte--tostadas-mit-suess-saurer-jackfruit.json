@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tostadas-mit-suess-saurer-jackfruit",
+  "recipes": [
+    {
+      "name": "Tostadas mit süß-saurer Jackfruit",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tostadas-mit-suess-saurer-jackfruit",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/tostadas-mit-suess-saurer-jackfruit#recipe-2ad6cce1-1f65-5676-8d2c-c1615cdf9384",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Tostadas",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "FÜR TOSTADAS",
+        "8 Tortillas",
+        "5 EL Öl",
+        "FÜR DIE JACKFRUIT",
+        "1 Dose Jackfruit (Abtropfgewicht 280 g)",
+        "4 EL BBQ Sauce",
+        "2 EL Ahornsirup",
+        "2 EL Agavendicksaft",
+        "1 EL Sojasauce",
+        "1/2 Limette (Saft)",
+        "Salz",
+        "Pfeffer",
+        "FÜR SALSA UND TOPPING",
+        "1 Avocado",
+        "1 Mango",
+        "1 Bund Koriander",
+        "1 kleine rote Zwiebel"
+      ],
+      "instructions": [
+        "Verrührt alle Zutaten für die Marinade, also BBQ-Sauce, Ahornsirup, Agavendicksaft, Sojasauce, Limettensaft und schmeckt mit Salz und Pfeffer ab.",
+        "Öffnet die Dose Jackfruit und gießt das Wasser ab. Gebt die Jackfruit-Stückchen in eine Schüssel, gebt Marinade dazu und reibt die Jackfruit damit ein. Ca. 5 Minuten stehen und ziehen lassen. Danach erhitzt ihr etwas Öl in einer großen Pfanne und gebt die marinierten Jackfruit-Stücke dazu.",
+        "Legt einen Deckel auf die Pfanne und lasst die Jackfruit auf mittlerer Hitze ca. 10-12 Minuten rösten, ihr könnt sie zwischendurch auch gern immer mal umrühren. Danach sollte sie weich genug sein, damit ihr mit zwei Gabeln die Fasern der Jackfruit auseinanderziehen könnt. Ohne Deckel noch 4-5 Minuten auf mittlerer bis hoher Hitze anbraten.",
+        "Während ihr die Jackfruit röstet, könnt ihr die Salsa vorbereiten. Würfelt dafür Avocado und Mango und gebt die Würfel in eine Schüssel. Ebenso würfelt ihr eine kleine rote Zwiebel fein und hackt einen Bund Koriander. Die Hälfte des Korianders und der Zwiebel gebt ihr zur Salsa, die jeweils zweite Hälfte könnt ihr fürs Servieren zur Seite stellen. Verrührt die Salsa und schmeckt nach Bedarf mit Salz und Pfeffer ab.",
+        "Erhitzt in einer kleinen Pfanne Öl und bratet die Tortillas von beiden Seiten je 1-2 Minuten an, bis sie goldbraun und knusprig sind. Danach fettet ihr sie auf einem Teller mit etwas Küchenpapier ab.",
+        "Zum Servieren nehmt ihr euch nun die Tostadas und gebt Salsa und gebratene Jackfruit darauf. Serviert sie mit etwas roten Zwiebelwürfeln und gehacktem Koriander oder schichtet mehrere Tostadas übereinander."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

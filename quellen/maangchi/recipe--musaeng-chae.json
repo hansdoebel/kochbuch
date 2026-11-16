@@ -1,0 +1,118 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/musaeng-chae",
+  "recipes": [
+    {
+      "name": "Radish salad (Musaeng-chae)",
+      "source_url": "https://www.maangchi.com/recipe/musaeng-chae",
+      "recipe_id": "/recipe/musaeng-chae#sso/recipe/9044",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Korean radish (or daikon)",
+        "kosher salt",
+        "vinegar",
+        "Korean hot pepper flakes (gochugaru)",
+        "sugar",
+        "garlic",
+        "green onion",
+        "toasted sesame seeds"
+      ],
+      "instructions": [
+        "Peel a radish and cut it into thin matchsticks.",
+        "Put 3-3½ cups of radish matchsticks into a large bowl.",
+        "Add 1 tbs kosher salt and mix it by hand. Set aside for 5 minutes.",
+        "Squeeze out any excess water from the radish strips.",
+        "Add 2 cloves of minced garlic, 1 stalk of chopped green onion, 1 tbs vinegar, 2 ts hot pepper flakes, and 2 ts sugar.",
+        "Mix together by hand until well combined.",
+        "Add 1 ts roasted sesame seeds and mix it up a bit more."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "Korean radish (or daikon)"
+        },
+        {
+          "tag": "li",
+          "text": "kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "Korean hot pepper flakes (gochugaru)"
+        },
+        {
+          "tag": "li",
+          "text": "sugar"
+        },
+        {
+          "tag": "li",
+          "text": "garlic"
+        },
+        {
+          "tag": "li",
+          "text": "green onion"
+        },
+        {
+          "tag": "li",
+          "text": "toasted sesame seeds"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Peel a radish and cut it into thin matchsticks."
+        },
+        {
+          "tag": "li",
+          "text": "Put 3-3½ cups of radish matchsticks into a large bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Add 1 tbs kosher salt and mix it by hand. Set aside for 5 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Squeeze out any excess water from the radish strips."
+        },
+        {
+          "tag": "li",
+          "text": "Add 2 cloves of minced garlic, 1 stalk of chopped green onion, 1 tbs vinegar, 2 ts hot pepper flakes, and 2 ts sugar."
+        },
+        {
+          "tag": "li",
+          "text": "Mix together by hand until well combined."
+        },
+        {
+          "tag": "li",
+          "text": "Add 1 ts roasted sesame seeds and mix it up a bit more."
+        },
+        {
+          "tag": "p",
+          "text": "Transfer it to a serving plate and serve it with rice."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

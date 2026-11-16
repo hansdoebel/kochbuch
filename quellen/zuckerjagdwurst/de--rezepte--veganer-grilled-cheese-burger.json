@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-grilled-cheese-burger",
+  "recipes": [
+    {
+      "name": "Vegane Grilled Cheese Burger",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-grilled-cheese-burger",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-grilled-cheese-burger#recipe-7c01644f-7183-5418-913a-c6c24a88ddb9",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Grilled-Cheese-Burger:",
+        "150 g Bio Hafer BBQ Burger (z. B. von Bauck Mühle)",
+        "4 Toastscheiben",
+        "4–8 vegane Käsescheiben",
+        "optional: veganer Kimchi / Gewürzgurken / Balsamico-Zwiebeln",
+        "vegane Butter",
+        "Für die Soße:",
+        "5 EL vegane Mayonnaise",
+        "1 TL Senf",
+        "1 TL Tomatenmark",
+        "Weißweinessig",
+        "edelsüßes Paprikapulver",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "Riffle Chips"
+      ],
+      "instructions": [
+        "Die Burger-Patties nach Anleitung zubereiten und vier Patties aus der Masse formen.",
+        "Für die Soße vegane Mayonnaise, Senf, Tomatenmark und Weißweinessig verrühren und mit edelsüßem Paprikapulver, Salz und Pfeffer abschmecken.",
+        "Pflanzenöl in einer Pfanne (zu der ihr einen Deckel habt) erhitzen und die Patties in der Pfanne mit einem Pfannenwender richtig schön plattdrücken. Die Patties für 3–4 Minuten pro Seite braten, bis sie etwas gebräunt sind, dann aus der Pfanne nehmen.",
+        "Die Toastscheiben auf der einen Seite mit veganer Butter und auf der anderen Seite mit Soße bestreichen. Zwei Burger-Patties mit 1–2 Käsescheiben toppen und zwischen zwei Toastscheiben legen. Die Seiten mit der Soße schauen zu den Patties, die Butterseiten schauen nach außen. Je nach Wunsch noch Gewürzgurkenscheiben, Kimchi oder Balsamico-Zwiebeln hinzugeben.",
+        "Die Sandwiches in der gleichen Pfanne erhitzen (gegebenenfalls noch etwas mehr vegane Butter hinzugeben) und die Grilled Cheese Burger bei kleiner Hitze von beiden Seiten für 4–5 Minuten mit Deckel braten. Am Ende sollte der vegane Scheibenkäse geschmolzen sein.",
+        "Tipp: Damit der vegane Käse noch etwas besser schmilzt, können vorsichtig an den Rand der Pfanne 1–2 EL Wasser gegossen werden. Aber Achtung, das Wasser kann durch das Fett in der Pfanne etwas spritzen. Danach den Deckel wieder auf die Pfanne setzen und 2–3 Minuten warten.",
+        "Die Grilled Cheese Burger mit Riffle Chips servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

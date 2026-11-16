@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/mashed-chickpea-dill-sandwich-134",
+  "recipes": [
+    {
+      "name": "Mashed Chickpea & Dill Sandwich",
+      "source_url": "https://www.pickuplimes.com/recipe/mashed-chickpea-dill-sandwich-134",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 sandwiches",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT10M",
+      "ingredients": [
+        "1½ cup cooked chickpeas",
+        "½ bell pepper",
+        "¼ small red onion",
+        "⅓ cup vegan mayonnaise",
+        "¼ cup chopped pickles",
+        "3 Tbsp roasted sunflower seeds",
+        "2 Tbsp fresh dill",
+        "1 Tbsp fresh chives",
+        "½ lemon",
+        "1 pinch salt",
+        "1 pinch ground black pepper",
+        "6 slice multigrain bread",
+        "1 medium tomato",
+        "6 butter lettuce leaf",
+        "¼ cup pickled red onions"
+      ],
+      "instructions": [
+        "In a large bowl, mash the chickpeas with a potato masher or fork until flaky.",
+        "Add the remaining chickpea mash ingredients to the bowl and mix to combine.",
+        "Serve with your favourite sandwich fillings. Alternatively, serve as a snack with crackers, veggies, or scooped onto a salad. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Prepared sandwiches are best enjoyed on the same day they're made. Store the mashed filling in an airtight container in the fridge for up to 2 days."
+  ]
+}

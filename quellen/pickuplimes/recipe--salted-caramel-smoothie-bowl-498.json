@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/salted-caramel-smoothie-bowl-498",
+  "recipes": [
+    {
+      "name": "Salted Caramel Smoothie Bowl",
+      "source_url": "https://www.pickuplimes.com/recipe/salted-caramel-smoothie-bowl-498",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "2 frozen banana",
+        "3 Medjool date",
+        "1 cup unsweetened cashew milk",
+        "3 Tbsp tahini",
+        "2 Tbsp ground flaxseeds",
+        "1 tsp pure vanilla extract",
+        "1 tsp ground cinnamon",
+        "⅛ tsp salt"
+      ],
+      "instructions": [
+        "In a high-speed blender, add all the ingredients and blend on high until smooth.",
+        "Divide the smoothie between bowls, add your favourite toppings, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium .",
+    "Storage Smoothies are best when enjoyed immediately."
+  ]
+}

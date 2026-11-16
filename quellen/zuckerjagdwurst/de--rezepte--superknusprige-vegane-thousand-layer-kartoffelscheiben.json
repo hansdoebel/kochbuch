@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/superknusprige-vegane-thousand-layer-kartoffelscheiben",
+  "recipes": [
+    {
+      "name": "Superknusprige „Thousand Layer” Kartoffelscheiben",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/superknusprige-vegane-thousand-layer-kartoffelscheiben",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/superknusprige-vegane-thousand-layer-kartoffelscheiben#recipe-a4932a34-6236-5d10-96c5-a8aa2de5fd9f",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kastenform (20-25 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT640M",
+      "ingredients": [
+        "Für die Kartoffeln:",
+        "1 kg vorwiegend festkochende Kartoffeln",
+        "2 EL Rapsöl",
+        "2 EL Kartoffelmehl (oder Speisestärke)",
+        "3 EL vegane Kochsahne",
+        "3 EL Hefeflocken",
+        "2 TL getrockneter Rosmarin",
+        "Salz",
+        "Pfeffer",
+        "Pflanzenöl zum Braten",
+        "Zum Servieren:",
+        "vegane Crème fraîche",
+        "frischer Dill",
+        "Kresse"
+      ],
+      "instructions": [
+        "Die Kartoffeln gründlich säubern und mit einem Gemüsehobel in dünne Scheiben schneiden. Ihr könnt sie davor schälen, müsst es aber nicht.",
+        "Die Kartoffelscheiben anschließend in einer Schüssel mit neutralem Öl, Kartoffelmehl, veganer Sahne, Hefeflocken, getrocknetem Rosmarin und reichlich Salz und etwas Pfeffer vermengen.",
+        "Den Backofen auf 160 °C (Umluft) vorheizen. Eine Kastenform mit Backpapier auslegen, sodass es über den Rand geht. Die Kartoffelscheiben darin auslegen und Lage für Lage übereinander schichten. Das überhängende Backpapier über den Kartoffeln zusammenfalten und die Form ca. 2 Stunden in den Ofen stellen.",
+        "Die Kartoffeln aus dem Ofen nehmen und auf Raumtemperatur abkühlen lassen. Anschließend mit schweren Konserven beschweren und über Nacht im Kühlschrank ruhen lassen.",
+        "Am nächsten Tag den Kartoffelblock aus der Form und dem Backpapier nehmen und in breite Scheiben schneiden. Reichlich Pflanzenöl in einer Pfanne erhitzen und die dicken Kartoffelscheiben von beiden Seiten anbraten, bis sie goldbraun und knusprig sind. Anschließend aus der Pfanne nehmen und auf Küchenpapier abtropfen.",
+        "Die knusprigen Kartoffelscheiben nach Belieben servieren, z. B. mit veganer Crème fraîche, frischem Dill und Kresse."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

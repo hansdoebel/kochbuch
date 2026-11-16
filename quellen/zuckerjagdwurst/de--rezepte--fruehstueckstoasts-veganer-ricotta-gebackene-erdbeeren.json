@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/fruehstueckstoasts-veganer-ricotta-gebackene-erdbeeren",
+  "recipes": [
+    {
+      "name": "Frühstückstoasts mit veganem Ricotta und gebackenen Erdbeeren",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/fruehstueckstoasts-veganer-ricotta-gebackene-erdbeeren",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/fruehstueckstoasts-veganer-ricotta-gebackene-erdbeeren#recipe-f25a0a7c-4706-576f-9cb2-2a357d748403",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT165M",
+      "ingredients": [
+        "Für den veganen Ricotta",
+        "200 g fester Tofu",
+        "75 g feste Kokoscreme (ca. 1 Dose Kokosmilch)",
+        "75 g veganer Joghurt",
+        "1 TL Vanilleextrakt",
+        "2 EL Ahornsirup",
+        "1 EL Orangensaft",
+        "0.5 Orange (Abrieb)",
+        "0.25 TL Salz",
+        "Für die gebackenen Erdbeeren",
+        "500 g Erdbeeren",
+        "2 EL Zucker",
+        "1 EL Balsamicoessig",
+        "Zum Servieren",
+        "4 dicke Scheiben Weißbrot",
+        "Ahornsirup",
+        "frische Minzblätter",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Für den veganen Ricotta den Tofu gut abtropfen lassen, am besten noch mit etwas Küchenpapier abtupfen und in einen Zerkleinerer geben. Den festen Teil der Kokosmilch, der sich oben an der Dose absetzt, vorsichtig aus der Dose nehmen und dazugeben, sowie veganen Joghurt, Vanilleextrakt, Ahornsirup, Orangenabrieb und -saft und Salz. Mit dem Zerkleinerer alles gut vermengen, bis der Ricotta die Konsistenz eurer Wahl erreicht hat. Ich mochte ihn zum Beispiel freikrümelig mehr, aber ihr könntet ihn auch glatter und cremiger mixen. Danach abschmecken.",
+        "Ricotta ca. 2-3 Stunden, am besten über Nacht im Kühlschrank ziehen lassen.",
+        "Backofen auf 180°C vorheizen. Erdbeeren entstielen, halbieren und auf ein mit Backpapier ausgelegtes Backblech oder in eine große Auflaufform geben. Mit Zucker bestreuen und mit Balsamicoessig beträufeln. Ca. 20-25 Minuten backen, bis die Erdbeeren weich und ihr Saft ausgetreten ist. Danach aus dem Ofen nehmen und abkühlen lassen, bis sie kühl genug für dich sind. Manche essen sie am liebsten noch lauwarm, andere lieber ausgekühlt.",
+        "Dicke Scheiben Weißbrot im Toaster rösten. Dick mit Ricotta bestreichen, und mit etwas Ahornsirup beträufeln. Die Erdbeeren darauf verteilen, mit Minzblättern und etwas Pfeffer bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/spicy-garlic-wok-noodles-213",
+  "recipes": [
+    {
+      "name": "Spicy Garlic Wok Noodles",
+      "source_url": "https://www.pickuplimes.com/recipe/spicy-garlic-wok-noodles-213",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT15M",
+      "cook_time": "PT25M",
+      "total_time": "PT40M",
+      "ingredients": [
+        "1 Tbsp vegetable oil",
+        "11.464 oz firm tofu",
+        "1 Tbsp ketjap manis",
+        "½ Tbsp vegetable oil",
+        "3 medium shallot",
+        "5 garlic clove",
+        "1 small broccoli",
+        "6.526 oz quick-cooking ramen noodles",
+        "1 red bell pepper",
+        "1 cup cherry tomatoes",
+        "2 Tbsp dark soy sauce",
+        "2 Tbsp sambal oelek",
+        "1 tsp toasted sesame oil"
+      ],
+      "instructions": [
+        "Heat the oil in a non-stick large pan over high heat. Cook the tofu until golden on all sides, stirring occasionally. When lightly golden, add the ketjap, toss to coat, and remove from the heat.",
+        "Heat the oil in a sauté pan or wok over medium-high heat. Cook the shallots, garlic, and broccoli for 6 minutes.",
+        "Cook the noodles according to the package instructions. Ideally, drain when the noodles are 2 minutes away from being al dente. Run the noodles under cold water.",
+        "Add the drained noodles to the pan with the broccoli. Also add in the tofu, bell pepper, tomatoes, soy sauce, sambal, and sesame oil. Toss to coat, and heat until the noodles are fully cooked.",
+        "Serve in your favourite bowls, top with desired garnish, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Ketjap is a slightly thick, sweetened soy sauce commonly used in Indonesian cuisine.",
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

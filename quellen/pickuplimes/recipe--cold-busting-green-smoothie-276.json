@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/cold-busting-green-smoothie-276",
+  "recipes": [
+    {
+      "name": "Cold Busting Green Smoothie",
+      "source_url": "https://www.pickuplimes.com/recipe/cold-busting-green-smoothie-276",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "1 frozen banana",
+        "1 apple",
+        "1 orange",
+        "¼ cucumber",
+        "1 cup unsweetened soy milk",
+        "½ cup spinach",
+        "¼ cup fresh parsley",
+        "1 Tbsp fresh ginger",
+        "½ Tbsp whole chia seeds"
+      ],
+      "instructions": [
+        "To a blender, add the banana, apple, orange, cucumber, milk, spinach, parsley, and ginger. Blend on high until smooth.",
+        "Pour the smoothie into your desired glasses.",
+        "Sprinkle the smoothie with chia seeds, shake or stir the seeds in, and enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium .",
+    "Storage Smoothies are best enjoyed immediately."
+  ]
+}

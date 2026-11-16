@@ -1,0 +1,103 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/nokdu-juk",
+  "recipes": [
+    {
+      "name": "Mung bean porridge (Nokdu-juk: 녹두죽)",
+      "source_url": "https://www.maangchi.com/recipe/nokdu-juk",
+      "recipe_id": "/recipe/nokdu-juk#sso/recipe/71167",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 cup dried and skinned mung beans",
+        "½ cup rice",
+        "2 teaspoons toasted sesame oil",
+        "6 cups of water",
+        "1 teaspoon kosher salt",
+        "gim-bugak (optional)"
+      ],
+      "instructions": [
+        "Combine the mung beans and rice in a bowl, and wash and strain a few times.",
+        "Soak in water for at least 1 hour, then strain.",
+        "Put the sesame oil into a heated sauce pan. Add the beans and rice and stir with a wooden spoon over medium high heat until the rice turns a little translucent, for a few minutes.",
+        "Add water, stir and cover. Let it cook for 20 minutes. It will easily boil over, so when it does, half cover it with the lid and let it keep bubbling and boiling. Stir it occasionally to prevent the rice from sticking to the bottom of the pan.",
+        "Turn down the heat to low and simmer for 5 to 10 minutes until the porridge turns soft, smooth, and a little thicker. Add salt and stir.",
+        "Ladle the porridge into a serving bowl and crush some gim-bugak over top if you have it. Serve right away, by itself or with kimchi or cold cucumber soup."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "For 4 servings"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup dried and skinned mung beans"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup rice"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "6 cups of water"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "gim-bugak (optional)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Combine the mung beans and rice in a bowl, and wash and strain a few times."
+        },
+        {
+          "tag": "li",
+          "text": "Soak in water for at least 1 hour, then strain."
+        },
+        {
+          "tag": "li",
+          "text": "Put the sesame oil into a heated sauce pan. Add the beans and rice and stir with a wooden spoon over medium high heat until the rice turns a little translucent, for a few minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Add water, stir and cover. Let it cook for 20 minutes. It will easily boil over, so when it does, half cover it with the lid and let it keep bubbling and boiling. Stir it occasionally to prevent the rice from sticking to the bottom of the pan."
+        },
+        {
+          "tag": "li",
+          "text": "Turn down the heat to low and simmer for 5 to 10 minutes until the porridge turns soft, smooth, and a little thicker. Add salt and stir."
+        },
+        {
+          "tag": "li",
+          "text": "Ladle the porridge into a serving bowl and crush some gim-bugak over top if you have it. Serve right away, by itself or with kimchi or cold cucumber soup."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

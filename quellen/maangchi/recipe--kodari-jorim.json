@@ -1,0 +1,159 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/kodari-jorim",
+  "recipes": [
+    {
+      "name": "Braised semi-dried pollock (Kodari-jorim: 코다리조림)",
+      "source_url": "https://www.maangchi.com/recipe/kodari-jorim",
+      "recipe_id": "/recipe/kodari-jorim#sso/recipe/76208",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 package of kodari (2 large semi-dried pollock, about 1½ pounds)",
+        "8 ounces daikon (or Korean radish), peeled and cut crosswise into ¼ inch thick disks",
+        "5 ounces onion, sliced",
+        "1 large green onion (dae-pa) or 3 green onions, sliced diagonally",
+        "1 red or green chili pepper, sliced diagonally",
+        "1 green onion for garnish",
+        "3 garlic cloves",
+        "3 tablespoons soy sauce",
+        "1 tablespoon Korean hot pepper flakes (gochugaru)",
+        "1 tablespoon rice syrup (or sugar)"
+      ],
+      "instructions": [
+        "Combine the sauce ingredients in a bowl and mix well. Set aside.",
+        "Remove the fins and gills from the fish, and gently scrape the tiny scales with a blade of kitchen knife and remove.",
+        "Remove the black film from inside the fish.",
+        "Cut off the tip of the mouth with the teeth and discard. Cut the fish crosswise into 2½ inch long pieces.",
+        "Wash the fish in cold running water and drain well.",
+        "Place a heavy shallow pan on the stove. Spread the radish and onion on the bottom of the pan. Add the pollock over top of the radish and onion. Put the seasoning sauce over the pollock. Add 1 cup water. Cover and cook for 20 minutes over medium heat.",
+        "Uncover and scoop some broth from the bottom of the pan over top of the fish several times. Add green onion and red (or green) chili pepper.",
+        "Reduce the heat to low and cover. Cook for 10 minutes.",
+        "Open and turn up the heat to high. Cook for a couple of minutes, scooping some broth with a spoon and pouring it over the fish and radish until the broth is almost all evaporated.",
+        "Garnish with the sliced green onion and serve right away with rice."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 3 or 4"
+        },
+        {
+          "tag": "li",
+          "text": "1 package of kodari (2 large semi-dried pollock, about 1½ pounds)"
+        },
+        {
+          "tag": "li",
+          "text": "8 ounces daikon (or Korean radish), peeled and cut crosswise into ¼ inch thick disks"
+        },
+        {
+          "tag": "li",
+          "text": "5 ounces onion, sliced"
+        },
+        {
+          "tag": "li",
+          "text": "1 large green onion (dae-pa) or 3 green onions, sliced diagonally"
+        },
+        {
+          "tag": "li",
+          "text": "1 red or green chili pepper, sliced diagonally"
+        },
+        {
+          "tag": "li",
+          "text": "1 green onion for garnish"
+        },
+        {
+          "tag": "h3",
+          "text": "For seasoning sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "3 garlic cloves"
+        },
+        {
+          "tag": "li",
+          "text": "3 tablespoons soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon Korean hot pepper flakes (gochugaru)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon rice syrup (or sugar)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Make seasoning sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "Combine the sauce ingredients in a bowl and mix well. Set aside."
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the fish:"
+        },
+        {
+          "tag": "li",
+          "text": "Remove the fins and gills from the fish, and gently scrape the tiny scales with a blade of kitchen knife and remove."
+        },
+        {
+          "tag": "li",
+          "text": "Remove the black film from inside the fish."
+        },
+        {
+          "tag": "li",
+          "text": "Cut off the tip of the mouth with the teeth and discard. Cut the fish crosswise into 2½ inch long pieces."
+        },
+        {
+          "tag": "li",
+          "text": "Wash the fish in cold running water and drain well."
+        },
+        {
+          "tag": "h3",
+          "text": "Make kodari-jorim:"
+        },
+        {
+          "tag": "li",
+          "text": "Place a heavy shallow pan on the stove. Spread the radish and onion on the bottom of the pan. Add the pollock over top of the radish and onion. Put the seasoning sauce over the pollock. Add 1 cup water. Cover and cook for 20 minutes over medium heat."
+        },
+        {
+          "tag": "li",
+          "text": "Uncover and scoop some broth from the bottom of the pan over top of the fish several times. Add green onion and red (or green) chili pepper."
+        },
+        {
+          "tag": "li",
+          "text": "Reduce the heat to low and cover. Cook for 10 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Open and turn up the heat to high. Cook for a couple of minutes, scooping some broth with a spoon and pouring it over the fish and radish until the broth is almost all evaporated."
+        },
+        {
+          "tag": "li",
+          "text": "Garnish with the sliced green onion and serve right away with rice."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

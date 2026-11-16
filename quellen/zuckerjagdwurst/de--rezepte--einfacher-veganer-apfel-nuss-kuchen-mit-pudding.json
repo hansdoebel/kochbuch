@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/einfacher-veganer-apfel-nuss-kuchen-mit-pudding",
+  "recipes": [
+    {
+      "name": "Einfacher Veganer Apfel-Nuss-Kuchen mit Pudding",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/einfacher-veganer-apfel-nuss-kuchen-mit-pudding",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/einfacher-veganer-apfel-nuss-kuchen-mit-pudding#recipe-c8929495-f482-459f-9bc2-2f5a4c791a02",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Springform (Ø 26 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT95M",
+      "ingredients": [
+        "Für den Mürbe- und Streuselteig:",
+        "400 g Weizenmehl (Type 550)",
+        "125 g gemahlene Nüsse",
+        "100 g Rohrohrzucker",
+        "1 Prise Salz",
+        "250 g vegane Butter (kalt)",
+        "ca. 50 g gestiftete oder gehackte Nüsse",
+        "Für die Puddingschicht:",
+        "74 g (2 Packungen) Vanillepuddingpulver",
+        "750 ml Sojamilch",
+        "4 EL Zucker",
+        "Für die Apfelschicht:",
+        "1 kg Äpfel",
+        "1 Zitrone (Saft)",
+        "Außerdem:",
+        "Puderzucker zum Servieren"
+      ],
+      "instructions": [
+        "Für den Teig zuerst Mehl, gemahlene Nüsse, Zucker und Salz vermengen. Kalte vegane Butter dazugeben und am besten mit kalten Händen in die Mehlmischung einarbeiten, bis ein Streuselteig entsteht. Nur bei Bedarf kaltes Wasser dazugeben.",
+        "Den Mürbeteig aufteilen und circa zwei Drittel davon in einer mit Backpapier ausgelegten oder einer gefetteten und bemehlten Springform am Boden und am Rand der Form verteilen. In den restlichen Teig gestiftete oder gehackte Nüsse geben und beides in den Kühlschrank stellen, bis die restlichen Komponenten fertig sind.",
+        "Für den Pudding zunächst das Puddingpulver mit Zucker vermengen und in einem kleinen Teil der Sojamilch glattrühren. Die restliche Sojamilch aufkochen lassen, danach vom Herd nehmen und die Pulvermischung gründlich einrühren. Nochmal erhitzen, bis der Pudding eine dickflüssige Konsistenz hat. Anschließend beiseitestellen und kurz abkühlen lassen.",
+        "Die Äpfel schälen, entkernen und in kleine Stücke schneiden. Danach in einer Schüssel mit Zitronensaft beträufeln, vermengen und beiseitestellen.",
+        "Den Backofen auf 180 °C (Ober-/Unterhitze) vorheizen. Die Springform mit dem Mürbeteig aus dem Kühlschrank holen und den Teig mehrfach mit einer Gabel einstechen. Danach den Pudding in der Form verteilen und nun die Apfelstückchen darauf verteilen und vorsichtig in den Pudding drücken. Zum Schluss den restlichen Teig als Streusel auf dem Kuchen verteilen.",
+        "Den Apfelkuchen bei 180 °C (Ober-/Unterhitze) circa 50 Minuten backen. Aus dem Ofen nehmen und komplett abkühlen lassen, damit die Puddingschicht fest wird. Erst danach mit Puderzucker bestreuen und anschneiden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

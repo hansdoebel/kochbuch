@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/the-best-all-purpose-stir-fry-sauce-2659",
+  "recipes": [
+    {
+      "name": "The Best All-Purpose Stir Fry Sauce!",
+      "source_url": "https://www.pickuplimes.com/recipe/the-best-all-purpose-stir-fry-sauce-2659",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "½ cup water",
+        "½ cup reduced-sodium soy sauce",
+        "2 Tbsp agave syrup",
+        "2 Tbsp rice vinegar",
+        "1 Tbsp cornstarch",
+        "2 tsp toasted sesame oil",
+        "2 tsp grated fresh ginger",
+        "2 garlic clove",
+        "1 vegetable bouillon cube"
+      ],
+      "instructions": [
+        "Add all the ingredients to a jar.",
+        "Mix well, then use in your favourite stir-fry!",
+        "Let the sauce cook at a gentle simmer for 2 to 3 minutes so it thickens before enjoying."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store well-sealed in the fridge for up to 4 days."
+  ]
+}

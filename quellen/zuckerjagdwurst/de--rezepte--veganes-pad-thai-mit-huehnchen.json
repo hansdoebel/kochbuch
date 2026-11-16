@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-pad-thai-mit-huehnchen",
+  "recipes": [
+    {
+      "name": "Veganes Pad Thai mit „Hühnchen“",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-pad-thai-mit-huehnchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-pad-thai-mit-huehnchen#recipe-c973381c-bd98-5ae2-8bf7-d4eceefc13c8",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "400 g Reisbandnudeln",
+        "2 Frühlingszwiebeln",
+        "1-2 Chilischoten (je nach Schärfewunsch)",
+        "2 Knoblauchzehen",
+        "1 daumengroßes Stück frischer Ingwer",
+        "2 Karotten",
+        "100 g Prinzessinnenbohnen (gegart)",
+        "360 g vegane Filetstücken Hähnchen-Art (z.B. von Like Meat)",
+        "100 g Erdnüsse",
+        "Erdnussöl zum Anbraten",
+        "Soße",
+        "10 EL Sojasauce",
+        "3 EL Agavendicksaft",
+        "5 EL Reisessig",
+        "2 TL Sriracha",
+        "2 Limetten",
+        "Topping",
+        "1 Limette",
+        "1 Frühlingszwiebel",
+        "50 g Erdnüsse",
+        "10 g frischer Koriander",
+        "Mungbohnensprossen"
+      ],
+      "instructions": [
+        "Die Reisbandnudeln nach Packungsanleitung zubereiten.",
+        "Die Frühlingszwiebeln und Chili waschen und in Ringe schneiden und den Ingwer und Knoblauch schälen und fein würfeln.",
+        "Die schon vorgegarten Bohnen und Karotten waschen, die Enden entfernen und die Karotte in Stifte schneiden.",
+        "> Tipp: Rohe Bohnen sollten etwa 10–15 Min. gebraten werden, damit der Giftstoff Phasin nicht mehr vorhanden ist. Wir empfehlen vorgekochte Bohnen.",
+        "In einer kleinen Schüssel alle Zutaten für die Soße vermengen.",
+        "In einer hohen Pfanne oder einem Wok 2 EL Erdnussöl erhitzen.",
+        "Frühlingszwiebeln, Knoblauch, Chili, Ingwer, das vegane Hühnchen, Karotten und Bohnen darin 5-6 Minuten anbraten.",
+        "Wenn die veganen Filetstücken Hähnchen-Art schön braun geworden sind, die Reisbandnudeln, die Erdnüsse und die Soße hinzugeben und gut vermengen.",
+        "Das ganze für 2-3 Minuten braten und im Anschluss mit frischem Limettensaft, Koriander, Mungbohnensprossen, Frühlingszwiebeln und gehackten Erdnüssen servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

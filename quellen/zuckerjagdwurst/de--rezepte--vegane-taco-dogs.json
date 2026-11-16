@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-taco-dogs",
+  "recipes": [
+    {
+      "name": "Vegane Taco Dog",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-taco-dogs",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-taco-dogs#recipe-64a8f7fa-e18c-54db-a7d8-8a8468bcd111",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Taco Dogs",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "6 weiche Tacos",
+        "6 große vegane Würstchen",
+        "etwa 300g Sauerkraut",
+        "12 kleine Gewürzgurken",
+        "1 Handvoll Röstzwiebeln",
+        "3 EL Senfkörner",
+        "1 Handvoll Walnüsse",
+        "FÜR DAS TOPPING",
+        "150 g vegane Mayo",
+        "3 EL süßer Senf",
+        "3 EL mittelscharfer Senf"
+      ],
+      "instructions": [
+        "Brutzelt die veganen Würstchen kurz in einer Pfanne mit etwas Öl an, damit sie schön kross sind.",
+        "Verrührt die vegane Mayo mit süßem Senf - natürlich könnt ihr auch noch mehr dazugeben, wenn es euch noch nicht „senfig“ genug ist.",
+        "Hackt die Walnüsse grob. Schneidet die Gewürzgurken in Scheiben.",
+        "Und so schnell kann's auch schon losgehen: Bestreicht euren Taco mit veganer Süßer-Senf-Mayo und belegt ihn danach mit Sauerkraut, veganen Würstchen und Gewürzgurken. Toppt das ganze mit Walnüssen, Senfkörnern, Röstzwiebeln und einer schönen Senf-Linie.",
+        "Tipp: Wenn das Rezept nussfrei sein soll, dann lasst die Walnüsse einfach weg."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

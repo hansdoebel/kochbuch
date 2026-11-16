@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/beetroot-quinoa-salad-with-an-orange-ginger-dressing-278",
+  "recipes": [
+    {
+      "name": "Beetroot Quinoa Salad with Orange Ginger Dressing",
+      "source_url": "https://www.pickuplimes.com/recipe/beetroot-quinoa-salad-with-an-orange-ginger-dressing-278",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT20M",
+      "cook_time": "PT15M",
+      "total_time": "PT35M",
+      "ingredients": [
+        "½ cup quinoa",
+        "1 cup vegetable broth",
+        "1½ cup cooked chickpeas",
+        "3 cup arugula",
+        "1 orange",
+        "2 cooked beet",
+        "1½ orange",
+        "2 garlic clove",
+        "¼ cup tahini",
+        "2 tsp grated fresh ginger",
+        "1 pinch ground black pepper"
+      ],
+      "instructions": [
+        "Add the quinoa and broth to a saucepan. Bring to a boil, reduce to a simmer, cover and cook for 15 minutes. Then remove the heat and keep covered.",
+        "Make the dressing by adding all the ingredients to a bowl. Mix well.",
+        "Transfer the dressing to to the saucepan with the quinoa, and add the chickpeas as well. Toss to combine.",
+        "To serve, start with the arugula as a base, top with quinoa and chickpea mixture, and garnish with the orange slices and roasted beetroots. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † For us, 2 cooked beets weighed about 250g.",
+    "Storage Best to assemble and dress the salad before enjoying. If saving for later, store the dressing separate from the other components of the salad. Keep in airtight container s in the fridge for up to 2 days. Once assembled, store in an airtight container in the fridge for up to a day."
+  ]
+}

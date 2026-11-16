@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/broccoli-salad-482",
+  "recipes": [
+    {
+      "name": "Broccoli Salad",
+      "source_url": "https://www.pickuplimes.com/recipe/broccoli-salad-482",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT15M",
+      "cook_time": "",
+      "total_time": "PT15M",
+      "ingredients": [
+        "1 medium broccoli",
+        "⅓ cup dried cranberries",
+        "⅓ cup toasted pine nuts",
+        "½ medium shallot",
+        "1 avocado",
+        "½ cup unsweetened soy yogurt",
+        "¼ cup vegan mayonnaise",
+        "3 Tbsp apple cider vinegar",
+        "2 Tbsp maple syrup",
+        "1 tsp garlic powder",
+        "¼ tsp smoked paprika powder",
+        "¼ tsp salt",
+        "¼ tsp ground black pepper"
+      ],
+      "instructions": [
+        "In a large bowl, combine the broccoli, cranberries, pine nuts, shallot, and avocado.",
+        "In a mason jar or small bowl, combine the dressing ingredients. Pour half the dressing over the salad and toss to coat.",
+        "Serve, with the remaining dressing on the side. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Quickly blanch the broccoli in boiling water if raw broccoli isn't your thing. † Nutrition tip: aim to use plant-based yogurt that is fortified with calcium .",
+    "Storage This salad can be prepared ahead of time. The dressed salad holds up for 1 day in the fridge, but we suggest adding the avocado just before serving. The undressed salad without avocado can be stored separately from the dressing in airtight container s in the fridge for up to 3 days."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-moehren-bohnen-eintopf-wie-von-oma",
+  "recipes": [
+    {
+      "name": "Veganer Möhren-Bohnen-Eintopf wie von Oma",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-moehren-bohnen-eintopf-wie-von-oma",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-moehren-bohnen-eintopf-wie-von-oma#recipe-8190edb6-d548-466c-8d78-a285c18656cf",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "200 g grüne Bohnen",
+        "2 Zwiebeln",
+        "8 Karotten (ca. 500 g)",
+        "6 Kartoffeln (ca. 650 g)",
+        "400 g Räuchertofu (optional)",
+        "1 EL Sojasoße (optional)",
+        "800 ml Gemüsebrühe",
+        "2 EL (oder 4 frische Zweige) Bohnenkraut",
+        "2 Lorbeerblätter",
+        "3 Thymianzweige",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "neutrales Pflanzenöl zum Braten"
+      ],
+      "instructions": [
+        "Grüne Bohnen putzen, die Enden kürzen und die Bohnen falls nötig halbieren, wenn sie sehr lang sind. Zwiebeln schälen und in kleine Würfel schneiden. Karotten und Kartoffeln falls nötig schälen. Die Karotten in Scheiben und die Kartoffeln in mundgerechte Stücke schneiden. Falls ihr ihn verwendet, Räuchertofu in Würfel schneiden.",
+        "Pflanzenöl in einem großen Topf erhitzen und zuerst den Räuchertofu darin kräftig anbraten, bis er gut gebräunt ist. Mit Sojasoße ablöschen. Die Zwiebelwürfel dazugeben und 2–3 Minuten bei kleiner Hitze anschwitzen, bis sie glasig sind. Karotten und Kartoffeln dazugeben, mit Salz und Pfeffer würzen und alles zusammen 5–10 Minuten anbraten.",
+        "Alles im Topf mit Gemüsebrühe auffüllen und einmal aufkochen lassen. Grüne Bohnen, sowie Bohnenkraut, Lorbeerblätter und Thymianzweige dazugeben. Die Hitze reduzieren und den Eintopf bei mittlerer Hitze und geschlossenem Deckel circa 15 Minuten köcheln lassen, bis das Gemüse weich ist. Bei Bedarf mehr Gemüsebrühe dazugeben.",
+        "Vor dem Servieren die Lorbeerblätter und Thymian- und Bohnenkrautzweige aus dem Eintopf nehmen und den Eintopf kräftig mit Salz, Pfeffer und Muskat abschmecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-breakfast-sandwich",
+  "recipes": [
+    {
+      "name": "Veganes Breakfast Sandwich",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-breakfast-sandwich",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-breakfast-sandwich#recipe-5a3dad8e-66aa-594b-905a-a394164b4d5f",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Sandwiches",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "2 Englische Muffins",
+        "2 Tomaten",
+        "1 EL Olivenöl",
+        "1 Knoblauchzehe",
+        "4 EL veganer Frischkäse",
+        "Sprossen",
+        "Sriracha (optional)",
+        "Salz",
+        "Pfeffer",
+        "Für den Tempeh-Bacon",
+        "100 g Tempeh",
+        "1 EL Sojasauce",
+        "1 EL Liquid Smoke",
+        "0.5 EL Ahornsirup",
+        "0.5 TL Senf",
+        "Pflanzenöl zum Braten",
+        "Für die „Ei-Pattys“",
+        "200 g Seidentofu",
+        "6 EL Kichererbsenmehl",
+        "100 ml vegane Sahne",
+        "1 EL Stärke",
+        "1 TL Kala Namak",
+        "1 TL Kurkuma",
+        "vegane Butter zum Braten"
+      ],
+      "instructions": [
+        "Backofen auf 180°C vorheizen. Die Tomaten in dickere Scheiben schneiden, den Strunk dabei auslassen oder rausschneiden. Knoblauchzehe fein hacken. Die Scheiben in eine Auflaufform oder in ein tiefes Backblech legen, mit Olivenöl beträufeln, mit Knoblauchstückchen bestreuen und mit Salz und Pfeffer würzen. Anschließend ca. 15 Minuten im Ofen rösten und dann herausnehmen.",
+        "In der Zwischenzeit den Tempeh in dünne Scheiben schneiden und alle Zutaten für die Marinade in einer Schüssel zusammenrühren. Die Tempehscheiben 5 Minuten darin liegen lassen und anschließend in einer Pfanne mit Pflanzenöl von beiden Seiten knusprig und braun anbraten.",
+        "Für die „Eiweißbasis“ Seidentofu, 5 EL Kichererbsenmehl (nicht ganz alles, es sollte noch ein kleiner Rest über bleiben), vegane Sahne, Stärke und Kala Namak in einem hohen Gefäß pürieren. Anschließend mit Salz und Pfeffer würzen.",
+        "Ca. 3 EL der Mischung abnehmen und in einer kleinen Schüssel mit restlichen Kichererbsenmehl und Kurkuma vermengen - das ist unsere „Eigelb“-Mischung.",
+        "Falls ihr sie verwendet, solltet ihr die Dessertringe gut einfetten. Anschließend vegane Butter in einer Pfanne über kleiner bis mittlerer Hitze schmelzen und die Dessertringe in die Pfanne stellen. Ein paar Löffel der Seidentofubasis in die Dessertringe geben - max. 1 cm hoch, da es sonst passieren kann, dass sie nicht ganz durchbraten.",
+        "Nun können die Pattys braten, nach ca. 1 Minute gebt ihr einen Klecks der „Eigelbmischung“ auf die weiße Basis. Danach könnt ihr zusätzlich die Dessertringe mit einem Teller abdecken, damit der Seidentofu erstmal in Ruhe festigen kann. Sobald die Unterseite gebräunt ist und ihr merkt, dass die Tofumischung fest geworden ist, löst ihr das Patty vorsichtig aus dem Ring - evtl. müsst ihr mit einem Messer das Patty vom Rand lösen. Anschließend musst ihr es nur noch wenden und auch von der anderen Seite goldbraun braten. Falls ihr noch Tofumischung über habt, den Schritt wiederholen.",
+        "Zum Servieren werden die englischen Muffins getoastet. Beide Seiten mit Frischkäse bestreichen und den Breakfast Burger mit den Seidentofu-Pattys, Tempeh, gerösteteten Tomaten, Sriracha und Kresse belegen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

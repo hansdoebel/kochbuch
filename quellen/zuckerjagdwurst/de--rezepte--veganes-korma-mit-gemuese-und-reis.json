@@ -1,0 +1,67 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-korma-mit-gemuese-und-reis",
+  "recipes": [
+    {
+      "name": "Veganes Korma mit Gemüse und Reis",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-korma-mit-gemuese-und-reis",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-korma-mit-gemuese-und-reis#recipe-dd662c6a-2be9-5545-9e93-65490b24bebd",
+      "authors": [
+        "Gesine Fiedler"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für das Korma:",
+        "75 g Trockenschnetzel (z. B. von The Vegan Cow)",
+        "225 ml heiße Gemüsebrühe",
+        "1 Zwiebel",
+        "2 Knoblauchzehen",
+        "30 g Ingwer",
+        "200 g Karotten",
+        "300 g Blumenkohl",
+        "200 g TK-Bohnen",
+        "200 g grüne Tiefkühl-Erbsen",
+        "5 EL Kokosöl (aufgeteilt)",
+        "2 TL Salz",
+        "2 TL Paprikapulver",
+        "3 TL Currypulver",
+        "2 TL Garam Masala",
+        "2 TL Kardamom",
+        "2 TL Kurkuma",
+        "4 EL Agavendicksaft",
+        "4 EL Tomatenmark",
+        "500 ml vegane Sahne oder Kokosmilch",
+        "400 ml Gemüsebrühe",
+        "150 g veganer Joghurt",
+        "100 g Cashewkerne",
+        "Salz",
+        "Pfeffer",
+        "Für den Reis:",
+        "250 g Reis",
+        "Salz",
+        "Zum Servieren:",
+        "50 g Mandelscheiben",
+        "4 Zweige Koriander"
+      ],
+      "instructions": [
+        "Die Schnetzel mit heißer Gemüsebrühe übergießen und für etwa 10 Minuten ziehen lassen. In der Zwischenzeit Zwiebel, Knoblauch und Ingwer schälen und fein würfeln. Das restliche Gemüse waschen. Karotten schälen, halbieren und in Scheiben schneiden. Blumenkohl in kleine STücke schneiden. Die Tiefkühl-Erbsen und -Bohnen in einer Schale etwas antauen lassen.",
+        "Einen großen Topf gesalzenes Wasser erhitzen und Möhren, Blumenkohl, Bohnen und Erbsen circa 5 Minuten köcheln lassen. Danach durch ein Sieb abgießen und beiseitestellen.",
+        "Einen großen Topf gesalzenes Wasser erhitzen und den Reis nach Packungsanleitung zubereiten. Anschließend bis zum Servieren warm halten.",
+        "Nachdem die Schnetzel in der Gemüsebrühe einweichen konnten, die Flüssigkeit aus den Schnetzeln drücken. In einer großen, hohen Pfanne 2–3 Esslöffel Öl erhitzen und die Schnetzel darin etwa 5–10 Minuten anbraten, bis sie gut gebräunt sind. Anschließend aus der Pfanne nehmen.",
+        "In der Pfanne nochmals 2–3 Esslöffel Kokosöl erhitzen und nun Zwiebel, Ingwer und Knoblauch darin für 2–3 Minuten anschwitzen. Salz, Paprika- und Currypulver, Garam Masala, Kardamom und Kurkuma hinzugeben und 1–2 Minuten rösten. Agavendicksaft und Tomatenmark hinzugeben und weitere 1–2 Minuten anbraten. Mit veganer Sahne und Gemüsebrühe aufgießen und für 5 Minuten köcheln lassen. Nun die Soße pürieren und anschließend mit veganem Joghurt abschmecken.",
+        "Die Schnetzel und das gegarte Gemüse in die Soße geben und untermengen. Die Cashewkerne hacken und ebenfalls dazugeben. Abschmecken und nochmals aufkochen lassen.",
+        "Koriander fein hacken. Das Korma mit Reis servieren und mit Mandelscheiben und frischem Koriander garnieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

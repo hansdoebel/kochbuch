@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/berries-cream-instant-oatmeal-1025",
+  "recipes": [
+    {
+      "name": "Berries & Cream Instant Oatmeal",
+      "source_url": "https://www.pickuplimes.com/recipe/berries-cream-instant-oatmeal-1025",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT03M",
+      "total_time": "PT08M",
+      "ingredients": [
+        "⅓ cup quick-cooking oats",
+        "⅓ cup freeze-dried raspberries",
+        "1 Tbsp ground flaxseeds",
+        "1 Tbsp vanilla sugar",
+        "1 cup unsweetened soy milk",
+        "⅓ cup unsweetened coconut yogurt",
+        "½ cup fresh mixed berries"
+      ],
+      "instructions": [
+        "To a mason jar or airtight container, add the instant oats, freeze-dried berries, flaxseeds, and vanilla sugar.",
+        "Mix and store somewhere cool and dry until ready to use.",
+        "When ready to eat, transfer to a bowl and add the milk. Microwave on high (600 W) for 3 minutes, stirring once halfway. Alternatively, heat on the stove.",
+        "Add more milk for a thinner consistency if desired, or microwave for a few seconds longer for a thicker oatmeal.",
+        "Finish with the yogurt, berries, and any other desired toppings. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Make your own 'quick oats' by pulsing regular oats in the food processor. † Vanilla sugar is granulated sugar infused with vanilla beans, commonly used in European kitchens. It can easily be substituted with regular granulated sugar and a splash of vanilla extract. † Nutrition tip: aim to use plant-based milk that is fortified with calcium .",
+    "Storage The dry oatmeal mix can be stored in an airtight container on the counter, out of direct sunlight for up to 3 weeks. Once mixed with the plant milk, enjoy this oatmeal immediately hot, or leave it in the fridge and have it the next morning as overnight oats."
+  ]
+}

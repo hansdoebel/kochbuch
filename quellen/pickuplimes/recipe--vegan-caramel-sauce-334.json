@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vegan-caramel-sauce-334",
+  "recipes": [
+    {
+      "name": "Vegan Caramel Sauce",
+      "source_url": "https://www.pickuplimes.com/recipe/vegan-caramel-sauce-334",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT10M",
+      "total_time": "PT15M",
+      "ingredients": [
+        "⅓ cup unsalted margarine",
+        "⅓ cup light brown sugar",
+        "⅓ cup coconut cream",
+        "2 Tbsp maple syrup",
+        "¼ tsp salt",
+        "¼ tsp pure vanilla extract"
+      ],
+      "instructions": [
+        "In a saucepan, combine all the ingredients (except for the vanilla). Stir continuously while you bring it to a boil, then reduce to a simmer, cooking uncovered for 8 to 10 minutes to allow the sauce to thicken. Stir occasionally to prevent burning.",
+        "Remove the pan from the heat and stir in the vanilla extract. Allow the caramel sauce to sit and cool; it will continue to thicken as it cools, and thickens even more once refrigerated. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Coconut cream is the thick part from the top of a can of coconut milk. It can help to separate this layer by refrigerating the can in the fridge overnight. We recommend using coconut milk that has no emulsifier (such as guar gum) in the ingredient list for a more desirable end-result consistency.",
+    "Storage Store in an airtight container in the fridge for up to 4 days."
+  ]
+}

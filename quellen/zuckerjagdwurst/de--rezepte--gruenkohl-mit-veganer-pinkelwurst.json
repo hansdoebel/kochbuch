@@ -1,0 +1,69 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gruenkohl-mit-veganer-pinkelwurst",
+  "recipes": [
+    {
+      "name": "Grünkohl mit veganer Pinkelwurst",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gruenkohl-mit-veganer-pinkelwurst",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gruenkohl-mit-veganer-pinkelwurst#recipe-c3968fe3-8fa2-5b87-8acc-9ea27b5c3243",
+      "authors": [
+        "Anne-Sophie Hoffmann"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "5 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT180M",
+      "ingredients": [
+        "Für den Grünkohl:",
+        "1 kg frischer Grünkohl",
+        "1 Zwiebel",
+        "200 g Räuchertofu",
+        "2 EL Zwiebelschmalz",
+        "2 EL vegane Butter",
+        "350 ml Gemüsebrühe",
+        "100 g zarte Haferflocken / Hafergrütze",
+        "2 EL Senf",
+        "Salz",
+        "Pfeffer",
+        "Für die vegane Pinkelwurst:",
+        "280 g zarte Haferflocken / Hafergrütze (aufgeteilt)",
+        "300 ml Gemüsebrühe",
+        "1 Zwiebel",
+        "1 EL vegane Butter",
+        "200 g Räuchertofu",
+        "1 Tropfen rote Lebensmittelfarbe",
+        "0.5 TL Rauchsalz",
+        "0.5 TL Pfeffer",
+        "0.5 TL gemahlenes Piment",
+        "0.5 TL gemahlene Nelken",
+        "1 TL Muskat",
+        "2 EL Tomatenmark",
+        "1 EL Senf",
+        "1 TL Liquid Smoke",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "1 kg Kartoffeln",
+        "Senf"
+      ],
+      "instructions": [
+        "Die Grünkohlblätter vom harten Strunk abzupfen, waschen und klein schneiden. Zwiebel und Räuchertofu in kleine Würfel schneiden.",
+        "Zwiebelschmalz mit veganer Butter in einem großen Topf erhitzen und zuerst Zwiebel und Tofu darin kurz anbraten. Danach den Grünkohl dazugeben. Alles mit Gemüsebrühe ablöschen und mit Salz und Pfeffer würzen. Den Grünkohl circa 1 Stunde köcheln lassen.",
+        "Parallel dazu für die vegane Pinkel zunächst 150 Gramm der zarten Haferflocken mit der Gemüsebrühe einmal aufkochen lassen. Danach den Herd ausstellen und circa 20 Minuten quellen lassen.",
+        "In der Zwischenzeit die Zwiebel für die vegane Pinkel schälen und fein würfeln. Vegane Butter in einer Pfanne erhitzen und die Zwiebelwürfel darin circa 5 Minuten bei kleiner Hitze anschwitzen, bis sie glasig sind.",
+        "Die angeschwitzten Zwiebelwürfel zusammen mit Räuchertofu in einem Zerkleinerer mixen, bis die Masse faserig ist. Rote Lebensmittelfarbe, Rauchsalz, Pfeffer, Piment, Nelken, Muskat, Tomatenmark, Senf und Liquid Smoke zur Tofumischung geben und noch einmal mixen. Die Tofumischung mit den gequollenen Haferflocken verrühren. Damit die Masse stabiler wird, nun die restlichen trockenen Haferflocken dazugeben und alles gut vermengen. Bei Bedarf mehr trockene Haferflocken dazugeben.",
+        "Aus der Masse sechs Würstchen formen: Dafür circa 2 Esslöffel der Masse erst in einem kleinen Stück Backpapier einrollen und einwickeln und danach mit Alufolie umwickeln. Die Alufolie fest eindrehen, um die Enden gut zu verschließen. Die veganen Würstchen circa 30 Minuten kochen. Danach vorsichtig aus dem Papier lösen.",
+        "In der Zeit hat der Grünkohl lang genug geköchelt. Die Haferflocken dazustreuen und einen Deckel auf den Topf legen. Den Grünkohl weiter köcheln lassen. Wenn keine Flüssigkeit mehr zu sehen ist, etwas mehr Wasser dazugeben. Mit Senf, Salz und Pfeffer abschmecken. Nun die Pinkelwürste auf den Grünkohl legen. Alles nochmals 30 Minuten mit geschlossenem Deckel köcheln lassen.",
+        "Parallel dazu Kartoffeln schälen und in einen Topf geben. Mit kaltem Wasser bedecken, salzen und circa 25 Minuten kochen, bis sie gar sind.",
+        "Grünkohl mit veganer Pinkel und Kartoffeln zusammen mit Senf servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

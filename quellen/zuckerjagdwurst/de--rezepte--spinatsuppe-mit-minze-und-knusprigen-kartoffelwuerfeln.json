@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/spinatsuppe-mit-minze-und-knusprigen-kartoffelwuerfeln",
+  "recipes": [
+    {
+      "name": "Spinatsuppe mit knusprigem Kartoffeltopping",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/spinatsuppe-mit-minze-und-knusprigen-kartoffelwuerfeln",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/spinatsuppe-mit-minze-und-knusprigen-kartoffelwuerfeln#recipe-d5a06305-a4c2-5e3f-9c26-a8e56ac09502",
+      "authors": [
+        "Isa Zucker & Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 große Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "500 g vorwiegend weichkochende Kartoffeln",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "5 EL pflanzliches Öl",
+        "400 g Spinat",
+        "280 g Erbsen",
+        "15 g Minze",
+        "1 l Gemüsebrühe",
+        "150 ml Kokosmilch",
+        "Salz, Pfeffer, gemahlene Muskatnuss",
+        "schwarzer Sesam"
+      ],
+      "instructions": [
+        "Die Kartoffeln waschen und bürsten (wer will, kann sie auch schälen). Eine Hälfte in kleine Würfel schneiden, die andere Hälfte nur grob zerkleinern.",
+        "Eine Zwiebel und eine Knoblauchzehe schälen und klein schneiden.",
+        "Den Spinat waschen und bei großen Blättern den Strunk etwas entfernen. Die Minze vom Strunk abzupfen und waschen.",
+        "Einen großen Topf mit 3 EL Öl erhitzen und die groben Kartoffelstücke für 3-4 Minuten darin golden braten. Nun die Zwiebel und die Knoblauchzehe hinzugeben und für weitere 1-2 Minuten mit anbraten. Gut salzen und pfeffern.",
+        "Die Erbsen und die Minze dazugeben sowie die Brühe. Alles verrühren und aufkochen.",
+        "Den Spinat ebenfalls dazugeben und 10 - 15 Minuten köcheln lassen.",
+        "So lange köcheln lassen, bis die Kartoffeln gar sind. Nun glatt pürieren, die Kokosmilch hinzugeben und mit Muskat, Salz & Pfeffer abschmecken.",
+        "Die kleinen Kartoffelwürfel in einer Pfanne mit 2 EL Öl anbraten, bis sie knusprig sind. Gut salzen und pfeffern.",
+        "Die Suppe mit Kartoffelwürfeln, Minzblättern, etwas Kokosnussmilch und Sesam servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

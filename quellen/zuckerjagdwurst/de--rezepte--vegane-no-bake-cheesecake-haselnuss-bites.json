@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-no-bake-cheesecake-haselnuss-bites",
+  "recipes": [
+    {
+      "name": "Vegane No Bake Cheesecake-Haselnuss-Bites",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-no-bake-cheesecake-haselnuss-bites",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-no-bake-cheesecake-haselnuss-bites#recipe-22e73e15-5023-55a9-a887-a2c89ffc5718",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "49 Stück (3x3 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "Für den Haselnussboden:",
+        "220 g Manner Knuspino Haselnuss",
+        "100 g vegane Butter",
+        "80 g ganze Haselnüsse",
+        "1 Prise Salz",
+        "Für die vegane Cheesecake-Creme:",
+        "150 ml vegane Sahne zum Aufschlagen",
+        "8 g (2 TL) Sahnesteif",
+        "8 g (1.5 TL) Vanillezucker",
+        "400 g veganer Quark (Natur)",
+        "150 g veganer Frischkäse",
+        "50 g Agavendicksaft",
+        "1 Vanilleschote",
+        "0.5 Zitrone (Saft)",
+        "Außerdem:",
+        "Zartbitterschokolade zum Dekorieren"
+      ],
+      "instructions": [
+        "Für den Haselnussboden die vegane Butter schmelzen und gemeinsam mit den Manner Knuspino Haselnuss, ganzen Haselnusskernen und Salz in einem Zerkleinerer zu fein gemahlenen Flocken verarbeiten.",
+        "Eine viereckige Form (21x21 cm, mindestens 4 cm hoch) mit Backpapier auslegen und den Haselnussmix hineinfüllen. Mit einem Löffel fest andrücken, sodass ein glatter Boden entsteht. Die Form bei Zimmertemperatur beiseitestellen, bis die Creme fertig ist.",
+        "Für die Cheesecake-Creme die vegane Sahne mit Sahnesteif und Vanillezucker aufschlagen. Mit veganem Quark, veganem Frischkäse, Agavendicksaft, dem Mark einer Vanillschote und Zitronensaft in einer großen Schüssel glatt rühren. Die Creme abschmecken, auf dem Haselnussboden verteilen und glatt streichen. Die Form mindestens 1 Stunde einfrieren.",
+        "Nach der Gefrierzeit die Form aus dem Tiefkühlschrank nehmen und mit einem Messer in 3x3 cm große Quadrate schneiden. Wenn die Creme zu weich wird, die Bites zwischendurch wieder einfrieren.",
+        "Zartbitterschokolade schmelzen und die Bites damit verzieren. Danach bis zum Servieren wieder einfrieren.",
+        "Tipp: Die Bites benötigen nur wenige Minuten bei Raumtemperatur, bis sie weich genug zum Essen sind. Lasst sie also nicht zu lange draußen stehen, sonst werden sie zu weich."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-sauce-hollandaise",
+  "recipes": [
+    {
+      "name": "Vegane Sauce Hollandaise",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-sauce-hollandaise",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-sauce-hollandaise#recipe-edb22596-13cb-5a3e-9341-63ab366b3cc8",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen (ca. 280 ml)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "4 EL vegane Butter",
+        "2 EL Mehl",
+        "100 ml Gemüsebrühe",
+        "100 ml vegane Kochsahne",
+        "1 EL veganer Weißwein",
+        "1 TL Senf",
+        "1 TL Zitronensaft",
+        "Salz",
+        "weißer Pfeffer"
+      ],
+      "instructions": [
+        "2 Esslöffel vegane Butter in einem Topf schmelzen lassen und Mehl gründlich einrühren, damit nichts klumpt.",
+        "Mit Gemüsebrühe aufgießen und dabei immer schön weiterrühren. Das Ganze kurz und sanft aufkochen lassen, danach die Hitze herunterdrehen und kurz abkühlen lassen. Sojasahne, Weißwein, zwei Esslöffel vegane Butter, Senf und Zitronensaft dazugeben. Mit Salz und weißem Pfeffer abschmecken.",
+        "Tipp: Wenn sich eure Sauce Hollandaise trennt, dann wurde sie wahrscheinlich zu stark erhitzt. Oben im Text haben wir einige Tricks, wie sich die Soße ganz fix wieder verbindet.",
+        "Die Sauce Hollandaise nach Wunsch noch etwas eindicken lassen, bis die gewünschte Konsistenz erreicht ist. Nochmals abschmecken und direkt servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

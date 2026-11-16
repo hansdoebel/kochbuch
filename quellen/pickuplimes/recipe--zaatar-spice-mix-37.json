@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/zaatar-spice-mix-37",
+  "recipes": [
+    {
+      "name": "Za'atar Spice Mix",
+      "source_url": "https://www.pickuplimes.com/recipe/zaatar-spice-mix-37",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "16 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "2 Tbsp dried thyme",
+        "2 Tbsp dried oregano",
+        "2 Tbsp ground cumin",
+        "2 Tbsp ground coriander",
+        "2 Tbsp toasted sesame seeds",
+        "2 Tbsp ground sumac",
+        "1 tsp salt",
+        "1 tsp chili flakes",
+        "1 tsp ground black pepper"
+      ],
+      "instructions": [
+        "Add all the spices into a small jar, mix, and you're good to go!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Keep in a sealed glass jar away from direct sunlight for months, just like regular spices."
+  ]
+}

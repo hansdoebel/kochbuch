@@ -1,0 +1,93 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/gulmuchim",
+  "recipes": [
+    {
+      "name": "Seasoned Fresh Oysters (Gulmuchim: 굴무침)",
+      "source_url": "https://www.maangchi.com/recipe/gulmuchim",
+      "recipe_id": "/recipe/gulmuchim#sso/recipe/75798",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "4 ounce fresh cleaned shucked oyster (about 2 dozen)",
+        "1 garlic clove, minced",
+        "1 green onion, chopped",
+        "1 tablespoon soy sauce",
+        "1 tablespoon Korean hot pepper flakes (gochugaru)",
+        "¼ teaspoon sugar",
+        "2 teaspoons toasted sesame oil",
+        "2 teaspoons toasted sesame seeds"
+      ],
+      "instructions": [
+        "Combine oysters, garlic, green onion, soy sauce, hot pepper flakes, sugar, toasted sesame oil, and sesame seeds in a bowl and mix well with a wooden spoon.",
+        "Transfer to a plate and serve with rice."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 2"
+        },
+        {
+          "tag": "li",
+          "text": "4 ounce fresh cleaned shucked oyster (about 2 dozen)"
+        },
+        {
+          "tag": "li",
+          "text": "1 garlic clove, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 green onion, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon Korean hot pepper flakes (gochugaru)"
+        },
+        {
+          "tag": "li",
+          "text": "¼ teaspoon sugar"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons toasted sesame seeds"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Combine oysters, garlic, green onion, soy sauce, hot pepper flakes, sugar, toasted sesame oil, and sesame seeds in a bowl and mix well with a wooden spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer to a plate and serve with rice."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/ube-bubble-tea-1016",
+  "recipes": [
+    {
+      "name": "Ube Bubble Tea",
+      "source_url": "https://www.pickuplimes.com/recipe/ube-bubble-tea-1016",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT07M",
+      "cook_time": "PT12M",
+      "total_time": "PT19M",
+      "ingredients": [
+        "2 Tbsp loose-leaf black tea",
+        "1 cup boiling water",
+        "½ cup quick-cooking tapioca pearls",
+        "¼ cup maple syrup",
+        "¼ cup sweetened ube spread",
+        "¼ cup unsweetened soy milk",
+        "1 cup crushed ice",
+        "1¼ cup unsweetened soy milk"
+      ],
+      "instructions": [
+        "Steep the tea in the boiling water for 5 minutes.",
+        "Cook the tapioca pearls according to the package directions. For us, this took 5 minutes.",
+        "When cooked, drain the pearls, and rinse under cold water. Transfer to a container and add the maple syrup.",
+        "Mix the ube spread with a splash of the milk in a small bowl to thin it out a bit.",
+        "To assemble, divide the pearls between the glasses. Add the ube mixture over the pearls.",
+        "Then add ice, milk, and top with the tea.",
+        "Stir well and taste test. Different brands of ube spread vary in sweeteness, so add more thinned-out ube spread to taste if desired. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium .",
+    "Storage This bubble tea is best enjoyed immediately."
+  ]
+}

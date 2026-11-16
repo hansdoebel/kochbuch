@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/saftige-vegane-schokoladenbrownies",
+  "recipes": [
+    {
+      "name": "Vegane saftige Schokoladenbrownies",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/saftige-vegane-schokoladenbrownies",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/saftige-vegane-schokoladenbrownies#recipe-1dd21522-5d58-5b06-acaf-f66247ed0211",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "9 Brownies (Backform: 20x25 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für den Teig:",
+        "200 g Weizenmehl (Type 405)",
+        "200 g Zucker",
+        "50 g Backkakao",
+        "200 g vegane Zartbitterschokolade (etwa 50 % Kakaoanteil)",
+        "100 g Apfelmus",
+        "100 ml Pflanzenöl",
+        "200 ml pflanzliche Milch",
+        "50 g dunkle Schokochips",
+        "Außerdem:",
+        "vegane Butter"
+      ],
+      "instructions": [
+        "Den Ofen auf 180 °C (Umluft) vorheizen. Mehl, Zucker und Kakaopulver in einer Schüssel vermischen.",
+        "Die Zartbitterschokolade im Wasserbad schmelzen. Anschließend die geschmolzene Schokolade, Apfelmus, Öl und pflanzliche Milch zu den trockenen Zutaten geben, gut unterrühren und in eine eingefettete Form (20 x 25 cm) geben.",
+        "Die Schokodrops gleichmäßig auf dem Teig verteilen und 25–30 Minuten im Ofen backen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

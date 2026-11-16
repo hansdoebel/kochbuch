@@ -1,0 +1,90 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pasta-mit-pistazienpesto-und-pilzen",
+  "recipes": [
+    {
+      "name": "Vegane Pasta mit Pistazienpesto & Pilzen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pasta-mit-pistazienpesto-und-pilzen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pasta-mit-pistazienpesto-und-pilzen#recipe-19d87d34-78e1-50c0-ab11-d5ee3ee5889f",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "500 g kurze Pasta",
+        "Pistaziencreme",
+        "125 ml Olivenöl",
+        "75 g Pistazien (ohne Schalen, gehackt)",
+        "15 g frischer Basilikum",
+        "15 g Hefeflocken",
+        "50 g Pekannüsse",
+        "1 Knoblauchzehe",
+        "1/2 Zitrone (Saft)",
+        "Salz & Pfeffer",
+        "Pilze",
+        "2 EL Olivenöl",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "200 g frische Champignon",
+        "100 g frische Shiitake",
+        "Salz & Pfeffer",
+        "optional: 2 Zweige Thymian",
+        "Servieren",
+        "frische Tomaten",
+        "Olivenöl",
+        "Pekannüsse",
+        "veganer Parmesan (Rezept auf dem Blog)"
+      ],
+      "instructions": [
+        "Pistazienpesto zubereiten",
+        "Knoblauchzehe schälen, Basilikum waschen, Zitrone halbieren und Saft auspressen.",
+        "Alle Zutaten für das Pistazienpesto in einen Zerkleinerer geben und zu einem Pesto verarbeiten. Nach Belieben abschmecken und mehr Olivenöl hinzugeben.",
+        "Einen Topf mit gesalzenem Wasser zum Kochen bringen und die Pasta nach Packungsanleitung abkochen. Etwas Pastawasser aufbewahren und anschließend das Pesto mit der Pasta vermengen. Nach Belieben mit Olivenöl und Pastawasser cremig rühren.",
+        "Pilze braten",
+        "Die Pilze mit einem feuchten Tuch gut säubern und die Stiele nach Bedarf zurück schneiden.",
+        "Zwiebel und Knoblauch schälen und würfeln.",
+        "Eine Pfanne mit Olivenöl erhitzen und Zwiebel und Knoblauch darin an schwitzen. Pilze hinzugeben, bis sie schön rösten.",
+        "Mit Salz und Pfeffer abschmecken und gegebenfalls Thymianzweige hinzugeben.",
+        "Die Pasta mit Pilzen, frischem Tomaten, Pekannüssen, gehackten Pistazien und veganem Parmesan servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Veganer Parmesan",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pasta-mit-pistazienpesto-und-pilzen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pasta-mit-pistazienpesto-und-pilzen#recipe-7cc00455-45ac-5abf-ad76-298521fc2022",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "150 g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "100 g Cashewkerne",
+        "50 g gehackte Mandeln",
+        "3 EL Hefeflocken",
+        "1 TL Salz",
+        "0.5 TL Knoblauchpulver"
+      ],
+      "instructions": [
+        "Alle Zutaten in einen Mixer geben und verarbeiten, bis eine fein gemahlene Mischung entsteht. Wenn dennoch ein paar größere Stücken übrig bleiben, ist das gar nicht schlimm.",
+        "Wenn du den Parmesan nicht sofort verwendet, solltest du ihn in einem Einweckglas aufbewahren. Danach kannst ihn über deine Pasta streuen oder für ein Pesto verwenden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

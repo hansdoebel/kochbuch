@@ -1,0 +1,114 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/dubu-jangajji",
+  "recipes": [
+    {
+      "name": "Dubu-jangajji (Tofu pickles)",
+      "source_url": "https://www.maangchi.com/recipe/dubu-jangajji",
+      "recipe_id": "/recipe/dubu-jangajji#sso/recipe/25830",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "2 package of tofu (36 ounces (1020 grams)",
+        "¾ cup soy sauce",
+        "3 dried shiitake mushrooms",
+        "⅓ cup distilled vinegar (apple or white vinegar)",
+        "1½ cup water",
+        "2 garlic cloves, sliced",
+        "1 apple, pit removed and sliced (or 2 tbs of sugar)",
+        "1 onion, sliced",
+        "cooking oil (vegetable oil, canola oil, etc)"
+      ],
+      "instructions": [
+        "Remove the tofu from the package. Drain and rinse.",
+        "Cube the tofu into bite sized pieces.",
+        "Heat up a pan over medium high heat and add a little cooking oil. Lightly dry off each tofu piece with a paper towel and pan fry until each side is golden brown.",
+        "Prepare the brine by putting the soy sauce, vinegar, garlic, apple, dried shiitake mushrooms, and water into a thick bottomed pot. Bring to a boil over medium high heat for 10 minutes, then turn down the heat to low and simmer for another 30 minutes. Strain with a strainer.",
+        "Put the fried tofu and the sliced onion into a container. Pour the strained brine over top, and add the cooked shiitake mushrooms.",
+        "To serve, put some of the tofu, brine, and onions into a serving bowl, along with some of the shiitake mushroom, chopped. Serve with rice or noodles. To eat, mix in some of the brine with your rice. Eat your rice and take a piece of tofu, mushroom or slice of onion from time to time, too."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "2 package of tofu (36 ounces (1020 grams)"
+        },
+        {
+          "tag": "li",
+          "text": "¾ cup soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "3 dried shiitake mushrooms"
+        },
+        {
+          "tag": "li",
+          "text": "⅓ cup distilled vinegar (apple or white vinegar)"
+        },
+        {
+          "tag": "li",
+          "text": "1½ cup water"
+        },
+        {
+          "tag": "li",
+          "text": "2 garlic cloves, sliced"
+        },
+        {
+          "tag": "li",
+          "text": "1 apple, pit removed and sliced (or 2 tbs of sugar)"
+        },
+        {
+          "tag": "li",
+          "text": "1 onion, sliced"
+        },
+        {
+          "tag": "li",
+          "text": "cooking oil (vegetable oil, canola oil, etc)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Remove the tofu from the package. Drain and rinse."
+        },
+        {
+          "tag": "li",
+          "text": "Cube the tofu into bite sized pieces."
+        },
+        {
+          "tag": "li",
+          "text": "Heat up a pan over medium high heat and add a little cooking oil. Lightly dry off each tofu piece with a paper towel and pan fry until each side is golden brown."
+        },
+        {
+          "tag": "li",
+          "text": "Prepare the brine by putting the soy sauce, vinegar, garlic, apple, dried shiitake mushrooms, and water into a thick bottomed pot. Bring to a boil over medium high heat for 10 minutes, then turn down the heat to low and simmer for another 30 minutes. Strain with a strainer."
+        },
+        {
+          "tag": "li",
+          "text": "Put the fried tofu and the sliced onion into a container. Pour the strained brine over top, and add the cooked shiitake mushrooms."
+        },
+        {
+          "tag": "li",
+          "text": "To serve, put some of the tofu, brine, and onions into a serving bowl, along with some of the shiitake mushroom, chopped. Serve with rice or noodles. To eat, mix in some of the brine with your rice. Eat your rice and take a piece of tofu, mushroom or slice of onion from time to time, too."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

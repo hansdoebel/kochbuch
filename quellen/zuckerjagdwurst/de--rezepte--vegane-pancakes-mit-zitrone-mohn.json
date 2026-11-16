@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pancakes-mit-zitrone-mohn",
+  "recipes": [
+    {
+      "name": "Vegane Hafer-Pancakes mit Zitrone & Mohn",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pancakes-mit-zitrone-mohn",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pancakes-mit-zitrone-mohn#recipe-7dfec77b-80de-52c9-8091-cc0fb3bf966d",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "10 Pancakes",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "300 ml Kölln Haferdrink",
+        "1 EL Apfelessig",
+        "140 g Blütenzarte Köllnflocken",
+        "150 g Weizen- oder Dinkelmehl",
+        "25 g brauner Zucker",
+        "4 g Backpulver",
+        "10 g Vanillezucker",
+        "1 Prise Salz",
+        "1 Zitrone (frischer Zitronensaft & Abrieb)",
+        "5 g Mohn",
+        "Toppings",
+        "100 ml Ahornsirup"
+      ],
+      "instructions": [
+        "Den Haferdrink in eine kleine Schüssel geben und mit dem Apfelessig vermischen. Für 10 Minuten ruhen lassen.",
+        "Die Haferflocken in einem Zerkleinerer zu Mehl verarbeiten. Die Zitrone heiß abwaschen.",
+        "In einer großen Schüssel die zerkleinerten Haferflocken, das Mehl, den Zucker, das Backpulver, den Vanillezucker, Salz, Mohn und den Abrieb der Zitrone vermischen.",
+        "Nun die pflanzliche Milch und den Saft einer Zitrone hinzugeben und zu einem Teig verrühren.",
+        "Eine beschichtete Pfanne erhitzen (ggf. mit etwas Öl) und den Teig nach und nach zu Pancakes verarbeiten.",
+        "Mit Ahornsirup servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

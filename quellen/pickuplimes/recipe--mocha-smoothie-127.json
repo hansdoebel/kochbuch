@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/mocha-smoothie-127",
+  "recipes": [
+    {
+      "name": "Mocha Smoothie",
+      "source_url": "https://www.pickuplimes.com/recipe/mocha-smoothie-127",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "1½ frozen banana",
+        "1 cup unsweetened oat milk",
+        "½ cup frozen chopped zucchini",
+        "¼ cup unsalted roasted cashews",
+        "3 Medjool date",
+        "1 Tbsp Dutch-process cocoa powder",
+        "2 Tbsp brewed espresso",
+        "½ tsp pure vanilla extract",
+        "½ cup vegan granola",
+        "½ cup fresh raspberries"
+      ],
+      "instructions": [
+        "Combine all ingredients in a high-speed blender and blend on high until smooth.",
+        "Pour into bowls and top with desired toppings."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium .",
+    "Storage Best to enjoy this smoothie immediately."
+  ]
+}

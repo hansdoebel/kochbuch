@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/sommersalat-mit-gegrilltem-pfirsich",
+  "recipes": [
+    {
+      "name": "Sommersalat mit gegrilltem Pfirsich",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/sommersalat-mit-gegrilltem-pfirsich",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/sommersalat-mit-gegrilltem-pfirsich#recipe-bf33eaa7-4c67-5bb7-ae44-80959031e09e",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "Für den Salat:",
+        "3 Pfirsiche",
+        "1 Gurke",
+        "1 Avocado",
+        "150 g Kirschtomaten",
+        "50 g Rucola",
+        "50 g Feldsalat",
+        "50 g Kürbiskerne",
+        "200 g veganer Fetakäse (optional)",
+        "Pflanzenöl zum Braten",
+        "Für die Vinaigrette:",
+        "3 EL Olivenöl",
+        "1 EL Balsamicoessig",
+        "1 TL Limettensaft",
+        "1 TL Ahornsirup",
+        "0.5 TL Senf",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "Kürbiskernöl"
+      ],
+      "instructions": [
+        "Gurke und Avocado in Scheiben oder mundgerechte Stücke schneiden. Kirschtomaten halbieren, Rucola und Feldsalat waschen und trocknen. Kürbiskerne in einer fettfreien Pfanne rösten.",
+        "Für die Vinaigrette Olivenöl, Balsamicoessig, Limettensaft, Ahornsirup und Senf verrühren und mit Salz und Pfeffer abschmecken.",
+        "Pfirsiche entkernen und in Spalten schneiden. Eine Grillpfanne mit etwas Pflanzenöl einfetten und die Pfirsichspalten von beiden Seiten ca. 3 Minuten anbraten, bis sie Grillstreifen bekommen.",
+        "Alle Salatzutaten auf einem großen Servierteller verteilen und mit der Vinaigrette vermengen. Die gegrillten Pfirsichspalten, geröstete Kürbiskerne und nach Wunsch auch veganen Fetakäse über dem Salat verteilen. Zum Schluss mit etwas Kürbiskernöl beträufeln."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

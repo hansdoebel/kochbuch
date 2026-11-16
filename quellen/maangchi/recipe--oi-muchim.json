@@ -1,0 +1,108 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/oi-muchim",
+  "recipes": [
+    {
+      "name": "Spicy cucumber salad side dish",
+      "source_url": "https://www.maangchi.com/recipe/oi-muchim",
+      "recipe_id": "/recipe/oi-muchim#sso/recipe/61108",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "Serves 4",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 English cucumber (or 2 to 3 kirby cucumbers), washed",
+        "¼ cup thinly sliced onion",
+        "1 green onion, chopped",
+        "2 garlic cloves, minced",
+        "2 tablespoons soy sauce",
+        "2 teaspoons Korean hot pepper flakes (gochugaru)",
+        "2 teaspoons sesame oil",
+        "2 teaspoons toasted sesame seeds",
+        "1 teaspoon sugar (optional)"
+      ],
+      "instructions": [
+        "Cut the cucumber lengthwise in half and cut diagonally into thin slices.",
+        "Put the cucumber into a large bowl. Add the onion, green onion, garlic, soy sauce, hot pepper flakes, toasted sesame oil, sesame seeds, and sugar.",
+        "Mix it well with a spoon until the sugar is well dissolved.",
+        "Serve as a side dish for rice, noodles, or BBQ."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 4"
+        },
+        {
+          "tag": "li",
+          "text": "1 English cucumber (or 2 to 3 kirby cucumbers), washed"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup thinly sliced onion"
+        },
+        {
+          "tag": "li",
+          "text": "1 green onion, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "2 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons Korean hot pepper flakes (gochugaru)"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons toasted sesame seeds"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon sugar (optional)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Cut the cucumber lengthwise in half and cut diagonally into thin slices."
+        },
+        {
+          "tag": "li",
+          "text": "Put the cucumber into a large bowl. Add the onion, green onion, garlic, soy sauce, hot pepper flakes, toasted sesame oil, sesame seeds, and sugar."
+        },
+        {
+          "tag": "li",
+          "text": "Mix it well with a spoon until the sugar is well dissolved."
+        },
+        {
+          "tag": "li",
+          "text": "Serve as a side dish for rice, noodles, or BBQ."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

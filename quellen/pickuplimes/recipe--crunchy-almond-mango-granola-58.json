@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/crunchy-almond-mango-granola-58",
+  "recipes": [
+    {
+      "name": "Crunchy Almond & Mango Granola",
+      "source_url": "https://www.pickuplimes.com/recipe/crunchy-almond-mango-granola-58",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "12 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT30M",
+      "total_time": "PT40M",
+      "ingredients": [
+        "2½ cup rolled oats",
+        "1 cup puffed quinoa",
+        "½ cup raw almonds",
+        "½ cup unsweetened shredded coconut",
+        "½ cup roasted pumpkin seeds",
+        "¼ cup light brown sugar",
+        "½ tsp ground cinnamon",
+        "¼ cup vegetable oil",
+        "¼ cup maple syrup",
+        "¼ cup almond butter",
+        "1 tsp pure vanilla extract",
+        "¼ tsp salt",
+        "½ cup dried mango",
+        "2 Tbsp hemp seeds"
+      ],
+      "instructions": [
+        "Line a baking tray and preheat the oven to 325°F (160°C)*.",
+        "Add all the dry ingredients to a large bowl and stir.",
+        "Add all the wet ingredients to a separate medium bowl. Whisk until it's all combined into a smooth caramel-like sauce.",
+        "Pour this wet mix over the dry mix, and stir until coated.",
+        "Transfer to a large lined baking tray and spread it out. Bake on the centre rack of the oven for 30 minutes, or until lightly golden. Stir once halfway.",
+        "Remove from the oven and allow it to cool. It continues to harden as it cools. Add mango and hemp seeds, and toss.",
+        "When completely cooled, transfer the granola to a storage container. Enjoy with fruit, and yogurt or milk!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Store in a large glass storage jar or airtight container on the counter for up to one month."
+  ]
+}

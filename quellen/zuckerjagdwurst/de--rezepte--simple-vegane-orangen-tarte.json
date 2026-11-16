@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/simple-vegane-orangen-tarte",
+  "recipes": [
+    {
+      "name": "Simple, vegane Orangen-Tarte",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/simple-vegane-orangen-tarte",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/simple-vegane-orangen-tarte#recipe-4ba5b0ad-5c8f-5a40-81b1-fb81d80eed8c",
+      "authors": [],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Tarte (∅ 28 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "Für den Mürbeteig:",
+        "250 g Weizenmehl Typ 405",
+        "75 g Zucker",
+        "125 g vegane Butter (kalt)",
+        "kaltes Wasser nach Bedarf",
+        "vegane Butter zum Einfetten",
+        "Für die Orangenfüllung:",
+        "100 ml Ahornsirup",
+        "150 ml Nuss- oder Sojamilch",
+        "300 ml Orangensaft (z. B. von Voelkel)",
+        "1 Orange (Abrieb)",
+        "1 Prise Salz",
+        "120 g vegane Butter",
+        "0.5 TL Kurkuma",
+        "40 g Speisestärke",
+        "40 ml Wasser",
+        "Für die Dekoration:",
+        "20 ml vegane Sahne zum Aufschlagen",
+        "1 Prise Vanillezucker",
+        "1 Prise Sahnesteif",
+        "1 Orange",
+        "Blaubeeren"
+      ],
+      "instructions": [
+        "Für den Mürbeteig Weizenmehl und Zucker in einer großen Schüssel vermischen. Kalte vegane Butter dazugeben und mit kalten Händen verkneten. Nach Bedarf etwas kaltes Wasser dazugeben, bis alle Zutaten zu einem geschmeidigen Teig vermengt sind. Den Teig mindestens 30 Minuten im Kühlschrank ruhen lassen.",
+        "Den Backofen auf 180°C (Umluft) vorheizen und eine Tarteform (∅ 28 cm) einfetten. Den Teig aus dem Kühlschrank nehmen und auf einer bemehlten Arbeitsfläche ausrollen, bis er so groß ist, dass er den Boden und Rand der Tarteform bedeckt. Den Teig in die Form legen und leicht am Boden und Rand festdrücken. Den überschüssigen Teig abschneiden. Mit einer Gabel mehrfach in den Teigboden piksen, damit keine Blasen beim Backen entstehen. Den Tarteboden ca. 15-20 Minuten backen, bis er goldbraun ist. Danach komplett auskühlen lassen.",
+        "Tipp: Das Ausrollen des Teigs funktioniert besonders gut zwischen zwei Backpapier-Blättern. So benötigt ihr kein weiteres Mehl und nichts bleibt am Nudelholz oder der Arbeitsfläche kleben.",
+        "In der Zwischenzeit die Orangenfüllung zubereiten. Dafür Ahornsirup, Nuss- oder Sojamilch und Orangensaft in einem kleinen Topf erhitzen, bis die Mischung köchelt. Den Abrieb einer Orange, Salz, vegane Butter und Kurkuma dazugeben und verrühren, bis die vegane Butter geschmolzen ist. Nun Speisestärke und Wasser in einem kleinen Gefäß glatt rühren, hinzugeben und dabei stetig rühren, damit keine Klumpen entstehen. Die Füllung sollte nun merkbar anziehen und cremig werden. Wenn die Masse doch klumpt, mithilfe eines Pürierstabs alles glatt pürieren.",
+        "Die Orangenfüllung vom Herd nehmen und etwa 5 Minuten abkühlen lassen. Sie sollte noch nicht fest werden, aber auch nicht mehr heiß sein. Die Füllung auf dem abgekühlten Boden gießen. Nach etwa 30 Minuten sollte die Füllung so fest sein, dass ihr die Tarte dekorieren könnt. Dafür vegane Schlagsahne mit Vanillezucker und Sahnesteif aufschlagen und die Sahne mithilfe einer Spritztülle in kleinen Tupfen auf der Tarte platzieren. Mit Orangenscheiben und Blaubeeren dekorieren. Im Kühlschrank hält sich der Kuchen bis zu 5 Tage."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": [
+        "authors"
+      ]
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

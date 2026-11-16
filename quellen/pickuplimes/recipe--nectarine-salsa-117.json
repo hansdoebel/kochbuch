@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/nectarine-salsa-117",
+  "recipes": [
+    {
+      "name": "Nectarine Salsa",
+      "source_url": "https://www.pickuplimes.com/recipe/nectarine-salsa-117",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT10M",
+      "ingredients": [
+        "3 nectarine",
+        "1 medium tomato",
+        "1 red bell pepper",
+        "½ small red onion",
+        "1 jalapeño",
+        "1 lime",
+        "2 Tbsp fresh cilantro",
+        "1½ Tbsp fresh mint leaves",
+        "1 pinch salt",
+        "1 pinch ground black pepper"
+      ],
+      "instructions": [
+        "Add all of the ingredients to a medium bowl.",
+        "Stir to combine, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Best enjoyed when freshly made. Store leftovers in an airtight container in the fridge for up to 2 days."
+  ]
+}

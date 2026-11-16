@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/knuspriger-kartoffelsalat-spargel-veganes-honig-senf-dressing",
+  "recipes": [
+    {
+      "name": "Knuspriger Kartoffelsalat mit Spargel und veganem Honig-Senf-Dressing",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/knuspriger-kartoffelsalat-spargel-veganes-honig-senf-dressing",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/knuspriger-kartoffelsalat-spargel-veganes-honig-senf-dressing#recipe-95e7875c-4c8c-5ab1-81b5-bd744987789e",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "Für die Kartoffeln:",
+        "1 kg kleine Kartoffeln",
+        "6 EL Olivenöl",
+        "2 EL Senf",
+        "1 EL edelsüßes Paprikapulver",
+        "1 Knoblauchzehe",
+        "Salz",
+        "Pfeffer",
+        "Für das vegane Honig-Senf-Dressing:",
+        "3 EL Olivenöl",
+        "2 EL Ahornsirup/Agavendicksaft",
+        "1 EL Apfelessig",
+        "2 EL Senf",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "400 g grüner Spargel",
+        "1 Gurke",
+        "1 rote Zwiebeln",
+        "20 g frischer Dill",
+        "Pinienkerne zum Servieren"
+      ],
+      "instructions": [
+        "Die Kartoffeln mit Schale in einen Topf geben, mit kaltem Wasser bedecken und salzen. Danach einmal aufkochen lassen und bei mittlerer Hitze circa 20 Minuten kochen lassen, bis sie weich sind. In der Zwischenzeit die Marinade aus Olivenöl, Senf, Paprikapulver, einer geriebenen Knoblauchzehe, Salz und Pfeffer anrühren.",
+        "Den Ofen auf 220 °C (Ober-/Unterhitze) vorheizen. Die Kartoffeln abgießen, auf ein Blech mit Backpapier legen und mit einem Glas, einem Topfboden oder Ähnlichem platt drücken. Von beiden Seiten mit der Marinade bestreichen. Die Kartoffeln 30–40 Minuten backen, bis sie braun und knusprig sind und nach der Hälfte der Backzeit wenden.",
+        "In der Zwischenzeit Pinienkerne zum Servieren in einer fettfreien großen Pfanne anrösten. Danach herausnehmen und beiseitestellen.",
+        "Die holzigen Enden der grünen Spargelstangen abschneiden und die restlichen Stangen in kleine Stücke schneiden. Etwas Öl in der Pfanne erhitzen und den Spargel darin 6–8 Minuten anbraten, anschließend salzen und pfeffern.",
+        "Parallel dazu die Gurke halbieren und klein schneiden. Die rote Zwiebel schälen und fein würfeln. Dill fein hacken. Für das Dressing Olivenöl, Agavendicksaft (oder Ahornsirup), Essig, Senf, Salz und Pfeffer verrühren.",
+        "Das geschnittene Gemüse, gehackten Dill, gebratenen Spargel, die knusprigen Kartoffeln und das vegane Honig-Senf-Dressing in eine große Schüssel geben und gut verrühren. Mit den gerösteten Pinienkernen bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

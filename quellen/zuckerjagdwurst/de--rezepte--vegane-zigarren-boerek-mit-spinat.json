@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-zigarren-boerek-mit-spinat",
+  "recipes": [
+    {
+      "name": "Vegane Zigarren-Börek mit Spinat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-zigarren-boerek-mit-spinat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-zigarren-boerek-mit-spinat#recipe-ccea5b4a-09f1-5ad9-ad57-c6be4f494463",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 20 Zigarren-Börek",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "1 Zwiebel",
+        "2 Knoblauchzehen",
+        "400 g frischer Babyspinat (oder Blattspinat)",
+        "3 EL pflanzliches Öl",
+        "4 EL pflanzlicher Joghurt",
+        "0.5 TL Muskatpulver",
+        "10–12 Yufkablätter (min. 1 Pck)",
+        "4 EL pflanzliche Milch",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Zwiebel und Knoblauch schälen und fein hacken. Den Spinat gegebenenfalls von dicken Stielen befreien und gründlich waschen.",
+        "Eine hohe Pfanne mit pflanzlichem Öl erhitzen und Zwiebel und Knoblauch darin anschwitzen. Den Spinat hinzugeben, mit geschlossenem Deckel 3–4 Minuten zusammenfallen lassen und mit Salz, Pfeffer und Muskat würzen. Den pflanzlichen Joghurt hinzugeben, abschmecken und vom Herd nehmen.",
+        "Die Yufkablätter gegebenenfalls halbieren, 1–2 EL der Füllung auf der kurzen Seite des Blattes verteilen und aufrollen. Mit allen Yufkablättern so vorgehen, bis die Füllung verbraucht ist. Alle Rollen auf einem Backblech mit Backpapier platzieren. Mit etwas pflanzlicher Milch bestreichen.",
+        "Die Zigarrenbörek für 15 Minuten bei 180 °C (Umluft) backen, bis sie knusprig-braun sind."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

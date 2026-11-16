@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/instant-thai-curry-noodle-soup-896",
+  "recipes": [
+    {
+      "name": "Instant Thai Curry Noodle Soup",
+      "source_url": "https://www.pickuplimes.com/recipe/instant-thai-curry-noodle-soup-896",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT05M",
+      "total_time": "PT15M",
+      "ingredients": [
+        "¼ cup coconut cream",
+        "1 Tbsp Thai green curry paste",
+        "1 garlic clove",
+        "3.951 oz firm tofu",
+        "¼ cup shredded red cabbage",
+        "½ medium carrot",
+        "¼ red bell pepper",
+        "1 vegetable bouillon cube",
+        "½ cup spinach",
+        "1.764 oz rice vermicelli noodles",
+        "2 cup boiling water"
+      ],
+      "instructions": [
+        "In a bowl, combine the coconut cream, Thai curry paste, and garlic.",
+        "Add the tofu and toss to coat.",
+        "If making a to-go meal, transfer the tofu to a mason jar or large heat-safe airtight container. If enjoying it right away, leave it in the bowl.",
+        "Layer the cabbage, carrot, and bell pepper over the tofu, and crumble the bouillon cube overtop. Then add the spinach and rice noodles.",
+        "Store until ready to eat.",
+        "When ready to eat, add the boiling water so that all the ingredients are fully submerged, and stir. Cover and let sit for 5 minutes to soften the noodles. If after this time the noodles are not softened enough to your liking, it could be that the veggies were cold or the water was not hot enough. In this case, consider microwaving or heating on the stove for 1 to 2 minutes.",
+        "Garnish with desired toppings and a squeeze of fresh lime. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † For this recipe, we prefer using the thick layer from the top of the can of coconut milk. If your coconut milk is smooth throughout, not to worry. Using that will also work. † Choose thin, quick-cooking vermicelli noodles. These ideally cook in about 2 minutes once boiling water is added."
+  ]
+}

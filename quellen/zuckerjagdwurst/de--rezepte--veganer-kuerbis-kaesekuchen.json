@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kuerbis-kaesekuchen",
+  "recipes": [
+    {
+      "name": "Veganer Kürbis-Käsekuchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kuerbis-kaesekuchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kuerbis-kaesekuchen#recipe-c5890e1c-cf22-5af1-87cc-1a75bafa89ba",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (20x24 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT165M",
+      "ingredients": [
+        "Für den Keksboden:",
+        "140 g vegane Butter",
+        "400 g vegane (Butter-)Kekse",
+        "Für die Füllung:",
+        "350 g Muskatkürbis",
+        "150 g vegane Margarine",
+        "74 g veganes Vanille-Puddingpulver",
+        "80 ml pflanzliche Milch",
+        "300 g veganer Frischkäse",
+        "400 g veganer Skyr (Quark)",
+        "1 TL Vanilleextrakt",
+        "50 g Puderzucker",
+        "1.5 TL Pumpkin Pie Spice",
+        "Für die Toppings:",
+        "50 ml vegane Sahne zum Aufschlagen",
+        "8 g Vanillezucker",
+        "8 g Sahnesteif",
+        "2 TL Zimt oder Pumpkin Pie Spice"
+      ],
+      "instructions": [
+        "Den Muskatkürbis schälen, in grobe Stücke schneiden, in einen Topf geben, mit Wasser bedecken, etwas salzen und zum Kochen bringen. Nach ca. 15 Minuten sollte der Kürbis schön weich sein. Danach abgießen, gut abtropfen lassen und mit einem Pürierstab glatt pürieren.",
+        "Für den Keksboden die vegane Butter schmelzen und die veganen Kekse in einem Zerkleinerer mixen (alternativ in eine verschließbare Tüte geben und mit dem Nudelholz darüber rollen, bis alle Kekse zu kleinen Krümeln verarbeitet sind). Vegane Butter und Kekse vermischen und in den eingefetteten Backrahmen (20x24) geben. Den Keksboden gleichmäßig mit einem Löffel oder den Fingern auf den Boden drücken und kaltstellen.",
+        "Den Ofen auf 180°C (Umluft) vorheizen. Für die Füllung die Margarine in einem kleinen Topf schmelzen und im Anschluss etwas abkühlen lassen. In einer Schüssel das Vanille-Puddingpulver mit pflanzlicher Milch verrühren, bis keine Klümpchen mehr vorhanden sind.",
+        "In einer großen Schüssel veganen Frischkäse, veganen Skyr, Vanilleextrakt, Puderzucker, Vanille-Puddingpulver-Mix und die geschmolzene Margarine verrühren. Zwei Drittel der Füllung auf den Keksboden gießen.",
+        "Zu dem restlichen Drittel nun den gekochten Muskatkürbis sowie das Pumpkin Pie Spice geben und alles gut verrühren. Die Kürbiscreme nun auf der Quarkcreme verteilen. Den Kuchen etwa 60 Minuten bei 180°C (Umluft) backen.",
+        "In der Zwischenzeit die vegane Sahne mit Vanillezucker und Sahnesteif aufschlagen und kaltstellen. Sobald der Kuchen komplett abgekühlt ist, in Stücke schneiden, mit Sahne und etwas Zimt oder Pumpkin Pie Spice dekorieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,106 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/kartoffeln-mit-quark-3-vegane-rezepte",
+  "recipes": [
+    {
+      "name": "Klassische Kartoffeln mit Quark",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/kartoffeln-mit-quark-3-vegane-rezepte",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/kartoffeln-mit-quark-3-vegane-rezepte#recipe-05c0293b-9105-50f6-805a-8344d363b302",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "ca. 500 g - 600 g Kartoffeln",
+        "400 g veganer Quark",
+        "1 rote Zwiebel",
+        "20 g gemische Kräuter der Wahl (Petersilie, Schnittlauch, Dill, ...)",
+        "4 Radieschen",
+        "100 g vegane Leberwurst",
+        "2 EL Leinöl und/oder 2 EL vegane Butter",
+        "Kresse",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Kartoffeln in einen Topf geben und mit Wasser auffüllen, bis Kartoffeln bedeckt sind. Das Wasser salzen und die Kartoffeln ca. 20 Minuten garen, bis sie weich sind, wenn ihr mit einer Gabel reinpiekst.",
+        "In der Zwischenzeit rote Zwiebel fein würfeln und Kräuter fein hacken. Unter veganen Quark mischen und mit Salz und Pfeffer abschmecken.",
+        "Kartoffeln nach dem Garen etwas abkühlen lassen, ggf. schälen und mit veganem Quark anrichten. Auf Wunsch auch mit Kresse, veganer Leberwurst, Leinöl und Radieschen servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Süßkartoffeln mit Quark",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/kartoffeln-mit-quark-3-vegane-rezepte",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/kartoffeln-mit-quark-3-vegane-rezepte#recipe-67cdbe11-dc0b-5862-906a-f6f923282fb5",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "ca. 500 g - 600 g Süßkartoffel",
+        "400 g veganer Quark",
+        "1 rote Zwiebel",
+        "20 g gemische Kräuter der Wahl (Petersilie, Schnittlauch, Dill, ...)",
+        "2 EL Leinöl und/oder 2 EL vegane Butter",
+        "Kresse",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Süßkartoffel ggf. schälen und in gleichdicke Scheiben schneiden. In einen Topf mit kochendem Salzwasser geben und je nach Dicke ca. 10 - 12 Min. kochen oder bis sie weich sind, wenn ihr mit einer Gabel reinpiekst.",
+        "In der Zwischenzeit rote Zwiebel fein würfeln und Kräuter hacken. Unter veganen Quark mischen und mit Salz und Pfeffer abschmecken.",
+        "Süßkartoffelscheiben mit veganem Quark und auf Wunsch auch mit Kresse und Leinöl servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Kartoffeln mit grünem Quark",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/kartoffeln-mit-quark-3-vegane-rezepte",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/kartoffeln-mit-quark-3-vegane-rezepte#recipe-7a41b625-155f-5b9d-a90f-9f68e79efe94",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "ca. 500 g - 600 g Kartoffeln",
+        "400 g veganer Quark",
+        "50 g gemische Kräuter der Wahl (Petersilie, Schnittlauch, Dill, ...)",
+        "2 EL Olivenöl",
+        "2 EL Leinöl und/oder 2 EL vegane Butter",
+        "Kresse",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Kartoffeln in einen Topf geben und mit Wasser auffüllen, bis Kartoffeln bedeckt sind. Das Wasser salzen und die Kartoffeln ca. 20 Minuten garen, bis sie weich sind, wenn ihr mit einer Gabel reinpiekst.",
+        "In der Zwischenzeit Kräuter und Olivenöl in einen Standmixer geben oder mit dem Pürierstab schon mal vorpürieren. Danach die Hälfte des veganen Quarks dazugeben und pürieren, bis eine cremige grüne Masse entsteht. Unter den restlichen Quark mischen und mit Salz und Pfeffer abschmecken.",
+        "Kartoffeln nach dem Garen etwas abkühlen lassen, ggf. schälen und mit veganem grünen Kräuterquark anrichten. Auf Wunsch auch mit Kresse und Leinöl servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

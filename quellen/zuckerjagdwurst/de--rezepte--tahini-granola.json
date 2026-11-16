@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tahini-granola",
+  "recipes": [
+    {
+      "name": "Selbstgemachtes Tahin-Granola",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tahini-granola",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/tahini-granola#recipe-4c84ed7c-8807-53ae-90f4-fee4c9e9bd4b",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 250 g Granola",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "125 g gemischte Nüsse und Kerne (z. B. Mandeln, Haselnüsse, Pekannüsse, Sonnenblumenkerne, Kürbiskerne)",
+        "100 g kernige Haferflocken",
+        "15 g geröstete Kokoschips",
+        "0.5 TL Zimt",
+        "0.25 TL gemahlener Ingwer",
+        "0.25 TL Sumach",
+        "0.5 TL gemahlener Muskat",
+        "0.5 TL feines Meersalz",
+        "2 EL (60 g) Tahin",
+        "1 EL weißes Mandelmus",
+        "40 g Kokosöl (geschmolzen)",
+        "2 EL Ahornsirup",
+        "Zum Servieren:",
+        "veganer Joghurt",
+        "Obst (z. B. Blaubeeren, Brombeeren, Weintrauben, Bananen, Nektarinen)"
+      ],
+      "instructions": [
+        "Für das Granola Nüsse grob hacken und in einer Schüssel mit Haferflocken und Kokoschips vermengen. Zimt, gemahlenen Ingwer, Sumach, Muskat und Salz dazugeben und vermengen.",
+        "In einer zweiten Schüssel Tahin, Mandelmus, geschmolzenes Kokosöl und Ahornsirup verrühren. Die Mischung zum Nuss-Mix geben und alles gut vermengen.",
+        "Den Backofen auf 150 °C (Umluft) vorheizen. Das Granola auf einem mit Backpapier ausgelegten Backblech verteilen und 30–35 Minuten backen. Dabei ein- oder zweimal wenden.",
+        "Das Granola anschließend in einem luftdichten Glas lagern und zum Frühstück zum Beispiel mit veganem Joghurt und frischem Obst essen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

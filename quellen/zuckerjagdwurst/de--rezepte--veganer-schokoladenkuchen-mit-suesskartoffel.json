@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schokoladenkuchen-mit-suesskartoffel",
+  "recipes": [
+    {
+      "name": "Veganer Schokoladenkuchen mit Süßkartoffel",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schokoladenkuchen-mit-suesskartoffel",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schokoladenkuchen-mit-suesskartoffel#recipe-33e5c22d-37c3-5f75-a571-0626b4b049c4",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Stücke",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Kuchen",
+        "200 g Mehl",
+        "150 g Zucker",
+        "50 g ungesüßter Kakao",
+        "8 g Backpulver",
+        "Prise Muskat (optional)",
+        "1 Prise Salz",
+        "5 g Zimt",
+        "120 ml pflanzliches Öl",
+        "100 g Apfelmus",
+        "75 ml pflanzliche Milch",
+        "80 g dunkle Schokolade",
+        "200 g Süßkartoffel",
+        "Frosting",
+        "250 g Süßkartoffel",
+        "100 g dunkle Schokolade",
+        "2-3 EL Agavendicksaft",
+        "etwas pflanzliche Milch"
+      ],
+      "instructions": [
+        "Frosting",
+        "Den Backofen auf 180°C Umluft vorheizen.",
+        "Süßkartoffel für das Frosting schälen und in kleine Würfel schneiden.",
+        "Ein Backblech mit Backpapier belegen und die Würfel darauf verteilen. 10 bis 20 Minuten auf mittlerer Schiene backen, bis die Würfel weich sind.",
+        "Kuchen",
+        "Mehl, Zucker, Kakao, Backpulver, Salz, Zimt und Muskat (optional) in einer Schüssel vermischen.",
+        "Das Apfelmus, die pflanzliche Milch und das Öl hinzugeben und zu einem glatten Teig verrühren.",
+        "Die Süßkartoffel schälen und reiben. Die dunkle Schokolade grob hacken. Beides zum Teig unterheben.",
+        "Eine Kastenform mit 1 El pflanzlicher Butter einfetten und 1 EL Mehl ausklopfen und den Teig hineinfüllen. Für 40 - 60 Minuten bei 180°C im vorgeheizten Ofen backen (je nach Größe der Kastenform).",
+        "Im Anschluss den Kuchen komplett abkühlen lassen.",
+        "Servieren",
+        "Die dunkle Schokolade für das Kuchenfrosting fein hacken und in einem Wasserbad zum Schmelzen bringen.",
+        "Die geschmolzene Schokolade mit den Süßkartoffelwürfeln, dem Agavendicksaft und etwas pflanzlicher Milch pürieren.",
+        "Den abgekühlten Kuchen mit dem Frosting bestreichen und gegebenfalls mit etwas Kakaopulver toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

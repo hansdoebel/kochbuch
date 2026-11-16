@@ -1,0 +1,107 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/tteok-ramyeon",
+  "recipes": [
+    {
+      "name": "Tteok-Ramyeon (Korean ramyeon with rice cake: 떡라면)",
+      "source_url": "https://www.maangchi.com/recipe/tteok-ramyeon",
+      "recipe_id": "/recipe/tteok-ramyeon#sso/recipe/99420",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "2 servings",
+      "prep_time": "P0DT0H5M0S",
+      "cook_time": "P0DT0H15M0S",
+      "total_time": "P0DT0H20M0S",
+      "ingredients": [
+        "2 packages of Korean instant ramyeon",
+        "4 cups water",
+        "1 cup rice cake slices",
+        "½ cup fermented kimchi, chopped",
+        "2 green onions, sliced diagonally",
+        "2 eggs"
+      ],
+      "instructions": [
+        "Using a ladle, distribute the ramyeon, broth, rice cake slices, and poached eggs evenly into 2 bowls.",
+        "Serve it immediately. Enjoy your delicious tteok-ramyeon!"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 2"
+        },
+        {
+          "tag": "li",
+          "text": "2 packages of Korean instant ramyeon"
+        },
+        {
+          "tag": "li",
+          "text": "4 cups water"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup rice cake slices"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup fermented kimchi, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "2 green onions, sliced diagonally"
+        },
+        {
+          "tag": "li",
+          "text": "2 eggs"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Open the ramyeon packages and take out the packets of soup powder and dried vegetables."
+        },
+        {
+          "tag": "li",
+          "text": "In a medium pot, combine water, kimchi, and rice cake slices. Cover the pot and bring it to a boil over medium high heat. Once it starts boiling, continue to cook for an additional 2 minutes. Add the packets of dried vegetables and only 1 packet of soup powder to the pot."
+        },
+        {
+          "tag": "li",
+          "text": "Add the noodles to the pot. Cover and cook for about 2 to 3 minutes, until the noodles are half untangled. Use a ladle or a large spoon to stir the ramyeon gently."
+        },
+        {
+          "tag": "li",
+          "text": "Add the green onion to the pot and carefully crack the eggs into the boiling ramyeon one by one."
+        },
+        {
+          "tag": "li",
+          "text": "Cover the pot again and cook for another 2 minutes, allowing the eggs to poach."
+        },
+        {
+          "tag": "li",
+          "text": "Using a ladle, distribute the ramyeon, broth, rice cake slices, and poached eggs evenly into 2 bowls."
+        },
+        {
+          "tag": "li",
+          "text": "Serve it immediately."
+        },
+        {
+          "tag": "p",
+          "text": "Enjoy your delicious tteok-ramyeon!"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

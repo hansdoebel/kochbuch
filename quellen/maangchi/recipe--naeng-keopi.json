@@ -1,0 +1,102 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/naeng-keopi",
+  "recipes": [
+    {
+      "name": "Iced coffee (Naeng-keopi)",
+      "source_url": "https://www.maangchi.com/recipe/naeng-keopi",
+      "recipe_id": "/recipe/naeng-keopi#sso/recipe/63542",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "1 serving",
+      "prep_time": "P0DT0H3M0S",
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 tablespoon instant coffee",
+        "2 tablespoons powdered creamer",
+        "1 tablespoon honey (or sugar)",
+        "1 cup cold water",
+        "1 cup ice cubes"
+      ],
+      "instructions": [
+        "Combine the coffee, powdered creamer, honey, and the water in a quick shaker.",
+        "Cover and shake for about 30 seconds Until mixed well.",
+        "Pour into a glass and add the ice cubes. Stir well and serve.",
+        "Combine the coffee, powdered creamer, and honey in a glass.",
+        "Mix with the hot water with a spoon until well mixed.",
+        "Add the cold water and ice cubes. Stir well and serve."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients (for 1 serving)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon instant coffee"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons powdered creamer"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon honey (or sugar)"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup cold water"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup ice cubes"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Combine the coffee, powdered creamer, honey, and the water in a quick shaker."
+        },
+        {
+          "tag": "li",
+          "text": "Cover and shake for about 30 seconds Until mixed well."
+        },
+        {
+          "tag": "li",
+          "text": "Pour into a glass and add the ice cubes. Stir well and serve."
+        },
+        {
+          "tag": "h3",
+          "text": "How to make iced coffee without a quick shaker:"
+        },
+        {
+          "tag": "p",
+          "text": "The ingredients are the same, but instead of 1 cup cold water, use ¼ cup hot water and ¾ cup cold water."
+        },
+        {
+          "tag": "li",
+          "text": "Combine the coffee, powdered creamer, and honey in a glass."
+        },
+        {
+          "tag": "li",
+          "text": "Mix with the hot water with a spoon until well mixed."
+        },
+        {
+          "tag": "li",
+          "text": "Add the cold water and ice cubes. Stir well and serve."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

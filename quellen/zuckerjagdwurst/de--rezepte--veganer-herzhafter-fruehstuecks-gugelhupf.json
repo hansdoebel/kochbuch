@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-herzhafter-fruehstuecks-gugelhupf",
+  "recipes": [
+    {
+      "name": "Veganer herzhafter Frühstücks-Gugelhupf",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-herzhafter-fruehstuecks-gugelhupf",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-herzhafter-fruehstuecks-gugelhupf#recipe-07017cc8-b9d0-515b-9c0d-f89ad3df9fe8",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Gugelhupf (∅ 16 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "Für die vegane Ei-Masse:",
+        "100 g Kichererbsenmehl",
+        "200 ml pflanzliche Milch",
+        "250 g Seidentofu",
+        "1 EL Hefeflocken",
+        "1.5 TL Kala Namak",
+        "1 TL Kurkuma",
+        "1 EL Senf",
+        "Salz",
+        "Pfeffer",
+        "Für die Füllung:",
+        "2 kleine Zwiebeln",
+        "1 Knoblauchzehe",
+        "100 g Babyspinat",
+        "150 g veganer Streukäse",
+        "1 EL Wasser",
+        "1 EL Öl",
+        "60 g vegane Fleischwurst am Stück",
+        "3 Toastscheiben",
+        "Pflanzenöl zum Braten",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Den Ofen auf 200°C (Umluft) vorheizen. Für die vegane Ei-Masse Kichererbsenmehl, pflanzliche Milch, Seidentofu, Hefeflocken, Kala Namak, Kurkuma und Senf in eine Schüssel geben und gut verrühren, bis eine cremige Masse entsteht. Mit Salz und Pfeffer abschmecken und beiseitestellen.",
+        "Für die Füllung Zwiebeln und Knoblauch schälen und fein hacken. Etwas Pflanzenöl in eine Pfanne bei mittlerer Hitze geben und die Zwiebeln darin glasig dünsten. Knoblauch hinzugeben und ca. 1-2 Minuten mitbraten, danach den Babyspinat hinzugeben und nur kurz erhitzen, bis er zusammenfällt. Mit Salz und Pfeffer abschmecken.",
+        "Veganen Streukäse mit Wasser und Öl vermengen. Die vegane Fleischwurst und Toastscheiben würfeln.",
+        "Eine Gugelhupfform mit Pflanzenöl ausstreichen. Zuerst die Hälfte der Toastbrotwürfel, dann die Hälfte der veganen Ei-Masse und die Hälfte des veganen Streukäses in der Form verteilen. Danach den kompletten Spinat und die vegane Fleischwurst darauf geben. Zum Schluss die restliche vegane Ei-Masse, die restlichen Toastwürfen und ganz oben den restlichen veganen Streukäse in die Form geben.",
+        "Den Gugelhupf bei 200°C (Umluft) ca. 25 Minuten backen, bis der Käse gebräunt ist. Die Form danach aus dem Ofen nehmen und ca. 5-10 Minuten stehen lassen, erst danach aus der Form nehmen und anschneiden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

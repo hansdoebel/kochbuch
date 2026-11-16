@@ -1,0 +1,50 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/enfrijoladas-1",
+  "recipes": [
+    {
+      "name": "Enfrijoladas",
+      "source_url": "https://app.cookwell.com/recipe/enfrijoladas-1",
+      "recipe_id": "https://app.cookwell.com/recipe/enfrijoladas-1",
+      "authors": [
+        "Cook Well Official"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "8-12 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Pinto Beans, 400 g",
+        "Cooking oil, a drizzle",
+        "Garlic, 2 cloves",
+        "Onions, 1/4",
+        "Chili Powder, a sprinkle",
+        "Salt, to taste",
+        "Chicken broth, as needed",
+        "Cooked chicken",
+        "Sautéed vegetables",
+        "Chorizo",
+        "Cheese",
+        "Corn tortillas, 8-12",
+        "Cooking oil, as needed",
+        "Red Onions",
+        "Cilantro",
+        "Queso Fresco",
+        "Crema",
+        "Avocados"
+      ],
+      "instructions": [
+        "Add a drizzle of oil to a pan over medium heat, and bloom the minced onions and garlic until fragrant. Add in canned beans (with their liquid is fine). Add a sprinkle of salt and chili powder. Bring to a simmer and allow to warm through, soften, and infuse for 10-15 minutes. In a blender or food processor, puree leftover beans until smooth. Add a bit of broth or water as needed to thin the mixture — it should be pourable like a sauce but still thick enough to coat tortillas. Taste and adjust with more salt or chili powder, if desired. Pour into a wide bowl or pot, cover to keep warm, and set aside.",
+        "Add a layer of oil to a skillet over medium heat. One by one, pass tortillas through the oil, coating each side and warming them through until pliable. Stack on a plate on the side. Don’t skip this step — par-frying the tortillas makes them pliable so they don’t break when folded over and resilient against becoming soggy.",
+        "Gather or prep any fillings, as desired. Dip each tortilla through the bean puree, making sure to coat each side. Lay on a plate, add a line of fillings to one side, and fold over. Repeat with remaining tortillas. Spoon any remaining beans over the top. Garnish & serve."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

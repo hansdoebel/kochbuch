@@ -1,0 +1,140 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/danhobakbap",
+  "recipes": [
+    {
+      "name": "Danhobakbap (Kabocha with rice stuffing)",
+      "source_url": "https://www.maangchi.com/recipe/danhobakbap",
+      "recipe_id": "/recipe/danhobakbap#sso/recipe/17266",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "1 pumpkin",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Kabocha (1½ kilograms, or about 3 pounds), sweet rice, black sweet rice, Kosher salt, jujubes, pine nuts, raisins, canned chestnuts, soy sauce, vinegar, green onion, green peas, and red chili pepper."
+      ],
+      "instructions": [
+        "Place 1 cup of sweet rice and 2 tbs of black sweet rice in a small pot.",
+        "Add some water to the rice and scrub it by hand a couple of times. Rinse, and then drain the water. Repeat until the rice is clean and the drained water is mostly clear.",
+        "Add 1 cup of water and a pinch of salt to the rice and close the lid. Set aside to soak for at least 30 minutes.",
+        "After soaking, bring to a boil over medium high heat for about 5-6 minutes.",
+        "Open the lid and simmer over low heat with the lid closed for 10 minutes.",
+        "Add ⅓ cup of green peas to the hot rice and mix it up. Set aside.",
+        "Cut off the top to make the lid just like a jack o’ lantern.",
+        "Scoop out the insides and set aside.",
+        "Remove the pits from 8 dried jujubes. Measure 2 tbs raisins, 2 tbs pine nuts with the tips removed, and ½ cup canned chestnuts, and set aside.",
+        "Place the jujubes on the bottom of the kabocha and add the cooked rice, the raisins, and the pine nuts, in that order.",
+        "Add more rice on top to fill it out.",
+        "Open a can of chestnuts and place them over top of the rice.",
+        "Put the lid back on the danhobak and steam or boil for 30-40 minutes until it’s cooked thoroughly. Wrap it in cheesecloth beforehand so you can easily take it out when it’s ready.",
+        "Make sauce by mixing 3 tbs soy sauce, 2 ts vinegar, 1 tbs chopped green onion, and 1 ts red chili pepper in a bowl.",
+        "Open the lid of the kabocha and cut it into 4 pieces with a knife.",
+        "Transfer each piece to a plate and serve with the sauce."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Kabocha (1½ kilograms, or about 3 pounds), sweet rice, black sweet rice, Kosher salt, jujubes, pine nuts, raisins, canned chestnuts, soy sauce, vinegar, green onion, green peas, and red chili pepper."
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Let’s make the rice first!"
+        },
+        {
+          "tag": "li",
+          "text": "Place 1 cup of sweet rice and 2 tbs of black sweet rice in a small pot."
+        },
+        {
+          "tag": "li",
+          "text": "Add some water to the rice and scrub it by hand a couple of times. Rinse, and then drain the water. Repeat until the rice is clean and the drained water is mostly clear."
+        },
+        {
+          "tag": "li",
+          "text": "Add 1 cup of water and a pinch of salt to the rice and close the lid. Set aside to soak for at least 30 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "After soaking, bring to a boil over medium high heat for about 5-6 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Open the lid and simmer over low heat with the lid closed for 10 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Add ⅓ cup of green peas to the hot rice and mix it up. Set aside."
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the kabocha:"
+        },
+        {
+          "tag": "li",
+          "text": "Cut off the top to make the lid just like a jack o’ lantern."
+        },
+        {
+          "tag": "li",
+          "text": "Scoop out the insides and set aside."
+        },
+        {
+          "tag": "li",
+          "text": "Remove the pits from 8 dried jujubes. Measure 2 tbs raisins, 2 tbs pine nuts with the tips removed, and ½ cup canned chestnuts, and set aside."
+        },
+        {
+          "tag": "li",
+          "text": "Place the jujubes on the bottom of the kabocha and add the cooked rice, the raisins, and the pine nuts, in that order."
+        },
+        {
+          "tag": "li",
+          "text": "Add more rice on top to fill it out."
+        },
+        {
+          "tag": "li",
+          "text": "Open a can of chestnuts and place them over top of the rice."
+        },
+        {
+          "tag": "li",
+          "text": "Put the lid back on the danhobak and steam or boil for 30-40 minutes until it’s cooked thoroughly. Wrap it in cheesecloth beforehand so you can easily take it out when it’s ready."
+        },
+        {
+          "tag": "li",
+          "text": "Make sauce by mixing 3 tbs soy sauce, 2 ts vinegar, 1 tbs chopped green onion, and 1 ts red chili pepper in a bowl."
+        },
+        {
+          "tag": "h3",
+          "text": "How to serve:"
+        },
+        {
+          "tag": "li",
+          "text": "Open the lid of the kabocha and cut it into 4 pieces with a knife."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer each piece to a plate and serve with the sauce."
+        },
+        {
+          "tag": "p",
+          "text": "Enjoy the recipe!"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

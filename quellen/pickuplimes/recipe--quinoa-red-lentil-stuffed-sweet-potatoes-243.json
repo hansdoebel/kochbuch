@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/quinoa-red-lentil-stuffed-sweet-potatoes-243",
+  "recipes": [
+    {
+      "name": "Quinoa & Red Lentil Stuffed Sweet Potatoes",
+      "source_url": "https://www.pickuplimes.com/recipe/quinoa-red-lentil-stuffed-sweet-potatoes-243",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 Stuffed potatoes",
+      "prep_time": "PT10M",
+      "cook_time": "PT45M",
+      "total_time": "PT55M",
+      "ingredients": [
+        "4 medium sweet potato",
+        "1 tsp olive oil",
+        "1 medium onion",
+        "2 garlic clove",
+        "1 tsp curry powder",
+        "½ tsp ground cumin",
+        "½ tsp ground coriander",
+        "½ cup dry red lentils",
+        "½ cup quinoa",
+        "2 cup vegetable broth",
+        "1 tsp sambal oelek",
+        "½ medium broccoli",
+        "1 red bell pepper",
+        "¼ cup tahini",
+        "2 Tbsp water",
+        "1 Tbsp balsamic vinegar",
+        "2 tsp reduced-sodium soy sauce"
+      ],
+      "instructions": [
+        "Line a baking tray and preheat the oven to 400°F (210°C)*.",
+        "Pierce each sweet potato 8 - 10 times with a fork in several locations. Roast until tender, about 45 to 55 minutes.",
+        "Meanwhile, drizzle the oil in a large pot over high heat. When hot, add the onions, cooking until lightly golden.",
+        "Add the garlic and cook for another 2 minutes, stirring often.",
+        "Then add the curry powder, cumin, and coriander. Stir for 30 - 60 seconds to toast the spices.",
+        "Add the lentils, quinoa, broth, and sambal. Bring to a boil, lower to a simmer, and cook partially covered for 10 minutes.",
+        "Add the broccoli and bell pepper. Stir, cover fully with the lid, and cook for 5 minutes.",
+        "Meanwhile, mix all of the dressing ingredients in a small bowl.",
+        "When the cooked sweet potatoes are cool enough to handle, slice them lengthwise and gently squeeze open. Use a fork to mash the inside to make room for the fillings on top.",
+        "Scoop the lentil and quinoa mixture into the \"pockets\" of the sweet potato. Drizzle the sauce generously over top, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

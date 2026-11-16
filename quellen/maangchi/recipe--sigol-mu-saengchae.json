@@ -1,0 +1,88 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/sigol-mu-saengchae",
+  "recipes": [
+    {
+      "name": "Country-style radish salad (Sigol mu-saengchae: 시골 무생채)",
+      "source_url": "https://www.maangchi.com/recipe/sigol-mu-saengchae",
+      "recipe_id": "/recipe/sigol-mu-saengchae#sso/recipe/103290",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "3 to 4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 pound peeled Korean radish or daikon, cut into thin matchsticks",
+        "2 garlic cloves, minced",
+        "1 green onion, chopped",
+        "2 tablespoons Korean hot pepper flakes (gochu-garu)",
+        "2 tablespoons fish sauce (or light colored Korean soup soy sauce)",
+        "2 tablespoon toasted sesame oil",
+        "1 tablespoon toasted sesame seeds"
+      ],
+      "instructions": [
+        "In a large bowl, combine the radish matchsticks, garlic, green onion, gochu-garu, fish sauce, sesame oil, and sesame seeds and mix well by hand until the radishes and seasonings are well incorporated and the radishes look shiny and juicy.",
+        "Transfer to a large plate or a bowl and serve with rice. The best way to enjoy it is to finish it all in one sitting right after making it, since the radish will start releasing moisture. But if you have leftovers, you can store them in the refrigerator for 2 to 3 days."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 4 to 6"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound peeled Korean radish or daikon, cut into thin matchsticks"
+        },
+        {
+          "tag": "li",
+          "text": "2 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 green onion, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons Korean hot pepper flakes (gochu-garu)"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons fish sauce (or light colored Korean soup soy sauce)"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoon toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame seeds"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "In a large bowl, combine the radish matchsticks, garlic, green onion, gochu-garu, fish sauce, sesame oil, and sesame seeds and mix well by hand until the radishes and seasonings are well incorporated and the radishes look shiny and juicy."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer to a large plate or a bowl and serve with rice. The best way to enjoy it is to finish it all in one sitting right after making it, since the radish will start releasing moisture. But if you have leftovers, you can store them in the refrigerator for 2 to 3 days."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

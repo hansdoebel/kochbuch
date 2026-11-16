@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/warm-tahini-chocolate-banana-wrap-460",
+  "recipes": [
+    {
+      "name": "Warm Tahini Chocolate Banana Wrap",
+      "source_url": "https://www.pickuplimes.com/recipe/warm-tahini-chocolate-banana-wrap-460",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT05M",
+      "total_time": "PT10M",
+      "ingredients": [
+        "2 Tbsp tahini",
+        "1 Tbsp maple syrup",
+        "1 Tbsp Dutch-process cocoa powder",
+        "1 banana",
+        "1 medium soft flour tortilla",
+        "1 Tbsp unsalted roasted hazelnuts"
+      ],
+      "instructions": [
+        "In a small bowl, combine the tahini, maple syrup, and cocoa powder.",
+        "Slice the banana in half, then into strips, lengthwise.",
+        "Spread the tahini mixture evenly on the tortilla and then place the tortilla on a large pan over medium heat. Top with the banana slices and chopped hazelnuts.",
+        "When the tortilla starts to become golden, gently fold the tortilla in half and press down with the back of a spatula. You can also roll the filled tortilla into a burrito and toast it in the pan for a neater \"to-go\" option.",
+        "Remove the tortilla from the pan, cut it in half, and add your desired toppings. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Our medium tortillas measure about 8 inches (20 cm) in diameter.",
+    "Storage Best to enjoy immediately."
+  ]
+}

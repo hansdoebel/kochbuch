@@ -1,0 +1,46 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/chicken-hummus-wrap",
+  "recipes": [
+    {
+      "name": "Chicken Hummus Wrap",
+      "source_url": "https://app.cookwell.com/recipe/chicken-hummus-wrap",
+      "recipe_id": "https://app.cookwell.com/recipe/chicken-hummus-wrap",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "Yields 6-8 wraps",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Chicken Breasts, 2",
+        "Salt, a sprinkle",
+        "Cooking oil, a drizzle",
+        "Mayonnaise, 1 part",
+        "Sour Cream, 1 part",
+        "Lemon juice, 1/2 lemon",
+        "Za'atar, a spoonful",
+        "Red Pepper Flakes, a sprinkle",
+        "Flatbreads, 6-8",
+        "Hummus",
+        "Pepperoncini Peppers",
+        "Lettuce",
+        "Cherry tomatoes",
+        "Red Onions"
+      ],
+      "instructions": [
+        "Thin out the chicken breasts to an even thickness. You can either butterfly each breast, slice them horizontally in half into thinner pieces, or pound them out flat. Sprinkle each breast with some salt. Then, grill or sear the butterflied (thinned out) chicken breasts in a hot pan until they reach 155°F/68°C internal temperature. Set aside to cool, then slice the chicken into long thin strips.",
+        "Combine mayo, low-fat sour cream, za'atar, red pepper flakes, and lemon juice. Taste and adjust as needed.",
+        "For each wrap, spread a large spoonful of hummus onto a flatbread. Then, add a serving of cooked chicken followed by layers of fresh toppings to taste. Drizzle with a spoonful of the za'atar white sauce before rolling it all up. Optionally wrap in foil if meal prepping, or just to keep all the ingredients together. These can be enjoyed immediately or stored in the fridge for 2-3 days."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

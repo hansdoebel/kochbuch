@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-twix-selbermachen",
+  "recipes": [
+    {
+      "name": "Veganes Twix selber machen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-twix-selbermachen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-twix-selbermachen#recipe-b8367dae-6ad5-589a-beeb-58e13b64e47d",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "10 Riegel",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "Für den Mürbeteig:",
+        "100 g Weizenmehl",
+        "65 g vegane Butter",
+        "30 g Zucker",
+        "Für die Karamellschicht:",
+        "250 g weißer Zucker",
+        "60 ml vegane Sahne",
+        "65 g vegane Butter",
+        "Für die Glasur:",
+        "150 g vegane „Milchschokolade“"
+      ],
+      "instructions": [
+        "Mürbeteig",
+        "Mehl und Zucker in einer großen Schüssel vermischen. Die kalte vegane Butter in Flocken darübergeben und mit kalten Händen verkneten, bis ein geschmeidiger Teig entsteht.",
+        "Den Teig mindestens 30 Minuten im Kühlschrank kühlen lassen.",
+        "Währenddessen Ofen auf 180°C Umluft vorheizen und eine eckige Backform mit den Maßen 10x20 cm mit veganer Butter einfetten.",
+        "Den Teig in die Backform geben und mit den Fingern zu einem geraden Boden andrücken. Mit einer Gabel Löcher in den Teig piksen.",
+        "Den Teig ca. 30 Minuten im Ofen backen, bis er goldbraun wird. Im Anschluss komplett abkühlen lassen.",
+        "Karamell",
+        "Zucker in einen Topf geben und bei niedriger bis mittlerer Hitze ganz langsam schmelzen, bis sich der Zucker braun färbt. Dabei nicht rühren.",
+        "Sobald der Zucker komplett bernsteinfarben ist, den Topf vom Herd nehmen und vorsichtig (!) die vegane Sahne Esslöffel für Esslöffel hinzugeben und auch die vegane Butter unterrühren. Vorsicht, es kann nun etwas aufsprudeln und blubbern, also macht diesen Schritt langsam.",
+        "Die Masse nochmals aufkochen lassen und im Anschluss auf den abgekühlten Mürbeteig gießen. Die komplette Form kalt stellen, sodass das Karamell fest wird.",
+        "Zusammensetzen",
+        "Die Schokolade grob hacken und in einem Wasserbad schmelzen. Danach ca. 10 Minuten abkühlen lassen.",
+        "Mit einem scharfen Messer die Masse aus der Form lösen und auf einem Schneidebrett in gleich große Riegel schneiden.",
+        "Die Riegel auf einem Kuchengitter platzieren und mit der geschmolzenen Schokolade übergießen, sodass diese komplett umhüllt sind.",
+        "Die Riegel auskühlen lassen, bis die Schokolade fest ist.",
+        "Nehmt die Riegel ca. 10 Minuten vor dem Servieren aus dem Kühlschrank, sodass das Karamell weicher wird."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

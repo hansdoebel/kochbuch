@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-linseneintopf",
+  "recipes": [
+    {
+      "name": "Veganer Linseneintopf mit Würstchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-linseneintopf",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-linseneintopf#recipe-87c427b8-9cbf-5e0f-ba4c-5b9df4530bb9",
+      "authors": [
+        "Isabel Janka"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "Für den Linseneintopf:",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "220 g Karotten",
+        "1 Pastinake",
+        "200 g Tellerlinsen",
+        "400 g Süßkartoffeln",
+        "1 Lauch",
+        "3 EL vegane Butter",
+        "2 l Gemüsebrühe",
+        "200 g vegane Würstchen",
+        "20 g Petersilie",
+        "2 EL Rotweinessig",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "Zum Servieren:",
+        "vegane Crème fraîche (optional)"
+      ],
+      "instructions": [
+        "Zwiebel, Knoblauch, Karotten und Pastinake schälen und in kleine Würfel schneiden. Linsen waschen, Süßkartoffeln in mundgerechte Stücke und Lauch in Halbringe schneiden.",
+        "Vegane Butter in einem Topf erhitzen und die Zwiebelwürfel circa 5 Minuten darin anschwitzen, bis sie glasig sind. Den Knoblauch und das restliche Gemüse hinzugeben und für 5 Minuten anbraten, bis es leicht gebräunt ist.",
+        "Die Linsen dazugeben und mit Gemüsebrühe ablöschen. Circa 30 Minuten köcheln lassen, bis die Linsen gar sind. Dann nach Geschmack mit Salz, Pfeffer und Muskat würzen. Circa 5 Minuten bevor der Eintopf fertig ist, die veganen Würstchen in Scheiben schneiden und zum Eintopf geben.",
+        "Petersilie hacken und unterrühren. Den Eintopf mit Essig abschmecken und veganer Crème fraîche servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

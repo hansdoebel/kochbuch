@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/incredible-vegan-feta-491",
+  "recipes": [
+    {
+      "name": "Incredible Vegan Feta",
+      "source_url": "https://www.pickuplimes.com/recipe/incredible-vegan-feta-491",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "12 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT06H05M",
+      "ingredients": [
+        "11.464 oz firm tofu",
+        "½ cup refined coconut oil",
+        "2 Tbsp apple cider vinegar",
+        "2 tsp nutritional yeast flakes",
+        "1 tsp onion powder",
+        "1 tsp salt",
+        "¼ tsp dried dill"
+      ],
+      "instructions": [
+        "Add all of the ingredients to a blender and blend until creamy.",
+        "Transfer the mixture to an airtight container and store in the fridge for at least 3 hours, or ideally overnight. The longer it sits in the fridge, the more firm and crumbly the texture will become.",
+        "Crumble as desired over any dish, such as on salads. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Refined coconut oil is coconut oil that doesn't smell or taste like coconuts. Using refined coconut oil is preferred to unrefined as the feta retains a more neutral flavour.",
+    "Storage Store in an airtight container for up to 5 days."
+  ]
+}

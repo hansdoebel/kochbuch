@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/orange-ginger-dressing-1406",
+  "recipes": [
+    {
+      "name": "Orange Ginger Dressing",
+      "source_url": "https://www.pickuplimes.com/recipe/orange-ginger-dressing-1406",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "½ Tbsp orange zest",
+        "2 orange",
+        "1 garlic clove",
+        "2 Tbsp tahini",
+        "1 tsp grated fresh ginger",
+        "1 pinch ground black pepper"
+      ],
+      "instructions": [
+        "Add all of the ingredients to a small bowl.",
+        "Stir, and enjoy with your favourite salad!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage This dressing is best enjoyed immediately. Store leftovers in an airtight container in the fridge for up to 2 days."
+  ]
+}

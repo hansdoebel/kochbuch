@@ -1,0 +1,38 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/perfect-scrambled-eggs",
+  "recipes": [
+    {
+      "name": "Perfect Scrambled Eggs",
+      "source_url": "https://app.cookwell.com/recipe/perfect-scrambled-eggs",
+      "recipe_id": "https://app.cookwell.com/recipe/perfect-scrambled-eggs",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1-2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "Eggs, 4",
+        "Butter, a spoonful",
+        "Salt, to taste",
+        "Black Pepper, for garnish",
+        "Chives, for garnish"
+      ],
+      "instructions": [
+        "Add the eggs to a bowl with a pinch of salt. Whisk vigorously together until the eggs are completely broken down, homogenous, and no streaks of whites remain.",
+        "Place a pan over low heat and add the butter. Swirl the butter once to coat the pan, ensuring it's not bubbling, as this would indicate it's too hot. Next, pour in the eggs and use a spatula to stir slowly as the curds begin to form. Stir more frequently for smaller curds, and less frequently for larger ones.",
+        "Just before they reach your preferred texture, take the pan off the heat and let the residual heat finish setting them. You can always return the pan to the heat for a few seconds if the carry-over heat didn’t finish them.",
+        "Serve the eggs on a plate and hit them with a couple of black pepper cranks and fresh chives."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gegrillte-grillbanane",
+  "recipes": [
+    {
+      "name": "Grillbanane mit Schokolade & Marshmallows",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gegrillte-grillbanane",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gegrillte-grillbanane#recipe-8d3d1373-e08b-5fe3-8f6d-a9afd1ef8680",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "3 Bananen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "3 Bananen",
+        "150 g dunkle Schokoladentropfen",
+        "100 g Blaubeeren und Erdbeeren",
+        "optional: 150 g vegane Marshmallows"
+      ],
+      "instructions": [
+        "Den Grill erhitzen.",
+        "Mit einem scharfen Messer die Bananen längs aufschneiden. Mit den Händen den Spalt etwas vergrößern.",
+        "Beeren waschen und klein schneiden.",
+        "Die Bananen mit Schokoladetropfen, Beeren und den Marshmallows füllen.",
+        "Die Bananen vorsichtig in Folie einpacken.",
+        "Auf den Grill legen und 5-10 Minuten erwärmen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,36 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-zimtschnecken-waffeln",
+  "recipes": [
+    {
+      "name": "Vegane Zimtschnecken-Waffeln",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-zimtschnecken-waffeln",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-zimtschnecken-waffeln#recipe-94bcf008-e701-55fd-91bb-6ad58c6955ff",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Waffeln",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "2 Packungen veganer Zimtschnecken-Fertigteig",
+        "50 g Puderzucker",
+        "1 TL Wasser",
+        "Pflanzenöl zum Einfetten"
+      ],
+      "instructions": [
+        "Waffeleisen vorheizen. In der Zwischenzeit den Zimtschneckenteig aus der Packung nehmen und jeweils in 4 gleich große Scheiben schneiden.",
+        "Das vorgeheizte Waffeleisen mit etwas Pflanzenöl bestreichen und je nach Größe eures Waffeleisens eine oder zwei Zimtschnecken hineinlegen. Das Waffeleisen schließen und die Waffeln ca. 3 Min. backen, bis sie goldbraun sind. Anschließend herausnehmen und mit dem restlichen Teig wiederholen.",
+        "Für den Zuckerguss Puderzucker und Wasser in einer Schüssel verrühren. Wenn ihr den Guss gern flüssiger möchtet, gebt noch einen kleinen Schwapp Wasser dazu. Die Glasur über die noch warmen Zimtschnecken-Waffeln geben."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

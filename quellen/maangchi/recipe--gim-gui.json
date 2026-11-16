@@ -1,0 +1,106 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/gim-gui",
+  "recipes": [
+    {
+      "name": "Roasted seaweed sheets (Gim-gui)",
+      "source_url": "https://www.maangchi.com/recipe/gim-gui",
+      "recipe_id": "/recipe/gim-gui#sso/recipe/35123",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "10 servings",
+      "prep_time": "P0DT0H5M0S",
+      "cook_time": "P0DT0H10M0S",
+      "total_time": "P0DT0H15M0S",
+      "ingredients": [
+        "20 sheets of gim (seaweed sheets)",
+        "2 tablespoons cooking oil",
+        "2 teaspoons toasted sesame oil",
+        "1 teaspoon kosher salt"
+      ],
+      "instructions": [
+        "Combine the cooking oil and toasted sesame oil in a small bowl and put the salt in another small bowl. Place a few pieces of paper towel in front of you. Put a sheet of gim on the paper towel with the shiny side up. Spread a light layer of the oil mixture over the gim and sprinkle a pinch of salt on top. Repeat with all 20 sheets. Roll the seasoned gim in the paper towel to absorb excess oil and set aside.",
+        "Heat a large pan over low heat, or heat a griddle to 350°F (about 180°C). Place one sheet of gim shiny side up on the pan and press it with a spatula for about 15 seconds, until the bottom is crisp and green. Add another sheet with the rough side up, flip, and continue layering and roasting until all 20 sheets are crisp and light green. Always keep the rough side facing the pan and the shiny side facing inward.",
+        "Remove from the heat and cut into small squares. Serve with rice or as a side dish with beer. Keep leftovers tightly sealed in an airtight container or plastic bag at room temperature for 3 to 4 days. For longer storage, freeze for 1 month or more and take out only as much as you need."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Makes about 10 servings."
+        },
+        {
+          "tag": "p",
+          "text": "Total time: about 15 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "20 sheets of gim (seaweed sheets)"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons cooking oil"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon kosher salt"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Combine the cooking oil and toasted sesame oil in a small bowl and put the salt in a small bowl. Place a few pieces of paper towel in front of you, where you can work."
+        },
+        {
+          "tag": "li",
+          "text": "Put a sheet of gim on the paper towel with the shiny side up. Using your hand or a brush, spread a light layer of the oil mixture on the gim. Sprinkle a pinch of salt over top."
+        },
+        {
+          "tag": "li",
+          "text": "Repeat until all 20 sheets are lightly oiled and seasoned with salt."
+        },
+        {
+          "tag": "li",
+          "text": "Roll the seasoned gim up in the paper towel, so it soaks up a bit of the excess oil. Set aside."
+        },
+        {
+          "tag": "li",
+          "text": "Heat a large pan over low heat, or heat a griddle to 350°F (about 180°C)."
+        },
+        {
+          "tag": "li",
+          "text": "Place a sheet of gim with the shiny side up on the griddle. Press the gim with a spatula for about 15 seconds until the bottom turns crispy and green."
+        },
+        {
+          "tag": "li",
+          "text": "Add another sheet of gim on top of the first, with the rough side up. Flip them over and add another sheet of gim with the rough side up. Cook for about 15 seconds. Repeat this until all 20 sheets of gim turn very crispy and beautiful light green. Layering it this way will make the sheets crispier, as the inside sheets get roasted as you go. The key is to always keep the rough side out, so it ends up next to the grill and the shiny side in, so it never touches the grill."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat. Cut them into small squares. Serve with rice or as a side dish with beer."
+        },
+        {
+          "tag": "li",
+          "text": "Keep the leftovers tightly sealed in an airtight container or plastic bag at room temperature. They will stay crisp for 3 to 4 days. For longer storage, freeze them for 1 month or more and take out only as much as you need."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

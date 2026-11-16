@@ -1,0 +1,67 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tofu-a-la-bordelaise-mit-zitronensosse-kartoffeln-erbsen",
+  "recipes": [
+    {
+      "name": "Tofu à la Bordelaise mit Zitronen-Senf-Soße, Kartoffeln und Erbsen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tofu-a-la-bordelaise-mit-zitronensosse-kartoffeln-erbsen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/tofu-a-la-bordelaise-mit-zitronensosse-kartoffeln-erbsen#recipe-1902aaea-a963-5e54-a3c7-b811421d8d06",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für den Tofu:",
+        "200 g Naturtofu",
+        "1 Noriblatt",
+        "Für die Panade:",
+        "1 Zwiebel",
+        "50 g vegane Butter",
+        "50 g Panko (oder Semmelbrösel)",
+        "5 g Petersilie",
+        "2 TL Paprikapulver (aufgeteilt)",
+        "0.5 TL Knoblauchpulver",
+        "1 TL Hefeflocken",
+        "0.25 Zitrone (Saft)",
+        "2 EL veganer Quark (oder Joghurt)",
+        "Salz",
+        "Pfeffer",
+        "Für die Soße:",
+        "1 kleine Zwiebel",
+        "1 Knoblauchzehe",
+        "5 g Dill",
+        "2 EL vegane Butter",
+        "2 EL Mehl",
+        "75 ml Wasser",
+        "125 ml pflanzliche Sahne",
+        "1 TL Senf",
+        "0.5 Zitrone (Saft und Abrieb)",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "Kartoffeln",
+        "Erbsen"
+      ],
+      "instructions": [
+        "Für die Panade eine Zwiebel schälen und fein würfeln. Vegane Butter in einer Pfanne bei mittlerer Hitze schmelzen lassen. Die Zwiebelwürfel anschwitzen, bis sie glasig sind. Panko (oder Semmelbrösel) dazugeben und gut mit der geschmolzenen veganen Butter vermengen und goldbraun rösten. Die Pfanne danach vom Herd nehmen.",
+        "Petersilie fein hacken und zusammen mit 1 TL Paprikapulver, Knoblauchpulver, Hefeflocken, Salz, Pfeffer sowie Zitronensaft zur Panade geben und gut vermengen. Ca. 2 EL der knusprigen Panade in eine Schüssel geben und beiseitestellen.",
+        "Veganen Quark und den zweiten Teelöffel Paprikapulver zur restlichen Panade geben und vermengen, sodass eine orange-rötliche Paste entsteht.",
+        "Backofen auf 220°C (Umluft) vorheizen. Naturtofu horizontal halbieren, sodass zwei flachere Stücke entstehen. Diese in eine leicht eingeölte Backform legen. Das Noriblatt zurechtschneiden, sodass ihr zwei Stück Nori habt, die genau auf die Oberfläche des Tofus passen. Den Tofu mit jeweils einem passenden Noriblatt bedecken, danach die Panaden-Paste gleichmäßig auf die beiden Tofuscheiben aufteilen und auf dem Noriblatt verteilen – das darf gern eine dicke Schicht werden. Zum Schluss jeweils die Hälfte der knusprigen Panade auf der Paste verteilen und leicht andrücken.",
+        "Den Tofu bei 220°C (Umluft) ca. 15 Minuten backen. Danach im Ofen warm halten, bis die Beilagen fertig sind.",
+        "Während der Tofu backt, Kartoffeln in einen Topf geben, mit Wasser bedecken, salzen und ca. 20 Minuten kochen, bis die Kartoffeln weich sind. Die tiefgekühlten Erbsen ca. 5 Minuten vor dem Ende der Kochzeit mit in den Topf zu den Kartoffeln geben oder in einem separaten Topf mit siedendem Wasser blanchieren, bis sie gar sind.",
+        "Während die Kartoffeln kochen, die Soße zubereiten. Zwiebeln und Knoblauch schälen und fein hacken, den Dill ebenfalls fein hacken. Vegane Butter in einem kleinen Topf oder einer Pfanne schmelzen lassen. Zwiebeln und Knoblauch anschwitzen, bis die Zwiebelwürfel glasig sind. Mit Mehl bestäuben und ca. 2 Minuten anschwitzen. Dann zuerst das Wasser gründlich einrühren, sodass keine Klümpchen entstehen. Sahne, Senf und Zitronensaft einrühren. Zitronenabrieb und gehackten Dill dazugeben und die Soße mit Salz und Pfeffer abschmecken. Wer es noch zitroniger mag, kann noch mehr Zitronenabrieb dazugeben. Die Soße bei kleiner Hitze warm halten, bis die Kartoffeln und der Tofu fertig sind. Sollte sie zu dick werden, etwas Wasser dazugeben.",
+        "Die Tofufilets aus dem Ofen mit Kartoffeln, Erbsen und der Zitronen-Senf-Soße servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

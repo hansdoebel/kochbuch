@@ -1,0 +1,80 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/suess-und-salziges-curry-und-schokoladen-erdnuss-popcorn",
+  "recipes": [
+    {
+      "name": "Süß & Salziges Curry-Popcorn",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/suess-und-salziges-curry-und-schokoladen-erdnuss-popcorn",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/suess-und-salziges-curry-und-schokoladen-erdnuss-popcorn#recipe-e675426a-41ff-50f4-8f3c-06e9a37ba742",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 große Schüssel",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "2 EL Kokosnussöl",
+        "80 g Popcornmais",
+        "60 g pflanzliche Butter",
+        "2 EL Curry",
+        "1/2 TL Chilipulver",
+        "1 EL weißer Zucker",
+        "1/2 - 1 TL Salz"
+      ],
+      "instructions": [
+        "Einen großen Topf mit dem Kokosöl auf mittlerer Stufe erhitzen.",
+        "Drei Körner des Popcornmais hinzugeben, unbedingt einen Deckel auf den Topf geben und warten bis alle drei Körner gepoppt sind.",
+        "Den restlichen Popcornmais hinzugeben, Deckel wieder auf den Topf packen und warten bis alle Körner gepoppt sind. Ab und zu den Topf etwas schütteln.",
+        "Das Popcorn in eine große Schüssel füllen.",
+        "In einem kleinen Topf die pflanzliche Butter schmelzen und das Curry- und Chilipulver, Salz und Zucker hinzugeben und gut verrühren.",
+        "Die Mischung über das Popcorn geben, gut vermischen und noch warm essen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Schokoladen-Erdnuss-Popcorn",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/suess-und-salziges-curry-und-schokoladen-erdnuss-popcorn",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/suess-und-salziges-curry-und-schokoladen-erdnuss-popcorn#recipe-5000d08d-f5d4-5b83-b5ad-b52c0d9c90a6",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 große Schüssel",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "2 EL Kokosnussöl",
+        "80 g Popcornmais",
+        "Schokoladen-Erdnuss-Mix",
+        "2 EL Kokosnussöl",
+        "100 g Zartbitterschokolade",
+        "30 g Erdnussbutter",
+        "100 g geröstete & gesalzene Erdnüsse",
+        "100 ml Ahornsirup",
+        "1 TL Vanillearoma oder Vanilleextrakt",
+        "Prise Salz"
+      ],
+      "instructions": [
+        "Einen großen Topf mit dem Kokosöl auf mittlerer Stufe erhitzen.",
+        "Drei Körner des Popcornmais hinzugeben, unbedingt einen Deckel auf den Topf geben und warten bis alle drei Körner gepoppt sind.",
+        "Den restlichen Popcornmais hinzugeben, Deckel wieder auf den Topf packen und warten bis alle Körner gepoppt sind. Ab und zu den Topf etwas schütteln.",
+        "In einem kleinen Topf alle restlichen Zutaten vermengen und schmelzen lassen. Am Ende die Erdnüsse hinzugeben und unterrühren.",
+        "Die geschmolzene Schokoladenmasse über das frisch gepoppte Popcorn gießen und gut vermengen.",
+        "Ein Backblech mit Backpapier auslegen und das Schokoladenpopcorn darauf verteilen.",
+        "Für 15-20 Minuten bei 180°C backen. Anschließend komplett abkühlen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

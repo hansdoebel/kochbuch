@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.recipetineats.com/espresso-martini/",
+  "recipes": [
+    {
+      "name": "Espresso Martini",
+      "source_url": "https://www.recipetineats.com/espresso-martini/",
+      "recipe_id": "https://www.recipetineats.com/espresso-martini/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "1"
+      ],
+      "prep_time": "PT5M",
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "40ml / 1 1/3oz Vodka",
+        "20ml (2/3 oz) Kahlua",
+        "20ml (2/3 oz) espresso coffee (, cooled)",
+        "3 coffee beans (, garnish)"
+      ],
+      "instructions": [
+        "Place the vodka, kahlua and espresso in a cocktail shaker with ice.",
+        "Shake vigorously 10 times, then pour briskly into a cocktail glass. (Scrape out foam inside if necessary)",
+        "Garnish wtih 3 coffee beans and serve immediately."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: TIPS: Cool the coffee so it doesn’t melt the ice = won’t dilute drink flavour Espresso coffee from a proper coffee machine = nice crema (foam) on coffee = nice foam layer on surface of Espresso Martini Can’t get foam on Espresso Martini with coffee granules, French Press coffee marker or similar. Need a proper machine! No coffee machine? Cheat! Add 1/2 egg white and shake, it will create a gorgeous foam layer but you will not be able to taste it at all! Need foam for the coffee beans to float! Recipe source: Absolut Drinks (makers of Absolut vodka("
+  ]
+}

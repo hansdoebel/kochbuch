@@ -1,0 +1,79 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/kongnamul",
+  "recipes": [
+    {
+      "name": "Soybean sprouts (Kongnamul)",
+      "source_url": "https://www.maangchi.com/recipe/kongnamul",
+      "recipe_id": "/recipe/kongnamul#sso/recipe/29831",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 cup of soybeans for sprouting (6½ ounces: 180 grams)",
+        "water"
+      ],
+      "instructions": [
+        "Rinse the soybeans in cold water and soak for 24 hours.",
+        "Pick out dead beans or broken beans and put the cleaned soybeans into a planter that has small holes in the bottom.",
+        "Pour water over the planter, little by little, till the beans are wet evenly. The water will drop out the holes in the bottom but the beans will be wet.",
+        "Cover the planter with a black cloth to keep the light out. If too much light gets in, the beans will turn green instead of a nice yellow color.",
+        "Repeat watering every 3 or 4 hours for 4 to 6 days until the beans grow about 4 inches.",
+        "Rinse the sprouts a couple of times and drain. Drain and store them in the refrigerator."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup of soybeans for sprouting (6½ ounces: 180 grams)"
+        },
+        {
+          "tag": "li",
+          "text": "water"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Rinse the soybeans in cold water and soak for 24 hours."
+        },
+        {
+          "tag": "li",
+          "text": "Pick out dead beans or broken beans and put the cleaned soybeans into a planter that has small holes in the bottom."
+        },
+        {
+          "tag": "li",
+          "text": "Pour water over the planter, little by little, till the beans are wet evenly. The water will drop out the holes in the bottom but the beans will be wet."
+        },
+        {
+          "tag": "li",
+          "text": "Cover the planter with a black cloth to keep the light out. If too much light gets in, the beans will turn green instead of a nice yellow color."
+        },
+        {
+          "tag": "li",
+          "text": "Repeat watering every 3 or 4 hours for 4 to 6 days until the beans grow about 4 inches."
+        },
+        {
+          "tag": "li",
+          "text": "Rinse the sprouts a couple of times and drain. Drain and store them in the refrigerator."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

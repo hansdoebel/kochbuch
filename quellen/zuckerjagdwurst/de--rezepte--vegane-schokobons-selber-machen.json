@@ -1,0 +1,37 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schokobons-selber-machen",
+  "recipes": [
+    {
+      "name": "Vegane Schokobons",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schokobons-selber-machen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schokobons-selber-machen#recipe-cdf1c862-fb34-5c3c-b479-f47f451012bf",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 40 Schokobons",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "180 g vegane weiße Schokolade",
+        "4 EL gemahlene Haselnüsse",
+        "100 g gehackte Haselnüsse",
+        "300 g vegane Milchschokolade"
+      ],
+      "instructions": [
+        "Die vegane weiße Schokolade in einem Wasserbad schmelzen. Gehackte und gemahlene Haselnüsse zur geschmolzenen weißen Schokolade geben und gut vermengen. Ca. 30 Minuten im Kühlschrank kaltstellen, bis die Mischung noch formbar, aber deutlich fester ist.",
+        "In der Zwischenzeit die vegane Milchschokolade ebenfalls schmelzen.",
+        "Aus dem weißen Schokoladenmix kleine ovale Eier formen und auf einem Backpapier oder einem Gitter komplett festwerden lassen.",
+        "Danach jedes „Ei“ in die flüssige vegane Milchschokolade tunken und auf einem Stück Backpapier oder einem Gitter abkühlen lassen. Abschließend Backpapier zuschneiden und die Schokoeier darin verpacken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

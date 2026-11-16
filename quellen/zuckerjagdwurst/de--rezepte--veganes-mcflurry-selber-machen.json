@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-mcflurry-selber-machen",
+  "recipes": [
+    {
+      "name": "Veganes McFlurry selber machen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-mcflurry-selber-machen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-mcflurry-selber-machen#recipe-51cf24d3-8617-5e22-b492-b2ca9020cfdf",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT180M",
+      "ingredients": [
+        "250 g vegane Mascarpone",
+        "200 g vegane, geschlagene Sahne",
+        "200 ml pflanzliche Milch",
+        "50 g weißer Zucker",
+        "Toppings (vegane Schokolinsen, dunkle Schokolade, Kekse ...)"
+      ],
+      "instructions": [
+        "Die vegane Mascarpone, die geschlagene Sahne, die pflanzliche Milch und den weißen Zucker in ein Gefäß geben, das geeignet ist für den Tiefkühler.",
+        "Alle Zutaten 2-3 Minuten pürieren, sodass eine cremige, homogene Masse entsteht.",
+        "Das Gefäß mit der weißen Flüßigkeit in den Tiefkühler stellen.",
+        "Nun alle 30 Minuten das Gefäß wieder heraus nehmen und erneut pürieren. Das ganze macht ihr vier bis fünf Mal, bis ihr die ideale Konsistenz erhaltet.",
+        "Das vegane McFlurry und mit Keksen, Schokolade oder Schokolinsen toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,141 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/kongnamulguk",
+  "recipes": [
+    {
+      "name": "Soybean sprout soup (Kongnamulguk)",
+      "source_url": "https://www.maangchi.com/recipe/kongnamulguk",
+      "recipe_id": "/recipe/kongnamulguk#sso/recipe/1989",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 pound soybean sprouts, washed and drained",
+        "8 large dried anchovies with the heads and guts removed",
+        "8 cups water",
+        "4 garlic cloves, minced",
+        "4 ounces onion, sliced (about ½ cup)",
+        "1 tablespoon (or more or less) gochu-garu (Korean hot pepper flakes)",
+        "1 tablespoon soy sauce",
+        "1 tablespoon fish sauce",
+        "2 teaspoons kosher salt (or more or less to your taste)",
+        "2 to 3 green onions, sliced diagonally",
+        "2 teaspoons toasted sesame oil",
+        "2 to 3 tablespoons toasted sesame seeds, ground"
+      ],
+      "instructions": [
+        "Place the anchovies in a stock pouch or tie them up in a piece of cheesecloth.",
+        "Place the soybean sprouts in a large pot. Add the water, dried anchovies, garlic, onion, gochu-garu, soy sauce, and fish sauce. Stir a few times with a spoon.",
+        "Cover and cook for 30 minutes over medium high heat. It may boil over while cooking, just crack the lid if it does.",
+        "Remove the anchovy pouch and discard.",
+        "Stir in the salt to taste, green onion, and cook for another minute.",
+        "Remove from the heat and stir in the sesame oil."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 3 to 4"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound soybean sprouts, washed and drained"
+        },
+        {
+          "tag": "li",
+          "text": "8 large dried anchovies with the heads and guts removed"
+        },
+        {
+          "tag": "li",
+          "text": "8 cups water"
+        },
+        {
+          "tag": "li",
+          "text": "4 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "4 ounces onion, sliced (about ½ cup)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon (or more or less) gochu-garu (Korean hot pepper flakes)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon fish sauce"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons kosher salt (or more or less to your taste)"
+        },
+        {
+          "tag": "li",
+          "text": "2 to 3 green onions, sliced diagonally"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "2 to 3 tablespoons toasted sesame seeds, ground"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Place the anchovies in a stock pouch or tie them up in a piece of cheesecloth."
+        },
+        {
+          "tag": "li",
+          "text": "Place the soybean sprouts in a large pot. Add the water, dried anchovies, garlic, onion, gochu-garu, soy sauce, and fish sauce. Stir a few times with a spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Cover and cook for 30 minutes over medium high heat. It may boil over while cooking, just crack the lid if it does."
+        },
+        {
+          "tag": "li",
+          "text": "Remove the anchovy pouch and discard."
+        },
+        {
+          "tag": "li",
+          "text": "Stir in the salt to taste, green onion, and cook for another minute."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and stir in the sesame oil."
+        },
+        {
+          "tag": "h3",
+          "text": "Serve"
+        },
+        {
+          "tag": "p",
+          "text": "Ladle into individual soup bowls, top each serving with sesame seeds powder. Serve with rice, kimchi, a few more side dishes (if desired). The soup can be refrigerated for up to 4 days."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

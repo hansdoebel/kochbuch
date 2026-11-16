@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-suesskartoffel-creme-brulee",
+  "recipes": [
+    {
+      "name": "Vegane Süßkartoffel Crème Brûlée",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-suesskartoffel-creme-brulee",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-suesskartoffel-creme-brulee#recipe-3b8034d2-cb68-5f77-ace1-97c64a6fd787",
+      "authors": [
+        "Anne-Sophie Hoffmann"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT250M",
+      "ingredients": [
+        "Für die Crème brûlée:",
+        "4 Süßkartoffeln",
+        "300 g Seidentofu",
+        "75 ml Kartoffelmilch (z. B. von DUG)",
+        "75 g weißer Zucker",
+        "1 Vanilleschote",
+        "1 Prise Salz",
+        "2.5 EL Speisestärke",
+        "Zum Flambieren:",
+        "4 EL weißer Zucker"
+      ],
+      "instructions": [
+        "Den Ofen auf 190 °C (Ober-/Unterhitze) vorheizen. Ein Backblech mit Backpapier auslegen und die Süßkartoffeln darauflegen. Mit einer Gabel mehrfach in die Oberseite jeder Süßkartoffel stechen. Die Süßkartoffeln 45–55 Minuten im Ofen backen, bis sie weich sind. Anschließend aus dem Ofen nehmen und abkühlen lassen, bis sie lauwarm sind.",
+        "Mit den Händen oder einer Gabel leicht auf die Oberseite der Süßkartoffeln drücken, sodass sie etwas flacher werden. Die Kartoffeln aufschneiden und mit einer Gabel, das Fruchtfleisch zerdrücken. Die Süßkartoffeln beiseitestellen.",
+        "Seidentofu, Kartoffelmilch, Zucker, das Mark der Vanilleschote und Salz in einem Topf vermischen und unter ständigem Rühren erhitzen. Stärke mit etwas Wasser glatt rühren und unter Rühren hinzugeben. Die Mischung kurz aufkochen lassen, bis sie andickt.",
+        "Die Crème ein paar Minuten leicht köcheln lassen, bis die Konsistenz puddingartig ist. Die Masse bei Raumtemperatur abkühlen lassen.",
+        "Nachdem die Masse etwas abgekühlt ist, vorsichtig in die Süßkartoffeln füllen und mindestens 2–3 Stunden (oder über Nacht) im Kühlschrank aufbewahren.",
+        "Erst kurz vor dem Servieren etwa 1 Esslöffel weißen Zucker über jede Süßkartoffel geben und gleichmäßig verteilen, sodass eine ebenmäßige Zuckerschicht entsteht. Die Zuckerschicht mit einem Butangasbrenner flambieren, bis sich eine braune Karamellschicht bildet. Direkt servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

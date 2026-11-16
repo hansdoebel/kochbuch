@@ -1,0 +1,68 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/yujacha",
+  "recipes": [
+    {
+      "name": "Yuja tea (Yujacha)",
+      "source_url": "https://www.maangchi.com/recipe/yujacha",
+      "recipe_id": "/recipe/yujacha#sso/recipe/65732",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Equal parts sliced yuja and sugar."
+      ],
+      "instructions": [
+        "Slice the yuja thinly. Remove as many seeds as you can find. Add to a bowl.",
+        "Add sugar. Mix.",
+        "Add a couple tablespoons of yujacha in a cup or glass. Stir with boiling hot water. Serve right away, with a small spoon. You can drink the tea and eat the rinds and pulp with the spoon.",
+        "It will keep in the fridge for a couple months."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "Equal parts sliced yuja and sugar."
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Slice the yuja thinly. Remove as many seeds as you can find. Add to a bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Add sugar. Mix."
+        },
+        {
+          "tag": "h3",
+          "text": "Serve:"
+        },
+        {
+          "tag": "li",
+          "text": "Add a couple tablespoons of yujacha in a cup or glass. Stir with boiling hot water. Serve right away, with a small spoon. You can drink the tea and eat the rinds and pulp with the spoon."
+        },
+        {
+          "tag": "li",
+          "text": "It will keep in the fridge for a couple months."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

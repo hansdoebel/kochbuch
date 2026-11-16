@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kaesebroetchen",
+  "recipes": [
+    {
+      "name": "Vegane Käsebrötchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kaesebroetchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kaesebroetchen#recipe-ec5b3e97-935a-5614-be08-4a903728e767",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Brötchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "250 g Weizenmehl (Type 550)",
+        "150 g Dinkelmehl (Type 630)",
+        "5 g Trockenhefe",
+        "1 TL Salz",
+        "300 ml lauwarmes Wasser",
+        "1 TL Zucker",
+        "200–300 g veganer Streukäse",
+        "Wasser",
+        "Pflanzenöl"
+      ],
+      "instructions": [
+        "Für den Teig Weizen- und Dinkelmehl, Trockenhefe, Salz und Zucker in der Schüssel einer Küchenmaschine vermengen. Anschließend nach und nach lauwarmes Wasser dazugeben und alles mehrere Minuten zu einem geschmeidigen Teig verkneten.",
+        "Tipp: Es kann sein, dass ihr mehr oder weniger Wasser benötigt. Gebt es deshalb erst nach und nach dazu und am besten nur soviel, dass ihr keinen zu festen Teig habt. Da später beim Formen noch mehr Mehl dazukommt, wird der Teig sonst manchmal zu trocken.",
+        "Den Teig mit einem sauberen, feuchten Küchentuch abdecken und entweder 1–2 Stunden bei Raumtemperatur oder über Nacht im Kühlschrank gehen lassen, bis sich das Volumen in etwa verdoppelt hat.",
+        "Den Teig anschließend auf einer bemehlten Arbeitsfläche in 6 gleich große Portionen teilen und aus jeder Teigportion ein Brötchen formen. Die Brötchen auf ein mit Backpapier belegtes Backblech legen und erneut ca. 20 Minuten bei Raumtemperatur gehen lassen.",
+        "Den Backofen auf 220–230 °C (Umluft) vorheizen. Den veganen Streukäse etwas kleiner hacken und mit einem kleinen Schuss Wasser und Pflanzenöl vermengen. Die Brötchen nach dem zweiten Gehen mit dem veganen Käse belegen.",
+        "Die Brötchen bei 220–230 °C (Umluft) ca. 20 Minuten backen, bis die „Käseschicht” goldbraun ist. Dabei eine ofenfeste Schale mit Wasser auf den Boden des Ofens stellen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

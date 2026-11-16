@@ -1,0 +1,46 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/high-protein-3-cheese-pizza",
+  "recipes": [
+    {
+      "name": "High Protein 3 Cheese Pizza",
+      "source_url": "https://app.cookwell.com/recipe/high-protein-3-cheese-pizza",
+      "recipe_id": "https://app.cookwell.com/recipe/high-protein-3-cheese-pizza",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2 pizzas",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT3H48M",
+      "ingredients": [
+        "Bread flour, 150 g",
+        "Keto flour, 50 g",
+        "Salt, 4 g",
+        "Instant yeast, 4 g",
+        "Water, 170 g",
+        "Tomato sauce, 75 g",
+        "Fresh mozzarella, 56 g",
+        "Ricotta, 50 g",
+        "Parmesan, 14 g",
+        "Butter, 5 g",
+        "Garlic, 1 clove",
+        "Black Pepper, a sprinkle",
+        "Fresh basil, for garnish"
+      ],
+      "instructions": [
+        "Set a bowl over a scale and add 150 grams bread flour, 50 grams keto flour mix, 4 grams of salt, 4 grams of yeast, and 170 grams of warm water before mixing. Once mixed into a soggy mass, place a cover over the top and let rest for 20 minutes. After 20 minutes, knead the dough into a smooth dough ball and let rest covered for 2 to 3 hours. It should double in size during this time.",
+        "Sprinkle some of the keto flour on the bench and separate the dough into two equal balls which will make our personal pizzas. Roll the dough tightly into balls. Toss a towel over the top and let bench rest for another 45 to 60 minutes. During this time, preheat your oven to 500°F/ 260°C and get your toppings ready. To stretch each pizza, flip the dough over and using your hands, work it into a reasonably thin pizza. Somewhere around 10 inches in diameter. Place on a pan.",
+        "Add the tomato sauce, even dollops or pieces of each cheese throughout, any extra toppings you might want, and lastly, black pepper. Slide the pizza into the oven and bake for about 6 minutes. During this time, melt butter and grated garlic in a bowl in the microwave.",
+        "Pull the pizza out of the oven and sprinkle minced fresh basil. Slather the crust with the garlic butter sauce before tossing back in the oven for 1 to 2 more minutes until browned and crisp to your liking. Repeat the stretching, topping, and baking process for the second pizza."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

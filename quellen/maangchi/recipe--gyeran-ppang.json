@@ -1,0 +1,133 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/gyeran-ppang",
+  "recipes": [
+    {
+      "name": "Egg bread (Gyeran-ppang: 계란빵)",
+      "source_url": "https://www.maangchi.com/recipe/gyeran-ppang",
+      "recipe_id": "/recipe/gyeran-ppang#sso/recipe/67080",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 tablespoon unsalted butter, melted",
+        "3 tablespoons sugar",
+        "a pinch of kosher salt",
+        "1 teaspoon baking powder",
+        "½ teaspoon vanilla extract",
+        "½ cup all purpose flour",
+        "½ cup milk",
+        "4 eggs",
+        "1 teaspoon cooking oil",
+        "1 stick of mozzarella cheese (optional), cut into 6 equal-sized small pieces if used."
+      ],
+      "instructions": [
+        "Make batter by combining butter, sugar, kosher salt, baking powder,vanilla extract, 1 egg, flour, and milk. Whisk until smooth.",
+        "Preheat the oven to 400°F (about 200°C).",
+        "Brush the bottom and the sides of 3 mini loaf pans (approximately 4 x 2 x 1½ inch) with cooking oil.",
+        "Fill each pan about ½ full with batter, dividing it into 3 equal portion.",
+        "Put 2 pieces of cheese into the batter, on the edges of the pans, leaving a space in the center.",
+        "Crack an egg onto the center of the batter in each pan.",
+        "Place pans on the middle rack of the oven and bake for 13 minutes, and closer to 15 minutes if you prefer a solid egg.",
+        "Take out of the oven and serve hot!"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Makes 3 gyeran-ppang"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon unsalted butter, melted"
+        },
+        {
+          "tag": "li",
+          "text": "3 tablespoons sugar"
+        },
+        {
+          "tag": "li",
+          "text": "a pinch of kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon baking powder"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon vanilla extract"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup all purpose flour"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup milk"
+        },
+        {
+          "tag": "li",
+          "text": "4 eggs"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon cooking oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 stick of mozzarella cheese (optional), cut into 6 equal-sized small pieces if used."
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Make batter by combining butter, sugar, kosher salt, baking powder,vanilla extract, 1 egg, flour, and milk. Whisk until smooth."
+        },
+        {
+          "tag": "li",
+          "text": "Preheat the oven to 400°F (about 200°C)."
+        },
+        {
+          "tag": "li",
+          "text": "Brush the bottom and the sides of 3 mini loaf pans (approximately 4 x 2 x 1½ inch) with cooking oil."
+        },
+        {
+          "tag": "li",
+          "text": "Fill each pan about ½ full with batter, dividing it into 3 equal portion."
+        },
+        {
+          "tag": "li",
+          "text": "Put 2 pieces of cheese into the batter, on the edges of the pans, leaving a space in the center."
+        },
+        {
+          "tag": "li",
+          "text": "Crack an egg onto the center of the batter in each pan."
+        },
+        {
+          "tag": "li",
+          "text": "Place pans on the middle rack of the oven and bake for 13 minutes, and closer to 15 minutes if you prefer a solid egg."
+        },
+        {
+          "tag": "li",
+          "text": "Take out of the oven and serve hot!"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

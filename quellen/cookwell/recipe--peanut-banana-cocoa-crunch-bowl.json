@@ -1,0 +1,36 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/peanut-banana-cocoa-crunch-bowl",
+  "recipes": [
+    {
+      "name": "Peanut Banana Cocoa Crunch Bowl",
+      "source_url": "https://app.cookwell.com/recipe/peanut-banana-cocoa-crunch-bowl",
+      "recipe_id": "https://app.cookwell.com/recipe/peanut-banana-cocoa-crunch-bowl",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 bowl",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT5M",
+      "ingredients": [
+        "Greek Yogurt, 150 g",
+        "Bananas, 65 g",
+        "Protein bars, 1/2",
+        "Peanuts, 14 g",
+        "Cocoa nibs, 6 g",
+        "Honey, a drizzle"
+      ],
+      "instructions": [
+        "Add yogurt to a bowl, followed by frozen banana chunks, protein bar cubes, peanuts, cocoa, and a drizzle of honey. Customize it how you like! Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

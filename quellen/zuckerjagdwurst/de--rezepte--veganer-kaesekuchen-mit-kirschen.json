@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kaesekuchen-mit-kirschen",
+  "recipes": [
+    {
+      "name": "Veganer Käsekuchen mit Kirschen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kaesekuchen-mit-kirschen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kaesekuchen-mit-kirschen#recipe-ab7e33dc-9581-50cc-b4d2-e6202a57c31d",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (ø 24 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT105M",
+      "ingredients": [
+        "Für den Teig:",
+        "300 g Weizenmehl (Type 405)",
+        "80 g Zucker",
+        "3 TL Backpulver",
+        "1 Prise Salz",
+        "180 g vegane Margarine",
+        "Für die Käsekuchenfüllung:",
+        "150 g vegane Margarine",
+        "74 g veganes Vanille-Puddingpulver",
+        "800 g pflanzlicher Joghurt Natur",
+        "50 g brauner Zucker",
+        "pflanzliche Milch",
+        "Für die Kirschschicht:",
+        "500 g frische Kirschen (oder Schattenmorellen aus dem Glas, 370 g Abtropfgewicht)",
+        "300 ml Heimischer Multisaft mit Trauben Kirschen & Rhabarber (z. B. von Voelkel)",
+        "3 EL Speisestärke"
+      ],
+      "instructions": [
+        "Für den Teig Mehl, Zucker, Backpulver und Salz in einer Schüssel vermischen. Die vegane Margarine hinzugeben und mit den Händen unterkneten.",
+        "Den Boden einer Springform (ø 24 cm) mit Backpapier auslegen und mit Margarine einfetten. Den Teig in die Kuchenform geben und mit den Fingern fest an den Boden drücken, sodass ein gleichmäßiger Boden entsteht.",
+        "Den Ofen auf 180 °C (Umluft) vorheizen. Für die Füllung die Margarine in einem kleinen Topf schmelzen und im Anschluss etwas abkühlen lassen.",
+        "In einer Schüssel das Vanille-Puddingpulver mit etwas pflanzlicher Milch verrühren, bis keine Klümpchen mehr vorhanden sind. Veganen Joghurt in eine große Schüssel geben und den Puddingmix und Zucker unterrühren. Sobald die Margarine maximal lauwarm ist, ebenfalls mit einem Schneebesen unterrühren.",
+        "Die Füllung in die Kuchenform gießen. Den Kuchen bei 180 °C (Umluft) etwa 60 Minuten backen und danach mind. 20–30 Minuten abkühlen lassen.",
+        "Nun die Kirschschicht zubereiten: Dafür die frischen Kirschen entstielen und entkernen (das geht besonders gut mit einem Strohhalm). In einem Topf den Multisaft mit den Kirschen erhitzen und die Speisestärke mit etwas Wasser glattrühren und hinzugeben. Nach 2–3 Minuten sollte die Masse andicken, sodass sie über den Kuchen (der noch in der Kuchenform ist) gegossen werden kann. Nochmals 1–2 Stunden abkühlen lassen und servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/peach-thyme-iced-tea-13",
+  "recipes": [
+    {
+      "name": "Peach Thyme Iced Tea",
+      "source_url": "https://www.pickuplimes.com/recipe/peach-thyme-iced-tea-13",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT20M",
+      "total_time": "PT02H30M",
+      "ingredients": [
+        "4 cup boiling water",
+        "4 white tea bag",
+        "3 lemon",
+        "6 peach",
+        "10 sprig fresh thyme",
+        "1 cup water",
+        "⅓ cup maple syrup",
+        "1½ cup ice cubes",
+        "½ peach",
+        "4 sprig fresh thyme"
+      ],
+      "instructions": [
+        "Add the boiled water and tea bags to a large jar and let it steep for 8 to 10 minutes.",
+        "Then remove the tea bags and let the tea cool off. Once cooled, stir in the lemon juice.",
+        "Add the peaches, thyme, water, and maple syrup to a saucepan.",
+        "Bring to a boil, then reduce to a gentle simmer and cook uncovered for about 20 minutes, stirring occasionally. Once softened, mash the peaches using the back of a spatula or tamper.",
+        "Place a sieve over a bowl and strain through the peach mixture. Using the back of a spoon, press out as much liquid from the mixture into the bowl as possible*. Let this cool off completely.",
+        "Divide the ice cubes between your glasses. Then pour in one part peach syrup to two parts of the cooled lemon tea mixture.",
+        "Taste test and sweeten with more maple syrup or agave syrup if desired. Stir, garnish, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * No need to throw away the peach purée that remains in the sieve. You can either eat it as is (it's like eating applesauce!) or add it to a smoothie or oatmeal.",
+    "Storage The syrup can be made ahead and stored in a jar in the fridge for up to 3 days. The tea and syrup mix can be stored in a glass jar in the fridge for up to 2 days, but add the ice just before enjoying."
+  ]
+}

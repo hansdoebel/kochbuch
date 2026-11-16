@@ -1,0 +1,49 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/weeknight-chicken-burrito",
+  "recipes": [
+    {
+      "name": "Weeknight Chicken Burrito",
+      "source_url": "https://app.cookwell.com/recipe/weeknight-chicken-burrito",
+      "recipe_id": "https://app.cookwell.com/recipe/weeknight-chicken-burrito",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Chicken Thighs, ~ 454 g",
+        "Salt, 5 g",
+        "Cumin seeds, 2 parts",
+        "Coriander seeds, 1 part",
+        "Chili Powder, 1/2 part",
+        "Black Beans, 800 g",
+        "Jalapeños, 1",
+        "Garlic, 1 clove",
+        "Lime juice, 1/2 lime",
+        "Large 12\" flour tortillas, 2-4",
+        "Cheese",
+        "Salsa",
+        "Lettuce",
+        "Crema",
+        "Pickled onions"
+      ],
+      "instructions": [
+        "Place the chicken on a sheet tray and evenly coat it with salt on both sides. In a mortar & pestle, add the spices and grind them together. Heavily season the chicken with the spices on both sides.",
+        "Set a griddle over high heat. Add a drizzle of oil. Once it’s hot, add the chicken and let it sear until well browned on each side. Check the temp to make sure they reach 165°F/74°C. While the chicken sears, start making the beans.",
+        "Set a pan over medium-high heat and add a drizzle of oil. Add the jalapeños and garlic to the pan and let them toast for several minutes. Add the beans to the skillet and bring them to a simmer. As the liquid evaporates, half-mash the beans with a masher or spoon. Take the beans off the heat and add the juice from half of a lime.",
+        "Prep any other filling components you are using: chop lettuce, shred cheese, and pull out the salsa and crema. Once the chicken is fully cooked, take it off the griddle and chop it up.",
+        "Toss the tortilla in the microwave for a few seconds until warm. Place the tortilla on the work surface and add a layer of beans followed by the chicken. Next, add cheese, salsa, lettuce, onion, and crema. Roll it up & wrap it in foil to let it all steam together if desired. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

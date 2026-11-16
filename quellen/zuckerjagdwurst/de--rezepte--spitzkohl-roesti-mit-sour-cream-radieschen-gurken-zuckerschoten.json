@@ -1,0 +1,68 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/spitzkohl-roesti-mit-sour-cream-radieschen-gurken-zuckerschoten",
+  "recipes": [
+    {
+      "name": "Spitzkohl-Rösti mit Sour-Cream und Radieschen-Gurken-Zuckerschoten-Salat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/spitzkohl-roesti-mit-sour-cream-radieschen-gurken-zuckerschoten",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/spitzkohl-roesti-mit-sour-cream-radieschen-gurken-zuckerschoten#recipe-347c6725-dc93-5242-be8a-742d69f55096",
+      "authors": [
+        "Anne-Sophie Hoffmann"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen / 4 Rösti",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "Für die Rösti:",
+        "400 g Spitzkohl (etwa 0.5 Kopf)",
+        "100 g gelbe Karotten",
+        "2 Frühlingszwiebeln",
+        "150 g Weizenmehl (Type 550)",
+        "20 g Speisestärke",
+        "5 g Backpulver",
+        "1.5 TL Salz",
+        "150 ml Wasser",
+        "1 EL Apfelessig",
+        "3 EL Rapsöl",
+        "Für die Sour-Cream:",
+        "0.25 TL Knoblauchpulver",
+        "1 TL Zitrone (Saft)",
+        "300 g vegane Sour-Cream",
+        "Salz",
+        "Pfeffer",
+        "Für das Salat-Dressing:",
+        "1 Schalotte",
+        "2 EL Sesamöl",
+        "1 TL Reisweinessig",
+        "1 TL Agavendicksaft",
+        "1 TL Zitrone (Saft)",
+        "0.25 TL Salz",
+        "Für den Salat:",
+        "0.5 große Gurke",
+        "6 Radieschen",
+        "50 g Zuckerschoten",
+        "2 EL Dill",
+        "1.5 EL Minze",
+        "0.5 TL Sesam (hell)",
+        "Außerdem:",
+        "knuspriges Chili-Öl"
+      ],
+      "instructions": [
+        "Spitzkohl fein hobeln und Karotten raspeln. Frühlingszwiebel in Ringe schneiden. Geraspeltes Gemüse in eine große Schüssel geben. Mehl, Speisestärke, Backpulver, Salz, Wasser und Apfelessig dazugeben und kräftig verrühren.",
+        "2 Esslöffel Rapsöl in eine heiße Pfanne geben. Teig in die Pfanne geben und gleichmäßig glatt streichen. Zuerst 8 Minuten mit Deckel bei mittlerer bis hoher Hitze braten. Dann auf einen Teller stürzen, das restliche Öl in die Pfanne geben und den Rösti auf der anderen Seite 3–4 Minuten ohne Deckel fertig braten.",
+        "Währenddessen den Sour-Cream-Dip und den Salat zubereiten. Dafür Knoblauchpulver, Zitronensaft, Salz und Pfeffer unter die Sour-Cream mischen.",
+        "Schalotte fein hacken und zusammen mit Sesamöl, Reisweinessig, Agavendicksaft, Zitronensaft und Salz in einer Schüssel vermengen.",
+        "Gurke und Radieschen fein hobeln und die Zuckerschoten in mundgerechte Stücke schneiden. Dill und Minze fein hacken. Gurken, Radieschen, Zuckerschoten und Kräuter zusammen mit dem Dressing in einer Schüssel vermengen.",
+        "Rösti zum Servieren auf einen großen Teller geben und mit veganem Sour-Cream-Dip und Salat toppen. Nach Belieben mit etwas knusprigem Chili-Öl garnieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

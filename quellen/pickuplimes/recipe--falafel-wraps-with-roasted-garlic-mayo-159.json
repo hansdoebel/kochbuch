@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/falafel-wraps-with-roasted-garlic-mayo-159",
+  "recipes": [
+    {
+      "name": "Falafel Wraps with Roasted Garlic Mayo",
+      "source_url": "https://www.pickuplimes.com/recipe/falafel-wraps-with-roasted-garlic-mayo-159",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 wraps",
+      "prep_time": "PT10M",
+      "cook_time": "PT20M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "1 head of garlic",
+        "1 tsp olive oil",
+        "16 falafel",
+        "¼ cup vegan mayonnaise",
+        "¾ cup hummus",
+        "4 pita bread",
+        "8 romaine lettuce leaf",
+        "2 medium tomato",
+        "¼ cucumber",
+        "¼ cup black olives"
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F (180°C)*. Cut the top ½ cm off the top of a bulb of garlic to expose the cloves.",
+        "Transfer to a baking tray, and drizzle on the olive oil. Roast for 15 minutes.",
+        "Add the falafels to the baking tray with the garlic and bake for another 5 minutes, or according to the package instructions.",
+        "When cool enough to handle, squeeze the garlic from the peel into a small bowl, and mash it with a fork. Then add the mayo and mix well.",
+        "Spread a generous amount of hummus and garlic mayo on the wrap. Add the falafel and veg, roll it up, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage The assembled wrap is best if enjoyed immediately. The garlic mayo can be stored in an airtight container in the fridge for up to 3 days."
+  ]
+}

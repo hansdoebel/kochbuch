@@ -1,0 +1,40 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/high-protein-gochujang-noodles",
+  "recipes": [
+    {
+      "name": "High Protein Gochujang Noodles",
+      "source_url": "https://app.cookwell.com/recipe/high-protein-gochujang-noodles",
+      "recipe_id": "https://app.cookwell.com/recipe/high-protein-gochujang-noodles",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 serving",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "Vite ramen, 1 pack",
+        "Eggs, 1",
+        "Cooking oil, a drizzle",
+        "Gochujang, 10 g",
+        "Kewpie mayo, 5 g",
+        "Chinese Black Vinegar, 5 g",
+        "Scallions",
+        "Black sesame seeds"
+      ],
+      "instructions": [
+        "Boil the noodles according to package directions, and drain.",
+        "In a small bowl, mix together gochujang, mayo, and vinegar until smooth. Taste and adjust if needed. Fry a sunny side up egg to your desired doneness and set aside.",
+        "In the noodle pot, mix together the drained noodles and the noodle sauce. Add the noodles to a plate, and top it with a fried egg, sliced scallions, and black sesame seeds. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

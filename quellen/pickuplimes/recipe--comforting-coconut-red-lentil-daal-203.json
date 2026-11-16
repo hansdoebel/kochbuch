@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/comforting-coconut-red-lentil-daal-203",
+  "recipes": [
+    {
+      "name": "Comforting Coconut Red Lentil Dal",
+      "source_url": "https://www.pickuplimes.com/recipe/comforting-coconut-red-lentil-daal-203",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT27M",
+      "total_time": "PT37M",
+      "ingredients": [
+        "1 Tbsp vegetable oil",
+        "1 medium onion",
+        "3 garlic clove",
+        "1 medium carrot",
+        "1 Tbsp grated fresh ginger",
+        "2 tsp curry powder",
+        "1 tsp ground turmeric",
+        "1 tsp ground cumin",
+        "½ tsp sweet paprika powder",
+        "1 pinch salt",
+        "2 cup dry red lentils",
+        "2 cup vegetable broth",
+        "1⅔ cup canned full-fat coconut milk",
+        "1½ cup basmati rice",
+        "2¼ cup water",
+        "6 cardamom pod"
+      ],
+      "instructions": [
+        "Heat the oil in a sauté pan over medium-high heat. Cook the onion and garlic for 4 minutes.",
+        "Add the carrot and ginger, and cook for another 2 minutes.",
+        "Add all of the spices. Stir for 30 - 60 seconds to toast the spices.",
+        "Add the lentils and vegetable broth. Cover, and cook at a simmer for 15 minutes.",
+        "Meanwhile, add the rice, water, and cardamom to a medium pot. Simmer covered for 13 minutes until cooked. Then remove from the heat and cover with a lid until ready to serve.",
+        "Add the coconut milk and cook until heated through.",
+        "Serve the rice alongside the daal. Garnish as desired. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † If you did not soak the rice, you may need to add more water.",
+    "Storage Store the daal in an airtight container in the fridge for up to 4 days, or in the freezer for up to 2 months."
+  ]
+}

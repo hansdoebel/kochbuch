@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/saftiger-glutenfreier-rhabarber-erdbeer-kuchen-vom-blech",
+  "recipes": [
+    {
+      "name": "Saftiger glutenfreier Rhabarber-Erdbeer-Kuchen vom Blech",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/saftiger-glutenfreier-rhabarber-erdbeer-kuchen-vom-blech",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/saftiger-glutenfreier-rhabarber-erdbeer-kuchen-vom-blech#recipe-84c6b8ae-5c9a-5c81-8622-759ec506f9af",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Blech",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Für den Teig:",
+        "750 g glutenfreies Mehl (z. B. der Mix Kuchen & Kekse von Schär)",
+        "450 g Zucker",
+        "32 g (2.5 EL) Backpulver",
+        "16 g (1.5 EL) Vanillezucker",
+        "150 ml neutrales Pflanzenöl zum Backen",
+        "800 ml Sprudelwasser",
+        "Salz",
+        "Für die Streusel:",
+        "300 g glutenfreies Mehl (z. B. der Mix Kuchen & Kekse von Schär)",
+        "50 g gemahlene Nüsse",
+        "100 g gehackte Nüsse",
+        "100 g Zucker",
+        "200 g vegane Butter (kalt)",
+        "Salz",
+        "Für die Obstschicht:",
+        "750 g Rhabarber",
+        "500 g Erdbeeren"
+      ],
+      "instructions": [
+        "Den Backofen auf 200 °C (Ober-/Unterhitze) vorheizen. Rhabarber falls nötig schälen und in kleine Stücke schneiden. Die Erdbeeren waschen und ebenfalls klein schneiden.",
+        "Für die Streusel glutenfreies Mehl, gemahlene und gehackte Nüsse, Zucker und eine Prise Salz vermengen. Die kalte vegane Butter in kleinen Stücken dazugeben und in die Mehlmischung einkneten, bis ein Streuselteig entsteht. Bis zur Verwendung in den Kühlschrank stellen.",
+        "Für den Rührteig glutenfreies Mehl, Zucker, Backpulver, Vanillezucker und eine Prise Salz vermengen. Pflanzenöl und Sprudelwasser dazugeben und in einer großen Schüssel nur so lange verrühren, bis kein trockenes Mehl mehr zu sehen ist.",
+        "Ein Backblech fetten und mit glutenfreiem Mehl ausklopfen oder mit Backpapier auslegen. Den Teig hineingeben und mit dem geschnittenen Obst und den Streuseln bedecken.",
+        "Bei 200 °C (Ober-/Unterhitze) circa 60 Minuten backen. Vor dem Anschneiden abkühlen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

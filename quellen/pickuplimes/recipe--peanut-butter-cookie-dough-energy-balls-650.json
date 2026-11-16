@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/peanut-butter-cookie-dough-energy-balls-650",
+  "recipes": [
+    {
+      "name": "Peanut Butter Cookie Dough Energy Balls",
+      "source_url": "https://www.pickuplimes.com/recipe/peanut-butter-cookie-dough-energy-balls-650",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "23 balls",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT10M",
+      "ingredients": [
+        "1 cup puffed rice",
+        "1 cup natural peanut butter",
+        "½ cup unsweetened toasted shredded coconut",
+        "2 Tbsp maple syrup",
+        "½ tsp pure vanilla extract",
+        "¼ tsp salt",
+        "¼ cup mini dark chocolate chips"
+      ],
+      "instructions": [
+        "In a large bowl, combine the puffed rice, peanut butter, coconut, maple syrup, vanilla, and salt*. Mix. Add the chocolate chips, and mix again.",
+        "Using a tablespoon measure, scoop a large spoonful of dough into your hands and roll it into a ball**. Repeat with remaining dough until finished.",
+        "Optional step: roll the energy balls through extra toasted shredded coconut. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * If your peanut butter is already salted, consider omitting this salt. ** The consistency of peanut butter can vary from brand to brand. If you find that the mixture is too wet, simply add more shredded coconut until the mixture is easy to work with.",
+    "Storage Store in an airtight container in the fridge for up to 5 days. Store in the freezer for up to 2 months."
+  ]
+}

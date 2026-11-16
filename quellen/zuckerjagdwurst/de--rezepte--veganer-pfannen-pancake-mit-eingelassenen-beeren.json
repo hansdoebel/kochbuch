@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-pfannen-pancake-mit-eingelassenen-beeren",
+  "recipes": [
+    {
+      "name": "Schneller, veganer Pfannen-Pancake mit eingelassenen Beeren",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-pfannen-pancake-mit-eingelassenen-beeren",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-pfannen-pancake-mit-eingelassenen-beeren#recipe-21acbf50-9e27-5ebc-9eea-c9fecd98186e",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Pancake (2 Portionen)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Pancaketeig",
+        "125 g Mehl",
+        "7 g Backpulver",
+        "10 g Vanillezucker",
+        "25 g weißer Zucker",
+        "Prise Salz",
+        "1 TL Apfelessig",
+        "200 ml pflanzliche Milch",
+        "1 EL pflanzliche Butter (zum Einfetten der Pfanne)",
+        "100 g Erdbeeren (oder andere Beeren)",
+        "Toppings",
+        "100 g pflanzlicher Joghurt oder Quark",
+        "2 EL Marmelade (Erdbeere, Himbeere..)",
+        "50 g frische Beeren",
+        "50 g Puderzucker"
+      ],
+      "instructions": [
+        "Die pflanzliche Milch mit dem Apfelessig in einer Schüssel vermischen und für 10 Minuten bei Seite stellen.",
+        "In einer weiteren Schüssel Mehl, Zucker, Salz, Vanillinzucker und Backpulver vermischen.",
+        "Nun die Milch zu den trockenen Zutaten geben und zu einem glatten Teig verrühren. Nochmals 10 Minuten bei Seite stellen.",
+        "Die Erdbeeren und Blaubeeren waschen. Den Strunk der Erdbeeren entfernen und die Erdbeeren halbieren.",
+        "Eine kleine, beschichtete Pfanne mit etwas Öl beschichten (auch die Ränder). Nun die Erdbeeren und Blaubeeren darin platzieren und anschließend vorsichtig mit dem Teig auffüllen.",
+        "Erst jetzt den Herd anschalten und den Pancake auf kleiner Flamme für mindestens 5 Minuten ausbacken. Einmal wenden (funktioniert am besten mit der Hilfe eines flachen Tellers) und auch von der anderen Seiten backen.",
+        "Mit pflanzlichem Joghurt, etwas Marmelade, frischen Früchten oder Puderzucker servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

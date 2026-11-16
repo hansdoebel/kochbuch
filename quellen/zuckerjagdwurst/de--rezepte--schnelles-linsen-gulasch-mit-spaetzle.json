@@ -1,0 +1,64 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schnelles-linsen-gulasch-mit-spaetzle",
+  "recipes": [
+    {
+      "name": "Schnelles Linsen-Gulasch mit Spätzle",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schnelles-linsen-gulasch-mit-spaetzle",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/schnelles-linsen-gulasch-mit-spaetzle#recipe-4e11c783-2896-5b60-866e-4908cef43076",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für das Linsen-Gulasch:",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "3 Karotten",
+        "50 g vegane Butter",
+        "2 EL Tomatenmark",
+        "2 EL Senf",
+        "2 EL Mehl",
+        "100 ml veganer Rotwein",
+        "450 ml Gemüsebrühe",
+        "2 Nelken",
+        "2 Lorbeerblätter",
+        "265 g (Abtropfgewicht) vorgekochte braune Linsen aus der Dose",
+        "200 g TK-Erbsen",
+        "50 g Sonnenblumenkerne",
+        "2 EL Sojasoße",
+        "Salz",
+        "Pfeffer",
+        "Für den Rotkohl-Salat:",
+        "400 g Rotkohl",
+        "1 Apfel",
+        "1 Zwiebel",
+        "2 EL Marmelade (z. B. Aprikose)",
+        "2 EL Olivenöl",
+        "1–2 EL Wasser",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "500 g vegane Spätzle"
+      ],
+      "instructions": [
+        "Zwiebel und Knoblauch fein würfeln und Karotten in Scheiben schneiden.",
+        "Vegane Butter in einem großen Topf erhitzen und die Zwiebel zusammen mit den Karotten circa 5 Minuten anbraten. Sobald die Zwiebeln glasig sind, Knoblauch, Tomatenmark und Senf hinzugeben und mit anbraten, bis sich das Tomatenmark braun verfärbt. Dann Mehl hinzugeben und gut vermengen.",
+        "Mit Rotwein und Gemüsebrühe ablöschen und kurz aufkochen lassen. Lorbeerblätter und Nelken dazugeben. Mit einem Deckel 5 Minuten köcheln lassen. Am Ende TK-Erbsen und Linsen hinzugeben und für 2–3 Minuten mit erwärmen. Mit Sojasoße, Salz und Pfeffer abschmecken.",
+        "Vegane Spätzle nach Packungsanleitung zubereiten.",
+        "Rotkohl in dünne Streifen schneiden, Apfel und Zwiebel würfeln. Für das Dressing Marmelade, Olivenöl und etwas Wasser verrühren und mit Salz und Pfeffer abschmecken. Alle Zutaten mit dem Dressing gut vermengen.",
+        "Lorbeerblätter und Nelken aus dem Gulasch herausnehmen und Sonneblumenkerne unterheben. Nochmal abschmecken und mit veganen Spätzle und Rotkohlsalat servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

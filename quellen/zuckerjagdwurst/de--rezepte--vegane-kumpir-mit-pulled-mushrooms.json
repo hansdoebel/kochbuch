@@ -1,0 +1,88 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kumpir-mit-pulled-mushrooms",
+  "recipes": [
+    {
+      "name": "Eingelegte Zwiebeln",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kumpir-mit-pulled-mushrooms",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kumpir-mit-pulled-mushrooms#recipe-394d089d-ad3b-55ed-a894-ba005e787352",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "1 rote Zwiebel",
+        "100 ml veganer Weißweinessig",
+        "100 ml Wasser",
+        "1 TL Zucker",
+        "1 Prise Salz"
+      ],
+      "instructions": [
+        "Rote Zwiebel schälen, halbieren und in dünne Scheiben schneiden. Die Zwiebeln in ein Gefäß geben, das luftdicht verschließbar ist.",
+        "In einem kleinen Topf Weißweinessig, Wasser, Zucker und Salz vermengen und kurz erwärmen, sodass sich der Zucker komplett auflöst. Die Flüssigkeit muss dafür nicht zwingend aufkochen, jedoch schadet es auch nicht.",
+        "Die Wasser-Essig-Mischung über die Zwiebeln gießen, mit einem Deckel luftdicht verschließen und am besten für 24 Stunden stehen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Vegane Kumpir mit Pulled Mushrooms",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kumpir-mit-pulled-mushrooms",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kumpir-mit-pulled-mushrooms#recipe-101c2469-fb4d-58cb-b469-3c346c7d0149",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für die Kumpir:",
+        "4 große, mehligkochende Kartoffeln",
+        "50 g vegane Butter",
+        "50 g veganer Streukäse",
+        "Für die Toppings:",
+        "100 g Rotkohl",
+        "1 Karotte",
+        "1 eingelegte rote Zwiebel",
+        "4 saure Gurken aus dem Glas",
+        "1 Romana Salatherz",
+        "optional: 5 g Koriander oder Petersilie",
+        "Für die Pulled Mushrooms:",
+        "400 g Kräuterseitlinge oder Austernpilze",
+        "1 Rote Zwiebel",
+        "1 Knoblauchzehe",
+        "2-3 EL Sojasoße",
+        "100 ml vegane BBQ Soße",
+        "Für den Joghurt-Dip:",
+        "400 g pflanzlichen Natur-Joghurt (z. B. Lughurt Natur von LUVE)",
+        "1 Rote Zwiebel",
+        "1 Knoblauchzehe",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Den Backofen auf 200°C Umluft vorheizen. Die Kartoffeln (falls notwendig) säubern und mit einer Gabel mehrfach von allen Seiten einstechen. Danach im vorgeheizten Backofen bei 200°C etwa 40 - 60 Minuten backen (je nach Größe der Kartoffeln). Wenn man mit einer Gabel in die Kartoffeln hineinsticht, sollte sie butterweich wieder rausgezogen werden können.",
+        "Für den veganen Joghurt-Dip Zwiebel und Knoblauch schälen. Die Zwiebel fein hacken und mit pflanzlichem Joghurt, Salz und Pfeffer vermischen. Die Knoblauchzehe mithilfe einer Knoblauchpresse hinzugeben und unterrühren.",
+        "Nun alle weiteren Toppings vorbereiten: Den Rotkohl waschen und in feine Streifen schneiden, die Karotten schälen und Julienne schneiden, die sauren Gurken in Würfel schneiden und das Romana Salatherz waschen und ebenfalls in Streifen schneiden. Optional: Koriander oder Petersilie waschen und die Blätter abzupfen.",
+        "Für die Pulled Mushrooms die Kräuterseitlinge oder Austernpilze mit einem feuchten Tuch säubern und mithilfe einer Gabel „zerrupfen“. Zwiebel und Knoblauch schälen und fein schneiden. Eine große Pfanne mit etwas Öl erhitzen und Zwiebel und Knoblauch darin anschwitzen. Die Pilze hinzugeben und nun für mindestens 5-10 Minuten rösten, sodass die Pilze schön braun werden. Mit Sojasoße ablöschen und die BBQ-Soße unterrühren. Noch 1-2 Minuten auf dem Herd lassen und dann bei Seite stellen.",
+        "Tipp: Wenn das Rezept sojafrei zubereitet werden soll, kann die Sojasoße in diesem Schritt einfach weggelassen werden.",
+        "Die Kartoffeln aus dem Ofen nehmen, längs mit einem Messer aufschneiden und etwas zusammen drücken, sodass genug Platz in der Mitte für die Füllung entsteht. 1 EL vegane Butter und 1-2 EL veganen Streukäse hineingeben und mit einer Gabel beides mit dem weichen Kern der Kartoffel vermischen, sodass ein Brei im Inneren der Kartoffel entsteht.",
+        "Die Kumpir nun mit Salat, Rotkohl, Karotte, Pulled Mushrooms, sauren Gurken, Joghurt-Dip und eingelegten Zwiebeln (und optional frischen Kräutern) toppen und noch warm servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

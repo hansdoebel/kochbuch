@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/blackberry-ginger-iced-green-tea-1030",
+  "recipes": [
+    {
+      "name": "Blackberry Ginger Iced Green Tea",
+      "source_url": "https://www.pickuplimes.com/recipe/blackberry-ginger-iced-green-tea-1030",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT40M",
+      "ingredients": [
+        "4 green tea bag",
+        "4 cup hot water",
+        "2 cup fresh blackberries",
+        "¾ cup frozen pineapple chunks",
+        "½ lime",
+        "1 Tbsp fresh ginger",
+        "1 Tbsp maple syrup",
+        "3 Tbsp fresh mint leaves",
+        "½ lime",
+        "4 cup ice cubes"
+      ],
+      "instructions": [
+        "Add the green tea to the hot water and let it steep until it cools down completely.",
+        "To a blender, add the blackberries, frozen pineapple, lime, ginger, and maple syrup. Blend until smooth.",
+        "Strain the blended blackberry mixture through a sieve to remove the seeds.",
+        "To assemble, first divide the puréed blackberry mixture between the glasses, followed by mint, lime slices, and ice cubes, and finish with the cooled green tea.",
+        "Stir and add more sweetener to taste. Garnish and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Best to enjoy immediately."
+  ]
+}

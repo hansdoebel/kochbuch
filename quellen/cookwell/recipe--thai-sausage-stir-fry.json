@@ -1,0 +1,46 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/thai-sausage-stir-fry",
+  "recipes": [
+    {
+      "name": "Thai Sausage Stir Fry",
+      "source_url": "https://app.cookwell.com/recipe/thai-sausage-stir-fry",
+      "recipe_id": "https://app.cookwell.com/recipe/thai-sausage-stir-fry",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Ground pork, 454 g",
+        "Fish Sauce, 25 g",
+        "Shallots, 20 g",
+        "Garlic, 15 g",
+        "Cilantro, 15 g",
+        "Lemongrass, 2 g",
+        "Curry Powder, 2 g",
+        "Black Pepper, 2 g",
+        "Red Thai chiles, 2 g",
+        "Lime zest, 1 g",
+        "Broccolini, 1 bunch",
+        "Salt, a sprinkle",
+        "White rice",
+        "Sriracha"
+      ],
+      "instructions": [
+        "Start cooking the rice or use some that is already made. Add all Thai sausage components to a blender, food processor, or mortar and pestle, except for the fish sauce and ground pork. Blend the ingredients until they form a paste.",
+        "Add the pork and fish sauce to a bowl. Mix together. Next, add the aromatic paste and mix until combined. Add 1/4 of the sausage mixture to a wok or pan on medium-high heat. Let the sausage fat render and crisp up the meat. Once browned, flip the sausage and chop it up, stir-frying for another 4-5 minutes. Cook the rest of the meat right away, or store it in the freezer for later use.",
+        "Add the broccolini and a pinch of salt, then stir-fry with the sausage until browned and the vegetable is softened to your liking. Taste and adjust the salt to your taste. Add a serving of rice to a bowl and top with the stir fry. Enjoy with your choice of condiments."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-fruehstuecksmuffins-mit-erdbeeren",
+  "recipes": [
+    {
+      "name": "Vegane Frühstücksmuffins mit Erdbeeren",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-fruehstuecksmuffins-mit-erdbeeren",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-fruehstuecksmuffins-mit-erdbeeren#recipe-a0f7705c-b419-590c-8521-50a3e5d8f44b",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "15 Muffins",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für die Muffins:",
+        "200 g Hafer-Müsli (z.B. Oat to the Max von barnhouse)",
+        "300 g Mehl",
+        "50 g Zucker",
+        "1 Prise Salz",
+        "8 g Backpulver",
+        "1 TL Natron",
+        "350 ml pflanzliche Milch",
+        "50 ml neutrales Pflanzenöl",
+        "50 g Apfelmus",
+        "0.5 Zitrone (Abrieb)",
+        "1 Vanilleschote",
+        "200 g frische Erdbeeren",
+        "vegane Butter zum Einfetten",
+        "Für den Zuckerguss:",
+        "Puderzucker",
+        "Wasser"
+      ],
+      "instructions": [
+        "Den Ofen auf 180°C Umluft vorheizen. Das Hafer-Müsli in einen Zerkleinerer geben und so lange mixen, bis nur noch feine Flocken sichtbar sind. Alternativ in einen verschließbaren Beutel geben und mit dem Nudelholz zerkleinern.",
+        "Die Müsliflocken mit Mehl, Zucker, Salz, Backpulver und Natron in einer Schüssel vermischen. Die pflanzliche Milch, Pflanzenöl, Apfelmus, den Abrieb einer halben Zitrone und das Mark einer Vanilleschote hinzugeben und zu einem glatten Teig verrühren.",
+        "Erdbeeren waschen, den Strunk entfernen und jede Erdbeere in kleine Stücke schneiden. Die Stückchen vorsichtig unter den Teig heben.",
+        "Eine Muffinform mit veganer Butter einfetten und den Teig gleichmäßig auf die Förmchen verteilen. Die Muffins im vorgeheizten Ofen bei 180°C Umluft ca. 20 Minuten backen. Anschließend aus dem Ofen nehmen und abkühlen lassen.",
+        "In der Zwischenzeit Puderzucker mit so viel Wasser verrühren, bis ein dickflüssiger Zuckerguss entsteht. Die abgekühlten Muffins mit dem Zuckerguss dekorieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

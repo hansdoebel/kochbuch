@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.recipetineats.com/smores-french-toast/",
+  "recipes": [
+    {
+      "name": "S'mores French Toast",
+      "source_url": "https://www.recipetineats.com/smores-french-toast/",
+      "recipe_id": "https://www.recipetineats.com/smores-french-toast/#recipe",
+      "authors": [
+        "Nagi | RecipeTin Eats"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "2"
+      ],
+      "prep_time": "PT10M",
+      "cook_time": "PT5M",
+      "total_time": "PT15M",
+      "ingredients": [
+        "4 slices white sandwich bread (, preferably stale)",
+        "1 tbsp butter",
+        "1 egg",
+        "2 tbsp milk",
+        "16 marshmallows (, halved horizontally)",
+        "Nutella",
+        "Marshmallows",
+        "Chocolate sauce"
+      ],
+      "instructions": [
+        "Combine egg and milk in a shallow dish large enough to lay the bread in.",
+        "Spread Nutella on all 4 slices of bread. Generously!",
+        "Place marshmallows on 2 of the pieces of bread, with the sticky side of the marshmallows (ie. the cut side) facing up.",
+        "Heat butter in pan over medium high heat. (See notes)",
+        "Take the bread with the marshmallows on them and quickly dip the bottom side of the bread (ie. the side without the Nutella and marshmallows on it) into the egg mixture, then place into the pan.",
+        "Dip the remaining two slices of bread into the egg mixture (the side without Nutella on it) and place on top of the marshmallow topped bread in the pan, to form a sandwich (ie. The side with the Nutella on it should be placed onto the marshmallows and the side you dipped into the egg mixture should face up so when you flip, it will be cooked).",
+        "Press down lightly with a spatula to help disperse the heat through to the centre of the sandwich to melt the marshmallows. Don't press too hard - I made that mistake once and most of my marshmallows oozed out the side into the pan.",
+        "When the bottom is golden brown (about 2 1/2 to 3 minutes), flip and cook the other side until golden brown (about 2 minutes).",
+        "Don't worry if the marshmallows aren't oozing out the side when you finish cooking, they will continue to melt from the heat in the sandwich. But they should be very soft - just touch one and you'll be able to tell if it's melted and gooey inside.",
+        "Serve immediately, topped with extra marshmallows and chocolate sauce, if you wish."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. It is better to use stale bread for french toast. If you use fresh bread, it will soak up too much egg mixture, even if you just dip it in very quickly, and the inside of the bread may end up soggy. 2. This needs to be cooked over medium high heat, not high heat because you need the centre of the sandwich to heat up enough to melt the marshmallows so you need to cook it slightly slower than normal french toast, otherwise the french toast will burn before the marshmallows melt. 3. The nutrition analysis excludes the toppings."
+  ]
+}

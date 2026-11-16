@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tofu-gyros-pita-mit-selbstgemachtem-veganen-tzatziki",
+  "recipes": [
+    {
+      "name": "Tofu-Gyros Pita mit selbstgemachtem veganen Tzatziki",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tofu-gyros-pita-mit-selbstgemachtem-veganen-tzatziki",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/tofu-gyros-pita-mit-selbstgemachtem-veganen-tzatziki#recipe-38f323d6-211c-581a-9094-3042b7df99cb",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "3 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für den Tofu-Gyros:",
+        "400 g Natur- oder Räuchertofu",
+        "3 EL veganer Quark",
+        "3 EL Gyros-Gewürzmischung",
+        "Pflanzenöl zum Braten",
+        "Sojasoße (optional)",
+        "Für die Pita:",
+        "3 Pitataschen (z. B. glutenfreie Pita von Schär)",
+        "300 g Tiefkühlpommes",
+        "1 rote Zwiebel",
+        "20 g Petersilie",
+        "300 g frische Tomaten",
+        "1 Gurke",
+        "1 Romanasalat",
+        "100 g frischer Rotkohl",
+        "1 veganer Feta",
+        "100 g schwarze entsteinte Oliven",
+        "Zitrone",
+        "Für den veganen Tzatziki:",
+        "200 g veganer Skyr",
+        "0.5 Gurke",
+        "2 Knoblauchzehen",
+        "10 g Dill",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Den Tofu mit den Händen zerkleinern, schneiden oder mit einer Reibe hobeln. Veganen Quark und Gyrosgewürz in einer Schüssel verrühren, den Tofu dazugeben und alles gut vermengen. Dann Pflanzenöl einer Pfanne erhitzen und den Tofu kräftig anbraten und optional noch etwas Sojasoße dazugeben.",
+        "Tipp: Wenn ihr keine Gyros-Gewürzmischung habt, könnt ihr auch einzelne Gewürze wie Knoblauch, Oregano, Thymian, Kreuzkümmel, Majoran, Rosmarin, Salz und Pfeffer vermengen.",
+        "Die Tiefkühlpommes nach Packungsanleitung zubereiten. Parallel dazu für den Tzatziki veganen Skyr in eine Schüssel geben. Die Gurke reiben und danach gründlich in einem sauberen Küchentuch auswringen, damit sie so viel Wasser wie möglich verliert. Die geriebene Gurke in die Schüssel geben, Knoblauchzehen reiben, Dill fein hacken und beides dazugeben. Alles mit Salz und Pfeffer abschmecken und bis zum Servieren in den Kühlschrank stellen.",
+        "Die restlichen Zutaten vorbereiten: rote Zwiebel schälen, halbieren und in feine Scheiben schneiden, Petersilie hacken, Tomaten in Spalten schneiden. Die Gurke halbieren und ebenfalls in dünne Scheiben schneiden. Romanasalat und Rotkohl in feine Streifen schneiden, veganen Feta grob zerbröseln und die schwarzen Oliven halbieren.",
+        "Die Pita erwärmen und dann nach Belieben mit dem veganen Tzatziki, Gemüse, Tofu Gyros und Pommes toppen. Zum Servieren mit Zitronensaft beträufeln."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

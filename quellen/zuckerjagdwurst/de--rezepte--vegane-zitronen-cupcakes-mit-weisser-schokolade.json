@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-zitronen-cupcakes-mit-weisser-schokolade",
+  "recipes": [
+    {
+      "name": "Vegane Zitronen-Cupcakes mit Weißer-Schokoladen-Buttercreme",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-zitronen-cupcakes-mit-weisser-schokolade",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-zitronen-cupcakes-mit-weisser-schokolade#recipe-fdab759a-8ffe-531f-9468-6c6a82863f12",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Cupcakes",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Teig",
+        "225 g Mehl",
+        "170 g Zucker",
+        "1 TL Backpulver",
+        "1 TL Vanillezucker",
+        "2 Zitronen",
+        "150 ml Sprudelwasser",
+        "50 ml pflanzliches Öl (Raps- oder Sonnenblumenöl)",
+        "2 EL pflanzliche Butter (zum Einfetten)",
+        "2 EL Mehl (zum Ausklopfen)",
+        "Creme",
+        "160 g vegane, weiße Schokolade (z.B. „White Vanilla“ von iChoc)",
+        "180 g vegane Butter (Zimmertemperatur)",
+        "250 g Puderzucker",
+        "Dekoration",
+        "1 Zitrone",
+        "100 g bunte, vegane Streusel"
+      ],
+      "instructions": [
+        "Cupcake-Teig",
+        "Für den Teig Mehl, Zucker, Backpulver und Vanillinzucker in einer Schüssel vermischen.",
+        "Die Schale von zwei Zitronen abreiben und den Saft von beiden auspressen. Am Ende solltet ihr etwa 100 ml Zitronensaft erhalten.",
+        "Den Zitronenabrieb, den Zitronensaft, das Sprudelwasser und das Öl zu den trockenen Zutaten geben und nur so lang wie nötig verrühren.",
+        "Eine Muffinform mit 12 Vertiefungen mit pflanzlicher Butter einfetten und anschließend mit Mehl ausklopfen. Den Teig in den 12 Muffinformen verteilen und bei 180°C (Ober-/Unterhitze) im vorgeheizten Ofen für 20 Minuten backen. Anschließend komplett abkühlen lassen.",
+        "Weiße-Schokoladen-Frosting",
+        "Die pflanzliche, weiße Schokolade in einem Wasserbad schmelzen und etwa 10 Minuten abkühlen lassen. Sie sollte nur noch lauwarm sein.",
+        "Die pflanzliche Butter in einer Küchenmaschine oder mit einem Mixer für eine Minute aufschlagen.",
+        "Nach und nach den Puderzucker hinzugeben, bis eine fluffige Masse entsteht.",
+        "Nun die weiße Schokolade hinzugeben und weiter aufschlagen, bis eine homogene Masse entsteht. Das Frosting für 10 Minuten kalt stellen.",
+        "Servieren",
+        "Das Weiße-Schokoladen-Frosting in eine Spritztüte füllen und die Cupcakes damit toppen. Mit Streuseln und einem Stück Zitrone oder einem Stück weißer Schokolade dekorieren und servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

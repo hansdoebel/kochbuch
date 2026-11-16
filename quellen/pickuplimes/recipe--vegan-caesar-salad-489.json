@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vegan-caesar-salad-489",
+  "recipes": [
+    {
+      "name": "Grilled Caesar Salad",
+      "source_url": "https://www.pickuplimes.com/recipe/vegan-caesar-salad-489",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT18M",
+      "cook_time": "PT10M",
+      "total_time": "PT28M",
+      "ingredients": [
+        "½ cup raw cashews",
+        "⅓ cup water",
+        "3½ Tbsp nutritional yeast flakes",
+        "1 lemon",
+        "3 garlic clove",
+        "1 Tbsp extra-virgin olive oil",
+        "1 Tbsp apple cider vinegar",
+        "2 tsp capers",
+        "1 tsp Dijon mustard",
+        "1 tsp reduced-sodium soy sauce",
+        "⅛ tsp ground black pepper",
+        "¼ cup raw cashews",
+        "1 Tbsp nutritional yeast flakes",
+        "⅛ tsp salt",
+        "⅛ tsp garlic powder",
+        "4 mini romaine lettuce head",
+        "2 Tbsp olive oil",
+        "½ cup croutons"
+      ],
+      "instructions": [
+        "To a blender, add all of the dressing ingredients. Blend until smooth. Set aside.",
+        "Add the vegan parmesan ingredients to a small food processor and blend into a coarse sand. Alternatively, mince the cashews with a knife and mix the ingredients together in a bowl.",
+        "Preheat a griddle pan over high heat. Cut the romaine lettuce heads in half lengthwise*. Lightly brush olive oil over the cut sides. Place the heads cut-side down on the pan for 10 - 15 seconds, or until there are light grill marks on the lettuce, then remove from the heat.",
+        "To assemble, place the lettuce heads grilled-side up on a platter. Drizzle over some dressing, and add a sprinkle of croutons and vegan parmesan. Serve the remaining dressing, croutons, and parmesan on the side. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † If the cashews are unsoaked, cover with boiling water and let sit for at least 15 minutes. * The lettuce heads must be completely dry when grilling! Any water droplets will cause the lettuce to steam rather than sear, resulting in wilted lettuce.",
+    "Storage The salad is best enjoyed immediately. The dressing will keep in the fridge for up to 4 days. The vegan parmesan will keep in the fridge for up to 1 week."
+  ]
+}

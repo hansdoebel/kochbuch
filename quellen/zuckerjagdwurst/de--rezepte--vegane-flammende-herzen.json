@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-flammende-herzen",
+  "recipes": [
+    {
+      "name": "Vegane Flammende Herzen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-flammende-herzen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-flammende-herzen#recipe-a713dc08-d79a-56cf-8ada-5254afc5b1a5",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "10 Flammende Herzen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für den Teig:",
+        "150 g vegane Butter (Zimmertemperatur)",
+        "100 g Puderzucker (z. B. von Naturata)",
+        "350 g Weizenmehl Typ 405",
+        "60 ml pflanzliche Milch",
+        "150 g Apfelmus",
+        "1 Bourbon-Vanilleschote (z.B. von Naturata)",
+        "1 Prise Salz",
+        "20 g Backkakao (z. B. von Naturata)",
+        "Für die Dekoration:",
+        "60 g veganes Backnougat",
+        "vegane Schokolade (z. B. Brasilien Feinbitter 70 % von Naturata)",
+        "vegane weihnachtliche Streusel"
+      ],
+      "instructions": [
+        "Backofen auf 160°C (Umluft) vorheizen. Zimmerwarme, vegane Butter mit Puderzucker in einer großen Schüssel aufschlagen. Nach und nach Weizenmehl, pflanzliche Milch, Apfelmus, Vanillemark und Salz hinzugeben, bis ein homogener Teig entsteht. Den Teig halbieren und eine Hälfte davon in eine Spritztüte mit gezacktem Aufsatz füllen. Den Backkakao zur anderen Hälfte des Teigs geben und untermengen und ebenfalls in eine Spritztüte füllen.",
+        "Zuerst den hellen Teig mithilfe der Spritztüte flammenförmig (in gleicher Größe) auf einem Backblech mit Backpapier aufspritzen. Danach mit dem dunklen Teig genauso vorgehen. Achtet darauf, dass am Ende eine gerade Zahl herauskommt, also z. B. zehn helle und zehn dunkle Kekse, sodass jeder „Boden“ am Ende auch einen „Deckel“ hat.",
+        "Die Kekse ca. 10 - 12 Minuten bei 160°C Umluft backen, bis sie am Rand leicht braun werden. Danach aus dem Ofen nehmen und komplett abkühlen lassen.",
+        "Für die Füllung veganes Backnougat erhitzen, sodass es flüssig wird. Etwa 1-2 EL vom veganen Backnougat auf der glatten Unterseite eines Kekses verstreichen und einen zweiten Keks ebenfalls mit der glatten Unterseite andrücken. Danach abkühlen lassen, bis das Nougat wieder fest wird.",
+        "Vegane Schokolade im Wasserbad schmelzen und die Flammenden Herzen zur Hälfte darin eintauchen. Auf einem Rost oder Backpapier ablegen, mit weihnachtlichen Streuseln dekorieren und trocknen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

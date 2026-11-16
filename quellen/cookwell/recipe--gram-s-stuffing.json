@@ -1,0 +1,45 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/gram-s-stuffing",
+  "recipes": [
+    {
+      "name": "Gram’s Stuffing",
+      "source_url": "https://app.cookwell.com/recipe/gram-s-stuffing",
+      "recipe_id": "https://app.cookwell.com/recipe/gram-s-stuffing",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 loaf",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Butter, 113 g",
+        "Celery, 2 stalks",
+        "Carrots, 1 medium",
+        "Onions, 1/4",
+        "Fresh sage, a spoonful",
+        "Fresh thyme, a spoonful",
+        "Black Pepper, to taste",
+        "Salt, to taste",
+        "Potato bread, 1 loaf",
+        "Eggs, 3",
+        "Milk, 100 g"
+      ],
+      "instructions": [
+        "Tear or chop the bread into bite-sized chunks. If your bread is fresh, you can do this in advance and leave it on the counter to dry out overnight or bake in a 225°/107°C oven for ~10 minutes to lightly dehydrate. If your bread is already stale, you can use it as is. Increase the temperature of the oven to 375°F/190C.",
+        "In a saucepan, melt the stick of butter of medium heat. Add the carrots, celery, and onion plus a sprinkle of salt and sauté for a few minutes until the vegetables begin to soften. Add the minced thyme, sage, and black pepper to bloom for around a minute. Once everything is very fragrant, turn off the heat.",
+        "Mix together the eggs and milk until homogenous. In a bowl or a large sheet tray, add the bread chunks and the aromatic vegetable mixtures. Little by little, pour just enough of the egg/milk binder liquid until the bread mixture holds its shape when compressed together. If you need extra moisture, you can keep adding a splash of milk at a time.",
+        "Add a few sheets of foil to a fresh baking tray. Grease the foil with baking spray or extra butter to prevent sticking. Shape the stuffing into a tall loaf, then wrap it in the greased foil. Slide the tray into the preheated 375°F/190C oven. Bake for ~25 minutes, which will steam the stuffing and set it into it's loaf shape.",
+        "Gently open up the foil package to expose the top side of the stuffing loaf. Return to the oven and continue baking for 10 minutes or until the surface of the stuffing has lightly browned and crisped (but not gone dark or hard). When you are ready to eat, slice off portions. Enjoy warm or cold. Use extra slices for leftover turkey sandwiches."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

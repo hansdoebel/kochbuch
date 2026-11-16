@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kimchi-pancakes",
+  "recipes": [
+    {
+      "name": "Vegane Kimchi-Pancakes mit Gochujang-Dip",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kimchi-pancakes",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kimchi-pancakes#recipe-7ca059f9-a53e-51f6-9507-d687b667b6bb",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 7 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Für die Pancakes",
+        "1 Möhre",
+        "2 Frühlingszwiebeln",
+        "200 g veganes Kimchi",
+        "3 EL Kimchi-Flüssigkeit",
+        "60 g Mehl",
+        "30 g Reismehl",
+        "1 EL Stärke",
+        "1 TL Sojasauce",
+        "150 ml Sprudelwasser",
+        "Salz",
+        "Pfeffer",
+        "Frühlingszwiebel zum Servieren",
+        "heller und schwarzer Sesam",
+        "Für den Dip",
+        "3 EL vegane Mayonnaise",
+        "3 TL Gochujang"
+      ],
+      "instructions": [
+        "Möhre in dünne Streifen und Frühlingszwiebeln in Ringe schneiden. Das vegane Kimchi klein schneiden und alles beiseitelegen.",
+        "Mehl, Reismehl, Stärke, Sojasauce, Kimchi-Flüssigkeit und das Sprudelwasser in einer Schüssel verrühren und mit Salz und Pfeffer würzen. Das geschnittene Gemüse dazugeben und untermengen. Lasst den Teig so ein paar Minuten stehen.",
+        "Pflanzenöl in einer Pfanne erhitzen und jeweils 1-2 EL des Teigs pro Pancake verwenden. Die Kimchi-Pancakes nach und nach von beiden Seiten anbraten.",
+        "Für den Dip vegane Mayo und Gochujang verrühren. Je nach Geschmack könnt ihr mehr oder weniger Gochujang verwenden und den Dip damit so scharf machen wie ihr möchtet. Die Pancakes mit ein paar Frühlingszwiebelringen bestreuen und mit dem Dip servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

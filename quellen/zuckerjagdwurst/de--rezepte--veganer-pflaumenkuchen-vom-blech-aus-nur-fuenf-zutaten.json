@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-pflaumenkuchen-vom-blech-aus-nur-fuenf-zutaten",
+  "recipes": [
+    {
+      "name": "Veganer Pflaumenkuchen vom Blech (aus nur 5 Zutaten)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-pflaumenkuchen-vom-blech-aus-nur-fuenf-zutaten",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-pflaumenkuchen-vom-blech-aus-nur-fuenf-zutaten#recipe-d496c577-f569-5082-b911-d81b8eefc9b3",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Blech (16 Stücken)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Teig",
+        "750 g EDEKA Bio Dinkelmehl",
+        "375 g vegane Butter",
+        "250 g brauner Zucker",
+        "Toppings",
+        "15 Pflaumen (z.B. von EDEKA)",
+        "1 EL brauner Zucker",
+        "50 g Mandelscheiben",
+        "optional: pflanzliche Schlagsahne"
+      ],
+      "instructions": [
+        "Für den Teig das Mehl, die vegane Butter und den Zucker in einer Schüssel vermengen und zu einer großen Kugel formen. Den Teig für 30 Minuten kaltstellen.",
+        "In der Zwischenzeit die Pflaumen waschen, vierteln, entkernen und in Scheiben schneiden.",
+        "Ein Backblech mit Backpapier belegen und den Teig darauf gleichmäßig ausrollen, sodass ihr einen ebenen Boden erhaltet.",
+        "Die Pflaumen darauf anordnen. Für das Muster, wie auf unseren Bildern, vier Pflaumenscheiben fächern und ein Viereck aus vier dieser Fächer formen, die innerhalb des Vierecks alle in eine Uhrzeigerrichtung angeordnet sind.",
+        "1 EL braunen Zucker auf den Pflaumenkuchen streuen. Den Kuchen bei 180°C Umluft für 30-35 Minuten (je nach Bräune) backen und anschließend mit Mandelscheiben und pflanzlicher Schlagsahne (optional) servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

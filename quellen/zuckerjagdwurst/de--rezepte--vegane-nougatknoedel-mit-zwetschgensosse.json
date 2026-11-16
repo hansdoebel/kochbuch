@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nougatknoedel-mit-zwetschgensosse",
+  "recipes": [
+    {
+      "name": "Vegane Nougatknödel mit Pflaumensoße",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nougatknoedel-mit-zwetschgensosse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nougatknoedel-mit-zwetschgensosse#recipe-c2bf36c3-b130-5ef1-8774-445c72d06925",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen (12 Knödel)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "Für den Teig:",
+        "40 g vegane Butter",
+        "250 g pflanzlicher Quark",
+        "150 g Weizenmehl Typ 405",
+        "60 g Weichweizengrieß",
+        "1 Prise Salz",
+        "30 g Apfelmus",
+        "15 g Agavendicksaft",
+        "100 g veganes Nuss-Nougat (Back-Nougat)",
+        "Für die Soße:",
+        "500 g Pflaumen oder Zwetschgen",
+        "100 ml Wasser",
+        "Für das Topping:",
+        "2 EL vegane Butter",
+        "50 g Semmelbrösel oder gemahlene Nüsse",
+        "25 g gehackte Nüsse",
+        "1-2 EL Agavendicksaft",
+        "frische Minze"
+      ],
+      "instructions": [
+        "Die vegane Butter erwärmen, bis sie geschmolzen ist und in eine Schüssel geben. Pflanzlichen Quark, Weizenmehl, Weichweizengrieß, Salz, Apfelmus und Agavendicksaft dazugeben, zu einem Teig kneten und eine Stunde im Kühlschrank ruhen lassen.",
+        "Aus dem Nuss-Nougat 12 kleine Bällchen formen und diese im Kühlschrank kaltstellen. Ein Bällchen entspricht etwa 1 TL Nuss-Nougat.",
+        "In der Zwischenzeit die Pflaumensoße zubereiten. Dafür Pflaumen waschen, halbieren und entkernen. Die Pflaumen mit dem Wasser in einen Topf geben und zum Kochen bringen. Unter regelmäßigem Rühren ca. 20 Minuten auf mittlerer Hitze einkochen lassen. Danach zu einer glatten Soße pürieren. Diese zurück in den Topf geben und abgedeckt warm halten.",
+        "Den Knödelteig aus dem Kühlschrank nehmen und 12 kleine Teigfladen formen, die etwa so groß wie eine Handfläche sind. Wenn der Teig zu klebrig ist, einfach die Hände gut bemehlen. Die Nougatkugeln in der Mitte platzieren und den Teig um die Füllung herum legen und zu einem runden Knödel formen.",
+        "Gesalzenes Wasser in einem großen Topf zum Sieden bringen, also so, dass es noch nicht sprudelnd kocht, sondern immer nur kurz davor ist. Die Knödel in das siedende Wasser geben und ca. 15-20 Minuten kochen.",
+        "Währenddessen in einer Pfanne vegane Butter zerlassen und Semmelbrösel (oder gemahlenen Nüsse) und gehackte Nüsse darin goldbraun braten. Agavendicksaft hinzugeben und kurz karamellisieren lassen.",
+        "Die Nougatknödel mit Pflaumensoße, dem Nuss-Topping und etwas frischer Minze servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

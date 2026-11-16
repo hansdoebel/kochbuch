@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-lasagne-mit-bechamelsosse",
+  "recipes": [
+    {
+      "name": "Vegane Lasagne mit Béchamelsoße",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-lasagne-mit-bechamelsosse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-lasagne-mit-bechamelsosse#recipe-86a1f638-19b3-5ae3-bea2-c1ca7a4fb40e",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT85M",
+      "ingredients": [
+        "Für die „Hack“-Schicht:",
+        "400 g veganes (frisches) Hack 1 Zwiebel 2 Möhren 4 EL Tomatenmark 1 EL Sojasoße 1 EL Agavendicksaft 100 ml veganer Rotwein 400 g (1 Dose) stückige Tomaten 200 g passierte Tomaten 2 EL Ketchup 0.5 TL getrockneter Basilikum 0.5 TL getrockneter Oregano 0.25 TL Cayennepfeffer 0.5 TL Paprikapulver neutrales Pflanzenöl Salz Pfeffer",
+        "Für die Béchamelsoße:",
+        "3 EL vegane Butter 3 EL Weizenmehl 250 ml pflanzliche Milch 1 EL Hefeflocken Salz Pfeffer Muskat",
+        "Außerdem:",
+        "vegane Lasagneplatten veganer Streukäse (optional) neutrales Pflanzenöl zum Braten Wasser"
+      ],
+      "instructions": [
+        "Für die Tomaten-„Hack“-Schicht die Zwiebel schälen und fein würfeln. Die Möhren grob raspeln oder ebenfalls in kleine Würfel schneiden.",
+        "Pflanzenöl in einer Pfanne bei mittlerer Hitze erwärmen und das vegane Hack darin circa 5 Minuten scharf anbraten, bis es gebräunt ist. Zwiebel und Möhre in die Pfanne geben und alles gemeinsam 4–5 Minuten anbraten. Danach Tomatenmark, Sojasoße und Agavendicksaft dazugeben und circa 3 Minuten erwärmen, damit das Tomatenmark etwas dunkler wird.",
+        "Mit Rotwein ablöschen und circa 5 Minuten einköcheln lassen. Danach die stückigen und passierten Tomaten, Ketchup, getrocknetes Basilikum, Oregano, Cayennepfeffer und Paprikapulver dazugeben und gut vermengen. Die Soße mit Salz und Pfeffer abschmecken und bei kleiner Hitze köcheln lassen, bis die vegane Béchamel fertig ist.",
+        "Für die Béchamel vegane Butter in einem kleinen Topf schmelzen lassen. Danach Mehl einrühren und circa 1 Minute bei kleiner Hitze anschwitzen. Pflanzliche Milch langsam dazugeben und dabei gründlich einrühren, damit sich keine Klümpchen bilden. Die Béchamel mit Hefeflocken, Salz, Pfeffer und Muskat abschmecken. Falls die Soße zu dick wird, etwas mehr pflanzliche Milch dazugeben.",
+        "Den Backofen auf 180 °C (Umluft) vorheizen. Zunächst eine dünne Schicht der Tomaten-„Hack“-Soße in einer Auflaufform verteilen. Vegane Lasagneplatten darüberlegen und wieder mit einer Schicht der Tomaten-„Hack“-Soße bedecken. Etwas von der veganen Béchamelsoße darauf verstreichen und eine zweite Schicht Lasagneplatten darauflegen. Die Schichten wiederholen, bis alle Komponenten komplett aufgebraucht sind. Anschließend oben eine letzte Schicht vegane Béchamel verstreichen. Optional veganen Streukäse mit etwas Pflanzenöl und Wasser vermengen und über dem Auflauf verteilen.",
+        "Die Lasagne bei 180 °C circa 40 Minuten backen, bis die Lasagneplatten weich sind und die vegane Käseschicht goldbraun ist. Danach aus dem Backofen nehmen und die Lasagne vor dem Anschneiden noch ein paar Minuten stehen, abkühlen und anziehen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

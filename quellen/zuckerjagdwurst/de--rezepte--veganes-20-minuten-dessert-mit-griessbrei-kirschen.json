@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-20-minuten-dessert-mit-griessbrei-kirschen",
+  "recipes": [
+    {
+      "name": "Veganes 20-Minuten-Dessert mit Grießbrei und Kirschen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-20-minuten-dessert-mit-griessbrei-kirschen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-20-minuten-dessert-mit-griessbrei-kirschen#recipe-12f14109-556e-5ec5-90ca-1890933bb687",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen (kleine Gläser)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Für den Grießbrei:",
+        "1 Vanilleschote",
+        "30 g Zucker",
+        "1 Prise Salz",
+        "500 ml pflanzliche Milch",
+        "60 g Weichweizengrieß",
+        "Für die Kirschen:",
+        "720 ml Schattenmorellen aus dem Glas (Füllmenge)",
+        "20 g Speisestärke",
+        "Für das Müsli:",
+        "100 g weihnachtliches Knuspermüsli (z. B. Krunchy Christmas von barnhouse)"
+      ],
+      "instructions": [
+        "Für den Grießbrei die Vanilleschote längs halbieren und das Vanillemark mit dem Messerrücken herauskratzen.",
+        "In einem kleinen Topf Vanillemark mit Zucker, Salz und pflanzlicher Milch vermengen. Die Mischung unter ständigem Rühren zum Kochen bringen, damit die pflanzliche Milch nicht anbrennt.",
+        "Weichweizengrieß unter Rühren dazugeben und bei kleiner Hitze ca. 5 Minuten köcheln lassen. Den Topf danach vom Herd nehmen und den Grießbrei nochmals ca. 5 Minuten quellen lassen.",
+        "Die Schattenmorellen samt der Flüssigkeit aus dem Glas in einen kleinen Topf geben und aufkochen lassen. Ca. 3 EL der Flüssigkeit aus dem Topf in eine kleine Schüssel geben und die Speisestärke darin glatt rühren. Die Mischung zurück in den Topf geben und die Kirschen ca. 5 Minuten köcheln lassen, bis die Flüssigkeit andickt.",
+        "Zum Servieren die Schattenmorellen, Grießbrei und das Knuspermüsli in Gläser schichten. Das Knuspermüsli am besten erst kurz vor dem Servieren dazugeben, damit es nicht aufweicht."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

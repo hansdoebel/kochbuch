@@ -1,0 +1,50 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/breakfast-smash-burger",
+  "recipes": [
+    {
+      "name": "Breakfast Smash Burger",
+      "source_url": "https://app.cookwell.com/recipe/breakfast-smash-burger",
+      "recipe_id": "https://app.cookwell.com/recipe/breakfast-smash-burger",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2 burgers",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "80/20 ground beef, 250 g",
+        "Garlic, 1 clove",
+        "Salt, a sprinkle",
+        "Maple syrup, a spoonful",
+        "Dried sage, a sprinkle",
+        "Black Pepper, a spoonful",
+        "Potatoes, 100 g",
+        "Cooking oil, a drizzle",
+        "Salt, a sprinkle",
+        "Black Pepper, a sprinkle",
+        "Chili Powder, a sprinkle",
+        "Eggs, 2",
+        "American Cheese, 2 slices",
+        "Brioche Bun, 1",
+        "Ketchup",
+        "Pickled onions",
+        "Low-fat sour cream"
+      ],
+      "instructions": [
+        "Mix the meat with the salt and seasonings until they are well combined. Form into 4 equal-sized balls (2 balls per burger). Gather the remaining burger toppings and the bun.",
+        "Grate the potatoes and rinse them. Place the grated potatoes in a cheese cloth or a towel. Squeeze out all of the moisture that you can. Add the potatoes, oil, and spices to a bowl and mix them together. On a ripping hot cast iron, separate the potato mixture into two piles and place them on the grill to crisp up, flipping when needed. Remove from the heat and set aside.",
+        "For the burgers, place the ball of meat on the griddle and immediately smash it with the spatula. Repeat with the remaining patties. Let them sear undisturbed for about 45 seconds, then scrape and flip them over. Add a piece of cheese and place the other patty on top.",
+        "Lastly, soft scramble the eggs to your desired consistency. Assemble the burger with the bun, sauces, hash browns, eggs, and any other toppings you would like. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

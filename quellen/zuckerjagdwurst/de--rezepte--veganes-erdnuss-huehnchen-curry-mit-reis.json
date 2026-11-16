@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-erdnuss-huehnchen-curry-mit-reis",
+  "recipes": [
+    {
+      "name": "Veganes Erdnuss-Hühnchen-Curry mit Reis",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-erdnuss-huehnchen-curry-mit-reis",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-erdnuss-huehnchen-curry-mit-reis#recipe-1e32ee82-179d-537d-bb91-df4b38f7090b",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "Für das Erdnusscurry:",
+        "2 Knoblauchzehen",
+        "20 g Ingwer",
+        "1.5 EL pflanzliche Milch",
+        "1.5 EL vegane Butter",
+        "2 TL Currypulver",
+        "3 EL Zuckerrübensirup (z. B. Goldsaft von Grafschafter)",
+        "180 g veganes Hühnchen",
+        "1 EL Kokosöl",
+        "1 rote Zwiebel",
+        "2 TL rote Currypaste",
+        "1 TL Chiliflocken",
+        "400 ml Kokosmilch",
+        "4 EL Erdnussmus (100 % Erdnüsse)",
+        "300 g TK Spinat",
+        "Salz",
+        "Außerdem:",
+        "200 g Basmatireis",
+        "50 g Erdnüsse",
+        "Chiliflocken"
+      ],
+      "instructions": [
+        "Knoblauchzehen und Ingwer schälen, in grobe Stücke schneiden und in einem Mörser zerstoßen. Beides zusammen mit pflanzlicher Milch, geschmolzener veganer Butter, Currypulver und 1 Esslöffel Zuckerrübensirup in eine Schüssel geben und gut verrühren. Veganes Hühnchen in Streifen schneiden und ebenfalls in die Schüssel geben. Alles gut vermischen und circa 30 Minuten stehen lassen.",
+        "Basmatireis nach Packungsanweisung kochen.",
+        "Zwiebel schälen und kleinschneiden. In einer Pfanne Kokosöl erhitzen und Zwiebeln, Chiliflocken und rote Currypaste anschwitzen, bis die Zwiebeln glasig sind. Mariniertes Hühnchen dazugeben und anbraten, bis es leicht gebräunt ist. 2 Esslöffel Zuckerrübensirup dazugeben und kurz auf mittlerer Hitze karamellisieren.",
+        "Kokosmilch und Erdnussmus in die Pfanne geben und gut verrühren. Spinat dazugeben und köcheln lassen, bis der Spinat aufgetaut ist. Mit Salz und Currypulver abschmecken.",
+        "In einer kleinen Pfanne Erdnüsse rösten, bis sie leicht gebräunt sind.",
+        "Curry zusammen mit Reis, gerösteten Erdnüssen und Chiliflocken servieren.",
+        "Tipp: Für eine glutenfreie Variante könnt ihr das vegane Hähnchen durch Tofu ersetzen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

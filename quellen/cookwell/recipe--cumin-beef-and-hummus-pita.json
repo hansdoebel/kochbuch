@@ -1,0 +1,43 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/cumin-beef-and-hummus-pita",
+  "recipes": [
+    {
+      "name": "Cumin Beef & Hummus Pita",
+      "source_url": "https://app.cookwell.com/recipe/cumin-beef-and-hummus-pita",
+      "recipe_id": "https://app.cookwell.com/recipe/cumin-beef-and-hummus-pita",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "~3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Flank, skirt, or flatiron steak, 450 g",
+        "Salt, 5 g",
+        "Cumin, a spoonful",
+        "Cooking oil, for searing",
+        "Pita Bread, ~3",
+        "Hummus",
+        "Feta",
+        "Pickled beets",
+        "Pickled beets",
+        "Red Onions",
+        "Lemon juice, a squeeze"
+      ],
+      "instructions": [
+        "Thinly slice the steak against the grain into small strips. Add the salt and ground cumin over top. Mix to evenly coat the beef. Preheat a saute pan over high heat. Add about a spoonful of oil to coat the pan, then add beef to the pan. Allow the beef to sear undisturbed on one side to develop a crust and deep browning.",
+        "Once the beef has lots of color on one side, flip the beef and continue searing until mostly cooked through. Add the pita bread on top of the meat, cover, and steam the bread for a couple of minutes to soften. Gather or prep any other ingredients you’ll be using in the pita. Once the pita is warmed through, remove & turn off the heat. Taste the beef and adjust the seasoning if needed.",
+        "Slice open the pita. Add hummus to both sides of the pita bread. Layer in the pickled items, feta cheese, and a portion of beef (about 1/3 of the beef). Add a spritz of lemon and a sprinkle of diced raw onion. Repeat with remaining sandwiches. Before serving, wrap the sandwich in foil to steam and soften for about a minute. Slice the sandwich in half and enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,36 @@
+{
+  "source_url": "https://www.recipetineats.com/instant-pink-taco-sauce/",
+  "recipes": [
+    {
+      "name": "Instant Pink Taco Sauce",
+      "source_url": "https://www.recipetineats.com/instant-pink-taco-sauce/",
+      "recipe_id": "https://www.recipetineats.com/instant-pink-taco-sauce/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "4"
+      ],
+      "prep_time": "PT5M",
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1/2 cup sour cream - substitute yogurt for lower calorie (, or add mayonnaise for richness)",
+        "4 tsp sriracha ((or other hot sauce - start with less and add to taste))"
+      ],
+      "instructions": [
+        "Mix ingredients until smooth. If you want a looser drizzling texture, add a tiny bit of water."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. Non-spicy version – substitute the sriracha with 3 tablespoons of ketchup (or Aussie tomato sauce) + 1/4 tsp finely minced garlic + 1/4 tsp salt + 1/2 tsp lemon juice or clear vinegar."
+  ]
+}

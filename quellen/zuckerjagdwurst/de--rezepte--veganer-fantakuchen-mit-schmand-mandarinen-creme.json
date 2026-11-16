@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-fantakuchen-mit-schmand-mandarinen-creme",
+  "recipes": [
+    {
+      "name": "Veganer Fantakuchen mit Schmand-Mandarinen-Creme",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-fantakuchen-mit-schmand-mandarinen-creme",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-fantakuchen-mit-schmand-mandarinen-creme#recipe-61e10e93-a29a-5c58-b8b5-62d8d3991d2b",
+      "authors": [
+        "Anna Germek"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 kleiner Blechkuchen (25 x 20 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT85M",
+      "ingredients": [
+        "Für den Teig:",
+        "225 g Weizenmehl (Type 405)",
+        "150 g Zucker",
+        "8 g (1.5 TL) Vanillezucker",
+        "8 g (1.5 TL) Backpulver",
+        "1 Prise Salz",
+        "50 ml neutrales Pflanzenöl",
+        "250 ml Orangenlimonade",
+        "Für die Schmand-Sahne-Creme:",
+        "250 ml vegane Sahne zum Aufschlagen",
+        "8 g (2 TL) Sahnesteif",
+        "8 g (1.5 TL) Vanillezucker",
+        "350 g Mandarinen oder Pfirsiche aus der Dose (Abtropfgewicht)",
+        "300 g vegane Crème fraîche",
+        "Für das Topping:",
+        "2 EL Zucker",
+        "1 TL Zimt",
+        "Außerdem:",
+        "vegane Butter zum Einfetten",
+        "Mehl zum Ausklopfen"
+      ],
+      "instructions": [
+        "Ofen auf 180 °C (Umluft) vorheizen. In einer großen Schüssel Mehl, Zucker, Vanillezucker, Backpulver und eine Prise Salz verrühren. Anschließend das Öl und die Orangenlimonade hinzugeben und nur noch kurz verrühren, bis kein trockenes Mehl mehr zu sehen ist.",
+        "Eine Kuchenform (circa 25 x 20 Zentimeter) einfetten und mit Mehl ausklopfen oder alternativ mit Backpapier auslegen. Den Teig hineingeben und auf mittlerer Schiene circa 30 Minuten lang bei 180 °C (Umluft) backen. Mit einem Holzspieß testen, ob der Teig durchgebacken ist. Anschließend abkühlen lassen.",
+        "Die vegane Sahne mit Sahnesteif und Vanillezucker steifschlagen. Die Dosenmandarinen in einem Sieb gut abtropfen lassen. Den Crème fraîche mit den Früchten vermengen und dann vorsichtig die geschlagene Sahne unterheben.",
+        "Die Creme auf dem abgekühlten Kuchenboden verteilen und nochmal mindestens 30 Minuten in den Kühlschrank stellen.",
+        "Vor dem Servieren mit Zimt und Zucker bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

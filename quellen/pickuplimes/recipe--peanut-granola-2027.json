@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/peanut-granola-2027",
+  "recipes": [
+    {
+      "name": "Peanut Granola",
+      "source_url": "https://www.pickuplimes.com/recipe/peanut-granola-2027",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT15M",
+      "cook_time": "PT25M",
+      "total_time": "PT40M",
+      "ingredients": [
+        "3 cup rolled oats",
+        "½ cup unsalted roasted peanuts",
+        "½ tsp ground cinnamon",
+        "¼ tsp salt",
+        "⅓ cup natural peanut butter",
+        "¼ cup maple syrup",
+        "2 Tbsp refined coconut oil",
+        "1 tsp pure vanilla extract"
+      ],
+      "instructions": [
+        "Line a baking tray and preheat the oven to 325°F (160°C)*.",
+        "Add all the dry ingredients to a large bowl and mix.",
+        "Add the wet ingredients to a saucepan over medium-low heat and mix until smooth.",
+        "Add the wet to the dry ingredients, mix well, then transfer to the lined baking tray.",
+        "Spread everything out evenly, then bake on the centre rack of the oven for 22 to 25 minutes, stirring once halfway.",
+        "Remove from the oven and let the granola cool completely. It will continue to harden as it cools. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Refined coconut oil is coconut oil that doesn't smell or taste like coconuts. If you prefer a distinct coconut taste, use unrefined coconut oil instead. * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Store sealed in an airtight container on the counter for up to 3 weeks."
+  ]
+}

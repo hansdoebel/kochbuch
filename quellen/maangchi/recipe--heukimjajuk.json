@@ -1,0 +1,131 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/heukimjajuk",
+  "recipes": [
+    {
+      "name": "Heukimjajuk (Black sesame seeds porridge)",
+      "source_url": "https://www.maangchi.com/recipe/heukimjajuk",
+      "recipe_id": "/recipe/heukimjajuk#sso/recipe/23181",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "2 tbs toasted black sesame seeds",
+        "3 tbs sweet rice flour",
+        "1½ cup water",
+        "½ ts kosher salt",
+        "a dried jujube with the pit taken removed",
+        "a few pumpkin seeds"
+      ],
+      "instructions": [
+        "Put the black sesame seeds into a strainer and scrub them under running water.",
+        "Drain the seeds and put them in a thick bottomed pan or pot. Stir with a wooden spoon over medium high heat for a few minutes.",
+        "When the sesame seeds start popping, lower the heat. Keep stirring until they’re crispy.",
+        "Blend the toasted black sesame seeds with ½ cup of water for 1 minute until the mixture is smooth.",
+        "Add 1 cup of water to the mix and blend it again for another minute.",
+        "Put 3 tbs of sweet rice flour into a thick bottomed pot. Mix in the sesame mixture with a wooden spoon.",
+        "Bring to a boil. Keep stirring over medium high heat for about 2 to 3 minutes until it bubbles.",
+        "Lower the heat to a simmer. Keep stirring for 3 to 5 minutes. The porridge will thin out a little and become shiny.",
+        "Add ½ ts kosher salt and mix it well. Transfer to a serving bowl.",
+        "Garnish with a jujube and pumpkin seeds (or pine nuts) and serve warm."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "2 tbs toasted black sesame seeds"
+        },
+        {
+          "tag": "li",
+          "text": "3 tbs sweet rice flour"
+        },
+        {
+          "tag": "li",
+          "text": "1½ cup water"
+        },
+        {
+          "tag": "li",
+          "text": "½ ts kosher salt"
+        },
+        {
+          "tag": "h3",
+          "text": "for garnish:"
+        },
+        {
+          "tag": "li",
+          "text": "a dried jujube with the pit taken removed"
+        },
+        {
+          "tag": "li",
+          "text": "a few pumpkin seeds"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Toast sesame seeds"
+        },
+        {
+          "tag": "li",
+          "text": "Put the black sesame seeds into a strainer and scrub them under running water."
+        },
+        {
+          "tag": "li",
+          "text": "Drain the seeds and put them in a thick bottomed pan or pot. Stir with a wooden spoon over medium high heat for a few minutes."
+        },
+        {
+          "tag": "li",
+          "text": "When the sesame seeds start popping, lower the heat. Keep stirring until they’re crispy."
+        },
+        {
+          "tag": "h3",
+          "text": "Make porridge"
+        },
+        {
+          "tag": "li",
+          "text": "Blend the toasted black sesame seeds with ½ cup of water for 1 minute until the mixture is smooth."
+        },
+        {
+          "tag": "li",
+          "text": "Add 1 cup of water to the mix and blend it again for another minute."
+        },
+        {
+          "tag": "li",
+          "text": "Put 3 tbs of sweet rice flour into a thick bottomed pot. Mix in the sesame mixture with a wooden spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Bring to a boil. Keep stirring over medium high heat for about 2 to 3 minutes until it bubbles."
+        },
+        {
+          "tag": "li",
+          "text": "Lower the heat to a simmer. Keep stirring for 3 to 5 minutes. The porridge will thin out a little and become shiny."
+        },
+        {
+          "tag": "li",
+          "text": "Add ½ ts kosher salt and mix it well. Transfer to a serving bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Garnish with a jujube and pumpkin seeds (or pine nuts) and serve warm."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

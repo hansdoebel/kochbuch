@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/blumenkohl-apfel-suppe-mit-zimtnuessen",
+  "recipes": [
+    {
+      "name": "Blumenkohl-Apfel-Suppe mit Zimtnüssen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/blumenkohl-apfel-suppe-mit-zimtnuessen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/blumenkohl-apfel-suppe-mit-zimtnuessen#recipe-ce186fc4-a3e1-5330-a8c0-d137795cb51c",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "100 g Lauch",
+        "1 kleiner Blumenkohl",
+        "2 rote Äpfel",
+        "pflanzliches Öl",
+        "1/2 TL Muskat",
+        "1 Prise Kurkuma",
+        "700 ml Gemüsebrühe",
+        "200 ml pflanzliche Sahne",
+        "Salz&Pfeffer",
+        "Topping",
+        "100 g geschälte Haselnüsse",
+        "1 EL Agavendicksaft",
+        "1 TL Zimt"
+      ],
+      "instructions": [
+        "Zwiebel und Knoblauchzehe schälen und klein schneiden.",
+        "Die äußere Schale vom Lauch entfernen, waschen und in Ringe schneiden.",
+        "Die Blätter vom Blumenkohl entfernen, waschen und in kleine Röschen schneiden.",
+        "Äpfel waschen, entkernen und klein schneiden.",
+        "Den Boden eines großen Topfs mit pflanzlichem Öl bedecken und Zwiebel- und Knoblauchstücken hinzugeben. Nach 2-3 Minuten das restliche Gemüse und Obst hinzugeben und für 5 Minuten gut rösten.",
+        "In der Zeit Wasser und Gemüsebrühe anrühren und dazugeben. Für 15 Minuten köcheln lassen.",
+        "Die Suppe pürieren, die Sahne unterrühren und mit Salz, Pfeffer und Muskat abschmecken.",
+        "Topping",
+        "Haselnüsse grob hacken.",
+        "In einer Pfanne Haselnüsse für 2-3 Minuten ohne Öl rösten. Die losen Schalen aus der Pfanne etwas entfernen.",
+        "Den Agavendicksaft über den Nüssen verteilen und den Zimt hinzugeben. Kurz karamellisieren lassen und vom Herd nehmen.",
+        "Die fertige Suppe mit einem Klacks pflanzlicher Sahne und den süßen Zimt-Nüssen toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

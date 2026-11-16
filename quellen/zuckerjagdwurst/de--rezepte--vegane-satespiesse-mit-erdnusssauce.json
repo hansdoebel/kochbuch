@@ -1,0 +1,65 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-satespiesse-mit-erdnusssauce",
+  "recipes": [
+    {
+      "name": "Vegane Satéspieße mit Erdnusssauce & Gurkensalat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-satespiesse-mit-erdnusssauce",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-satespiesse-mit-erdnusssauce#recipe-710d6362-238e-56ac-bc61-d0ef110d1f4f",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen (2 Spieße pro Person)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "100 g Soja-Medaillons",
+        "1 l Gemüsebrühe",
+        "Koriander zum Servieren",
+        "Sesam zum Servieren",
+        "Öl zum Anbraten",
+        "FÜR DIE MARINADE",
+        "3 EL Ketjap Manis",
+        "1 TL Kreuzkümmel",
+        "1 TL Koriander (gemahlen)",
+        "1 TL Kurkumapulver",
+        "3 cm frischer Ingwer",
+        "1 Knoblauchzehe",
+        "1 frische Zitronengras-Stange",
+        "FÜR DEN SALAT",
+        "1 Gurke",
+        "1 EL Reisessig",
+        "1 EL Sojasauce",
+        "3 EL Erdnussöl",
+        "2 EL Sesam (hell)",
+        "Salz",
+        "Pfeffer",
+        "FÜR DEN DIP",
+        "5 EL cremige Erdnussbutter",
+        "5 EL Kokosmilch",
+        "1 EL Sojasauce",
+        "1 EL Agavendicksaft",
+        "1 EL Zitronensaft"
+      ],
+      "instructions": [
+        "Soja-Medaillons in heißer Gemüsebrühe ca. 10 Minuten einweichen. Danach abgießen, kräftig ausdrücken und mit Salz und Pfeffer würfen.",
+        "Für die Marinade Ingwer und Knoblauch schälen. Die äußere Schale vom Zitronengras entfernen.",
+        "Ingwer, Knoblauch und Zitronengras kleinschneiden und mit dem Mörser zu einer Paste verarbeiten. Kecap Manis, Kurkuma, Kreuzkümmel, Koriander und Salz dazugeben und verrühren.",
+        "Die Sojamedaillons mit Marinade einreiben. Mit Frischhaltefolie abdecken und mind. 30 Minuten ziehen lassen.",
+        "Danach die Medaillons auf Holzspieße pieksen. In einer Grillpfanne oder großen Pfanne Öl erhitzen und die Medaillons von beiden Seiten goldbraun anbraten oder bis sie Grillstreifen haben.",
+        "Für den Dip cremige Erdnussbutter, Kokosmilch, Sojasauce, Agavendicksaft und Zitronensaft in einer Schüssel verrühren.",
+        "Für den Salat Gurke eventuell schälen und in Scheiben schneiden. Mit Salz würzen und 5 Minuten stehen lassen. Danach das ausgetretene Wasser abgießen.",
+        "Reisessig, Sojasauce und Erdnussöl verrühren und Sesam dazugeben. Zu den Gurkenscheiben gießen und alles vermengen.",
+        "Spieße mit Salat und Dip servieren. Yumm!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

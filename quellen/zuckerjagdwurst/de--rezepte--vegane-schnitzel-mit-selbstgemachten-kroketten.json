@@ -1,0 +1,83 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schnitzel-mit-selbstgemachten-kroketten",
+  "recipes": [
+    {
+      "name": "Vegane Schnitzel",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schnitzel-mit-selbstgemachten-kroketten",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schnitzel-mit-selbstgemachten-kroketten#recipe-2c2057ba-b4e6-5532-9132-47bdae6f13b9",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "Für 10 kleine Schnitzelchen oder 3 große Schnitzel",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "3 große Sojaschnitzel oder 10 kleine Sojamedaillons",
+        "500 ml Gemüsebrühe",
+        "Salz",
+        "Pfeffer",
+        "Paprika",
+        "2-3 EL Senf",
+        "250 g Semmelbrösel",
+        "150 ml Sojamilch",
+        "150 g Mehl",
+        "Öl",
+        "1 Zitrone"
+      ],
+      "instructions": [
+        "Die Sojaschnitzel, bzw. -medaillons in eine Schüssel geben und mit heißer Gemüsebrühe auffüllen, damit die Schnitzel darin schwimmen und sich vollsaugen. 10 Minuten stehen lassen.",
+        "Die Sojaschnitzel werden jetzt einmal kräftig ausgedrückt, da sie sonst am Ende wässrig schmecken. Danach auf ein Brett legen und von beiden Seiten kräftig mit Salz, Pfeffer und Paprika würzen, sowie einmal komplett mit ein bisschen Senf einreiben.",
+        "Zeit für die klassische Panierstraße. Auf 3 tiefen Tellern oder Schüsseln verteilt ihr: eine Schüssel mit Mehl, eine mit Sojamilch und eine mit Semmelbröseln/Paniermehl.",
+        "Zuerst kommt das Schnitzel ins Mehl, damit die Panade gut hält. Dann in Sojamilch und direkt danach in Semmelbröseln wenden. Das wäre die erste Runde, aber da doppelt paniert besser hält, kommt euer Schnitzel nochmal in Sojamilch und auch nochmal in die Semmelbrösel.",
+        "In einer großen Pfanne erhitzt ihr ausreichend Öl, das heißt, es sollte gern 0,5 - 1 cm hoch in der Pfanne stehen. Ist das Fett heiß, legt ihr vorsichtig (Fett spritzt!) die Schnitzel rein und lasst sie von beiden Seiten knusprig gold anbraten.",
+        "Danach auf einem Teller mit Küchenpapier kurz abfetten und heiß mit einer Zitrone servieren. Die könnt ihr dann direkt über dem Schnitzel leicht auspressen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Selbstgemachte Kroketten",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schnitzel-mit-selbstgemachten-kroketten",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schnitzel-mit-selbstgemachten-kroketten#recipe-8ed6687d-3f77-51eb-97d1-d0772924a401",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "10 Kroketten",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "750 g Kartoffeln (mehlig kochend)",
+        "4 EL Mehl",
+        "1 TL Vegane Butter",
+        "Salz, Pfeffer, Muskat",
+        "200 g Semmelbrösel/Paniermehl",
+        "150 ml Sojamilch",
+        "100 g Mehl",
+        "1 Bund Petersilie",
+        "Öl"
+      ],
+      "instructions": [
+        "Schält die Kartoffeln, schneidet sie in gleichgroße Stücke und legt diese in einen Topf. Mit Wasser auffüllen, bis alle Stücken bedeckt sind, das Wasser salzen und dann die Kartoffeln kochen lassen, bis ihr easy mit einer Gabel reinpieksen könnt und sie weich sind.",
+        "Danach gießt ihr das Wasser ab und stampft eure Kartoffeln, das geht auch mit einer Gabel, wenn ihr keinen Kartoffelstampfer habt. Der Stampf kann ruhig auch noch ein bisschen stückig sein, das schmeckt am Ende sehr gut.",
+        "Gebt vegane Butter und Mehl dazu, schmeckt kräftig mit Salz, Pfeffer und Muskat ab und lasst das ganze danach circa 5 Minuten abkühlen.",
+        "Bereitet eine kleine Panierstraße mit 3 tiefen Tellern vor: Einmal Mehl, einmal Sojamilch und einmal Semmelbrösel.",
+        "Nun könnt ihr mit euren Händen kleine Kroketten aus dem Kartoffelstampf formen. Diese werden erst im Mehl, dann in der Sojamilch und anschließend in den Semmelbröseln gewendet. Damit sie richtig knusprig werden, wenden wir sie danach nochmal in Sojamilch und Semmelbröseln, denn doppelt panier schmeckt besser!",
+        "Nun habt ihr die Qual der Wahl: Ihr könnt entweder einen Topf mit Öl erhitzen, in dem ihr die Kroketten anschließend frittiert (das Öl sollte dafür zwischen 160-180 Grad heiß sein, bevor ihr die Kroketten hineinlegt), oder legt sie auf ein leicht eingeöltes Backblech. Dann kommen sie für 15 Minuten bei 160 Grad in den Ofen und sollten immer wieder gedreht werden.",
+        "Zum Schluss mit klein geschnittener Petersilie servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

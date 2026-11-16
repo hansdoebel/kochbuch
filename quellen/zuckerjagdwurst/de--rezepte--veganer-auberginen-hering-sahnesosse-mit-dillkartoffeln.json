@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-auberginen-hering-sahnesosse-mit-dillkartoffeln",
+  "recipes": [
+    {
+      "name": "Veganer Auberginen-Hering in Sahnesoße mit Dillkartoffeln",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-auberginen-hering-sahnesosse-mit-dillkartoffeln",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-auberginen-hering-sahnesosse-mit-dillkartoffeln#recipe-580f99aa-d264-5f74-9e5e-3508ee98aac4",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Für die Dill-Kartoffeln:",
+        "25 g Dill",
+        "2 Schalotten",
+        "1 kg feste Kartoffeln",
+        "3 EL vegane Butter",
+        "Salz",
+        "Für den Auberginen-Hering:",
+        "500 g Aubergine",
+        "700 ml Wasser",
+        "250 ml Gewürzgurken-Sud",
+        "3 TL Salz",
+        "1 EL Weißweinessig",
+        "1 Noriblatt",
+        "Für die Sahnesoße:",
+        "1 Zwiebel",
+        "200 g Gewürzgurken",
+        "200 ml pflanzliche Sahne",
+        "200 g pflanzlicher ungesüßter Quark (oder Joghurt)",
+        "3 EL Senf",
+        "20 g Schnittlauch",
+        "1 Zitrone",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "gekochte rote Bete"
+      ],
+      "instructions": [
+        "Die Stiele vom Dill abschneiden und beiseitelegen. Den restlichen Dill waschen, fein hacken und ebenfalls beiseitelegen. Schalotten schälen und fein würfeln. Kartoffeln schälen und in einen Topf geben. Mit Wasser bedecken, salzen und die Dillstiele ebenfalls ins Wasser geben. Die Kartoffeln ca. 20 Min. kochen, oder bis sie gar sind.",
+        "In der Zwischenzeit den Auberginen-Hering zubereiten. Aubergine schälen und in mundgerechte Stücke schneiden. Wasser, Gewürzgurkensud, Salz, Weißweinessig und das Noriblatt in einen Topf geben. Die geschnittene Aubergine dazugeben und ca. 5 Minuten über mittlerer Hitze köcheln lassen, bis die Aubergine weich wird.",
+        "Während die Aubergine köchelt, Zwiebel schälen und fein würfeln und die Gewürzgurken klein schneiden, Schnittlauch fein hacken. Alles in eine große Schüssel geben. Pflanzliche Sahne, pflanzlichen Quark und Senf dazugeben und die Mischung mit Salz, Pfeffer und Zitronensaft abschmecken. Die Aubergine sollte nun weich genug sein. Abgießen und 2-3 Minuten abkühlen lassen. Danach in die Sahnemischung geben, umrühren und bis zum Servieren ziehen lassen.",
+        "Die Kartoffeln sollten nun ebenfalls gar sein. Kartoffeln abgießen, aber den Topf wieder auf den Herd stellen und darin vegane Butter schmelzen lassen. Die Schalottenwürfel ca. 2 Minuten anschwitzen, dann den gehackten Dill dazugeben und mit Pfeffer würzen. Die Kartoffeln zurück in den Topf geben und gut in der Dill-Butter-Mischung schwenken, bis sie rundum mit Dill bedeckt sind. Zum Schluss mit Salz würzen. Aubergine in der Sahnesoße mit Dillkartoffeln und gekochter rote Bete servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

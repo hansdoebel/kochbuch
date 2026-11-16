@@ -1,0 +1,79 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/kohlrabischnitzel-mit-gurkensalat",
+  "recipes": [
+    {
+      "name": "Veganer Gurkensalat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/kohlrabischnitzel-mit-gurkensalat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/kohlrabischnitzel-mit-gurkensalat#recipe-423eaab9-dc87-53d8-b286-232241acc16a",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "1 Gurke",
+        "1 rote Zwiebel",
+        "15 g frischer Dill",
+        "2 EL Kräuteressig",
+        "1 EL neutrales Pflanzenöl",
+        "3 EL pflanzliche Sahne",
+        "1 EL Agavendicksaft",
+        "Salz",
+        "Pfeffer",
+        "Zucker"
+      ],
+      "instructions": [
+        "Gurke waschen, in dünne Scheiben schneiden und in eine Schüssel geben. Gut salzen und ca. 5 Minuten stehen lassen. Anschließend das ausgetretene Wasser abgießen.",
+        "Die rote Zwiebel in dünne Scheiben schneiden und den Dill fein hacken.",
+        "In einem hohen Gefäß Kräuteressig, Öl, pflanzliche Sahne und Agavendicksaft pürieren.",
+        "In einer Schüssel Gurken- und Zwiebelscheiben mit dem Dill und Dressing vermengen und mit Salz, Pfeffer und Zucker abschmecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Vegane Kohlrabischnitzel",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/kohlrabischnitzel-mit-gurkensalat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/kohlrabischnitzel-mit-gurkensalat#recipe-4f3ab0d0-1ed0-5ab4-b5dd-79ed37201d6a",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen (8 vegane Schnitzel)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "2 Kohlrabi",
+        "3 EL Senf",
+        "100 g Mehl",
+        "150 ml pflanzliche Milch",
+        "150 g Panko / Semmelbrösel",
+        "gemahlene Muskatnuss",
+        "edelsüßes Paprikapulver",
+        "Salz",
+        "Pfeffer",
+        "Pflanzenöl",
+        "Zitrone"
+      ],
+      "instructions": [
+        "Eine tiefe Pfanne (oder einen Topf) mit Wasser füllen, leicht salzen und zum Kochen bringen. In der Zwischenzeit Kohlrabi schälen und in ca. 1 cm dicke Scheiben schneiden. Aus einem Kohlrabi bekommt man so etwa 4 Scheiben.",
+        "Die Kohlrabischeiben etwa 5 Minuten köcheln lassen. Wenn man mit einer Gabel in die Scheiben sticht, sollten sie weich sein, aber noch nicht auseinanderbrechen. Anschließend aus dem Wasser nehmen und trocken tupfen. Die Scheiben von beiden Seiten gründlich mit Senf bestreichen und mit Muskatnuss, Paprikapulver, Salz und Pfeffer großzügig würzen.",
+        "Zum Panieren drei tiefe Teller vorbereiten: einen Teller mit Mehl, einen Teller mit pflanzlicher Milch und den letzten Teller mit Panko füllen. Zuerst kommt jede Kohlrabischeibe ins Mehl, damit die Panade gut hält. Danach in pflanzliche Milch tunken und direkt danach in Panko wenden. Damit die Panade noch knuspriger wird, die Kohlrabischeiben im Anschluss erneut in pflanzliche Milch tunken und noch mal in Panko wenden.",
+        "Ausreichend Pflanzenöl in einer großen Pfanne erhitzen, es sollte 0.5 - 1 cm in eurer Pfanne stehen. Die Kohlrabischnitzel ca. 5 Minuten von jeder Seite anbraten, bis sie goldbraun sind. Mit Zitronenspalten servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

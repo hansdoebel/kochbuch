@@ -1,0 +1,44 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/risotto-milanese",
+  "recipes": [
+    {
+      "name": "Risotto Milanese",
+      "source_url": "https://app.cookwell.com/recipe/risotto-milanese",
+      "recipe_id": "https://app.cookwell.com/recipe/risotto-milanese",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "Shallots, 1",
+        "Butter, 28 g",
+        "White wine, 100 g",
+        "Arborio rice, 120 g",
+        "Broth, ~360 g",
+        "Saffron, a pinch",
+        "Water, a splash",
+        "Parmigiano Reggiano, ~40 g",
+        "Butter, a knob",
+        "Salt, as needed"
+      ],
+      "instructions": [
+        "Melt butter in the pan over medium heat, and add the shallot. Sauté for 1-2 minutes until softened and fragrant. Add the rice and continue cooking until each grain is coated with fat and lightly toasted. Add the white wine to deglaze the bottom of the pan, and reduce until mostly evaporated.",
+        "Add about 80% of the cooking liquid (broth & water) to the rice. Reserve the rest to adjust the consistency at the end of cooking. Turn the heat to medium-high and bring the liquid to a simmer. Stir to make sure nothing is stuck to the pan, then turn the heat to low. Stir occasionally, simmering for ~20 minutes or until the liquid is mostly absorbed.",
+        "Meanwhile, add the saffron to a bit of water so it can infuse and bloom while the risotto cooks. For a stronger infusion, you can grind the saffron first or use warm water.",
+        "Once the risotto has absorbed most of the liquid, test the doneness of the rice. As needed, add in the remaining cooking liquid and continue simmering until the risotto reaches your desired consistency. Once it’s close, add in the bloomed saffron water and mix through to infuse the rice & color the whole dish.",
+        "Add the grated Parmigiano & Butter, stirring or tossing until creamy & well emulsified. Add salt to taste, then make final texture adjustments with extra liquid, butter, or parm. Serve warm."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

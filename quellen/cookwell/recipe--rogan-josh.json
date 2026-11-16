@@ -1,0 +1,52 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/rogan-josh",
+  "recipes": [
+    {
+      "name": "Rogan Josh",
+      "source_url": "https://app.cookwell.com/recipe/rogan-josh",
+      "recipe_id": "https://app.cookwell.com/recipe/rogan-josh",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "5 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Lamb stew meat, 1000 g",
+        "Mustard oil, 75 g",
+        "Salt, to taste",
+        "Bay Leaves, 2",
+        "Cinnamon sticks, 1 small stick",
+        "Mace, 2 pieces",
+        "Black cardamom, 2 pods",
+        "Nutmeg, 1/4",
+        "Whole cloves, 3-4",
+        "Kashmiri Chili Powder, 20 g",
+        "Cumin, 10 g",
+        "Fennel Seeds, 5 g",
+        "Garam Masala, 5 g",
+        "Ground Ginger, 3 g",
+        "Asafetida, 2 g",
+        "Whole Milk Yogurt, ~200 g",
+        "Water, as needed",
+        "Basmati Rice",
+        "Roti flatbreads"
+      ],
+      "instructions": [
+        "Add enough oil to generously coat the bottom of a heavy pot. Turn on the heat to medium high and add the whole spices to the oil. Add the cubed lamb & a light sprinkle of salt. As the oil heats, the spices will bloom and release their aromas. While stirring occasionally, continue to cook the lamb/spice mixture for about 5 minutes to achieve light browning on the meat.",
+        "Meanwhile, mix together the yogurt and all of the ground spices until well combined. Once the lamb & spices have cooked for at least 5 minutes, add the yogurt mixture to the pot (be careful, it might sputter). Stir to combine & bring to a simmer.",
+        "Top everything off with just enough water to barely submerge the pieces of meat. Stir, return to a light simmer, and partially cover. Braise for 1-2 hours until the lamb pieces are completely tender. (You can do this by leaving it cooking on the stovetop or in a 300°F/150°C oven.) While this braises, cook some basmati rice or prep any other serving options like roti flatbreads.",
+        "Once the lamb is tender, turn off the heat. Taste and season the mixture with salt if needed. Optional step: Add a few drops of natural red food dye to deepen the color. Many people adjust the color of this dish with natural dyes or traditional coloring agents like ratan jot root. Serve warm over rice or with roti flatbreads."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

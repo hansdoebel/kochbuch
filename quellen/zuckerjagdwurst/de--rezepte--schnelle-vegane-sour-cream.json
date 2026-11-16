@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-vegane-sour-cream",
+  "recipes": [
+    {
+      "name": "Vegane Sour Cream",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-vegane-sour-cream",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-vegane-sour-cream#recipe-1839977b-1f0f-5050-9996-bfe18d29ce59",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "350 g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT5M",
+      "ingredients": [
+        "200 g Sojaquark",
+        "150 g veganer Frischkäse",
+        "1 TL Knoblauchpulver",
+        "1 EL Apfelessig",
+        "1 Zitrone (Saft)",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Zitrone auspressen.",
+        "In einer Schüssel alle Zutaten verrühren, Zitronensaft dazurühren.",
+        "Mit Salz & Pfeffer abschmecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

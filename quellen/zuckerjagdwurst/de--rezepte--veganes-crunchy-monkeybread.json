@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-crunchy-monkeybread",
+  "recipes": [
+    {
+      "name": "Veganes Choco Crunch Monkeybread",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-crunchy-monkeybread",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-crunchy-monkeybread#recipe-d263a483-f9ad-5023-8fae-b1e8cf694e4c",
+      "authors": [
+        "Gesine Fiedler"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kastenform (30 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für das Monkeybread:",
+        "700 g Fertigteig für vegane Croissants",
+        "200 g vegane Schokolade (z. B. Double Crunch von Ritter Sport)",
+        "5 EL brauner Zucker",
+        "2 EL Zimt",
+        "200 g vegane Schokoladencreme",
+        "50 g Mais-Cornflakes",
+        "50 g vegane Butter",
+        "vegane Butter zum Einfetten",
+        "Mehl zum Bestäuben",
+        "Ausserdem:",
+        "200 g vegane Vollmilchschokolade",
+        "50 g Mais-Cornflakes"
+      ],
+      "instructions": [
+        "Den Backofen auf 180° C (Umluft) vorheizen. Kastenform mit veganer Butter einfetten und mit etwas Mehl bestäuben, damit der Teig nicht klebt. Den Croissantteig nach Bedarf auf Raumtemperatur bringen, damit er weich genug zum Rollen ist. Den Teig ausrollen und in die vorgezeichneten Dreiecke schneiden. Diese nochmal halbieren, sodass 24 kleine Dreiecke entstehen.",
+        "Vegane Crunch-Schokolade in 24 kleine Stücke brechen. Braunen Zucker und Zimt in einer Schüssel verrühren. Je nach Geschmack das Verhältnis von Zucker und Zimt ändern. Jeweils circa 1 TL der veganen Schokoladencreme und ein Stück der Schokolade mittig auf ein Croissant-Dreieck geben und anschließend den Teig vorsichtig um die Füllung legen und mit den Händen zu einer geschlossenen Kugel formen.",
+        "Vegane Butter schmelzen, Croissant-Bällchen erst in der flüssigen Butter und dann in der Zucker-Zimt-Mischung rollen, bis sie vollständig ummantelt sind. Danach in die Kastenform legen. Mit den restlichen Teigstücken wiederholen, bei Bedarf mehr Schokoladencreme oder Zucker-Zimt-Mix verwenden. Beim Schichten der Kugeln dann immer wieder ein paar Cornflakes dazwischen streuen.",
+        "Das Monkeybread für circa 25 Minuten bei 180° C (Umluft) backen, bis es goldbraun und durchgebacken, aber noch nicht zu dunkel ist. Anschließend aus dem Backofen nehmen und einige Minuten abkühlen lassen, bevor es aus der Kastenform gehoben wird. Entweder vollständig abkühlen lassen oder noch lauwarm garnieren.",
+        "Vegane Vollmilchschokolade grob hacken, in einem Wasserbad schmelzen und die Hälfte der Schokolade mit einer Gabel in Streifen über dem Monkeybread verteilen, dann mit Cornflakes bestreuen und den Rest der Schokolade nochmals darüber verteilen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

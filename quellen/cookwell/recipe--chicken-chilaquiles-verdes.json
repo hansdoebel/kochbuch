@@ -1,0 +1,41 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/chicken-chilaquiles-verdes",
+  "recipes": [
+    {
+      "name": "Chicken Chilaquiles Verdes",
+      "source_url": "https://app.cookwell.com/recipe/chicken-chilaquiles-verdes",
+      "recipe_id": "https://app.cookwell.com/recipe/chicken-chilaquiles-verdes",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1-2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Salsa verde, ~200 g",
+        "Cilantro, a handful",
+        "Chicken bouillon, to taste",
+        "Water, as needed",
+        "Cooked chicken, ~100 g",
+        "Tortilla Chips, ~45 g",
+        "Greek Yogurt, ~15 g",
+        "Red Onions, to taste",
+        "Cilantro, to taste"
+      ],
+      "instructions": [
+        "In a blender or food processor, pulse together the salsa & cilantro with just enough water to thin it out into a smooth, pourable sauce. Blend in a small amount of chicken bouillon (paste or powder) until the sauce tastes seasoned and has a bit of savory umami.",
+        "Add the blended sauce to a saucepan and bring to a simmer over low heat. Allow it lightly reduce over low heat for a few minutes, stirring occasionally. Meanwhile, warm up & shred your cooked chicken into small pieces with a fork or hands. Any leftover chicken will do here. Great use case for rotisserie meat or leftover grilled meat. Gather or chop any remaining toppings.",
+        "Turn off the heat on the saucepan. Add a serving of chips to a plate, then ladle over however much sauce you want. For a softer texture, use more sauce and let them sit for a few minutes. For a super soggy texture, you can first add the chips to the saucepan to completely coat them, then transfer to a plate. Top with shredded chicken, then garnish with the onions, cilantro, and yogurt to taste."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

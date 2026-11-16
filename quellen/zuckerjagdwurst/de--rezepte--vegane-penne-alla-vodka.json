@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-penne-alla-vodka",
+  "recipes": [
+    {
+      "name": "Vegane Pasta alla Vodka",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-penne-alla-vodka",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-penne-alla-vodka#recipe-98abc443-491c-53cd-bdb9-f2d72b05e075",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "250 g Tortiglioni",
+        "1 Zwiebel",
+        "2 Knoblauchzehen",
+        "3 EL Olivenöl",
+        "1 TL getrockneter Oregano",
+        "1 TL Chiliflocken",
+        "5 EL Tomatenmark",
+        "50 ml Vodka",
+        "400 g gehackte Tomaten aus der Dose",
+        "100 ml pflanzliche Sahne",
+        "veganer Parmesan zum Servieren",
+        "Basilikum zum Servieren",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Zwiebel und Knoblauch schälen und fein hacken. Olivenöl in einer großen Pfanne über kleiner Hitze erwärmen und Zwiebel, Knoblauch, getrockneten Oregano und Chiliflocken darin ca. 5 Minuten anschwitzen, bis sie aromatisch und die Zwiebelwürfel glasig sind.",
+        "Tomatenmark dazugeben und weitere 5 Minuten anbraten, damit sich das Tomatenmark dunkler färbt. Vodka einrühren und weitere 5 Minuten einköcheln lassen.",
+        "Gehackte Tomaten aus der Dose und pflanzliche Sahne einrühren, kräftig mit Salz und Pfeffer würzen und die Soße köcheln lassen, bis die Nudeln fertig sind.",
+        "Nudeln in kochendem Salzwasser nach Packungsanleitung kochen. Eine Tasse vom Kochwasser aufheben, die Nudeln abgießen und direkt zur Soße in die Pfanne geben. Alles gut vermengen und mit so viel Pastawasser wie nötig abbinden, bis eine cremige Soße entsteht. Mit veganem Parmesan und Basilikum servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

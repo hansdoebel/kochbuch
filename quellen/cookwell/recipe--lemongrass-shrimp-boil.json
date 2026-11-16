@@ -1,0 +1,49 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/lemongrass-shrimp-boil",
+  "recipes": [
+    {
+      "name": "Lemongrass Shrimp Boil",
+      "source_url": "https://app.cookwell.com/recipe/lemongrass-shrimp-boil",
+      "recipe_id": "https://app.cookwell.com/recipe/lemongrass-shrimp-boil",
+      "authors": [
+        "Cook Well Official"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4-6 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT1H",
+      "ingredients": [
+        "Stock, ~ 1000 g",
+        "Garlic, 3-4 cloves",
+        "Lemongrass, 1-2 stalks",
+        "Fresh ginger, 1” knob",
+        "Lemon juice, 1/2 lemon",
+        "Cajun Seasoning, a spoonful",
+        "Jumbo shrimp, ~ 900 g",
+        "Andouille Sausages, ~ 450 g",
+        "Red potatoes, ~ 400 g",
+        "Corn ear, 6-8",
+        "Garlic, 3-4 cloves",
+        "Lemongrass, 1-2 stalks",
+        "Fresh ginger, 1” knob",
+        "Butter, 1/2 stick"
+      ],
+      "instructions": [
+        "Partially fill a large pot with water or broth, leaving enough room for the potatoes and corn later. Add a few handfuls of lemongrass, ginger, garlic, and squeezed lemon halves, and bring to a simmer. Add a generous amount of cajun seasoning and taste. It should taste stronger than you’d want soup — this will season all the other ingredients.",
+        "Add the potatoes to the mix and simmer until softened. When they are almost done, add the corn.",
+        "In a small saucepan melt butter and a few handfuls of chopped garlic, lemongrass & ginger. Once the butter is bubbling, but not browned, turn off the heat and set aside to infuse.",
+        "In batches, add the sausage coins to a hot pan until browned on both sides. Once done, add to the pot. In batches, sear the shrimp to get some color on the shells (but not cooked all the way through, and set aside.",
+        "Once everything is cooked through in the pot, add the remaining seared shrimp to the boil. Cook for 60-90 more seconds or until the shrimp is poached, but not overcooked.",
+        "Using a spider or slotted spoon, remove all of the ingredients from the boil pot onto a serving platter. Taste each ingredient for seasoning, and adjust with a sprinkle of salt or seasoning if needed. Serve with additional lemons and aromatic melted butter (either over top, or on the side for people to dip into). Instruct diners to eat with their hands, peeling the shrimp and eating around any whole aromatics."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,93 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/ssamjang",
+  "recipes": [
+    {
+      "name": "Ssamjang (Korean spicy dipping sauce)",
+      "source_url": "https://www.maangchi.com/recipe/ssamjang",
+      "recipe_id": "/recipe/ssamjang#sso/recipe/25355",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "¼ cup doenjang (fermented soybean paste)",
+        "1 tbs gochujang (hot pepper paste)",
+        "1 stalk of minced green onion",
+        "1 clove of minced garlic",
+        "¼ cup chopped onion",
+        "2 ts honey",
+        "2 ts toasted toasted sesame seeds",
+        "2 ts toasted sesame oil"
+      ],
+      "instructions": [
+        "Use a spoon to mix all the ingredients in a large bowl.",
+        "Transfer it to a small bowl, and serve with rice and lettuce, or with meat BBQ."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": ": (4 servings)"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup doenjang (fermented soybean paste)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tbs gochujang (hot pepper paste)"
+        },
+        {
+          "tag": "li",
+          "text": "1 stalk of minced green onion"
+        },
+        {
+          "tag": "li",
+          "text": "1 clove of minced garlic"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup chopped onion"
+        },
+        {
+          "tag": "li",
+          "text": "2 ts honey"
+        },
+        {
+          "tag": "li",
+          "text": "2 ts toasted toasted sesame seeds"
+        },
+        {
+          "tag": "li",
+          "text": "2 ts toasted sesame oil"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Use a spoon to mix all the ingredients in a large bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer it to a small bowl, and serve with rice and lettuce, or with meat BBQ."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

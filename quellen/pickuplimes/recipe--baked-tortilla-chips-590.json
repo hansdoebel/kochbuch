@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/baked-tortilla-chips-590",
+  "recipes": [
+    {
+      "name": "Baked Tortilla Chips",
+      "source_url": "https://www.pickuplimes.com/recipe/baked-tortilla-chips-590",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT08M",
+      "total_time": "PT13M",
+      "ingredients": [
+        "4 large soft flour tortilla",
+        "1½ Tbsp vegetable oil",
+        "½ tsp salt",
+        "¼ tsp sweet paprika powder",
+        "⅛ tsp ground black pepper"
+      ],
+      "instructions": [
+        "Line two baking trays and preheat the oven to 400°F (200°C)*.",
+        "Cut each tortilla into 12 pieces and transfer the pieces to a large bowl.",
+        "Pour half the oil over the tortillas, toss, then add the remaining oil**. Toss again. Sprinkle over the salt, paprika, and pepper and mix again, ensuring all pieces have some seasoning on them.",
+        "Lay the pieces in a single layer over the baking trays***. Bake in the oven on the middle and lowest rack for 3 to 4 minutes. Rotate the pans and bake for another 3 to 4 minutes.",
+        "Remove from the oven when the edges of the chips are toasted. Keep an eye on them during baking because they can easily over toast.",
+        "Serve the chips with your favourite salsa, dip or spread and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Our large tortillas measure about 10 inches (25 cm) in diameter. * We used top and bottom heating (not fan-assisted/convection). ** Adding the oil in parts helps to ensure that it's evenly distributed between the pieces. *** Crowding all the pitas onto one tray can cause the chips to steam rather than roast, which might prevent them from getting crispy.",
+    "Storage Store in an airtight container at room temperature for up to 3 days. If they start to lose their crispness, re-toast in the oven for 1 - 2 minutes."
+  ]
+}

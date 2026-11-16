@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/spicy-garlic-tofu-3",
+  "recipes": [
+    {
+      "name": "Spicy Garlic Tofu",
+      "source_url": "https://www.pickuplimes.com/recipe/spicy-garlic-tofu-3",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT15M",
+      "cook_time": "PT20M",
+      "total_time": "PT35M",
+      "ingredients": [
+        "13.933 oz firm tofu",
+        "1½ Tbsp cornstarch",
+        "¼ tsp fine sea salt",
+        "⅛ tsp ground black pepper",
+        "1 Tbsp vegetable oil",
+        "2 Tbsp maple syrup",
+        "1 Tbsp gochujang",
+        "1 Tbsp reduced-sodium soy sauce",
+        "1 Tbsp rice vinegar",
+        "2 Tbsp vegetable oil",
+        "5 garlic clove",
+        "1 medium shallot",
+        "2 fresh red chili",
+        "2 stalk green onion"
+      ],
+      "instructions": [
+        "Ensure the tofu is sufficiently pressed before cutting it into ½-inch / 1 cm cubes*.",
+        "Place the tofu cubes in a large bowl. Add the cornstarch, salt, and black pepper and gently toss to coat.",
+        "In a large skillet, heat the oil over medium-high heat. Cook the tofu for 8 to 10 minutes, until golden. Try to not disturb the tofu too much to avoid crumbling.",
+        "Meanwhile, in a small bowl, mix together the maple syrup, gochujang, soy sauce, and rice vinegar. Set aside.",
+        "When the tofu is crisped to your liking, transfer it to a plate. In the same pan over medium-high heat, drizzle in the remaining oil. When hot, add the garlic, shallot, chilies, and green onions and cook for about 4 minutes, or until golden.",
+        "Reduce the heat to medium and add the sauce, cooking for 2 to 3 minutes, until the sauce becomes sticky.",
+        "Add the tofu to the pan and stir to coat.",
+        "Transfer to a plate and garnish with some sliced green onions and sesame seeds (if using). Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Gochujang is a Korean fermented red chili paste, which has a sweet, savoury, and spicy flavour profile. It can be found in most Asian supermarkets, but you could also substitute it with another hot sauce, such as Sriracha, if desired. * The more liquid that can be drained, the quicker the tofu cooks and the crispier it gets.",
+    "Storage The tofu can be stored in an airtight container in the fridge for up to 3 days."
+  ]
+}

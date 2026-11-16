@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-rigatoni-allamatriciana",
+  "recipes": [
+    {
+      "name": "Vegane Pasta All'Amatriciana",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-rigatoni-allamatriciana",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-rigatoni-allamatriciana#recipe-bd78e5da-98d7-59df-86f4-6cb2c4cceb77",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "3 - 4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "300 g Pasta",
+        "1 Zwiebel",
+        "2 Knoblauchzehen",
+        "1 Chilischote",
+        "200 g Räuchertofu",
+        "0.5 TL Liquid Smoke",
+        "1 TL Sojasauce",
+        "800 g ganze Tomaten aus der Dose",
+        "150 g Cocktailtomaten",
+        "Salz",
+        "Pfeffer",
+        "Olivenöl zum Braten",
+        "Basilikum zum Servieren",
+        "veganer Parmesan zum Servieren"
+      ],
+      "instructions": [
+        "Zwiebel und Knoblauch schälen und fein würfeln. Chilischote halbieren, entkernen und die Schote ebenfalls fein hacken. Räuchertofu in kleine Würfel schneiden und Cocktailtomaten halbieren.",
+        "Olivenöl in einer großen Pfanne erhitzen und zuerst den Räuchertofu ca. 5 Minuten scharf anbraten. Nach der Hälfte der Zeit Liquid Smoke und Sojasauce dazugeben. Den Räuchertofu aus der Pfanne nehmen und beiseitestellen.",
+        "Nun Zwiebel, Knoblauch und Chili in die selbe Pfanne geben. Bei Bedarf, erneut Öl dazugeben. Alles zusammen bei kleiner Hitze ca. 3-4 Minuten anschwitzen. Die Dosentomaten in die Pfanne geben, kräftig mit Salz und Pfeffer würzen und die Soße ca. 30 Minuten über kleiner bis mittlerer Hitze köcheln lassen. Dabei immer wieder umrühren und die ganzen Tomaten mit einem Holzlöffel zerdrücken. Zum Schluss den Räuchertofu und die halbierten Cocktailtomaten dazugeben.",
+        "Während die Soße kocht, gesalzenes Wasser in einem großen Topf zum Kochen bringen und eure gewünschte Pasta je nach Packungsangaben kochen. Bevor die Nudeln abgegossen werden, eine Tasse vom Kochwasser der Nudeln abschöpfen. Danach die Nudeln abgießen und direkt zur Soße in die Pfanne geben. Alles gut vermengen und dabei so viel Nudelwasser wie nötig hinzugeben, bis die Soße sämig wird.",
+        "Mit frischem Basilikum servieren und mit veganem Parmesan bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

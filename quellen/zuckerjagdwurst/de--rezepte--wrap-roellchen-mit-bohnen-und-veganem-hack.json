@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/wrap-roellchen-mit-bohnen-und-veganem-hack",
+  "recipes": [
+    {
+      "name": "Wrap-Röllchen mit Bohnen & veganem Hack",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/wrap-roellchen-mit-bohnen-und-veganem-hack",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/wrap-roellchen-mit-bohnen-und-veganem-hack#recipe-cddc37b6-e179-5127-94cc-2c4e97eb1b89",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Wrap-Röllchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Wraps:",
+        "2-3 große Tortillas (Ø 30 cm) oder 4-5 kleinere Tortillas",
+        "0.5 rote Paprika",
+        "0.5 gelbe Paprika",
+        "2-3 EL Chili-Paprika-Sauce (z.B. von Byodo)",
+        "240 g schwarze Bohnen aus der Dose (Abtropfgewicht)",
+        "200 g veganes Hackfleisch",
+        "ca. 6-8 große Kopfsalat-Blätter",
+        "100 g veganer Scheibenkäse",
+        "Grill & Tex Mex Sauce (z.B. von Byodo)",
+        "Pflanzenöl zum Anbraten",
+        "Salz",
+        "Pfeffer",
+        "Für den Dip:",
+        "0.5 rote Zwiebel",
+        "50 g Jalapeños aus dem Glas",
+        "300 g veganer Schmand oder Frischkäse",
+        "1 Limette (Saft)",
+        "Kräutersalz (z.B. von Byodo)",
+        "Pfeffer",
+        "Zum Servieren:",
+        "frischer Koriander",
+        "Tortilla Chips",
+        "Limetten"
+      ],
+      "instructions": [
+        "Rote und gelbe Paprika waschen, entkernen und in kleine Würfel schneiden. Die Paprikawürfel mit der Chili-Paprika-Sauce vermengen und beiseitestellen. Schwarze Bohnen abtropfen lassen.",
+        "Pflanzenöl in einer Pfanne bei mittlerer Hitze erwärmen und das vegane Hack ca. 5 Minuten anbraten. Danach die schwarzen Bohnen hinzugeben und weitere ca. 3-4 Minuten braten. Kräftig mit Salz und Pfeffer würzen.",
+        "Für den Dip die rote Zwiebel schälen und fein würfeln. Die Jalapeños ebenfalls fein würfeln. Beides mit veganem Schmand vermengen und mit Limettensaft, Kräutersalz und Pfeffer abschmecken.",
+        "Die Kopfsalatblätter vom Strunk lösen und säubern. Die Tortillas jeweils mit dem Dip bestreichen und die Füllung gleichmäßig darauf und übereinander schichten: zuerst Salatblätter, dann vegane Käsescheiben, veganen Hack-Bohnen-Mix, Paprikawürfel und zum Schluss Grill & Tex Mex Sauce ganz nach Geschmack.",
+        "Die Tortillas möglichst eng aufrollen und mit der \"Naht\" nach unten legen. Sechs Zahnstocher in gleichmäßigen Abständen in die Rolle piksen. Die Enden des Wraps etwas kürzen und den Wrap mit einem scharfen Messer in sechs Stücke teilen, sodass ein Zahnstocher immer mittig in einem Röllchen platziert ist. Mit dem zweiten (oder sogar dritten) Wrap genauso vorgehen.",
+        "Die Wrap-Röllchen mit frischem Koriander, Tortilla Chips und Limettenspalten servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

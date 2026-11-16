@@ -1,0 +1,38 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/salata-afghan-salad-407",
+  "recipes": [
+    {
+      "name": "Salata - Afghan Salad",
+      "source_url": "https://www.pickuplimes.com/recipe/salata-afghan-salad-407",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "2 medium tomato",
+        "½ cucumber",
+        "½ small red onion",
+        "½ lime",
+        "1 tsp dried mint leaves",
+        "¼ tsp salt"
+      ],
+      "instructions": [
+        "Add all of the ingredients to a bowl, toss, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage The salata is best enjoyed immediately, as the salt causes the tomato and cucumber to release their water content rather quickly. Leftovers can be stored in an airtight container stored in the fridge for up to 1 day."
+  ]
+}

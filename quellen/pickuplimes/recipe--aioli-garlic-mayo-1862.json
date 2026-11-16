@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/aioli-garlic-mayo-1862",
+  "recipes": [
+    {
+      "name": "Aioli - Garlic Mayo",
+      "source_url": "https://www.pickuplimes.com/recipe/aioli-garlic-mayo-1862",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "16 servings",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT10M",
+      "ingredients": [
+        "4 garlic clove",
+        "2 Tbsp fresh lemon juice",
+        "¼ cup unsweetened soy milk",
+        "¼ cup olive oil",
+        "¼ cup vegetable oil",
+        "⅛ tsp salt"
+      ],
+      "instructions": [
+        "Combine all the aioli ingredients in a tall jug.",
+        "Using an immersion blender sitting at the bottom of the jug, pulse until smooth and thickened*. Taste and add more garlic if you like a stronger aioli. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † 1 lemon yields about 2 Tbsp (30ml) of lemon juice. † Choose extra-virgin olive oil for a more pronounced flavour, or a neutral olive oil if you prefer a milder aioli. * Do not lift the blender back up until the emulsion has formed. Then you can go up and down to incorporate the remaining oil.",
+    "Storage Store in an airtight container in the fridge for up to 5 days."
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/grilled-red-pepper-pesto-pasta-314",
+  "recipes": [
+    {
+      "name": "Grilled Red Pepper Pesto Pasta",
+      "source_url": "https://www.pickuplimes.com/recipe/grilled-red-pepper-pesto-pasta-314",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT15M",
+      "cook_time": "PT35M",
+      "total_time": "PT50M",
+      "ingredients": [
+        "½ Tbsp olive oil",
+        "2 red bell pepper",
+        "1 orange bell pepper",
+        "¼ tsp salt",
+        "⅛ tsp ground black pepper",
+        "½ Tbsp olive oil",
+        "4 garlic clove",
+        "1 medium zucchini",
+        "14.109 oz spaghetti noodles",
+        "¼ cup oil-packed sun-dried tomatoes",
+        "¼ cup unsalted roasted walnuts",
+        "1½ cup frozen green peas"
+      ],
+      "instructions": [
+        "Heat the oil in a large pan over high heat. When hot, add the bell peppers in a single layer. Sprinkle over a bit of salt and pepper. Cook until blistered, then flip to cook on the other side*.",
+        "Push the blistered bell peppers to the side of the pan. Add more oil and cook the garlic until lightly golden, about 2 to 3 minutes. Transfer everything to a food processor or blender.",
+        "Return the same pan to the heat, and add more oil and zucchini. Sprinkle over salt and pepper, and try not to disturb the zucchini as it cooks. Flip only when golden. Meanwhile, cook the pasta in a large pot of salted boiling water.",
+        "Returning to the food processor, add in the sun-dried tomato, and walnuts. Blend until smooth, but some small chunks can remain, if desired.",
+        "In the last two minutes of the pasta cooking, add the peas to the cooking water. When the pasta is al dente, drain. Then return the drained pasta to the pot. Add the cooked zucchini and blended red bell pepper mixture to the pot. Toss everything to coat.",
+        "One heated through, serve while hot. Garnish if desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * To speed up this recipe, skip this step and use roasted bell peppers from a jar.",
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

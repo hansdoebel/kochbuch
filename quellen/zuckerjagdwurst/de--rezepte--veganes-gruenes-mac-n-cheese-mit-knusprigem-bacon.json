@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-gruenes-mac-n-cheese-mit-knusprigem-bacon",
+  "recipes": [
+    {
+      "name": "Veganes grünes Mac’n’Cheese mit knusprigem Bacon",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-gruenes-mac-n-cheese-mit-knusprigem-bacon",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-gruenes-mac-n-cheese-mit-knusprigem-bacon#recipe-d6b9a981-6720-5f5a-bf65-dc03c032f955",
+      "authors": [
+        "Anne-Sophie Hoffmann"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für die Soße:",
+        "250 g Kartoffeln (festkochend)",
+        "1 kleine Möhre",
+        "1 Zwiebel",
+        "150 g Cashewnüsse",
+        "75 g TK-Erbsen",
+        "0.5 TL Knoblauchpulver",
+        "15 g frische Kräuter",
+        "125 ml vegane Kochsahne",
+        "4 EL Hefeflocken",
+        "0.5 Zitrone (Saft)",
+        "1 EL helle Misopaste",
+        "Salz",
+        "Pfeffer",
+        "Für das Grillgemüse:",
+        "1 Paprika",
+        "1 Zucchini",
+        "1 Zwiebel",
+        "0.25 TL edelsüßes Paprikapulver",
+        "0.25 TL Zwiebelpulver",
+        "Salz",
+        "Pfeffer",
+        "Öl zum Anbraten",
+        "Außerdem:",
+        "150 g vegane Bacon Chunks (z. B. von Bunte Burger)",
+        "500 g Pasta (z. B. Makkaroni)"
+      ],
+      "instructions": [
+        "Kartoffeln, Möhre und Zwiebel schälen und grob würfeln. Zusammen mit den Cashewnüssen in einen Topf geben, mit Wasser bedecken, salzen und bei mittlerer Hitze kochen, bis das Gemüse weich ist. Etwa 5 Minuten vor Ende der Garzeit die Tiefkühl-Erbsen hinzufügen. Anschließend abgießen.",
+        "Das gekochte Gemüse zusammen mit den frischen Kräutern, der Kochsahne, Hefeflocken, Misopaste und Zitronensaft in einen Mixer geben (alternativ: mit einem Pürierstab fein pürieren) und zu einer cremigen Soße verarbeiten. Nach Wunsch etwas mehr Kochsahne hinzufügen, bis die gewünschte Konsistenz erreicht ist. Die Soße zurück in den Topf geben und mit Knoblauchpulver, Salz und Pfeffer abschmecken. Bei kleiner Hitze warm halten.",
+        "Paprika, Zucchini und Zwiebel in mundgerechte Stücke schneiden. In einer Pfanne mit etwas Öl anbraten und mit Paprikapulver, Zwiebelpulver, Salz und Pfeffer würzen. Das Gemüse sollte schön gebräunt, aber noch bissfest sein.",
+        "Die Pasta nach Packungsanweisung in reichlich Salzwasser kochen. Abgießen und beiseitestellen.",
+        "Die veganen Bacon Chunks in einer Pfanne knusprig anbraten.",
+        "Pasta mit der cremigen Soße und den Bacon Chunks vermengen. Mit dem Grillgemüse servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

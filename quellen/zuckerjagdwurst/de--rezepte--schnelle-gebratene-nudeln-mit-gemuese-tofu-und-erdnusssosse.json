@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-gebratene-nudeln-mit-gemuese-tofu-und-erdnusssosse",
+  "recipes": [
+    {
+      "name": "Schnelle gebratene Nudeln mit Gemüse, Tofu und Erdnusssoße",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-gebratene-nudeln-mit-gemuese-tofu-und-erdnusssosse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-gebratene-nudeln-mit-gemuese-tofu-und-erdnusssosse#recipe-10ae9ed7-522a-57f7-9ff7-3bcbad73bdc4",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "Für die Nudelpfanne:",
+        "100 g Tiefkühl-Edamame",
+        "150 g Ramennudeln (oder andere Nudeln)",
+        "2 Pak Choi",
+        "2 Frühlingszwiebeln",
+        "125 g Spitzkohl",
+        "200 g Räuchertofu",
+        "15 g Ingwer",
+        "1 Knoblauchzehe",
+        "1 EL Sojasoße",
+        "Erdnussöl zum Braten",
+        "Für die Soße:",
+        "4 EL Erdnussbutter",
+        "3 EL Sojasoße",
+        "1.5 EL geröstetes Sesamöl",
+        "1.5 TL Ahornsirup oder Agavendicksaft",
+        "1 Limette (Saft)",
+        "Wasser zum Verdünnen",
+        "Für die Toppings:",
+        "Chili Crisp",
+        "Koriander",
+        "Sesam",
+        "Limette",
+        "Erdnüsse"
+      ],
+      "instructions": [
+        "Einen Topf mit Wasser füllen und zum Kochen bringen. Zuerst die tiefgekühlten Edamame darin circa 2 Minuten köcheln lassen. Danach die Ramennudeln dazugeben und weitere 2 Minuten im heißen Wasser lassen. Anschließend abgießen und mit kaltem Wasser abschrecken.",
+        "Tipp: Orientiert euch bei der Zubereitung an den jeweiligen Nudelpackungen, aber reduziert die Kochzeit um 2 Minuten, damit sie später in der Pfanne nicht zu weich werden.",
+        "Während das Wasser heiß wird und Edamame und Nudeln kochen, geht es ans Schneiden. Pak Choi, Frühlingszwiebeln und Spitzkohl in feine Streifen schneiden. Das Grüne der Frühlingszwiebeln und vom Pak Choi separat beiseitelegen. Räuchertofu mit den Händen zerbröseln.",
+        "Erdnussöl in einer Pfanne erhitzen. Zuerst den Räuchertofu in die Pfanne geben und Ingwer und die Knoblauchzehe dazureiben. Alles bei hoher Hitze 3–4 Minuten anbraten, bis der Tofu gebräunt ist. Einen Schuss Sojasoße und das restliche geschnittene Gemüse dazugeben, dabei das Grüne vom Pak Choi und den Frühlingszwiebeln noch nicht verwenden. Bei hoher Hitze 3–4 Minuten braten.",
+        "Während der Bratzeit für die Soße Erdnussbutter, Sojasoße, geröstetes Sesamöl, Agavendicksaft, und Limettensaft vermengen und so viel Wasser dazugeben, bis eine sämige Soße entsteht.",
+        "Die vorgekochten Nudeln und Edamame in die Pfanne zum Tofu und Gemüse geben und mit der Soße übergießen. Jetzt erst das Grüne der Frühlingszwiebeln und vom Pak Choi dazugeben und alles gemeinsam noch 2–3 Minuten erwärmen.",
+        "Die gebratenen Nudeln nach Belieben mit Chili Crisp, Koriander, Sesam, Limettensaft und gehackten Erdnüssen toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

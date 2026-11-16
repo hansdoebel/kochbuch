@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-neapolitan-cookies",
+  "recipes": [
+    {
+      "name": "Vegane Neapolitan Cookies",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-neapolitan-cookies",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-neapolitan-cookies#recipe-ea5ccd53-a878-5f12-bed2-a2d3fb0b0feb",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "9 Kekse",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT37M",
+      "ingredients": [
+        "Für den Grundteig:",
+        "200 g vegane Butter",
+        "200 g brauner Zucker",
+        "1.5 EL Apfelmus",
+        "250 g Mehl",
+        "0.5 TL Backpulver",
+        "0.5 Tl Natron",
+        "1 Prise Salz",
+        "Für den Vanille-Teig:",
+        "1.5 TL Vanillepaste",
+        "Für den Erdbeer-Teig:",
+        "12 g gefriergetrocknete Erdbeeren",
+        "Für den Schoko-Teig:",
+        "2 TL Kakaopulver",
+        "0.5 TL Zimt",
+        "Außerdem:",
+        "2 EL Zimt",
+        "6 EL Zucker"
+      ],
+      "instructions": [
+        "Den Backofen auf 180°C (Umluft) vorheizen. Die gefriergetrockneten Erdbeeren in einem kleinen Standmixer oder mit einem Handmixer zu Pulver verarbeiten und beiseitestellen.",
+        "Für den Grundteig zimmerwarme vegane Butter mit einem Handrührgerät aufschlagen, bis sie fluffig ist. Den braunen Zucker hinzugeben und weiter aufschlagen, bis sich beide Zutaten vermischt haben. Apfelmus hinzugeben und weiter verrühren.",
+        "Mehl, Backpulver, Natron und Salz in einer weiteren Schüssel vermengen. Die Mehlmischung zur veganen Buttermasse geben und alles gut vermengen.",
+        "Den Teig in drei gleich große Teile teilen. Zum ersten Teil Vanillepaste hinzugeben. Falls der Teig hierbei zu klebrig wird, einfach etwas mehr Mehl hinzugeben, bis eine glatte Teigkugel entsteht. Zur zweiten Teigportion kommt das Pulver der gefriergetrockneten Erdbeeren und zum restlichen Teig Kakaopulver und Zimt.",
+        "Von jeder Teigkugel 20 g abnehmen und vorsichtig mit den Händen zusammen rollen, sodass die verschiedenen Farben aneinander kleben bleiben, sich aber nicht vermischen.",
+        "Die Zimt-Zucker-Mischung in einer kleinen Schüssel anrühren und die bunten Teigkugeln darin wälzen, bis sie rundherum ummantelt sind.",
+        "Die Teigkugeln mit reichlich Abstand auf ein mit Backpapier ausgelegtes Backblech legen und bei 180°C (Umluft) ca. 10-12 Minuten backen.",
+        "Tipp: Die Kekse sind sehr weich, wenn sie aus dem Ofen kommen. Deshalb sollten sie komplett auskühlen und werden dabei etwas fester und stabiler. Danach halten sich die Kekse in einer verschlossenen Dose bis zu 1-2 Wochen frisch."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

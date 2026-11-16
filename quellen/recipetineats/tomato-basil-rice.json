@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.recipetineats.com/tomato-basil-rice/",
+  "recipes": [
+    {
+      "name": "Tomato Basil Rice",
+      "source_url": "https://www.recipetineats.com/tomato-basil-rice/",
+      "recipe_id": "https://www.recipetineats.com/tomato-basil-rice/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "4"
+      ],
+      "prep_time": "PT7M",
+      "cook_time": "PT15M",
+      "total_time": "PT22M",
+      "ingredients": [
+        "1 1/2 tbsp olive oil ((or butter))",
+        "2 garlic cloves (, finely chopped)",
+        "1/2 brown onion (, finely chopped)",
+        "1 1/4 tsp dried basil",
+        "1 cup (180g) long grain white rice (, uncooked (Note 1))",
+        "1 3/4 cups (435 ml) chicken broth (, full salt (or Veg broth))",
+        "2 1/2 tbsp tomato paste",
+        "3/4 tsp paprika (, sweet or normal (not smoked))",
+        "1 tsp sugar ((any))",
+        "1 sprig of basil with leaves",
+        "1/3 cup finely chopped basil"
+      ],
+      "instructions": [
+        "Heat oil in a large saucepan over medium heat. Add garlic and onion, cook until translucent, 2 - 3 minutes. Add basil and cook for 20 seconds - don't let it burn.",
+        "Add remaining ingredients except basil. Mix until tomato paste is dissolved.",
+        "Crush basil sprig in hand, drop on surface then push in (leave on surface, don't stir).",
+        "Cover and bring to simmer, then immediately turn down heat to medium low (or low if stove is strong) and cook for 15 minutes or until liquid is fully absorbed - tilt saucepan to check.",
+        "Remove from heat and set aside, covered, for 10 minutes.",
+        "Remove basil sprig. Fluff with fork, taste for salt. Then leave to stand for another 5 minutes, uncovered. Stir through fresh basil. Serve immediately."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. Rice – Long grain white rice yields the fluffiest result for this recipe. Other long grain rices – basmati and Jasmin – will also work fine but the rice will have a subtle aroma of the respective rices and both well very well with this recipe, especially basmati! Medium grain white rice is the next best, followed by short grain rice. For brown rice, cook on low for around 40 minutes. This recipe is not suited to paella, risotto or minute rice. 2. GENERAL RECIPE NOTES: – A small amount of tomato paste yields the fluffiest rice (compared to canned tomato, passata, puree etc) – Sugar takes the edge off tomato paste which is a bit sour – Basil goes black when heated. So the purpose of cooling the rice before adding fresh basil is to reduce this problem and get max basil flavour. – Use this recipe as a base for any herb you want. Just switch out the dried and fresh basil. Be mindful of herb strength – eg rosemary is very strong. 3. STORAGE – Keeps great in the fridge but benefits greatly from the addition of some fresh basil. 4. Nutrition per serving. Nutrition Facts Tomato Basil Rice Amount Per Serving Calories 245 Calories from Fat 45 % Daily Value* Fat 5g 8% Sodium 232mg 10% Potassium 315mg 9% Carbohydrates 43g 14% Fiber 1g 4% Sugar 3g 3% Protein 4g 8% Vitamin A 390IU 8% Vitamin C 9.8mg 12% Calcium 32mg 3% Iron 1.6mg 9% * Percent Daily Values are based on a 2000 calorie diet."
+  ]
+}

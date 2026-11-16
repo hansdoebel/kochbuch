@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/one-pot-lasagna-soup-184",
+  "recipes": [
+    {
+      "name": "One-Pot Lasagna Soup",
+      "source_url": "https://www.pickuplimes.com/recipe/one-pot-lasagna-soup-184",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT25M",
+      "total_time": "PT35M",
+      "ingredients": [
+        "1 Tbsp olive oil",
+        "1 medium onion",
+        "3 garlic clove",
+        "2 Tbsp tomato paste",
+        "2 vegetable bouillon cube",
+        "1 tsp Italian seasoning",
+        "1 tsp dried oregano",
+        "1 tsp onion powder",
+        "½ tsp dried thyme",
+        "¼ tsp ground black pepper",
+        "1¾ cup veggie ground",
+        "4.938 oz button mushrooms",
+        "3⅓ cup canned diced tomatoes",
+        "3 cup water",
+        "2 tsp balsamic vinegar",
+        "3.527 oz lasagna sheet",
+        "2 cup spinach"
+      ],
+      "instructions": [
+        "Heat the oil in a large pot over medium-high heat. Add the onion and sauté until lightly golden, about 5 minutes.",
+        "Add the garlic, tomato paste, bouillon, and spices and cook for an additional 1 to 2 minutes.",
+        "Add the veggie ground and mushrooms, cooking until much of the moisture from the mushrooms evaporates, about 5 minutes.",
+        "Add the diced tomatoes, water, and balsamic vinegar. Bring to a boil.",
+        "Then add the lasagna sheets. Cook for 8 to 10 minutes or until the noodles are al dente.",
+        "Stir in the spinach at the very end, and remove the pot from the heat. Garnish and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † This plant-based product has a dry texture and resembles already-cooked ground meat.",
+    "Storage Store in an airtight container in the fridge for up to 4 days."
+  ]
+}

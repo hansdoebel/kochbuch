@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/tea-infused-chocolate-mousse-57",
+  "recipes": [
+    {
+      "name": "Tea-Infused Chocolate Mousse",
+      "source_url": "https://www.pickuplimes.com/recipe/tea-infused-chocolate-mousse-57",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT15M",
+      "cook_time": "PT05M",
+      "total_time": "PT01H20M",
+      "ingredients": [
+        "1 cup aquafaba",
+        "2 bag flavoured tea",
+        "6.173 oz dairy-free dark chocolate"
+      ],
+      "instructions": [
+        "Add the aquafaba and tea bags to a saucepan over medium-high heat*. Remove the pan from the heat just before it starts to simmer.",
+        "Make sure your bowl and electric hand mixer are grease-free. Transfer the liquid and tea bags to a large bowl to cool. When cooled, remove the tea bags.",
+        "Melt the chocolate using a microwave or on the stove, using a double boiler. Let the chocolate cool off a bit.",
+        "Beat the cooled aquafaba until stiff peaks are formed, this should take around 6 to 8 minutes.",
+        "In a slow and steady stream, add the melted chocolate to the aquafaba, carefully folding with a rubber spatula. Be careful not to over-mix, as the mousse can lose its air.",
+        "Scoop the mixture into some glass jars and refrigerate for at least 1 hour or overnight. When ready to serve, top with your desired garnish, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † The liquid from a jar or can of chickpeas, or the liquid that chickpeas were cooked in. † We really enjoyed using lemon-infused green tea for this recipe, but use whatever flavour you like. You can also omit the tea-infusion entirely. † We use 50 - 60% cocoa chocolate for a balanced sweetness. Darker varieties (70%+) can make the result too bitter. * Skip warming up the aquafaba if omitting the tea.",
+    "Storage The chocolate mousse can be stored in an airtight container in the fridge for up to 2 days."
+  ]
+}

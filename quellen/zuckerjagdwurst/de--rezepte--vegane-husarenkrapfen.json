@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-husarenkrapfen",
+  "recipes": [
+    {
+      "name": "Vegane Husarenkrapfen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-husarenkrapfen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-husarenkrapfen#recipe-8a7d3331-ae78-56ff-83c9-546e44e55d74",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 25 Plätzchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT95M",
+      "ingredients": [
+        "150 g Mehl",
+        "50 g Zucker",
+        "40 g gemahlene Haselnüsse",
+        "1 Päckchen Vanillezucker",
+        "125 g vegane Butter (kalt)",
+        "eure Lieblingsmarmelade zum Füllen"
+      ],
+      "instructions": [
+        "Mehl, Zucker, gemahlene Haselnüsse und Vanillezucker in einer großen Schüssel vermengen.",
+        "Die vegane Butter in Flöckchen dazugeben und alles zu einem glatten Teig verkneten. Den Teig zu einer langen Rolle formen und in Frischhaltefolie gewickelt mind. 1 Stunde im Kühlschrank ruhen lassen.",
+        "Backofen auf 180°C vorheizen. Die gekühlte Teigrolle aus dem Kühlschrank in ca. 1 cm dicke Scheiben schneiden und diese jeweils zu kleinen Kugeln formen. Mit den Händen etwas flacher drücken, wie zu dicken Scheiben.",
+        "Für die Mulde könnt ihr entweder einen Kochlöffelstiel, eurem Daumen oder amerikanische Messlöffel (für tsp, tbsp, etc.) nehmen. Leicht bemehlen, damit der Teig nicht daran kleben bleibt und kleine Mulden in die Mitte der Teigscheiben oder Teigkugeln formen. Die Mulden mit einer oder mehreren Marmeladen eurer Wahl fühlen.",
+        "Husarenkrapfen bei 180°C ca. 12-15 Minuten backen, bis sie an den Rändern goldbraun werden. Auf einem Gitter abkühlen lassen und nach Wunsch mit Puderzucker bestäuben."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

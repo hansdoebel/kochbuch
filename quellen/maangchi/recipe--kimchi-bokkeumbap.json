@@ -1,0 +1,131 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/kimchi-bokkeumbap",
+  "recipes": [
+    {
+      "name": "Kimchi fried rice (Kimchi-bokkeumbap)",
+      "source_url": "https://www.maangchi.com/recipe/kimchi-bokkeumbap",
+      "recipe_id": "/recipe/kimchi-bokkeumbap#sso/recipe/120",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "Serves 2 to 3",
+      "prep_time": null,
+      "cook_time": "P0DT0H9M0S",
+      "total_time": "P0DT0H10M0S",
+      "ingredients": [
+        "3 bowls steamed rice (3 cups)",
+        "1 cup chopped kimchi (should be aged, well-fermented and sour)",
+        "¼ cup kimchi juice (spicy red juice from a jar of kimchi)",
+        "¼ cup water",
+        "2-3 tablespoons gochujang",
+        "3 teaspoons toasted sesame oil",
+        "1 teaspoon vegetable oil",
+        "1 green onion, chopped",
+        "1 tablespoon roasted sesame seeds",
+        "1 sheet of gim, roasted and shredded into seaweed strips"
+      ],
+      "instructions": [
+        "Heat up a wide, flat pan or skillet. Add the vegetable oil.",
+        "Add the kimchi and stir fry for 1 minute over medium-high heat.",
+        "Add rice, kimchi juice, water, and gochujang.",
+        "Stir all the ingredients together for about 7 minutes with a wooden spoon.",
+        "Add sesame oil and remove from the heat.",
+        "Sprinkle with chopped green onion, roasted gim, and sesame seeds. Serve right away. If you are serving it in individual bowls, you can top each bowl with a fried egg."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 2 to 3"
+        },
+        {
+          "tag": "p",
+          "text": "Total time: about 10 minutes, with cooked rice ready."
+        },
+        {
+          "tag": "li",
+          "text": "3 bowls steamed rice (3 cups)"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup chopped kimchi (should be aged, well-fermented and sour)"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup kimchi juice (spicy red juice from a jar of kimchi)"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup water"
+        },
+        {
+          "tag": "li",
+          "text": "2-3 tablespoons gochujang"
+        },
+        {
+          "tag": "li",
+          "text": "3 teaspoons toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 green onion, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon roasted sesame seeds"
+        },
+        {
+          "tag": "li",
+          "text": "1 sheet of gim, roasted and shredded into seaweed strips"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Heat up a wide, flat pan or skillet. Add the vegetable oil."
+        },
+        {
+          "tag": "li",
+          "text": "Add the kimchi and stir fry for 1 minute over medium-high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Add rice, kimchi juice, water, and gochujang. Stir all the ingredients together for about 7 minutes with a wooden spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Add sesame oil and remove from the heat."
+        },
+        {
+          "tag": "li",
+          "text": "Garnish with sprinkled chopped green onion, roasted gim, and sesame seeds. Serve right away. If you are serving it in individual bowls, you can top each bowl with a fried egg."
+        },
+        {
+          "tag": "h3",
+          "text": "Leftovers"
+        },
+        {
+          "tag": "p",
+          "text": "We usually finish all the kimchi fried rice right away. If you have any left over, refrigerate it and reheat it in the microwave."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

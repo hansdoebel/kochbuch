@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/chocolate-peanut-butter-overnight-oats-2962",
+  "recipes": [
+    {
+      "name": "Chocolate Peanut Butter Overnight Oats",
+      "source_url": "https://www.pickuplimes.com/recipe/chocolate-peanut-butter-overnight-oats-2962",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "½ cup rolled oats",
+        "½ cup unsweetened soy milk",
+        "¼ cup unsweetened soy yogurt",
+        "1½ Tbsp natural peanut butter",
+        "1 Tbsp Dutch-process cocoa powder",
+        "0.353 oz dairy-free dark chocolate",
+        "1½ Tbsp maple syrup",
+        "½ Tbsp whole chia seeds",
+        "¼ tsp pure vanilla extract",
+        "1 pinch salt"
+      ],
+      "instructions": [
+        "In a medium bowl, combine all the ingredients and mix well.",
+        "Optionally, spoon a little peanut butter into the jars and swirl it around the inside.",
+        "Divide the oat mixture between the jars, cover, and refrigerate overnight.",
+        "In the morning, add your desired toppings, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We use 50 - 60% cacao chocolate for a balanced sweetness. Darker varieties (70%+) can make the result too bitter.",
+    "Storage Store in the fridge for up to 3 days."
+  ]
+}

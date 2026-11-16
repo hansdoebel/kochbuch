@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/baked-fruit-crumble-three-ways-155",
+  "recipes": [
+    {
+      "name": "Baked Fruit Crumble",
+      "source_url": "https://www.pickuplimes.com/recipe/baked-fruit-crumble-three-ways-155",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT07M",
+      "cook_time": "PT15M",
+      "total_time": "PT22M",
+      "ingredients": [
+        "5 cup frozen mixed berries",
+        "1 cup rolled oats",
+        "2 Tbsp melted refined coconut oil",
+        "1 Tbsp light brown sugar",
+        "1 tsp ground cinnamon",
+        "¾ cup vegan ice cream",
+        "3 cup unsalted roasted pecans"
+      ],
+      "instructions": [
+        "Preheat the oven to 180°C (350°F). Add the berries to oven-safe ramekins. If using larger berries, such as strawberries, first slice*.",
+        "Combine the oats, melted coconut oil, sugar, and cinnamon in a bowl. Spoon this over the fruit.",
+        "Bake on the middle rack of the oven for 10 to 15 minutes, or until the juices are bubbly, the fruit is tender, and the oatmeal is golden.",
+        "Remove from oven, let cool for a few minutes before serving. Add desired toppings, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Refined coconut oil is coconut oil that doesn't smell or taste like coconuts. * We used top and bottom heating (not fan-assisted/convection). If swapping out the berries for apple or pear, cut the fruits into very small pieces. This helps ensure they fully cook by the time the crumble is golden.",
+    "Storage Store in an airtight container in the fridge for up to two days."
+  ]
+}

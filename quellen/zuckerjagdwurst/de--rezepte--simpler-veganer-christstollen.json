@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/simpler-veganer-christstollen",
+  "recipes": [
+    {
+      "name": "Simpler, veganer Christstollen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/simpler-veganer-christstollen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/simpler-veganer-christstollen#recipe-ab95e2ba-6ea4-51f6-b099-b22d93534795",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Stollen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT165M",
+      "ingredients": [
+        "Für den Stollen:",
+        "50 g Walnüsse",
+        "100 g Orangeat",
+        "100 g Zitronat",
+        "100 g Rosinen",
+        "100 ml pflanzliche Milch",
+        "100 g Zucker",
+        "42 g (1 Würfel) frische Hefe",
+        "100 ml Orangensaft oder Rum",
+        "500 g Weizenmehl (Type 405)",
+        "100 g gemahlene Mandeln",
+        "1 TL Christstollengewürz",
+        "150 g pflanzliche Butter",
+        "50 g Apfelmus",
+        "100 g Marzipan Rohmasse",
+        "Außerdem:",
+        "50 g vegane Butter",
+        "50 g Puderzucker"
+      ],
+      "instructions": [
+        "Walnüsse hacken und zusammen mit Orangeat, Zitronat und Rosinen in eine Schüssel geben. Orangensaft dazugeben und das Ganze über Nacht ziehen lassen.",
+        "In einer großen Schüssel lauwarme, pflanzliche Milch und Zucker vermischen und die frische Hefe darüber bröseln. Kurz umrühren und ca. 10 Minuten stehen lassen.",
+        "Mehl, gemahlene Mandeln, Christstollengewürz, pflanzliche Butter, Apfelmus und Marzipan Rohmasse zum Hefe-Mix geben und alles zu einem homogenen Teig verkneten. Den Teig ca. 60 Minuten an einem warmen Platz ruhen lassen.",
+        "Überschüssigen Orangensaft der eingeweichten Mischung mit Orangeat und Co. abgießen und den eingeweichten Mix zum Teig geben und unterkneten. Dabei so viel Mehl wie nötig dazugeben, damit der Teig nicht mehr klebt. Den Teig in die eingefettete Stollenform geben und nochmals ca. 30 Minuten an einem warmen Platz gehen lassen.",
+        "Tipp: Wenn ihr keine Christstollenform habt, dann könnt ihr den Stollen einfach zu einem länglichen Oval formen und ihn auf einem Backblech mit Backpapier platzieren. Der Stollen wird beim Backen etwas mehr in die Breite gehen und nicht ganz so hoch werden, aber das macht geschmacklich ja gar nichts aus.",
+        "In der Zwischenzeit den Ofen auf 160°C (Ober- und Unterhitze) vorheizen und ein Backblech mit Backpapier auslegen. Die Stollenform mit der Öffnung nach unten auf dem Backblech platzieren und für 45 Minuten bei 160°C (Ober- und Unterhitze) backen.",
+        "Den Stollen aus dem Ofen nehmen und vegane Butter schmelzen. Den noch warmen Stollen mit der veganen geschmolzenen Butter bestreichen und kurz danach mit einer dicken Schicht Puderzucker bestreuen. Den Stollen komplett abkühlen lassen und zum Schluss in einen luftdichten Behälter geben. Hier vor dem Anschneiden am besten mindestens eine Woche ruhen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/simpler-veganer-schokoladen-gugelhupf-mit-kola",
+  "recipes": [
+    {
+      "name": "Simpler, veganer Schokoladen-Gugelhupf mit Kola",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/simpler-veganer-schokoladen-gugelhupf-mit-kola",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/simpler-veganer-schokoladen-gugelhupf-mit-kola#recipe-c7de6ebf-2591-538f-a85e-9a08119d3ed8",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (12 Stücke)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "300 g dunkle Schokolade",
+        "1 EL Kokosnussöl",
+        "1 EL pflanzliche Butter",
+        "1 EL Kakaopulver (ungesüßt)",
+        "Teig",
+        "340 g Mehl",
+        "40 g Kakaopulver (ungesüßt)",
+        "175 g weißer Zucker",
+        "2 TL Backpulver",
+        "8 g Vanillezucker (1 Tütchen)",
+        "330 ml Kola (z.B. fritz-kola bio)",
+        "100 ml pflanzliches Öl (Raps- oder Sonnenblumenöl)"
+      ],
+      "instructions": [
+        "Den Ofen auf 180°C Umluft vorheizen.",
+        "In einer Schüssel Mehl, Kakaopulver, Zucker, Backpulver und Vanillezucker mischen.",
+        "Das Öl und fritz kola hinzugeben und zu einem glatten Teig verrühren. Nur so wenig, wie möglich rühren, ansonsten wird der Kuchen nicht fluffig!",
+        "Eine Silikonform mit den Maßen 25 x 9 cm (oder eine normale Backform) für einen Gugelhupf mit pflanzlicher Butter einfetten und mit Kakaopulver (alternativ Weizenmehl) ausklopfen.",
+        "Den Teig in die Form füllen und im vorgeheizten Ofen für 45 Minuten auf mittlerer Stufe backen. Mit einem Holzstab testen, ob der Kuchen schon durch ist. Nach dem Backen den Kuchen komplett abkühlen lassen.",
+        "Die Kuvertüre mit dem Kokosöl in einem Wasserbad schmelzen. Wenn ihr eine normale Kuchenform habt, dann gebt ihr diese einfach direkt über den Kuchen (der am besten auf einem Kuchengitter steht). Wenn ihr eine Silikonform nutzt, dann gebt ihr die Kuvertüre direkt in die gesäuberte und abgetrocknete Silikonform und drückt den abgekühlten Kuchen anschließend ebenfalls wieder kopfüber hinein. Sobald die Schokolade trocken ist (am besten wartet ihr eine Nacht), holt ihr den Kuchen vorsichtig wieder heraus und habt eine tolle, glatte Schokoladenglasur."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

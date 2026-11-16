@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kartoffelpuffer-auflauf",
+  "recipes": [
+    {
+      "name": "Veganer Kartoffelpuffer-Auflauf",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kartoffelpuffer-auflauf",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kartoffelpuffer-auflauf#recipe-51487885-9011-5623-b21a-b6d7a73f6f9c",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "3–4 Portionen / 1 Pfanne (28 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für den Auflauf:",
+        "800 g festkochende Kartoffeln",
+        "1 Zwiebel",
+        "100 g Räuchertofu oder vegane Schinkenwürfel",
+        "2 EL Sojasoße",
+        "1 TL Liquid Smoke",
+        "200 g vegane Cottage Pearls (z. B. von Züger)",
+        "4 EL Reismehl",
+        "2 EL vegane Butter",
+        "vegane Butter zum Anbraten und Einfetten",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "Schnittlauch",
+        "Für die knusprige Käseschicht:",
+        "100 g veganer Streukäse",
+        "30 g Panko Paniermehl",
+        "1 EL Olivenöl",
+        "Zum Servieren:",
+        "Beilagensalat",
+        "vegane Crème fraîche (z. B. von Züger)",
+        "Apfelmus"
+      ],
+      "instructions": [
+        "Kartoffeln schälen, reiben und in einem sauberen Küchentuch gut ausdrücken.",
+        "Zwiebel und Räuchertofu fein würfeln. Eine Pfanne mit veganer Butter erhitzen und Zwiebeln darin anbraten, bis sie glasig sind. Räuchertofu hinzugeben und ebenfalls anbraten. Am Ende mit Sojasoße und Liquid Smoke ablöschen.",
+        "Den Ofen auf 200 °C (Umluft) vorheizen. In einer großen Schüssel die ausgedrückten Kartoffeln und angebratenen Zwiebel- und Räuchertofu-Würfel mit Cottage Pearls, Reismehl und veganer Butter vermengen. Großzügig mit Salz, Pfeffer und Muskat würzen.",
+        "Eine Auflaufform oder gusseiserne Pfanne (28 Zentimeter) mit veganer Butter einfetten, die Mischung hineingeben und fest andrücken. Für die knusprige Käseschicht veganen Streukäse mit Panko und Olivenöl vermischen und auf dem Auflauf verteilen.",
+        "Bei 200 °C (Umluft) etwa 30 Minuten backen, bis die Käsedecke goldbraun ist. In der Zwischenzeit Schnittlauch in feine Röllchen schneiden. Nach dem Backen 10–15 Minuten abkühlen lassen und mit veganer Crème fraîche oder Apfelmus servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-porridge-auflauf-mit-erdnussbutter-marmelade",
+  "recipes": [
+    {
+      "name": "Veganer Porridge-Auflauf mit Erdnussbutter & Marmelade",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-porridge-auflauf-mit-erdnussbutter-marmelade",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-porridge-auflauf-mit-erdnussbutter-marmelade#recipe-510fa9f4-985e-53a5-9e99-d8b5642b1d5c",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Für den Porridge-Auflauf:",
+        "1 reife Banane",
+        "800 ml pflanzliche Milch",
+        "400 g Hot Hafer mit Beere von Bauckhof",
+        "1 EL Vanillepaste",
+        "1 TL Zimt",
+        "1 Prise Salz",
+        "100 g geröstete Erdnüsse",
+        "vegane Butter zum Einfetten",
+        "Für die Toppings:",
+        "100 g Kirsch- oder Johannisbeermarmelade",
+        "100 g cremige Erdnussbutter",
+        "40 g geröstete Erdnüsse"
+      ],
+      "instructions": [
+        "Die Banane in einer großen Schüssel mit einer Gabel zerdrücken. Pflanzliche Milch hinzugeben und glatt rühren. Haferflocken, Vanillepaste, Zimt, Salz und Erdnüsse unterrühren. Die Masse ca. 10 Minuten quellen lassen.",
+        "In der Zwischenzeit den Ofen auf 180°C (Umluft) vorheizen. Die Haferflocken-Mischung nach dem Quellen in eine eingefettete Auflaufform (30 x 20 cm) füllen und glatt streichen. Marmelade und Erdnussbutter darauf in Klecksen verteilen und mit einem Stäbchen kleine Strudel ziehen (oder eine Spritzflasche zur Hilfe nehmen). Mit einem Löffel kann man die Erdnussbutter auch direkt auf dem Auflauf verteilen.",
+        "Den Auflauf bei 180°C ca. 25-30 Minuten backen. Anschließend mit gehackten Erdnüssen bestreuen und noch warm servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

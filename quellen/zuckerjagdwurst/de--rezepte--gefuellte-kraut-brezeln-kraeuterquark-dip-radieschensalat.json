@@ -1,0 +1,67 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gefuellte-kraut-brezeln-kraeuterquark-dip-radieschensalat",
+  "recipes": [
+    {
+      "name": "Gefüllte Kraut-Brezeln mit Kräuterquark-Dip und knackigem Radieschensalat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gefuellte-kraut-brezeln-kraeuterquark-dip-radieschensalat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gefuellte-kraut-brezeln-kraeuterquark-dip-radieschensalat#recipe-1a073672-a0c4-5d35-9d26-89a856dd3268",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Brezeln",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für die gefüllten Brezeln:",
+        "6 vegane Tiefkühl-Brezeln",
+        "100 g Spitzkohl",
+        "1 große Zwiebel",
+        "2 (160 g) Tofu-Bratfilets (z. B. die Black Forest Bratfilets von Taifun-Tofu)",
+        "200 g vegane Crème fraîche",
+        "100 g veganer Streukäse",
+        "4 EL Speisestärke",
+        "1 TL Kümmelsamen",
+        "Salz",
+        "Pfeffer",
+        "Pflanzenöl zum Braten",
+        "Für den veganen Kräuterquark:",
+        "20 g frische Kräuter nach Wahl",
+        "200 g veganer Quark",
+        "1 Zitrone (Abrieb)",
+        "Salz",
+        "Pfeffer",
+        "Leinöl",
+        "Für den Radieschensalat:",
+        "1 Bund Radieschen",
+        "3 EL Olivenöl",
+        "1 EL naturtrüber Apfelessig",
+        "1 TL Senf",
+        "10 g Schnittlauch",
+        "1 Zitrone (Abrieb, optional)",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "Schnittlauch",
+        "Feldsalat"
+      ],
+      "instructions": [
+        "Den Backofen auf 200 °C (Umluft) vorheizen. Die Tiefkühl-Brezeln auf einem mit Backpapier ausgelegten Backblech verteilen und antauen lassen.",
+        "Den Spitzkohl erst in feine Streifen und anschließend nochmal kleiner schneiden. Die Zwiebel schälen und in kleine Würfel schneiden. Die Bratfilets in Würfel schneiden. Etwas Pflanzenöl in einer Pfanne erhitzen und die Tofuwürfel 4–5 Minuten anbraten, bis sie gebräunt sind. Danach aus der Pfanne nehmen und auf Küchenpapier etwas abtropfen lassen.",
+        "Für die Füllung vegane Crème fraîche, veganen Streukäse, geschnittenen Spitzkohl und Zwiebel, Speisestärke und die gebratenen Tofuwürfel in einer großen Schüssel vermengen. Mit Kümmelsamen, Salz und Pfeffer abschmecken.",
+        "Die Füllung jeweils in die Löcher der Tiefkühl-Brezeln geben. Danach die Brezeln bei 200 °C (Umluft) circa 15 Minuten backen, bis die Brezeln gebräunt und knusprig sind.",
+        "Während die Brezeln backen, frische Kräuter für den Kräuterquark fein hacken. Mit veganem Quark verrühren und mit Zitronenabrieb, Salz und Pfeffer abschmecken. Mit Leinöl beträufeln.",
+        "Für den Radieschensalat die Radieschen in Scheiben schneiden und in eine Schüssel geben. Olivenöl, Apfelessig, Senf, fein gehackten Schnittlauch, Zitronenabrieb, Salz und Pfeffer dazugeben und die Vinaigrette mit den Radieschen vermengen.",
+        "Die Brezeln nach dem Backen circa 3–4 Minuten abkühlen lassen und dann mit fein gehacktem Schnittlauch bestreuen und mit dem Kräuterquark-Dip, Radieschensalat und Feldsalat servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

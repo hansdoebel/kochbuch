@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/herby-garlic-tofu-cashew-spread-192",
+  "recipes": [
+    {
+      "name": "Herby Garlic Cream 'Cheese'",
+      "source_url": "https://www.pickuplimes.com/recipe/herby-garlic-tofu-cashew-spread-192",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT01H10M",
+      "ingredients": [
+        "¾ cup raw cashews",
+        "11.464 oz firm tofu",
+        "2 garlic clove",
+        "½ lemon",
+        "1 Tbsp apple cider vinegar",
+        "2 tsp garlic powder",
+        "2 tsp onion powder",
+        "1 tsp salt",
+        "½ tsp ground black pepper",
+        "⅓ cup fresh chives",
+        "⅓ cup fresh dill",
+        "¼ cup fresh basil leaves"
+      ],
+      "instructions": [
+        "Place the cashews in a heat-proof bowl and soak in boiling water for at least 1 hour, or overnight.",
+        "Drain the cashews and add to a blender or food processor, along with the tofu, garlic, lemon juice, vinegar, and spices. Blend until smooth.",
+        "Transfer to a bowl and fold in the herbs.",
+        "Optionally, place the spread in the fridge for an hour to set and for the flavours to meld.",
+        "Enjoy on your favourite toast or bagel with desired toppings. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Almonds give it a slightly more hummus-like texture, while cashews make it more creamy.",
+    "Storage Store in an airtight container in the fridge for up to 4 days."
+  ]
+}

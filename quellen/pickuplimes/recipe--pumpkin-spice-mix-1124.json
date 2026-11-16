@@ -1,0 +1,37 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/pumpkin-spice-mix-1124",
+  "recipes": [
+    {
+      "name": "Pumpkin Spice Mix",
+      "source_url": "https://www.pickuplimes.com/recipe/pumpkin-spice-mix-1124",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "9 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "⅓ cup ground cinnamon",
+        "1½ Tbsp ground ginger",
+        "1 Tbsp ground nutmeg",
+        "2 tsp ground allspice",
+        "2 tsp ground cloves"
+      ],
+      "instructions": [
+        "Mix together all the spices in a small jar and you're done!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage The spice mix can be stored in a well-sealed mason jar away from direct sunlight for up to 6 months."
+  ]
+}

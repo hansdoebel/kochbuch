@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/green-pea-edamame-mint-dip-163",
+  "recipes": [
+    {
+      "name": "Green Pea, Edamame & Mint Dip",
+      "source_url": "https://www.pickuplimes.com/recipe/green-pea-edamame-mint-dip-163",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT07M",
+      "cook_time": "PT03M",
+      "total_time": "PT10M",
+      "ingredients": [
+        "1 cup frozen green peas",
+        "1 cup frozen shelled edamame",
+        "3 Tbsp water",
+        "3 Tbsp tahini",
+        "1 Tbsp olive oil",
+        "½ lemon",
+        "10 fresh mint leaves",
+        "2 garlic clove",
+        "1 tsp ground cumin",
+        "½ tsp salt"
+      ],
+      "instructions": [
+        "Cook the peas and edamame in a saucepan of boiling water for 3 minutes, or according to package instructions, then drain.",
+        "Place all the ingredients in a food processor and blend until creamy.",
+        "Taste test and adjust to your liking. Add more tahini for a creamier consistency. Add more lemon for more zest.",
+        "Plate, garnish, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 5 days."
+  ]
+}

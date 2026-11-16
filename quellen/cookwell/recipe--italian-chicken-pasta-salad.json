@@ -1,0 +1,47 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/italian-chicken-pasta-salad",
+  "recipes": [
+    {
+      "name": "Italian Chicken Pasta Salad",
+      "source_url": "https://app.cookwell.com/recipe/italian-chicken-pasta-salad",
+      "recipe_id": "https://app.cookwell.com/recipe/italian-chicken-pasta-salad",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Dried pasta, 112 g",
+        "chicken, 150 g",
+        "Green Peas, 150 g",
+        "Mozzarella pearls, 100 g",
+        "Cherry tomatoes, 100 g",
+        "Romaine lettuce, 35 g",
+        "Red Onions, 20 g",
+        "Pepperoncini Peppers, 15 g",
+        "Extra Virgin Olive Oil, 30 g",
+        "Parmigiano Reggiano, 20 g",
+        "Lemon juice, 1/2 lemon",
+        "Dried oregano, a sprinkle",
+        "Garlic Powder, a sprinkle",
+        "Black Pepper, a sprinkle",
+        "Salt, to taste"
+      ],
+      "instructions": [
+        "Gather, chop, and/or cook the ingredients you’ll need: Cook the chicken however you like, and dice it up. Boil & drain the pasta. Chop any vegetables. Gather dressing components, etc. In the next step, you can weigh out the ingredients right into the serving bowl as you assemble.",
+        "Measure and add all pasta salad components & dressing components to a large bowl. If you have a scale, this is easiest done by setting a bowl over a scale and adding ingredients right to the bowl, taring out the scale in between ingredients. Or, you can just add ingredients to your desired ratios. Toss to combine everything, emulsify the dressing, and make sure ingredients are well coated.",
+        "Taste the pasta salad. Adjust with more dressing ingredients as needed. For example, add more salt if needed, extra lemon juice for acidity, or extra olive oil or Parmigiano Reggiano for extra fatty richness. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

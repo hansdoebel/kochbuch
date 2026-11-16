@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-sauerkraut-tacos-mit-suessem-senf-dressing",
+  "recipes": [
+    {
+      "name": "Vegane Sauerkraut-Tacos mit Süssem-Senf-Dressing",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-sauerkraut-tacos-mit-suessem-senf-dressing",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-sauerkraut-tacos-mit-suessem-senf-dressing#recipe-95888d57-f47f-5046-8b1f-8950b6c844ab",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "6 vegane weiche Tacos",
+        "200 g Sauerkraut",
+        "4 vegane Bratwürstchen",
+        "4 hartkochende Kartoffeln",
+        "4-5 EL pflanzliches Öl",
+        "FÜR DAS DRESSING",
+        "3 EL süßer Senf",
+        "1 EL pflanzliche Kochsahne"
+      ],
+      "instructions": [
+        "Erhitzt in zwei Pfannen Öl.",
+        "Schneidet Würstchen in etwa 1 cm dicke Scheiben und die Kartoffeln in dünne Scheiben.",
+        "Bratet sie jeweils in einer Pfanne an. Die Kartoffeln sollten schön kross sein und gut gesalzen und gepfeffert werden. Am besten tupft ihr sie am Ende auf Küchenpapier ab.",
+        "Für das Dressing verrührt ihr einfach den süßen Senf mit der pflanzlichen Sahne.",
+        "Schichtet Sauerkraut, Würstchen und Bratkartoffeln in eure Tacos und garniert das Ganze mit eurem Dressing."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,108 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/chayote-kimchi",
+  "recipes": [
+    {
+      "name": "Chayote kimchi",
+      "source_url": "https://www.maangchi.com/recipe/chayote-kimchi",
+      "recipe_id": "/recipe/chayote-kimchi#sso/recipe/85038",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "3 pounds deseeded chayotes (4 large chayotes)",
+        "2 tablespoons kosher salt",
+        "4 garlic cloves",
+        "1 teaspoon peeled ginger",
+        "⅓ cup worth onion",
+        "¼ cup fish sauce (or soy sauce)",
+        "4 green onions, sliced diagonally",
+        "½ cup gochugaru (Korean hot pepper flakes)"
+      ],
+      "instructions": [
+        "Cut a chayote in half lengthwise and remove the inner seed. Slice each half into ½ inch thick pieces lengthwise and then cut each piece crosswise into roughly ½ inch cubes. Transfer the cubes to a large bowl. Repeat with the rest of chayotes.",
+        "Add 2 tablespoons kosher salt and mix well. Let sit for 30 minutes, turning it over every 10 minutes to salt evenly.",
+        "Pour out the excess brine to a blender. Add garlic, ginger, onion, and fish sauce (or soy sauce). Blend 1 minute until soft and creamy.",
+        "Add the mixture to the chayote chunks. Add gochu-garu (Korean hot pepper flakes), green onion, and mix all together by hand. You can wear a disposable glove if desired. Transfer it to a jar or an airtight container. Press down the top of the kimchi and cover.",
+        "You can serve it right away with rice. If you like to ferment your kimchi faster, you can keep it outside the fridge. Usually it will take a few days to ferment at room temperature, but if you live in a warm country it may only take 1 day because of the higher temperatures. When the kimchi is fermented, it tastes sour. Be sure to store it in the fridge and enjoy it until it runs out."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "3 pounds deseeded chayotes (4 large chayotes)"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "4 garlic cloves"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon peeled ginger"
+        },
+        {
+          "tag": "li",
+          "text": "⅓ cup worth onion"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup fish sauce (or soy sauce)"
+        },
+        {
+          "tag": "li",
+          "text": "4 green onions, sliced diagonally"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup gochugaru (Korean hot pepper flakes)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Cut a chayote in half lengthwise and remove the inner seed. Slice each half into ½ inch thick pieces lengthwise and then cut each piece crosswise into roughly ½ inch cubes. Transfer the cubes to a large bowl. Repeat with the rest of chayotes."
+        },
+        {
+          "tag": "li",
+          "text": "Add 2 tablespoons kosher salt and mix well. Let sit for 30 minutes, turning it over every 10 minutes to salt evenly."
+        },
+        {
+          "tag": "li",
+          "text": "Pour out the excess brine to a blender. Add garlic, ginger, onion, and fish sauce (or soy sauce). Blend 1 minute until soft and creamy."
+        },
+        {
+          "tag": "li",
+          "text": "Add the mixture to the chayote chunks. Add gochu-garu (Korean hot pepper flakes), green onion, and mix all together by hand. You can wear a disposable glove if desired. Transfer it to a jar or an airtight container. Press down the top of the kimchi and cover."
+        },
+        {
+          "tag": "li",
+          "text": "You can serve it right away with rice. If you like to ferment your kimchi faster, you can keep it outside the fridge. Usually it will take a few days to ferment at room temperature, but if you live in a warm country it may only take 1 day because of the higher temperatures. When the kimchi is fermented, it tastes sour. Be sure to store it in the fridge and enjoy it until it runs out."
+        },
+        {
+          "tag": "p",
+          "text": "From the top, chayote kimchi, spinach side dish, fish skin chips (The recipe will come in the future), and Korean style curry rice."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

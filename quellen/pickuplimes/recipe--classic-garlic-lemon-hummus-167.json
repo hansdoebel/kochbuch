@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/classic-garlic-lemon-hummus-167",
+  "recipes": [
+    {
+      "name": "Classic Garlic & Lemon Hummus",
+      "source_url": "https://www.pickuplimes.com/recipe/classic-garlic-lemon-hummus-167",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "1½ cup cooked chickpeas",
+        "1 lemon",
+        "2 Tbsp tahini",
+        "1 Tbsp extra-virgin olive oil",
+        "2 garlic clove",
+        "½ tsp salt",
+        "¼ cup ice water"
+      ],
+      "instructions": [
+        "Add all of the ingredients, except for the water, to a food processor and blend on high until smooth.",
+        "While the mixture is blending, in a thin and steady stream, add half of the ice water to the food processor*. If desired, skip this step by simply adding the water in with the ingredients in step #1.",
+        "Taste test the hummus. If too thick, add the remaining water. For a creamier consistency, add more olive oil and/or tahini. For more zest, add more lemon juice. Plate, garnish, and serve!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * Adding the water in this way helps to aerate the hummus and make it more 'fluffy'.",
+    "Storage Store in an airtight container in the fridge for up to 5 days."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.recipetineats.com/sloppy-joes/",
+  "recipes": [
+    {
+      "name": "Sloppy Joes",
+      "source_url": "https://www.recipetineats.com/sloppy-joes/",
+      "recipe_id": "https://www.recipetineats.com/sloppy-joes/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "5",
+        "5 -6 people"
+      ],
+      "prep_time": "PT10M",
+      "cook_time": "PT40M",
+      "total_time": "PT50M",
+      "ingredients": [
+        "1 tbsp /15g butter",
+        "2 garlic cloves (, minced)",
+        "1 onion (, finely chopped)",
+        "1 green capsicum/bell pepper (, diced)",
+        "500 g/1lb ground beef ((mince) (Note 1))",
+        "1 tbsp Dijon mustard (OR 1 tsp dry mustard)",
+        "1.5 tbsp brown sugar",
+        "1/2 cup ketchup",
+        "400 g/14oz crushed tomato (, canned)",
+        "2 tsp Worcestershire sauce",
+        "1 tbsp tomato paste",
+        "1 beef bouillon cube (, crumbled (Note 2))",
+        "1/4 tsp black pepper",
+        "5 to 6 soft rolls ((Note 3))",
+        "Cheese slices ((optional))",
+        "Other fixing options - see Note 4"
+      ],
+      "instructions": [
+        "Melt butter in a large pot over high heat.",
+        "Ad garlic and onion, cook for 2 minutes until onion is almost translucent.",
+        "Add capsicum and cook for 2 minutes until softened.",
+        "Add beef and cook, breaking it up as you go, until it changes from red to brown.",
+        "Add remaining ingredients. Mix well, then turn heat down to medium low (or low for strong stoves).",
+        "Cover and cook for 30 minutes, stirring once or twice to make sure it doesn't catch on the base. (If in rush, cook 15 minutes without lid)",
+        "Remove lid and give it a good stir for a minute. Mixture should be thick, not runny and saucy (see video). Adjust salt to taste.",
+        "Toast rolls. Butter if desired (I don't).",
+        "Pile on lots of filling, immediately top with cheese (heat should semi melt, otherwise pop under broiler/grill). Top with lid and serve immediately!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. Meat – Also terrific made with pork! If using chicken or turkey, switch the bouillon cube for chicken and use 1 tsp extra Worcestershire Sauce. 2. Beef bouillon cube – or 1.5 tsp beef stock powder. If you don’t have either, chicken will also do. Worst case – use salt (add to taste at the end) 3. Rolls – my favourite is brioche buns and soft small hamburger buns. Any rolls or bread is fine here. 4. Other Fixing Options: pickles (dill pickle, onion, anything of choice!), jalapeño or chillies (fresh or canned), hot sauce (if you like a kick!). For crunch, try corn chips/fritos or Slaw (see note below). On the side – crisps are a favourite in the States which is ideal for gatherings. For a meal option, try this Everyday Cabbage Salad (my non-mayo Slaw), doubles as side OR stuffing in the Sloppy Joes. A classic mayo-based Coleslaw is also an option, but I think the Sloppy Joe Sauce works better with the fresher no-mayonnaise Slaw. 5. Slow Cooker Option: Cook for 6 hours on LOW for amazingly ultra tender meat! Give it a good stir at the end to evaporate excess liquid. 6. Storing: Filling will keep 4 to 5 days in the fridge in an airtight container, or up to 3 months in the freezer (cool then freeze). Defrost then reheat using method of choice (I microwave). Best not to keep rolls with filling on it – goes sloppy (oh… the name… 💡) 7. Nutrition – assuming soft white rolls used, not brioche. Nutrition Facts Sloppy Joes Amount Per Serving Calories 407 Calories from Fat 126 % Daily Value* Fat 14g 22% Saturated Fat 5g 31% Cholesterol 71mg 24% Sodium 891mg 39% Potassium 819mg 23% Carbohydrates 42g 14% Fiber 3g 13% Sugar 17g 19% Protein 26g 52% Vitamin A 1160IU 23% Vitamin C 42.3mg 51% Calcium 130mg 13% Iron 5.2mg 29% * Percent Daily Values are based on a 2000 calorie diet."
+  ]
+}

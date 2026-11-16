@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-dunkle-und-helle-schokoladenmousse-mit-fruchtspiegel",
+  "recipes": [
+    {
+      "name": "Vegane dunkle & helle Schokoladenmousse aus nur 3 Zutaten",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-dunkle-und-helle-schokoladenmousse-mit-fruchtspiegel",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-dunkle-und-helle-schokoladenmousse-mit-fruchtspiegel#recipe-a3fcbf3c-c7e3-55fb-a136-8593fea2428f",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Dunkle Mousse",
+        "400 g Seidentofu",
+        "200 g Zartbitterschokolade",
+        "2 EL Agavendicksaft",
+        "Helle Mousse",
+        "400 g Seidentofu",
+        "200 g vegane, weiße Schokolade",
+        "2 Vanilleschoten",
+        "2 EL Agavendicksaft",
+        "Fruchtspiegel",
+        "300 g gefrorene Beeren",
+        "1 TL Agar Agar",
+        "Toppings",
+        "100 g frische Beeren",
+        "5 g frische Minze",
+        "optional: gehackte Schokolade"
+      ],
+      "instructions": [
+        "Dunkle Mousse",
+        "Für die dunkle Mousse die dunkle Schokolade in einem Wasserbad schmelzen.",
+        "Mit einem Pürierstab den Seidentofu, die geschmolzene Schokolade und je nach Geschmack 1-3 EL Agavendicksaft in einem hohen Gefäß glatt pürieren.",
+        "Jedes Glas zur Hälfte füllen und in den Kühlschrank stellen.",
+        "Helle Mousse",
+        "Für die helle Mousse die weiße Schokolade in einem Wasserbad schmelzen.",
+        "Mit einem Pürierstab den Seidentofu, die geschmolzene Schokolade und je nach Geschmack 1-3 TL Agavendicksaft in einem hohen Gefäß glatt pürieren.",
+        "Die Vanilleschoten halbieren, die Samen mit dem Messerrücken herauskratzen, dazu geben und noch einmal pürieren.",
+        "Die Gläser füllen, sodass ihr unten eine dunkle Schicht und darüber eine helle Schicht habt. Im Kühlschrank kalt stellen.",
+        "Fruchtspiegel",
+        "Für den Fruchtspiegel die gefrorenen Früchte aufkochen und für 2-3 Minuten kochen lassen. Gegebenfalls 100 ml Wasser hinzugeben. 1 TL Agar Agar unterrühren, 2 Minuten weiter köcheln lassen und vom Herd nehmen.",
+        "Danach die Früchte sieben, sodass ihr eine klare Flüßigkeit erhaltet.",
+        "Nun auf jedes Glas eine Schicht Fruchtspiegel füllen und wieder kalt stellen.",
+        "Wenn der Fruchtspiegel fest geworden ist mit frischen Beeren und Minze toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

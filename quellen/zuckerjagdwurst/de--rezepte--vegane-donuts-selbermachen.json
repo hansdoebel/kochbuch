@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-donuts-selbermachen",
+  "recipes": [
+    {
+      "name": "Vegane Donuts selbermachen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-donuts-selbermachen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-donuts-selbermachen#recipe-6f3aa50f-1278-58ea-afab-9ad484fb4510",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Donuts",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT240M",
+      "ingredients": [
+        "Für den Hefeteig:",
+        "50 g vegane Butter (Zimmertemperatur)",
+        "125 ml pflanzliche Milch",
+        "2 TL (4 g) Trockenhefe",
+        "50 g Zucker",
+        "250 g Weizenmehl Typ 405",
+        "Salz",
+        "Zum Frittieren:",
+        "1 l neutrales, hocherhitzbares Raps- oder Sonnenblumenöl",
+        "Für die Glasur:",
+        "Puderzucker",
+        "pflanzliche Milch",
+        "rote Lebensmittelfarbe",
+        "vegane Streusel"
+      ],
+      "instructions": [
+        "Die vegane Butter aus dem Kühlschrank nehmen, sodass diese Zimmertemperatur erreicht. Pflanzliche Milch erhitzen, bis sie lauwarm ist. Trockenhefe und Zucker in die lauwarme Milch einrühren und die Mischung ca. 10 Minuten stehen lassen.",
+        "Die Milchmischung in eine Schüssel oder Küchenmaschine geben und bei langsamer Geschwindigkeit das Mehl nach und nach hinzugeben und unterkneten. Die weiche vegane Butter und eine Prise Salz hinzugeben und ca. 8-10 Minuten auf mittlerer Geschwindigkeit weiterkneten, bis ein glatter Teig entsteht.",
+        "Den Teig mit einem feuchten Tuch bedecken und mind. 60 Minuten an einem warmen Ort gehen lassen. Im Anschluss in den Kühlschrank stellen und hier nochmals ca. 30-60 Minuten gehen lassen.",
+        "Den Teig aus dem Kühlschrank nehmen und in sechs gleich große Portionen (je ca. 75 g) teilen. Aus jeder Portion eine Kugel formen und diese rundwirken, sodass eine glatte Oberfläche entsteht. Im Internet gibt es viele Videos, die erklären, wie man Teig „rundwirkt“. Aus den sechs rundgewirkten Kugeln in der Mitte kleine Kreise ausstechen, sodass die typische Donutform entsteht. Die Donuts erneut ca. 30-60 Minuten abgedeckt an einem warmen Ort gehen lassen.",
+        "Pflanzenöl zum Frittieren in einen Topf erhitzen, bis es 170°C heiß ist. Die Donuts nach und nach im heißen Fett ausbacken – dabei nie länger als 1-2 Minute pro Seite frittieren. Die Donuts auf einem Gitter abtropfen lassen (nicht auf Küchenpapier, denn so saugen sie sich nur mit Öl voll).",
+        "Puderzucker mit pflanzlicher Milch zu einer dicken Glasur verrühren und mit roter Lebensmittelfarbe einfärben, bis diese pink wird. Die Donuts in die Glasur tunken und mit bunten Streuseln dekorieren. Die Glasur trocknen lassen und die Donuts am besten noch am gleichen Tag essen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

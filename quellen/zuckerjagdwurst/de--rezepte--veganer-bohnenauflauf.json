@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-bohnenauflauf",
+  "recipes": [
+    {
+      "name": "Veganer Bohnen-Auflauf",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-bohnenauflauf",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-bohnenauflauf#recipe-d07418d9-cf72-5adf-9d6a-5558429e3352",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 große Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "400 g grüne Bohnen",
+        "3 mittelgroße Zwiebeln",
+        "200 g Champignons",
+        "3 Knoblauchzehen",
+        "250 g Semmelbrösel",
+        "4 EL vegane Butter",
+        "3 EL Mehl",
+        "3 EL pflanzliche Milch",
+        "250 ml pflanzliche Sahne",
+        "AUSSERDEM",
+        "Agavendicksaft",
+        "Eiswasser",
+        "Salz&Ffeffer",
+        "Paprika, Muskat"
+      ],
+      "instructions": [
+        "Vorbereitung ist alles. Daher: Bohnen waschen und an beiden Seiten die Enden abschneiden.",
+        "Zwiebeln schälen und in Ringe schneiden, Pilze putzen und vierteln. Knoblauch schälen und fein hacken.",
+        "Nehmt euch einen großen Topf, füllt ausreichend Wasser hinein und kocht eure Bohnen etwa 5 Minuten, sie müssen noch nicht komplett gar sein.",
+        "Bereitet direkt eine Schüssel mit kaltem Wasser und Eiswürfeln vor und schreckt eure Bohnen direkt darin ab, damit sie schön grün bleiben.",
+        "In einer Pfanne ohne Öl röstet ihr eure Semmelbrösel vorsichtig an, damit sie nicht anbrennen. Danach in eine Schüssel füllen und zur Seite stellen.",
+        "In der gleichen Pfanne könnt ihr nun 2 EL vegane Butter erhitzen und Knoblauch und Zwiebeln anbraten und nach 5 Minuten einen Schuss Agavendicksaft dazugeben. Weitere 5 Minuten braten lassen und danach zu den Semmelbröseln geben und alles gut vermischen.",
+        "Die Pfanne könnt ihr direkt wieder benutzen und erneut 2 EL vegane Butter erhitzen. Darin Pilze anbraten. Nach etwa 5-10 Minuten bestreut ihr das Ganze mit 3 EL Mehl und lasst es eine Minute weiterbraten. Löscht mit einem großen Schuss pflanzlicher Milch ab, rührt gut um damit sich keine Klumpen bilden.",
+        "Nun mit der pflanzlichen Sahne aufgießen und immer schön weiterrühren, damit nichts klumpt. Lasst das ganze 3-4 Minuten köcheln und schmeckt danach mit Muskat und Paprika ab.",
+        "Jetzt könnt ihr die Bohnen mit in die Pfanne geben und alles einmal umrühren. Gebt die Pilz-Bohnen-Mischung in eine Auflaufform.",
+        "Ab geht's für 15 Minuten in Ofen bei 180 Grad. Nach diesen 15 Minuten holt ihr den Auflauf kurz raus, gebt die Zwiebel-Semmelbrösel-Mischung darauf und lasst den Bohnen-Auflauf noch weitere 10 Minuten im Ofen. Warm servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

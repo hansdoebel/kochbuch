@@ -1,0 +1,64 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/knusprige-tofustueckchen-mit-knoblauch-reis-und-pak-choi",
+  "recipes": [
+    {
+      "name": "Knusprige Tofustückchen mit Knoblauch-Reis und Pak Choi",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/knusprige-tofustueckchen-mit-knoblauch-reis-und-pak-choi",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/knusprige-tofustueckchen-mit-knoblauch-reis-und-pak-choi#recipe-9b8aabd0-9035-540e-8790-94e9552fcea7",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für den Tofu:",
+        "400 g Naturtofu",
+        "2 EL Speisestärke",
+        "8 EL Sesam (schwarzer und weißer)",
+        "2 EL vegane Butter (z. B. von The vegan Cow)",
+        "Salz",
+        "Pfeffer",
+        "Für den Knoblauch-Reis:",
+        "300 g Langkornreis",
+        "600 ml Wasser",
+        "1 Knoblauchknolle",
+        "1 EL vegane Butter (z. B. von The vegan Cow)",
+        "Salz",
+        "Für die Soße:",
+        "5 g Ingwer",
+        "1 Knoblauchzehe",
+        "1 kleine Zwiebel",
+        "1 EL Sojasoße",
+        "0.5 Limette (Saft)",
+        "150 ml Wasser",
+        "3 EL Erdnussbutter",
+        "Pflanzenöl zum Braten",
+        "Außerdem:",
+        "500 g Pak Choi",
+        "1.5 EL Sojasoße",
+        "2 EL Sesamöl",
+        "1 TL Chiliflocken",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Speisestärke in eine Schüssel oder verschließbare Dose geben. Tofu in mundgerechte Stücke reißen, mit einem Küchenpapier trocken tupfen, in die Schüssel geben und gut mit der Stärke vermischen, bis er komplett bedeckt ist. Wenn ihr eine Dose verwendet, könnt ihr diese verschließen und gut schütteln. Sesam und Salz hinzugeben und wieder gut vermischen, damit der Sesam am Tofu haften bleibt. Wenn das nicht funktioniert, macht eure Hände etwas nass und drückt den Sesam an den Tofu. Den Tofu beiseitestellen.",
+        "Den Ofen auf 180°C (Ober-Unterhitze) vorheizen. Pak Choi waschen, längs halbieren und auf ein Backblech legen. Sojasoße, Sesamöl, Chiliflocken und Pfeffer in einer Schüssel verrühren und über den Pak Choi geben (oder diesen in die Marinade tunken). Die Knoblauchknolle für den Reis ebenfalls mit aufs Backblech legen und beides ca. 30 Minuten backen.",
+        "Die vegane Butter in einem Topf schmelzen lassen. Den Reis hinzugeben und gut verrühren. Anschließend mit Wasser ablöschen, Salz hinzugeben und nun auf kleiner Hitze köcheln lassen, bis der Reis gar ist.",
+        "Ingwer, Knoblauchzehe und Zwiebel schälen und klein schneiden. Etwas Öl in einem Topf erhitzen und Ingwer, Knoblauch und Zwiebel darin anschwitzen. Mit Sojasoße ablöschen und anschließend Limettensaft, Wasser und Erdnussbutter hinzugeben. Alle Zutaten gut verrühren und bei kleiner Hitze köcheln lassen. Wenn die Soße zu dickflüssig wird, einfach etwas Wasser hinzugeben.",
+        "In einer großen Pfanne vegane Butter erhitzen und den Tofu von allen Seiten knusprig braun braten. Dabei immer wieder wenden, damit er nicht anbrennt.",
+        "Die Knoblauchknolle aus dem Ofen nehmen und die einzelnen Zehen aus der Schale drücken. Sie müssten nach dem Backen so weich sein, dass das ganz einfach sein sollte. Die Zehen in eine kleine Schüssel geben und mit einer Gabel zerdrücken. Im Anschluss die zerdrückten Zehen unter den fertig gekochten Reis geben.",
+        "Den Knoblauchreis mit den knusprig gebratenen Sesam-Tofu-Stückchen, Pak Choi und Erdnusssoße anrichten und servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

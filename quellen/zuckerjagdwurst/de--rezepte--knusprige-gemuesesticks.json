@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/knusprige-gemuesesticks",
+  "recipes": [
+    {
+      "name": "Knusprige Gemüsesticks",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/knusprige-gemuesesticks",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/knusprige-gemuesesticks#recipe-214d003f-37d5-5bed-ac33-ba44b6e3b567",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen (2 Backbleche)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Gemüse",
+        "100 g Prinzessbohnen",
+        "1 Zucchini",
+        "1 Aubergine",
+        "2 Karotten",
+        "Panade",
+        "250 g Dinkelmehl",
+        "400 ml pflanzliche Milch",
+        "500 g Cornflakes (z.B. von barnhouse)",
+        "20 g Hefeflocken",
+        "2 TL Salz",
+        "2 TL Pfeffer",
+        "2 TL Knoblauchpulver",
+        "2 TL Paprikapulver",
+        "Dips",
+        "vegane Mayonnaise",
+        "Marinara Dip",
+        "Ketchup",
+        "BBQ Sauce",
+        "Avocado",
+        "Limette",
+        "Salz&Pfeffer"
+      ],
+      "instructions": [
+        "Zucchini und Aubergine waschen, die Enden entfernen, quer halbieren und längs achteln.",
+        "Die Karotten waschen, die Enden entfernen und längs halbieren oder vierteln.",
+        "Die Bohnen waschen und die Enden entfernen.",
+        "Für die Panade die Cornflakes in einen Zerkleinerer/Mixer geben und mit Salz, Pfeffer, Knoblauchpulver, Paprikapulver und Hefeflocken vermischen. Die Cornflakes-Panade in einen tiefen Teller geben.",
+        "In einen zweiten Teller Dinkelmehl füllen und in einen dritten Teller pflanzliche Milch geben.",
+        "Den Ofen auf 200°C Umluft vorheizen und zwei Backbleche mit Backpapier belegen.",
+        "Die Gemüsesticks nun einzeln zuerst in der pflanzlichen Milch wenden, dann im Mehl, im Anschluss wieder in der pflanzlichen Milch und dann in der Cornflakes-Panade.",
+        "Die Gemüsesticks auf dem Backblech nebeneinander platzieren und für 20 - 25 Minuten bei 200°C Umluft backen.",
+        "In der Zwischenzeit die Toppings und Saucen vorbereiten. Für eine Guacamole eine Avocado halbieren, den Stein entfernen und das Fleisch mit einer Gabel zerdrücken. Den Saft einer halben Limette hinzugeben und mit Salz und Pfeffer abschmecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pancakes-mit-zitrone-und-pflanzlichem-joghurt",
+  "recipes": [
+    {
+      "name": "Vegane Pancakes mit Zitrone & pflanzlichem Joghurt",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pancakes-mit-zitrone-und-pflanzlichem-joghurt",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pancakes-mit-zitrone-und-pflanzlichem-joghurt#recipe-2b3e0862-b66f-58b4-b34f-c5d467f9ddbd",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Pancakes",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "300 g Mehl",
+        "150 ml pflanzliche Milch",
+        "1 Pck (15 g) Backpulver",
+        "180 g pflanzlicher Joghurt",
+        "4 EL brauner Zucker",
+        "1 Zitrone",
+        "1 Prise Salz",
+        "pflanzliches Öl",
+        "Toppings",
+        "frische Beeren",
+        "frische Minze",
+        "Nüsse (zB Pekannüsse, Haselnüsse)",
+        "pflanzlicher Joghurt"
+      ],
+      "instructions": [
+        "Die Zitrone heiß waschen und gut putzen.",
+        "Alle Zutaten für den Teig in einer Schüssel vermischen und den Abrieb und den Saft der Zitrone hinzugeben. Den Teig für 10 Minuten stehen lassen.",
+        "Etwas pflanzliches Öl in einer kleinen Pfanne erhitzen und die Pancakes auf kleiner Stufe nach und nach darin von beiden Seiten ausbacken (2-3 EL pro Pancake). Die Pancakes erst in der Pfanne drehen, wenn kleine Bläschen auf der Oberfläche zu sehen sind und der Rand sich abrundet.",
+        "Mit pflanzlichem Naturjoghurt, Minzblättern, etwas Zitronenabrieb und Nüssen servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

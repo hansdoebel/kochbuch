@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-spaghetti-bolognese",
+  "recipes": [
+    {
+      "name": "Vegane Spaghetti Bolognese",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-spaghetti-bolognese",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-spaghetti-bolognese#recipe-9435729a-20f9-5a3a-864f-4512966a89b3",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Für die vegane Bolognese:",
+        "500 g Spaghetti",
+        "100 g feines Sojagranulat",
+        "Gemüsebrühe (heiß)",
+        "3 Möhren",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "1 EL Sojasoße",
+        "2 EL Tomatenmark",
+        "2 EL Agavendicksaft",
+        "100 ml veganer Rotwein (optional)",
+        "400 g (1 Dose) stückige Tomaten",
+        "400 ml passierte Tomaten",
+        "0.5 EL getrockneter Oregano",
+        "0.5 EL getrocknetes Basilikum",
+        "Agavendicksaft",
+        "Salz",
+        "Pfeffer",
+        "neutrales Pflanzenöl",
+        "Zum Servieren:",
+        "veganer Parmesan"
+      ],
+      "instructions": [
+        "Das Sojagranulat in eine hitzebeständige Schüssel geben und mit reichlich heißer Gemüsebrühe bedecken. Etwa 10 Minuten stehen lassen und gelegentlich umrühren.",
+        "Während das Sojagranulat einweicht, die Möhren falls nötig schälen und grob raspeln. Zwiebel und Knoblauch schälen und fein würfeln.",
+        "Das Sojagranulat in einem feinen Sieb abgießen und kräftig ausdrücken, damit es so viel Flüssigkeit wie möglich verliert.",
+        "In einer großen Pfanne Öl erhitzen und das Sojagranulat ca. 5 Minuten scharf anbraten, sodass es leicht gebräunt ist. Danach die Hitze reduzieren und Sojasoße, Tomatenmark und Agavendicksaft dazugeben. Anschließend alles vermengen und 2–3 Minuten weiter anbraten. Nun geraspelte Möhren sowie gewürfelte Zwiebeln und Knoblauch hinzugeben und zusammen weitere 5 Minuten braten.",
+        "Falls gewünscht mit veganem Rotwein ablöschen und diesen einköcheln lassen. Stückige und passierte Tomaten hinzugeben und die Soße mindestens 15 Minuten auf kleiner Flamme köcheln lassen – je länger sie köchelt, desto besser. Getrockneten Oregano und Basilikum dazugeben und die Bolognese mit Agavendicksaft, Salz und Pfeffer abschmecken.",
+        "Wenn die Soße abgeschmeckt und ausreichend eingekocht ist, einen Topf mit gesalzenem Wasser erhitzen und die Nudeln darin nach Packungsanleitung zubereiten. Eine Kelle vom Nudelwasser zur Bolognese geben und einrühren. Die Spaghetti abgießen und mit Bolognese und veganem Parmesan servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,129 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/gochu-bokkeum",
+  "recipes": [
+    {
+      "name": "Stir-fried green chili peppers (Gochu-bokkeum: 고추볶음)",
+      "source_url": "https://www.maangchi.com/recipe/gochu-bokkeum",
+      "recipe_id": "/recipe/gochu-bokkeum#sso/recipe/98799",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "2 servings",
+      "prep_time": "P0DT0H1M0S",
+      "cook_time": "P0DT0H5M0S",
+      "total_time": "P0DT0H6M0S",
+      "ingredients": [
+        "8 ounces stemmed mild shishito peppers (kkwari-gochu), washed and drained",
+        "1 tablespoon flour (wheat flour or rice flour)",
+        "2 tablespoons cooking oil",
+        "2 garlic cloves, minced",
+        "3 ounces onion, chopped (½ cup)",
+        "2 tablespoons soy sauce",
+        "2 teaspoons toasted sesame oil",
+        "½ teaspoon toasted sesame seeds"
+      ],
+      "instructions": [
+        "Add the onion and garlic and stir together for 1 minute.",
+        "Reduce the heat to medium and stir in the soy sauce.",
+        "Cook for about 1 minute until the peppers are cooked through and the onion is coated in the soy sauce.",
+        "Remove from the heat and stir in the sesame oil.",
+        "Transfer to a bowl or plate and sprinkle sesame seeds over top.",
+        "Serve as a side dish for rice. Leftovers can be refrigerated for up to 1 week."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "8 ounces stemmed mild shishito peppers (kkwari-gochu), washed and drained"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon flour (wheat flour or rice flour)"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons cooking oil"
+        },
+        {
+          "tag": "li",
+          "text": "2 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "3 ounces onion, chopped (½ cup)"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon toasted sesame seeds"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Cut the damp, freshly washed peppers in half if they are too long. Transfer to a large bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Add the flour and shake in the bowl to coat."
+        },
+        {
+          "tag": "li",
+          "text": "Heat the cooking oil in a skillet over medium-high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Add the peppers. Cook for about 2 minutes without stirring, until the bottom of the peppers are lightly browned."
+        },
+        {
+          "tag": "li",
+          "text": "Flip the peppers over and cook for an additional 2 minutes, stirring occasionally to cook evenly."
+        },
+        {
+          "tag": "li",
+          "text": "Add the onion and garlic and stir together for 1 minute."
+        },
+        {
+          "tag": "li",
+          "text": "Reduce the heat to medium and stir in the soy sauce."
+        },
+        {
+          "tag": "li",
+          "text": "Cook for about 1 minute until the peppers are cooked through and the onion is coated in the soy sauce."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and stir in the sesame oil."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer to a bowl or plate and sprinkle sesame seeds over top."
+        },
+        {
+          "tag": "li",
+          "text": "Serve as a side dish for rice. Leftovers can be refrigerated for up to 1 week."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kohlrouladen-pasta",
+  "recipes": [
+    {
+      "name": "Vegane Kohlrouladen-Pasta",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kohlrouladen-pasta",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kohlrouladen-pasta#recipe-c2e288c2-1150-5f1c-80ae-566f8def4c91",
+      "authors": [
+        "Nele Riese"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Für das Walnuss-Sonnenblumen-Hack:",
+        "150 g Walnusskerne (z.B. von Kluth)",
+        "150 g Sonnenblumenkerne (z.B. von Kluth)",
+        "2 Knoblauchzehe",
+        "1 Zwiebel",
+        "3 EL Sojasoße",
+        "2 EL Senf",
+        "3 EL Tomatenmark",
+        "1 EL Liquid Smoke",
+        "3 EL Sonnenblumenöl",
+        "Salz",
+        "Pfeffer",
+        "Für die Soße:",
+        "500 g Wirsing",
+        "50 g vegane Butter",
+        "2 EL Tomatenmark",
+        "500 ml Gemüsebrühe",
+        "125 g vegane Kochsahne",
+        "0.5 EL Speisestärke",
+        "2 EL Sojasoße",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "500 g dicke Nudeln (z. B. Cannelloni, Bandnudeln)",
+        "vegane Crème fraîche",
+        "Petersilie"
+      ],
+      "instructions": [
+        "Für das vegane Hack die Sonnenblumenkerne und Walnüsse in einem Mörser zerkleinern, bis sie feine Bruchstücke entstanden sind.",
+        "In einem Topf Wasser zum Kochen bringen und die Nudeln kochen, bis sie al dente sind.",
+        "Zwiebeln und Knoblauch fein Würfeln und mit etwas pflanzlichem Öl in einer Pfanne anbraten.",
+        "In der Zwischenzeit das Nusshack würzen mit Senf, Sojasoße, Tomatenmark, Liquid Smoke, Salz und Pfeffer. Alles gut miteinander vermengen und zusammen mit den Zwiebeln auf hoher Stufe scharf anbraten. Nach ca. 5 Minuten den angebratenen Nussmix aus der Pfanne holen und in eine Schüssel geben.",
+        "Den Wirsing in grobe Stücke schneiden und in derselben Pfanne kurz anrösten.",
+        "In der Zwischenzeit in einem separaten Topf die Soße anrühren. Dafür die vegane Butter schmelzen lassen und das Tomatenmark dazugeben. Mit der Gemüsebrühe und Kochsahne ablöschen und anschließend mit Sojasoße, Salz und Pfeffer würzen. Zum Schluss die Soße mit etwas Speisestärke andicken lassen.",
+        "Den Wirsing mit der Soße ablöschen und alles ca. 10 Minuten köcheln lassen. Wenn der Kohl weich ist, das Nusshack dazugeben.",
+        "Zum Schluss die Nudeln, gemeinsam mit der Soße und vegane Crème fraîche servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

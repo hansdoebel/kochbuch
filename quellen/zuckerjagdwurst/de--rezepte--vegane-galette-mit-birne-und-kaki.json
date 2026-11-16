@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-galette-mit-birne-und-kaki",
+  "recipes": [
+    {
+      "name": "Vegane Galette mit Birne & Kaki",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-galette-mit-birne-und-kaki",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-galette-mit-birne-und-kaki#recipe-e80fd6a5-4c30-5f8b-84e4-ff36ede10fbe",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Galette",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Veganer Galette-Teig",
+        "300 g Weizenmehl",
+        "150 g pflanzliche Butter",
+        "50 g weißer Zucker",
+        "1 Prise Salz",
+        "4-5 EL Eiswasser",
+        "Füllung",
+        "1 Birne",
+        "1 Kaki",
+        "1/2 TL Kardamom",
+        "1/2 TL Zimt",
+        "1/2 Zitrone",
+        "2 EL Agavendicksaft",
+        "1 EL weißer Zucker",
+        "2 EL pflanzliche Milch",
+        "Toppings",
+        "Puderzucker",
+        "Nüsse (gehackt oder in Scheiben)",
+        "pflanzliches Eis"
+      ],
+      "instructions": [
+        "Teig vorbereiten",
+        "In einer großen Schüssel Weizenmehl, Zucker und Salz vermischen. Die kalte Butter in Flocken darübergeben und mit kalten Händen alles verrühren.",
+        "Gebt das sehr kalte Wasser dazu, danach sollte euer Teig geschmeidig sein. Wenn er noch zu fest ist, gebt ihr vorsichtig mehr Wasser dazu, Der Teig sollte allerdings nicht kleben, sondern eine schöne, gleichmäßige Kugel sein.",
+        "Den Teig für mindestens 30 Minuten im Kühlschrank kühlen lassen, noch besser wären 2 Stunden.",
+        "Galette belegen",
+        "In der Zeit die Birne und Kaki waschen und als ganze in Scheiben schneiden. Die Scheiben nochmals halbieren, damit ihr Halbkreise erhaltet.",
+        "Die Scheiben in eine Schüssel geben und mit dem Saft einer halben Zitrone, 1 EL Agavendicksaft, 1/2 TL Zimt und 1/2 TL Kardamom bestreuen. Kurz mit den Händen vermischen.",
+        "Den Teig auf einer bemehlten Fläche ausrollen (und nach Belieben den Rand mit einem scharfen Messer abschneiden, sodass ihr einen schönen runden Kreis/Oval erhaltet) und ein Backblech mit Backpapier belegen.",
+        "Den ausgerollten Teig auf dem Backblech platzieren. Den Backofen auf 180°C Umluft vorheizen.",
+        "Mit einer Schüssel oder einem kleinen Teller einen Rand markieren, sodass ihr die Galette gleichmäßig belegt. Etwa 5 cm sollten bis zum Rand der Galette bleiben.",
+        "Die Obstscheiben auf der Galette abwechselnd leicht übereinander platzieren und die Galette von außen nach innen belegen. Am Ende mit 1/2 TL Zucker gleichmäßig bestreuen.",
+        "Den Teig der Galette von außen umklappen und etwas „falten“. In einer kleinen Schüssel 2 EL pflanzliche Milch und 1 EL Agavendicksaft verrühren und damit den Rand der Galette bestreichen. Auf mittlerer Schiene für 45 Minuten backen.",
+        "Die noch warme Galette mit Puderzucker, gehackten Nüssen und Eis servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

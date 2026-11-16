@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/creamy-coconut-chana-dal-83",
+  "recipes": [
+    {
+      "name": "Creamy Coconut Chana Dal",
+      "source_url": "https://www.pickuplimes.com/recipe/creamy-coconut-chana-dal-83",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT50M",
+      "total_time": "PT01H00M",
+      "ingredients": [
+        "1 Tbsp vegetable oil",
+        "2 medium onion",
+        "4 garlic clove",
+        "1 Tbsp fresh ginger",
+        "1 fresh red chili",
+        "1 Tbsp curry powder",
+        "2 tsp ground turmeric",
+        "1 tsp garam masala",
+        "½ tsp salt",
+        "1½ cup dry chana dal",
+        "2 cup water",
+        "1 vegetable bouillon cube",
+        "1½ cup brown rice",
+        "2 cup water",
+        "1⅔ cup canned full-fat coconut milk",
+        "1 yellow bell pepper",
+        "1 red bell pepper",
+        "1 cup cherry tomatoes"
+      ],
+      "instructions": [
+        "Heat the oil in a large pot over high heat. When hot, add the onion and cook until lightly golden, about 5 minutes. Add splashes of water as needed to deglaze the pot.",
+        "Then add the garlic, ginger, and chili and sauté for 3 more minutes.",
+        "Drop the heat to medium, and add the curry powder, turmeric, garam masala, and salt. Stir continuously for 30 - 60 seconds to toast the spices.",
+        "Add the water, drained chana dal, and bouillon. Bring to a boil, reduce to a simmer, and partially cover. Cook for 30 to 40 minutes, or until the dal is al dente*. Stir periodically.",
+        "Meanwhile, add the drained rice and water to a medium pot. Bring to a boil, reduce to a simmer, partially cover with a lid, and cook for 20 minutes. Then remove from the heat and leave covered.",
+        "Taste test the dal. When fully cooked through, add the coconut milk and bell peppers. Cook uncovered for 10 more minutes.",
+        "Then add the cherry tomatoes and cook for another 3 minutes. Remove from heat. Serve the dal with the rice, and garnish as desired. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Chana dal (split chickpeas) needs to be soaked overnight before cooking unless you're using a pressure cooker. * Decrease the cooking time to 15 minutes if using yellow or red lentils.",
+    "Storage Store in an airtight container in the fridge for up to 4 days."
+  ]
+}

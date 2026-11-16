@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vegan-tofu-chorizo-205",
+  "recipes": [
+    {
+      "name": "Tofu 'Chorizo'",
+      "source_url": "https://www.pickuplimes.com/recipe/vegan-tofu-chorizo-205",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT27M",
+      "total_time": "PT37M",
+      "ingredients": [
+        "1 Tbsp vegetable oil",
+        "1 small onion",
+        "4 garlic clove",
+        "½ tsp salt",
+        "7.055 oz cremini mushroom",
+        "21.164 oz firm tofu",
+        "1 Tbsp dried oregano",
+        "1 Tbsp sweet paprika powder",
+        "1 tsp chili powder",
+        "½ tsp ground coriander",
+        "½ tsp ground cumin",
+        "½ tsp ground black pepper",
+        "⅛ tsp ground cinnamon",
+        "2 Tbsp apple cider vinegar",
+        "1 tsp reduced-sodium soy sauce"
+      ],
+      "instructions": [
+        "Heat the oil in a large pan over high heat. When hot, add the onion, garlic, and salt, and cook for 3 minutes.",
+        "Then add the mushrooms and cook until the mushrooms release their moisture and begin to brown, about 7 minutes.",
+        "Reduce the heat to medium-high. Crumble in the tofu with your hands. Cook, stirring and scraping the bottom of the pan to avoid burning until the tofu browns and crisps to your liking, around 15 to 20 minutes.",
+        "Add in the spices and continue to cook and scrape until fragrant, about 1 to 2 minutes. Lastly, add the vinegar and soy sauce, stir, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We use pure ground chili powder made from dried chili peppers - not to be confused with the chili powder spice blend commonly found in the US, which often includes cumin, garlic powder, and other seasonings. For the intended heat and flavour, be sure to use pure chili powder.",
+    "Storage Store in an airtight container in the fridge for up to 4 days."
+  ]
+}

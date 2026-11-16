@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/crispy-baked-tofu-nuggets-809",
+  "recipes": [
+    {
+      "name": "Crispy Baked Tofu Nuggets",
+      "source_url": "https://www.pickuplimes.com/recipe/crispy-baked-tofu-nuggets-809",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT25M",
+      "cook_time": "PT30M",
+      "total_time": "PT55M",
+      "ingredients": [
+        "22.928 oz firm tofu",
+        "½ cup water",
+        "¼ cup reduced-sodium soy sauce",
+        "1 Tbsp nutritional yeast flakes",
+        "1 tsp garlic powder",
+        "1 tsp onion powder",
+        "¾ cup unsweetened soy milk",
+        "½ cup all-purpose flour",
+        "1 Tbsp cornstarch",
+        "1 tsp apple cider vinegar",
+        "1½ cup panko bread crumbs",
+        "3 Tbsp nutritional yeast flakes",
+        "2 tsp smoked paprika powder",
+        "2 tsp garlic powder",
+        "2 tsp onion powder",
+        "4 spritz of cooking oil spray",
+        "⅓ cup vegan mayonnaise",
+        "1½ Tbsp chipotle adobo sauce",
+        "½ tsp maple syrup"
+      ],
+      "instructions": [
+        "Add the pressed tofu to an airtight container. Freeze for at least 3 hours (overnight is preferred)*. When ready to make the recipe, let it thaw or defrost it in the microwave for 2 to 3 minutes. Squeeze out any remaining liquid from the tofu.",
+        "In a medium bowl, mix together the water, soy sauce, nutritional yeast, garlic powder, and onion powder.",
+        "Slice the tofu in half lengthwise, then use your hands to tear it into 1-inch (2 cm) chunks. Add the tofu chunks to the marinade, toss to coat, and let it sit for at least 10 minutes. Toss halfway through.",
+        "Meanwhile, make the batter. In another medium bowl, mix together the milk, flour, cornstarch, and vinegar.",
+        "In a separate medium bowl, mix together the bread crumbs, nutritional yeast, smoked paprika, garlic powder, and onion powder.",
+        "Line a baking tray or two with parchment paper, and preheat the oven to 425°F (220°C)**.",
+        "Use one hand to dip a marinated tofu chunk in the batter. Then use your other hand to roll it through the panko mixture. Transfer the coated pieces to the baking tray. Repeat with all of the tofu chunks.",
+        "Optionally, spray the tofu bites with cooking spray to help make them extra crispy. Bake in the preheated oven on the centre rack for 25 to 30 minutes. Flip halfway and spray with more oil if desired.",
+        "Meanwhile, make the chipotle mayo dipping sauce by combining the ingredients in a small bowl. Serve with the baked tofu bites and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † The chipotle sauce we use is a blend of chipotle peppers with water, vinegar, and spices. It's a deep red-coloured sauce. Some chipotle sauces are mayo-based, and we do not recommend using these versions in this recipe. * This step is optional, but will give the tofu a chewy, more meat-like texture. ** We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Store in an air-tight container in the fridge for up to 3 days."
+  ]
+}

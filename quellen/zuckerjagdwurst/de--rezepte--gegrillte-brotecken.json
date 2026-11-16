@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gegrillte-brotecken",
+  "recipes": [
+    {
+      "name": "Gegrillte Brotecken",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gegrillte-brotecken",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gegrillte-brotecken#recipe-0a070c7a-6734-53b2-adce-fefd195c9c54",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "15 Brotecken",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "7 g Trockenhefe",
+        "450 g Mehl (1050)",
+        "Salz",
+        "90 g pflanzlicher Joghurt",
+        "150 ml warmes Wasser",
+        "1 EL Agavendicksaft",
+        "80 ml Rapsöl",
+        "optional: 1 Knoblauchzehe",
+        "etwas mehr Öl zum Bepinseln der Brote"
+      ],
+      "instructions": [
+        "In einer großen Schüssel Hefe, Mehl und Salz vermischen.",
+        "Nun die feuchten Zutaten hinzugeben: Sojajoghurt, warmes Wasser, Agavendicksaft und Öl. Den Teig gut kneten, bis sich eine Kugel formen lässt.",
+        "Den Teig mit einem feuchten Tuch abdecken und an einem warmen Ort für mindestens 40 Minuten gehen lassen. Das Volumen sollte sich verdoppeln.",
+        "Den Teig nun auf einer bemehlten Unterfläche ausrollen und mit einem Messer in Dreiecke schneiden. Mit einem Pinsel die obere Seite der Brote mit Öl einpinseln.",
+        "Auf dem vorgeheizten Grill die Brote von beiden Seite grillen. Die Grillbrote zuerst mit der eingeölten Seite auf den Grill legen und vor dem Wenden, auch die zweite Seite mit Öl bepinseln.",
+        "Tipp: Wer mag, kann das Grillbrot auch vor dem Grillen mit einer Knoblauchzehe einreiben oder in den Teig Rosmarin, Thymian, Oliven oder Zwiebeln geben."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

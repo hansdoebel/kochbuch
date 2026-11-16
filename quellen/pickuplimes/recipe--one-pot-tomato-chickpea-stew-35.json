@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/one-pot-tomato-chickpea-stew-35",
+  "recipes": [
+    {
+      "name": "One-Pot Tomato & Chickpea Stew",
+      "source_url": "https://www.pickuplimes.com/recipe/one-pot-tomato-chickpea-stew-35",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT07M",
+      "cook_time": "PT13M",
+      "total_time": "PT20M",
+      "ingredients": [
+        "1 Tbsp vegetable oil",
+        "4 garlic clove",
+        "2 medium onion",
+        "1 fresh red chili",
+        "1 medium carrot",
+        "1 jarred roasted red pepper",
+        "½ tsp salt",
+        "2 tsp ground cumin",
+        "1 tsp smoked paprika powder",
+        "1 tsp ground coriander",
+        "3⅓ cup canned crushed tomatoes",
+        "2 cup cooked chickpeas",
+        "½ cup kalamata olives",
+        "2 Tbsp tahini",
+        "2 tsp reduced-sodium soy sauce",
+        "⅛ tsp ground black pepper",
+        "2 cup spinach",
+        "4 whole wheat pita bread"
+      ],
+      "instructions": [
+        "Heat the oil in a large pan over high heat. Cook the garlic, onion, chilli, carrot, bell pepper, and salt for 7 minutes.",
+        "Add the cumin, paprika, and coriander, and cook for 1 minute more to toast the spices.",
+        "Then add the tomatoes, chickpeas, olives, tahini, soy sauce, and pepper. Reduce the heat to medium, cover, and cook for 5 minutes.",
+        "Then add the spinach. When wilted, remove from the heat. Garnish and serve alongside pita bread or rice. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage The stew can be stored in an airtight container in the fridge for up to 3 days."
+  ]
+}

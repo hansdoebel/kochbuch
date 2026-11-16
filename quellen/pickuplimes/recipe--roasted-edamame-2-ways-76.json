@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/roasted-edamame-2-ways-76",
+  "recipes": [
+    {
+      "name": "Roasted Edamame: 2 Ways",
+      "source_url": "https://www.pickuplimes.com/recipe/roasted-edamame-2-ways-76",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "5 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT30M",
+      "total_time": "PT40M",
+      "ingredients": [
+        "2 cup frozen shelled edamame",
+        "1 tsp olive oil",
+        "1 tsp curry powder",
+        "½ tsp onion powder",
+        "⅛ tsp salt",
+        "1 tsp olive oil",
+        "2 tsp white miso paste",
+        "2 tsp maple syrup",
+        "1 tsp sambal oelek"
+      ],
+      "instructions": [
+        "Pour boiling water over the frozen edamame to thaw them out for a couple of minutes.",
+        "Line a baking tray and preheat oven to 350°F (180°C)*.",
+        "Drain and towel-dry the edamame.",
+        "Add half of the edamame to a bowl. Add all of the ingredients for the curry flavour, and toss to combine.",
+        "Add the miso paste, maple syrup, and sambal to another bowl. Mix until smooth.",
+        "Toss the remaining edamame in oil. Then coat with the miso-sambal mixture.",
+        "Transfer both edamame mixtures to the baking tray and spread them out.",
+        "Bake for 30 to 35 minutes, or until lightly golden, mixing once halfway. Enjoy on your favourite salad or simply as a snack!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † White miso, also called \"Shiro Miso,\" is fermented for less time than red miso, which gives it a milder, sweeter flavour. If substituting red miso, use a smaller amount and adjust to taste, as red miso is saltier and stronger. * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

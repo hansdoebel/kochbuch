@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/speedy-pea-basil-pesto-pasta-176",
+  "recipes": [
+    {
+      "name": "Speedy Pea & Basil Pesto Pasta",
+      "source_url": "https://www.pickuplimes.com/recipe/speedy-pea-basil-pesto-pasta-176",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT07M",
+      "cook_time": "PT08M",
+      "total_time": "PT15M",
+      "ingredients": [
+        "8.818 oz linguine noodles",
+        "1 tsp vegetable oil",
+        "4 garlic clove",
+        "2 tsp vegetable oil",
+        "2 medium shallot",
+        "2 jarred roasted red pepper",
+        "1 lemon",
+        "1½ cup fresh green peas",
+        "½ cup toasted pine nuts",
+        "1½ cup fresh basil leaves",
+        "2 Tbsp olive oil",
+        "1 pinch salt",
+        "1 pinch ground black pepper",
+        "2 cup arugula"
+      ],
+      "instructions": [
+        "Cook the pasta according to package instruction in salted boiling water until al dente.",
+        "Heat the oil in a medium pan over medium-high heat. Cook the garlic for 2 minutes, then transfer to a small food processor.",
+        "To the now-empty pan, add the oil and shallots. Cook until golden, adding the bell peppers at the end just to heat through.",
+        "Meanwhile, returning to the food processor, add in the lemon juice, peas, pine nuts, basil, olive oil, salt, and pepper. Blend until creamy.",
+        "When the pasta is al dente, drain, and transfer it back to the empty pot. Add the shallot mixture and pea pesto to the pasta, and toss to combine.",
+        "Plate with arugula, garnish, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store the pasta and pea pesto separately in airtight container s in the fridge for up to 4 days. Combine when ready to enjoy."
+  ]
+}

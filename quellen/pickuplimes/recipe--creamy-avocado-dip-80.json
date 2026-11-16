@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/creamy-avocado-dip-80",
+  "recipes": [
+    {
+      "name": "Creamy Avocado Dip",
+      "source_url": "https://www.pickuplimes.com/recipe/creamy-avocado-dip-80",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "1 avocado",
+        "1 garlic clove",
+        "¼ cup unsweetened soy yogurt",
+        "½ lime",
+        "¼ tsp salt",
+        "1 pinch ground black pepper"
+      ],
+      "instructions": [
+        "Add all ingredients to a small food processor and blend until creamy*. Mix, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based yogurt that is fortified with calcium . * If you don't have a small food processor, simply mash the avocado in a bowl first, add in the crushed garlic, and the remaining ingredients.",
+    "Storage Best if enjoyed immediately. Can be stored in an airtight container in the fridge for up to 1 day."
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/plantain-chips",
+  "recipes": [
+    {
+      "name": "Plantain Chips",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/plantain-chips",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/plantain-chips#recipe-99d928ed-9551-54c5-9540-a1d23dad8b98",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "60 - 70 Chips",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "2 grüne Kochbananen",
+        "3 EL Kokosöl",
+        "1 EL Agavendicksaft",
+        "2 EL Kokoszucker"
+      ],
+      "instructions": [
+        "In einem kleine Topf Kokosöl, Agavendicksaft und Kokoszucker miteinander vermengen und erhitzen, bis das Kokosöl geschmolzen ist. Kurz abkühlen lassen.",
+        "Kochbananen schälen und in dünne Scheiben schneiden. Die Scheiben von beiden Seiten mit Kokoszucker-Mischung bestreichen. Auf einem mit Backpapier ausgelegten Backblech verteilen. Am knusprigsten werden sie, wenn ihr die Scheiben nicht übereinander, sondern schön fein nebeneinander legt. Bei 90°C ca. 60 Minuten backen, bis die Chips goldbraun und knusprig sind. Und schon ist euer Snack fertig!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

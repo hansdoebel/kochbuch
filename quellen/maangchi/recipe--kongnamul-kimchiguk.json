@@ -1,0 +1,121 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/kongnamul-kimchiguk",
+  "recipes": [
+    {
+      "name": "Soybean sprout & kimchi soup (Kongnamul-kimchiguk: 콩나물김치국)",
+      "source_url": "https://www.maangchi.com/recipe/kongnamul-kimchiguk",
+      "recipe_id": "/recipe/kongnamul-kimchiguk#sso/recipe/101217",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "Serves 2 to 3",
+      "prep_time": "P0DT0H10M0S",
+      "cook_time": "P0DT0H30M0S",
+      "total_time": "P0DT0H40M0S",
+      "ingredients": [
+        "1 package (12 ounces) soybean sprouts, washed and drained",
+        "½ medium size onion (about 3 ounces), sliced",
+        "1 cup fermented kimchi, chopped",
+        "2 garlic cloves, minced",
+        "10 large dried anchovies, heads and guts removed",
+        "1 daepa, large green onion (or 2 regular green onions), sliced",
+        "1 tablespoon plus 1 teaspoon fish sauce (or soup soy sauce to your taste)"
+      ],
+      "instructions": [
+        "Remove from the heat and take out the anchovy strainer.",
+        "Serve the soup with rice, kimchi, and additional side dishes.",
+        "Enjoy your delicious soup!"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 2 to 3"
+        },
+        {
+          "tag": "li",
+          "text": "1 package (12 ounces) soybean sprouts, washed and drained"
+        },
+        {
+          "tag": "li",
+          "text": "½ medium size onion (about 3 ounces), sliced"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup fermented kimchi, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "2 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "10 large dried anchovies, heads and guts removed"
+        },
+        {
+          "tag": "li",
+          "text": "1 daepa, large green onion (or 2 regular green onions), sliced"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon plus 1 teaspoon fish sauce (or soup soy sauce to your taste)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the anchovies"
+        },
+        {
+          "tag": "li",
+          "text": "Place the anchovies in a soup strainer, or wrap them in cheesecloth."
+        },
+        {
+          "tag": "h3",
+          "text": "Make soup"
+        },
+        {
+          "tag": "li",
+          "text": "In a pot, combine soybean sprouts, onion, garlic, and kimchi."
+        },
+        {
+          "tag": "li",
+          "text": "Add 7 cups of water and the anchovy strainer to the pot."
+        },
+        {
+          "tag": "li",
+          "text": "Cover and cook over medium-high heat for 25 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Stir in the green onion and fish sauce. Cover and cook for an additional 5 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and take out the anchovy strainer."
+        },
+        {
+          "tag": "h3",
+          "text": "Serve"
+        },
+        {
+          "tag": "p",
+          "text": "Serve the soup with rice, kimchi, and additional side dishes. Enjoy your delicious soup!"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

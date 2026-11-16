@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-udon-carbonara",
+  "recipes": [
+    {
+      "name": "Vegane Udon Carbonara",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-udon-carbonara",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-udon-carbonara#recipe-1dcc8471-47ae-558f-a4cf-d342d41d2f5e",
+      "authors": [
+        "Anne-Sophie Hoffmann"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Pasta:",
+        "250 g Udon-Nudeln",
+        "150 g Cashewmus",
+        "1 EL helle Misopaste",
+        "2 EL Hefeflocken",
+        "1 TL Sojasoße",
+        "100 ml Wasser",
+        "60 g vegane Schinkenwürfel (z. B. von Billie Green)",
+        "Salz",
+        "Pfeffer",
+        "Pflanzenöl zum Braten",
+        "veganer Parmesan zum Servieren",
+        "Für das vegane Eigelb:",
+        "75 g Butternut-Kürbis (oder Karotten)",
+        "0.25 Zwiebel",
+        "1 TL Hefeflocken",
+        "0.5 TL weiße Misopaste",
+        "0.25 TL Kala Namak",
+        "1 Prise Kurkuma",
+        "1 EL natives Olivenöl"
+      ],
+      "instructions": [
+        "Den Butternut-Kürbis in einem mittelgroßen Topf mit Wasser bedecken und 5–10 Minuten weich kochen. In der Zwischenzeit die gewürfelte Zwiebel in einer Pfanne bei mittlerer Hitze glasig und leicht goldbraun anbraten.",
+        "Den gekochten Kürbis und die angeschwitzte Zwiebel zusammen mit Hefeflocken, weißer Misopaste, Kala Namak, Kurkuma und Olivenöl in einem Mixer geben oder alternativ mit einem Pürierstab mixen, bis eine glatte, seidige Emulsion entsteht.",
+        "Für die Soße Cashewmus, helle Misopaste, Hefeflocken und Sojasoße ebenfalls in einen Mixer geben. Nach und nach Wasser hinzufügen, bis eine cremige Soße entsteht und mit Salz und Pfeffer abschmecken.",
+        "Die veganen Schinkenwürfel in einer Pfanne mit Öl knusprig anbraten.",
+        "Die Udon-Nudeln nach Packungsanleitung zubereiten. Anschließend abgießen und dabei etwas vom Kochwasser auffangen. Die Nudeln mit der Cashewsoße vermengen und so viel Kochwasser hinzufügen, bis die Soße schön sämig ist. Zum Schluss die veganen Schinkenwürfel untermengen.",
+        "Die Udon Carbonara mit veganem Parmesan und einem Klecks vom „Eigelb“ toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

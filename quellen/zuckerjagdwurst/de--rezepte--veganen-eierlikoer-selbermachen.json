@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganen-eierlikoer-selbermachen",
+  "recipes": [
+    {
+      "name": "Veganen Eierlikör selbermachen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganen-eierlikoer-selbermachen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganen-eierlikoer-selbermachen#recipe-d8a58534-a2f6-5bfa-b50c-f1de73926762",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "20 Minuten",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "37 g Vanillepuddingpulver",
+        "3 EL Zucker",
+        "500 ml Nuss- oder Sojadrink",
+        "1 Vanilleschote",
+        "100 ml Rum oder Wodka",
+        "100 ml pflanzliche Kochsahne",
+        "1 Prise Kala Namak",
+        "1 Prise Kurkuma (optional)"
+      ],
+      "instructions": [
+        "Das Vanillepuddingpulver nach Packungsanweisung zubereiten. Meist vermischt man dafür das Vanillepuddingpulver mit Zucker und rührt nach und nach etwas pflanzliche Milch hinzu, bis die Mischung glatt ist. Die übrige pflanzliche Milch anschließend unter Rühren aufkochen und das angerührte Puddingpulver dazugeben, gründlich einrühren und ca. 1 Minute unter ständigem Rühren köcheln. Vom Herd nehmen und abkühlen lassen.",
+        "Die Vanilleschote längs halbieren und das Vanillemark mit der Rückseite eines Messers herauskratzen.",
+        "Vanillemark, Rum oder Wodka, die pflanzliche Kochsahne und Kala Namak nach und nach zum Pudding geben und unterrühren. Optional etwas Kurkuma hinzugeben, sodass der vegane Eierlikör eine stärkere gelbe Farbe erhält. Den veganen Eierlikör abschmecken und mind. 1 Stunde kaltstellen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

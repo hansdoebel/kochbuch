@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-crepes",
+  "recipes": [
+    {
+      "name": "Vegane Crêpes",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-crepes",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-crepes#recipe-394315d2-edcc-5896-9a53-a3d251d4015c",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 crêpes",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "250 g Mehl",
+        "2 EL brauner Zucker",
+        "1 EL Vanillezucker",
+        "1 EL Backpulver",
+        "1 Prise Salz",
+        "400 ml pflanzliche Milch (Mandelmilch)",
+        "Pflanzenöl zum Braten"
+      ],
+      "instructions": [
+        "Mehl in eine Schüssel sieben. Zucker, Vanillezucker, Backpulver und Salz dazugeben und verrühren.",
+        "Pflanzliche Milch langsam dazugeben und alles zu einem glatten Teig vermengen. Der Crêpeteig sollte flüssig, aber nicht ZU dünn werden.",
+        "Pflanzenöl in einer Pfanne auf keiner bis mittlerer Stufe erhitzen. Gebt eine Kelle des Teigs in die Pfanne und schwenkt sie leicht, damit sich der Teig verteilt. Lasst den Crêpe ca. 3 Min. von jeder Seite anbraten, er sollte durchgegart und leicht goldbraun sein. Falls ihr merkt, dass der Crêpe von der ersten Seite zu schnell dunkel, aber nicht gar wird, legt einen Deckel auf die Pfanne und reduziert die Hitze etwas. Mit dem restlichen Teig wiederholen bis alles aufgebraucht ist.",
+        "Eure Crêpes sind fertig und bereit für neue Abenteuer. Ihr könnt sie jetzt nach Belieben belegen oder füllen und zusammenrollen. Von Zucker-Zimt bis Obst oder Schokoladencreme könnt ihr alles nehmen, was ihr gern esst."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

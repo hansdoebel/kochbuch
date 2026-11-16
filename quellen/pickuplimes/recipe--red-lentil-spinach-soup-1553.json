@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/red-lentil-spinach-soup-1553",
+  "recipes": [
+    {
+      "name": "Red Lentil & Spinach Soup",
+      "source_url": "https://www.pickuplimes.com/recipe/red-lentil-spinach-soup-1553",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT25M",
+      "total_time": "PT35M",
+      "ingredients": [
+        "½ Tbsp vegetable oil",
+        "1 large onion",
+        "½ Tbsp grated fresh ginger",
+        "2 medium tomato",
+        "1 cup dry red lentils",
+        "1½ vegetable bouillon cube",
+        "1 jarred roasted red pepper",
+        "2 tsp curry powder",
+        "3 cup water",
+        "2 cup baby spinach",
+        "2 slice whole wheat bread",
+        "½ lemon"
+      ],
+      "instructions": [
+        "Heat the oil in a large pot over medium-high heat. Cook the onions for 4 to 5 minutes, until golden.",
+        "Add the ginger and cook for 1 more minute.",
+        "Add the tomatoes, lentils, bouillon, bell pepper, curry powder, and water. Simmer, covered with a lid, for 15 to 18 minutes, or until the lentils are cooked.",
+        "Blend with an immersion blender*. Some texture can remain.",
+        "Stir in the spinach and cook until wilted, and add more water if a thinner soup is desired.",
+        "Season with salt and pepper to taste, and serve with some bread and a squeeze of lemon juice for some freshness. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * Alternatively, transfer to a standing blender , or choose to leave textured and un-blended, in which case chop the roasted bell pepper before adding it to the pot.",
+    "Storage Store in an airtight container in the fridge for up to 3 days. Freeze for up to 1 month."
+  ]
+}

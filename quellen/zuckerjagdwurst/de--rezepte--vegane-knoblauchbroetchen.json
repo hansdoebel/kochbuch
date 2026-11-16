@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-knoblauchbroetchen",
+  "recipes": [
+    {
+      "name": "Knoblauchbrötchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-knoblauchbroetchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-knoblauchbroetchen#recipe-87bb34a4-eaad-5300-bfa6-f03c95401cc1",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Brötchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "1 Packung Sonntagsbrötchen (8 Stück)",
+        "4 EL vegane Butter/Margarine",
+        "3 Zehen Knoblauch",
+        "0.5 TL Salz",
+        "glatte Petersilie zum Bestreuen",
+        "Olivenöl zum Bestreichen"
+      ],
+      "instructions": [
+        "Die Sonntagsbrötchen aus der Verpackung nehmen und auf Raumtemperatur bringen. Anschließend leicht mit einem Nudelholz „ausrollen“, damit sie größer und flacher sind. Zieht die Brötchen mit den Händen leicht auseinander und dreht den Teig zu einem Knoten zusammen.",
+        "Bestreicht jedes Knoblauchbrötchen mit etwas Olivenöl und lasst es bei 200°C ca. 12 Min. backen bis sie goldbraun sind.",
+        "In der Zwischenzeit hackt ihr den Knoblauch. Schmelzt die vegane Butter und gebt den gehackten Knoblauch dazu. Das ganze lasst ihr ca. 2 Min. bei kleiner Hitze köcheln, damit der Knoblauch weich wird. Anschließend mit Salz würzen.",
+        "Wenn die Knoblauchbrötchen fertig gebacken sind, kurz abkühlen lassen. Danach mit der Knoblauch-Butter-Mischung bestreichen und mit Petersilie bestreuen. Am besten direkt noch warm essen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

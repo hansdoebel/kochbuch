@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/fruehstueckspolenta-mit-mandelmus-und-feigen",
+  "recipes": [
+    {
+      "name": "Frühstückspolenta mit Mandelmus & Feigen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/fruehstueckspolenta-mit-mandelmus-und-feigen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/fruehstueckspolenta-mit-mandelmus-und-feigen#recipe-92665b0e-fbfb-5f8d-8aa2-b364ca6287dd",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 große Portion / 2 kleine Portion",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "80 g Maisgrieß",
+        "250 ml pflanzliche Milch",
+        "1 EL Agavendicksaft",
+        "Toppings",
+        "Erdnussbutter, Schokoladenaufstrich, Mandelmus",
+        "Obst und Früchte nach Saison (z.B. Feigen, Trauben, Apfel, Beeren)"
+      ],
+      "instructions": [
+        "Die pflanzliche Milch in einem kleinen Topf erhitzen. Den Maisgrieß nach und nach unterrühren.",
+        "Den Agavendicksaft hinzugeben.",
+        "Je nach Wunsch in ein Schraubglas oder eine Schüssel füllen.",
+        "Die Polenta mit saisonalem Obst, Mandelmus, Schokolade oder Nüssen toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

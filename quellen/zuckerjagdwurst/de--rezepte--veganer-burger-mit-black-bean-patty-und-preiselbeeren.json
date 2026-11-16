@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-burger-mit-black-bean-patty-und-preiselbeeren",
+  "recipes": [
+    {
+      "name": "Veganer Burger mit Black-Bean-Patty & Preiselbeeren",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-burger-mit-black-bean-patty-und-preiselbeeren",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-burger-mit-black-bean-patty-und-preiselbeeren#recipe-89b25357-8b7a-5c37-b611-01e2b58b7d21",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Burger / 4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "4 vegane Burger Buns",
+        "100 g Preiselbeer-Gelee im Glas",
+        "150 ml pflanzliche Mayonnaise",
+        "50 g Feldsalat",
+        "4 Scheiben veganer Scheibenkäse",
+        "2 Zwiebeln",
+        "4 saure Gurken",
+        "Black Bean Patty",
+        "1 Dose Schwarze Bohnen (400 g / 295 g Abtropfgewicht)",
+        "1 Knoblauchzehe",
+        "1 Zwiebel",
+        "1 EL Tomatenmark",
+        "1 TL Soja Sauce",
+        "1 TL Liquid Smoke",
+        "2 EL Senf",
+        "4 EL zarte Haferflocken",
+        "Salz&Pfeffer",
+        "Öl zum Braten"
+      ],
+      "instructions": [
+        "Die schwarzen Bohnen in einem Sieb abgiessen und mit Wasser abspülen. Anschließend mit einem Küchentuch trocken tupfen.",
+        "In eine Schüssel geben und mit einer Gabel zu Brei „zerdrücken“.",
+        "Zwiebel und Knoblauch schälen, würfeln und zu den Bohnen geben.",
+        "Nun alle restlichen Zutaten hinzugeben: 1 EL Tomatenmark, 1 TL Soja Sauce, 1 TL Liquid Smoke, 2 EL Senf, 4 EL zarte Haferflocken und ausreichend Salz und Pfeffer.",
+        "Die Masse mit den Händen kneten und vier Burger-Patties daraus formen.",
+        "Eine Pfanne mit pflanzlichem Öl erhitzen und die Burger-Patties von einer Seite knusprig braun braten. Alle Patties wenden und eine Scheibe veganen Käse auf jedes Patty legen. Nun einen Deckel auf die Pfanne geben, sodass der Käse schmilzt. Etwa 2-3 Minuten warten, bis jedes Patty auch von der anderen Seite knusprig-braun ist und bei Seite stellen.",
+        "Zuletzt alle Toppings für den Burger vorbereiten: Zwiebeln schälen und in Ringe schneiden, die sauren Gurken längs in Scheiben schneiden und den Feldsalat waschen.",
+        "Die unteren Burger Buns nun mit je 2 TL pflanzlicher Mayonnaise bestreichen und darauf den Feldsalat geben. Das Black-Bean-Patty darauflegen und mit Zwiebelringen und sauren Gurkenscheiben toppen. Anschließend 2 TL Preiselbeergelee auf das oberen Bun verteilen und den Burger damit schließen. Fertig!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

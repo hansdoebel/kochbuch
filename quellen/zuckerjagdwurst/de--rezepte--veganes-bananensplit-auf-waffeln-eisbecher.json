@@ -1,0 +1,78 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-bananensplit-auf-waffeln-eisbecher",
+  "recipes": [
+    {
+      "name": "Vegane Waffeln",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-bananensplit-auf-waffeln-eisbecher",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-bananensplit-auf-waffeln-eisbecher#recipe-88c87795-2020-5555-b0ea-6729e5aebcf1",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Waffeln",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für den Waffelteig:",
+        "300 g Weizenmehl (Type 405)",
+        "50 g brauner Zucker",
+        "1 TL Backpulver",
+        "8 g Vanillezucker",
+        "200 ml pflanzliche Milch",
+        "20 ml Pflanzenöl",
+        "100 ml kohlensäurehaltiges Mineralwasser",
+        "Prise Salz",
+        "Außerdem:",
+        "vegane Margarine zum Einfetten",
+        "Toppings (z.B. Puderzucker, Früchte, vegane Schlagsahne etc.)"
+      ],
+      "instructions": [
+        "Mehl, Zucker, Backpulver, Vanillezucker und Salz in einer großen Schüssel vermischen. Anschließend pflanzliche Milch, Pflanzenöl und Mineralwasser unterrühren.",
+        "Das Waffeleisen erhitzen und mit etwas pflanzlicher Margarine einfetten.",
+        "Den Teig nach und nach zu goldbraunen Waffeln verarbeiten und mit Toppings eurer Wahl servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Veganes Bananensplit auf Waffeln",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-bananensplit-auf-waffeln-eisbecher",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-bananensplit-auf-waffeln-eisbecher#recipe-7a667397-4ebe-5bb3-9495-9a1a51d8f3ef",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen / 2 Eisbecher",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "4 vegane Waffeln (Rezept auf dem Blog)",
+        "4 Kugeln veganes Vanilleeis (z.B. von LUVE)",
+        "2 Bananen",
+        "50 ml Schokoladensoße oder geschmolzene dunkle Schokolade",
+        "50 g Krokant",
+        "6 frische Kirschen",
+        "100 ml pflanzliche Sahne zum Aufschlagen",
+        "1 EL Sahnesteif"
+      ],
+      "instructions": [
+        "Die Waffeln nach dem Rezept auf unserem Blog zubereiten. Pro Bananensplit benötigt ihr zwei Waffeln.",
+        "Falls notwendig die dunkle Schokolade schmelzen, sodass ihr Schokoladensoße erhaltet.",
+        "Die pflanzliche Schlagsahne zusammen mit dem Sahnesteif aufschlagen.",
+        "Nun geht's ans Anrichten: Dafür zwei Waffeln auf einem Teller platzieren. Eine Banane schälen, mit einem Messer längs halbieren und auf die Waffeln legen.",
+        "Zwei Kugeln veganes Vanilleeis hinzugeben und mit pflanzlicher Schlagsahne, Schokoladensoße, Krokant und frischen Kirschen toppen. Direkt servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

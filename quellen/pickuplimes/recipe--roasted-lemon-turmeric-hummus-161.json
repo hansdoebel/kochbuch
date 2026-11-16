@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/roasted-lemon-turmeric-hummus-161",
+  "recipes": [
+    {
+      "name": "Roasted Lemon Turmeric Hummus",
+      "source_url": "https://www.pickuplimes.com/recipe/roasted-lemon-turmeric-hummus-161",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT10M",
+      "total_time": "PT15M",
+      "ingredients": [
+        "1 lemon",
+        "2 cup cooked chickpeas",
+        "2 garlic clove",
+        "¼ cup tahini",
+        "¼ cup water",
+        "1 Tbsp extra-virgin olive oil",
+        "½ tsp ground turmeric",
+        "¼ tsp curry powder",
+        "¼ tsp salt"
+      ],
+      "instructions": [
+        "Optional step: preheat the oven to 475°F (250°C)*. Cut the lemon in half and place cut-side up on a lined baking tray. Bake for 10 minutes, then allow to cool.",
+        "Add the roasted lemon juice, along with all the remaining ingredients to a food processor and blend until smooth.",
+        "Taste test and adjust the seasoning to your liking. Plate, garnish, serve with crackers, cut-up vegetables, or enjoy in a wrap or sandwich."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Store in an airtight container in the fridge for up to 5 days."
+  ]
+}

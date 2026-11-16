@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-focaccia-mit-tomaten-und-basilikum",
+  "recipes": [
+    {
+      "name": "Vegane Focaccia mit Tomaten & Basilikum",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-focaccia-mit-tomaten-und-basilikum",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-focaccia-mit-tomaten-und-basilikum#recipe-3c4d3c3d-eb2d-523c-be36-dd58713da275",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "30 Minuten (+90 Minuten Wartezeit)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "50 ml Basilikum-Olivenöl oder fruchtiges Olivenöl nativ extra (z.B. von BIO PLANÈTE) zum Bestreichen der Form",
+        "Focaccia",
+        "300 ml lauwarmes Wasser",
+        "0.5 TL Zucker",
+        "21 g frische Hefe",
+        "500 g Weizenmehl (Type 550)",
+        "1 TL Salz",
+        "25 ml Basilikum-Olivenöl oder fruchtiges Olivenöl nativ extra (z.B. von BIO PLANÈTE)",
+        "Toppings",
+        "200 g kleine Tomaten",
+        "1 TL grobes Salz",
+        "15 g frischer Basilikum",
+        "25 ml Basilikum-Olivenöl oder fruchtiges Olivenöl nativ extra (z.B. von BIO PLANÈTE)"
+      ],
+      "instructions": [
+        "Das lauwarme Wasser in eine große Schüssel füllen und den Zucker unterrühren. Nun die Hefe darüber bröseln und etwa 10 Minuten stehen lassen.",
+        "Im Anschluss das Mehl hinzugeben und unterkneten. Den Teig mit einem feuchten Küchentuch bedeckt an einem warmen Ort für 45 Minuten gehen lassen.",
+        "Der Teig sollte sich nun auf das doppelte Volumen vergrößert haben. Nun das Salz und das Basilikum-Öl hinzugeben und unterkneten.",
+        "Eine Auflaufform (30x25 cm) mit Backpapier auslegen, mit Olivenöl bestreichen und den Teig hineingeben. Den Teig mit den Händen flachdrücken, sodass der Boden der Form bedeckt ist.",
+        "Die Tomaten waschen, abtrocknen und halbieren. Die Basilikumblätter ebenfalls waschen und anschließend grob hacken.",
+        "Mit der Rückseite eines Kochlöffels oder euren Fingern Mulden in den Teig drücken. Die halbierten Tomaten in die Mulden drücken.",
+        "Den gehackten Basilikum, das grobe Salz und das Basilikum-Olivenöl auf der Focaccia verteilen und nochmals 15 Minuten gehen lassen. In der Zeit schon mal den Ofen auf 200°C Ober- und Unterhitze vorheizen.",
+        "Das Focaccia für 30-40 Minuten backen und im Anschluss mit Basilikum-Olivenöl servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

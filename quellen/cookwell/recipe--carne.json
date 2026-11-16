@@ -1,0 +1,54 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/carne",
+  "recipes": [
+    {
+      "name": "Carne Guisada",
+      "source_url": "https://app.cookwell.com/recipe/carne",
+      "recipe_id": "https://app.cookwell.com/recipe/carne",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "8-12 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT4H30M",
+      "ingredients": [
+        "Chuck roast, 900 g",
+        "Beef cheeks, 900 g",
+        "Salt, ~ 15 g",
+        "Neutral oil, a drizzle",
+        "Onions, 1/2",
+        "Green Bell Peppers, 1",
+        "Poblano peppers, 1-2",
+        "Cumin, a spoonful",
+        "Chili Powder, a spoonful",
+        "Smoked Paprika, a spoonful",
+        "Fresh oregano, 1/2 spoonful",
+        "Bay Leaves, 1",
+        "Beef broth, enough to submerge meat",
+        "Tomatoes, 200 g",
+        "Cornstarch slurry, as needed",
+        "Cooked rice",
+        "Refried black beans",
+        "Flour tortillas",
+        "Queso Fresco",
+        "Avocados"
+      ],
+      "instructions": [
+        "Add just enough oil to the coat the bottom of a heavy bottom pot or braising vessel (like a Dutch oven). Sauté the onion & peppers until translucent and softened. Add the spices to bloom until fragrant. Remove the aromatic base from the pot and set aside. While this is going, preheat the oven to 300°F/150°C.",
+        "Increase the heat to medium-high and add the cubed, prepped meat (if using beef cheeks or tough cuts, remove excess fat or large connective tissue chunks). Sprinkle with salt to season evenly. Sear the meat cubes until you get some browning (if you want deeper browning, you can do this in small batches to better sear each piece. Takes longer, but builds deeper flavor).",
+        "Return the sauteed aromatic base back to the pot. Add the diced tomatoes and then add just enough beef stock (or water) to barely submerge the meat. Add the bay leaf.",
+        "Cover and slide into the preheated 300°F/150°C oven to braise. After one hour of cooking, remove the lid to encourage browning and evaporation. Braise for 2-3 more hours or until the meat is completely tender and the cooking liquid has reduced.",
+        "Return the finished braise back to the stovetop. If the liquid hasn’t thickened into a saucy gravy, bring the pot back to a simmer, and then add a splash of cornstarch slurry until it reaches your desired texture. Taste and adjust seasoning if needed. Serve with your choice of rice and beans, tortillas, queso fresco, & avocado. Leftovers make amazing quesadillas and tortas."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

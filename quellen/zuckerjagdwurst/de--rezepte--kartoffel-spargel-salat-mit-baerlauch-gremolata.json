@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/kartoffel-spargel-salat-mit-baerlauch-gremolata",
+  "recipes": [
+    {
+      "name": "Kartoffel-Spargel-Salat mit Bärlauch-Gremolata",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/kartoffel-spargel-salat-mit-baerlauch-gremolata",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/kartoffel-spargel-salat-mit-baerlauch-gremolata#recipe-5508c3da-90e5-509b-b135-0f3ec1e59a86",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für den Salat:",
+        "300 g Kartoffeln",
+        "300 g Rote Bete Kugeln",
+        "250 g grüner Spargel",
+        "50 g gehobelte Mandeln",
+        "15 g Kokoschips",
+        "Olivenöl",
+        "Salz",
+        "Pfeffer",
+        "Für die Vinaigrette:",
+        "2 EL Olivenöl",
+        "1 TL körniger Senf",
+        "1 TL Agavendicksaft",
+        "1 TL Rotweinessig",
+        "Salz",
+        "Pfeffer",
+        "Für die Gremolata:",
+        "15 g Bärlauch",
+        "25 g Petersilie",
+        "1 Zitrone",
+        "0.25 TL Salz"
+      ],
+      "instructions": [
+        "Den Ofen auf 175 °C (Umluft) vorheizen. Kartoffeln und rote Bete jeweils vierteln und auf einem Backblech mit Olivenöl einreiben und mit Salz und Pfeffer würzen. Im Ofen ca. 30 Minuten rösten, bis sie gebräunt und gar sind. Nach 15 Minuten einmal wenden.",
+        "In der Zwischenzeit die trockenen Enden des grünen Spargels abbrechen und die Spargelstangen in mundgerechte Stücke schneiden. Gesalzenes Wasser in einem Topf zum Sieden bringen und den Spargel ca. 3–4 Minuten blanchieren, bis er bissfest ist und ihr ihn mit einer Gabel einstechen könnt.",
+        "Tipp: Gebt den Spargel nach dem Kochen in ein Eisbad. Dadurch wird der Siedeprozess beendet und der Spargel bleibt schön grün.",
+        "Mandeln in einer fettfreien Pfanne auf mittlerer Hitze ca. 3 Minuten rösten, dann die Kokoschips dazugeben und für eine weitere Minute rösten. Vorsicht, die Chips brennen schnell an. Die Mandel-Kokos-Mischung direkt aus der Pfanne nehmen und beiseitelegen.",
+        "Für die Vinaigrette Olivenöl, körnigen Senf, Agavendicksaft und Rotweinessig verrühren und mit Salz und Pfeffer abschmecken.",
+        "Für die Gremolata Bärlauch und Petersilie fein schneiden. Zitronenschale mit einem Sparschäler entfernen und in schmale Streifen schneiden. Die Kräuter und Zitronenschale mit Salz vermengen.",
+        "Rote Bete und Kartoffeln aus dem Ofen nehmen und mit dem Spargel in eine große Schüssel geben. Die Vinaigrette dazugeben und vermengen. Mit der Mandel-Kokos-Mischung und der Bärlauch-Gremolata servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

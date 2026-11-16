@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kalter-hund-bites",
+  "recipes": [
+    {
+      "name": "Vegane Kalter-Hund-Bites",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kalter-hund-bites",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kalter-hund-bites#recipe-28c6b301-68e2-502e-a436-76a3667d327f",
+      "authors": [
+        "Nele Henzler"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 16 Bites",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT140M",
+      "ingredients": [
+        "200 g vegane Butterkekse",
+        "100 g vegane Butter",
+        "50 ml Ahornsirup",
+        "2 EL brauner Zucker",
+        "Prise Salz",
+        "20 g Backkakao",
+        "60 g Rosinen",
+        "250 g vegane Vollmilchschokolade",
+        "(z. B. von Nomo)"
+      ],
+      "instructions": [
+        "Die veganen Butterkekse in einen Gefrierbeutel geben und vorsichtig mit einem Nudelholz zerkleinern. Wichtig ist, dass die Keksstücke dabei nicht zu klein werden und noch größere Stücke erhalten bleiben.",
+        "Für die Füllung vegane Butter, Ahornsirup, Zucker, Salz und Backkakao in einem Topf kurz erhitzen, bis alles geschmolzen ist und eine homogene Masse entsteht. Anschließend den Topf vom Herd nehmen und die Keksstücke sowie Rosinen in die Masse unterrühren.",
+        "Alles zusammen in eine flache mit Backpapier ausgelegte Auflaufform füllen und mit einem Löffel oder einem ähnlichen Gegenstand ordentlich plattdrücken. Dabei solltet ihr euch aber nicht zu lange Zeit lassen, da sich die Butter sonst wieder von den anderen Zutaten trennt. Danach für mindestens zwei Stunden oder über Nacht kalt stellen.",
+        "Wenn die Masse fest ist, die Schokolade über einem Wasserbad schmelzen und darüber gießen. Anschließend die Oberfläche nochmal glatt streichen und nach Belieben dekorieren. Danach nochmal für circa 20 Minuten kalt stellen, bis die Schokoladenschicht fest ist.",
+        "Die Bites nach Belieben in Stücke schneiden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

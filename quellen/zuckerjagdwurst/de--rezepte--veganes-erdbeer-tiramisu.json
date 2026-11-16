@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-erdbeer-tiramisu",
+  "recipes": [
+    {
+      "name": "Veganes Erdbeer-Tiramisu",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-erdbeer-tiramisu",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-erdbeer-tiramisu#recipe-8cb0537e-284a-5337-be5c-f3edb9289d5a",
+      "authors": [
+        "Rahel Würsching"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "Auflaufform (33x20 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT210M",
+      "ingredients": [
+        "Für die Cremeschicht:",
+        "6 EL (75 g) Kakaopulver",
+        "8 EL (75 ml) veganer Amaretto",
+        "25 EL (100 ml) starker Espresso",
+        "600 g vegane Schlagsahne",
+        "300 g veganer Quark",
+        "2 EL Puderzucker",
+        "16 g (1.5 EL) Bourbon-Vanillezucker",
+        "Zum Tränken:",
+        "8 EL (115 ml) veganer Amaretto (oder pflanzlichen Vanilledrink)",
+        "250 ml starker Espresso",
+        "Außerdem:",
+        "1 kg Erdbeeren",
+        "18 g (2 EL) Vanillezucker",
+        "500 g veganer Zwieback"
+      ],
+      "instructions": [
+        "Kakaopulver mit veganem Amaretto und starkem Espresso verrühren. Falls nötig, noch etwas Kakaopulver oder Espresso hinzufügen, bis eine cremige Konsistenz entsteht.",
+        "Vegane Schlagsahne steif schlagen und gleichmäßig auf zwei Schüsseln aufteilen. Die Kakaomischung in eine der Schüssel geben und vorsichtig unterheben – das ist unsere dunkle Creme. Veganen Quark, Puderzucker und Vanillezucker zur zweiten Sahneschüssel geben und verrühren – das ist unsere helle Creme.",
+        "Zum Tränken veganen Amaretto oder pflanzlichen Vanilledrink zum starken Espresso geben, verrühren und beiseitestellen.",
+        "Erdbeeren waschen und entstielen. Eine Hälfte der Beeren mit Vanillezucker zu einer Soße pürieren. Die andere Hälfte der Erdbeeren in Scheiben schneiden.",
+        "Eine Auflaufform (33x20 cm) nehmen. Den veganen Zwieback nacheinander kurz in die Amaretto-Espresso-Mischung tunken und dann in einer Schicht auf dem Boden der Auflaufform verteilen. Darauf die Hälfte der hellen Creme verteilen und glatt streichen. Mit einer Schicht Erdbeerscheiben bedecken und darüber ein Viertel der Erdbeersoße verteilen. Nun wieder mit einer Lage eingetunkten Zwieback beginnen und dieses Mal die Hälfte der dunklen Creme darauf verteilen und glatt streichen. Erneut mit Erdbeerscheiben und einem Teil der Erdbeersoße bedecken. Die Schicht aus Zwieback, dunkler Creme, Erdbeerscheiben und -soße noch einmal wiederholen (Achtung, es sollte noch etwas Erdbeersoße übrig bleiben!). Mit einer letzten Schicht Zwieback bedecken.",
+        "Für den Abschluss die restliche helle Creme auf dem Tiramisu verstreichen. Die restliche Erdbeersoße in Klecksen darauf verteilen und mit dem Löffelstiel oder einem Holzspieß vorsichtig in der Creme verwirbeln, sodass ein schönes Muster entsteht.",
+        "Das Tiramisu mindestens 3 Stunden, aber noch besser über Nacht im Kühlschrank ziehen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

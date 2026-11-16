@@ -1,0 +1,42 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/mediterranean-bento-box-lunch",
+  "recipes": [
+    {
+      "name": "Mediterranean Bento Box",
+      "source_url": "https://app.cookwell.com/recipe/mediterranean-bento-box-lunch",
+      "recipe_id": "https://app.cookwell.com/recipe/mediterranean-bento-box-lunch",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1-2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Chicken Breasts, 1-2",
+        "Salt, a sprinkle",
+        "Za'atar, a spoonful",
+        "Cooking oil, a drizzle",
+        "Pita Bread",
+        "Hummus",
+        "Havarti",
+        "Hot & sweet peppers",
+        "Olives",
+        "Lettuce",
+        "Tomatoes"
+      ],
+      "instructions": [
+        "Butterfly or pound thin a chicken breast and then add a sprinkle of salt to both sides. Sprinkle on the za’atar all over to evenly cover the meat. To cook, add a drizzle of oil to a hot pan and then lay the chicken breast down. Sear on one side for about 3 minutes to develop color and then flip it over to sear the other side. Let rest, then slice it up and you’re ready to pack a lunch.",
+        "Add your sliced chicken to the bento box. Pack in your flat breads next to your chicken. If your box has two layers, add it to the top one so it can be reheated separately. To the other bento box compartments., add some hot and sweet peppers, marinated olives, Havarti, hummus, dill pickles, and lettuce, for example."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

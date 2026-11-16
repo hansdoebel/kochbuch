@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-flammkuchen-elsaesser-art",
+  "recipes": [
+    {
+      "name": "Veganer Flammkuchen Elsässer Art",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-flammkuchen-elsaesser-art",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-flammkuchen-elsaesser-art#recipe-981edeca-48b5-589a-986a-04b11e5df688",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Flammkuchen (2 Portionen)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT35M",
+      "ingredients": [
+        "1 veganer Flammkuchenteig (Dinkel Flammkuchenteig von Tante Fanny)",
+        "150 g vegane Crème fraîche",
+        "0.5 Zitrone (Saft)",
+        "1 Prise Muskatnuss",
+        "1 große Zwiebel",
+        "150 g Räuchertofu (oder veganer Bacon)",
+        "2 EL Sojasoße",
+        "Pflanzenöl zum Braten",
+        "Schnittlauch zum Servieren",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Den Ofen auf 220°C (Ober- und Unterhitze) vorheizen. Ein Backblech mit in den Ofen schieben, sodass dieses schon vorwärmt.",
+        "Vegane Crème fraîche mit Zitronensaft, einer Prise Muskatnuss, Salz und Pfeffer abschmecken.",
+        "Die große Zwiebel schälen, halbieren und in Scheiben schneiden (wer möchte, kann auch mehr Zwiebeln schneiden). Räuchertofu in feine Streifen schneiden.",
+        "Pflanzenöl in einer Pfanne erhitzen und die Räuchertofu-Streifen ca. 2-3 Minuten scharf anbraten. Danach Sojasoße hinzugeben und noch 1-2 Minuten weiterbraten.",
+        "Den veganen Dinkel Flammkuchenteig mit dem Backpapier aufrollen, mit der gewürzten Crème fraîche bestreichen und mit Zwiebelscheiben und Räuchertofu belegen. Bei 220°C ca. 15 Minuten auf dem schon erhitzen Backblech backen.",
+        "In der Zwischenzeit den Schnittlauch waschen und in feine Röllchen schneiden. Den Flammkuchen aus den Ofen nehmen, mit Schnittlauch bestreuen, nach Wunsch erneut salzen und pfeffern und direkt servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

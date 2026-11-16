@@ -1,0 +1,64 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-cupcakes-gefuellt-mit-eis",
+  "recipes": [
+    {
+      "name": "Vegane Cupcakes gefüllt mit Eis",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-cupcakes-gefuellt-mit-eis",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-cupcakes-gefuellt-mit-eis#recipe-9d288b45-23be-532c-84b1-8fead0aa717d",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Cupcakes",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT135M",
+      "ingredients": [
+        "12 Papierförmchen",
+        "Cupcakes",
+        "225 g Mehl",
+        "125 g Zucker",
+        "8 g Backpulver",
+        "8 g Vanillezucker",
+        "250 ml Sprudelwasser",
+        "50 ml pflanzliches Öl (Raps- oder Sonnenblumenöl)",
+        "8 g Kakao",
+        "12 Muffinförmchen aus Papier",
+        "Eis & Sahne",
+        "200 ml vegane Sahne zum Aufschlagen (über Nacht im Kühlschrank gelagert)",
+        "8 g Sahnesteif",
+        "8 g Vanillezucker",
+        "200 ml veganes Schokoladen- & Vanilleeis (z.B. von LUVE)",
+        "Schokoladenüberzug",
+        "200 g dunkle Schokolade",
+        "2 EL Kokosöl",
+        "2-3 EL bunte Streusel"
+      ],
+      "instructions": [
+        "Cupcakes",
+        "Mehl, Zucker, Backpulver und Vanillezucker in einer Schüssel vermischen.",
+        "Sprudelwassel und pflanzliches Öl hinzugeben und nur noch kurz unterrühren.",
+        "Den Ofen auf 180°C Umluft vorheizen. Sechs der Papier-Förmchen mit je 50 g hellen Teig befüllen.",
+        "Den Kakao zu dem restlichen Teig in die Schüssel geben und mit einem Schneebesen unterrühren. Die sechs restlichen Förmchen ebenfalls mit je 50 g dunklem Teig befüllen.",
+        "Die Muffins auf ein Backblech stellen und bei 180°C Umluft auf mittlerer Schiene für 15 Minuten backen.",
+        "Im Anschluss die Cupcakes komplett abkühlen lassen.",
+        "Eis & Sahne",
+        "Die vegane Sahne mit dem Sahnesteif und dem Vanillezucker steif schlagen und direkt wieder kalt stellen.",
+        "Wenn die Cupcakes komplett abgekühlt sind, mit einem Teelöffel den Teig in der Mitte herausnehmen, sodass Platz für etwa 1 EL veganes Eis entsteht.",
+        "Die Cupcakes mit dem Eis befüllen und die Sahne mit Hilfe eines Spritzbeutels auf den Cupcakes platzieren. Im Anschluss die Cupcakes direkt in den Tiefkühler stellen und etwa 30 Minuten warten.",
+        "Schokoladenüberzug",
+        "Für den Schokoladenüberzug die dunkle Schokolade in einem Wasserbad erwärmen und das Kokosöl unterrühren.",
+        "Die warme Schokolade etwa 15 Minuten abkühlen lassen und dann in ein tiefes Gefäß füllen, in welche man die Cupcakes tunken kann.",
+        "Die Cupcakes einzeln aus dem Tiefkühler nehmen und in die flüssige Schokolade tunken. Direkt im Anschluss mit Streuseln dekorieren und wieder für min. 30 Minuten in den Tiefkühler stellen.",
+        "Etwa 5-10 Minuten vor dem Servieren aus dem Tiefkühler nehmen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

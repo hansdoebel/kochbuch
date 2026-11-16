@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-pasta-mit-veganem-ricotta-spargel",
+  "recipes": [
+    {
+      "name": "Schnelle Pasta mit veganem Ricotta und Spargel",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-pasta-mit-veganem-ricotta-spargel",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-pasta-mit-veganem-ricotta-spargel#recipe-24dfffff-a05f-5e8b-9268-9cac4bef65dd",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für den veganen Ricotta:",
+        "250 g Cashewkerne",
+        "1 Zitrone (Saft)",
+        "80 ml Wasser",
+        "2 EL Hefeflocken",
+        "1 Knoblauchzehe",
+        "Salz",
+        "Pfeffer",
+        "Für die Pasta:",
+        "500 g grüner Spargel",
+        "500 g Bandnudeln",
+        "10 g frische Petersilie",
+        "veganer Parmesan",
+        "Salz",
+        "Pfeffer",
+        "Pflanzenöl"
+      ],
+      "instructions": [
+        "Für den Cashew-Ricotta die Cashews in reichlich Wasser etwa 10 Minuten kochen.",
+        "In der Zwischenzeit den grünen Spargel waschen, die holzigen Enden kürzen und die Spargelstangen in grobe Stücke schneiden. Pflanzenöl in einer Grill- oder Bratpfanne erhitzen und den Spargel circa 5–6 Minuten anbraten, bis er gar und leicht gebräunt ist.",
+        "Die gekochten Cashews, Zitronensaft, Wasser, Hefeflocken und die Knoblauchzehe in einen Standmixer geben oder mit einem Pürierstab zu einer cremigen Masse verarbeiten. Nach Wunsch mehr Wasser dazugeben, bis die gewünschte Konsistenz erreicht ist: Er sollte cremig und leicht stückig sein. Anschließend kräftig mit Salz und Pfeffer abschmecken und optional noch mehr Hefeflocken dazugeben.",
+        "Gesalzenes Wasser in einem großen Topf zum Kochen bringen und die Pasta nach Packungsanleitung zubereiten. Vor dem Abgießen circa 250 Milliliter vom Kochwasser abschöpfen und beiseite stellen.",
+        "Die gekochte Pasta mit dem Cashew-Ricotta in einer großen Schüssel vermengen. Dabei so viel Kochwasser wie nötig dazugeben, bis die Soße leicht sämig wird und die Nudeln ummantelt. Mit veganem Parmesan, frischer Petersilie und dem gegrillten Spargel servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

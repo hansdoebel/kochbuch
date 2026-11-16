@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/selbstgemachter-pfirsich-eistee-mit-limetten",
+  "recipes": [
+    {
+      "name": "Selbstgemachter Pfirsich-Eistee",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/selbstgemachter-pfirsich-eistee-mit-limetten",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/selbstgemachter-pfirsich-eistee-mit-limetten#recipe-748f8f21-b4fd-5266-bc82-3be53d128678",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1.5 Liter",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "3 Teebeutel schwarzer Tee",
+        "1,5 Liter heißes Wasser",
+        "FÜR DEN PFIRSICH-SIRUP",
+        "4 Pfirsiche",
+        "125 g Zucker",
+        "250 ml Wasser",
+        "AUSSERDEM",
+        "1-2 Limetten",
+        "2 Pfirsiche zum Servieren",
+        "Minze zum Servieren"
+      ],
+      "instructions": [
+        "Den Schwarztee in heißem Wasser nach den Angaben auf der Packung ziehen lassen. Die Kochbeutel entfernen und den Tee anschließend abkühlen lassen.",
+        "Die Pfirsiche für den Sirup waschen, entkernen und in Stücken schneiden. Pfirsichstücke, Zucker und Wasser in einen kleinen Topf geben. Das ganze einmal aufkochen lassen, danach die Hitze reduzieren und bei mittlerer Hitze ca. 30 Minuten köcheln lassen, bis alles eindickt. Den Topf vom Herd nehmen und abkühlen lassen.",
+        "Den Sirup durch ein Sieb passieren, so dass die Stückchen im Sieb hängen bleiben. Den Sirup in den Tee geben und gut vermengen. Nun den Saft der Limetten dazugeben - je nach Geschmack könnt ihr dafür eine oder zwei Limetten nehmen.",
+        "Den Pfirsich-Eistee nun kühlen und nach Wunsch mit Eiswürfeln, frischen Pfirsichscheiben und Minze in Gläsern servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

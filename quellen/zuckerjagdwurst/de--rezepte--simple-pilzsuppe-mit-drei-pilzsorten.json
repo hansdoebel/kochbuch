@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/simple-pilzsuppe-mit-drei-pilzsorten",
+  "recipes": [
+    {
+      "name": "Simple Pilzsuppe mit drei Pilzsorten",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/simple-pilzsuppe-mit-drei-pilzsorten",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/simple-pilzsuppe-mit-drei-pilzsorten#recipe-6b49b448-8768-51d5-a4df-d8cbe2629825",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "300 g Champignons",
+        "200 g Kräuterseitlinge",
+        "20 g getrocknete Steinpilze",
+        "2 Zwiebeln",
+        "1 Knoblauchzehe",
+        "3 Kartoffeln",
+        "100 ml veganer Weißwein",
+        "100 ml vegane Kochsahne",
+        "1 TL getrockneter Oregano",
+        "5 Zweige Thymian",
+        "1 l Wasser",
+        "Pflanzenöl zum Braten"
+      ],
+      "instructions": [
+        "Getrocknete Steinpilze in einer Schüssel mit ca. 500 ml heißem Wasser übergießen und mind. 30 Minuten ziehen lassen. Anschließend über ein Sieb abgießen, aber die Brühe unbedingt auffangen.",
+        "Kartoffeln, Zwiebeln und Knoblauch schälen und klein schneiden. Champignons und Kräuterseitlinge ebenfalls klein schneiden.",
+        "Pflanzenöl in einem großen Topf erhitzen und zunächst Schalotten und Knoblauch ca. 2-3 Minuten anbraten, bis die Zwiebeln glasig werden. Anschließend Kartoffeln, Champignons, Kräuterseitlinge, eingeweichte Steinpilze, Thymian- und Oreganoblätter dazugeben, mit Salz und Pfeffer würzen und ca. 10 Minuten anbraten.",
+        "Mit Weißwein, der aufgegangenen Steinpilzbrühe und ca. 500 ml Wasser auffüllen und ca. 15 Minuten köcheln lassen, bis die Kartoffeln weich sind.",
+        "Die Pilzsuppe glatt pürieren, pflanzliche Sahne unterrühren, nochmal kräftig mit Salz und Pfeffer abschmecken. Ihr könnt an der Stelle auch noch mehr Wasser dazugeben, bis die gewünschte Konsistenz erreicht ist.",
+        "Wer mag, kann auch ein paar der Pilze vorher beiseitelegen, klein schneiden und in einer Pfanne mit etwas Pflanzenöl anbraten, bis sie gut gebräunt sind. Mit Salz und Pfeffer würzen und zum Servieren auf die fertige Pilzsuppe geben."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

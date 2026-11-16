@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nussecken",
+  "recipes": [
+    {
+      "name": "Vegane Nussecken",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nussecken",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nussecken#recipe-75d22f52-e242-5bb7-ae8b-9f98d29e537d",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 24 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "Für den Teig:",
+        "400 g Weizenmehl (Type 405)",
+        "8 g (2 TL) Backpulver",
+        "125 g Zucker",
+        "8 g (1.5 TL) Vanillezucker",
+        "1 Prise Salz",
+        "175 g vegane Butter",
+        "2 EL Sojamehl",
+        "4 EL Wasser",
+        "Für die Nuss-Mischung:",
+        "370 g Aprikosenmarmelade",
+        "50 g vegane Butter",
+        "100 ml Wasser",
+        "75 g Zucker",
+        "10 g Zimt",
+        "200 g gehackte Haselnüsse",
+        "200 g gehackte Mandeln",
+        "Außerdem:",
+        "200 g vegane Zartbitterschokolade"
+      ],
+      "instructions": [
+        "In einer Schüssel Mehl, Backpulver, Zucker, Vanillezucker und Salz vermischen. Das Sojamehl mit dem Wasser verrühren und hinzugeben. Die vegane Butter ebenfalls dazugeben und zu einem homogenen Teig kneten. Wenn der Teig zu fest ist, etwas mehr kaltes Wasser unterkneten. Den Teig 30 Minuten im Kühlschrank ruhen lassen.",
+        "In der Zwischenzeit bereiten wir die Nuss-Mischung zu. Dafür in einem Topf Aprikosenmarmelade, vegane Butter, Wasser, Zucker, Zimt, gehackte Haselnüsse und Mandeln verrühren und kurz aufkochen. Ständig rühren, damit nichts anbrennt. Die Mischung vom Herd nehmen, etwas abkühlen lassen und beiseitestellen.",
+        "Den Ofen auf 180 °C (Umluft) vorheizen. Ein Backblech mit Backpapier belegen, den Teig darauf verteilen und gleichmäßig ausrollen oder andrücken, sodass er ebenmäßig auf dem Backblech verteilt ist. Die Nuss-Mischung auf den Teig geben und glattstreichen.",
+        "Die Nussecken 20–25 Minuten backen und ggf. mit Alufolie bedecken. Anschließend abkühlen lassen und erst in Quadrate und dann in Dreiecke schneiden.",
+        "Die Schokolade im Wasserbad schmelzen und die Nussecken hineintunken oder damit verzieren. Gut abtropfen lassen und auf einem Kuchengitter oder auf Backpapier trocknen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

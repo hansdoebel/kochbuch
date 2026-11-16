@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kartoffelpuffer-mit-apfelmus",
+  "recipes": [
+    {
+      "name": "Vegane Kartoffelpuffer mit Apfelmus",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kartoffelpuffer-mit-apfelmus",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kartoffelpuffer-mit-apfelmus#recipe-de38cf31-9f1f-59ec-a506-73b67456eebb",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Kartoffelpuffer",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Kartoffelpuffer:",
+        "1 kg festkochende Kartoffeln",
+        "2 Zwiebeln",
+        "100 g Reismehl / Weizenmehl Type 405",
+        "50 g Kichererbsenmehl oder Sojamehl",
+        "Muskat",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "200 g Apfelmus",
+        "vegane Butter"
+      ],
+      "instructions": [
+        "Kartoffeln und Zwiebeln schälen und fein reiben. Ein sauberes Küchentuch nehmen und die geriebenen Kartoffeln und Zwiebeln darin ausdrücken, sodass möglichst viel Flüssigkeit austritt.",
+        "In einer großen Schüssel Kartoffeln, Zwiebeln, Reismehl, Kichererbsenmehl, Muskat, Salz und Pfeffer vermengen und gut mit den Händen kneten.",
+        "In einer großen Pfanne vegane Butter erhitzen und mit den Händen kleine Patties formen. Diese nach und nach in der Pfanne zu knusprigen Puffern braten, bis beide Seiten knusprig braun sind. Dafür immer wieder etwas Butter nachgeben. Die Kartoffelpuffer mit Apfelmus servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

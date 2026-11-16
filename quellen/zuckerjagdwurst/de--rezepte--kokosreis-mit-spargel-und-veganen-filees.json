@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/kokosreis-mit-spargel-und-veganen-filees",
+  "recipes": [
+    {
+      "name": "Kokosreis mit Spargel und veganen Filees",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/kokosreis-mit-spargel-und-veganen-filees",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/kokosreis-mit-spargel-und-veganen-filees#recipe-b6e9dd93-6e6c-5901-a7cc-20f0c3ebe3ab",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "30 Minuten",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für den Kokosreis:",
+        "150 g Jasminreis",
+        "150 ml Kokosmilch",
+        "150 ml Wasser",
+        "1 Prise Salz",
+        "Für die Ingwer-Sojasoße:",
+        "15 g Ingwer",
+        "1 Knoblauchzehe",
+        "2 EL Sesamöl",
+        "0.5 TL getrocknete Chiliflocken",
+        "2 EL Agavendicksaft",
+        "50 ml Sojasoße",
+        "100 ml Wasser",
+        "1 EL Reisessig",
+        "1 Limette (Saft)",
+        "1-2 EL Speisestärke",
+        "Außerdem:",
+        "400 g grüner Spargel",
+        "300 g Veggie Filees (z. B. von Fisch vom Feld)",
+        "1 Limette",
+        "Zucker",
+        "Salz",
+        "Kokosraspeln",
+        "Sesam"
+      ],
+      "instructions": [
+        "Den Jasminreis zunächst mehrmals waschen. Anschließend mit Kokosmilch, Wasser und einer Prise Salz in einen Topf geben, vermengen und bei kleiner Hitze ca. 20 Minuten köcheln lassen, bis der Reis gar ist. Sollte der Reis nach der Zeit nicht gar sein, etwas mehr Wasser dazugeben und weiterköcheln lassen, bis die komplette Flüssigkeit aufgesogen wurde und der Reis fertig ist. Im Anschluss einen Deckel auf den Topf geben und den Reis nochmals 10 Minuten stehen lassen.",
+        "Während der Reis gart, die restlichen Zutaten zubereiten. Für die Ingwer-Sojasoße den Ingwer mit einem Teelöffel schälen und fein hacken oder reiben. Den Knoblauch ebenfalls schälen und fein hacken oder durch eine Knoblauchpresse drücken.",
+        "Sesamöl in einem kleinen Topf erhitzen und zunächst Ingwer darin ca. 2-3 Minuten anschwitzen. Knoblauch und Chiliflocken hinzugeben und 1 weitere Minute anschwitzen. Agavendicksaft, Sojasoße, Wasser, Reisessig und den Saft einer Limette dazugeben und verrühren. Die Soße aufkochen lassen und ca. 15 Minuten auf niedriger Stufe köcheln lassen. Dabei immer wieder verrühren und abschmecken. Zum Schluss etwas von der Soße abschöpfen und die Speisestärke darin glatt rühren. Die Stärkemischung unter Rühren zur Soße geben und weiterköcheln lassen, bis diese andickt.",
+        "Grünen Spargel waschen und die holzigen Enden entfernen. Wasser in einem Topf mit einer Prise Zucker und Salz zum Kochen bringen. Den Spargel ins Wasser geben und ca. 5-6 Minuten köcheln lassen. Danach aus dem Topf nehmen und mit kaltem Wasser abschrecken.",
+        "Pflanzenöl in einer Pfanne erhitzen und die pflanzlichen Filees darin auf mittlerer Hitze ca. 8 - 10 Minuten von beiden Seiten knusprig und goldbraun braten. Dabei mehrmals wenden.",
+        "Den Kokosreis mit grünem Spargel und den veganen Filees, der Ingwer-Sojasoße und Limettenspalten servieren. Mit Kokosraspeln und Sesam bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

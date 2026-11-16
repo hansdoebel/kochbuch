@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-granola-cups-mit-heidelbeerjoghurt",
+  "recipes": [
+    {
+      "name": "Schnelle Granola-Cups mit Heidelbeerjoghurt",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-granola-cups-mit-heidelbeerjoghurt",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-granola-cups-mit-heidelbeerjoghurt#recipe-d7124421-f4c3-5290-8e38-1407336d8c7a",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Granola-Cups",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Granola-Cups",
+        "1.5 Bananen",
+        "100 g Agavendicksaft",
+        "30 g gehackte Haselnüsse",
+        "30 g gehackte Mandeln",
+        "100 g kernige Haferflocken",
+        "1 Teelöffel Vanilleextrakt",
+        "Toppings",
+        "250 g veganen Joghurt zB Sojade Heidelbeere",
+        "1 Birne, Apfel, Beeren ..."
+      ],
+      "instructions": [
+        "Backofen auf 180° C Umluft vorheizen.",
+        "In einer Schüssel die Bananen mit einer Gabel zerdrücken.",
+        "Nun alle restlichen Zutaten hinzu geben und alles gut vermischen.",
+        "Sechs Mulden einer Muffinform mit Öl einfetten und den Granolamix in die Förmchen füllen.",
+        "Mit einem Teelöffel den Granola-Mix etwas festdrücken und in der Mitte eine Mulde bilden.",
+        "Nun für 30 Minuten backen, bis sie etwas Farbe bekommen.",
+        "Anschließend die Cups abkühlen lassen, aus der Muffinform lösen und mit Joghurt & Toppings befüllen!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

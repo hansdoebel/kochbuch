@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/macaroni-salad-with-lentil-quesadillas-592",
+  "recipes": [
+    {
+      "name": "Macaroni Salad with Lentil Quesadillas",
+      "source_url": "https://www.pickuplimes.com/recipe/macaroni-salad-with-lentil-quesadillas-592",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT15M",
+      "cook_time": "PT25M",
+      "total_time": "PT40M",
+      "ingredients": [
+        "1 cup dry green lentils",
+        "3 Tbsp canned crushed tomatoes",
+        "2 Tbsp burrito seasoning",
+        "4 large soft flour tortilla",
+        "1 Tbsp vegetable oil",
+        "1 cup whole wheat macaroni",
+        "1 cup frozen green peas",
+        "1 medium carrot",
+        "¾ cup unsweetened soy yogurt",
+        "2 Tbsp minced onion",
+        "2 Tbsp burrito seasoning",
+        "½ vegetable bouillon cube",
+        "1 pinch ground black pepper",
+        "1 cup canned diced tomatoes",
+        "¼ medium onion",
+        "1 garlic clove",
+        "1 pinch salt",
+        "1 pinch ground black pepper"
+      ],
+      "instructions": [
+        "Cook the lentils in a saucepan according to the package instruction.",
+        "In a large pot, cook the macaroni according to the package instructions. In the last 2 minutes of cooking, add the green peas.",
+        "When the pasta is al dente, drain and transfer to a large bowl.",
+        "To the same bowl, add the carrot, yogurt, onion, burrito seasoning, bouillon, and pepper. Mix.",
+        "To make the quesadillas, check to ensure the lentils are fully cooked. When they are soft through into the centre, drain well.",
+        "Transfer the drained lentils to a large bowl, along with the crushed tomato, and burrito spice. Use a fork or potato masher to mash until roughly puréed.",
+        "Spread the lentil mixture over each half of the tortilla wraps. Fold in half.",
+        "Heat half of the oil in a large pan over medium heat. Place two of the quesadillas in the pan and cook for 1 to 2 minutes on each side, or until golden. Transfer to a plate and repeat with the remaining quesadillas.",
+        "To make the quick salsa, add the tomatoes, onion, garlic, salt, and pepper to a bowl. Mix.",
+        "Cut the quesadillas into triangles and serve with the salsa and macaroni salad. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Our large tortillas measure about 10 inches (25 cm) in diameter.",
+    "Storage Store the macaroni salad and quesadillas separately in airtight container s in the fridge for up to 3 days."
+  ]
+}

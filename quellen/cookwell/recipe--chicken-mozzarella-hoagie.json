@@ -1,0 +1,47 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/chicken-mozzarella-hoagie",
+  "recipes": [
+    {
+      "name": "Chicken & Mozzarella Hoagie",
+      "source_url": "https://app.cookwell.com/recipe/chicken-mozzarella-hoagie",
+      "recipe_id": "https://app.cookwell.com/recipe/chicken-mozzarella-hoagie",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 hoagie",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "Bell peppers, 1/2",
+        "Onions, 1/2",
+        "Neutral oil, 5 g",
+        "Salt, to taste",
+        "Chicken Breasts, 225 g",
+        "Salt, 2 g",
+        "Granulated garlic, 1 g",
+        "Aleppo pepper, 1 g",
+        "Neutral oil, 5 g",
+        "Hoagie rolls, 1",
+        "Low-moisture mozzarella, 130 g",
+        "Roma tomatoes, 1",
+        "Mayonnaise, a spoonful",
+        "Dried oregano, a sprinkle"
+      ],
+      "instructions": [
+        "Heat a skillet over low heat with a drizzle of oil. Add the vegetables with a pinch of salt and sweat them slowly for about 30 minutes, stirring occasionally, until they're soft, sweet, and lightly caramelized. Set aside when done.",
+        "Meanwhile, thinly slice the chicken breast. Heat a griddle or large skillet over medium-high heat and add the oil. Add the chicken, season with salt, dried minced garlic, and Aleppo pepper, then chop it into small pieces with a spatula as it sears until browned and cooked through.",
+        "Pile the cooked peppers and onions over the chicken. Cover everything with the shredded mozzarella. Place the hoagie roll, cut-side down, over the cheese for a minute or two, allowing the bread to steam while the cheese melts.",
+        "Spread a little mayonnaise inside the steamed hoagie roll. Add the shredded lettuce and sliced tomato. Carefully transfer the cheesy chicken mixture into the roll, and finish with a sprinkle of dried oregano. Wrap the sandwich tightly in sandwich paper or foil. Let it rest for 1–2 minutes before slicing in half and serving."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

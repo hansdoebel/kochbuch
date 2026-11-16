@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/tropical-mango-coconut-overnight-oats-115",
+  "recipes": [
+    {
+      "name": "Tropical Mango Coconut Overnight Oats",
+      "source_url": "https://www.pickuplimes.com/recipe/tropical-mango-coconut-overnight-oats-115",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT06H05M",
+      "ingredients": [
+        "½ mango",
+        "½ cup rolled oats",
+        "½ cup unsweetened coconut milk beverage",
+        "1 Tbsp whole chia seeds",
+        "1 Tbsp almond butter",
+        "1 Tbsp maple syrup",
+        "½ tsp pure vanilla extract",
+        "¼ cup unsweetened coconut yogurt",
+        "½ Tbsp almond butter"
+      ],
+      "instructions": [
+        "Add all the ingredients to a mason jar or airtight container.",
+        "Mix to combine. Add a lid onto the container, and let sit overnight in the fridge.",
+        "The next morning, add your desired toppings and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium .",
+    "Storage Keep in an airtight container in the fridge for up to 2 days."
+  ]
+}

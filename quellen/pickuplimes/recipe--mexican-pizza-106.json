@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/mexican-pizza-106",
+  "recipes": [
+    {
+      "name": "Mexican Pizza",
+      "source_url": "https://www.pickuplimes.com/recipe/mexican-pizza-106",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 pizzas",
+      "prep_time": "PT10M",
+      "cook_time": "PT20M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "1 tsp vegetable oil",
+        "3 garlic clove",
+        "1 cup veggie ground",
+        "2 Tbsp Mexican seasoning",
+        "2 Tbsp water",
+        "2 medium ready-made pizza crust",
+        "5 Tbsp tomato paste",
+        "1 bell pepper",
+        "½ small red onion",
+        "¾ cup cherry tomatoes",
+        "⅓ cup canned corn",
+        "¼ cup pickled jalapeños",
+        "1 avocado",
+        "1 stalk green onion",
+        "¼ cup unsweetened soy yogurt",
+        "2 Tbsp vegan mayonnaise",
+        "2 Tbsp fresh cilantro",
+        "¼ tsp salt"
+      ],
+      "instructions": [
+        "Add the oil to a small pan over high heat. When hot, add the garlic and cook for 2 minutes.",
+        "Add the veggie ground, Mexican seasoning, and water. Cook for another 2 minutes.",
+        "Preheat the oven to 400°F (200°C)*. Lightly brush the top of the pizza crusts with some (optional) oil, then spread over the tomato paste.",
+        "Divide the veggie ground mixture over the pizzas, and add the bell pepper, onion, tomatoes, corn, and jalapeños. Bake in the centre rack of the oven for 12 to 15 minutes, or until the crust is lightly golden.",
+        "Meanwhile, make cilantro sauce by mixing the ingredients in a small bowl.",
+        "When the pizza is done, top it with dollops of the yogurt sauce, some sliced avocado, and sliced green onions. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † This plant-based product has a dry texture and resembles already-cooked ground meat. * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.recipetineats.com/rice-pilaf/",
+  "recipes": [
+    {
+      "name": "Rice Pilaf with Nuts and Dried Fruit",
+      "source_url": "https://www.recipetineats.com/rice-pilaf/",
+      "recipe_id": "https://www.recipetineats.com/rice-pilaf/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "5"
+      ],
+      "prep_time": "PT10M",
+      "cook_time": "PT20M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "1/3 cup pistachios (, shelled)",
+        "1/3 cup slivered almonds",
+        "2 tbsp (30g) unsalted butter (or olive oil)",
+        "2 garlic cloves (, minced)",
+        "1/2 small onion (, finely chopped)",
+        "1 cup (180g) uncooked basmati rice (, (Note 1))",
+        "1 3/4 cups (435ml) vegetable or chicken broth / stock",
+        "1/2 cup dried sultanas or raisins",
+        "1/4 cup dried apricots",
+        "Finely chopped parsley (, optional garnish)",
+        "1/4 tsp ground cinnamon",
+        "1/4 tsp ground cardamom",
+        "1/8 tsp ground cumin",
+        "1/4 tsp black pepper"
+      ],
+      "instructions": [
+        "Place dry, oil free large saucepan or small skillet over medium high heat.",
+        "Add almonds and pistachios. Toast lightly, shaking the pan, until the nuts smell amazing. Remove immediately.",
+        "Melt butter in a large saucepan over medium high heat. Add garlic and onion, saute until translucent.",
+        "Add rice and stir for 30 seconds or until mostly translucent.",
+        "Add Spices, stir. Add broth, sultanas and apricots, stir.",
+        "Cover with lid, bring to simmer then immediately turn heat down to medium low (low for strong ovens).",
+        "Cook for 15 minutes or until liquid is absorbed (tilt pot to check). Then remove pot from the stove (still covered) and leave, undisturbed, for 10 minutes.",
+        "Remove lid, use fork to fluff rice. Add most of the nuts, toss.",
+        "Transfer to serving bowl. Garnish with remaining nuts and a little sprinkle of parsley if using. Serve!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. Rice – Basmati is ideal for pilaf because it’s got a light fragrance that’s fitting with the spice flavours. However, any white rice can be used in this recipe. Long grain, jasmine and medium grain rice will yield the fluffiest rice grains. Short grain white rice and sushi rice will also work fine but will be a bit stickier (that’s the characteristic of those rice grains). This recipe is also fantastic with brown rice, add 1/2 cup water. It will need to simmer for around 40 minutes. 2. Dried fruit – Use anything you like here. I like using apricots for a touch of colour, and raisins or sultanas because the flavour melds in nicely with the rice. Cranberries / craisins also work well but be aware that they provide a sharper pop of flavour because they are tart. Goji berries would also be great. 3. Nuts – use any nuts you want. Almonds and pistachios are on theme for a Middle Eastern style rice pilaf. For more of a traditional Thanksgiving or Christmas theme, try pecans plus / or almonds. Walnuts are also great! For non nut options , use sunflower seeds or pepitas/pumpkin seeds. Nutrition Facts Rice Pilaf with Nuts and Dried Fruit Amount Per Serving Calories 311 Calories from Fat 90 % Daily Value* Fat 10g 15% Saturated Fat 3g 19% Cholesterol 12mg 4% Sodium 309mg 13% Potassium 420mg 12% Carbohydrates 50g 17% Fiber 3g 13% Sugar 4g 4% Protein 6g 12% Vitamin A 400IU 8% Vitamin C 8.1mg 10% Calcium 51mg 5% Iron 1.5mg 8% * Percent Daily Values are based on a 2000 calorie diet."
+  ]
+}

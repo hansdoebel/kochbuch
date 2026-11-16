@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kirsch-vanille-milchshake",
+  "recipes": [
+    {
+      "name": "Veganer Kirsch-Vanille-Milchshake",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kirsch-vanille-milchshake",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kirsch-vanille-milchshake#recipe-90fc0354-050e-5164-b5a3-10d33c8aa814",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Drinks",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "4 Kugeln Vanilleeis",
+        "200 ml pflanzliche Milch",
+        "250 g Kirschen",
+        "100 ml vegane Sahne zum Aufschlagen",
+        "1 Packung Sahnesteif",
+        "2-3 EL vegane Schokosoße"
+      ],
+      "instructions": [
+        "Die vegane Sahne in ein hohes Gefäß geben und zusammen mit dem Sahnesteif steif schlagen. Anschließend ab damit in den Kühlschrank.",
+        "Die Kirschen waschen, den Stiel und den Kern entfernen.",
+        "In einem Mixer die Kugeln Vanilleeis, pflanzlichen Milch und die entkernten Kirschen geben. Gut durchmixen.",
+        "Die Ränder von zwei hohen Gläsern nehmen und mit Schokoladensoße verzieren.",
+        "Die Gläser mit dem Milchshake auffüllen, mit Sahne toppen und mit mehr Schokosoße und einer Kirsche dekorieren. Direkt austrinken!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

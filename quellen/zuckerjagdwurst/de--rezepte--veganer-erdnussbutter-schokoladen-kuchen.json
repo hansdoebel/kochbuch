@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-erdnussbutter-schokoladen-kuchen",
+  "recipes": [
+    {
+      "name": "Veganer Erdnussbutter-Schokoladen-Kuchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-erdnussbutter-schokoladen-kuchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-erdnussbutter-schokoladen-kuchen#recipe-1d272390-9630-5658-bf99-06116f8c6a1e",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kastenform (12 Stücke)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT65M",
+      "ingredients": [
+        "150 g brauner Zucker",
+        "125 g cremige Erdnussbutter",
+        "400 g Mehl",
+        "1 EL Backpulver",
+        "0.25 TL Salz",
+        "2 EL Apfelmus",
+        "150 ml Sprudelwasser",
+        "250 ml pflanzliche Milch",
+        "50 g Zartbitterschokolade"
+      ],
+      "instructions": [
+        "Zucker und Erdnussbutter in eine Schüssel geben und entweder mit einer Küchenmaschine oder einem Handrührgerät ca. 3-4 Min. aufschlagen, bis die Mischung etwas heller wird.",
+        "Mehl, Backpulver und Salz dazugeben und kurz vermengen, bis kein Mehl mehr sichtbar ist. Nun Sprudelwasser, pflanzliche Milch und Apfelmus dazugeben und alles zu einem glatten Teig verrühren.",
+        "Zartbitterschokolade in kleine Stückchen hacken und unter den Teig heben.",
+        "Eine Kastenform fetten und mit etwas Mehl ausklopfen. Den Teig in die Form geben und bei 180°C ca. 50 Minuten backen. Am besten die Stäbchenprobe machen – wenn ihr ein Holzstäbchen in den Teig steckt, sollte kein Teig mehr daran kleben bleiben. Aus dem Backofen nehmen und noch ein paar Minuten in der Form abkühlen lassen, erst danach stürzen und komplett auskühlen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

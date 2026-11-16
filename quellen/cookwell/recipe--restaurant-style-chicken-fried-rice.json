@@ -1,0 +1,55 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/restaurant-style-chicken-fried-rice",
+  "recipes": [
+    {
+      "name": "Restaurant Style Chicken Fried Rice",
+      "source_url": "https://app.cookwell.com/recipe/restaurant-style-chicken-fried-rice",
+      "recipe_id": "https://app.cookwell.com/recipe/restaurant-style-chicken-fried-rice",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT1H",
+      "ingredients": [
+        "Rice, 200 g",
+        "Water, 240 g",
+        "Cooking oil, for stir frying",
+        "Chicken Thighs, 170 g",
+        "Salt, 2 g",
+        "Sugar, 4 g",
+        "Soy Sauce, 10 g",
+        "Cooking oil, 5 g",
+        "Eggs, 2",
+        "Cooking oil, for stir frying",
+        "Garlic, 2 cloves",
+        "Onions, 60 g",
+        "Carrots, 80 g",
+        "Mushrooms, 80 g",
+        "Peas, 80 g",
+        "Scallions, 1 stalk",
+        "Cooking oil, for stir frying",
+        "Soy Sauce, 5 g",
+        "Sugar, 4 g",
+        "MSG, 3 g"
+      ],
+      "instructions": [
+        "Add the rice to a metal strainer and rinse the starches under water. Ensure the water has completely drained to minimize excess moisture. Add the rinsed rice in a saucepan with the measured amount of water and cover with a lid. Bring to a boil over medium heat. Once boiled, turn off the heat, remove the lid, place a kitchen towel over top, and place the lid back on. Let the rice steam off the heat for 15 to 20 minutes. If the water hasn't fully absorbed, you can put it back on low heat for a few minutes to finish cooking. Once done, spread on a plate to let excess steam escape. Note: Rice can be made ahead of time and stored in the fridge, which also improves its texture during stir-frying.",
+        "Chop the chicken into small cubes and place into a bowl on a scale. Add the salt, sugar, soy sauce, and oil. Mix together. Let the chicken marinate for 15 minutes. Meanwhile, use this time to gather the remaining ingredients or prep vegetables.",
+        "Heat a wok or skillet over high heat. Add about 20 g of the oil to the wok and swirl it around to establish a nonstick surface. Add the marinated chicken and stir fry until done, about 2-3 minutes depending on the size of the pieces. Take the chicken out and set aside in a bowl.",
+        "Add another 20 grams of the oil to the wok and bring back to high heat. Add the minced garlic and bloom for 10-15 seconds until just fragrant. Add the onions and carrots and stir fry until browned while mixing constantly about 60-90 seconds. Add in the mushrooms and stir fry for another 30 seconds. Remove the vegetables and add to the bowl with the chicken.",
+        "Add the final 20 grams of the oil to the wok, swirl to coat the surface, and set the heat to high. Add the beaten egg and cook until the curds start to set. Add in the cooked rice. Stirring constantly, fry the rice for 2-3 minutes. It should toast some and become dryer without clumps, and the egg should become dispersed into small pieces. Add the sugar, soy sauce, and MSG to the rice and stir it in.",
+        "Return the cooked shrimp and vegetables to the wok. Add the peas to the rice and stir fry for another 15-20 seconds. Shut off the heat and add the scallions, then mix to combine. Taste it! Adjust the soy sauce, msg, or sugar as you see fit."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

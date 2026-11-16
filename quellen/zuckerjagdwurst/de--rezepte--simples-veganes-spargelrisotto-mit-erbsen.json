@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/simples-veganes-spargelrisotto-mit-erbsen",
+  "recipes": [
+    {
+      "name": "Simples, veganes Spargelrisotto mit Erbsen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/simples-veganes-spargelrisotto-mit-erbsen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/simples-veganes-spargelrisotto-mit-erbsen#recipe-5bd578f4-dfb3-5a27-a906-0b2f7b9a9385",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "3 - 4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "250 g gefrorene Erbsen",
+        "2 Zwiebeln",
+        "1 Knoblauchzehe",
+        "3 EL vegane Butter",
+        "250 g Risottoreis",
+        "200 ml veganer Weißwein",
+        "400 ml Gemüsebrühe",
+        "400 g grüner Spargel",
+        "1 Zitrone",
+        "veganer Parmesan (optional)",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Die Erbsen aus dem Tiefkühlfach nehmen und auftauen lassen. Zwiebeln und Knoblauch schälen und fein würfeln.",
+        "Vegane Butter in einem großen Topf zerlassen und die Zwiebeln und den Knoblauch darin ca. 3-4 Minuten anschwitzen, bis die Zwiebel glasig ist. Den Risottoreis dazugeben und auf niedriger Flamme ebenfalls anschwitzen, bis die Reiskörner leicht glasig sind, das dauert ca. 5-7 Minuten. Den Reis immer dabei wieder umrühren, damit er nicht dunkel wird.",
+        "Mit veganem Weißwein ablöschen und bei mittlerer Hitze köcheln lassen, bis der Weißwein komplett vom Reis aufgesogen wurde. Parallel dazu Gemüsebrühe in einem Topf erwärmen. Die warme Gemüsebrühe nach und nach hinzugeben – immer nur so viel, bis der Reis bedeckt ist. Danach köcheln lassen, bis die Flüssigkeit vom Reis aufgesogen wurde. Den Schritt so oft wiederholen, bis der Risottoreis gar, aber noch leicht bissfest ist, das dauert ca. 20 Minuten. Dabei ständig umrühren, damit der Reis nicht anbrennt.",
+        "In der Zwischenzeit die hölzernen Enden des Spargels entfernen und die Stangen in etwa 3 cm lange Stücke schneiden. Ca. 10 Minuten, bevor das Risotto gar ist, die Spargelstücke hinzugeben. 5 Minuten vor dem Ende der Kochzeit auch die Erbsen hinzugeben und alles gemeinsam köcheln lassen.",
+        "Das Risotto nach Geschmack mit frischem Zitronensaft, veganem Parmesan, Salz und Pfeffer abschmecken und servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

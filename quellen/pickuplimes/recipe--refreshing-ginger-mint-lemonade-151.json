@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/refreshing-ginger-mint-lemonade-151",
+  "recipes": [
+    {
+      "name": "Refreshing Ginger Mint Lemonade",
+      "source_url": "https://www.pickuplimes.com/recipe/refreshing-ginger-mint-lemonade-151",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "1 Tbsp grated fresh ginger",
+        "20 fresh mint leaves",
+        "3 lemon",
+        "3 cup water",
+        "2 cup ice cubes",
+        "2 Tbsp agave syrup"
+      ],
+      "instructions": [
+        "Gather the grated ginger into your hands and squeeze over a pitcher to extract the juice*. Discard the pulp. For a more subtle ginger flavour, simply cut the ginger into slices and add it to the pitcher, instead of grating and squeezing.",
+        "Add the mint to the pitcher, and use a wooden spatula or wooden tamper to give the mint a mash. We want to bruise the mint leaves slightly to extract their flavours.",
+        "Then add the lemon juice, water, ice cubes, and syrup. Stir, add more syrup if the drink tastes too tart, and serve immediately. Cheers!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * Squeezing the ginger by hand can irritate your skin, especially if you have any cuts. Alternatively, you can use a nut milk bag to squeeze out the liquid or place the ginger into a juicer.",
+    "Storage The ginger, lemon juice, and syrup concentrate can be prepared and kept in a mason jar in the fridge for up to 2 days. Simply dilute with water and ice cubes when you're ready for a refreshing drink."
+  ]
+}

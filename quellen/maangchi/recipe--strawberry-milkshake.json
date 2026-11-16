@@ -1,0 +1,98 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/strawberry-milkshake",
+  "recipes": [
+    {
+      "name": "Strawberry milkshake",
+      "source_url": "https://www.maangchi.com/recipe/strawberry-milkshake",
+      "recipe_id": "/recipe/strawberry-milkshake#sso/recipe/29351",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 pound of strawberries (1 pkg is usually a little more than 1 pound) hulled and washed",
+        "2 tablespoons sugar",
+        "¼ cup honey (or sugar)",
+        "3 cups cold milk"
+      ],
+      "instructions": [
+        "Cut the strawberries into small pieces and put them in a bowl.",
+        "Add 2 tablespoons sugar and mix well.",
+        "Divide them into 2 and put each portion into a plastic bag. Each bag will be about ½ pound and it will serve 1 or 2 people.",
+        "Freeze the bags until the strawberries get hard like ice cubes.",
+        "Take out 1 bag of frozen strawberry from the freezer. Let it sit on the kitchen table for 1 or 2 minutes, then break up the block of icy strawberries. Split each strawberry chunk by hand in the plastic bag.",
+        "Place the strawberries into a blender. Add 1½ cups of cold milk and 2 tablespoons of honey. Blend it for about 30 seconds, until the strawberries are crushed and well mixed with the milk.",
+        "Pour into a chilled glass and serve right away, while it’s still slushy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound of strawberries (1 pkg is usually a little more than 1 pound) hulled and washed"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons sugar"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup honey (or sugar)"
+        },
+        {
+          "tag": "li",
+          "text": "3 cups cold milk"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions (serves 3-4)"
+        },
+        {
+          "tag": "li",
+          "text": "Cut the strawberries into small pieces and put them in a bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Add 2 tablespoons sugar and mix well."
+        },
+        {
+          "tag": "li",
+          "text": "Divide them into 2 and put each portion into a plastic bag. Each bag will be about ½ pound and it will serve 1 or 2 people."
+        },
+        {
+          "tag": "li",
+          "text": "Freeze the bags until the strawberries get hard like ice cubes."
+        },
+        {
+          "tag": "h3",
+          "text": "Now time to make strawberry milkshake!"
+        },
+        {
+          "tag": "li",
+          "text": "Take out 1 bag of frozen strawberry from the freezer. Let it sit on the kitchen table for 1 or 2 minutes, then break up the block of icy strawberries. Split each strawberry chunk by hand in the plastic bag."
+        },
+        {
+          "tag": "li",
+          "text": "Place the strawberries into a blender. Add 1½ cups of cold milk and 2 tablespoons of honey. Blend it for about 30 seconds, until the strawberries are crushed and well mixed with the milk."
+        },
+        {
+          "tag": "li",
+          "text": "Pour into a chilled glass and serve right away, while it’s still slushy."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

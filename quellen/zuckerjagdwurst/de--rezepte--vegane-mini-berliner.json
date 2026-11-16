@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mini-berliner",
+  "recipes": [
+    {
+      "name": "Vegane Mini-Berliner",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mini-berliner",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mini-berliner#recipe-aa7b889a-c3ec-510a-8331-1a4f6ab47b76",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "20 Mini-Berliner",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT180M",
+      "ingredients": [
+        "Für den Teig:",
+        "550 g Weizenmehl Typ 550 oder Dinkelmehl Typ 630",
+        "70 g Zucker",
+        "120 ml pflanzliche Milch",
+        "1 Würfel (42 g) frische Hefe",
+        "3 EL Apfelmus",
+        "100 g vegane Butter",
+        "1 Vanilleschote",
+        "1 Prise Salz",
+        "Für die Füllung:",
+        "250 g Marmelade (oder Schokocreme)",
+        "Außerdem:",
+        "1 l Pflanzenöl zum Frittieren",
+        "Puderzucker zum Servieren",
+        "Wichtig: ihr benötigt unbedingt eine lange Fülltülle und Spritzbeutel für dieses Rezept. Ansonsten könnt ihr eure Berliner nicht füllen."
+      ],
+      "instructions": [
+        "Die pflanzliche Milch erwärmen, bis sie lauwarm ist und in eine kleine Schüssel gießen. Die frische Hefe hineinbröseln und einen Teelöffel Zucker hinzugeben. Die Mischung ca. 5 Minuten stehen lassen, bis sich kleine Bläschen an der Oberfläche bilden.",
+        "In einer großen Schüssel den restlichen Zucker, Mehl, vegane Butter, Apfelmus, Salz und das Mark einer Vanilleschote mischen. Die Milch-Hefemischung mit den übrigen Zutaten vermengen und alles zu einem geschmeidigen Teig kneten. Den Teig zu einer großen Kugel formen und ca. eine Stunde an einem warmen Ort abgedeckt gehen lassen.",
+        "Den Hefeteig aus der Schüssel nehmen und mit den Händen zu kleinen Kugeln (ca. 45 g pro Mini-Berliner) formen. Dabei alle Teiglinge rundwirken, damit sie eine möglichst glatte Oberfläche bekommen und beim Frittieren oder Backen nicht aufreißen. Die Teiglinge im Anschluss erneut ca. 30 Minuten ruhen lassen.",
+        "Wer die Mini-Berliner frittieren möchte, erwärmt das Pflanzenöl in einem Topf auf 160°C. Wenn ihr einen Holzspieß vorsichtig ins heiße Fett haltet, sollten sich Bläschen daran bilden. Nun alle Mini-Berliner nacheinander frittieren, bis sie durch und von allen Seiten goldbraun sind. Die Bällchen anschließend aus dem Fett nehmen und auf Küchenpapier abtropfen lassen.",
+        "Tipp: Beim Frittieren benötigt ihr etwas Geduld, denn es dauert ca. 10 Minuten pro Berliner. Achtet darauf, dass ihr konstant bei etwa 160°C bleibt und nicht zu viele Berliner gleichzeitig frittiert, da sie sonst aneinander kleben oder außen zu dunkel werden.",
+        "Wer die Berliner im Ofen backen möchte, bäckt sie im vorgeheizten Ofen bei 160°C (Umluft) ca. 15-20 Minuten, bis sie goldbraun sind. Nach dem Backen auf einem Kuchengitter abkühlen lassen.",
+        "Marmelade (oder Schokocreme) in eine Spritztüte mit langer Fülltülle geben und die Berliner damit befüllen. Mit Puderzucker bestreuen und noch warm servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/blueberry-muffin-overnight-oats-467",
+  "recipes": [
+    {
+      "name": "Blueberry Muffin Overnight Oats",
+      "source_url": "https://www.pickuplimes.com/recipe/blueberry-muffin-overnight-oats-467",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 servings",
+      "prep_time": "PT06M",
+      "cook_time": "PT04M",
+      "total_time": "PT06H10M",
+      "ingredients": [
+        "¾ cup frozen blueberries",
+        "½ cup unsweetened soy milk",
+        "½ cup rolled oats",
+        "2 Tbsp cashew butter",
+        "1 Tbsp maple syrup",
+        "1 Tbsp ground flaxseeds",
+        "1 Tbsp unsalted roasted pecans",
+        "¼ tsp ground cinnamon",
+        "⅓ cup unsweetened soy yogurt"
+      ],
+      "instructions": [
+        "Add the blueberries to a saucepan over medium-high heat. Cook for 3 to 4 minutes, mashing slightly as it's stirred. Alternatively, thaw the blueberries in the microwave. Remove from the heat and let cool slightly.",
+        "In a medium bowl, combine all of the remaining ingredients, except for the yogurt.",
+        "Add half of the stewed blueberries to the bottom of a mason jar or airtight container. Add the oat mixture next. Then add the yogurt and the other half of the stewed blueberries on top.",
+        "Cover and let it sit overnight in the fridge. The next morning it's ready to enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium .",
+    "Storage The overnight oats can be stored in a mason jar or airtight container in the fridge for up to 2 days."
+  ]
+}

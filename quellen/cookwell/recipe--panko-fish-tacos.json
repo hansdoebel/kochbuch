@@ -1,0 +1,47 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/panko-fish-tacos",
+  "recipes": [
+    {
+      "name": "Panko Fish Tacos",
+      "source_url": "https://app.cookwell.com/recipe/panko-fish-tacos",
+      "recipe_id": "https://app.cookwell.com/recipe/panko-fish-tacos",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "6-8 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "White fish of choice, 454 g",
+        "Salt, a sprinkle",
+        "Flour, 80 g",
+        "Cornstarch, 40 g",
+        "Eggs, 2",
+        "Panko bread crumbs, 100 g",
+        "Neutral oil",
+        "Lime zest, 1 lime",
+        "Corn tortillas, 6-8",
+        "Pickled onions",
+        "Hot Sauce",
+        "Kewpie mayo",
+        "Cilantro",
+        "Limes"
+      ],
+      "instructions": [
+        "First, remove any bones that may be present in the fish. Then, slice the fish into large sticks, ensuring they match the size of the tortilla you're using. Sprinkle salt evenly over the pieces. Optionally, you could dry brine these pieces in the fridge for an hour or even overnight.",
+        "Place a wok or dutch oven over medium heat and add enough oil for deep frying, about 2 inches high in the pan. Meanwhile, prepare three separate trays. One with the cornstarch and flour mixture, one with the beaten egg, and one with the panko bread crumbs. Bread the fish by first coating it in the flour mixture, then dipping it into the egg and finally rolling it in the panko bread crumbs. Press down on the bread crumbs to ensure they stick to the exterior.",
+        "Using a thermometer, verify the temp of the oil is around 350° F/176° C. Slowly drop the fish pieces into the oil to let them get nice and golden brown. Don’t overcrowd the oil. Fry in batches if necessary. In total, fry the fish for about 4 to 6 minutes, slightly agitating them throughout.",
+        "Once all the pieces are fried, cooked through, and golden browned to your preference, transfer to a wire rack lined with paper towels. Dab off any excess oil, then move it to the wire rack to prevent it from becoming soggy. After frying, add a sprinkle of salt along with lime zest and juice to add acidic and citrus flavors. Serve on warm corn tortillas with toppings such as hot sauce, cilantro, pickled onions, mayo, crema, slaw, or any other toppings you prefer."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

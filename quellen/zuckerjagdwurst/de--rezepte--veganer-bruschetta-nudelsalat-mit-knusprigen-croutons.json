@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-bruschetta-nudelsalat-mit-knusprigen-croutons",
+  "recipes": [
+    {
+      "name": "Bruschetta-Nudelsalat mit knusprigen Croûtons",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-bruschetta-nudelsalat-mit-knusprigen-croutons",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-bruschetta-nudelsalat-mit-knusprigen-croutons#recipe-f75d3cfc-07b1-5765-aff7-6d0410819fd3",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2-4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Für den Salat:",
+        "300 g Nudeln",
+        "300 g Kirschtomaten",
+        "1 Knoblauchzehe",
+        "1 rote Zwiebel",
+        "20 g Basilikum",
+        "4 EL Olivenöl",
+        "2 EL dunkler Balsamicoessig",
+        "Salz",
+        "Pfeffer",
+        "Für das Topping:",
+        "1 Ciabatta",
+        "2 EL Olivenöl",
+        "1 TL Knoblauchpulver",
+        "25 g Pinienkerne",
+        "Basilikum",
+        "Chiliflocken (optional)",
+        "Salz"
+      ],
+      "instructions": [
+        "Den Ofen auf 200 °C (Ober-/Unterhitze) vorheizen. Für das Topping die Brötchen mit den Händen in kleine Stücke reißen und auf einem Backblech verteilen. Mit Olivenöl beträufeln und mit Salz und frischem, fein gehackten Knoblauch (oder Knoblauchpulver) würzen. Im Ofen circa 10 Minuten knusprig backen. Danach abkühlen lassen.",
+        "In der Zwischenzeit Pinienkerne in fettfreier Pfanne goldbraun rösten.",
+        "Die Kirschtomaten vierteln. Knoblauch und Zwiebel schälen und fein würfeln. Den frischen Basilikum fein schneiden. Alle zusammen in einer großen Schüssel vermengen. Olivenöl und Balsamicoessig dazugeben und alles gut vermengen. Mit Salz und Pfeffer würzen.",
+        "Gesalzenes Wasser in einem Topf zum Kochen bringen. Die Nudeln nach Packungsanweisung garen, bis sie al dente sind. Danach abgießen und nur wenige Minuten abkühlen lassen.",
+        "Die noch leicht warmen Nudeln zu den Tomaten in der Schüssel geben und unterheben. Danach mindestens 10 Minuten durchziehen lassen und vor dem Servieren nochmal mit Salz und Pfeffer abschmecken und mit den knusprigen Brötchenstückchen aus dem Ofen, Pinienkernen und noch mehr Basilikum toppen.",
+        "Tipp: Wer mag, kann Chiliflocken draufpacken, wenn ihr gern etwas schärfer esst."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pita-pizza-a-la-funghi",
+  "recipes": [
+    {
+      "name": "Pita Pizza à la Funghi",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pita-pizza-a-la-funghi",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pita-pizza-a-la-funghi#recipe-d8df6ae8-71fd-5168-bab5-1eb507202692",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "Für 3 Pita-Pizzen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT35M",
+      "ingredients": [
+        "Für die Pita:",
+        "3 vegane Pitabrote (z. B. glutenfreie Pita von Schär)",
+        "100 g veganer Streukäse",
+        "100 g veganer Fetakäse",
+        "1 TL Olivenöl",
+        "Für den Belag:",
+        "200 g gemischte Pilze",
+        "2 Schalotten",
+        "1 Knoblauchzehe",
+        "5 Zweige Thymian",
+        "150 g veganer Schmand",
+        "Pflanzenöl zum Braten",
+        "Salz",
+        "Pfeffer",
+        "veganes grünes Pesto",
+        "Rucola"
+      ],
+      "instructions": [
+        "Für den Belag zuerst die Pilze in Scheiben und Schalotten in Streifen schneiden. Knoblauch fein hacken. Pflanzenöl in einer Pfanne erhitzen und alles mit Thymianblättern anbraten, bis die Pilze gut gebräunt sind. Danach mit Salz und Pfeffer würzen.",
+        "Den Backofen auf 200 °C (Ober-/Unterhitze) vorheizen. Die Pitabrote vorsichtig auf-, aber nicht durchschneiden. Veganen Streukäse und zerbröselten Fetakäse mit etwas Öl vermengen. Die Käsemischung in den Pitabroten verteilen und vorsichtig andrücken.",
+        "Die gefüllten Pitabrote mit veganem Schmand bestreichen und mit der Pilzmischung aus der Pfanne belegen. Danach bei 200 °C (Ober-/Unterhitze) circa 15 Minuten backen, bis der vegane Käse in den Pitataschen geschmolzen ist.",
+        "Die veganen Pita-Pizzen aus dem Ofen nehmen und nach Wunsch noch mit veganem grünen Pesto und Rucola toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

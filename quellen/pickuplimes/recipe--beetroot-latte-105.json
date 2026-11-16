@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/beetroot-latte-105",
+  "recipes": [
+    {
+      "name": "Beetroot Latte",
+      "source_url": "https://www.pickuplimes.com/recipe/beetroot-latte-105",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT07M",
+      "total_time": "PT12M",
+      "ingredients": [
+        "2 cup unsweetened soy milk",
+        "1 cooked beet",
+        "2 Medjool date",
+        "1 tsp pure vanilla extract",
+        "1 cinnamon stick",
+        "1 Tbsp maple syrup",
+        "¼ cup brewed espresso"
+      ],
+      "instructions": [
+        "Combine the soy milk, beet, dates, and vanilla extract in a high-powered blender until smooth and creamy.",
+        "Pour this mixture straight into a saucepan over medium-high heat. If your blender isn't very powerful, or if you don't like small fibres to remain in your drink, strain the mixture through a sieve while pouring it into the saucepan.",
+        "Add the cinnamon stick and maple syrup. Let the mixture heat up, stirring throughout to prevent burning. Let simmer for about 3 minutes, then remove the cinnamon stick.",
+        "Pour into mugs and optionally add a shot of espresso. Stir, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium . † For us, 1 cooked beet weighed about 130g.",
+    "Storage Best to enjoy immediately."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/quick-dirty-shakshuka",
+  "recipes": [
+    {
+      "name": "Quick & Dirty Shakshuka",
+      "source_url": "https://app.cookwell.com/recipe/quick-dirty-shakshuka",
+      "recipe_id": "https://app.cookwell.com/recipe/quick-dirty-shakshuka",
+      "authors": [
+        "Brian Lagerstrom"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1-2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Roasted red peppers, 75 g",
+        "Tomato sauce, 200 g",
+        "Salsa, 75 g",
+        "Sugar, 5 g",
+        "Salt, 2 g",
+        "Paprika, 2 g",
+        "Cumin, 2 g",
+        "Ground coriander, 2 g",
+        "Garlic Powder, 1 g",
+        "Black Pepper, 2 g",
+        "Olive Oil, for cooking",
+        "Eggs, 2",
+        "Feta, a handful",
+        "Herbs, for garnish",
+        "Olive Oil, for garnish",
+        "Bread, for serving"
+      ],
+      "instructions": [
+        "Drain & small dice the peppers. Prep or gather any remaining ingredients. Optional - preheat an oven to 400°F/204°C, although this recipe can be made entirely on the stovetop (see step 3).",
+        "In an 8” sauté pan over med-high heat, add olive oil then sauté diced peppers for ~60 sec. Add remaining ingredients (except the eggs). Simmer 3-4 mins until reduced and thickened enough to hold a sturdy well (divot for the eggs).",
+        "Reduce heat to low. Make 2 wells; crack an egg into each well. Season each with salt. You have two options for cooking the eggs through: Option A: stovetop spirited simmer → once the bottoms of the eggs set, turn heat to medium med-low, cover for ~ 3 mins to steam the top of the eggs. Option B: Slide the pan into a preheated 400°F/204°C oven → bake 5+ mins to desired doneness. You’re looking for fully cooked whites and a jammy yolk.",
+        "While the shakshuka is still warm, top w/ feta, a bit of olive oil, & fresh herbs, if desired. Serve with toasted bread."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schichtsalat",
+  "recipes": [
+    {
+      "name": "Veganer Schichtsalat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schichtsalat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schichtsalat#recipe-0a262922-f954-5b42-bb14-57c2bccc3766",
+      "authors": [
+        "Anneke Schügner"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4–6 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Für den Salat:",
+        "1 Romana Salat",
+        "1 Stange Porree",
+        "1 Paprika",
+        "200 g Räuchertofu",
+        "1 Glas Selleriesalat (320 g)",
+        "1 Dose Ananas (490 g)",
+        "1 Dose Karottensalat (190 g)",
+        "1 Dose Mais (330 g)",
+        "veganer Streukäse (nach Belieben)",
+        "Für das Dressing:",
+        "400 g veganer Joghurt",
+        "Saft einer Dose Ananas",
+        "Saft eines Glas Selleriesalats",
+        "3 EL Senf",
+        "2 TL Knoblauchpulver",
+        "20 g Schnittlauch",
+        "Salz",
+        "Pfeffer",
+        "Für die veganen Eier:",
+        "200 g Naturtofu",
+        "1 EL Joghurt",
+        "1 Prise Kala Namak",
+        "gelbe Lebensmittelfarbe"
+      ],
+      "instructions": [
+        "Salat, Porree und Paprika gründlich waschen. Salat und Porree anschließend in feine Streifen schneiden, Paprika würfeln. Den Räuchertofu in circa ein Zentimeter dicke Würfel schneiden. Selleriesalat und Ananas abtropfen lassen und den Saft auffangen. Dieser wird später für das Dressing verwendet. Mais abgießen.",
+        "Für das Dressing veganen Joghurt (zwei Esslöffel für das Eigelb beiseitestellen), Ananassaft, Selleriesaft, Senf, Knoblauchpulver und fein gehackten Schnittlauch verrühren, salzen und pfeffern.",
+        "In einer großen Schale nun nacheinander Salat, Räuchertofu, Karottensalat, Porree, Paprika, Selleriesalat, Ananas und Mais schichten. Das Dressing über den Salat geben und den veganen Käse darüberstreuen.",
+        "Für die veganen Eier den restlichen Joghurt mit Kala Namak verrühren und mit gelber Lebensmittelfarbe einfärben. Aus dem Tofublock vier „Eierhälften“ ausschneiden und in der Mitte eine Vertiefung für das „Eigelb“ hinzufügen. Das „Dotter“ in die Vertiefung geben und die veganen Eier mit dem Salat servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

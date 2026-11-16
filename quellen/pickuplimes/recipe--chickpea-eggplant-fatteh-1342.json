@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/chickpea-eggplant-fatteh-1342",
+  "recipes": [
+    {
+      "name": "Chickpea & Eggplant Fatteh",
+      "source_url": "https://www.pickuplimes.com/recipe/chickpea-eggplant-fatteh-1342",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT20M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "2 pita bread",
+        "1 Tbsp olive oil",
+        "1 cup unsweetened soy Greek-style yogurt",
+        "1½ Tbsp tahini",
+        "1 garlic clove",
+        "¼ tsp salt",
+        "½ Tbsp olive oil",
+        "1 tsp sweet paprika powder",
+        "1 tsp ground sumac",
+        "¼ tsp salt",
+        "2 Tbsp tomato paste",
+        "1 small eggplant",
+        "1½ cup cooked chickpeas",
+        "¼ cup water",
+        "2 Tbsp pomegranate molasses",
+        "⅓ cup fresh parsley",
+        "1 Tbsp toasted sliced almonds",
+        "¼ lemon"
+      ],
+      "instructions": [
+        "Preheat the oven to 400°F (200°C)*. Toss the pita and oil together on a baking tray. Spread out in a single layer and bake for 10 to 13 minutes, or until crispy.",
+        "Meanwhile, combine the yogurt sauce ingredients in a small bowl.",
+        "Drizzle the oil in a sauté pan over medium heat. When hot, add the paprika, sumac, and salt. Cook for 1 minute to toast.",
+        "Add the tomato paste, and cook for another 2 minutes.",
+        "Then add the eggplant, chickpeas, water, and pomegranate molasses. Cover and cook for 10 minutes, or until the eggplant softens.",
+        "When cooked, add the parsley and remove from the heat.",
+        "Assemble with the chickpea mixture as the base, layer on the yogurt, and top with crispy pitas. Garnish with almonds and lemon zest, and serve with lemon wedges on the side. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Store the yogurt sauce and eggplant-chickpea mixture separately in airtight container s in the fridge for up to 3 days. Store the pita in an airtight container on the counter for up to 2 days."
+  ]
+}

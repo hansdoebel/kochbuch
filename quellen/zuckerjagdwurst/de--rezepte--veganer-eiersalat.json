@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-eiersalat",
+  "recipes": [
+    {
+      "name": "Veganer Eiersalat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-eiersalat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-eiersalat#recipe-2fd333df-b1cd-5ec1-9568-5ae112771219",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 350 g veganer Eiersalat",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "100 g Makkaroni (oder andere kurze Röhrennudeln)",
+        "200 g Naturtofu",
+        "1 TL gemahlenes Kurkuma",
+        "1 EL Senf",
+        "5 EL vegane Mayonnaise",
+        "10 g Schnittlauch",
+        "1 TL Kala Namak",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Gesalzenes Wasser in einem Topf aufkochen und die Makkaroni nach Packungsanweisung al dente kochen.",
+        "In der Zwischenzeit Naturtofu in einer Schüssel zerbröseln und mit Kurkuma, Senf und veganer Mayonnaise vermengen. Schnittlauch fein hacken und dazugeben.",
+        "Die Nudeln abgießen und kurz unter kaltem Wasser abschrecken. Anschließend mit dem Pürierstab zerkleinern, bis sie noch leicht stückig sind. Die zerkleinerten Nudeln ebenfalls in die Schüssel geben.",
+        "Den veganen Eiersalat mit Salz, Pfeffer und Kala Namak abschmecken. Anschließend am besten über Nacht im Kühlschrank ziehen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

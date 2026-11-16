@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/japanische-gyoza",
+  "recipes": [
+    {
+      "name": "Vegane Gyoza",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/japanische-gyoza",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/japanische-gyoza#recipe-b20045a6-cc40-5a14-9f72-b9ce961588f6",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 30 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Für die Edamame-Füllung:",
+        "250 g Edamame (geschält)",
+        "100 g frischer Spinat",
+        "2 Knoblauchzehen",
+        "1 Schalotte",
+        "1 daumengroßes Stück Ingwer",
+        "Salz",
+        "Pfeffer",
+        "Öl zum Braten",
+        "Für die würzige Füllung:",
+        "200 g Tofu",
+        "50 g getrocknete Shiitake Pilze",
+        "1 TL Chinese Five Spice Powder",
+        "1 TL Sriracha",
+        "1 TL Sojasauce",
+        "Öl zum Braten",
+        "Außerdem:",
+        "2 Packungen Gyoza-Papier (mind. 30 Stück)",
+        "Sesamöl zum Braten",
+        "Sriracha, Sojasauce, Teriyakisauce oder süß-saure Sauce zum Dippen"
+      ],
+      "instructions": [
+        "Für die Edamame-Füllung: Die Edamame dämpfen, das könnt ihr entweder im Topf oder einem Bambusdämpfer machen. Wer keinen Bock auf „schälen“ und rauspulen hat, kann übrigens auch Edamame ohne Schale kaufen. Knoblauch, Zwiebel und Ingwer schälen und fein würfeln. In einer Pfanne etwas Öl erhitzen und alles ca. 3-4 Minuten darin anbraten. Spinat dazugeben und so lang auf kleiner Hitze braten, bis der Spinat zusammenfällt. Vom Herd nehmen und kurz abkühlen lassen. In eine Schüssel umfüllen, dabei schon überschüssiges Wasser vom Spinat ausdrücken. Anschließend Edamame dazugeben und mit einem Kartoffelstamper grob stampfen (geht auch mit einem Pürierstab), damit ihr eine einheitliche, aber leicht stückige Masse habt. Mit Salz und Pfeffer abschmecken.",
+        "Für die würzige Füllung: Shiitake-Pilze in eine Schüssel geben und mit warmem Wasser übergießen. Ca. 20 Minuten einweichen lassen, danach abgießen und das überschüssige Wasser ausdrücken. Pilze fein hacken und Tofu mit den Händen zerbröseln. In einer Pfanne etwas Öl erhitzen und Pilze und Tofu ca. 5 Minuten anbraten. Anschließend mit Sriracha, Sojasauce und Chinesischem Fünf Gewürze Pulver und Salz abschmecken.",
+        "Eure Füllungen sind bereit! Gebt je 1 TL der Füllung in die Mitte eines Gyoza-Blatts und faltet es dann zusammen. Am besten bekommt ihr die Gyoza-Blätter auseinander, wenn ihr eure Hände jedes Mal wieder befeuchtet. So kleben die Blätter auch und halten gut zusammen. Nun klappt ihr eine Hälfte des Teigs über die Füllung und formt mit euren Fingern ein paar Falten in die Gyozas, damit sie gut verschlossen sind.",
+        "Es werden VIELE Gyoza. Wer am Ende nicht verrückt vom Falten geworden ist, der erhitzt noch etwas Sesamöl in einer Pfanne und brät die Gyoza rundum an. Das geht ganz fix, also passt auf, dass nichts verbrennt. Anschließend mit einem Dip eurer Wahl servieren, z.B. Sojasauce, Teriyaki-Soße, süß saurer Soße oder noch mehr Sriracha."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

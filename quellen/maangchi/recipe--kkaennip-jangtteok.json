@@ -1,0 +1,118 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/kkaennip-jangtteok",
+  "recipes": [
+    {
+      "name": "Perilla leaves jangtteok (Kkaennip-jangtteok: 깻잎장떡)",
+      "source_url": "https://www.maangchi.com/recipe/kkaennip-jangtteok",
+      "recipe_id": "/recipe/kkaennip-jangtteok#sso/recipe/100141",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "Serves 4",
+      "prep_time": "P0DT0H10M0S",
+      "cook_time": "P0DT0H9M0S",
+      "total_time": "P0DT0H19M0S",
+      "ingredients": [
+        "30 medium size perilla leaves, chopped",
+        "1 cup flour",
+        "1 cup water",
+        "2 tablespoons doenjang (Korean fermented soybean paste)",
+        "1 tablespoon gochujang (Korean fermented hot pepper paste)",
+        "¼ cup sliced onion",
+        "1 green chili pepper, chopped",
+        "3 tablespoons vegetable oil (or any cooking oil will be ok)"
+      ],
+      "instructions": [
+        "Flip it over one more time and cook for an extra minute.",
+        "Transfer it to a cutting board and let it cool for 5 minutes. Then, cut it into bite-sized rectangular pieces.",
+        "Serve as a side dish for rice. Leftovers can be stored in the refrigerator for up to 4 days. Enjoy!"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 4"
+        },
+        {
+          "tag": "li",
+          "text": "30 medium size perilla leaves, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup flour"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup water"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons doenjang (Korean fermented soybean paste)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon gochujang (Korean fermented hot pepper paste)"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup sliced onion"
+        },
+        {
+          "tag": "li",
+          "text": "1 green chili pepper, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "3 tablespoons vegetable oil (or any cooking oil will be ok)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Combine the flour, soybean paste, hot pepper paste, and 1 cup water in a bowl. Mix well with a spoon or whisk until smooth."
+        },
+        {
+          "tag": "li",
+          "text": "Add the perilla leaves, onion, and green chili pepper. Mix well with a spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Heat 3 tablespoons of vegetable oil in a large nonstick skillet (preferably 12-inch) over medium heat. Swirl the oil to coat the skillet evenly. If your skillet is smaller, you may need to work in batches."
+        },
+        {
+          "tag": "li",
+          "text": "Pour the mixture into the skillet and shape it into a 12-inch circle. Cook over medium heat for about 5 minutes until the bottom turns golden brown and crispy."
+        },
+        {
+          "tag": "li",
+          "text": "Use a spatula to carefully flip it over and press it down gently. Increase the heat to medium-high and cook for an additional 3 minutes until both sides are golden brown."
+        },
+        {
+          "tag": "li",
+          "text": "Flip it over one more time and cook for an extra minute."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer it to a cutting board and let it cool for 5 minutes. Then, cut it into bite-sized rectangular pieces."
+        },
+        {
+          "tag": "li",
+          "text": "Serve as a side dish for rice. Leftovers can be stored in the refrigerator for up to 4 days. Enjoy!"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

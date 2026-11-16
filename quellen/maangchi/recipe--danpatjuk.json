@@ -1,0 +1,104 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/danpatjuk",
+  "recipes": [
+    {
+      "name": "Sweet red bean soup (Danpatjuk)",
+      "source_url": "https://www.maangchi.com/recipe/danpatjuk",
+      "recipe_id": "/recipe/danpatjuk#sso/recipe/125",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "red bean paste, sweet rice flour, boiling water, sugar, pine nuts, cinnamon powder."
+      ],
+      "instructions": [
+        "In a pot, place 1 cup of washed red beans and 4 cups of water and heat it over high heat for 10 minutes.",
+        "Lower the heat to low medium and simmer for 50 minutes.",
+        "Check if the beans are cooked fully. Remove extra water from the beans and crush them with a wooden spoon or use your food processor to grind it.",
+        "Add 1 cup of brown sugar, 1 ts of kosher salt, 1 ts of cinnamon powder into the red bean paste and set it aside.",
+        "Put the red bean paste in a pot.",
+        "Pour some water (about 4- 5 cups) and 1 cup of sugar (depends on your taste) and boil it.",
+        "Mix one cup of sweet rice powder, a pinch of salt and 1 tbs of sugar in a bowl.",
+        "Add ½ cup-1 cup of hot water in “3” and mix it with a spoon first and fold it by hand to make dough. (The amount of hot water varies depending on the dryness of sweet rice powder you use, so first use ½ cup of hot water to make your dough and put more hot water while kneading the dough)",
+        "Make small rice balls with the dough about 0.5 cm diameter.",
+        "When the red bean soup boils, add the rice balls and cook it.",
+        "Keep stirring the soup and it will get thicker.",
+        "Ladle the soup into a bowl and add a few pine nuts on top and sprinkle some cinnamon powder and serve it."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "red bean paste, sweet rice flour, boiling water, sugar, pine nuts, cinnamon powder."
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "In a pot, place 1 cup of washed red beans and 4 cups of water and heat it over high heat for 10 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Lower the heat to low medium and simmer for 50 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Check if the beans are cooked fully. Remove extra water from the beans and crush them with a wooden spoon or use your food processor to grind it."
+        },
+        {
+          "tag": "li",
+          "text": "Add 1 cup of brown sugar, 1 ts of kosher salt, 1 ts of cinnamon powder into the red bean paste and set it aside."
+        },
+        {
+          "tag": "li",
+          "text": "Put the red bean paste in a pot."
+        },
+        {
+          "tag": "li",
+          "text": "Pour some water (about 4- 5 cups) and 1 cup of sugar (depends on your taste) and boil it."
+        },
+        {
+          "tag": "li",
+          "text": "Mix one cup of sweet rice powder, a pinch of salt and 1 tbs of sugar in a bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Add ½ cup-1 cup of hot water in “3” and mix it with a spoon first and fold it by hand to make dough. (The amount of hot water varies depending on the dryness of sweet rice powder you use, so first use ½ cup of hot water to make your dough and put more hot water while kneading the dough)"
+        },
+        {
+          "tag": "li",
+          "text": "Make small rice balls with the dough about 0.5 cm diameter."
+        },
+        {
+          "tag": "li",
+          "text": "When the red bean soup boils, add the rice balls and cook it."
+        },
+        {
+          "tag": "li",
+          "text": "Keep stirring the soup and it will get thicker."
+        },
+        {
+          "tag": "li",
+          "text": "Ladle the soup into a bowl and add a few pine nuts on top and sprinkle some cinnamon powder and serve it."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

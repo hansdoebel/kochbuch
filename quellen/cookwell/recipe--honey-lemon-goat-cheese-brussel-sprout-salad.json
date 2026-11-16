@@ -1,0 +1,45 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/honey-lemon-goat-cheese-brussel-sprout-salad",
+  "recipes": [
+    {
+      "name": "Honey Lemon Goat Cheese Brussel Sprout Salad",
+      "source_url": "https://app.cookwell.com/recipe/honey-lemon-goat-cheese-brussel-sprout-salad",
+      "recipe_id": "https://app.cookwell.com/recipe/honey-lemon-goat-cheese-brussel-sprout-salad",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Brussel sprouts, 1 bag",
+        "Walnuts, 60 g",
+        "Sweet Potatoes, 1",
+        "Red Onions, 1/4",
+        "Salt, to taste",
+        "Goat cheese, 60 g",
+        "Olive Oil, 3 parts",
+        "Lemon juice, 1/2 part",
+        "Vinegar, 1/2 part",
+        "Dijon Mustard, 1/2 part",
+        "Honey, 1/2 part",
+        "Thyme, a sprinkle",
+        "Salt, to taste"
+      ],
+      "instructions": [
+        "Dice the sweet potato into small cubes and roast with some oil until lightly browned in the oven. Meanwhile, thinly slice the Brussels sprouts and the red onion. Optionally toast the walnuts in a dry pan over medium heat until fragrant. Remove them from the heat and roughly chop them up. Once everything is prepped, toss it all into a big bowl.",
+        "Prepare the dressing by mixing the oil, mustard, lemon juice, and honey in a container. Put the lid on and shake vigorously until cohesive and emulsified. Add the minced thyme. Taste it. Add salt and adjust the lemon juice as you see fit.",
+        "Add a small sprinkle of salt to the vegetables and lightly toss to disperse. Drizzle some of the vinaigrette over the vegetables and use your hands to lightly toss the salad. Repeat until the salad is dressed to your liking This keeps well in the fridge for 2 or 3 days."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

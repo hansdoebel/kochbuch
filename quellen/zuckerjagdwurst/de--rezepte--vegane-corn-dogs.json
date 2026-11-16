@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-corn-dogs",
+  "recipes": [
+    {
+      "name": "Vegane Corn Dogs",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-corn-dogs",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-corn-dogs#recipe-577170af-64e9-5619-90a9-752243993865",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "8 kleine oder 4 große vegane Würstchen*",
+        "FÜR DEN TEIG",
+        "150 g Weizenmehl",
+        "90 g Maismehl",
+        "1 Ei-Ersatz (z.B. von No Egg)",
+        "4 EL Zucker",
+        "1 EL Backpulver",
+        "250 ml pflanzliche Milch",
+        "AUSSERDEM",
+        "Mehl",
+        "1 Liter Öl zum Frittieren"
+      ],
+      "instructions": [
+        "Verrührt alle trockenen Zutaten für den Teig, gebt euren Ei-Ersatz dazu (Wir hatten No-Egg, der separat kurz angerührt wird. Dafür verrührt ihr einfach 1 EL No Egg mit 2 EL Wasser.) und rührt dann nach und nach die pflanzliche Milch dazu, bis keine Mehlklumpen mehr zu sehen sind. Es kann sein, dass ihr etwas mehr oder auch weniger Milch benötigt, je nachdem welche Konsistenz euer Teig angenommen hat. Er sollte auf jeden Fall dickflüssig sein und nicht zu dünn.",
+        "Wenn ihr nur große vegane Würstchen bekommen habt, könnt ihr sie einfach halbieren. Nehmt euch einen Teller und streut etwas Mehl darauf. Darin wälzt ihr nun alle Würstchen, damit der Teig nachher besser dran hält.",
+        "Steckt einen Holzspieß durch die Würstchen, etwa bis zu 3/4, also nicht komplett durchpieksen. Damit könnt ihr euren Corn Dog nachher nicht nur besser essen, sondern auch jetzt besser zubereiten.",
+        "Lasst euer Öl heiß werden, am besten auf 170-180 Grad.",
+        "Füllt den Teig am besten in ein Standgefäß, lasst dann ein veganes Würstchen am Spieß eintauchen, lasst den überschüssigen Teig kurz abtropfen und ab geht's ins heiße Fett. Wir empfehlen euch, das Würstchen vor allem am Anfang die ganze Zeit zu drehen, damit der Teig ganz gleichmäßig frittiert wird.",
+        "Wenn der Teig schön braun geworden ist, könnt ihr das Würstchen herausnehmen, auf Küchenpapier abtropfen und euch an den nächsten Corn Dog machen, bis alle fertig sind."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

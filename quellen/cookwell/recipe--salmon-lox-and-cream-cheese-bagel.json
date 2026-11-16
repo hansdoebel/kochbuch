@@ -1,0 +1,37 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/salmon-lox-and-cream-cheese-bagel",
+  "recipes": [
+    {
+      "name": "Salmon Lox & Cream Cheese Bagel",
+      "source_url": "https://app.cookwell.com/recipe/salmon-lox-and-cream-cheese-bagel",
+      "recipe_id": "https://app.cookwell.com/recipe/salmon-lox-and-cream-cheese-bagel",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 bagel sandwich",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "Bagels, 1",
+        "Smoked salmon, 2-3 slices",
+        "Cream Cheese",
+        "Red Onions",
+        "Tomatoes",
+        "Fresh dill",
+        "Capers"
+      ],
+      "instructions": [
+        "After toasting the bagel, slice it in half. Spread the cream cheese, to preference, on both sides of the bagel. Place slices of salmon or lox on the bottom of the bagel, followed by the red onion and tomatoes. If desired, add some fresh dill or capers on top of the salmon and close. Optionally wrap in foil or parchment paper to compress the sandwich like it's done at a deli. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

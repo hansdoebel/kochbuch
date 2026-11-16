@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/aloo-matar-374",
+  "recipes": [
+    {
+      "name": "Aloo Matar",
+      "source_url": "https://www.pickuplimes.com/recipe/aloo-matar-374",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT45M",
+      "total_time": "PT55M",
+      "ingredients": [
+        "2 tsp vegetable oil",
+        "1 tsp coriander seeds",
+        "½ tsp cumin seeds",
+        "1 large onion",
+        "4 garlic clove",
+        "2 tsp grated fresh ginger",
+        "1 tsp salt",
+        "1 tsp garam masala",
+        "½ tsp ground turmeric",
+        "½ tsp cayenne pepper",
+        "¼ tsp ground black pepper",
+        "3 medium potato",
+        "1½ cup canned diced tomatoes",
+        "1 cup boiling water",
+        "½ vegetable bouillon cube",
+        "1 cup frozen green peas",
+        "½ cup coconut cream",
+        "2 vegan naan"
+      ],
+      "instructions": [
+        "Heat the oil in a large pot over medium-high heat. Toast the coriander and cumin seeds for 1 to 2 minutes. Stir throughout.",
+        "Then add the onion, garlic, and ginger. Cook for 3 minutes, stirring often.",
+        "Then add the salt, garam masala, turmeric, cayenne, and pepper. Toast for 30 - 60 seconds, stirring throughout.",
+        "Add the potatoes to the pot. Cook for 3 to 4 minutes, stirring frequently.",
+        "Pour in the tomatoes, water, and bouillon. Cover, bring to a boil, then reduce to a simmer, cooking for 15 minutes. Then remove the lid and cook uncovered for another 15 minutes, or until the potatoes are cooked through.",
+        "Add the peas and coconut cream and let heat through.",
+        "Serve with rice or naan, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Coconut cream is the thick layer found on the top of a can of coconut milk. Placing the can of coconut milk in the fridge overnight can help the fat layer separate more easily, and yields more cream.",
+    "Storage Store in an airtight container in the fridge for up to 4 days."
+  ]
+}

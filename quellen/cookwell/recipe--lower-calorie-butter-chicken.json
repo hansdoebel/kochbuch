@@ -1,0 +1,61 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/lower-calorie-butter-chicken",
+  "recipes": [
+    {
+      "name": "Lower Calorie Butter Chicken",
+      "source_url": "https://app.cookwell.com/recipe/lower-calorie-butter-chicken",
+      "recipe_id": "https://app.cookwell.com/recipe/lower-calorie-butter-chicken",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT1H",
+      "ingredients": [
+        "Chicken Breasts, ~300 g",
+        "Yogurt, 30 g",
+        "Salt, 4 g",
+        "Chili Powder, 2 g",
+        "Cumin, 2 g",
+        "Garam Masala, 2 g",
+        "Garlic, 2 cloves",
+        "Fresh ginger, 1/2” knob",
+        "Lime juice, 1/2 lime",
+        "Baking spray, for the pan",
+        "Tomatoes, 400 g",
+        "Onions, 1/4 onion",
+        "Garlic, 1 clove",
+        "Fresh ginger, 1/2” knob",
+        "Peanut Butter, 15 g",
+        "Chili Powder, 4 g",
+        "Garam Masala, 2 g",
+        "Sugar, 2 g",
+        "Turmeric powder, 1 g",
+        "Butter, 28 g",
+        "low-fat evaporated milk, 45 g",
+        "Water, as needed",
+        "Fenugreek leaves, 2 g",
+        "Salt, to taste",
+        "Basmati Rice",
+        "Naan",
+        "Cilantro, for garnish"
+      ],
+      "instructions": [
+        "After chopping the chicken breast into cubes, add them to a bowl with the chili powder, ground cumin, garam masala powder, salt, crushed garlic, ginger, lime, and yogurt. Mix to combine and set aside for 15 minutes to let marinate.",
+        "When ready to cook, set a cast iron or nonstick pan on medium-high heat. Sear chicken pieces until browned and barely cooked through. Since this is a lower-calorie recipe, rely on the pan and yogurt marinade for browning. If you're worried about sticking, you can use a bit of baking spray. Remove the browned chicken pieces from the pan and set aside. These will finish cooking in the gravy later.",
+        "Set a fresh pan over medium heat. Once hot, apply a light amount of baking spray then add the onions and sauté for 2-3 minutes. Add the tomatoes, peanut butter, garlic, ginger, garam masala, chili powder, a small pinch of salt, and a sprinkle of turmeric. Let it simmer for 10 minutes, stirring occasionally. Add some water to thin the mixture, enough to blend well in the next step (about a cup). Stir to combine.",
+        "Pour the sauce into a food processor or blender and pulse until completely smooth. Over the pan, pour and push the sauce through a metal strainer back to the pan. Turn the heat on medium. Add the butter, evaporated milk, and cooked chicken. Stir the sauce and let simmer until it thickens to your liking, usually about 6-10 minutes.",
+        "Crush the fenugreek leaves (kasoor methi) between your hands and sprinkle a pinch over top of the sauce. Turn off the heat. Taste and adjust as needed with salt, sugar, spices, or a bit more butter for texture. Serve the butter chicken with rice, naan, or vegetables. Garnish with cilantro."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

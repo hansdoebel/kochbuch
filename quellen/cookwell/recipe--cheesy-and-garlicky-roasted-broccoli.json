@@ -1,0 +1,37 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/cheesy-and-garlicky-roasted-broccoli",
+  "recipes": [
+    {
+      "name": "Cheesy & Garlicky Roasted Broccoli",
+      "source_url": "https://app.cookwell.com/recipe/cheesy-and-garlicky-roasted-broccoli",
+      "recipe_id": "https://app.cookwell.com/recipe/cheesy-and-garlicky-roasted-broccoli",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Broccoli, 1 bag",
+        "Extra Virgin Olive Oil, as needed",
+        "Garlic, 5 cloves",
+        "Salt, to taste",
+        "Black Pepper, to taste",
+        "Parmesan, to taste"
+      ],
+      "instructions": [
+        "Preheat the oven to 475 F°/246°C. Add a drizzle of oil to coat a sheet pan and place in the oven to preheat. In a bowl, toss together the frozen broccoli, salt, garlic cloves, black pepper, and enough olive oil to coat.",
+        "Once the oven is hot, pull the pan out, add the tossed vegetables, and evenly space them out across the hot pan. Roast for 30 to 40 minutes until deeply browned. Taste and adjust seasoning as needed. Optionally serve with grated cheese over the top. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

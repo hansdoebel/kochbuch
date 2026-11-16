@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-raffaello",
+  "recipes": [
+    {
+      "name": "Vegane Raffaello",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-raffaello",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-raffaello#recipe-8042c688-6bc7-5dca-af8d-111e207b01ad",
+      "authors": [
+        "Ronja Gramse"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "45 Raffaello",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "1.5 vegane Waffelplatten (à 25 x 25 cm)",
+        "50 ml vegane Schlagsahne",
+        "25 g Kokosmus",
+        "35 g Kokosöl",
+        "200 g vegane weiße Schokolade",
+        "45 blanchierte Mandeln",
+        "Kokosraspeln zum Wälzen"
+      ],
+      "instructions": [
+        "Den Backofen auf 180°C (Ober-/Unterhitze) vorheizen. Die Waffelplatten mit etwas Wasser anfeuchten. Anschließend mit einem runden Ausstecher (⌀ 5 cm) Kreise aus den Waffelplatten ausstechen. Die Waffelkreise in eine Silikonform legen und vorsichtig in die Form drücken. Ca. 20 Minuten backen, bis die Waffeln wieder knusprig sind. Danach vollständig abkühlen lassen.",
+        "In der Zwischenzeit die Creme vorbereiten. Dafür vegane Schlagsahne, Kokosmus, Kokosöl und 100 g vegane weiße Schokolade einen Topf geben und bei kleiner Hitze erwärmen, bis alle Zutaten geschmolzen sind und sich zu einer homogenen flüssigen Masse verrühren lassen. Vom Herd nehmen und bei Raumtemperatur oder im Kühlschrank abkühlen lassen. Es ist normal, dass die Creme sehr flüssig ist. Sobald sie abkühlt, wird sie fester.",
+        "Sobald die Waffelplatten und die Creme abgekühlt sind, jede Waffelhalbkugel mit jeweils ca. 1 TL Kokoscreme füllen. In die Hälfte der Waffeln kommt zusätzlich eine blanchierte Mandel. Anschließend je eine Waffelhalbkugel mit einer Mandel und eine Waffelhalbkugel ohne Mandel zusammensetzen und leicht andrücken. Danach kalt stellen.",
+        "Die restliche vegane weiße Schokolade schmelzen und nacheinander alle veganen Raffaello in die weiße Schokolade tunken, bis sie komplett ummantelt sind. Dann in Kokosraspeln wälzen und erneut kalt stellen. Ca. 30 Minuten vor dem Essen aus dem Kühlschrank nehmen, damit die Kokoscreme im Inneren weich wird. Die veganen Raffaello halten sich im Kühlschrank 1-2 Wochen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pancakes-mit-vanilleeis-und-heissen-beeren",
+  "recipes": [
+    {
+      "name": "Vegane Pancakes mit Vanilleeis & heißen Beeren",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pancakes-mit-vanilleeis-und-heissen-beeren",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pancakes-mit-vanilleeis-und-heissen-beeren#recipe-db1a0d73-8262-5191-af6f-b38a2065ba78",
+      "authors": [
+        "Rahel Würsching"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen (12 kleine Pancakes)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Pancakes:",
+        "150 ml pflanzliche Milch + 20 g Zitronensaft (= 170 g Buttermilch)",
+        "80 g Mehl",
+        "1 EL Zucker",
+        "8 g Vanillezucker",
+        "0.5 TL Backpulver",
+        "0.25 TL Natron",
+        "1 Prise Salz",
+        "vegane Butter oder Pflanzenöl zum Braten",
+        "Zum Servieren:",
+        "250 g gefrorene Himbeeren",
+        "200 g veganes Vanille-Eis"
+      ],
+      "instructions": [
+        "Zuerst die vegane Buttermilch vorbereiten. Dazu den Zitronensaft zu der pflanzlichen Milch geben und für mind. 10 Min. stehenlassen.",
+        "In einer Schüssel Mehl mit Zucker, Vanillezucker, Backpulver, Natron und einer guten Prise Salz vermischen. Nun die vegane Buttermilch vorsichtig unter die trockenen Zutaten geben. Nur kurz verrühren, es dürfen noch Mehlklümpchen zu sehen sein. So werden die Pancakes schön locker.",
+        "Eine Pfanne bei mittlerer Hitze auf dem Herd erwärmen. Vegane Butter oder Pflanzenöl in die Pfanne geben und die Pancakes darin ausbacken, sodass sie von beiden Seiten schön goldbraun sind.",
+        "Die gefrorenen Himbeeren in einem Topf unter Rühren erwärmen. Die fertigen Pancakes mit den heißen Beeren und veganem Vanille-Eis servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

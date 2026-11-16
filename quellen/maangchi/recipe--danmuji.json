@@ -1,0 +1,155 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/danmuji",
+  "recipes": [
+    {
+      "name": "Yellow pickled radish (Danmuji)",
+      "source_url": "https://www.maangchi.com/recipe/danmuji",
+      "recipe_id": "/recipe/danmuji#sso/recipe/60541",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "4 pounds daikon radish, washed, the tops trimmed, and dried for 3 days",
+        "1 ounce chija (gardenia fruits)",
+        "1½ cup water",
+        "¼ cup kosher salt",
+        "⅓ cup white or turbinado sugar",
+        "⅓ cup white vinegar",
+        "1 cup rice bran"
+      ],
+      "instructions": [
+        "Crush the chija in a plastic bag. Transfer to a sauce pan. Add 1½ cup water, cover, and boil for 20 minutes over medium high heat.",
+        "Remove from the heat and strain the solids over a bowl. Put them into a cheesecloth folded over a few times, with the top tied to make a pouch.",
+        "Put the strained chija water (about ⅓ cup) into a measuring cup. Add enough cold water to top it up to 1 cup.",
+        "Rinse out the sauce pan and put the cup of strained chija water back into it. Add the salt, sugar, vinegar, and the rice bran. Mix well and set aside.",
+        "Use a peeler to remove any brown spots and roots from the daikon.",
+        "Cut the tops and bottoms off the daikons so the the radishes are about 10 inches long. They should be able to fit comfortably into a gallon ziplock bag. Add the leftover tops and bottoms, too.",
+        "Add the pickle mixture and close the bag. Press gently and move the bag around, upside down and rightside up, so everything gets well mixed. Open the bag and add the gardenia pouch, too.",
+        "Double bag with plastic bags. Refrigerate.",
+        "24 hours later, take the radishes out of the refrigerator.",
+        "Press and massage the radishes through the ziplock bag to mix everything well. Turn it upside down and rightside up a few times. Squeeze the pouch, too.",
+        "Ferment for 1 month, taking it out every other day and giving it a good mix.",
+        "It should be ready to eat in one month. Discard the pouch, and take out as much radish as you’ll need for a serving. Keep the rest in the bag.",
+        "Wash the radish well. Slice, and eat."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients (makes 4 pounds of danmuji)"
+        },
+        {
+          "tag": "li",
+          "text": "4 pounds daikon radish, washed, the tops trimmed, and dried for 3 days"
+        },
+        {
+          "tag": "li",
+          "text": "1 ounce chija (gardenia fruits)"
+        },
+        {
+          "tag": "li",
+          "text": "1½ cup water"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "⅓ cup white or turbinado sugar"
+        },
+        {
+          "tag": "li",
+          "text": "⅓ cup white vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup rice bran"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Make the pickle mixture:"
+        },
+        {
+          "tag": "li",
+          "text": "Crush the chija in a plastic bag. Transfer to a sauce pan. Add 1½ cup water, cover, and boil for 20 minutes over medium high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and strain the solids over a bowl. Put them into a cheesecloth folded over a few times, with the top tied to make a pouch."
+        },
+        {
+          "tag": "li",
+          "text": "Put the strained chija water (about ⅓ cup) into a measuring cup. Add enough cold water to top it up to 1 cup."
+        },
+        {
+          "tag": "li",
+          "text": "Rinse out the sauce pan and put the cup of strained chija water back into it. Add the salt, sugar, vinegar, and the rice bran. Mix well and set aside."
+        },
+        {
+          "tag": "h3",
+          "text": "Make danmuji:"
+        },
+        {
+          "tag": "li",
+          "text": "Use a peeler to remove any brown spots and roots from the daikon."
+        },
+        {
+          "tag": "li",
+          "text": "Cut the tops and bottoms off the daikons so the the radishes are about 10 inches long. They should be able to fit comfortably into a gallon ziplock bag. Add the leftover tops and bottoms, too."
+        },
+        {
+          "tag": "li",
+          "text": "Add the pickle mixture and close the bag. Press gently and move the bag around, upside down and rightside up, so everything gets well mixed. Open the bag and add the gardenia pouch, too."
+        },
+        {
+          "tag": "li",
+          "text": "Double bag with plastic bags. Refrigerate."
+        },
+        {
+          "tag": "h3",
+          "text": "Ferment danmuji:"
+        },
+        {
+          "tag": "li",
+          "text": "24 hours later, take the radishes out of the refrigerator."
+        },
+        {
+          "tag": "li",
+          "text": "Press and massage the radishes through the ziplock bag to mix everything well. Turn it upside down and rightside up a few times. Squeeze the pouch, too."
+        },
+        {
+          "tag": "li",
+          "text": "Ferment for 1 month, taking it out every other day and giving it a good mix."
+        },
+        {
+          "tag": "h3",
+          "text": "Serve danmuji:"
+        },
+        {
+          "tag": "li",
+          "text": "It should be ready to eat in one month. Discard the pouch, and take out as much radish as you’ll need for a serving. Keep the rest in the bag."
+        },
+        {
+          "tag": "li",
+          "text": "Wash the radish well. Slice, and eat."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

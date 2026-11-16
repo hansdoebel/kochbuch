@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/selbstgemachte-rhabarberlimo",
+  "recipes": [
+    {
+      "name": "Selbstgemachte Rhabarberlimo",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/selbstgemachte-rhabarberlimo",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/selbstgemachte-rhabarberlimo#recipe-53804737-b1d5-5d91-a7f9-3f1ecdd68b07",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Gläser",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für den Sirup (250 ml)",
+        "500 g Rhabarber",
+        "125 g Zucker",
+        "1 Zitrone (Abrieb und Saft)",
+        "10 g frische Minze",
+        "200 ml Wasser",
+        "Für den Drink",
+        "1 Flasche Sprudelwasser",
+        "Eiswürfel"
+      ],
+      "instructions": [
+        "Rhabarber evtl. bisschen schälen und klein schneiden. Zusammen mit Zucker Zitronensaft – und abrieb, Wasser und Minze in einen Topf geben und ca. 15 Minuten köcheln lassen (der Rhabarber sollte weich sein). Anschließend die Mischung etwas abkühlen lassen und durch ein Sieb passieren und den Sirup auffangen. Schon habt ihr einen tollen Rhabarbersirup.",
+        "Für Rhabarberlimo müsst ihr den Sirup nur noch mit Sprudelwasser vermengen. Eiswürfel in ein Glas geben, Sirup nach Bedarf rein, mit Sprudelwasse auffüllen und gut verrühren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-rhabarber-muffins-mit-sahne-biscoff",
+  "recipes": [
+    {
+      "name": "Vegane Rhabarber-Muffins mit Creme & Kompott",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-rhabarber-muffins-mit-sahne-biscoff",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-rhabarber-muffins-mit-sahne-biscoff#recipe-571e2815-31b7-576e-aefa-76afd0146d07",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Muffins",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "Für den Teig:",
+        "200 g Rhabarber",
+        "325 g Weizenmehl (Typ 405) oder Dinkelmehl (Typ 630)",
+        "1 EL Kichererbsenmehl",
+        "100 g Zucker",
+        "8 g TL Backpulver",
+        "1 Prise Salz",
+        "240 ml pflanzliche Milch",
+        "90 ml neutrales Pflanzenöl",
+        "Für die Creme:",
+        "200 ml vegane Sahne zum Aufschlagen",
+        "8 g Sahnesteif",
+        "75 g vegane Crème fraîche",
+        "30 g Puderzucker",
+        "Für die Toppings:",
+        "150 g Rhabarber",
+        "2–3 vegane Karamellkekse"
+      ],
+      "instructions": [
+        "Den Backofen auf 180 °C (Umluft) vorheizen. Für den Teig Rhabarber waschen, holzige Enden entfernen und in etwa 1 cm dicke Stücke schneiden.",
+        "In einer Schüssel Mehl, Kichererbsenmehl, Zucker, Backpulver und Salz vermischen. Pflanzliche Milch und Pflanzenöl unterrühren und die Rhabarberstücken unterheben.",
+        "Den Teig in zwölf Mulden einer Muffin-Backform (ausgelegt mit Papierförmchen) verteilen und für 25–30 Minuten bei 180 °C (Umluft) backen.",
+        "In der Zwischenzeit die vegane Creme vorbereiten. Dafür vegane Sahne mit Sahnesteif aufschlagen und vegane Crème fraîche und Puderzucker unterrühren. Bis zum Dekorieren der Muffins kaltstellen.",
+        "Für das Rhabarber-Kompott Rhabarber waschen, holzige Enden entfernen und in etwa 1 Zentimeter dicke Stücke schneiden. Mit 50 Milliliter Wasser in einen kleinen Topf geben und circa 10 Minuten köcheln lassen, bis die Stücken zerfallen. Im Anschluss ebenfalls kaltstellen.",
+        "Die Muffins aus dem Ofen nehmen und komplett abkühlen lassen. Die vegane Creme in eine Spritztülle füllen und einen Kreis auf die Muffins geben. Den Kreis mit Rhabarber-Kompott füllen und mit zerkrümelten Karamellkeksen dekorieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

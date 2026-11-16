@@ -1,0 +1,67 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gebackene-piroggen-mit-veganer-hackfuellung-und-dip",
+  "recipes": [
+    {
+      "name": "Gebackene Piroggen mit veganer Hackfüllung und Dip",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gebackene-piroggen-mit-veganer-hackfuellung-und-dip",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gebackene-piroggen-mit-veganer-hackfuellung-und-dip#recipe-bd253388-4ace-573a-b0a8-a23b16a8cd05",
+      "authors": [
+        "Anna Kreitsmann"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "circa 20 Teigtaschen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT110M",
+      "ingredients": [
+        "Für den Hefeteig:",
+        "190 ml pflanzliche Milch",
+        "300 g Weizenmehl (Type 550)",
+        "1 EL brauner Zucker",
+        "0.5 (21 g) Würfel frische Hefe",
+        "30 g vegane Butter",
+        "1 TL Salz",
+        "Für die Füllung:",
+        "1 große Zwiebel",
+        "160 g Karotten",
+        "150 g Porree",
+        "3 Knoblauchzehen",
+        "2 EL vegane Butter",
+        "200 g veganes Hack",
+        "Salz",
+        "Pfeffer",
+        "Für den Dip:",
+        "200 g veganer Naturjoghurt",
+        "150 g vegane Crème fraîche",
+        "0.5 Zitrone",
+        "50 g Petersilie",
+        "2 Knoblauchzehen",
+        "0.5 EL Chiliflocken",
+        "0.5 EL rosenscharfes Paprikagewürz",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "pflanzliche Milch zum Bestreichen der Teigtaschen"
+      ],
+      "instructions": [
+        "Für den Hefeteig:",
+        "Die pflanzliche Milch erhitzen, bis sie lauwarm ist. Die Hefe in der lauwarmen Milch auflösen und wenige Minuten stehen lassen. Mehl und Zucker in eine große Schüssel geben und die Hefemischung dazugeben.",
+        "In der Zwischenzeit die vegane Butter schmelzen und auf lauwarme Temperatur abkühlen lassen. Die geschmolzene vegane Butter und Salz mit in die Schüssel geben und durchkneten. Den Teig abgedeckt eine Stunde an einem warmen Ort gehen lassen.",
+        "Für die Füllung:",
+        "Die Zwiebel schälen und in feine Würfel schneiden. Die Karotten, den Porree und den Knoblauch möglichst klein schneiden. Eine Pfanne mit etwas veganer Butter erhitzen und zuerst die Zwiebelwürfel in der Butter anschwitzen, bis sie glasig werden. Dann veganes Hack dazugeben und circa 5 Minuten anbraten. Karotten, Knoblauch und Porree in die Pfanne geben und alles circa 10 Minuten gemeinsam anbraten. Die Füllung danach abkühlen lassen.",
+        "Teigtaschen formen:",
+        "Zunächst den Ofen auf 180 °C (Umluft) vorheizen. Den Teig möglichst dünn ausrollen. Danach mit einer Tasse oder einem runden Ausstecher Kreise ausstechen.",
+        "Nun je einen Esslöffel Füllung pro Teigkreis hineingeben und die Kreise in der Mitte zusammenfalten. Danach die Ränder mit einer Gabel verschließen. Die Teigtaschen mit pflanzlicher Milch bestreichen und für 20 Minuten bei 180 °C (Umluft) backen.",
+        "Für das Topping:",
+        "In der Zwischenzeit den veganen Naturjoghurt und die vegane Crème fraîche vermengen. Den Saft und Abrieb einer halben Zitrone dazugeben und unterrühren. Petersilie hacken, Knoblauch pressen und beides zum Dip geben. Nach Belieben würzen und mit Chiliflocken und frischen Kräutern toppen. Zum Schluss mit den Piroggen servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

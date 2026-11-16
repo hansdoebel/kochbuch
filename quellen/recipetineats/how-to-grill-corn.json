@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.recipetineats.com/how-to-grill-corn/",
+  "recipes": [
+    {
+      "name": "How to make Grilled Corn",
+      "source_url": "https://www.recipetineats.com/how-to-grill-corn/",
+      "recipe_id": "https://www.recipetineats.com/how-to-grill-corn/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "4"
+      ],
+      "prep_time": "PT2M",
+      "cook_time": "PT10M",
+      "total_time": "PT12M",
+      "ingredients": [
+        "4 whole corn on the cob",
+        "2 tbsp/ 30g melted butter (, salted)",
+        "Softened butter (, salted (not optional))",
+        "Finely chopped parsley ((optional))"
+      ],
+      "instructions": [
+        "Preheat BBQ (grill side) until very hot.",
+        "Peel husk off the corn.",
+        "Place corn on the BBQ (no oil required).",
+        "Cook for 10 minutes, turning every couple of minutes, until there's little charred bits and the kernels are tender when pierced with a knife, but still JUICY! Overcooked corn is shrivelled, dry and sad.",
+        "In the last minute, brush with melted butter and roll around.",
+        "Serve corn with softened butter, sprinkled with parsley if desired!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: Corn – best to use fresh corn, but can also grill frozen corn!"
+  ]
+}

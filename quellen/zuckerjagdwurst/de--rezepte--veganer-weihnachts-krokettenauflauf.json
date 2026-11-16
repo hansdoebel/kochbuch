@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-weihnachts-krokettenauflauf",
+  "recipes": [
+    {
+      "name": "Veganer Weihnachts-Krokettenauflauf",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-weihnachts-krokettenauflauf",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-weihnachts-krokettenauflauf#recipe-44cbaccf-d767-5a4a-894c-55fc3419d043",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen (Pfanne ∅ 25 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "Für die Soße:",
+        "200 g Karotten",
+        "1 Zwiebel",
+        "200 g Pilze",
+        "2 EL Olivenöl",
+        "1 EL Agavendicksaft",
+        "1 EL Tomatenmark",
+        "1 EL Mehl",
+        "60 ml veganer Rotwein",
+        "200 ml Gemüsebrühe",
+        "100 ml vegane Kochsahne",
+        "1 TL Zimt",
+        "1 TL Muskat",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "400 g Rotkraut (aus dem Glas)",
+        "200 g veganer Reibekäse",
+        "1 EL pflanzliches Öl",
+        "1 EL Wasser",
+        "600 g vegane Kroketten",
+        "frische Petersilie"
+      ],
+      "instructions": [
+        "Karotten und Zwiebel schälen, Pilze putzen und alles klein schneiden. In einer gusseisernen Pfanne Olivenöl erhitzen und das Gemüse anrösten, bis es gebräunt ist. Agavendicksaft und Tomatenmark hinzugeben und 1–2 Minuten mit anrösten.",
+        "Das Gemüse mit Mehl bestreuen, verrühren und mit Rotwein ablöschen. Mit Gemüsebrühe und Sahne aufgießen und aufköcheln lassen. Die Soße mit Zimt und Muskat würzen und mit Salz und Pfeffer abschmecken. Die Soße circa 5 Minuten köcheln lassen, bis sie etwas angedickt ist.",
+        "Tipp: Ihr könnt die Soße auch mit weiteren weihnachtlichen Gewürzen wie Lorbeerblättern, Pimentkörnern, Anis oder Nelke würzen.",
+        "Den Backofen auf 200 °C (Umluft) vorheizen. Das Rotkraut in einem Sieb abtropfen lassen und gleichmäßig auf der Pilzsoße verteilen. Den Reibekäse mit Öl und Wasser vermischen und gleichzeitig auf dem Rotkohl verteilen. Zum Schluss die Kroketten auf den Käse legen.",
+        "Den Auflauf bei 200 °C (Umluft) 20–25 Minuten backen, bis die Kroketten braun werden und knusprig sind. In der Zwischenzeit die frische Petersilie hacken und den fertigen Auflauf damit bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

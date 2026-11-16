@@ -1,0 +1,120 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/duyu",
+  "recipes": [
+    {
+      "name": "Soy milk (Duyu: 두유)",
+      "source_url": "https://www.maangchi.com/recipe/duyu",
+      "recipe_id": "/recipe/duyu#sso/recipe/101868",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "2 servings",
+      "prep_time": "P0DT0H8M0S",
+      "cook_time": "P0DT0H20M0S",
+      "total_time": "P0DT0H28M0S",
+      "ingredients": [
+        "½ cup of the cooked soybeans we prepared",
+        "1½ cups cold water",
+        "1 teaspoon toasted sesame seeds",
+        "¼ teaspoon Kosher salt (or any salt)"
+      ],
+      "instructions": [
+        "Bring a large pot of water to a boil.",
+        "Rinse the soaked beans, drain them, and add them to the boiling water.",
+        "Boil the beans uncovered for 15 minutes over medium-high heat. You’ll notice lots of bubbles forming. Then stir the beans occasionally with a wooden spoon.",
+        "Reduce the heat to very low. Cover the pot and simmer for another 5 minutes.",
+        "Strain the cooked beans and rinse them under cold running water. Drain well and let them cool.",
+        "Once cooled, store the cooked beans in a ziplock bag and freeze for later use.",
+        "In a blender, combine the cooked soybeans, cold water, toasted sesame seeds, and salt.",
+        "Blend on high for 1 to 2 minutes until smooth and creamy.",
+        "Serve the soy milk immediately."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h3",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup of the cooked soybeans we prepared"
+        },
+        {
+          "tag": "li",
+          "text": "1½ cups cold water"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon toasted sesame seeds"
+        },
+        {
+          "tag": "li",
+          "text": "¼ teaspoon Kosher salt (or any salt)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Preparing the soybeans"
+        },
+        {
+          "tag": "p",
+          "text": "Use 2 cups (360 grams) of organic dried soybeans, washed and soaked in cold water for 10 to 12 hours. This will yield approximately 5 cups of soaked beans."
+        },
+        {
+          "tag": "h3",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Bring a large pot of water to a boil."
+        },
+        {
+          "tag": "li",
+          "text": "Rinse the soaked beans, drain them, and add them to the boiling water."
+        },
+        {
+          "tag": "li",
+          "text": "Boil the beans uncovered for 15 minutes over medium-high heat. You’ll notice lots of bubbles forming. Then stir the beans occasionally with a wooden spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Reduce the heat to very low. Cover the pot and simmer for another 5 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Strain the cooked beans and rinse them under cold running water. Drain well and let them cool."
+        },
+        {
+          "tag": "li",
+          "text": "Once cooled, store the cooked beans in a ziplock bag and freeze for later use."
+        },
+        {
+          "tag": "h2",
+          "text": "Making soy milk"
+        },
+        {
+          "tag": "h3",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "In a blender, combine the cooked soybeans, cold water, toasted sesame seeds, and salt."
+        },
+        {
+          "tag": "li",
+          "text": "Blend on high for 1 to 2 minutes until smooth and creamy."
+        },
+        {
+          "tag": "li",
+          "text": "Serve the soy milk immediately."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

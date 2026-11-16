@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-scissor-cut-hefekranz-mit-nussfuellung",
+  "recipes": [
+    {
+      "name": "Veganer Scissor Cut Hefekranz mit Nussfüllung",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-scissor-cut-hefekranz-mit-nussfuellung",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-scissor-cut-hefekranz-mit-nussfuellung#recipe-f2234a3a-2e5b-527e-921e-e8021e358bcc",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Hefekranz",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT125M",
+      "ingredients": [
+        "Für den Hefeteig:",
+        "200 ml Sojamilch",
+        "40 g brauner Zucker",
+        "7 g Trockenhefe",
+        "300 g Weizenmehl (Type 405)",
+        "35 g vegane Butter",
+        "1 TL Salz",
+        "Für die Nussfüllung:",
+        "250 g Röst-Nüsse (z. B. von Kluth",
+        "100 ml pflanzliche Milch",
+        "50 g brauner Zucker",
+        "1 TL Zimt",
+        "1 TL Backkakao",
+        "1 Zitrone (Abrieb)",
+        "Außerdem:",
+        "vegane Sahne",
+        "Marmelade nach Wahl (optional)"
+      ],
+      "instructions": [
+        "Sojamilch erwärmen, bis sie lauwarm ist. Hefe und braunen Zucker einrühren und circa 10 Minuten stehen lassen. Vegane Butter bei kleiner Hitze schmelzen und abkühlen lassen, bis sie lauwarm ist.",
+        "Mehl, Salz und lauwarme vegane Butter zur Sojamilch-Mischung geben und alles circa 5 Minuten zu einem glatten Teig kneten. Mit einem feuchten Geschirrtuch abdecken und mindestens 60 Minuten an einem warmen Ort gehen lassen, bis sich das Teigvolumen verdoppelt hat.",
+        "Für die Nussfüllung Nüsse, pflanzliche Milch, braunen Zucker, Zimt, Backkakao und Zitronenabrieb in einen Zerkleinerer geben und zu einer streichfähigen Masse verarbeiten.",
+        "Den Hefeteig auf einer bemehlten Arbeitsfläche zu einem Rechteck (30 x 40 Zentimeter) ausrollen. Die Nussfüllung gleichmäßig darauf verstreichen und den Teig von der langen Seite eng aufrollen. Nun auf ein mit Backpapier ausgelegtes Backblech platzieren und den Strang vorsichtig zu einem Kranz formen. Die Enden eng aneinander legen.",
+        "Die Teigrolle mit einer Schere im Abstand von circa 2 Zentimetern schräg einschneiden – nicht ganz durchschneiden, sondern die Rolle am unteren Ende stehen lassen. Die einzelnen Segmente abwechselnd nach links und rechts klappen. Den Ofen auf 180 °C (Ober-/Unterhitze) vorheizen und den Kranz nochmals 15 Minuten gehen lassen.",
+        "Den Kranz mit veganer Sahne bestreichen. Im vorgeheizten Ofen circa 20–25 Minuten backen. Wenn der Kranz zu dunkel wird, mit Alufolie abdecken. Den fertigen Kranz aus dem Ofen nehmen und nach Belieben mit Marmelade servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

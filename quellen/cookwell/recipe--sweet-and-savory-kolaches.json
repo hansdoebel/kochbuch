@@ -1,0 +1,50 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/sweet-and-savory-kolaches",
+  "recipes": [
+    {
+      "name": "Sweet & Savory Kolaches",
+      "source_url": "https://app.cookwell.com/recipe/sweet-and-savory-kolaches",
+      "recipe_id": "https://app.cookwell.com/recipe/sweet-and-savory-kolaches",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "9 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT2H20M",
+      "ingredients": [
+        "Bread flour, 400 g",
+        "Milk, 200 g",
+        "Butter, 60 g",
+        "Sugar, 50 g",
+        "Salt, 8 g",
+        "Instant yeast, 6 g",
+        "Eggs, 1",
+        "Eggs, 1",
+        "Water, a splash",
+        "Sausage",
+        "Cheddar",
+        "Jalapeños",
+        "Ham",
+        "Eggs",
+        "Jam",
+        "Farmers cheese",
+        "Sugar, for sprinkling"
+      ],
+      "instructions": [
+        "In a large bowl, combine the flour, sugar, yeast, and salt. Then, in a separate container, mix the warm milk, egg, and melted butter together. Once mixed, pour this over the dry ingredients and incorporate them until a shaggy dough forms. This process might take 2 to 3 minutes, and the dough will be fairly sticky at this point. Cover it and let it rest for 15 minutes before coming back to knead. After 15 minutes, the dough should have relaxed and be much easier to knead. Knead for 4 to 5 minutes until it becomes smooth. Let it rise on the counter, covered, for 90 minutes or until it has doubled in size. Separate the dough into 9 (roughly 80-gram) portions. In a separate bowl, make the egg wash: beat together one egg with a splash of water. Set aside.",
+        "For the sweet versions, roll out the dough into a 4-inch puck. Then, press the middle with a cup, bowl, or your hand to create an indentation that can hold the filling. Brush the exterior rim of the shaped kolaches (not the indentation) with the egg wash, then fill: Add a spoonful of your sweet toppings of choice to the center (for example, a spoonful of berry preserves followed by a small spoonful of farmer’s cheese). Optionally, sprinkle the rim of the exposed dough with coarse sugar.",
+        "For pig-in-a-blanket style kolaches: Roll out your dough so that you can place a 3-inch piece of sausage and any other toppings on it, then wrap the dough around them so that the meat, cheese, and toppings are completely enclosed. It should resemble a sealed pig-in-a-blanket in a cylindrical, uniform shape. For round, stuffed kolaches: Roll out a portion of dough and add your desired fillings. Close and wrap the dough around the fillings to form a ball shape. Flip it and place the seam side down. Once your savory kolaches are stuffed and shaped, brush them with egg wash and sprinkle with grated cheese or sesame seeds.",
+        "Preheat your oven to 400° F/204° C. While the oven is preheating, arrange your kolaches on a greased baking sheet or one lined with parchment paper, and let them rise for 45 minutes. Bake for 15-20 minutes or until golden brown and the dough is cooked through. The savory versions will likely take a few minutes longer than the sweet ones. Let them rest on a wire rack to cool. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

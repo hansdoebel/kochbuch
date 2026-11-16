@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/simple-oatmeal-pancakes-85",
+  "recipes": [
+    {
+      "name": "Simple Oatmeal Pancakes",
+      "source_url": "https://www.pickuplimes.com/recipe/simple-oatmeal-pancakes-85",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT20M",
+      "total_time": "PT25M",
+      "ingredients": [
+        "2 cup rolled oats",
+        "1 cup unsweetened soy milk",
+        "⅓ cup unsweetened applesauce",
+        "2 Tbsp maple syrup",
+        "1 Tbsp refined coconut oil",
+        "2 tsp ground cinnamon",
+        "1 tsp baking powder",
+        "1 tsp pure vanilla extract",
+        "½ tsp salt",
+        "½ cup unsweetened coconut yogurt",
+        "¼ cup pomegranate seeds",
+        "2 Tbsp unsalted roasted pistachios"
+      ],
+      "instructions": [
+        "In a food processor, blend the oatmeal into a flour. Alternatively, use store-bought oatmeal flour.",
+        "Combine all the pancake ingredients in a large bowl.",
+        "Preheat a large pan over medium-high heat with oil. When hot, spoon about ¼ cup of batter onto the pan for each pancake. Cook for about 2 minutes.",
+        "When the bottom becomes golden, flip and cook for another 2 minutes, or until lightly golden.",
+        "For a more balanced breakfast, enjoy these pancakes with some creamy nut butter drizzled overtop, fresh fruit, and creamy plant-based yogurt."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium . † Refined coconut oil is coconut oil that doesn't smell or taste like coconuts. If you prefer a distinct coconut taste, use unrefined coconut oil instead.",
+    "Storage Keep in an airtight container in the fridge for up to 2 days. Frozen, these can last up to two months. Freeze with pieces of parchment separating the pancakes to prevent them from sticking together."
+  ]
+}

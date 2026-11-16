@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/pickled-red-onions-388",
+  "recipes": [
+    {
+      "name": "Pickled Red Onions",
+      "source_url": "https://www.pickuplimes.com/recipe/pickled-red-onions-388",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "16 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT02H05M",
+      "ingredients": [
+        "2 medium red onion",
+        "1 cup boiling water",
+        "¼ cup white vinegar",
+        "¼ cup apple cider vinegar",
+        "2 tsp agave syrup",
+        "1 tsp coarse sea salt"
+      ],
+      "instructions": [
+        "Add the sliced onions to a large heat-proof jar*.",
+        "Pour in the water, vinegars, agave, and salt. Seal the jar tightly and give it a few gentle shakes. Let cool to room temperature, then transfer to the fridge.",
+        "It's best to leave the onions to pickle overnight, but they're still very tasty after just 1 to 2 hours. Enjoy on your favourite sandwiches, salads, or nourish bowls!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † For us, 2 medium onions weigh about 220g total * If using 2 medium onions, a 32 oz (1 litre) mason jar should be the correct size. If using more or fewer onions, scale the size of the jar up or down accordingly.",
+    "Storage Keep the sealed jar in the fridge for up to 2 - 3 weeks."
+  ]
+}

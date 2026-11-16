@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-erdbeerkuchen-mit-sahne",
+  "recipes": [
+    {
+      "name": "Veganer Erdbeerkuchen mit Sahne",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-erdbeerkuchen-mit-sahne",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-erdbeerkuchen-mit-sahne#recipe-77c29881-0117-5119-870b-6460b48e430f",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (∅ 22 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Für den Biskuitteig:",
+        "225 g Weizenmehl (Type 405)",
+        "150 g Zucker",
+        "8 g Vanillezucker",
+        "1 TL Backpulver",
+        "1 Prise Salz",
+        "50 ml pflanzliches Öl (Raps- oder Sonnenblumenöl)",
+        "250 ml Sprudelwasser",
+        "Außerdem:",
+        "250 g Erdbeeren",
+        "200 ml vegane Sahne zum Aufschlagen",
+        "8 g Sahnesteif",
+        "8 g Vanillinzucker"
+      ],
+      "instructions": [
+        "Den Ofen auf 180 °C (Umluft) vorheizen. Für den Biskuitteig Mehl, Zucker, Vanillezucker, Backpulver und Salz in einer Schüssel vermischen. Pflanzenöl und Sprudelwasser hinzugeben und nur noch kurz unterrühren. Den Teig in eine eingefettete Springform (∅ 22 cm) geben und 20–30 Minuten backen. Danach komplett abkühlen lassen.",
+        "In der Zwischenzeit die Sahne mit Sahnesteif und Vanillezucker aufschlagen und kaltstellen. Die Erdbeeren waschen und halbieren oder vierteln.",
+        "Sobald der Kuchen komplett ausgekühlt ist, mit der Sahne bestreichen und mit Erdbeeren toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

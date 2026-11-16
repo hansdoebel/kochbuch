@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kartoffel-hackfleisch-auflauf",
+  "recipes": [
+    {
+      "name": "Veganer Kartoffel-Hack-Auflauf",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kartoffel-hackfleisch-auflauf",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kartoffel-hackfleisch-auflauf#recipe-9b2b9a55-09bd-589d-9242-840b53e765d1",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "Für die Kartoffelschicht:",
+        "1 kg festkochende Kartoffeln",
+        "Für die vegane Hackschicht:",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "2 EL vegane Butter",
+        "ca. 500 g veganes Hackfleisch",
+        "2 EL Tomatenmark",
+        "2 EL Sojasoße",
+        "Für die vegane Sahnesoße:",
+        "1 EL vegane Butter",
+        "1 EL Weizenmehl (Type 405)",
+        "500 ml vegane Kochsahne",
+        "0.5 TL Muskatnuss",
+        "1 TL getrockneter Rosmarin",
+        "1 TL getrockneter Thymian",
+        "Zum Überbacken:",
+        "200 g veganer Streukäse",
+        "2 EL Pflanzenöl",
+        "2 EL Wasser",
+        "Außerdem:",
+        "vegane Butter zum Einfetten",
+        "frischer Thymian zum Servieren",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Die Kartoffeln schälen und in dünne Scheiben schneiden. Zwiebel und Knoblauch schälen und fein würfeln.",
+        "Die vegane Butter für die „Hackschicht“ in einer großen Pfanne zerlassen und Zwiebel und Knoblauch darin circa 2–3 Minuten anschwitzen, bis die Zwiebelwürfel glasig sind. Das vegane Hack hinzugeben und anbraten, bis es gebräunt ist. Danach Tomatenmark und Sojasoße dazugeben, vermengen und weitere 4–5 Minuten anbraten. Zum Schluss mit Salz und Pfeffer abschmecken.",
+        "Für die Soße vegane Butter in einem kleinen Topf schmelzen lassen und das Mehl gründlich einrühren. Vegane Sahne unter Rühren dazugeben, damit sich keine Klümpchen bilden. Mit Muskat, Rosmarin, Thymian, Salz und Pfeffer abschmecken und die Soße vom Herd nehmen.",
+        "Den Ofen auf 180 °C (Umluft) vorheizen. Veganen Streukäse mit Öl und Wasser vermengen, damit er besser schmilzt. Eine Auflaufform mit veganer Butter einfetten.",
+        "Die Hälfte der Kartoffelscheiben in der Auflaufform verteilen und anschließend mit der Hälfte der veganen Sahnesoße begießen. Nun das komplette vegane Hack daraufgeben und mit den restlichen Kartoffelscheiben bedecken. Zum Schluss mit der restlichen veganen Sahnesoße übergießen und den veganen Käse darauf verteilen.",
+        "Den Auflauf bei 180 °C (Umluft) auf mittlerer Schiene circa 40 Minuten backen, bis er oben goldbraun ist und die Kartoffeln durchgebacken sind. Nach dem Backen kurz stehen und anziehen lassen und mit frischem Thymian bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

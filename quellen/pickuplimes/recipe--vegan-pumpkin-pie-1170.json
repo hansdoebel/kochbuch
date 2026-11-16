@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vegan-pumpkin-pie-1170",
+  "recipes": [
+    {
+      "name": "Vegan Pumpkin Pie",
+      "source_url": "https://www.pickuplimes.com/recipe/vegan-pumpkin-pie-1170",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT15M",
+      "cook_time": "PT30M",
+      "total_time": "PT45M",
+      "ingredients": [
+        "12.346 oz vegan pie dough",
+        "14.991 oz canned pumpkin purée",
+        "1 cup soy cooking cream",
+        "¾ cup light brown sugar",
+        "¼ cup cornstarch",
+        "2 tsp pure vanilla extract",
+        "1½ tsp ground cinnamon",
+        "½ tsp ground ginger",
+        "¼ tsp salt",
+        "⅛ tsp ground nutmeg",
+        "1 pinch ground cloves"
+      ],
+      "instructions": [
+        "Preheat the oven to 400°F (200°C)*. Roll the pie dough 4 cm wider than your pie plate. Place the crust in a 9-inch (23 cm) glass pie plate. Allow 1 cm of dough to hang over the edges and trim away any excess dough beyond that.",
+        "Fold over the overhanging dough and press it down to secure it. Then crimp the edges as desired.",
+        "Poke the base several times with a fork.",
+        "Crumple up a sheet of baking paper and place it in the shell, filling it to the top with pie weights or dry beans. Bake on the lower rack of the oven, placed on top of a metal cookie sheet, for 15 minutes.",
+        "Meanwhile, to a saucepan, add the pumpkin purée, cooking cream, sugar, cornstarch, vanilla, cinnamon, ginger, salt, nutmeg, and cloves. Mix until smooth, but don't start cooking yet.",
+        "Remove the baking paper and weights from the pie shell and poke the base several times again with a fork. Return the crust to the oven to bake for an additional 8 to 10 minutes, or until lightly golden.",
+        "Meanwhile, start cooking the pumpkin mixture on the stove over medium-high heat. Cook for 5 to 8 minutes to thicken, stirring throughout to avoid scorching**.",
+        "Remove the baked pie shell from the oven and drop the oven temperature to 350°F (180°C). Pour the hot pumpkin mixture into the hot shell and spread the top out evenly. Bake for 8 to 10 minutes, or until the top of the pumpkin becomes slightly set.",
+        "Allow the pie to cool at room temperature for at least 4 hours before slicing and serving. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection). ** The mixture should bubble, darken in colour, and thicken to a caramel consistency.",
+    "Storage Store the baked pie covered in the fridge for up to 3 days."
+  ]
+}

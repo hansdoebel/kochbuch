@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-soljanka",
+  "recipes": [
+    {
+      "name": "Vegane Soljanka",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-soljanka",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-soljanka#recipe-567a57ff-a23b-545c-9a79-ed142c8faef6",
+      "authors": [
+        "Anneke Schügner"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4–6 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Soljanka:",
+        "50 g Sojaschnetzel",
+        "1 Zwiebel",
+        "250 g Räuchertofu",
+        "3 Knoblauchzehen",
+        "4 EL Tomatenmark",
+        "2 TL Senf",
+        "1 EL edelsüßes Paprikapulver",
+        "1 Lorbeerblatt",
+        "680 g Letschogemüse aus dem Glas",
+        "800 g gehackte Tomaten aus der Dose",
+        "400 ml Gemüsebrühe",
+        "100 ml Gewürzgurkenwasser",
+        "200 g Gewürzgurken",
+        "Salz",
+        "Pfeffer",
+        "vegane Butter zum Braten",
+        "Zum Servieren:",
+        "Baguette",
+        "vegane Crème fraîche"
+      ],
+      "instructions": [
+        "Sojaschnetzel in 400 Milliliter warmer Gemüsebrühe für circa 10–15 Minuten einweichen. Anschließend abgießen und die Gemüsebrühe auffangen. In der Zwischenzeit die Zwiebel fein würfeln und den Knoblauch hacken. Den Räuchertofu in etwa daumengroße Stücke schneiden.",
+        "Butter in einem Topf erhitzen und den Räuchertofu und die Sojaschnetzel scharf anbraten. Sobald alles leicht gebräunt ist, die Zwiebeln und den Knoblauch hinzugeben und braten, bis die Zwiebeln glasig werden. Anschließend Tomatenmark und Senf hinzufügen und für weitere 3–4 Minuten anbraten. Mit Paprikapulver würzen und das Lorbeerblatt hinzufügen. Dann mit Letschogemüse, gehackten Tomaten, Gemüsebrühe und Gurkenwasser aufgießen und auf mittlerer Hitze köcheln lassen.",
+        "In der Zwischenzeit die Gewürzgurken ebenfalls in daumengroße Stücke schneiden und diese in den Topf geben. Die Soljanka für mindestens 15–20 Minuten auf mittlerer Hitze köcheln lassen.",
+        "Die fertige Suppe mit veganer Crème fraîche und Baguettescheiben servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

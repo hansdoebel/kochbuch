@@ -1,0 +1,109 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/yangbaechu-pickle",
+  "recipes": [
+    {
+      "name": "Shredded cabbage pickles (Yangbaechu-pickle: 양배추피클)",
+      "source_url": "https://www.maangchi.com/recipe/yangbaechu-pickle",
+      "recipe_id": "/recipe/yangbaechu-pickle#sso/recipe/101589",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "8 servings",
+      "prep_time": "P0DT0H8M0S",
+      "cook_time": null,
+      "total_time": "P0DT0H8M0S",
+      "ingredients": [
+        "8 ounces shredded cabbage",
+        "¼ cup (2 ounces) grated beet",
+        "1 tablespoon grated ginger",
+        "½ cup water",
+        "2 teaspoons Kosher salt",
+        "2 tablespoons plus 1 teaspoon apple cider vinegar",
+        "1 tablespoon sugar (optional)"
+      ],
+      "instructions": [
+        "Add the grated beet and ginger to a cheesecloth and wrap it into a pouch. Tie it securely.",
+        "Place the pouch in a bowl.",
+        "Add the water, salt, vinegar, and sugar (if using) to the bowl. Mix well.",
+        "Squeeze the beet and ginger pouch with a spoon or by hand to release the pink color into the mixture.",
+        "Add the shredded cabbage to the brine and mix well.",
+        "Transfer the cabbage and brine to an airtight container or a glass jar.",
+        "Refrigerate for up to 1 month."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "8 ounces shredded cabbage"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup (2 ounces) grated beet"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon grated ginger"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup water"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons Kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons plus 1 teaspoon apple cider vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon sugar (optional)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Add the grated beet and ginger to a cheesecloth and wrap it into a pouch. Tie it securely."
+        },
+        {
+          "tag": "li",
+          "text": "Place the pouch in a bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Add the water, salt, vinegar, and sugar (if using) to the bowl. Mix well."
+        },
+        {
+          "tag": "li",
+          "text": "Squeeze the beet and ginger pouch with a spoon or by hand to release the pink color into the mixture."
+        },
+        {
+          "tag": "li",
+          "text": "Add the shredded cabbage to the brine and mix well."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer the cabbage and brine to an airtight container or a glass jar."
+        },
+        {
+          "tag": "li",
+          "text": "Refrigerate for up to 1 month."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

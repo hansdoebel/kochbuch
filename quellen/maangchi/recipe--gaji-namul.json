@@ -1,0 +1,136 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/gaji-namul",
+  "recipes": [
+    {
+      "name": "Eggplant side dish (Gaji-namul)",
+      "source_url": "https://www.maangchi.com/recipe/gaji-namul",
+      "recipe_id": "/recipe/gaji-namul#sso/recipe/1488",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 pound of Korean eggplants (3-4 eggplants), caps removed and washed",
+        "3 garlic cloves, minced",
+        "2 green onions, chopped",
+        "1 tablespoon soy sauce",
+        "1 teaspoon fish sauce",
+        "1 teaspoon Korean hot pepper flakes (gochugaru)",
+        "2 teaspoons toasted sesame oil",
+        "1 tablespoon toasted sesame seeds, crushed"
+      ],
+      "instructions": [
+        "Prep your steamer by adding 2 cups of water to it. Set heat to medium-high for it to boil, it shoud take about 5 minutes.",
+        "Meanwhile, cut eggplants crosswise into 2½ inch pieces. Cut the thicker pieces in half lengthwise.",
+        "When the water starts boiling, put the eggplants on the steamer rack and cover. Steam for 5 minutes over medium high heat.",
+        "Remove from the heat. Take out the steamed eggplant and transfer to a cutting board. Let cool for 5 to 10 minutes until you can easily handle them.",
+        "Tear each piece into bite size pieces.",
+        "Combine garlic, green onion, soy sauce, fish sauce, hot pepper flakes, sesame oil in a mixing bowl.",
+        "Mix well with a wooden spoon.",
+        "Add the steamed eggplant to the bowl and mix well by hand or with the wooden spoon.",
+        "Sprinkle with the crushed sesame seeds and serve with rice."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "(serves 4):"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound of Korean eggplants (3-4 eggplants), caps removed and washed"
+        },
+        {
+          "tag": "li",
+          "text": "3 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "2 green onions, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon fish sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon Korean hot pepper flakes (gochugaru)"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame seeds, crushed"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Prep your steamer by adding 2 cups of water to it. Set heat to medium-high for it to boil, it shoud take about 5 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Meanwhile, cut eggplants crosswise into 2½ inch pieces. Cut the thicker pieces in half lengthwise."
+        },
+        {
+          "tag": "li",
+          "text": "When the water starts boiling, put the eggplants on the steamer rack and cover. Steam for 5 minutes over medium high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat. Take out the steamed eggplant and transfer to a cutting board. Let cool for 5 to 10 minutes until you can easily handle them."
+        },
+        {
+          "tag": "li",
+          "text": "Tear each piece into bite size pieces."
+        },
+        {
+          "tag": "p",
+          "text": "Make seasoning mixture:"
+        },
+        {
+          "tag": "li",
+          "text": "Combine garlic, green onion, soy sauce, fish sauce, hot pepper flakes, sesame oil in a mixing bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Mix well with a wooden spoon."
+        },
+        {
+          "tag": "p",
+          "text": "Put it together & serve:"
+        },
+        {
+          "tag": "li",
+          "text": "Add the steamed eggplant to the bowl and mix well by hand or with the wooden spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Sprinkle with the crushed sesame seeds and serve with rice."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

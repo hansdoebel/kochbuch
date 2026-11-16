@@ -1,0 +1,44 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/chili-oil-beef-noodles",
+  "recipes": [
+    {
+      "name": "Chili Oil Beef Noodles",
+      "source_url": "https://app.cookwell.com/recipe/chili-oil-beef-noodles",
+      "recipe_id": "https://app.cookwell.com/recipe/chili-oil-beef-noodles",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Chili crisp oil, 45 g",
+        "Soy Sauce, 30 g",
+        "Peanut Butter, 30g",
+        "Sesame Oil, 5 g",
+        "Lime juice, 1/2 lime",
+        "93/7 ground beef, 454 g",
+        "Salt, 5 g",
+        "Garlic, 2 cloves",
+        "Chili Powder, a sprinkle",
+        "Noodles, 4 servings",
+        "Asparagus, 1 bunch",
+        "Scallions, 1 bunch"
+      ],
+      "instructions": [
+        "Set a container over a scale. Add chili crisp, peanut butter, sesame oil, soy sauce, and lime juice. Mix together until the sauce is homogenous. Store in the fridge until ready to use.",
+        "Boil & drain your noodles of choice according to package directions. Save the pot of water to blanch the asparagus in step 3. While the noodles are boiling, sear the beef: place a griddle or large pan over high heat. Add the ground meat, salt, minced garlic, and chili powder. Break up with a potato masher or spatula and let it brown until cooked through.",
+        "Finally, blanch the asparagus. Add the asparagus to a pot of boiling water for 3-4 minutes, then transfer to an ice bath. Once cooled, drain and pat dry. Now that you have all of your components ready, assemble individual portions whenever you need a meal: add a spoonful of chili vinaigrette to a bowl, followed by a bed of noodles, beef, and asparagus. Garnish with scallions and more chili vinaigrette to finish. Enjoy warm or cold."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

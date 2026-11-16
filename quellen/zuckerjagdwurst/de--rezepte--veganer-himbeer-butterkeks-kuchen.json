@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-himbeer-butterkeks-kuchen",
+  "recipes": [
+    {
+      "name": "Veganer Himbeer-Butterkeks-Kuchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-himbeer-butterkeks-kuchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-himbeer-butterkeks-kuchen#recipe-9f072426-4acc-537f-8255-d4647d12dbdf",
+      "authors": [
+        "Lara Iwaloye"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (25 cm x 21 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT230M",
+      "ingredients": [
+        "Für den Kuchenboden (25 cm x 21 cm):",
+        "220 g Mehl",
+        "100 g Zucker",
+        "8 g (1 TL) Vanillezucker",
+        "8 g (1 TL) Backpulver",
+        "50 ml neutrales Pflanzenöl",
+        "200 ml Sprudelwasser",
+        "8–10 vegane Butterkekse (grob gehackt)",
+        "Für die Sahneschicht:",
+        "200 ml vegane Schlagsahne",
+        "16 g Sahnesteif",
+        "200 g veganer Skyr",
+        "150 g veganer Frischkäse",
+        "16 g Vanillezucker",
+        "Für die Himbeerschicht:",
+        "250 g Himbeeren",
+        "8 g Vanille Puddingpulver",
+        "20 g Zucker",
+        "75 ml Wasser",
+        "circa 9 vegane Butterkekse (je nach Kuchenform)"
+      ],
+      "instructions": [
+        "Den Backofen auf 180 °C (Umluft) vorheizen. Für die Sahneschicht die vegane Sahne mit Sahnesteif aufschlagen, bis sie schnittfest ist. In einer separaten Schüssel den Skyr, Frischkäse und Vanillezucker mit einem Rührgerät vermischen, bis eine homogene Masse entsteht. Anschließend die aufgeschlagene Sahne vorsichtig unterheben und die Creme für mindestens 3 Stunden oder über Nacht kaltstellen.",
+        "Die Himbeeren mit dem Zucker und circa 25 ml Wasser in einen Topf geben und bei niedriger Hitze köcheln lassen. Das Puddingpulver im restlichen Wasser auflösen und in die Himbeeren rühren. Alles aufkochen und andicken lassen. Danach zum Abkühlen beiseitestellen.",
+        "Für den Kuchenboden Mehl, Zucker, Vanillezucker, Backpulver, Pflanzenöl und Sprudelwasser mit einem Schneebesen vermischen. Circa 8–10 Butterkekse grob hacken und in den Teig rühren. Eine rechteckige Kuchenform (25 cm x 21 cm) mit Backpapier auslegen, den Teig hineingeben und für 20–25 Minuten backen. Vor dem Herausnehmen eine Stäbchenprobe machen.",
+        "Sobald alles abgekühlt ist, die Cremes in zwei Spritzbeutel geben. Als erstes wird die Himbeerschicht circa 5 mm dick auf den Biskuitteig gegeben. Danach wird die Sahneschicht daraufgespritzt. Dabei haben wir eine größere Öffnung in den Spritzbeutel geschnitten, damit diese Schicht am Ende am dicksten ist. Zum Schluss werden die Butterkekse auf den Kuchen gelegt."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

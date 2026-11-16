@@ -1,0 +1,83 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-fruehstuecksburger",
+  "recipes": [
+    {
+      "name": "Veganer Frühstücksburger",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-fruehstuecksburger",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-fruehstuecksburger#recipe-5394f68b-2a3c-5537-b717-60253aff824a",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Burger",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "4 Laugenbrötchen",
+        "1 Portion veganes Rührei (Rezept auf dem Blog)",
+        "3 Handvoll Lollo Salat",
+        "3 EL Kresse",
+        "1 Avocado",
+        "2 Tomaten",
+        "4 Gewürzgurken",
+        "4 EL vegane Sour Cream (Rezept auf dem Blog)",
+        "4 TL süßer Senf"
+      ],
+      "instructions": [
+        "Das vegane Rührei zubereiten.",
+        "Salat waschen und in handflächen-große Stücken reissen.",
+        "Tomaten waschen und in Scheiben schneiden.",
+        "Kresse waschen, Schale und Kern der Avocado entfernen und das Avocadofleisch in Scheiben schneiden.",
+        "Die Gewürzgurken in Scheiben schneiden.",
+        "Die Sour Cream anrühren.",
+        "Nun geht's ans Stapeln!",
+        "Laugenbrötchen längs aufschneiden, die Brothälften mit Sour Cream und Süßem Senf bestreichen. Nun Salat, Tomaten, Saure Gurken, Rührei, Avocado darauf stapeln und mit Kresse toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Veganer Rührtofu",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-fruehstuecksburger",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-fruehstuecksburger#recipe-15b0b6c4-4ee6-5e9a-9b50-45789de92ea3",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "25 g Kichererbsenmehl",
+        "125 ml pflanzliche Milch",
+        "400 g Naturtofu",
+        "2 EL Hefeflocken",
+        "0.5 TL Kurkuma",
+        "0.5 TL edelsüßes Paprikapulver",
+        "0.5 TL Kala Namak",
+        "1 rote Zwiebel",
+        "1 Paprika",
+        "Salz",
+        "Pfeffer",
+        "Kresse zum Servieren",
+        "vegane Butter oder Pflanzenöl zum Braten"
+      ],
+      "instructions": [
+        "Kichererbsenmehl und pflanzliche Milch in einer Schüssel verrühren. Den Naturtofu mit den Händen zerbröseln und in die Mehlmischung geben. Hefeflocken, Kurkuma, Paprikapulver und Kala-Namak-Salz dazugeben, mit mit Salz und Pfeffer würzen und alles gut vermengen.",
+        "Rote Zwiebel schälen und fein würfeln, die Paprikaschote waschen und ebenfalls in kleine Würfel schneiden.",
+        "Vegane Butter einer großen Pfanne schmelzen und die Zwiebelwürfel darin ca. 3 Minuten anschwitzen, oder bis sie glasig sind. Paprikawürfel dazugeben und weitere 3-4 Minuten anbraten, bis sie weicher werden. Nun den Rührtofu dazugeben und ca. 10 Minuten anbraten, bis er leicht gebräunt ist. Mit Kresse bestreuen und servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

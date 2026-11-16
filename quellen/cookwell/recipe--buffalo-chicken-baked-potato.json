@@ -1,0 +1,51 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/buffalo-chicken-baked-potato",
+  "recipes": [
+    {
+      "name": "Buffalo Chicken Baked Potato",
+      "source_url": "https://app.cookwell.com/recipe/buffalo-chicken-baked-potato",
+      "recipe_id": "https://app.cookwell.com/recipe/buffalo-chicken-baked-potato",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "Chicken Breasts, 450 g",
+        "Salt, 3 g",
+        "Chicken bouillon powder, 4 g",
+        "Shallots, 1/2",
+        "Neutral oil, 10 g",
+        "Blue Cheese, 70 g",
+        "Sour Cream, 140 g",
+        "Dried dill, a sprinkle",
+        "Granulated garlic, a sprinkle",
+        "Black Pepper, 20 cranks",
+        "Water, as needed",
+        "Russet potatoes, 2-3",
+        "Neutral oil, 10 g",
+        "Salt, a sprinkle",
+        "Buffalo Sauce, to taste",
+        "Scallions, for garnish"
+      ],
+      "instructions": [
+        "Poke several holes all over the potato with a fork. Microwave it for 3 minutes to give it a head start. Rub the potato with a little oil and salt, then transfer it to a 425°F (220°C) oven and bake for about 30 minutes, or until the skin is crisp and the center is tender.",
+        "Cut the chicken breast into rough cubes and add them to a food processor with the salt, chicken bouillon powder, and shallot. Process for about 1 minute, or until the chicken is evenly chopped into a ground texture. If you do not want to use a food processor, finely chop the chicken and shallot by hand until the mixture resembles coarse ground chicken.",
+        "Set a pan over high heat and add the cooking oil. Add the chicken mixture to the pan and spread it into an even layer to sear. Let the chicken sit undisturbed for a couple of minutes so it can brown deeply on the bottom. Flip the larger pieces, then continue browning until the chicken has developed crusty edges. Break it up with a spatula or potato masher into small, pebbly pieces. Remove from the heat and set aside.",
+        "Add the blue cheese, sour cream, dried dill, dried minced garlic, black pepper, and water to a jar or blending cup. Blend until mostly smooth. Add more water as needed until the sauce is pourable but still thick.",
+        "Set a pan over medium heat and add a thin layer of buffalo sauce. Bring it to a simmer. Add the cooked ground chicken and toss until heated through and coated. Add more buffalo sauce if needed for a saucier texture. Turn off heat.",
+        "Slice into the top of the baked potato and fluff the inside with a fork to make a potato bowl. Drizzle some blue cheese sauce directly onto the potato. Spoon the buffalo chicken over the top, then finish with more blue cheese sauce and finely sliced scallions."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

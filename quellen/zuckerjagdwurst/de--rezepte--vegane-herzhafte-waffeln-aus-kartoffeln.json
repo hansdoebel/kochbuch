@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-herzhafte-waffeln-aus-kartoffeln",
+  "recipes": [
+    {
+      "name": "Vegane herzhafte Waffeln aus Kartoffeln",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-herzhafte-waffeln-aus-kartoffeln",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-herzhafte-waffeln-aus-kartoffeln#recipe-45d7a392-71fb-57fe-8962-2b6b1e8ee829",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Waffeln",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "600 g Kartoffeln",
+        "75 g Reismehl",
+        "0.25 TL Knoblauchpulver",
+        "0.25 TL Paprikapulver",
+        "0.25 TL Muskat",
+        "Salz",
+        "Pfeffer",
+        "optional: Zucchini, Karotte oder Zwiebel",
+        "Pflanzenöl zum Braten",
+        "Für die grüne Variante:",
+        "Gurke, Avocado, Salsa Verde, pflanzlicher Joghurt und Kresse",
+        "Für die rote Variante:",
+        "Tomaten, rote Zwiebeln, getrocknete Tomaten, Radieschen, veganes Pesto Rosso, pflanzlicher Joghurt und Schnittlauch"
+      ],
+      "instructions": [
+        "Die Kartoffeln schälen, grob reiben und in ein sauberes Geschirrtuch geben. Kräftig auswringen, damit so viel Flüssigkeit wie möglich aus den Kartoffeln kommt. Wenn ihr noch weitere Gemüsesorten verarbeiten wollt, z. B. Zucchini, dann raspelt ihr sie direkt mit und gebt sie ebenfalls ins Geschirrtuch zum Auswringen. Zwiebeln kannst du einfach fein würfeln und später mit in die Schüssel geben.",
+        "Gebt die geriebenen Kartoffeln in eine Schüssel zusammen mit Reismehl, Knoblauchpulver, Paprika und Muskat. Kräftig mit Salz und Pfeffer würzen und alles gut mit den Händen vermengen.",
+        "Euer Waffeleisen vorheizen und mit etwas Pflanzenöl bestreichen. Eine große Portion der geriebenen Kartoffeln aufs Waffeleisen geben, so dass ihr sie richtig zusammendrücken müsst, um das Waffleisen zu schließen. So bekommt ihr kompakte, dickere, knusprige Waffeln. Die Waffeln nun goldbraun rösten und anschließend herausnehmen und mit den restlichen geriebenen Kartoffeln wiederholen.",
+        "Zum Schluss die knusprigen Kartoffel-Waffeln mit Toppings eurer Wahl belegen. Für die grüne Variante belegten wir die Waffeln mit Gurke, Avocado, Salsa Verde, pflanzlichen Joghurt und Kresse. Für die rote Variante kamen Tomaten, rote Zwiebeln, getrocknete Tomaten, Radieschen, Pesto Rosso, pflanzlicher Joghurt und Schnittlauch auf die Waffeln."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

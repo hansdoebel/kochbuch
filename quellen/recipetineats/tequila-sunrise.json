@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.recipetineats.com/tequila-sunrise/",
+  "recipes": [
+    {
+      "name": "Tequila Sunrise",
+      "source_url": "https://www.recipetineats.com/tequila-sunrise/",
+      "recipe_id": "https://www.recipetineats.com/tequila-sunrise/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "1"
+      ],
+      "prep_time": "PT5M",
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "45 ml / 1.5oz tequila",
+        "90ml / 3 oz orange juice",
+        "15 ml / 0.5 oz grenadine syrup",
+        "Orange slices",
+        "Maraschino cherry"
+      ],
+      "instructions": [
+        "Pour tequila and orange juice in a tall glass. Scale up recipe as required for your glass side (1 part tequila to 3 parts OJ)!",
+        "Mix, then fill with ice.",
+        "Drizzle grenadine down the side of the glass over the back of a teaspoon (see video). Do not mix!",
+        "Garnish with orange slice and Maraschino cherry. Serve immediately!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: Tequila – use a mid range one which, in Australia, is around the $40 to $50 range. Reserve the better stuff for drinking straight! I use Jose Cuervo which is a top-mid range Mexican tequila. Orange juice – the fresher the better! Avoid the sweet reconstituted stuff with loads of added sugar. Grenadine syrup – a non alcoholic red sugar syrup made from concentrated pomegranate juice. This is what makes Tequila Sunrise red – see video! Maraschino Cherries – sold in Dan Murphys in Australia! If you can’t find them, just use normal glace cherries sold in the baking aisle of supermarkets – it won’t have the stems but they still look good!"
+  ]
+}

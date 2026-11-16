@@ -1,0 +1,62 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-grillfackeln-seitan-mit-kichererbsensalat",
+  "recipes": [
+    {
+      "name": "Vegane Grillfackeln aus Seitan mit Kichererbsensalat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-grillfackeln-seitan-mit-kichererbsensalat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-grillfackeln-seitan-mit-kichererbsensalat#recipe-1f5e08f8-727b-570d-ad20-4f57ef766876",
+      "authors": [
+        "Anna Germek"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Fackeln",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT115M",
+      "ingredients": [
+        "Für die Grillfackeln:",
+        "200 g Seitan-Fix",
+        "200 ml Wasser",
+        "2 EL Sojasoße",
+        "1 EL Olivenöl",
+        "1 TL Senf",
+        "2 EL Ahornsirup",
+        "2 EL Hefeflocken",
+        "2 EL Paprikapulver",
+        "1 EL Salz",
+        "1 Knoblauchzehe",
+        "140 g (1 Glas) Grillgemüse-Aufstrich (z. B. von TARTEX)",
+        "Für den Salat:",
+        "3 Tomaten",
+        "0.5 Gurke",
+        "150 g veganer Feta",
+        "1 rote Zwiebel",
+        "200 g Kichererbsen (Abtropfgewicht)",
+        "4 EL Balsamicoessig",
+        "3 EL Olivenöl",
+        "1 EL Agavendicksaft",
+        "1 Knoblauchzehe",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "1 rustikales Baguette",
+        "3 EL Olivenöl",
+        "Holz- oder Schaschlik-Spieße"
+      ],
+      "instructions": [
+        "Für die Grillfackeln Wasser, Sojasoße, Olivenöl, Senf, Ahornsirup, Hefeflocken, Paprikapulver, Salz, eine Knoblauchzehe und den Grillgemüse-Aufstrich in einen Mixer geben und pürieren. Danach einen Teil (etwa 50 Gramm) als Marinade beiseitestellen. Den Rest zum Seitan-Fix geben und kneten, bis ein Ball entsteht.",
+        "Tipp: Wenn ihr Holzstäbe verwendet, dann weicht sie vorab in Wasser ein. Dadurch verbrennen sie auf dem Grill weniger schnell.",
+        "Die Masse in acht Portionen teilen und zu Würsten rollen. Ein Ende der Wurst aufspießen, den Spieß komplett durchschieben, dann die Wurst um den Spieß wickeln und das Ende zum Fixieren erneut aufspießen. Anschließend die Marinade mit 3 Esslöffeln Olivenöl vermischen und die Fackeln damit einstreichen. Am besten 1 Stunde marinieren lassen.",
+        "Für den Salat Tomaten, Gurke und Feta in mundgerechte Stücke schneiden, eine rote Zwiebel fein würfeln und die Kichererbsen abtropfen. Alles in eine Schüssel geben und ein Dressing aus Balsamicoessig, Olivenöl, Agavendicksaft, geriebener Knoblauchzehe, Salz und Pfeffer darübergeben.",
+        "Die Grillfackeln etwa 10–15 Minuten grillen oder im Ofen 20–25 Minuten bei 210 °C (Grillfunktion) backen. Zusammen mit dem Salat und Baguette-Scheiben servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,36 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/cinnamon-mustard-dip-79",
+  "recipes": [
+    {
+      "name": "Cinnamon Mustard Dip",
+      "source_url": "https://www.pickuplimes.com/recipe/cinnamon-mustard-dip-79",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "3 Tbsp vegan mayonnaise",
+        "1 tsp maple syrup",
+        "1 tsp Dijon mustard",
+        "¼ tsp ground cinnamon"
+      ],
+      "instructions": [
+        "Add all of the ingredients to a bowl and mix to combine. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Can be stored in an airtight container in the fridge for up to 3 days."
+  ]
+}

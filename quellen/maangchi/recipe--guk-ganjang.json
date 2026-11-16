@@ -1,0 +1,78 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/guk-ganjang",
+  "recipes": [
+    {
+      "name": "Soup soy sauce (Guk-ganjang)",
+      "source_url": "https://www.maangchi.com/recipe/guk-ganjang",
+      "recipe_id": "/recipe/guk-ganjang#sso/recipe/66180",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Soy sauce from fermented soybean paste (doenjang)"
+      ],
+      "instructions": [
+        "Sterilize your jars. Fill two 4-quart glass jars or one 8-quart jar (or use any number of jars as long as the total will hold 8 quarts) with boiling water and let sit for 10 minutes. Pour the water out and let containers air-dry.",
+        "Place a folded piece of cheesecloth in a strainer set over a large bowl. Strain the soy sauce, leaving any solids behind.",
+        "Transfer the clear soy sauce to a large heavy pot, cover, and heat over medium-high heat until it begins to boil, 20 -30 minutes.",
+        "Turn the heat down to medium and boil for 15 to 20 minutes to sterilize the sauce without boiling too much of it away. This step will create a very strong, persistent smell. Be careful carrying it out in closed areas, or around people who are sensitive to strong aromas.",
+        "Remove the lid and cool the sauce thoroughly.",
+        "Transfer the sauce to the sterilized glass jars. The soup soy sauce will keep indefinitely at room temperature."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Makes about 7½ quarts"
+        },
+        {
+          "tag": "li",
+          "text": "Soy sauce from fermented soybean paste (doenjang)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Sterilize your jars. Fill two 4-quart glass jars or one 8-quart jar (or use any number of jars as long as the total will hold 8 quarts) with boiling water and let sit for 10 minutes. Pour the water out and let containers air-dry."
+        },
+        {
+          "tag": "li",
+          "text": "Place a folded piece of cheesecloth in a strainer set over a large bowl. Strain the soy sauce, leaving any solids behind."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer the clear soy sauce to a large heavy pot, cover, and heat over medium-high heat until it begins to boil, 20 -30 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Turn the heat down to medium and boil for 15 to 20 minutes to sterilize the sauce without boiling too much of it away. This step will create a very strong, persistent smell. Be careful carrying it out in closed areas, or around people who are sensitive to strong aromas."
+        },
+        {
+          "tag": "li",
+          "text": "Remove the lid and cool the sauce thoroughly."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer the sauce to the sterilized glass jars. The soup soy sauce will keep indefinitely at room temperature."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

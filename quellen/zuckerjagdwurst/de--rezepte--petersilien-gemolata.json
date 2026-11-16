@@ -1,0 +1,35 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/petersilien-gemolata",
+  "recipes": [
+    {
+      "name": "Petersilien-Gremolata",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/petersilien-gemolata",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/petersilien-gemolata#recipe-734e37dc-9534-5b59-95e0-b80186f53195",
+      "authors": [
+        "Anneke Schügner"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "100 g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT5M",
+      "ingredients": [
+        "2 Knoblauchzehen",
+        "40 g Petersilie",
+        "0.5 Zitrone (Saft)",
+        "50 ml Olivenöl",
+        "Salz"
+      ],
+      "instructions": [
+        "Petersilie und Knoblauch fein hacken und in eine kleine Schale geben. Den Saft einer halben Zitrone und Olivenöl hinzufügen und gut mixen. Mit Salz abschmecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

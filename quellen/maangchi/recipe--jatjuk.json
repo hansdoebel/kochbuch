@@ -1,0 +1,117 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/jatjuk",
+  "recipes": [
+    {
+      "name": "Pine nut porridge (Jatjuk)",
+      "source_url": "https://www.maangchi.com/recipe/jatjuk",
+      "recipe_id": "/recipe/jatjuk#sso/recipe/11462",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "Serves 2",
+      "prep_time": "P0DT1H2M0S",
+      "cook_time": "P0DT0H6M0S",
+      "total_time": "P0DT1H10M0S",
+      "ingredients": [
+        "½ cup short grain rice (aka sushi rice) soaked in cold water for 1 hour",
+        "¼ cup pine nuts, rinsed and drained",
+        "3 cups water",
+        "½ teaspoon kosher salt",
+        "2 large jujubes and several pine nuts for garnish (optional)"
+      ],
+      "instructions": [
+        "Put a jujube on your cutting board and press the blade of your knife into the jujube until you can feel it touching the seed. Pick up the jujube and use your knife to separate the fruit from the seed, turning the jujube around as you work. Flatten the jujube fruit onto your cutting board, sticky side up. Put some pine nuts into the jujube and press them in. Roll the jujube around the nuts. Squeeze it tightly in your fist a few times so it holds together."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 2"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup short grain rice (aka sushi rice) soaked in cold water for 1 hour"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup pine nuts, rinsed and drained"
+        },
+        {
+          "tag": "li",
+          "text": "3 cups water"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "2 large jujubes and several pine nuts for garnish (optional)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Drain the soaked rice and add it to your blender. Add the pine nuts and water. Blend for 1 to 2 minutes until smooth and milky."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer it to a medium heavy pot on the stove. Turn on the heat to medium high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Cook for about 5 minutes, stirring with a wooden spoon, until bubbles pop up and it gets thick."
+        },
+        {
+          "tag": "li",
+          "text": "Add the salt and keep stirring for about 1 minute, until the porridge gets thinner and semi-translucent."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer it to a bowl and add the jujube garnish (if used) to the top of the porridge. Serve immediately, while it’s hot."
+        },
+        {
+          "tag": "h2",
+          "text": "How to make a jujube garnish"
+        },
+        {
+          "tag": "li",
+          "text": "Put a jujube on your cutting board and press the blade of your knife into the jujube until you can feel it touching the seed."
+        },
+        {
+          "tag": "li",
+          "text": "Pick up the jujube and use your knife to separate the fruit from the seed, turning the jujube around as you work."
+        },
+        {
+          "tag": "li",
+          "text": "Flatten the jujube fruit onto your cutting board, sticky side up."
+        },
+        {
+          "tag": "li",
+          "text": "Put some pine nuts into the jujube and press them in. Roll the jujube around the nuts."
+        },
+        {
+          "tag": "li",
+          "text": "Squeeze it tightly in your fist a few times so it holds together."
+        },
+        {
+          "tag": "li",
+          "text": "Cut the rolled up jujube crosswise into slices, to make little flowers."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

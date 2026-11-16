@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/cremiger-nudel-kuerbis-auflauf",
+  "recipes": [
+    {
+      "name": "Cremiger Nudel-Kürbis-Auflauf",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/cremiger-nudel-kuerbis-auflauf",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/cremiger-nudel-kuerbis-auflauf#recipe-2a9dae65-14f8-5e25-8407-a8454d4a814a",
+      "authors": [
+        "Anneke Schügner"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT85M",
+      "ingredients": [
+        "500 g Rigatoni (z. B. von DINKEL MAX)",
+        "800 g Butternut-Kürbis",
+        "1 Zwiebel",
+        "2 Knoblauchzehen",
+        "100 ml veganer Weißwein",
+        "350 ml Gemüsebrühe",
+        "200 ml pflanzliche Sahne",
+        "150 g veganer Reibekäse",
+        "40 g Sojamehl",
+        "200 g Räuchertofu",
+        "Liquid Smoke (optional)",
+        "Sojasoße (optional)",
+        "Salz",
+        "Pfeffer",
+        "Olivenöl zum Braten"
+      ],
+      "instructions": [
+        "Gesalzenes Wasser in einem Topf aufkochen lassen und die Pasta darin kochen, aber schon 1-2 Minuten vor der angegebenen Kochzeit abgießen und beiseitestellen.",
+        "Kürbis waschen, in daumengroße Würfel schneiden und in einem großen Topf mit reichlich Olivenöl ca. 5 Minuten scharf anbraten. In der Zwischenzeit Zwiebel würfeln und Knoblauch grob hacken. Beides zum Kürbis geben und weitere 5 Minuten bei mittlerer Hitze braten. Mit veganem Weißwein, Gemüsebrühe und pflanzlicher Sahne ablöschen und ca. 8-10 Minuten köcheln lassen.",
+        "Den Topf vom Herd nehmen und die Kürbismischung fein pürieren. Den Topf erneut auf den Herd stellen und die Soße erhitzen. Veganen Käse hinzugeben und einrühren, bis er komplett geschmolzen ist.",
+        "Ofen auf 200 °C (Umluft) vorheizen. Eine Springform (ø 24 cm) mit Olivenöl einfetten und die Nudeln darin senkrecht nebeneinander anordnen. Die Springform sollte komplett gefüllt sein, mit so wenig Lücken zwischen den Nudeln wie möglich.",
+        "Das Sojamehl zur Soße geben und gut verrühren. Die Kürbissoße nach und nach über die Nudeln in der Springform geben. Die Soße sollte auch ins Innere der Rigatoni laufen. Dafür die Soße immer wieder mit einem Löffel verstreichen. Je nach Größe der Rigatoni kann es sein, dass etwas Soße übrig bleibt. Die restliche Soße könnt ihr einfrieren oder für bis zu drei Tage im Kühlschrank aufbewahren.",
+        "Tipp: Sollte eure Soße zu dickflüssig sein, um in das Innere der Nudeln zu gelangen, gebt einfach noch ein wenig Wasser oder Gemüsebrühe hinzu.",
+        "Den Nudelauflauf ca. 45 Minuten bei 200°C im Ofen backen. Danach etwas auskühlen lassen, bevor ihr den Rand der Springform löst.",
+        "Während der Nudelauflauf im Ofen ist, Räuchertofu in kleine Würfel schneiden und in einer Pfanne mit Olivenöl knusprig braten. Mit etwas Sojasoße oder Liquid Smoke ablöschen und mit Salz und Pfeffer würzen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pfirsichtorte-mit-schmandcreme",
+  "recipes": [
+    {
+      "name": "Vegane Pfirsichtorte mit Schmandcreme",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pfirsichtorte-mit-schmandcreme",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pfirsichtorte-mit-schmandcreme#recipe-3e41c3b6-9c7e-5de0-813e-5ecfff749891",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Torte (Ø 22 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT480M",
+      "ingredients": [
+        "Für den Biskuitteig:",
+        "225 g Weizenmehl (Type 405) oder Dinkelmehl (Type 603)",
+        "150 g Zucker",
+        "8 g (1.5 TL) Vanillezucker",
+        "8 g (2 TL) Backpulver",
+        "50 ml Back-Öl Klassik (z. B. von Byodo)",
+        "250 ml Sprudelwasser",
+        "480 g halbierte Pfirsiche (Abtropfgewicht)",
+        "Für die Creme:",
+        "200 ml vegane Sahne zum Aufschlagen",
+        "16 g (2 EL) veganes Sahnesteif",
+        "16 g (3 TL) Vanillezucker",
+        "200 ml Saft aus der Pfirsich-Dose",
+        "30 g Agartine (mit 30 % Agar Agar)",
+        "100 g Zucker",
+        "800 g veganer Skyr (Quark)",
+        "Für die Dekoration:",
+        "50 g gehackte Pistazien",
+        "Außerdem:",
+        "vegane Butter zum Einfetten"
+      ],
+      "instructions": [
+        "Den Ofen auf 180 °C (Umluft) vorheizen. In einer großen Schüssel Mehl, Zucker, Vanillezucker und Backpulver vermischen. Anschließend das Öl und das Mineralwasser dazugeben und nur noch kurz unterrühren.",
+        "Eine runde Springform (Ø 22 cm) einfetten und den Teig hineinfüllen. Auf mittlerer Schiene für etwa 25 Minuten backen. Mit einem Stäbchen testen, ob der Teig durch ist und komplett abkühlen lassen.",
+        "Nachdem der Kuchen abgekühlt ist, ggf. mit einem Messer oder Tortenschneider begradigen. Einen Tortenring um den Kuchen fixieren und die halbierten Pfirsiche gleichmäßig auf dem Kuchenboden verteilen.",
+        "Für die Creme die vegane Sahne mit veganem Sahnesteif und Vanillezucker aufschlagen und direkt kaltstellen. In einem großen Topf den Pfirsichsaft und Agartine mithilfe eines Schneebesens vermischen und aufkochen lassen. Die Masse sollte mindestens 2 Minuten stark kochen. Dabei durchgängig mit dem Schneebesen rühren.",
+        "Nun den Topf vom Herd nehmen und den Zucker und den veganen Skyr mit einem Schneebesen esslöffelweise unterrühren.",
+        "Wenn die Masse etwas abgekühlt ist, kann die geschlagene vegane Sahne vorsichtig untergehoben werden. Die Masse auf den Pfirsichen verteilen und glattstreichen. Am besten über Nacht kaltstellen. Den Kuchen vor dem Servieren aus dem Tortenring lösen und mit gehackten Pistazien dekorieren"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

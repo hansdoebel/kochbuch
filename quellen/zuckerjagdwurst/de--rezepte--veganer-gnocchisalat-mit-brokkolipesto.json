@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-gnocchisalat-mit-brokkolipesto",
+  "recipes": [
+    {
+      "name": "Veganer Gnocchisalat mit Brokkolipesto",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-gnocchisalat-mit-brokkolipesto",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-gnocchisalat-mit-brokkolipesto#recipe-1b973815-efc0-58a3-a764-c0981473c917",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für das Brokkolipesto:",
+        "50 g Mandeln",
+        "100 g Brokkoli",
+        "10 g Basilikum",
+        "100 ml neutrales Pflanzenöl",
+        "3–4 EL Hefeflocken",
+        "1 TL Chiliflocken",
+        "frischer Zitronensaft",
+        "Salz",
+        "Pfeffer",
+        "Für den Gnocchisalat:",
+        "400 g vegane Gnocchi",
+        "1 rote Zwiebel",
+        "1 Knoblauchzehe",
+        "2 Maiskolben (vorgegart)",
+        "250 g Cherrytomaten",
+        "50 g Mandeln",
+        "200 g veganer Quark",
+        "1 Zitrone (Abrieb)",
+        "Pflanzenöl zum Braten",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Mandeln für das Pesto und den Salat in einer Pfanne ohne Öl rösten. Für das Brokkolipesto 50 Gramm der gerösteten Mandeln, Brokkoli, Basilikum, Pflanzenöl, Hefeflocken, Chiliflocken, Zitronensaft, Salz und Pfeffer in einem Mixer zu einem Pesto verarbeiten. Abschmecken und beiseitestellen.",
+        "Zwiebel und Knoblauch schälen und in Scheiben schneiden. Die Maiskörner vom Kolben schneiden.",
+        "Öl in einer Pfanne erhitzen und die Tomaten im Ganzen und den Mais circa 5 Minuten scharf anbraten, bis beides gut gebräunt ist. Danach Zwiebel und Knoblauch dazugeben und weitere 3–4 Minuten mit anbraten. Mit Salz und Pfeffer würzen und aus der Pfanne nehmen.",
+        "Gnocchi nach Packungsanleitung zubereiten und danach mit dem veganen Pesto in einer Schüssel vermengen. Erneut abschmecken.",
+        "Veganen Quark auf einem großen Teller verteilen und mit Salz, Pfeffer und Zitronenabrieb bestreuen. Die Gnocchimischung und das Gemüse aus der Pfanne darauf verteilen und mit gerösteten Mandeln toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

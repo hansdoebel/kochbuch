@@ -1,0 +1,72 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-spaghetti-carbonara",
+  "recipes": [
+    {
+      "name": "Vegane Spaghetti Carbonara",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-spaghetti-carbonara",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-spaghetti-carbonara#recipe-15b153a7-df31-5c08-ab4e-bbef4e7b2ac6",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "250 g Spaghetti",
+        "150 g Cashewkerne (eingeweicht für mind. 2 Std.)",
+        "1 EL helle Misopaste",
+        "100 ml Wasser",
+        "2 EL Hefeflocken",
+        "10 getrocknete Tomaten in Öl",
+        "1 TL Sojasauce",
+        "0.5 TL Liquid Smoke",
+        "Salz",
+        "Pfeffer",
+        "veganer Parmesan zum Servieren"
+      ],
+      "instructions": [
+        "Die eingeweichten Cashewkerne mit heller Misopaste und Hefeflocken in einen Standmixer geben oder mit dem Pürierstab gut mixen. So viel Wasser dazugeben wie nötig, bis eine cremige, glatte Mischung entsteht. Mit Salz und Pfeffer abschmecken.",
+        "Getrocknete Tomaten klein schneiden und in einer großen Pfanne ca. 5 Minuten anbraten. Nach Bedarf mehr Öl dazugeben. Sojasauce und Liquid Smoke dazugeben und die Tomaten noch ca. 1-2 Minuten weiter anbraten. Danach vom Herd nehmen.",
+        "Spaghetti in gesalzenem Wasser al dente kochen, anschließend abgießen, aber dabei einen Teil des Kochwassers auffangen.",
+        "Spaghetti und die Cashew-Mischung gut vermengen. Dabei so viel Kochwasser der Nudeln dazugeben, bis die Soße schön sämig wird. Die getrockneten Tomaten kurz untermengen und mit veganem Parmesan servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Veganer Parmesan",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-spaghetti-carbonara",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-spaghetti-carbonara#recipe-7cc00455-45ac-5abf-ad76-298521fc2022",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "150 g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "100 g Cashewkerne",
+        "50 g gehackte Mandeln",
+        "3 EL Hefeflocken",
+        "1 TL Salz",
+        "0.5 TL Knoblauchpulver"
+      ],
+      "instructions": [
+        "Alle Zutaten in einen Mixer geben und verarbeiten, bis eine fein gemahlene Mischung entsteht. Wenn dennoch ein paar größere Stücken übrig bleiben, ist das gar nicht schlimm.",
+        "Wenn du den Parmesan nicht sofort verwendet, solltest du ihn in einem Einweckglas aufbewahren. Danach kannst ihn über deine Pasta streuen oder für ein Pesto verwenden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

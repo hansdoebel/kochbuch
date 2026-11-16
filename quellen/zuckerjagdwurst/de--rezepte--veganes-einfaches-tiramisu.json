@@ -1,0 +1,75 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-einfaches-tiramisu",
+  "recipes": [
+    {
+      "name": "Veganes, einfaches Tiramisu",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-einfaches-tiramisu",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-einfaches-tiramisu#recipe-22461787-52a0-574f-98d4-d2683146beb0",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Gläser",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT100M",
+      "ingredients": [
+        "1 veganer Biskuitteig",
+        "100 ml Espresso",
+        "3 EL Amaretto (alternativ könnt ihr auch Sambuca, Marsala oder Weinbrand verwenden)",
+        "400 g pflanzlicher Joghurt",
+        "200 g aufschlagbare pflanzliche Sahne",
+        "0.5 Zitrone (Abrieb)",
+        "ungesüßtes Kakaopulver zum Bestäuben"
+      ],
+      "instructions": [
+        "Zunächst bereitet ihr den Biskuit vor. Statt ihn in einer Springform zu backen, könnt ihr den Teig auf einem gut eingefetteten und bemehlten Backblech verstreichen, damit er nicht zu hoch wird. Achtet jedoch darauf, dass sich die Backzeit dadurch auch verkürzt und habt immer ein Auge auf den Teig, damit er nicht zu dunkel wird. Den Biskuit anschließend etwas abkühlen lassen und in die gewünschte Form (Glas oder eine größere Form) zurechtschneiden. Ihr benötigt 2-3 Schichten Biskuit pro Form.",
+        "In der Zwischenzeit Espresso kochen, abkühlen lassen und mit Amaretto vermischen.",
+        "Für die Creme gebt ihr pflanzlichen Joghurt in eine Schüssel. Schlagt pflanzliche Sahne auf und hebt sie vorsichtig unter den Joghurt. Frischen Zitronenabrieb dazugeben und unterrühren. Je nach Geschmack könnt ihr jetzt noch ein wenig Puderzucker dazusieben und vermengen, bis die Creme süß genug für euch ist.",
+        "Wenn Biskuit, Espresso und Creme bereit sind, geht es ans Schichten. Den ersten Biskuitteig in die Form legen und mit der Espresso-Mischung bestreichen. Anschließend Creme darauf verteilen und alles wieder von vorn beginnen, bis die Form gefüllt ist. Zum Schluss dick mit Kakaopulver bestäuben.",
+        "Das Tiramisu im Kühlschrank ziehen lassen, am besten über Nacht."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Veganer Biskuitteig",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-einfaches-tiramisu",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-einfaches-tiramisu#recipe-c2181622-dd72-51f1-923f-6976eb516d1f",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 kleiner Kuchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT100M",
+      "ingredients": [
+        "225 g Mehl",
+        "150 g Zucker",
+        "250 ml Sprudelwasser",
+        "50 ml pflanzliches Öl (Raps- oder Sonnenblumenöl)",
+        "1 TL Backpulver",
+        "8 g Vanillezucker",
+        "Für dieses Rezept benötigst du eine Kuchenform mit 22 cm Durchmesser."
+      ],
+      "instructions": [
+        "Ofen auf 180°C Umluft vorheizen.",
+        "In einer großen Schüssel Mehl, Zucker, Vanillinzucker und Backpulver verrühren.",
+        "Anschließend das Öl und das Mineralwasser dazugeben und nur noch kurz unterrühren.",
+        "Eine Kuchenform einfetten, mit Mehl ausklopfen und den Teig hineingeben.",
+        "Auf mittlerer Stufe für 30 Minuten bei Umluft backen.",
+        "Mit einem Stäbchen testen, ob der Teig durch ist. Je nach Farbe und Stäbchentest die Zeit verlängern oder verkürzen. Danach abkühlen lassen und weiterverarbeiten."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

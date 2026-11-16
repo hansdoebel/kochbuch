@@ -1,0 +1,36 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/rosemary-roasted-carrots",
+  "recipes": [
+    {
+      "name": "Rosemary Roasted Carrots",
+      "source_url": "https://app.cookwell.com/recipe/rosemary-roasted-carrots",
+      "recipe_id": "https://app.cookwell.com/recipe/rosemary-roasted-carrots",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "3-4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "Carrots, 3-4",
+        "Extra Virgin Olive Oil, as needed",
+        "Fresh rosemary, 2 sprigs",
+        "Salt, to taste",
+        "Black Pepper, to taste"
+      ],
+      "instructions": [
+        "Set a pot of water on medium-high and bring to a boil. Add 2 large sprinkles of salt. Cut the carrots into large planks. Cut the sticks in half lengthwise then into half again (carrot sticks). Add the carrots to the water and boil for 6 to 8 minutes. Meanwhile, turn on the broiler in your oven to begin heating.",
+        "Strain off the carrots well and add to a large baking sheet. Add black pepper, and rosemary. Toss everything together with enough oil to coat all the carrots. Add to the oven and broil until crisp, about 10 to 15 minutes. Taste and add more salt if needed. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

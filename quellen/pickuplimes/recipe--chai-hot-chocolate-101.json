@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/chai-hot-chocolate-101",
+  "recipes": [
+    {
+      "name": "Chai Hot Chocolate",
+      "source_url": "https://www.pickuplimes.com/recipe/chai-hot-chocolate-101",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT03M",
+      "cook_time": "PT07M",
+      "total_time": "PT10M",
+      "ingredients": [
+        "1½ cup unsweetened soy milk",
+        "1.764 oz dairy-free dark chocolate",
+        "2 Tbsp Dutch-process cocoa powder",
+        "1 Tbsp granulated sugar",
+        "1 Tbsp fresh ginger",
+        "3 cinnamon stick",
+        "6 cardamom pod",
+        "4 whole clove",
+        "1 pinch cayenne pepper"
+      ],
+      "instructions": [
+        "Add all of the ingredients to a saucepan over medium-high heat. Bring to a gentle simmer, stirring throughout to avoid burning.",
+        "When hot, pour through a sieve and serve in your favourite mugs.",
+        "Top with whipped cream if desired. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium . † We use 50 - 60% cocoa chocolate for a balanced sweetness. Darker varieties (70%+) can make the result too bitter.",
+    "Storage Store in a mason jar in the fridge for up to 2 days."
+  ]
+}

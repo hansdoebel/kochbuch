@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-grillgemueseburger-mit-eingekochten-kirschen",
+  "recipes": [
+    {
+      "name": "Veganer Grillgemüseburger mit eingekochten Kirschen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-grillgemueseburger-mit-eingekochten-kirschen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-grillgemueseburger-mit-eingekochten-kirschen#recipe-b380ce79-3806-55ba-9dfd-1fcd5260cfd6",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Burger",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für die eingekochten Kirschen:",
+        "250 g Kirschen",
+        "Für die vegane Kräuter-Mayonnaise:",
+        "100 g EDEKA Bio + Vegan Salatmayonnaise",
+        "10 g frische Kräuter (z. B. Petersilie, Minze und Schnittlauch)",
+        "Zitronensaft",
+        "Für das Grillgemüse:",
+        "50 ml Olivenöl",
+        "2 TL edelsüßes Paprikapulver",
+        "2-3 Knoblauchzehen",
+        "0.5 Zucchini",
+        "0.5 Aubergine",
+        "1 Gemüsezwiebel",
+        "6 kleine Karotten",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "2 EDEKA Craft Burger Buns",
+        "2 vegane Käsescheiben",
+        "Eisbergsalat",
+        "Sprossen"
+      ],
+      "instructions": [
+        "Zu Beginn die Kirschen waschen, entsteinen und im Anschluss in einen Kochtopf geben. Ca. 15 Minuten bei mittlerer Hitze köcheln lassen, bis sie etwas zusammenfallen, danach vom Herd nehmen und abkühlen lassen.",
+        "In der Zwischenzeit für die Kräuter-Mayonnaise vegane Mayonnaise in eine Schüssel geben. Frische Petersilie, Minze und Schnittlauch waschen und fein hacken. Danach ebenfalls in die Schüssel gegeben und den Dip mit Zitronensaft abschmecken.",
+        "Für die Marinade des Grillgemüses Olivenöl, Paprikapulver und eine gute Prise Salz und Pfeffer in einer großen Schüssel verrühren. Die Knoblauchzehen entweder mit einem Messer ganz klein hacken oder durch eine Knoblauchpresse drücken und ebenfalls dazugeben.",
+        "Zucchini und Aubergine waschen, die Gemüsezwiebel schälen und alles in Scheiben bzw. Ringe schneiden. Karotten waschen und optional auch schälen. Das geschnittene Gemüse und die Karotten zur Marinade geben und gründlich vermischen, damit das Gemüse rundum mit der Marinade bedeckt ist.",
+        "Den Grill anheizen und das Gemüse so lange grillen, bis es gebräunt ist, aber noch einen leichten Biss hat. Kurz vor dem Servieren die Burgerbrötchen auf den Grill legen, damit diese ebenfalls geröstet werden.",
+        "Die Burgerhälften mit veganer Kräutermayonnaise, veganen Käsescheiben, Grillgemüse, Eisbergsalat, eingekochten Kirschen und Sprossen belegen. Die gegrillten Karotten als Beilage dazuservieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

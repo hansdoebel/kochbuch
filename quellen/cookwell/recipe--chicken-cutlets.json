@@ -1,0 +1,39 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/chicken-cutlets",
+  "recipes": [
+    {
+      "name": "Chicken Cutlets",
+      "source_url": "https://app.cookwell.com/recipe/chicken-cutlets",
+      "recipe_id": "https://app.cookwell.com/recipe/chicken-cutlets",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Chicken Breasts, 2",
+        "Salt, 5 g",
+        "Neutral oil, for frying",
+        "Flour, 120 g",
+        "Eggs, 2",
+        "Bread crumbs"
+      ],
+      "instructions": [
+        "Thin out the chicken breast by slicing them in half, butterflying, or pounding them into thinner cutlets. Add a sprinkle of salt to both sides of the chicken breast.",
+        "Add flour, beaten eggs, and breadcrumbs into 3 separate shallow pans or containers. It’s helpful to have a plate or parchment-lined tray ready to receive breaded cutlets nearby.",
+        "Pass and flip each cutlet through the flour, egg, and breadcrumbs, making sure the cutlet gets even coverage before moving on between each step. Tip: shake off any excess flour and egg, and then lightly press the breadcrumbs into the cutlet and flip a few times to ensure full coverage. Set each breaded cutlet aside onto a plate or tray until frying.",
+        "Over low heat, start heating about a 1/4 inch of oil in a wide, shallow frying pan. Once your oil has reached 375°F/190°C, lay a breaded chicken into the pan (away from you to avoid oil splashing) and shallow fry for 3-4 minutes per side or until golden brown and the meat reaches 155°F/ 56°C internal temperature. Focus on getting a quick but even, golden brown crust. The thin meat should be cooked through by the time the exterior is set. Rest each fried cutlet on a wire rack or tray with paper towels, and sprinkle with salt immediately as it comes out of the pan. Repeat with remaining cutlets. Enjoy immediately or store in the refrigerator or freezer for later use!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

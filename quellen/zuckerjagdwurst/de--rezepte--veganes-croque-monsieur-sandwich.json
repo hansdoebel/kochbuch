@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-croque-monsieur-sandwich",
+  "recipes": [
+    {
+      "name": "Veganes Croque Monsieur",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-croque-monsieur-sandwich",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-croque-monsieur-sandwich#recipe-dead6ddf-2f4e-5bcd-8f30-07dbdc94a0c0",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Sandwiches",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "3 EL Weizenmehl",
+        "3 EL vegane Butter",
+        "250 ml Sojamilch",
+        "50 ml Sojasahne",
+        "1 TL Senf",
+        "1 EL Hefeflocken",
+        "100 g geriebener veganer Käse",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "8 Scheiben Weißbrot",
+        "4 Scheiben veganer Käse",
+        "2 Packungen veganer Schinken"
+      ],
+      "instructions": [
+        "Für die Bechamelsauce lasst ihr die vegane Butter in einem kleinen Topf schmelzen und rührt das Mehl ein. Die Mischung sollte eine Minute auf kleiner Hitze anschwitzen. Danach gebt ihr langsam die Sojamilch dazu und rührt immer weiter, damit sich keine Klumpen bilden. Die Sauce wird direkt andicken. Jetzt könnt ihr noch die Sojasahne und den veganen, geriebenen Käse dazugeben und das Ganze mit Senf, Hefeflocken, Salz, Pfeffer und Muskat würzen.",
+        "Die Hälfte der Weißbrotscheiben auf einem mit Backpapier ausgelegten Backblech verteilen. Jedes Brotscheibe mit veganer Butter beschmieren und mit veganem Schinken, Bechamel-Käse-Mischung und ein paar veganen Käsescheiben belegen. Anschließend die restlichen Weißbrotscheiben drauflegen und zum Schluss erneut etwas Bechamel-Käse-Mischung darauf verteilen.",
+        "Das ganze backt ihr bei 200°C ca. 10 Minuten und könnt die Sandwiches direkt verdrücken!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

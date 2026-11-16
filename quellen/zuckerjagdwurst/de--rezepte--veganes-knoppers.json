@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-knoppers",
+  "recipes": [
+    {
+      "name": "Veganes Knoppers",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-knoppers",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-knoppers#recipe-265ce67a-129a-5b5d-9109-f4c1b0177155",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 vegane Knoppers",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT160M",
+      "ingredients": [
+        "Für die Nougatcreme:",
+        "200 g Nougat",
+        "85 g Halbbitter-Schokolade (50%)",
+        "40 g gehackte Haselnüsse (geröstet)",
+        "1.5 EL Haselnussmus",
+        "Für die vegane Milchcreme:",
+        "120 g vegane Butter",
+        "80 ml pflanzliche Milch",
+        "240 g Hafermilchpulver",
+        "Außerdem:",
+        "3 vegane Waffelplatten (à 24 x 24 cm)",
+        "60 g vegane Zartbitterschokolade",
+        "1 TL Kokosöl"
+      ],
+      "instructions": [
+        "Den Ofen auf 150°C (Ober-Unterhitze) vorheizen. Die Waffelplatten ca. 2 Minuten im Ofen backen, bis sie leicht gebräunt sind. Hier gut aufpassen, da sie schnell verbrennen können.",
+        "Die vegane Zartbitterschokolade und das Kokosöl über einem Wasserbad oder in der Mikrowelle schmelzen. Die gebackenen Waffeln damit rundum einstreichen und anschließend zum Trocknen in den Kühlschrank stellen.",
+        "Für die Nougatcreme das Nougat und Halbbitter-Schokolade über einem Wasserbad oder der Mikrowelle schmelzen. Gehackte Haselnüsse und Haselnussmus hinzugeben und gut verrühren.",
+        "Für die vegane Milchcreme vegane Butter mit einem Handrührgerät aufschlagen, bis sie leicht cremig ist und anschließend langsam pflanzliche Milch dazugeben. Sobald sich die beiden Komponenten vermischt haben, kommt das Hafermilchpulver hinzu. Nun so lange weiter aufschlagen, bis eine cremige Konsistenz entsteht.",
+        "Jetzt geht’s ans Schichten: Dafür ist es praktisch, wenn ihr eine viereckige Form verwendet, damit euch die „Füllungen” nicht herauslaufen. Ganz unten befindet sich eine Waffelplatte, worauf die Nougatcreme kommt. Darauf die nächste Waffelplatte legen und mit veganer Milchcreme toppen. Zum Schluss die Schoko-Waffelplatte darauf legen und alles gut festdrücken. Erneut in den Kühlschrank stellen, bis die Füllungen fest sind.",
+        "Zum Servieren die veganen Knoppers in Form (6cm x 6cm) schneiden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.recipetineats.com/creamy-cucumber-salad-lemon-yogurt-dressing/",
+  "recipes": [
+    {
+      "name": "Creamy Cucumber Salad with Lemon Yogurt Dressing",
+      "source_url": "https://www.recipetineats.com/creamy-cucumber-salad-lemon-yogurt-dressing/",
+      "recipe_id": "https://www.recipetineats.com/creamy-cucumber-salad-lemon-yogurt-dressing/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "5"
+      ],
+      "prep_time": "PT10M",
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "3 cucumbers (, standard (or 2 long Telegraph/English cucumbers) (Note 1))",
+        "1/2 red onion (, finely sliced)",
+        "1/4 cup mint leaves (, finely chopped (or 2 tsp dried mint))",
+        "1 cup yogurt (, full fat (Greek or plain))",
+        "2 tbsp extra virgin olive oil",
+        "2 tbsp lemon juice",
+        "1 garlic clove (, minced)",
+        "1/2 tsp salt and pepper (, each)"
+      ],
+      "instructions": [
+        "Dressing: Mix ingredients then leave for 20 minutes for the flavours to develop.",
+        "Cucumber: Cut cucumber in half lengthwise, then slice into 3mm / 1/8\" thick slices.",
+        "Toss: Place cucumber, onion and mint in a bowl. Pour over Dressing and toss, then serve."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. Cucumber type – make this salad with 2 long cucumbers (Telegraph/English Cucumbers) or 3 medium standard cucumbers (called “Lebanese” cucumbers in Australia, these are the most common variety)."
+  ]
+}

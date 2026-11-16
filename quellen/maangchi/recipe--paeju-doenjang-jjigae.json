@@ -1,0 +1,108 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/paeju-doenjang-jjigae",
+  "recipes": [
+    {
+      "name": "Soybean paste stew with scallops (Paeju-doenjang-jjigae)",
+      "source_url": "https://www.maangchi.com/recipe/paeju-doenjang-jjigae",
+      "recipe_id": "/recipe/paeju-doenjang-jjigae#sso/recipe/70077",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "Serves 2",
+      "prep_time": "P0DT0H15M0S",
+      "cook_time": "P0DT0H17M0S",
+      "total_time": "P0DT0H32M0S",
+      "ingredients": [
+        "1 large potato, peeled, cleaned, and cut into bite size chunks",
+        "1 cup worth peeled butternut squash (or zucchini), cut into chunks",
+        "1 large onion, cut into chunks",
+        "2 garlic cloves, minced",
+        "1 green chili pepper (or Jalapeño), chopped",
+        "⅓ cup doenjang (Korean fermented soybean paste)",
+        "3 cups water",
+        "8 ounces fresh scallops, cut into bite size pieces",
+        "2 green onions, chopped"
+      ],
+      "instructions": [
+        "Combine potato, squash, onion, garlic, green chili pepper, doenjang, and water in a pot. Cover and let cook for 10 minutes over medium high heat.",
+        "Add scallops and cook for 5 minutes over medium heat.",
+        "Add green onion and turn off the heat.",
+        "Reheat just before serving with rice, kimchi, and a few more side dishes."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "(serves 2)"
+        },
+        {
+          "tag": "li",
+          "text": "1 large potato, peeled, cleaned, and cut into bite size chunks"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup worth peeled butternut squash (or zucchini), cut into chunks"
+        },
+        {
+          "tag": "li",
+          "text": "1 large onion, cut into chunks"
+        },
+        {
+          "tag": "li",
+          "text": "2 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 green chili pepper (or Jalapeño), chopped"
+        },
+        {
+          "tag": "li",
+          "text": "⅓ cup doenjang (Korean fermented soybean paste)"
+        },
+        {
+          "tag": "li",
+          "text": "3 cups water"
+        },
+        {
+          "tag": "li",
+          "text": "8 ounces fresh scallops, cut into bite size pieces"
+        },
+        {
+          "tag": "li",
+          "text": "2 green onions, chopped"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Combine potato, squash, onion, garlic, green chili pepper, doenjang, and water in a pot. Cover and let cook for 10 minutes over medium high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Add scallops and cook for 5 minutes over medium heat."
+        },
+        {
+          "tag": "li",
+          "text": "Add green onion and turn off the heat."
+        },
+        {
+          "tag": "li",
+          "text": "Reheat just before serving with rice, kimchi, and a few more side dishes."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

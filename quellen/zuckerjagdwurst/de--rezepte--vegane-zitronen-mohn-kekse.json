@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-zitronen-mohn-kekse",
+  "recipes": [
+    {
+      "name": "Vegane Zitronen-Mohn-Kekse",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-zitronen-mohn-kekse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-zitronen-mohn-kekse#recipe-3b74f3fc-8f1a-5151-8f33-4329f169faf0",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "18 Kekse",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "150 g Manner Zitronencreme Waffeln",
+        "160 g Mehl",
+        "65 g Zucker",
+        "10 g Mohn (ganze Samen)",
+        "8 g Backpulver",
+        "180 g vegane Butter",
+        "60 g Apfelmus",
+        "1 Zitrone (Abrieb)",
+        "Dekoration",
+        "125 g Puderzucker",
+        "pflanzliche Milch",
+        "10 g Mohn (ganze Samen)",
+        "1 Zitrone (Abrieb)"
+      ],
+      "instructions": [
+        "Die Manner Zitronencreme Waffeln in einem Zerkleinerer mixen, bis nur noch feine Flocken sichtbar sind.",
+        "In einer großen Schüssel die zerkleinerten Zitronencreme Waffeln, Mehl, Zucker, Mohn, Backpulver, vegane Butter, Apfelmus und den Abrieb einer Zitrone verkneten.",
+        "Den Ofen auf 180°C Umluft vorheizen.",
+        "Aus dem Teig 18 Kugeln formen (etwa 35 - 40 g Teig pro Keks) und auf zwei mit Backpapier belegte Backbleche platzieren.",
+        "Die Kekse für 10 Minuten backen, bis sie einen gold-braunen Rand bekommen. Im Anschluss auf dem Blech komplett abkühlen lassen. Die Kekse werden erst beim Auskühlen fest, daher sollte man sie nicht vom Backblech nehmen, bevor sie ausgekühlt sind.",
+        "Für den Zuckerguss den Puderzucker mit pflanzlicher Milch vermengen. Mit etwa 1-2 EL pflanzlicher Milch beginnen und den Zuckerguss zu einer dicken, weißen Creme anrühren.",
+        "Die Kekse auf einem Kuchengitter platzieren und den Zuckerguss kreisförmig auf den Keksen verteilen. Mit Mohn und Zitronenabrieb dekorieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

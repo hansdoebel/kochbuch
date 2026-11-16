@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-faltenbrot-mit-ajvarbutter",
+  "recipes": [
+    {
+      "name": "Faltenbrot mit Ajvarbutter",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-faltenbrot-mit-ajvarbutter",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-faltenbrot-mit-ajvarbutter#recipe-25f9c086-5e1a-538c-bc4c-638b913157c9",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kastenform",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT110M",
+      "ingredients": [
+        "Für den Teig:",
+        "500 g Mehl",
+        "1 Würfel Hefe",
+        "200 ml lauwarmes Wasser",
+        "50 ml pflanzliche Milch (zur Not nur Wasser)",
+        "40 ml Olivenöl",
+        "2 TL Salz",
+        "1 TL Agavendicksaft",
+        "Für die Füllung:",
+        "125 g vegane Butter",
+        "2 EL Ajvar (mild oder scharf, je nach Wunsch)",
+        "1 EL Tomatenmark",
+        "1 TL Knoblauchpulver",
+        "5 g frischer Basilikum",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Milch erwärmen bis sie lauwarm ist. Lauwarmes Wasser dazugeben und die Hefe darin auflösen. In einer Schüssel Mehl und Salz vermengen. Die aufgelöste Hefe-Wasser-Milch-Mischung dazugeben und beginnen zu kneten. Das könnt ihr am besten mit einer Küchenmaschine, einem Handrührgerät und zur Not auch mit euren Händen machen.",
+        "Wenn die Zutaten zusammenkommen, Olivenöl und Agavendicksaft dazugeben und zu einem glatten Hefeteig kneten – das geht zum Schluss am allerbesten mit den Händen. Den Teig in eine leicht eingeölte Schüssel geben, mit einem Geschirrtuch abdecken und ca. 30 Minuten an einem warmen Ort gehen lassen.",
+        "In der Zwischenzeit Butter weich werden lassen und in einer Schüssel mit Ajvar, Tomatenmark und Knoblauchpulver verrühren. Basilikum hacken und unterheben. Mit Salz und Pfeffer abschmecken.",
+        "Wenn sich der Teig im Volumen verdoppelt hat, könnt ihr ihn auf einer bemehlten Arbeitsfläche zu einem großen Rechteck ausrollen. Die vegane Ajvar-Butter daraufstreichen und den Teig in gleichbreite Streifen schneiden. Keine Sorge, ihr müsst die Ajvar-Butter nicht komplett verwenden, sondern könnt den Rest am Ende als Dip zum Brot servieren.",
+        "Eine Kastenform einfetten und bemehlen. Jeden Teigstreifen zusammenfalten und in die Kastenform legen. Nochmals abgedeckt ca. 30 Minuten an einem warmen Ort gehen lassen.",
+        "In der Zwischenzeit den Backofen auf 200°C vorheizen und das Faltenbrot ca. 30 Minuten backen. Vor dem Servieren leicht abkühlen lassen und die restliche Ajvar-Butter als Dip servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

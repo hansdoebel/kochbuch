@@ -1,0 +1,138 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/adobo-sa-gata",
+  "recipes": [
+    {
+      "name": "Chicken adobo (Adobo sa Gata)",
+      "source_url": "https://www.maangchi.com/recipe/adobo-sa-gata",
+      "recipe_id": "/recipe/adobo-sa-gata#sso/recipe/20926",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 kg chicken (2.2 pounds), cut into pieces",
+        "6 cloves garlic, crushed",
+        "¼ ts ground white pepper",
+        "½ cup white or cane vinegar",
+        "2 pieces of bay leaves",
+        "1 tbs vegetable oil",
+        "2 cups coconut milk",
+        "1 cup coconut cream",
+        "1 ts kosher salt",
+        "1 ts fish sauce",
+        "2-5 green chillies"
+      ],
+      "instructions": [
+        "In a mixing bowl, create the marinade by combining the crushed garlic, ground white pepper, vinegar and bay leaves.",
+        "Add the chicken to the marinade and let it sit for about 30 minutes.",
+        "Heat up a pan and add the vegetable oil. Add the chicken pieces and saute until they’re brown on all sides. Save the marinade for later.",
+        "Add the coconut milk and the marinade to the pan, and cook for 20 minutes over medium heat until the liquid thickens.",
+        "Remove excess fat from the pan with a spoon.",
+        "Add the coconut cream and green chilies and cook over low heat for another 5-10 minutes until a creamy sauce is formed.",
+        "Add salt and fish sauce.",
+        "Serve hot with rice."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients (for 4 servings)"
+        },
+        {
+          "tag": "li",
+          "text": "1 kg chicken (2.2 pounds), cut into pieces"
+        },
+        {
+          "tag": "li",
+          "text": "6 cloves garlic, crushed"
+        },
+        {
+          "tag": "li",
+          "text": "¼ ts ground white pepper"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup white or cane vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "2 pieces of bay leaves"
+        },
+        {
+          "tag": "li",
+          "text": "1 tbs vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "2 cups coconut milk"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup coconut cream"
+        },
+        {
+          "tag": "li",
+          "text": "1 ts kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 ts fish sauce"
+        },
+        {
+          "tag": "li",
+          "text": "2-5 green chillies"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "p",
+          "text": "Cooking time: 1 hour"
+        },
+        {
+          "tag": "li",
+          "text": "In a mixing bowl, create the marinade by combining the crushed garlic, ground white pepper, vinegar and bay leaves."
+        },
+        {
+          "tag": "li",
+          "text": "Add the chicken to the marinade and let it sit for about 30 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Heat up a pan and add the vegetable oil. Add the chicken pieces and saute until they’re brown on all sides. Save the marinade for later."
+        },
+        {
+          "tag": "li",
+          "text": "Add the coconut milk and the marinade to the pan, and cook for 20 minutes over medium heat until the liquid thickens."
+        },
+        {
+          "tag": "li",
+          "text": "Remove excess fat from the pan with a spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Add the coconut cream and green chilies and cook over low heat for another 5-10 minutes until a creamy sauce is formed."
+        },
+        {
+          "tag": "li",
+          "text": "Add salt and fish sauce."
+        },
+        {
+          "tag": "li",
+          "text": "Serve hot with rice."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

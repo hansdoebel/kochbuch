@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/caesar-dip-1420",
+  "recipes": [
+    {
+      "name": "Caesar Dip",
+      "source_url": "https://www.pickuplimes.com/recipe/caesar-dip-1420",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT15M",
+      "cook_time": "",
+      "total_time": "PT15M",
+      "ingredients": [
+        "½ lemon",
+        "½ cup unsweetened soy yogurt",
+        "2 Tbsp vegan mayonnaise",
+        "1 Tbsp nutritional yeast flakes",
+        "1 tsp capers",
+        "½ tsp garlic powder",
+        "¼ tsp salt",
+        "⅛ tsp ground black pepper"
+      ],
+      "instructions": [
+        "Combine all the ingredients in a small bowl.",
+        "Enjoy with some fresh veggies."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

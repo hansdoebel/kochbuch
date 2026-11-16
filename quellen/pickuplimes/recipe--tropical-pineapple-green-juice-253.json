@@ -1,0 +1,36 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/tropical-pineapple-green-juice-253",
+  "recipes": [
+    {
+      "name": "Tropical Pineapple Green Juice",
+      "source_url": "https://www.pickuplimes.com/recipe/tropical-pineapple-green-juice-253",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT10M",
+      "ingredients": [
+        "3 cup fresh pineapple",
+        "1 cucumber",
+        "2 cup kale",
+        "3 Tbsp fresh basil leaves"
+      ],
+      "instructions": [
+        "Add the ingredients to a juicer, alternating between adding bits of pineapples and leaves of kale to extract the maximum amount of juice. Serve immediately and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage This drink is best enjoyed immediately."
+  ]
+}

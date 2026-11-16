@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/mango-spinach-smoothie-125",
+  "recipes": [
+    {
+      "name": "Mango Spinach Smoothie",
+      "source_url": "https://www.pickuplimes.com/recipe/mango-spinach-smoothie-125",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "2 cup frozen mango chunks",
+        "2 cup spinach",
+        "1 cup unsweetened soy yogurt",
+        "½ cup unsweetened soy milk",
+        "2 Tbsp ground flaxseeds"
+      ],
+      "instructions": [
+        "Add all of the ingredients to a high-speed blender.",
+        "Blend on high until smooth. Pour into tall glasses or into bowls to sprinkle overtop your favourite toppings. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use a plant-based milk and yogurt that is fortified with calcium .",
+    "Storage Best to enjoy this smoothie immediately."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/saffron-rice",
+  "recipes": [
+    {
+      "name": "Saffron Rice",
+      "source_url": "https://app.cookwell.com/recipe/saffron-rice",
+      "recipe_id": "https://app.cookwell.com/recipe/saffron-rice",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Basmati Rice, 1 part",
+        "Broth, 1.5 parts",
+        "Saffron, a large pinch",
+        "Butter, a knob",
+        "Salt, a sprinkle"
+      ],
+      "instructions": [
+        "Combine the rice and broth, plus the saffron and a pinch of salt. Steam until cooked through using your preferred method, like a rice cooker. If using a pot on the stovetop: Bring the rice mixture to a simmer, then cover and reduce heat to low. Cook for ~20 minutes or until liquid is absorbed. Turn off heat and allow to steam covered for 5-10 more minutes.",
+        "Add a knob of butter to the rice. Gently fluff, folding until the butter is fully melted and each grain is separated and lightly coated. Taste and adjust with more salt, if needed."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-mango-coleslaw",
+  "recipes": [
+    {
+      "name": "Veganer Mango-Coleslaw",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-mango-coleslaw",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-mango-coleslaw#recipe-f20e779b-d7f6-54cd-864c-a03b65145476",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Für den Salat:",
+        "400 g Mango",
+        "200 g Karotte",
+        "200 g Weißkohl",
+        "200 g Rotkohl",
+        "Für das Dressing:",
+        "400 g veganer Mango Joghurt (z. B. Mango Lughurt von LUVE)",
+        "2 EL Apfelessig",
+        "2 EL Olivenöl",
+        "2 TL Senf",
+        "2 TL Knoblauchpulver",
+        "1 Zitrone (Saft)",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Mango, Karotten, Weiß- und Rotkohl in feine, dünne Streifen schneiden und in einer großen Schüssel vermengen.",
+        "In einer zweiten Schüssel veganen Mango Joghurt, Apfelessig, Olivenöl, Senf, Knoblauchpulver, Saft einer Zitrone, Salz und Pfeffer verrühren.",
+        "Die Joghurt-Mischung zum Salat geben und alles gründlich vermischen. Im Anschluss mit Salz und Pfeffer abschmecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

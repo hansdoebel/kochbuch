@@ -1,0 +1,47 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/homemade-chorizo-choripan-sandwich",
+  "recipes": [
+    {
+      "name": "Homemade Chorizo Choripan Sandwich",
+      "source_url": "https://app.cookwell.com/recipe/homemade-chorizo-choripan-sandwich",
+      "recipe_id": "https://app.cookwell.com/recipe/homemade-chorizo-choripan-sandwich",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4-6 sandwiches",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Ground pork, 450 g",
+        "Salt, 6 g",
+        "Paprika, a spoonful",
+        "Dried oregano, a spoonful",
+        "Black Pepper, a spoonful",
+        "Nutmeg, a sprinkle",
+        "Garlic, 5-8 cloves",
+        "Parsley, 1 bunch",
+        "Olive Oil, 75 g",
+        "Vinegar, 25 g",
+        "Garlic, 2 cloves",
+        "Red Pepper Flakes, a sprinkle",
+        "Salt, to taste",
+        "Hoagie rolls, 4-6"
+      ],
+      "instructions": [
+        "In a large bowl, mix together all chorizo ingredients until well combined. Set aside for cooking. If you won’t be making multiple portion now and want to save extra for later, flatten the sausage mix into ziplock freezer bags. Before freezing, press perforation lines into the flattened sausage so you can break off smaller amounts at a time. You can cook a serving of sausage straight from frozen. If you cook all of the meat right now, you should have enough for 4-6 sandwiches.",
+        "Add parsley and garlic to a bowl, then add the olive oil and vinegar, which should barely submerge the mixture. If you want a looser consistency, add a bit more oil and vinegar. Sprinkle in the red pepper flakes and salt, then taste and adjust the seasoning as needed. This should make enough for 4-6 sandwiches.",
+        "Preheat a pan or griddle over high heat. Add a serving size of the chorizo to a pan, ideally shaped into the rough size of your sandwich bread. Allow the chorizo to sear on this side until well browned and lightly charred. Flip the chorizo patty and continue searing until the meat is cooked through. Repeat with extra patties as needed.",
+        "To assemble a sandwich, cut open your bread roll and slather the insides with chimichurri. Add the cooked chorizo patty, top with an extra dollop of chimichurri and close. Optionally toast the bread or wrap with foil to contain during eating. Repeat if making more sandwiches. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

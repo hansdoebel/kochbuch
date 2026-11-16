@@ -1,0 +1,86 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/chicken-mu",
+  "recipes": [
+    {
+      "name": "Pickled radish (Chicken-mu: 치킨무)",
+      "source_url": "https://www.maangchi.com/recipe/chicken-mu",
+      "recipe_id": "/recipe/chicken-mu#sso/recipe/76553",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "8 servings",
+      "prep_time": "P0DT0H10M0S",
+      "cook_time": null,
+      "total_time": "P0DT2H10M0S",
+      "ingredients": [
+        "1 pound (about 450 g) peeled Korean radish, cut into ⅓-inch (about 8 mm) cubes",
+        "⅓ cup sugar",
+        "⅓ cup plus 1 tablespoon white vinegar",
+        "1 tablespoon kosher salt",
+        "¾ cup water"
+      ],
+      "instructions": [
+        "Combine sugar, vinegar, kosher salt, and water in a large bowl and mix well until salt and sugar are well dissolved.",
+        "Add the radish and stir a few times, then transfer to an airtight container or a glass jar. Refrigerate for at least 2 hours before serving, until the radish absorbs the sweet and sour brine. Keep refrigerated for up to 2 weeks."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 8"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound (about 450 g) peeled Korean radish, cut into ⅓-inch (about 8 mm) cubes"
+        },
+        {
+          "tag": "li",
+          "text": "⅓ cup sugar"
+        },
+        {
+          "tag": "li",
+          "text": "⅓ cup plus 1 tablespoon white vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "¾ cup water"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "p",
+          "text": "Preparation time: 10 minutesChilling time: At least 2 hours, until the radish absorbs the sweet and sour brineTotal time: At least 2 hours 10 minutes"
+        },
+        {
+          "tag": "li",
+          "text": "Combine sugar, vinegar, kosher salt, and water in a large bowl and mix well until salt and sugar are well dissolved."
+        },
+        {
+          "tag": "li",
+          "text": "Add the radish and stir a few times and transfer to an airtight container or a glass jar. Keep in the refrigerator at least 2 hours before serving."
+        },
+        {
+          "tag": "li",
+          "text": "Refrigerate up to 2 weeks."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

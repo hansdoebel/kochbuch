@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-ruehrtofu",
+  "recipes": [
+    {
+      "name": "Veganer Rührtofu",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-ruehrtofu",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-ruehrtofu#recipe-15b0b6c4-4ee6-5e9a-9b50-45789de92ea3",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "25 g Kichererbsenmehl",
+        "125 ml pflanzliche Milch",
+        "400 g Naturtofu",
+        "2 EL Hefeflocken",
+        "0.5 TL Kurkuma",
+        "0.5 TL edelsüßes Paprikapulver",
+        "0.5 TL Kala Namak",
+        "1 rote Zwiebel",
+        "1 Paprika",
+        "Salz",
+        "Pfeffer",
+        "Kresse zum Servieren",
+        "vegane Butter oder Pflanzenöl zum Braten"
+      ],
+      "instructions": [
+        "Kichererbsenmehl und pflanzliche Milch in einer Schüssel verrühren. Den Naturtofu mit den Händen zerbröseln und in die Mehlmischung geben. Hefeflocken, Kurkuma, Paprikapulver und Kala-Namak-Salz dazugeben, mit mit Salz und Pfeffer würzen und alles gut vermengen.",
+        "Rote Zwiebel schälen und fein würfeln, die Paprikaschote waschen und ebenfalls in kleine Würfel schneiden.",
+        "Vegane Butter einer großen Pfanne schmelzen und die Zwiebelwürfel darin ca. 3 Minuten anschwitzen, oder bis sie glasig sind. Paprikawürfel dazugeben und weitere 3-4 Minuten anbraten, bis sie weicher werden. Nun den Rührtofu dazugeben und ca. 10 Minuten anbraten, bis er leicht gebräunt ist. Mit Kresse bestreuen und servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

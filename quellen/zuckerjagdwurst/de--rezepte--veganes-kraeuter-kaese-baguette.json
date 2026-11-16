@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kraeuter-kaese-baguette",
+  "recipes": [
+    {
+      "name": "Veganes Kräuter-Käse-Baguette",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kraeuter-kaese-baguette",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kraeuter-kaese-baguette#recipe-0491b380-6df2-5184-ac8a-bb65e57d63dd",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Baguette",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "1 veganes Baguettes zum Aufbacken",
+        "100 g vegane Butter (Raumtemperatur)",
+        "3 Knoblauchzehen",
+        "10 g frische Kräuter",
+        "veganer Streukäse",
+        "Wasser",
+        "Pflanzenöl",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Die vegane Butter, falls noch nicht geschehen, auf streichzarte Raumtemperatur erwärmen.",
+        "In der Zwischenzeit Knoblauch schälen und in etwas veganer Butter bei niedriger Temperatur ca. 10 Minuten anschwitzen, bis er leicht gebräunt ist.",
+        "Tipp: Alternativ könnt ihr den Knoblauch auch weglassen oder roh fein reiben oder in Alufolie gewickelt ca. 1 Stunde bei 180 °C im Backofen rösten.",
+        "In der Zwischenzeit die frischen Kräuter fein hacken und den veganen Streukäse ebenfalls etwas kleiner schneiden und mit etwas Wasser und Öl vermengen.",
+        "Den angeschwitzten Knoblauch gründlich mit einer Gabel zerdrücken. Die weiche vegane Butter mit dem zerdrückten Knoblauch, gehackten Kräutern und Salz vermengen.",
+        "Das Baguette längs halbieren und beide Hälften dick mit der veganen Kräuter-Knoblauch-Butter beschmieren. Anschließend mit veganem Käse bestreuen.",
+        "Den Backofen auf 180 °C vorheizen und das Baguette ca. 10 Minuten backen, bis es unten knusprig und oben leicht gebräunt ist. Zum Servieren in Streifen schneiden und mit etwas Pfeffer bestreuen.",
+        "Tipp: Wenn ihr gerade bei der Grillparty seid, könnt ihr das Baguette natürlich auch auf den Grill legen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/shoyu-butter-udon-noodles-1215",
+  "recipes": [
+    {
+      "name": "Shoyu Butter Udon Noodles",
+      "source_url": "https://www.pickuplimes.com/recipe/shoyu-butter-udon-noodles-1215",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT07M",
+      "total_time": "PT12M",
+      "ingredients": [
+        "14.109 oz fresh udon noodles",
+        "2 Tbsp unsalted vegan butter",
+        "7.055 oz shiitake mushrooms",
+        "2 stalk green onion",
+        "1 Tbsp dark soy sauce",
+        "1½ Tbsp mushroom stir-fry sauce",
+        "½ tsp garlic powder",
+        "¾ cup frozen shelled edamame"
+      ],
+      "instructions": [
+        "Fill a saucepan with boiling water, and add the udon noodles. Cook for 2 minutes, then drain.",
+        "Meanwhile, add the butter and mushrooms to a large pan over high heat. Cook until the mushrooms are lightly golden, about 4 minutes.",
+        "Add the drained noodles, green onion, soy sauce, mushroom sauce, and garlic powder. Cook for 1 minute.",
+        "Lastly, add the edamame beans and cook until heated through. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage The noodles can be stored in an airtight container in the fridge for up to 2 days."
+  ]
+}

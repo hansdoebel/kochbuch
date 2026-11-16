@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/red-lentil-bolognese-pasta-1556",
+  "recipes": [
+    {
+      "name": "Red Lentil Bolognese Pasta",
+      "source_url": "https://www.pickuplimes.com/recipe/red-lentil-bolognese-pasta-1556",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT25M",
+      "total_time": "PT35M",
+      "ingredients": [
+        "7.055 oz rigatoni",
+        "1 tsp vegetable oil",
+        "1 medium onion",
+        "1 tsp grated fresh ginger",
+        "⅔ cup dry red lentils",
+        "2 medium tomato",
+        "1 medium carrot",
+        "1 vegetable bouillon cube",
+        "⅔ cup water",
+        "1 tsp Italian seasoning",
+        "½ tsp garlic powder",
+        "½ cup vegan green pesto",
+        "2 cup baby spinach"
+      ],
+      "instructions": [
+        "Cook the pasta until al dente.",
+        "Meanwhile, heat the oil in a sauté pan over medium-high heat. Cook the onion until golden, about 4 to 5 minutes. Then add the ginger and cook for 1 more minute.",
+        "Then add the lentils, tomatoes, carrot, bouillon, water, spice mix, and garlic powder. Cook, covered, for 15 to 18 minutes, or until the lentils are cooked. Stir often.",
+        "Then add the pesto, spinach, and cooked pasta. Cook until the spinach wilts.",
+        "Serve while hot, garnish as desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

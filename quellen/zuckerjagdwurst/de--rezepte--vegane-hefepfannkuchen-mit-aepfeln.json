@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-hefepfannkuchen-mit-aepfeln",
+  "recipes": [
+    {
+      "name": "Vegane Hefepfannkuchen mit Apfel",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-hefepfannkuchen-mit-aepfeln",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-hefepfannkuchen-mit-aepfeln#recipe-52323e41-20ed-557b-9ecd-95087a668339",
+      "authors": [
+        "Team"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 12 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT55M",
+      "ingredients": [
+        "Für den Teig:",
+        "200 g Weizenmehl (Type 405)",
+        "4 g Trockenhefe",
+        "3 EL Zucker",
+        "1 TL Vanillezucker",
+        "0.5 TL Salz",
+        "100 ml pflanzliche Milch",
+        "100 ml Sprudelwasser",
+        "2 (ca. 300 g) Äpfel",
+        "neutrales Pflanzenöl zum Braten",
+        "Zum Servieren:",
+        "Puderzucker",
+        "Apfelmus, Marmelade oder frisches Obst"
+      ],
+      "instructions": [
+        "Mehl, Trockenhefe, Zucker, Vanillezucker und Salz in einer großen Schüssel vermischen.",
+        "Die pflanzliche Milch in einem kleinen Topf lauwarm erhitzen (nicht kochen – Fingerprobe: Wenn’s warm, aber nicht heiß ist, passt’s). Dann zuerst die Milch und danach das Sprudelwasser zu den trockenen Zutaten geben und zu einem dickflüssigen Teig verrühren.",
+        "Den Teig abdecken und an einem warmen Ort circa 30 Minuten ruhen lassen.",
+        "Wenn der Teig aufgegangen ist, Äpfel schälen und in kleine Würfel oder dünne Scheiben schneiden. Diese vorsichtig unter den Teig rühren.",
+        "Eine Pfanne mit etwas Pflanzenöl auf mittlerer Hitze erwärmen. Den Teig esslöffelweise hineingeben und die Pfannkuchen von beiden Seiten goldbraun ausbacken. Achtet darauf, dass die Hitze nicht zu hoch ist – die Hefe sorgt dafür, dass die Pancakes in der Pfanne nochmal aufgehen, aber sie müssen auch gut durchgebacken sein!",
+        "Die fertigen Pfannkuchen mit Puderzucker bestäuben und sofort genießen. Wer mag, serviert sie mit Apfelmus, Marmelade oder frischem Obst.",
+        "> Tipp: Kein Apfel-Fan? Kein Problem! Ihr könnt stattdessen Heidelbeeren, Mohn oder einfach nur puren Teig verwenden. Racuchy sind da ganz unkompliziert."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

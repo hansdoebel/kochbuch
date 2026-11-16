@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-thai-salat-sriracha-mayo",
+  "recipes": [
+    {
+      "name": "Veganer Thai-Salat mit Sriracha-Mayo",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-thai-salat-sriracha-mayo",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-thai-salat-sriracha-mayo#recipe-fce17e45-f5c9-5914-a607-8421552a08a7",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4-6 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Thai-Salat",
+        "400 g geschälte und gefrorene Edamame",
+        "150 g Sobanudeln",
+        "1 Mango",
+        "1 (ca. 75 g) Karotte",
+        "0.5 Gurke",
+        "350 g Rotkohl",
+        "2 Frühlingszwiebeln",
+        "10 g frischer Koriander",
+        "100 g Erdnüsse",
+        "Sriracha-Mayo",
+        "250 ml vegane Mayo (z.B. von Byodo)",
+        "3 - 5 EL Sriracha oder eine andere scharfe Chilisauce"
+      ],
+      "instructions": [
+        "Die gefrorenen und geschälten Edamame nach Packungsanleitung zubereiten. Meist werden sie für 5 Minuten in einem Topf gekocht und im Anschluss mit kaltem Wasser abgeschreckt.",
+        "Auch die Sobanudeln nach Packungsanleitung zubereiten. Meist werden sie ebenfalls für 4-5 Minuten in kochendes Wasser gegeben.",
+        "Währenddessen das restliche Gemüse vorbereiten: Gurke waschen, halbieren und in Scheiben schneiden, Karotte schälen und in Stifte schneiden, Rotkohl waschen und in feine Streifen schneiden, Mango schälen und in Streifen schneiden.",
+        "Die Frühlingszwiebeln ebenfalls waschen und in Ringe schneiden, den Koriander waschen und die Blätter von den Stängeln entfernen.",
+        "Die vegane Mayo mit der Chilisauce in einer kleinen Schüssel verrühren. Je nach Geschmack (und eurer Schärfevorliebe) mehr oder weniger Chilisauce verwenden.",
+        "In einer großen Schüssel alle Zutaten miteinander vermengen: Sobanudeln, Edamame, Karotte, Gurke, Rotkohl, Mango, Frühlingszwiebeln. Den Salat in To Go Behälter oder auf Tellern verteilen und mit Koriander, Erdnüssen und der Sriracha-Mayo servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

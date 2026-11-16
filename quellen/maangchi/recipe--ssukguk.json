@@ -1,0 +1,98 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/ssukguk",
+  "recipes": [
+    {
+      "name": "Mugwort soup (Ssukguk)",
+      "source_url": "https://www.maangchi.com/recipe/ssukguk",
+      "recipe_id": "/recipe/ssukguk#sso/recipe/13879",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "for 2 servings (cooking time: 30 minutes)",
+        "Mugwort, clams, dried anchovies, onion, soybean paste, flour, garlic, green or red chili pepper, and perilla seeds powder"
+      ],
+      "instructions": [
+        "Place 12-13 small clams in a bowl. Add 1 cup of water and 1 ts kosher salt and mix well. Soak for 1 hour to let the clams spit out any sand or mud.",
+        "Wash and clean 3-4 cups of mugwort thoroughly by washing thoroughly and rinsing and draining in cold running water a couple of times. You may need to scrub it by hand to remove any residual dirt from between the leaves. Put it in a bowl and set aside",
+        "Make anchovy stock:Put 6 cups of water into a pot.Add ½ cup’s worth of chopped onion (about ½ an onion) and 10 large dried anchovies (with guts and heads removed) to the pot.Boil for 20 minutes over high heat.",
+        "Gently mix the mugwort with ¼ cup soy bean paste, 1 tbs flour, 3 cloves of minced garlic, and 2 tbs perilla seeds powder (optional).",
+        "Strain the stock so it’s clear and a little brownish. Put it back in the pot and reheat it.",
+        "Add the seasoned mugwort mixture to the boiling stock.",
+        "Wash and drain the clams and put them into the soup.",
+        "Cook 5-7 minutes more, then add chopped green or red chili pepper.",
+        "Transfer the soup to a bowl and serve with rice and a few more side dishes,"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "for 2 servings (cooking time: 30 minutes)"
+        },
+        {
+          "tag": "p",
+          "text": "Mugwort, clams, dried anchovies, onion, soybean paste, flour, garlic, green or red chili pepper, and perilla seeds powder"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Place 12-13 small clams in a bowl. Add 1 cup of water and 1 ts kosher salt and mix well. Soak for 1 hour to let the clams spit out any sand or mud."
+        },
+        {
+          "tag": "li",
+          "text": "Wash and clean 3-4 cups of mugwort thoroughly by washing thoroughly and rinsing and draining in cold running water a couple of times. You may need to scrub it by hand to remove any residual dirt from between the leaves. Put it in a bowl and set aside"
+        },
+        {
+          "tag": "li",
+          "text": "Make anchovy stock:Put 6 cups of water into a pot.Add ½ cup’s worth of chopped onion (about ½ an onion) and 10 large dried anchovies (with guts and heads removed) to the pot.Boil for 20 minutes over high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Gently mix the mugwort with ¼ cup soy bean paste, 1 tbs flour, 3 cloves of minced garlic, and 2 tbs perilla seeds powder (optional)."
+        },
+        {
+          "tag": "li",
+          "text": "Strain the stock so it’s clear and a little brownish. Put it back in the pot and reheat it."
+        },
+        {
+          "tag": "li",
+          "text": "Add the seasoned mugwort mixture to the boiling stock."
+        },
+        {
+          "tag": "li",
+          "text": "Wash and drain the clams and put them into the soup."
+        },
+        {
+          "tag": "li",
+          "text": "Cook 5-7 minutes more, then add chopped green or red chili pepper."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer the soup to a bowl and serve with rice and a few more side dishes,"
+        },
+        {
+          "tag": "p",
+          "text": "My other mugwort recipe, mugwort rice cake (ssukbeomul) is here!"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

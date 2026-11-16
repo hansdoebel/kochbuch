@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.recipetineats.com/garlic-cheese-pizza/",
+  "recipes": [
+    {
+      "name": "Garlic cheese pizza",
+      "source_url": "https://www.recipetineats.com/garlic-cheese-pizza/",
+      "recipe_id": "https://www.recipetineats.com/garlic-cheese-pizza/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "1",
+        "1 x 30cm/12\" pizza"
+      ],
+      "prep_time": "PT10M",
+      "cook_time": "PT8M",
+      "total_time": null,
+      "ingredients": [
+        "1 classic pizza dough ((wood-fired Italian style))",
+        "1 fast no-yeast pizza dough ((this is excellent!))",
+        "1 Store bought",
+        "2 tbsp extra virgin olive oil",
+        "2 tsp garlic ((2 - 3 large cloves), crushed using garlic press or make paste using side of knife - Note 2))",
+        "1/8 tsp cooking salt / kosher salt ((or table salt, or double qty for salt flakes))",
+        "1 cup mozzarella cheese ((tightly packed cup), shredded using box grater (Note 3 on pre-shredded))",
+        "1/2 cup parmesan ((tightly packed cup), shredded using box grater (Note 3))"
+      ],
+      "instructions": [
+        "Preheat oven to 250°C / 480°F (230°C fan). Allow time to get it nice and hot!!",
+        "Garlic infused oil - Mix olive oil and garlic in a small bowl. Set aside to infuse with flavour for 10 minutes.",
+        "Pizza base - Make and roll out chosen pizza base, stretch onto pan.",
+        "Top - Spread oil (and all garlic) onto the base, leaving the crust baked. Sprinkle with salt, parmesan then mozzarella. (If using no-yeast base, spray/brush exposed crust with olive oil.)",
+        "Bake 8 minutes, turning after 4 minutes, or until the the cheese has golden spots. Cut and eat, stat!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. Pizza base choices – Classic pizza dough (yeast) – 5 min hand knead or stand-mix or 40 second food processor, plus 4 to 6 hours rising time (across 2 rises) No yeast pizza dough – This is excellent, not a sad substitute for yeast pizza. 40 seconds in food processor, or hand knead. NO RISE TIME. Store bought – anything of your choice, un-cooked or par-cooked (else it will burn before cheese melts) 2. Garlic – For the best results, we want the garlic in a paste form so it fully infuses the oil with flavour. If you don’t have a garlic crusher, finely mince the garlic using your knife then smear it into a paste using the side of the knife. Please don’t use store bought garlic paste – it’s sour from preservatives. 3. Cheese notes – Freshly shredded melts / spreads better because pre-shredded in packets are coated with anti-clumping agents. If using cups for measuring, shred first then pack it in tightly else you’ll be short – so sad. I cut hunks of cheese, weigh, then grate."
+  ]
+}

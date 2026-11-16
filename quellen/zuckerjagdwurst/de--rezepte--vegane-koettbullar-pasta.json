@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-koettbullar-pasta",
+  "recipes": [
+    {
+      "name": "Vegane Köttbullar-Pasta",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-koettbullar-pasta",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-koettbullar-pasta#recipe-cbf3d4ca-c3ed-55ee-9892-7a77401c2dbf",
+      "authors": [],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Pasta und veganen Köttbullar:",
+        "250 g Nudeln (z. B. Bucatini)",
+        "180 g Köttbullar-Mix (z. B. VeggieMix Köttbullar bio von Bauckhof)",
+        "Pflanzenöl zum Braten",
+        "Für die vegane Rahmsoße:",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "3 EL vegane Butter",
+        "3 EL Weizenmehl",
+        "ca. 400 ml Gemüsebrühe",
+        "250 ml pflanzliche Sahne",
+        "1 TL Tomatenmark",
+        "1 Lorbeerblatt",
+        "1 Prise Piment",
+        "1 Prise Muskat",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "Preiselbeermarmelade",
+        "Petersilie"
+      ],
+      "instructions": [
+        "Zuerst die vegane Rahmsoße zubereiten: Zwiebel und Knoblauch schälen und fein würfeln. Die vegane Butter in einem kleinen Topf schmelzen lassen. Zwiebel und Knoblauch darin anschwitzen, bis die Zwiebelwürfel glasig sind. Das Mehl gründlich einrühren, damit sich keine Klümpchen bilden. Danach Gemüsebrühe, pflanzliche Sahne und Tomatenmark unter Rühren dazugeben, bis eine glatte Soße entsteht. Das Lorbeerblatt dazugeben und die Soße mit Salz, Pfeffer und Piment würzen. Die vegane Rahmsoße bei kleiner Hitze köcheln lassen, bis die Nudeln und veganen Köttbullar fertig sind.",
+        "In der Zwischenzeit die Nudeln nach Packungsanleitung kochen, bis sie al dente sind. Vor dem Abgießen etwas vom Kochwasser beiseitestellen.",
+        "Den veganen Köttbullar-Mix nach Packungsanleitung anrühren – dafür kaltes Wasser und neutrales Öl gründlich mit dem Pulver vermengen und ca. 2-3 Minuten quellen lassen. Aus der Mischung ca. 20 vegane Köttbullar formen.",
+        "Pflanzenöl in einer Pfanne erhitzen und die veganen Köttbullar anbraten, bis sie von allen Seiten gut gebräunt sind.",
+        "Die gekochte Pasta zur Rahmsoße geben und gut vermengen. Dabei so viel vom Kochwasser der Nudeln dazugeben, bis eine sämige Soße entsteht. Die Nudeln und veganen Köttbullar auf Serviertellern verteilen. Etwas Preiselbeermarmelade dazugeben und mit Petersilie bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": [
+        "authors"
+      ]
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

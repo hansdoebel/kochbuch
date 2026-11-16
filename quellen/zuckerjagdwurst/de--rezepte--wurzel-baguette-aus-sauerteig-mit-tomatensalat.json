@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/wurzel-baguette-aus-sauerteig-mit-tomatensalat",
+  "recipes": [
+    {
+      "name": "Wurzel-Baguette aus Sauerteig mit Tomatensalat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/wurzel-baguette-aus-sauerteig-mit-tomatensalat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/wurzel-baguette-aus-sauerteig-mit-tomatensalat#recipe-c0f53b0c-94ca-48ab-ba3a-b1c3f80517ae",
+      "authors": [
+        "Anna Germek"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Baguettes + 4 Portionen Salat",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT1785M",
+      "ingredients": [
+        "Für die Baguettes:",
+        "120 g aktiver Sauerteigstarter",
+        "360 g Wasser",
+        "450 g Weizenmehl (Type 550)",
+        "50 g Weizenvollkornmehl",
+        "11 g Salz",
+        "Für den Tomatensalat:",
+        "5 Rispentomaten",
+        "15 Cherrytomaten",
+        "0.5 rote Zwiebel",
+        "1 Knoblauchzehe",
+        "2 EL Olivenöl",
+        "3 EL Balsamicoessig",
+        "1 EL Agavendicksaft",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Den Sauerteigstarter füttern, sodass er abends aktiv und bereit zum Backen ist. Wenn er morgens vor der Arbeit gefüttert wird, dann im Verhältnis 1:5:5.",
+        "Starter, Wasser, Mehle und Salz in eine Schüssel geben und 10–20 Minuten am besten mit einer Küchenmaschine verkneten. Den Teig etwa 1–2 Stunden bei Raumtemperatur gehen lassen, bis er sich etwas vergrößert hat. Im Winter an einen warmen Ort stellen.",
+        "Nach der Gehzeit den Teig abgedeckt, zum Beispiel mit einer Frischhaltefolie, über Nacht (etwa 10–16 Stunden) in den Kühlschrank stellen.",
+        "Den Teig morgens auf eine bemehlte Arbeitsplatte stürzen, mit Mehl bestäuben und in zwei Stränge zerteilen. Die entstandenen offenen Kanten verschließen, dann die Stränge vorsichtig verdrehen. Abgedeckt 30 Minuten ruhen lassen. Den Ofen auf 230 °C (Ober-/Unterhitze) vorheizen.",
+        "Die Baguettes 10 Minuten mit Wasserdampf backen: Entweder durch einen Backofen mit Dampffunktion oder indem ihr beim Vorheizen eine ofenfeste Form auf den Boden des Ofens stellt und kurz vor dem Backen mit heißem Wasser befüllt. Oder indem ihr Wasser einfach auf den Ofenboden schüttet, sofern das euer Ofen verträgt. Weitere 15 Minuten ohne Dampf fertigbacken.",
+        "In der Zwischenzeit die Tomaten schneiden, die Zwiebel würfeln und den Knoblauch hacken. Den Knoblauch zusammen mit Olivenöl, Balsamicoessig, Agavendicksaft, Salz und Pfeffer zu einem Dressing verrühren und über das Gemüse geben. Die Baguettes vor dem Anschneiden mindestens 30 Minuten abkühlen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

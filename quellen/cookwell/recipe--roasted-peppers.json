@@ -1,0 +1,42 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/roasted-peppers",
+  "recipes": [
+    {
+      "name": "Roasted Peppers",
+      "source_url": "https://app.cookwell.com/recipe/roasted-peppers",
+      "recipe_id": "https://app.cookwell.com/recipe/roasted-peppers",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Red Bell Peppers, 3",
+        "Yellow Bell Peppers, 3",
+        "Cooking oil",
+        "Salt",
+        "Salt, to taste",
+        "Vinegar",
+        "Garlic",
+        "Dried herbs",
+        "Flavored oils"
+      ],
+      "instructions": [
+        "Preheat the oven to 425° F/218°C. Chop the peppers in half then remove the seeds and membrane.",
+        "Line a baking sheet with parchment paper. Place the halved peppers on the sheet, drizzle with oil, and sprinkle with salt. Roast in the oven until completely soft and the skin is slightly blackened, about 15 minutes.",
+        "Remove the roasted peppers from the oven and place them in a bowl. Cover with plastic wrap and let them steam for 15 minutes. Remove the outer skin, then slice or chop into the desired shape.",
+        "Taste them! Add a sprinkle of salt, vinegar, garlic, or herbs as you see fit. Mix in the seasonings and store in an airtight container. You can fill the container partway with oil if you would like, but I prefer not to. Use as a topping or blend into sauces, hummus, etc."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

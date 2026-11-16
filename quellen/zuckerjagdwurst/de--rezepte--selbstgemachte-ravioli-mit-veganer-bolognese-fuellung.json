@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/selbstgemachte-ravioli-mit-veganer-bolognese-fuellung",
+  "recipes": [
+    {
+      "name": "Ravioli mit veganer Bolognese-Füllung",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/selbstgemachte-ravioli-mit-veganer-bolognese-fuellung",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/selbstgemachte-ravioli-mit-veganer-bolognese-fuellung#recipe-349cac98-3cde-5a1d-854d-b33ef155419d",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "3-4 Portionen (ca. 30-40 Ravioli)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für den Nudelteig:",
+        "100 g Hartweizengrieß",
+        "150 g Weizenmehl Type 405",
+        "1 Prise Salz",
+        "125 ml Wasser",
+        "Für die Füllung:",
+        "1 Packung Bauckhof Bolognese",
+        "100 g stückige Tomaten aus der Dose",
+        "250 ml Wasser",
+        "1 Selleriestange",
+        "1 Möhre",
+        "1 rote Zwiebel",
+        "2 EL Tomatenmark",
+        "Pflanzenöl zum Braten",
+        "Salz",
+        "Pfeffer",
+        "Für die Soße:",
+        "2 Knoblauchzehen",
+        "15 g Basilikum",
+        "50 g vegane Butter",
+        "1 TL weißes Mandelmus",
+        "veganer Parmesan zum Servieren"
+      ],
+      "instructions": [
+        "Für den Nudelteig Hartweizengrieß, Weizenmehl und eine Prise Salz vermengen. Das Wasser langsam dazugeben und die Zutaten per Hand oder mit einer Küchenmaschine zu einem geschmeidigen Teig verarbeiten. Bei Bedarf etwas mehr Wasser dazugeben. Den Nudelteig anschließend mind. 30 Minuten bei Zimmertemperatur ruhen lassen.",
+        "In der Zwischenzeit die Füllung vorbereiten. Die vegane Bolognese-Mischung zusammen mit stückigen Tomaten aus der Dose und Wasser in einen Topf geben. Die Mischung einmal aufkochen lassen und danach bei mittlerer Hitze ca. 15 Minuten köcheln lassen. Sollte sie zu dick werden, etwas mehr Wasser dazugeben.",
+        "Parallel dazu Sellerie, Möhre und Zwiebel in kleine Würfel schneiden. Pflanzenöl in einer Pfanne erhitzen und das Gemüse bei mittlerer Hitze ca. 10 Minuten anbraten, danach Tomatenmark einrühren und mit Salz und Pfeffer abschmecken. Noch weitere 5 Minuten anbraten.",
+        "Das gebratene Gemüse mit der veganen Bolognese-Mischung vermengen. Die Mischung darf nicht zu dünn werden, damit sie nicht auf dem Nudelteig zerläuft. Sollte die Füllung noch zu flüssig sein, einfach länger einköcheln lassen. Vor dem Füllen noch einmal mit Salz und Pfeffer abschmecken.",
+        "Den Nudelteig vierteln und mit einer Nudelmaschine oder dem Nudelholz zu langen, dünnen (ca. 1 mm dicken) Bahnen ausrollen. Falls er doch etwas kleben sollte, mit etwas Hartweizengrieß bestreuen. Pro Ravioli jeweils einen Klecks (ca. 1 TL) der Füllung auf einen Nudelteig setzen – die Füllungen sollten jeweils ca. 3 cm Abstand zueinander haben. Den Teig rund um die Füllung mit etwas Wasser bestreichen, dann den Teig von der langen Seite aus über die Füllung legen und vorsichtig aber gründlich andrücken, so dass möglichst wenig Luft in den Ravioli bleibt. Den Rand des Nudelteigs mit einem Messer begradigen und die Nudelbahn in einzelne Ravioli schneiden. Mit dem restlichen Nudelteig und der restlichen Füllung wiederholen.",
+        "Gesalzenes Wasser in einem Topf aufkochen lassen. Die Ravioli darin ca. 5 Minuten kochen lassen.",
+        "In der Zwischenzeit Knoblauch in dünne Scheiben schneiden und Basilikum in Streifen schneiden. Vegane Butter in einer großen Pfanne schmelzen lassen, Mandelmus einrühren und Knoblauchscheiben darin wenige Minuten bei kleiner Hitze anschwitzen.",
+        "Die gekochten Ravioli direkt aus dem Topf in die Pfanne geben und in der geschmolzenen Butter schwenken. Danach den Basilikum dazugeben und nur kurz erneut durchschwenken.",
+        "Die Bolognese-Ravioli direkt servieren und nach Wunsch mit viel veganem Parmesan bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

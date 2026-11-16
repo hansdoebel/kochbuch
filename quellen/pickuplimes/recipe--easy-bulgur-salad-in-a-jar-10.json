@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/easy-bulgur-salad-in-a-jar-10",
+  "recipes": [
+    {
+      "name": "Easy Bulgur Salad in a Jar",
+      "source_url": "https://www.pickuplimes.com/recipe/easy-bulgur-salad-in-a-jar-10",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT15M",
+      "cook_time": "PT10M",
+      "total_time": "PT25M",
+      "ingredients": [
+        "2 cup extra coarse bulgur",
+        "2 cup water",
+        "¼ cup tomato paste",
+        "¼ cup water",
+        "2 Tbsp extra-virgin olive oil",
+        "2 Tbsp pomegranate molasses",
+        "1 lemon",
+        "½ tsp salt",
+        "2 cup cooked brown lentils",
+        "1 cucumber",
+        "1 medium red onion",
+        "1 cup green olives",
+        "2 cup cherry tomatoes",
+        "1 cup fresh parsley"
+      ],
+      "instructions": [
+        "Add the bulgur and water to a medium pot. Bring to a boil, reduce to a simmer, cover and cook for 15 minutes*.",
+        "Turn off the heat, stir the bulgur, cover, and let rest for 10 more minutes. Then rinse under cold water.",
+        "Meanwhile, add the dressing ingredients to a bowl. Mix well.",
+        "Fill the mason jar with the dressing at the base, followed by the cooked bulgur, then lentils, cucumber, red onion, olives, tomatoes, and parsley. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Pomegranate molasses can be found in many Middle Eastern or Mediterranean supermarkets. If this ingredient isn't available to you, try substituting it with pomegranate juice and maple syrup, or cranberry juice concentrate. * There are many different varieties of bulgur. Be sure to cook yours according to the package instructions.",
+    "Storage The salad can be stored in mason jar in the fridge for up to 4 days."
+  ]
+}

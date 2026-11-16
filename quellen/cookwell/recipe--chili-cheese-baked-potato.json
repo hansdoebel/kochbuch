@@ -1,0 +1,51 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/chili-cheese-baked-potato",
+  "recipes": [
+    {
+      "name": "Chili Cheese Baked Potato",
+      "source_url": "https://app.cookwell.com/recipe/chili-cheese-baked-potato",
+      "recipe_id": "https://app.cookwell.com/recipe/chili-cheese-baked-potato",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2 potatoes",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Russet potatoes, 2",
+        "Neutral oil, a drizzle",
+        "Salt, a sprinkle",
+        "Ground beef, 450 g",
+        "Crushed tomatoes, ~300 g",
+        "Tomato Paste, a squeeze",
+        "Onions, 1/8",
+        "Neutral oil, 10 g",
+        "Chili Powder, 5 g",
+        "Cumin, 5 g",
+        "Smoked Paprika, 3 g",
+        "Salt, 5 g",
+        "Cheddar, 56 g",
+        "Onions, to taste",
+        "Pickles, to taste",
+        "Sour Cream, a dollop",
+        "Cilantro, for garnish"
+      ],
+      "instructions": [
+        "Poke several holes all over the potato with a fork. Microwave it for 3 minutes to give it a head start. Rub the potato with a little oil and salt, then transfer it to a 425°F (220°C) oven and bake for about 30 minutes, or until the skin is crisp and the center is tender.",
+        "Heat a skillet over medium heat and add the oil. Add the chili powder, cumin, and smoked paprika. Stir them into the oil and let them bloom until fragrant. Before anything burns, add the grated onion and tomato paste. Stir everything together until it forms a thick chili paste. Remove the chili paste from the pan and reserve it.",
+        "Add the ground beef to the same skillet. Press it into the pan to sear and let it brown on one side before breaking it up into crumbles. Season with the salt, then continue searing and mixing until the beef is browned. Add the chili paste back into the pan and stir until the beef is evenly coated and the color deepens.",
+        "Add most of a can of crushed tomatoes and stir everything together. Let the mixture simmer and reduce for 4–5 minutes, stirring occasionally, until the canned tomato flavor cooks out and the chili becomes thick and saucy. Let it caramelize slightly around the edges of the pan, then mix it back together. Taste and adjust seasoning as needed. Turn off heat.",
+        "Slice into the top of the baked potato and fluff the interior with a fork to create a potato bowl. Add the grated cheddar directly to the hot potato so it starts to melt. Spoon a large serving of hot beef chili over the cheese, then finish with chopped white onion, chopped pickles, a dollop of sour cream, and fresh cilantro. Serve warm."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

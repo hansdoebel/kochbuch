@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vibrant-roasted-beetroot-hummus-162",
+  "recipes": [
+    {
+      "name": "Vibrant Roasted Beetroot Hummus",
+      "source_url": "https://www.pickuplimes.com/recipe/vibrant-roasted-beetroot-hummus-162",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT40M",
+      "total_time": "PT50M",
+      "ingredients": [
+        "2 medium beet",
+        "1½ cup cooked chickpeas",
+        "¼ cup water",
+        "1 lemon",
+        "2 Tbsp tahini",
+        "1 Tbsp olive oil",
+        "2 garlic clove",
+        "½ tsp salt"
+      ],
+      "instructions": [
+        "Line a baking tray and preheat the oven to 400°F (200°C)*.",
+        "Cut the beets into ½ inch (1 cm) slices and transfer to the baking tray. Roast for 40 to 45 minutes, or until cooked through. Set aside to cool.",
+        "Add all the ingredients to a food processor and blend until smooth. Taste test and adjust the lemon, tahini, oil, and salt to your liking.",
+        "Plate, garnish, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Store in an airtight container in the fridge for up to 5 days."
+  ]
+}

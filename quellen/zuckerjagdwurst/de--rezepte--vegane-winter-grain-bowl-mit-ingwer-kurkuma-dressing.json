@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-winter-grain-bowl-mit-ingwer-kurkuma-dressing",
+  "recipes": [
+    {
+      "name": "Vegane Winter-Grain-Bowl mit Ingwer-Kurkuma-Dressing",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-winter-grain-bowl-mit-ingwer-kurkuma-dressing",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-winter-grain-bowl-mit-ingwer-kurkuma-dressing#recipe-688fab77-bde1-5a1a-b74c-7c49f8db7a44",
+      "authors": [
+        "Ronja Gramse"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Für die Gemüse-Bowl:",
+        "120 g Buchweizen",
+        "150 g Feldsalat",
+        "1 Apfel",
+        "0.5 Granatapfel",
+        "200 g veganer Feta",
+        "1 Zwiebel",
+        "2 große Möhren",
+        "2 Rote Bete",
+        "Für die karamellisierten Haselnüsse:",
+        "20 ml Agavendicksaft",
+        "25 ml Wasser",
+        "50 g Haselnüsse",
+        "Für das Ingwer-Kurkuma-Dressing:",
+        "25 g frischen Ingwer",
+        "25 g frischen Kurkuma",
+        "1 kleine Knoblauchzehe",
+        "70 ml natives Olivenöl extra (z.B. von Byodo)",
+        "2 EL Apfelessig (z.B. von Byodo)",
+        "1 EL Lemon Balsam (z.B. von Byodo)",
+        "1 TL Agavendicksaft",
+        "Wasser",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Zuerst Buchweizen gründlich waschen. Dann eine große Pfanne bei mittlerer Hitze erwärmen und den Buchweizen darin ohne Fett anrösten. Danach aus der Pfanne nehmen und beiseitestellen.",
+        "Parallel dazu die Haselnüsse karamellisieren. Dafür Agavendicksaft, Wasser und Haselnüsse in einer kleinen Schüssel vermengen. Anschließend in eine Pfanne geben und unter Rühren erhitzen, bis der Agavendicksaft die Nüsse ummantelt und karamellisiert. Dies kann einige Minuten dauern. Wenn die Nüsse karamellisiert sind, auf einem Teller abkühlen lassen und ebenfalls beiseitestellen.",
+        "Als nächstes den Feldsalat waschen und in einem Sieb abtropfen lassen. Apfel vierteln und in dünne Scheiben schneiden. Granatapfel entkernen, veganen Feta würfeln und Zwiebel, Möhren und Rote Bete schälen. Die Zwiebel in kleine Würfel schneiden, Möhren raspeln und Rote Bete in längliche Sticks schneiden.",
+        "Für das Dressing frischen Ingwer, Kurkuma und Knoblauch schälen und klein schneiden. Anschließend in ein hohes Gefäß geben. Olivenöl, Apfelessig, Lemon Balsam und Agavendicksaft hinzugeben und alles mit einem Pürierstab mixen. Anschließend mit Salz und Pfeffer abschmecken und nach Wunsch etwas Wasser hinzugeben, um eine flüssigere Konsistenz zu erhalten. Erneut pürieren und beiseitestellen.",
+        "Zum Servieren Buchweizen und alle frischen Zutaten in einer großen Schüssel mit dem Dressing vermengen. Mit karamellisierten Nüssen und Granatapfelkernen toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-maulwurfkuchen",
+  "recipes": [
+    {
+      "name": "Veganer Maulwurfkuchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-maulwurfkuchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-maulwurfkuchen#recipe-99a3ec71-553a-5253-b04d-a6437c990230",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (∅ 26 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT160M",
+      "ingredients": [
+        "Für den Schokoteig:",
+        "500 g Weizenmehl (Type 405)",
+        "200 g Zucker",
+        "50 g Backkakao",
+        "16 g Backpulver",
+        "1 Prise Salz",
+        "300 ml Mineralwasser",
+        "200 ml pflanzliche Milch",
+        "150 ml neutrales Pflanzenöl",
+        "Für die Füllung:",
+        "400 ml vegane Sahne zum Aufschlagen",
+        "16 g Sahnesteif",
+        "8 g Vanillezucker",
+        "100 g Zartbitterschokolade",
+        "3–4 Bananen"
+      ],
+      "instructions": [
+        "Den Ofen auf 180 °C (Umluft) vorheizen und eine Kuchenform (26 Zentimeter Durchmesser) einfetten. Für den Schokoteig Mehl, Zucker, Backkakao, Backpulver und Salz vermischen. Mineralwasser, pflanzliche Milch und Pflanzenöl hinzugeben und nur noch kurz unterrühren. Den Teig in die Kuchenform geben und für 60 Minuten bei 180 °C (Umluft) backen. Im Anschluss komplett abkühlen lassen.",
+        "Für die Füllung vegane Sahne mit Sahnesteif und Vanillezucker aufschlagen. Die Zartbitterschokolade hacken und unterheben. Die Sahne bis zur Verwendung kalt stellen.",
+        "Den Deckel des Kuchens entfernen und mit den Händen zerkrümeln. Die Bananen schälen, länghalbieren und auf den erkalteten Kuchen legen. Mit der Sahne toppen und einen Halbkreis formen. Den Kuchen mit den Streuseln bedecken und bis zum Servieren wieder kalt stellen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

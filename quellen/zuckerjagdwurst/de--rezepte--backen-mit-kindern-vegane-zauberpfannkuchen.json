@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/backen-mit-kindern-vegane-zauberpfannkuchen",
+  "recipes": [
+    {
+      "name": "Vegane Zauberpfannkuchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/backen-mit-kindern-vegane-zauberpfannkuchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/backen-mit-kindern-vegane-zauberpfannkuchen#recipe-21fef2d4-a22b-54a8-9993-0a0029cdd89d",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Pfannkuchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "250 g Mehl (1.5 Tassen)",
+        "1 Päckchen Vanillezucker",
+        "3 EL Zucker",
+        "1 Päckchen Backpulver",
+        "500 ml pflanzliche Milch (2 Tassen)",
+        "3 EL Kakao",
+        "Öl für die Pfanne",
+        "1 kleine Plastiktüte",
+        "Klammer zum Verschließen"
+      ],
+      "instructions": [
+        "Nimm dir eine große Schüssel und gib Mehl, Vanillezucker, Zucker und Backpulver hinein.",
+        "Verrühre mit einem Schneebesen all deine trockenen Zutaten so lange, bis sie gut vermengt sind.",
+        "Gib nun nach und nach deine pflanzliche Milch hinzu. Dieser Schritt funktioniert am besten zu zweit! Einer rührt mit einem Schneebesen den Teig glatt und der andere gibt Schluck für Schluck die pflanzliche Milch hinzu. Rühr den Teig so lange, bis du keine kleinen Klümpchen mehr entdecken kannst. Halbiere nun den Teig und gib in die eine Hälfte das Kakaopulver. Gib nun den dunklen Teig in eine Plastiktüte und verschließe diese mit einer Küchenklammer.",
+        "Jetzt geht es an den Herd! Erhitze 1 EL Öl auf mittlerer Stufe in einer flachen Pfanne. Schneide eine kleine Ecke deiner Plastiktüte ab, sodass du den Schokoladen-Teig wie einen Strudel in die Pfanne geben kannst.",
+        "Fülle nun die Zwischenräume mit dem hellen Teig auf. Am Ende solltest du einen runden Pfannkuchen haben mit einem magischen Schokoladenstrudel darin.",
+        "Nach 1-2 Minuten kannst du deinen Pfannkuchen in der Pfanne wenden. Nach weiteren 2 Minuten ist dein Pfannkuchen fertig! Nimm ihn nun aus der Pfanne.",
+        "Der Pfannkuchen schmeckt besonders toll mit frischem Obst, etwas Sahne oder Streuseln. Super, das war’s schon! Deine magischen Zauberpfannkuchen sind fertig zum Essen!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

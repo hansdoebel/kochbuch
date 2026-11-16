@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/coconut-rice-porridge-with-stewed-berries-1252",
+  "recipes": [
+    {
+      "name": "Coconut Rice Porridge with Berry Chia Jam",
+      "source_url": "https://www.pickuplimes.com/recipe/coconut-rice-porridge-with-stewed-berries-1252",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT08M",
+      "total_time": "PT13M",
+      "ingredients": [
+        "½ cup frozen mixed berries",
+        "½ Tbsp whole chia seeds",
+        "2 cup cooked white rice",
+        "1⅔ cup canned light coconut milk",
+        "1½ Tbsp maple syrup",
+        "½ tsp ground cinnamon",
+        "¼ cup unsweetened coconut yogurt",
+        "2 Tbsp natural peanut butter",
+        "¼ cup unsalted roasted almonds"
+      ],
+      "instructions": [
+        "Place the berries in a bowl and microwave at 600W for about 3 minutes, stopping to stir every minute. Alternatively, stew on the stove.",
+        "Then stir in the chia seeds and set aside for the chia seeds to gel.",
+        "In a saucepan, combine the rice, coconut milk, maple syrup, and cinnamon. Bring to a boil over high heat, then reduce to a gentle simmer and cook uncovered for about 5 minutes, stirring often, until warmed through and creamy.",
+        "Taste and add more maple syrup if desired. Divide between bowls and top with the berry chia jam, yogurt, peanut butter, and chopped almonds. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † ⅔ cup uncooked white rice makes about 2 cups cooked rice.",
+    "Storage Best enjoyed the day it's made. Leftovers can be stored in an airtight container in the fridge for up to 1 day."
+  ]
+}

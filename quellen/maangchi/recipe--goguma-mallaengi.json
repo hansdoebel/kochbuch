@@ -1,0 +1,84 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/goguma-mallaengi",
+  "recipes": [
+    {
+      "name": "Dried sweet potato snack (Goguma-mallaengi: 고구마말랭이)",
+      "source_url": "https://www.maangchi.com/recipe/goguma-mallaengi",
+      "recipe_id": "/recipe/goguma-mallaengi#sso/recipe/76367",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "6 pounds sweet potatoes"
+      ],
+      "instructions": [
+        "Wash sweet potatoes in cold running water and put them into a steamer basket.",
+        "Bring 2 inches of water to a boil in a steamer over medium high heat.",
+        "Add the sweet potatoes to the steamer, and cover and steam for 30 minutes to 1 hour. The cooking time depends on the size of the sweet potatoes, so after 30 minutes, open the lid and poke the most plump sweet potato with a wooden skewer or a stainless steel chopstick. If it goes through smooth, it’s well cooked. If not, cook longer.",
+        "Remove from the heat and let cool for 5 to 10 minutes.",
+        "Transfer them to large cutting board. Remove the skin and slice them into ⅓ inch (about 1 cm) thick. Put all the slices into a dehydrator.",
+        "Set the temperature to 145ºF and turn on the dehydrator. About 6 hours later, turn off and turn the sweet potato slices over by hand.",
+        "Turn on the dehydrator and dry for another 6 hours.",
+        "Put the dried sweet potato slices into a plastic bag and serve as a snack. They will be good for up to 1 week at room temperature or 1 month in the freezer."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "6 pounds sweet potatoes"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Wash sweet potatoes in cold running water and put them into a steamer basket."
+        },
+        {
+          "tag": "li",
+          "text": "Bring 2 inches of water to a boil in a steamer over medium high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Add the sweet potatoes to the steamer, and cover and steam for 30 minutes to 1 hour. The cooking time depends on the size of the sweet potatoes, so after 30 minutes, open the lid and poke the most plump sweet potato with a wooden skewer or a stainless steel chopstick. If it goes through smooth, it’s well cooked. If not, cook longer."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and let cool for 5 to 10 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer them to large cutting board. Remove the skin and slice them into ⅓ inch (about 1 cm) thick. Put all the slices into a dehydrator."
+        },
+        {
+          "tag": "li",
+          "text": "Set the temperature to 145ºF and turn on the dehydrator. About 6 hours later, turn off and turn the sweet potato slices over by hand."
+        },
+        {
+          "tag": "li",
+          "text": "Turn on the dehydrator and dry for another 6 hours."
+        },
+        {
+          "tag": "li",
+          "text": "Put the dried sweet potato slices into a plastic bag and serve as a snack. They will be good for up to 1 week at room temperature or 1 month in the freezer."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

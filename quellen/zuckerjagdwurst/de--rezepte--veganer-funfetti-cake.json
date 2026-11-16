@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-funfetti-cake",
+  "recipes": [
+    {
+      "name": "Veganer Funfetti Cake",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-funfetti-cake",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-funfetti-cake#recipe-115a3d2f-bf48-5910-85c1-8326f042d3cb",
+      "authors": [
+        "Team"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kastenform (ca. 30 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT75M",
+      "ingredients": [
+        "Für den Teig:",
+        "350 g Weizenmehl (Type 405)",
+        "16 g Backpulver",
+        "200 g Zucker",
+        "32 g Vanillezucker",
+        "350 g pflanzliche Milch",
+        "120 ml neutrales Pflanzenöl",
+        "1 Zitrone (Abrieb & Saft)",
+        "1 Prise Salz",
+        "100 g vegane Funfetti-Streusel",
+        "Für die Creme:",
+        "200 g vegane Butter (Zimmertemperatur)",
+        "200 g Puderzucker",
+        "100 g veganer Frischkäse (Zimmertemperatur)",
+        "0.5 Zitrone (Saft)",
+        "1 Msp. Vanille",
+        "24 g Sahnesteif",
+        "Ansonsten:",
+        "50 g vegane Funfetti Streusel",
+        "vegane Butter"
+      ],
+      "instructions": [
+        "Den Ofen auf 180 °C (Ober-/Unterhitze) vorheizen. Eine Kastenform (circa 30 Zentimeter) mit veganer Butter einfetten.",
+        "Mehl und Backpulver in einer Schüssel vermischen. In einer zweiten Schüssel Zucker, Vanillezucker, pflanzliche Milch, Öl, Zitronenabrieb und -saft sowie Salz verrühren. Die Mehlmischung dazugeben und alles kurz zu einem glatten Teig verrühren – nicht zu lange rühren! Zum Schluss die Funfetti-Streusel unterheben. Den Teig in die vorbereitete Form füllen und auf der mittleren Schiene circa 45–50 Minuten backen. Danach 15 Minuten in der Form abkühlen lassen, dann vorsichtig herauslösen und vollständig auskühlen lassen.",
+        "Die vegane Butter mit dem Puderzucker cremig aufschlagen. Den veganen Frischkäse löffelweise unterrühren. Anschließend Zitronensaft, Vanille und Sahnesteif zugeben und gut vermengen. Die Creme sollte stabil, aber streichfähig sein. Ist sie zu weich, hilft mehr Puderzucker und Butter. Ist sie zu fest, einfach etwas Zitronensaft oder Wasser einrühren.",
+        "Die Creme in großzügigen Wellen auf dem ausgekühlten Kuchen verteilen und mit weiteren Funfetti-Streuseln dekorieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

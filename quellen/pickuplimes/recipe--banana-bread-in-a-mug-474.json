@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/banana-bread-in-a-mug-474",
+  "recipes": [
+    {
+      "name": "Banana Bread in a Mug",
+      "source_url": "https://www.pickuplimes.com/recipe/banana-bread-in-a-mug-474",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT02M",
+      "total_time": "PT07M",
+      "ingredients": [
+        "½ ripe banana",
+        "1 Tbsp unsweetened soy milk",
+        "1 Tbsp vegetable oil",
+        "1 tsp pure vanilla extract",
+        "1 pinch salt",
+        "3 Tbsp all-purpose flour",
+        "1 Tbsp ground flaxseeds",
+        "1 Tbsp granulated sugar",
+        "0.353 oz dairy-free dark chocolate",
+        "¼ tsp baking powder"
+      ],
+      "instructions": [
+        "In a microwave-safe mug, mash the banana with a fork. Then add the milk, oil, vanilla, and salt and mix.",
+        "Add the flour, flaxseeds, sugar, chocolate, and baking powder and mix until just incorporated. Be careful not to over-mix.",
+        "Microwave at high power (800 - 900 W) for 2 minutes or until a toothpick inserted into the centre comes out clean*. If the cake isn't cooked through yet, cook at intervals of 15 seconds until done. Add your desired toppings and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We use 50 - 60% cocoa chocolate for a balanced sweetness. Darker varieties (70%+) can make the result too bitter. * The cooking time may vary depending on your microwave and settings. If preferred, bake it in an oven-safe baking dish in the oven at 350°F (180°C) for 15 to 25 minutes, or until a toothpick inserted into the centre comes out clean.",
+    "Storage This dessert is best enjoyed immediately."
+  ]
+}

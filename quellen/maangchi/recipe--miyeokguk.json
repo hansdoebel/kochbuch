@@ -1,0 +1,106 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/miyeokguk",
+  "recipes": [
+    {
+      "name": "Seaweed soup with beef (Miyeokguk)",
+      "source_url": "https://www.maangchi.com/recipe/miyeokguk",
+      "recipe_id": "/recipe/miyeokguk#sso/recipe/109",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "Serves 2 to 3",
+      "prep_time": "P0DT0H15M0S",
+      "cook_time": "P0DT1H2M0S",
+      "total_time": "P0DT1H17M0S",
+      "ingredients": [
+        "½ ounce (16 grams) dried miyeok, soaked in cold water for 30 minutes",
+        "8 cups of water",
+        "1 pound beef brisket or skirt steak, cut into thin and small pieces",
+        "4 garlic cloves, minced",
+        "1 tablespoon plus 2 teaspoons fish sauce (or salt and soy sauce to your taste)",
+        "2 teaspoon toasted toasted sesame oil"
+      ],
+      "instructions": [
+        "Rinse and drain the miyeok. Squeeze out excess water. Cut a few times into bite-size pieces. If you have an electric rice cooker this is a good time to start cooking your rice, too.",
+        "Transfer the miyeok to a large and heavy pot. Add 8 cups of water. Cover and bring it to a boil for about 10 to 12 minutes.",
+        "Turn down the heat to medium. Add the beef, cover, and cook for 40 minutes.",
+        "Stir in garlic and fish sauce. Cook another 10 minutes, or until the beef is tender and the broth is savory.",
+        "Stir-in the sesame oil. Ladle into bowls and serve with a bowl of warm rice and Korean side dishes like kimchi. The soup can be refrigerated in an airtight container for up to 4 days."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 2 to 3"
+        },
+        {
+          "tag": "li",
+          "text": "½ ounce (16 grams) dried miyeok, soaked in cold water for 30 minutes"
+        },
+        {
+          "tag": "li",
+          "text": "8 cups of water"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound beef brisket or skirt steak, cut into thin and small pieces"
+        },
+        {
+          "tag": "li",
+          "text": "4 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon plus 2 teaspoons fish sauce (or salt and soy sauce to your taste)"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoon toasted toasted sesame oil"
+        },
+        {
+          "tag": "p",
+          "text": "Seaweed before soaking"
+        },
+        {
+          "tag": "p",
+          "text": "Seaweed after soaking"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Rinse and drain the miyeok. Squeeze out excess water. Cut a few times into bite-size pieces. If you have an electric rice cooker this is a good time to start cooking your rice, too."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer the miyeok to a large and heavy pot. Add 8 cups of water. Cover and bring it to a boil for about 10 to 12 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Turn down the heat to medium. Add the beef, cover, and cook for 40 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Stir in garlic and fish sauce. Cook another 10 minutes, or until the beef is tender and the broth is savory."
+        },
+        {
+          "tag": "li",
+          "text": "Stir-in the sesame oil. Ladle into bowls and serve with a bowl of warm rice and Korean side dishes like kimchi. The soup can be refrigerated in an airtight container for up to 4 days."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

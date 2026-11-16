@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/candied-coconut-cinnamon-pecans-202",
+  "recipes": [
+    {
+      "name": "Candied Coconut & Cinnamon Pecans",
+      "source_url": "https://www.pickuplimes.com/recipe/candied-coconut-cinnamon-pecans-202",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT03M",
+      "cook_time": "PT10M",
+      "total_time": "PT13M",
+      "ingredients": [
+        "2 Tbsp maple syrup",
+        "2 Tbsp unsweetened shredded coconut",
+        "1 Tbsp refined coconut oil",
+        "¼ tsp salt",
+        "⅛ tsp ground cinnamon",
+        "2 cup raw pecans"
+      ],
+      "instructions": [
+        "Line a baking tray and preheat the oven to 350°F (180°C)*.",
+        "Add all the ingredients (except for the pecans) to a medium bowl. Mix well.",
+        "Then add in the pecans and toss to coat. Transfer to the baking tray and spread them out.",
+        "Bake in the middle rack of the oven for 7 to 8 minutes, stirring once halfway. The nuts continue to cook even after being taken out of the oven, so be careful not to overcook. The nuts continue to harden as they cool. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Refined coconut oil is coconut oil that doesn't smell or taste like coconuts. If you prefer a distinct coconut taste, use unrefined coconut oil instead. * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Allow to fully cool before storing in an airtight container on the counter for up to 1 week. Store in the freezer for up to 1 month."
+  ]
+}

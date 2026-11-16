@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-brokkoli-kroketten-mit-kraeuter-dip",
+  "recipes": [
+    {
+      "name": "Vegane Brokkoli-Kroketten mit Kräuterdip",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-brokkoli-kroketten-mit-kraeuter-dip",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-brokkoli-kroketten-mit-kraeuter-dip#recipe-965f313f-2e3d-5055-b28e-26f2adba4ae3",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 15 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für die Kroketten:",
+        "400 g mehligkochende Kartoffeln",
+        "150 g Brokkoli",
+        "2 EL Mehl",
+        "1 TL vegane Butter",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "Zum Panieren:",
+        "Mehl",
+        "pflanzliche Milch",
+        "Panko",
+        "Für den Kräuterdip: 5 g Schnittlauch",
+        "5 g Petersilie",
+        "5 g Dill",
+        "150 g veganer Naturjoghurt",
+        "30 g vegane Mayonnaise",
+        "1 TL Zitronensaft",
+        "2 TL Senf",
+        "0.5 TL Zwiebelpulver",
+        "0.5 TL Knoblauchpulver",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "neutrales Pflanzenöl zum Frittieren",
+        "Petersilie zum Servieren"
+      ],
+      "instructions": [
+        "Kartoffeln in einen Topf geben, mit kaltem Wasser bedecken und salzen. Anschließend 15–20 Minuten kochen, bis sie weich sind.",
+        "Parallel dazu Brokkoli in Röschen schneiden. Wasser in einem zweiten Topf zum Kochen bringen und den Brokkoli 3–4 Minuten blanchieren. Danach abgießen, unter kaltem Wasser abschrecken und klein schneiden.",
+        "Für den Kräuterdip Schnittlauch, Petersilie und Dill fein hacken und mit veganem Joghurt, veganer Mayonnaise, Zitronensaft und Senf verrühren. Mit Zwiebel- und Knoblauchpulver sowie Salz und Pfeffer abschmecken. Den Dip bis zum Servieren in den Kühlschrank stellen.",
+        "Nun die Kartoffeln abgießen und unter kaltem Wasser abspülen und abkühlen lassen, bis man sie entspannt anfassen kann. Danach schälen und zerstampfen – sie können gern noch etwas stückig bleiben. Zerstampfte Kartoffeln, Brokkoli, Mehl und vegane Butter vermengen und kräftig mit Salz, Pfeffer und Muskat abschmecken.",
+        "Für das Panieren drei tiefe Teller jeweils mit Panko, Mehl und pflanzlicher Milch füllen. Die Kartoffel-Brokkoli-Mischung zu kleinen Kroketten formen. Diese nacheinander erst in Mehl, dann in pflanzlicher Milch und zum Schluss in Panko wenden.",
+        "Anschließend Pflanzenöl zum Frittieren in einem tiefen, kleinen Topf auf 180 °C erhitzen. Die Brokkoli-Kroketten (am besten immer nur 3–4 Stück auf einmal) goldbraun frittieren. Danach auf Küchenpapier abtropfen lassen. Die Brokkoli-Kroketten mit Kräuterdip servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

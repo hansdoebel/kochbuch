@@ -1,0 +1,36 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/poblano-con-queso-taco",
+  "recipes": [
+    {
+      "name": "Poblano con Queso Taco",
+      "source_url": "https://app.cookwell.com/recipe/poblano-con-queso-taco",
+      "recipe_id": "https://app.cookwell.com/recipe/poblano-con-queso-taco",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "Poblano peppers, 1",
+        "Mexican manchego, 1 block",
+        "Corn tortillas, 2-3",
+        "Pickled onions, for garnish",
+        "Salsa, for garnish"
+      ],
+      "instructions": [
+        "Cut the top off the poblano and remove the stem and insides. Stuff the pepper cavity with a block or slices of cheese (don’t skimp — add however much will fit into the pepper). Over a charcoal grill, gas stove, or oven broiler, roast the poblano until charred on all sides (rotate as needed) and slightly softened.",
+        "Roughly dice the roasted poblano and cheese on a cutting board. Heat a nonstick pan or griddle over medium heat then add the diced poblano and cheese. Cook until the cheese is completely melted and you get a beautiful string pull. Portion the filling onto fresh or warmed tortillas. Add salsa, pickled onions, and any other desired toppings. Acidic or spicy toppings work well to balance the unctuous cheese. Enjoy warm."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

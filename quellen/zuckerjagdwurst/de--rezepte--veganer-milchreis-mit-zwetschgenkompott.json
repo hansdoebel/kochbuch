@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-milchreis-mit-zwetschgenkompott",
+  "recipes": [
+    {
+      "name": "Veganer Milchreis mit Zwetschgenkompott",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-milchreis-mit-zwetschgenkompott",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-milchreis-mit-zwetschgenkompott#recipe-72af4fd4-030f-51ef-9caf-94f1f920ad4c",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 große Portionen / 4 kleine Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für das Zwetschgenkompott:",
+        "500 g Zwetschgen",
+        "1 EL Speisestärke",
+        "200 ml Orangensaft",
+        "200 ml Apfelsaft",
+        "1 Prise Zimt",
+        "1 Prise Kardamom",
+        "Wasser",
+        "Für den veganen Milchreis:",
+        "1 Vanilleschote",
+        "250 g Rundkornreis für Milchreis",
+        "1 l pflanzliche Milch",
+        "40 g Zucker",
+        "1 Prise Zimt",
+        "1 Prise Kardamom",
+        "zum Servieren",
+        "Nüsse (optional)"
+      ],
+      "instructions": [
+        "Zwetschgenkompott",
+        "Zwetschgen waschen, halbieren und entkernen. Die Speisestärke mit 2-3 EL Wasser in einem kleinen Gefäß verrühren.",
+        "Die Zwetschgen in einem mittelgroßen Topf mit dem Orangen- und Apfelsaft und der angerührten Stärke bei mittlerer Hitze zum Köcheln bringen.",
+        "Ca. 10-15 Minuten leicht köcheln lassen, bis die Zwetschgen schön weich sind. Zum Schluss mit Zimt und Kardamom abschmecken.",
+        "Veganer Milchreis",
+        "Die Vanilleschote halbieren und das Vanillemark mit dem Messerrücken herauskratzen.",
+        "In einem großen Topf den Reis, die pflanzliche Milch, das Vanillemark und den Zucker verrühren und kurz aufkochen lassen. Dabei ständig rühren.",
+        "Die Hitze reduzieren und ca. 20-30 Minuten köcheln lassen, bis der Reis gar ist. Dabei regelmäßig umrühren.",
+        "Sobald der Milchreis weich genug ist, mit Zimt und Kardamom abschmecken und mit dem Zwetschgenkompott servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

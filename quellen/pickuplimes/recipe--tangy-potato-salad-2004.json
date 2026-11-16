@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/tangy-potato-salad-2004",
+  "recipes": [
+    {
+      "name": "Tangy Potato Salad",
+      "source_url": "https://www.pickuplimes.com/recipe/tangy-potato-salad-2004",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT08M",
+      "cook_time": "PT12M",
+      "total_time": "PT20M",
+      "ingredients": [
+        "35.273 oz baby potatoes",
+        "1 cucumber",
+        "½ small red onion",
+        "⅓ cup dried apricot",
+        "¼ cup fresh dill",
+        "¼ cup fresh parsley",
+        "2 preserved lemon slice",
+        "3 Tbsp unsalted roasted pistachios",
+        "¼ cup extra-virgin olive oil",
+        "3 Tbsp red wine vinegar",
+        "1 Tbsp harissa sauce",
+        "½ Tbsp pomegranate molasses",
+        "½ Tbsp maple syrup",
+        "1 tsp ground turmeric",
+        "½ tsp ground cumin",
+        "½ tsp ground sumac",
+        "¼ tsp salt"
+      ],
+      "instructions": [
+        "Add the potatoes to a large pot of simmering salted water.",
+        "Bring the water to a boil, then reduce to a rapid simmer, cooking for 10 to 12 minutes until easily pierced with a fork. Then drain.",
+        "Meanwhile, mix the dressing ingredients in a large bowl.",
+        "Prepare the remaining salad ingredients (except for the pistachios) and add them to the large bowl as well.",
+        "When the potatoes are done cooking, let them cool off a little before adding them to the large bowl. Mix.",
+        "Sprinkle over the pistachios, and garnish with more fresh herbs on top if desired. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † If you can't find any preserved lemon, consider adding some lemon zest to taste. † Harissa sauce is typically a thinner, milder form of harissa paste, blended with additional oil, tomatoes, or other liquids for a pourable consistency. It's available in both mild and hot varieties. For this recipe, we used the hot version.",
+    "Storage Store in an airtight container in the fridge for up to 2 days."
+  ]
+}

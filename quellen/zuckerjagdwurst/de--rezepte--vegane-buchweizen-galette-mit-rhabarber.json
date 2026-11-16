@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-buchweizen-galette-mit-rhabarber",
+  "recipes": [
+    {
+      "name": "Vegane Buchweizen-Galette mit Rhabarber",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-buchweizen-galette-mit-rhabarber",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-buchweizen-galette-mit-rhabarber#recipe-631c295e-9ca0-528d-a463-cb22329882c0",
+      "authors": [
+        "Rahel Würsching"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4-6 kleine Galettes",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für den Rhabarber aus dem Ofen:",
+        "500 g Rhabarber",
+        "8 g (1.5 TL) Bourbon-Vanillezucker",
+        "50 g Rohrzucker",
+        "Für den Teig:",
+        "150 g Buchweizenmehl",
+        "0.5 TL Salz",
+        "1 TL Bourbon-Vanillezucker",
+        "300 ml Wasser",
+        "Für das Topping:",
+        "400 g veganer Quark",
+        "8 g (1.5 TL) Bourbon-Vanillezucker",
+        "20 g Rohrzucker",
+        "1 Bio-Zitrone (Abrieb)",
+        "Pistazien"
+      ],
+      "instructions": [
+        "Den Backofen auf 180°C Ober- und Unterhitze vorheizen. Rhabarber waschen und in kleine Stücke schneiden. Mit Bourbon-Vanillezucker und Rohrzucker vermengen und in einer Auflaufform ca. 18 Minuten auf mittlerer Schiene backen.",
+        "Buchweizenmehl, Salz, Vanillezucker und zwei Drittel des Wassers (200 ml) in eine Schüssel geben. Mit einem Rührgerät schaumig schlagen und unter Rühren das verbliebene Wasser dazugeben lassen. Den Teig ca. 10 Minuten mit dem Rührgerät schaumig schlagen.",
+        "Den Teig in einer beschichteten Pfanne bei mittlerer Hitze zu kleinen Galettes ausbacken. Dafür etwas Teig in die Pfanne geben und die Pfanne schwenken, sodass sich der Teig darin verteilt. So lange warten, bis die Unterseite knusprig und braun ist und sich leicht vom Pfannenboden löst. Die Galette aber nicht wenden, sondern nur von einer Seite backen. Aus der Pfanne nehmen und den Schritt mit dem restlichen Teig wiederholen.",
+        "Für das Topping veganen Quark, Vanillezucker und Rohrzucker mit einem Rührgerät luftig aufschlagen und mit Zitronenabrieb abschmecken.",
+        "Jeweils eine Buchweizengalette auf einen Teller legen. In die Mitte erst vegane Quark-Creme und dann Rhabarber geben. Die Galette von oben, unten, links und rechts leicht über die Füllung klappen, sodass ein kleines Rechteck entsteht, aber die Füllung in der Mitte noch zu sehen ist. Nach Belieben mit gehackten Pistazien servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,65 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-brezenknoedel-mit-pfifferlingsragout",
+  "recipes": [
+    {
+      "name": "Vegane Brezenknödel mit Pfifferlingsragout",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-brezenknoedel-mit-pfifferlingsragout",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-brezenknoedel-mit-pfifferlingsragout#recipe-db1c96e1-e983-5e42-8908-2951cd2805d1",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für die Brezenknödel:",
+        "3 (etwa 300 g) Brezeln oder Laugenstangen",
+        "10 g Petersilie",
+        "2 Schalotten",
+        "3 EL vegane Butter",
+        "30 g Sojamehl",
+        "100 ml pflanzliche Milch",
+        "Muskatnuss",
+        "Salz",
+        "Pfeffer",
+        "Für das Pfifferlingsragout:",
+        "300 g Pfifferlinge",
+        "1 Schalotte",
+        "2 EL vegane Butter",
+        "1 EL Mehl",
+        "100 ml Gemüsebrühe",
+        "150 ml vegane Kochsahne",
+        "10 g glatte Petersilie",
+        "0.5 Zitrone",
+        "Muskatnuss",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Brezenknödel",
+        "Die Brezeln (oder Laugenstangen) längs halbieren und mit einem Brotmesser in sehr kleine Stücke schneiden. Alternativ könnt ihr die Brezeln auch mit den Händen zerreißen. Die Petersilie waschen und fein hacken.",
+        "Die Schalotten schälen und fein würfeln. Vegane Butter in einer Pfanne erhitzen und die Zwiebelwürfel darin glasig braten.",
+        "Sojamehl und pflanzliche Milch in einer großen Schüssel verquirlen. Die Brezelstücke, gehackte Petersilie und angeschwitzten Schalotten dazugeben. Mit Muskat, Salz und Pfeffer würzen und mit den Händen zu einer Masse kneten. Den Teig 10 Minuten ruhen lassen.",
+        "Danach 6 Knödel aus der Masse formen und nochmals 5 Minuten ruhen lassen.",
+        "Tipp: Wenn ihr aus der Masse keine Knödel formen könnt, dann liegt das wahrscheinlich daran, dass die Brezeln nicht fein genug zerkleinert wurden. In diesem Falle einfach etwas fester und länger mit den Händen kneten, bis die Masse feiner und formbarer wird. Umso länger ihr die Masse fest knetet, desto besser lassen sich die Knödel formen.",
+        "Eine große Pfanne mit veganer Butter erhitzen und die Knödel darin 15 Minuten unter geschlossenem Deckel braten. Nach 5 Minuten etwas Wasser (50 - 100 ml) hinzugeben, damit die Knödel gedämpft werden. Die Knödel immer mal wieder drehen, sodass alle Seiten knusprig werden.",
+        "Pfifferlingsragout",
+        "Die Pfifferlinge gründlich mit einem feuchten Tuch säubern. In den Lamellen setzt sich oft Sand fest – hier also gründlich sein und mit einer kleinen Bürste nachhelfen! Die Schalotte schälen und fein würfeln.",
+        "Tipp: Besonders gut eignet sich zum Reinigen ein Küchenpinsel, mit dem ihr gut in die Lamellen kommt. Ansonsten hilft ein feuchtes Küchentuch oder eine Bürste.",
+        "Eine Pfanne mit veganer Butter auf mittlerer Stufe erhitzen und die Pfifferlinge darin für 10 Minuten braten. Nun die Schalottenwürfel hinzugeben und ebenfalls anschwitzen, bis sie glasig sind. Mit Salz, Pfeffer und einer Prise Muskat würzen.",
+        "Das Mehl über die Pilze streuen und ca. 1 Minute anschwitzen. Nun mit Gemüsebrühe aufgießen und dabei gut rühren. Im Anschluss die vegane Kochsahne dazugeben und ca. 5 Minuten köcheln lassen. Wer es soßiger mag, kann auch mehr Kochsahne dazugeben.",
+        "Die Petersilie waschen und fein hacken. Etwas Petersilie zum Servieren aufheben. Den Großteil der Petersilie und etwas Zitronensaft zum Ragout geben und mit Salz, Pfeffer und Muskat abschmecken.",
+        "Das Pfifferlingsragout und die Brezenknödel auf die Teller geben und mit der restlichen gehackten Petersilie bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

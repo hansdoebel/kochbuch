@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.recipetineats.com/frittata-recipe/",
+  "recipes": [
+    {
+      "name": "Frittata",
+      "source_url": "https://www.recipetineats.com/frittata-recipe/",
+      "recipe_id": "https://www.recipetineats.com/frittata-recipe/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "8"
+      ],
+      "prep_time": "PT5M",
+      "cook_time": "PT20M",
+      "total_time": "PT25M",
+      "ingredients": [
+        "10 eggs",
+        "2 tbsp milk ((any))",
+        "1/2 tsp salt and pepper",
+        "1 tsp oil",
+        "300 g / 10oz bacon (, chopped)",
+        "2 garlic cloves (, minced)",
+        "1 tbsp / 15 g butter",
+        "2 big handfuls baby spinach",
+        "1 1/2 cups / 150g mozzarella cheese (, shredded (or other melting cheese))",
+        "More cooked chopped bacon and spinach, (for garnish as pictured)"
+      ],
+      "instructions": [
+        "Preheat oven to 180C/350F.",
+        "Whisk eggs, milk, salt and pepper.",
+        "Heat oil in a well seasoned skillet or non stick pan (about 26cm / 11\") over medium high heat.",
+        "Add bacon and cook until almost golden.",
+        "Add garlic and cook for 30 seconds.",
+        "Add spinach and toss until just wilted - bacon should now be golden.",
+        "Turn heat down to medium. Remove about 1/3 of the bacon spinach into a bowl (for topping).",
+        "Add butter into the pan and swirl/spread across base of the pan.",
+        "Pour in about 2/3 of the egg mixture. Scatter over half the cheese, then pour over remaining egg mixture.",
+        "Scatter over reserved bacon and spinach, then cheese.",
+        "Cook for about 3 minutes until the sides are just set but not golden - check with knife.",
+        "Transfer to oven and cook for 8 minutes until the centre is just set and the cheese is melted on top.",
+        "Rest for a few minutes then slice and serve."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. General notes: * A touch of milk helps make the texture of the frittata a bit more custardy. Not the end of the world if you don’t have it. Cream also works. * Tip: If your frittata is stuck, leave for about 5 minutes and it will sweat off. But generally, it’s better to ensure your cast iron skillet is well seasoned – or use a non stick pan! * Can also cook under the broiler/grill for about 5 minutes. I prefer the oven for a slightly more even cook (broiler cooks top faster) * NO OVEN? No problem! Cook on medium low on the stove with a lid on for about 6 minutes until sides are well set. Slide onto a plate, then place the skillet upside down over the plate. Then flip the plate and skillet and return to the stove. Slide onto plate when cooked! I make frittatas when I go camping for my friends and this is how I do it on a portable stove or even over fire. 2. Storage – Leftovers keep for up to 5 days in the fridge. I simply reheat in the microwave. 3. Nutrition per serving. Nutrition Facts Frittata Amount Per Serving Calories 285 Calories from Fat 207 % Daily Value* Fat 23g 35% Saturated Fat 9g 56% Cholesterol 244mg 81% Sodium 562mg 24% Potassium 157mg 4% Carbohydrates 1g 0% Protein 15g 30% Vitamin A 505IU 10% Vitamin C 0.2mg 0% Calcium 133mg 13% Iron 1.2mg 7% * Percent Daily Values are based on a 2000 calorie diet."
+  ]
+}

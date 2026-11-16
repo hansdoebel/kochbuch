@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-gefuelltes-croissant-brot",
+  "recipes": [
+    {
+      "name": "Veganes Croissant-Monkeybread mit Schokoladenfüllung",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-gefuelltes-croissant-brot",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-gefuelltes-croissant-brot#recipe-a0140b1f-dcfd-5a76-9b87-dd214be63165",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Gugelhupf",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Fertigteig für vegane Croissants (für 12 Stück)",
+        "150 g vegane Schokoladencreme",
+        "50 g Zartbitterschokolade",
+        "5 EL brauner Zucker",
+        "2 EL Zimt",
+        "5 EL Puderzucker",
+        "vegane Butter zum Einfetten",
+        "Mehl zum Bestäuben",
+        "Wasser"
+      ],
+      "instructions": [
+        "Den Croissant-Teig nach Bedarf auf Raumtemperatur bringen, damit er weich genug zum Rollen ist. Den Teig ausrollen und in die vorgezeichneten Dreiecke schneiden. Diese nochmal halbieren, so dass ihr 24 kleine Dreiecke erhaltet.",
+        "Den Backofen auf 180°C vorheizen. Eure Gugelhupfform mit veganer Butter einfetten und mit etwas Mehl bestäuben, damit euer Teig nicht klebt. Die Form bereitstellen.",
+        "Zartbitterschokolade in 24 kleine Stücke schneiden. Braunen Zucker und Zimt in einer Schüssel verrühren. Je nach eurem Geschmack könnt ihr das Verhältnis von Zucker und Zimt auch abändern.",
+        "Jeweils ca. 1 TL der veganen Schokoladencreme und ein Stück Zartbitterschokolade mittig auf ein Croissant-Dreieck geben und anschließend den Teig vorsichtig um die Füllung legen und mit den Händen zu einer geschlossenen Kugel formen.",
+        "Das Croissant-Bällchen in der Zucker-Zimt-Mischung rollen, bis es vollständig ummantelt ist. Danach in die Gugelhupfform legen. Mit den restlichen Croissants wiederholen, bei Bedarf mehr Schokoladencreme oder Zucker-Zimt-Mix verwenden.",
+        "Ca. 15 Minuten bei 180°C backen, bis das Monkeybread durchgebacken, aber nicht zu dunkel ist. Anschließend aus dem Backofen nehmen und einige Minute abkühlen lassen, bevor ihr es stürzt.",
+        "Puderzucker mit so viel Wasser verrühren, bis es ein dickflüssiger Zuckerguss ist. Mit diesem Guss das Croissant-Monkeybread beträufeln. Es schmeckt warm als auch abgekühlt!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,91 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/injeolmi",
+  "recipes": [
+    {
+      "name": "Injeolmi rice cake",
+      "source_url": "https://www.maangchi.com/recipe/injeolmi",
+      "recipe_id": "/recipe/injeolmi#sso/recipe/16539",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Sweet rice flour (glutinous rice flour), kosher salt, sugar, roasted soybean powder (and mugwort powder for ssuk injeolmi)"
+      ],
+      "instructions": [
+        "Place 1 cup of sweet rice flour, ¼ ts kosher salt, 1 tbs sugar, and ¾ cup of water in a microwavable bowl. Mix it well to make rice cake dough.",
+        "Cover it with Saran wrap, and cook it in a microwave oven for 3 minutes.",
+        "Mix the hot dough with a wooden spoon for about 20 seconds. Put the Saran wrap back on and cook 1 more minute in the microwave.",
+        "Transfer the rice cake dough into a mortar and pound it for about 1 minute (pound 50 times). You’ll make bubbles and then hear the bubbles popping out while you pound, which mean the consistency of the rice cake is just right: chewy and elastic. *tip: Put a little cold water on your hands when you want to touch the dough so that it won’t stick to your fingers and will keep you from burning yourself.",
+        "Spread ½ cup roasted soybean powder on a cutting board and place your pounded rice cake in the powder. Roll it around a bit to cover it with a light dusting of powder.",
+        "Cut into bite size pieces.",
+        "Coat each piece of the rice cake with the roasted soy bean powder and transfer to a serving plate."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Sweet rice flour (glutinous rice flour), kosher salt, sugar, roasted soybean powder (and mugwort powder for ssuk injeolmi)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Place 1 cup of sweet rice flour, ¼ ts kosher salt, 1 tbs sugar, and ¾ cup of water in a microwavable bowl. Mix it well to make rice cake dough."
+        },
+        {
+          "tag": "li",
+          "text": "Cover it with Saran wrap, and cook it in a microwave oven for 3 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Mix the hot dough with a wooden spoon for about 20 seconds. Put the Saran wrap back on and cook 1 more minute in the microwave."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer the rice cake dough into a mortar and pound it for about 1 minute (pound 50 times). You’ll make bubbles and then hear the bubbles popping out while you pound, which mean the consistency of the rice cake is just right: chewy and elastic. *tip: Put a little cold water on your hands when you want to touch the dough so that it won’t stick to your fingers and will keep you from burning yourself."
+        },
+        {
+          "tag": "li",
+          "text": "Spread ½ cup roasted soybean powder on a cutting board and place your pounded rice cake in the powder. Roll it around a bit to cover it with a light dusting of powder."
+        },
+        {
+          "tag": "li",
+          "text": "Cut into bite size pieces."
+        },
+        {
+          "tag": "li",
+          "text": "Coat each piece of the rice cake with the roasted soy bean powder and transfer to a serving plate."
+        },
+        {
+          "tag": "p",
+          "text": "Sprinkle with sugar when you serve."
+        },
+        {
+          "tag": "h2",
+          "text": "How to make ssuk injeolmi"
+        },
+        {
+          "tag": "p",
+          "text": "Same directions as above, and add 1 tbs ssukgaru (mugwort powder) and 1 tbs water to the dough water you mix it."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schokoladenkuchen-mit-frosting",
+  "recipes": [
+    {
+      "name": "Veganer Schokoladenkuchen mit Frosting",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schokoladenkuchen-mit-frosting",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schokoladenkuchen-mit-frosting#recipe-e5dddd64-a48c-505e-b457-d6645ee804a8",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (∅ 24 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "Für den Teig:",
+        "400 g Weizenmehl (Type 405)",
+        "10 g Speisestärke",
+        "200 g Zucker",
+        "50 g Backkakao",
+        "15 g (3 TL) Backpulver",
+        "0.5 TL Salz",
+        "270 ml pflanzliche Milch",
+        "40 g Apfelmus",
+        "250 ml geschmacksneutrales Pflanzenöl",
+        "100 g vegane Edelbitter Schokolade (z.B. von Naturata)",
+        "Für das Frosting:",
+        "100 g vegane Zartbitterschokolade (z.B. von Naturata)",
+        "300 g veganer Frischkäse (Zimmertemperatur)",
+        "2-3 EL Agavendicksaft",
+        "1 Prise Salz",
+        "Streusel oder gehackte Nüsse zum Dekorieren (optional)"
+      ],
+      "instructions": [
+        "Den Ofen auf 180 °C (Umluft) vorheizen. Eine Springform (∅ 24 cm) mit Backpapier auslegen und veganer Butter einfetten. Die Edelbitter Schokolade fein hacken.",
+        "In einer großen Schüssel Weizenmehl, Speisestärke, Zucker, Backkakao, Backpulver und Salz vermischen. Pflanzliche Milch, Apfelmus, geschmacksneutrales Pflanzenöl ebenfalls hinzugeben, glatt rühren und die gehackte Schokolade unterheben. Den Teig in die vorbereitete Springform geben.",
+        "Den Kuchen bei 180 °C (Umluft) ca. 60 Minuten backen. Mit einem Stäbchen testen, ob der Kuchen durch ist – dafür einen Holzspieß schräg in den Kuchen stecken und herausziehen. Wenn keine Teigreste daran kleben bleiben, ist der Kuchen fertig. Den Kuchen aus dem Ofen nehmen und komplett abkühlen lassen.",
+        "Tipp: Wenn ihr besonders genau arbeiten wollt, dann entfernt ihr nach dem Backen und Abkühlen den Deckel des Kuchens mit einem Kuchenmesser oder einem Tortenbodenteiler. Das ist kein Muss, sieht am Ende nur etwas hübscher aus.",
+        "In der Zwischenzeit das Frosting vorbereiten. Dafür vegane Zartbitterschokolade schmelzen und mit zimmerwarmem veganen Frischkäse verrühren. Mit Agavendicksaft und Salz abschmecken.",
+        "Das Frosting auf dem abgekühlten Kuchen verteilen, ggf. mit Streuseln oder gehackten Nüssen dekorieren und den Kuchen bis zum Servieren kaltstellen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

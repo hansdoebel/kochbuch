@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/raspberry-lemonade-smoothie-bowl-493",
+  "recipes": [
+    {
+      "name": "Raspberry Lemonade Smoothie Bowl",
+      "source_url": "https://www.pickuplimes.com/recipe/raspberry-lemonade-smoothie-bowl-493",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "1½ cup frozen raspberries",
+        "1 frozen banana",
+        "1 lemon",
+        "½ cup unsweetened soy yogurt",
+        "½ cup unsalted roasted cashews",
+        "¼ cup unsweetened soy milk",
+        "1 Tbsp agave syrup"
+      ],
+      "instructions": [
+        "Add all ingredients to a high-speed blender and blend until smooth.",
+        "Taste test. The raspberries are tart and the lemon is sour. If you feel it's needed, add more syrup to cut through the tartness.",
+        "Divide into bowls and add desired toppings. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based yogurt that is fortified with calcium .",
+    "Storage Best to enjoy this smoothie immediately."
+  ]
+}

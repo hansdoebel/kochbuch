@@ -1,0 +1,112 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/ojingeo-guk",
+  "recipes": [
+    {
+      "name": "Squid soup (Ojingeo-guk)",
+      "source_url": "https://www.maangchi.com/recipe/ojingeo-guk",
+      "recipe_id": "/recipe/ojingeo-guk#sso/recipe/21104",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "9 ounces (250 grams) of squid cleaned and cut into 3 inch x ½ inch strips",
+        "9 ounces (250 grams) of radish sliced thinly into bite–sized pieces",
+        "half a medium onion, sliced (½ cup worth)",
+        "3 stalks of green onions, cut into 2 inch long pieces",
+        "½ cup worth of leeks, cut into 2 inch long pieces (you can replace this with 2 green onions)",
+        "2 cloves of minced garlic",
+        "2 tbs Korean hot pepper flakes (gochugaru)",
+        "2 tbs soy sauce",
+        "1 tbs fish sauce"
+      ],
+      "instructions": [
+        "Place all ingredients into a pot and mix well with a spoon until well incorporated.",
+        "Add 3 cups of water and bring to a boil over high heat for 15 minutes.",
+        "Turn down the heat over medium heat and cook another 25 minutes until the radish is cooked. The radish will look a little translucent when it’s cooked well.",
+        "Serve hot with rice and more side dishes."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "(for 2 servings)"
+        },
+        {
+          "tag": "li",
+          "text": "9 ounces (250 grams) of squid cleaned and cut into 3 inch x ½ inch strips"
+        },
+        {
+          "tag": "li",
+          "text": "9 ounces (250 grams) of radish sliced thinly into bite–sized pieces"
+        },
+        {
+          "tag": "li",
+          "text": "half a medium onion, sliced (½ cup worth)"
+        },
+        {
+          "tag": "li",
+          "text": "3 stalks of green onions, cut into 2 inch long pieces"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup worth of leeks, cut into 2 inch long pieces (you can replace this with 2 green onions)"
+        },
+        {
+          "tag": "li",
+          "text": "2 cloves of minced garlic"
+        },
+        {
+          "tag": "li",
+          "text": "2 tbs Korean hot pepper flakes (gochugaru)"
+        },
+        {
+          "tag": "li",
+          "text": "2 tbs soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 tbs fish sauce"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "p",
+          "text": "(cooking time: 40 minutes)"
+        },
+        {
+          "tag": "li",
+          "text": "Place all ingredients into a pot and mix well with a spoon until well incorporated."
+        },
+        {
+          "tag": "li",
+          "text": "Add 3 cups of water and bring to a boil over high heat for 15 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Turn down the heat over medium heat and cook another 25 minutes until the radish is cooked. The radish will look a little translucent when it’s cooked well."
+        },
+        {
+          "tag": "li",
+          "text": "Serve hot with rice and more side dishes."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,38 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kokosnuss-bacon",
+  "recipes": [
+    {
+      "name": "Veganer Kokosnuss Bacon",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kokosnuss-bacon",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kokosnuss-bacon#recipe-e8c2e936-b17e-5507-a892-037fc62bc7ce",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "225 g Kokosnuss Bacon",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "225 g Kokosnuss Chips",
+        "2 EL Sojasauce",
+        "2 EL Liquid Smoke",
+        "2 EL Agavendicksaft",
+        "2 TL Smoked Paprika (optional)"
+      ],
+      "instructions": [
+        "Sojasauce, Liquid Sauce, Agavendicksaft & Paprika Pulver in einer Schüssel verrühren.",
+        "Die Flüssigkeit mit den Kokosnuss Chips vermengen.",
+        "Die Kokosnuss Chips für 15 Minuten bei 160°C backen.",
+        "Alle 5 Minuten nach dem Kokosnuss Bacon schauen und die Chips wenden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

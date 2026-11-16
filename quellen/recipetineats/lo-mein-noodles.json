@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.recipetineats.com/lo-mein-noodles/",
+  "recipes": [
+    {
+      "name": "Lo Mein Noodles",
+      "source_url": "https://www.recipetineats.com/lo-mein-noodles/",
+      "recipe_id": "https://www.recipetineats.com/lo-mein-noodles/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "3"
+      ],
+      "prep_time": "PT8M",
+      "cook_time": "PT7M",
+      "total_time": null,
+      "ingredients": [
+        "1.5 tbsp vegetable or peanut oil",
+        "2 garlic cloves (, finely minced (Note 1))",
+        "1/2 onion (, finely sliced)",
+        "300g / 10oz chicken or other protein (, sliced 0.5cm / 1/5\" thick (Note 2))",
+        "2 medium carrots (, peeled and cut into 4 x 0.75cm / 1.75 x 1/3\" batons)",
+        "1 large red capsicum / bell pepper (, sliced (or 2 small))",
+        "6 green onions (, cut into 5 cm/2” lengths)",
+        "500g / 1lb Lo Mein, Hokkien or other medium thickness egg noodles, fresh, (, prepared per packet (Note 3 for dried))",
+        "1/4 cup (65ml) water",
+        "4 tsp cornflour / cornstarch",
+        "2 tbsp dark soy sauce ((Note 4))",
+        "2 tbsp soy sauce or light soy sauce ( (Note 4))",
+        "1 tbsp Chinese cooking wine or Mirin ((Note 5 subs))",
+        "1 tsp white sugar ((omit if using Mirin))",
+        "1/2 tsp sesame oil (, toasted, optional (Note 6))",
+        "1/4 tsp white pepper ((sub black))",
+        "Green onion (, finely sliced)"
+      ],
+      "instructions": [
+        "Sauce: Mix cornflour and dark soy until lump free, then add remaining Sauce ingredients.",
+        "Season Chicken: Transfer 2 tsp Sauce into bowl with chicken. Toss to coat.",
+        "Heat oil in a wok or large heavy based skillet over high heat until smoking.",
+        "Add onion and garlic, stir 30 seconds.",
+        "Add chicken, stir until white on the outside, still raw inside - 1 minute.",
+        "Add carrot and capsicum/bell peppers, cook 2 minutes or until chicken is cooked.",
+        "Add noodles, Sauce and water. Use 2 wooden spoons and toss for 30 seconds.",
+        "Add green onions, toss for another 1 minute until all the noodles are slick with sauce.",
+        "Serve immediately, garnished with extra green onions if using."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. Garlic – don’t use jar paste or a garlic press, makes garlic watery = spits & burns when it hits the oil. Finely chop it – even sliced is enough. 2. Proteins – how to cook & cut: Beef, pork, turkey – slice and cook per recipe Ground / mince meat – cook garlic and onion per recipe, then cook ground / mince. Once cooked, add 1 tbsp sauce, stir, then proceed with next steps in recipe. Hard tofu – cut into 1 x 4cm / 1/3 x 1.5″ batons, cook per recipe. Prawns/shrimp – use small peeled, cook per recipe. More veggies – use another 2 1/2 cups chopped veggies. 3. Lo Mein noodles are fresh yellow noodles (usually labelled “egg noodles”) that are about 3mm / 1/8″ thick, sold in the fridge section of grocery stores. Dried noodles – use 200g/8oz uncooked ramen noodles or other dried noodles. They will increase in volume and weight once cooked per packet. Note – Lo Mein is still delicious made with ANY type of noodles – thick, thin, fresh, dried, egg or rice – or ramen noodles, or even spaghetti or other long pasta (trust me, no one will know!). 4. Soy Sauces: Dark soy sauce is labelled as such, provides colour and gives more flavour to the sauce than other soy sauces. Sold at Aussie grocery stores nowadays. Fallback: sub with more ordinary or light soy (below) Soy Sauce – ordinary all purpose soy sauce, they just say “soy sauce” on the label (eg. Kikkoman). Can also use Light soy sauce – bottle is labelled as such. 5. Chinese cooking wine (“Shaoxing wine”) is an essential ingredient for making truly “restaurant standard” Asian noodles. Substitute with Mirin, cooking sake or dry sherry. Non alcoholic sub – sub both the cooking wine AND water with low sodium chicken broth/stock + reduce light soy sauce to 1.5 tbsp. 6. Sesame oil – toasted sesame oil is brown and has more flavour than untoasted (which is yellow). Default sesame oil sold in Australia is toasted, untoasted is harder to find. 7. Servings – makes 3 servings."
+  ]
+}

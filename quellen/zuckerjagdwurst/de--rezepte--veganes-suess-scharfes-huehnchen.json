@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-suess-scharfes-huehnchen",
+  "recipes": [
+    {
+      "name": "Vegan Fried Sweet & Spicy Chicken",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-suess-scharfes-huehnchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-suess-scharfes-huehnchen#recipe-a24ad894-e565-52ef-91bd-5b2d2ff69970",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "2 Dosen Mock Chicken (aus dem Asialaden)",
+        "Salz, Pfeffer",
+        "1 Knoblauchzehe",
+        "1 Daumengroßes Stück Ingwer",
+        "1 EL Reiswein",
+        "Tempura-Batter-Mix",
+        "Wasser",
+        "1 Liter Rapsöl zum Frittieren",
+        "AUSSERDEM",
+        "1 Tasse Reis",
+        "Erdnüsse",
+        "Eisbergsalat",
+        "Möhre",
+        "Gurke",
+        "FÜR DIE SAUCE",
+        "3 EL Ketchup",
+        "2 EL Gochujang",
+        "1 EL Sojasauce",
+        "3 EL Reiswein",
+        "2 EL Apfelessig",
+        "4 EL Agavendicksaft",
+        "2 TL Sesamöl",
+        "1 TL Knoblauchpulver",
+        "1 TL Ingwerpulver",
+        "Salz & Pfeffer"
+      ],
+      "instructions": [
+        "Die veganen Hühnchenstücken aus dem Asialaden könnt ihr direkt verwenden. Salzen, Pfeffern, Reiswein dazu und kurz stehen lassen. Währenddessen könnt ihr die Tempuramix anrühren. Der Teig sollte dickflüssig sein. Die veganen Hühnchen-Stücken darin baden und danach noch mehr vom Tempura-Mix drübergeben, damit das ganze wirklich eher mehlig weiß am Ende ist.",
+        "Rapsöl fürs Frittieren erhitzen, danach die veganen Hühnchen-Stücken in mehreren Batches zum ersten Mal frittieren. Die Stücken sollten nicht aneinander kleben. Nach ein paar Minute rausnehmen und das Fett auf einem Küchentuch abtropfen lassen. Wenn alle Stücken einmal frittiert sind, kommen sie nochmal in das heiße Frittierfett. Frittierrunde 2! Auch dieses Mal das Fett abtupfen.",
+        "Alle Zutaten für die Sauce miteinander verrühren.",
+        "In einer großen Pfanne etwas Öl erhitzen. Ingwer und Knoblauch schälen und in kleine Stücke schneiden oder pressen. Ingwer und Knoblauch in der Pfanne leicht anbraten, danach die frittierten, veganen Hühnchenstücken dazugeben. Nach 2-3 Minuten könnt ihr die Sauce darübergießen. Alles zusammen 5 Minuten weitbraten lassen, die Sauce sollte leicht kleben, aber nicht komplett an den Stücken hängen. Eine Art von Sauce sollte also vorhanden sein, sie ist aber nicht flüssig.",
+        "Eine Tasse Reis mit 2 Tassen Wasser in einem Topf vermischen. 1 EL Gemüsebrühe und etwas Salz dazugeben und garen lassen, bis die komplette Flüssigkeit im Reis ist. Dann sollte er die perfeke Konsitenz haben. Wem er noch immer zu hart ist, gibt einfach noch etwas Wasser dazu und lässt das ganze nochmal garen, bis erneut die komplette Flüssigkeit aufgesogen wurde.",
+        "Schneidet Eisbergsalat, Gurke und Möhre in Streifen. Zusammen mit den Erdnüssen wird der kleine Salat eure frische Beilage.",
+        "Danach zusammen servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

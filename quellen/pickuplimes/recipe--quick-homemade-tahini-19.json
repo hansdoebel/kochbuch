@@ -1,0 +1,36 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/quick-homemade-tahini-19",
+  "recipes": [
+    {
+      "name": "Quick Homemade Tahini",
+      "source_url": "https://www.pickuplimes.com/recipe/quick-homemade-tahini-19",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "32 servings",
+      "prep_time": "PT07M",
+      "cook_time": "PT05M",
+      "total_time": "PT12M",
+      "ingredients": [
+        "3 cup raw sesame seeds"
+      ],
+      "instructions": [
+        "Toast the sesame seeds in a large pan over medium heat until lightly golden*. Stir constantly. The seeds continue to 'cook' even when taken off the heat, so be careful not to over toast them.",
+        "Transfer the cooled toasted seeds to a food processor (ideally 600W or more) and blend for 5 to 7 minutes**.",
+        "The key to smooth and runny tahini is to give it time, so keep blending. Transfer to a container and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * Usually tahini is made from raw, hulled sesame seeds. We choose to lightly toast the sesame seeds to bring out its flavour more. ** Using a blender for this is not advised. If your food processor isn't very powerful, you may need to blend it for an extra 5 minutes or add a bit of oil to help the process along. If the mixture heats up, let it rest to cool so as to not damage your food processor.",
+    "Storage Store in a mason jar in the fridge for up to 3 months."
+  ]
+}

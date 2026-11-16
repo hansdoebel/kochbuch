@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/raspberry-chocolate-pudding-251",
+  "recipes": [
+    {
+      "name": "Raspberry Chocolate Pudding",
+      "source_url": "https://www.pickuplimes.com/recipe/raspberry-chocolate-pudding-251",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "1 cup frozen raspberries",
+        "¼ cup water",
+        "2 avocado",
+        "6 Tbsp Dutch-process cocoa powder",
+        "¼ cup agave syrup",
+        "1½ Tbsp fresh lemon juice",
+        "2 tsp pure vanilla extract"
+      ],
+      "instructions": [
+        "Add the raspberries and water to a food processor and blend until a sorbet consistency is reached.",
+        "Add the remaining ingredients and blend until smooth.",
+        "Taste-test. If it's tart, add a bit more syrup. Serve immediately and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We highly recommend using the frozen raspberries, and not substituting them for another frozen berry. The tartness of the raspberries really helps to cut through the slight earthy and bitterness from the avocadoes.",
+    "Storage Best to enjoy this recipe immediately. If any remains, try freezing and enjoy later as ice cream."
+  ]
+}

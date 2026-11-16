@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/cremiger-veganer-kartoffel-brokkoli-auflauf",
+  "recipes": [
+    {
+      "name": "Cremiger veganer Kartoffel-Brokkoli-Auflauf",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/cremiger-veganer-kartoffel-brokkoli-auflauf",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/cremiger-veganer-kartoffel-brokkoli-auflauf#recipe-5c9a6d92-68b4-5df3-aca7-86a410b7696e",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "Für den Auflauf:",
+        "ca. 750 g festkochende Kartoffeln",
+        "ca. 500 g Süßkartoffel",
+        "ca. 500 g Brokkoli",
+        "vegane Butter zum Einfetten",
+        "Für die Soße:",
+        "1 Zwiebel",
+        "2 EL vegane Butter",
+        "0.5 TL getrockneter Rosmarin",
+        "0.5 TL getrockneter Thymian",
+        "2 EL Weizenmehl",
+        "100 ml Gemüsebrühe",
+        "500 ml vegane Sahne",
+        "2 EL Hefeflocken",
+        "Muskat",
+        "Salz",
+        "Pfeffer",
+        "Zum Überbacken:",
+        "150 g veganer Streukäse",
+        "Pflanzenöl",
+        "Wasser"
+      ],
+      "instructions": [
+        "Kartoffeln, Süßkartoffel und Zwiebel schälen. Kartoffeln in Scheiben, Süßkartoffel in Würfel und Zwiebel in feine Würfel schneiden. Den Brokkoli waschen und die Röschen vom Strunk entfernen. Den Strunk schälen und in Würfel schneiden.",
+        "Für die Soße vegane Butter in einem Topf erhitzen und die Zwiebelwürfel zusammen mit dem getrockneten Thymian und Rosmarin darin 2–3 Minuten anschwitzen. Das Mehl darüberstreuen und 1–2 Minuten erhitzen und verrühren. Mit veganer Sahne und Gemüsebrühe aufgießen und mit Hefeflocken, Muskatnuss, Salz und Pfeffer abschmecken.",
+        "Den Ofen auf 180 °C (Ober-/Unterhitze) vorheizen. Eine Auflaufform mit veganer Butter einfetten und die Kartoffelscheiben, Brokkoli und Süßkartoffelwürfel darin vermengen und verteilen. Das Gemüse in der Auflaufform mit der veganen Sahnesoße übergießen.",
+        "In einer separaten Schüssel den veganen Streukäse mit Wasser und Öl vermengen. So schmilzt der Käse besser im Ofen. Den Streukäse gleichmäßig auf dem Gemüse verteilen.",
+        "Den Kartoffel-Brokkoli-Auflauf bei 180 °C (Ober-/Unterhitze) auf mittlerer Schiene circa 45 Minuten backen, bis das Gemüse gar, aber noch leicht bissfest und die vegane Käseschicht goldbraun ist."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

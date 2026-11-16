@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/chipotle-spiced-black-bean-oatmeal-778",
+  "recipes": [
+    {
+      "name": "Chipotle Spiced Black Bean Oatmeal",
+      "source_url": "https://www.pickuplimes.com/recipe/chipotle-spiced-black-bean-oatmeal-778",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT10M",
+      "total_time": "PT15M",
+      "ingredients": [
+        "1 cup rolled oats",
+        "1½ cup unsweetened almond milk",
+        "½ cup water",
+        "1 vegetable bouillon cube",
+        "2 tsp chipotle peppers in adobo sauce",
+        "1 tsp Mexican seasoning",
+        "¾ cup canned corn",
+        "¾ cup cooked black beans",
+        "¾ cup salsa",
+        "½ avocado"
+      ],
+      "instructions": [
+        "In a saucepan, combine the oats, milk, water, bouillon, chipotle, and Mexican seasoning*. Bring to a gentle boil. Cook for 10 minutes, stirring often.",
+        "Meanwhile, to a medium pan over high heat, add the corn and cook for 3 to 4 minutes, stirring occasionally, until lightly browned. Set aside.",
+        "When the oatmeal is cooked to your liking, add the black beans. When heated through, remove from the heat.",
+        "Divide the oatmeal between your bowls. Top with a generous portion of salsa, corn, and slices of avocado. Drizzle with fresh lime juice and desired garnishes. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * The chipotle sauce is spicy, so add less chipotle if you'd prefer less heat.",
+    "Storage Store the oatmeal in an airtight container in the fridge for up to 3 days. We recommend storing the salsa and avocado separately from the oatmeal and topping it just before eating."
+  ]
+}

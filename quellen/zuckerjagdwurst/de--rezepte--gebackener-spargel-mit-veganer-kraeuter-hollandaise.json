@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gebackener-spargel-mit-veganer-kraeuter-hollandaise",
+  "recipes": [
+    {
+      "name": "Gebackener Spargel mit veganer Kräuter-Hollandaise",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gebackener-spargel-mit-veganer-kraeuter-hollandaise",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gebackener-spargel-mit-veganer-kraeuter-hollandaise#recipe-4efba3bd-9880-5759-881a-f762cc110f32",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für den gebackenen Spargel:",
+        "400 g weißer Spargel",
+        "400 g grüner Spargel",
+        "Olivenöl",
+        "Salz",
+        "Pfeffer",
+        "Für die vegane Kräuter-Hollandaise:",
+        "3 g frische Petersilie",
+        "3 g frischer Schnittlauch",
+        "3 g frischer Dill",
+        "4 EL vegane Butter",
+        "2 EL Mehl",
+        "100 ml Gemüsebrühe",
+        "100 ml pflanzliche Sahne",
+        "1 TL Senf",
+        "1 EL veganen Weißwein",
+        "1 TL Zitronensaft",
+        "Salz",
+        "weißer Pfeffer",
+        "Zum Servieren:",
+        "1 Zitrone"
+      ],
+      "instructions": [
+        "Gebackener Spargel",
+        "Den Ofen auf 220°C Umluft vorheizen und ein Backblech mit Backpapier belegen.",
+        "Den weißen Spargel schälen und die holzigen Enden entfernen. Den grünen Spargel waschen, nicht schälen, aber eventuelle holzige Enden ebenfalls entfernen.",
+        "Spargel auf dem Backpapier platzieren, mit Olivenöl einstreichen und gut salzen und pfeffern. Bei 220°C Umluft ca. 20 Minuten auf mittlerer Schiene backen.",
+        "Vegane Kräuter-Hollandaise",
+        "Frische Petersilie, Schnittlauch und Dill waschen. Härtere Stiele abschneiden und die Kräuter fein hacken.",
+        "2 EL vegane Butter in einem Topf schmelzen lassen und unter ständigem Rühren das Mehl hinzugeben, bis sich alles gut vermengt hat. Gemüsebrühe aufgießen, immer weiter rühren und die Soße einmal aufkochen lassen.",
+        "Danach die Hitze reduzieren und pflanzliche Sahne, Senf, veganen Weißwein, die restlichen 2 EL vegane Butter und Zitronensaft dazugeben. Die vegane Kräuter-Hollandaise mit Salz und weißem Pfeffer abschmecken und zum Schluss die frischen Kräuter unterrühren.",
+        "Die Kräuter-Hollandaise falls gewünscht weitere ca. 5-10 Minuten einköcheln lassen, bis die gewünschte Konsistenz erreicht ist. Nochmals abschmecken und mit dem gebackenen Spargel und Zitronenspalten zum Beträufeln servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

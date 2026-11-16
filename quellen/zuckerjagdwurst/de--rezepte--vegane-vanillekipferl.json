@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-vanillekipferl",
+  "recipes": [
+    {
+      "name": "Vegane Vanillekipferl",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-vanillekipferl",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-vanillekipferl#recipe-d853cfb7-f267-5fac-b8c9-db05043e7907",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 40 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "280 g Mehl",
+        "70 g Zucker",
+        "100 g gemahlene Mandeln",
+        "210 g kalte vegane Butter",
+        "1 Vanilleschote",
+        "2 EL Puderzucker",
+        "2 EL Vanillezucker",
+        "Für die Kakaovariante:",
+        "2 EL Kakao"
+      ],
+      "instructions": [
+        "Mehl, Zucker, das Mark einer Vanilleschote und gemahlene Mandeln in einer Schüssel vermengen. Wenn ihr Kakaokipferl machen wollt, kommt noch Kakaopulver hinzu.",
+        "Kalte vegane Butter in kleinen Würfeln dazugeben und zu einem geschmeidigen Teig verkneten. Sollte er zu trocken werden, könnt ihr noch etwas kaltes Wasser dazugeben.",
+        "Den Teig zu einer Rolle mit etwa 3-4 cm Durchmesser formen, in Frischhaltefolie wickeln und ca. 1 Stunde im Kühlschrank ruhen lassen.",
+        "Backofen auf 180°C vorheizen. Die abgekühlte Teigrolle in ca. 1 cm dicke Scheiben schneiden. Jede Scheibe zu Halbmonden formen. Auf ein mit Backpapier ausgelegtes Backblech geben und ca. 12 - 15 Minuten backen.",
+        "In der Zwischenzeit Vanillezucker und Puderzucker in in einer kleinen Schüssel verrühren. Die Vanillekipferl aus dem Backofen nehmen und nur 2-3 Minuten abkühlen lassen. Danach in der Vanille-Zucker-Mischung wälzen, während sie noch warm sind. Wenn ihr Kakaokipferl gebacken habt, könnt ihr sie mit Kakaopulver bestäuben."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

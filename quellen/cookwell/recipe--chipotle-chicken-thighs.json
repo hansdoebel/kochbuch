@@ -1,0 +1,38 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/chipotle-chicken-thighs",
+  "recipes": [
+    {
+      "name": "Chipotle Chicken Thighs",
+      "source_url": "https://app.cookwell.com/recipe/chipotle-chicken-thighs",
+      "recipe_id": "https://app.cookwell.com/recipe/chipotle-chicken-thighs",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Chicken Thighs, 1400 g",
+        "Salt, 14 g",
+        "Neutral oil, a spritz",
+        "Chipotles in Adobo, 60 g",
+        "Cumin seeds, a spoonful",
+        "Garlic Powder, a spoonful"
+      ],
+      "instructions": [
+        "Chop the chicken thighs into even, bite-sized pieces. Season with 1% salt by weight, then add the chipotles in adobo (mince into a paste if chunky), cumin, and garlic powder. Mix to evenly distribute the seasoning.",
+        "Preheat a pan over medium-high heat. Coat the cooking surface in a thin layer of neutral cooking oil, then add all the seasoned chicken to sear and begin cooking through. Occasionally stir & scrape the chicken off the bottom of the pan. Expect some water content to release from the chicken and mix with the seasoning to form a sauce. If it’s too watery or loose, increase the heat to reduce excess moisture. If the pan is too dry, add a splash of water to deglaze any stuck bits and prevent burning. When the chicken is cooked and the seasoning clings to each piece, remove it from the heat.",
+        "Enjoy right away, or portion and store the chicken in an airtight container in the fridge until ready to use."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

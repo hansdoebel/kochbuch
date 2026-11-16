@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/blueberry-almond-oatmeal-729",
+  "recipes": [
+    {
+      "name": "Blueberry Almond Oatmeal",
+      "source_url": "https://www.pickuplimes.com/recipe/blueberry-almond-oatmeal-729",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT10M",
+      "total_time": "PT15M",
+      "ingredients": [
+        "1 cup rolled oats",
+        "2 cup unsweetened almond milk",
+        "1 banana",
+        "½ cup frozen blueberries",
+        "2 Tbsp ground flaxseeds",
+        "2 Tbsp maple syrup",
+        "½ tsp pure vanilla extract",
+        "⅛ tsp almond extract",
+        "1 banana",
+        "½ cup fresh blueberries",
+        "⅔ cup unsweetened coconut yogurt",
+        "3 Tbsp almond butter"
+      ],
+      "instructions": [
+        "In a saucepan, combine the oats, milk, banana, blueberries, and flaxseeds. Bring to a gentle boil, then reduce to a simmer for 7 minutes, stirring on occasion to prevent burning.",
+        "Take the pan off the heat and stir in the maple syrup, vanilla, and almond extract.",
+        "Divide the oatmeal between the bowls. Top with banana slices, fresh blueberries, yogurt, and almond butter when ready to serve. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium . † Nutrition tip: aim to use plant-based yogurt that is fortified with calcium .",
+    "Storage Store the oatmeal, without toppings, in an airtight container in the fridge for up to 2 days."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-mett",
+  "recipes": [
+    {
+      "name": "Veganes Mett",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-mett",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-mett#recipe-6a7a0237-1b63-5682-b804-ccac24acadf2",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 belegte Brötchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "100 g Reiswaffeln",
+        "250 - 300 ml Wasser",
+        "1/2 - 1 helle Zwiebel",
+        "50 g Tomatenmark",
+        "Salz&Pfeffer",
+        "2 Stängel Petersilie",
+        "4 helle Brötchen"
+      ],
+      "instructions": [
+        "Die Reiswaffeln in einer Schale mit den Finger zerkleinern.",
+        "Das Wasser hinzugeben und nach und nach mit einer Gabel unterheben, sodass sich das Wasser gut verteilen kann. Einweichen lassen.",
+        "Die Enden der Zwiebeln abschneiden, die Schale entfernen und die Zwiebel würfeln.",
+        "Zwiebelwürfel und Tomatenmark zu der eingeweichten Reiswaffel geben und mit einer Gabel unterheben und gut verteilen.",
+        "Gut salzen und pfeffern. Anschließend am besten ein paar Stunden im Kühlschrank durchziehen lassen.",
+        "Mit etwas Petersilie und mehr Zwiebel auf einem hellem Brötchen servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

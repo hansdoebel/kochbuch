@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/ofengemuese-mit-dukkah-und-knoblauchdip",
+  "recipes": [
+    {
+      "name": "Ofengemüse mit Dukkah und Toum, dem knoblauchigsten Dip der Welt",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/ofengemuese-mit-dukkah-und-knoblauchdip",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/ofengemuese-mit-dukkah-und-knoblauchdip#recipe-f2b9f209-b2da-5764-9044-d9b225b6c65d",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 - 3 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für das Ofengemüse:",
+        "3 Pastinaken",
+        "3 Kartoffeln",
+        "3 Möhren",
+        "1 kleine Paprikaschote",
+        "2 rote Zwiebeln",
+        "3 EL Dukkah",
+        "Olivenöl",
+        "Salz",
+        "Pfeffer",
+        "Für Toum:",
+        "6 Knoblauchzehen",
+        "2 TL Meersalz",
+        "ca. 200 ml Pflanzenöl",
+        "4 TL Zitronensaft",
+        "4 TL Eiswasser",
+        "Zum Servieren:",
+        "Dukkah",
+        "Brot"
+      ],
+      "instructions": [
+        "Backofen auf 200°C (Umluft) vorheizen. Zuerst das Gemüse vorbereiten. Nach Bedarf Pastinaken, Kartoffeln und Möhren schälen, die roten Zwiebeln schälen und das Gemüse klein schneiden: Möhren und Pastinaken halbieren, Kartoffeln, Paprika und Zwiebeln in mundgerechte Stücke schneiden.",
+        "Das geschnittene Gemüse auf einem oder zwei großen Backblechen verteilen – sie sollten nicht zu nah beieinander liegen, sondern lieber etwas Platz haben. Mit einem guten Schuss Olivenöl beträufeln und mit Dukkah, Salz und Pfeffer würzen. Die Gewürze gründlich einreiben.",
+        "Das Gemüse bei 200°C ca. 20-30 Minuten im Ofen garen, bis es außen gebräunt ist, aber noch einen leichten Biss hat.",
+        "In der Zwischenzeit den Dip vorbereiten. Die Knoblauchzehen schälen und mit einem Mörser oder in einem Zerkleinerer zu einer Pasta verarbeiten bzw. zerstoßen und zerreiben. Anschließend jeweils einzeln Meersalz, 1 EL vom Pflanzenöl, Zitronensaft und Eiswasser dazugeben und jeder Zutat gut vermengen. Jetzt das restliche Pflanzenöl esslöffelweise dazugeben und dabei gründlich mit dem Mörser zerstoßen und vermengen, bis eine weiße Knoblauchpaste entsteht. Wenn ihr einen Zerkleinerer verwendet, solltet ihr an dieser Stelle das restliche Öl langsam in einem dünnen Strahl dazugeben, bis der Dip öl-gesättigt ist und ebenfalls eine weiße Knoblauchpaste entstanden ist.",
+        "Das Ofengemüse noch warm mit Toum servieren und zusätzlich etwas Dukkah bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,68 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/doener-kebab",
+  "recipes": [
+    {
+      "name": "Döner Kebab",
+      "source_url": "https://app.cookwell.com/recipe/doener-kebab",
+      "recipe_id": "https://app.cookwell.com/recipe/doener-kebab",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4-6 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT2H30M",
+      "ingredients": [
+        "Chicken Thighs, 8",
+        "Salt, to taste",
+        "Cooking oil, as needed",
+        "Rosemary, a spoonful",
+        "Onion Powder, a spoonful",
+        "Garlic Powder, a sprinkle",
+        "Dried parsley, a sprinkle",
+        "Dried oregano, a sprinkle",
+        "Cumin, a sprinkle",
+        "Paprika, a sprinkle",
+        "MSG, a sprinkle",
+        "Mayonnaise, 225 g",
+        "Yogurt, 115 g",
+        "Salt, to taste",
+        "MSG, a sprinkle",
+        "Dried dill, a sprinkle",
+        "Dried mint, a sprinkle",
+        "Dried oregano, a sprinkle",
+        "Garlic Powder, a sprinkle",
+        "Onion Powder, a sprinkle",
+        "Agave syrup, a spoonful",
+        "Ketchup, 50 g",
+        "Sambal, 50 g",
+        "Harissa paste, 50 g",
+        "Purple cabbage, 1/2",
+        "Salt, to taste",
+        "Lemon juice, 1/2 lemon",
+        "Olive Oil, a drizzle",
+        "Tomatoes",
+        "Iceberg lettuce",
+        "Red Onions",
+        "Cucumbers",
+        "Pide (Turkish Bread), 4-6 slices"
+      ],
+      "instructions": [
+        "If your chicken thighs are bone-in, remove the chicken skin and bones. Optionally save the bones for stock and render chicken skin in a pot over low heat. The fat can be used for cooking the chicken later. If you have boneless chicken thighs, proceed from here. Generously season the chicken on all sides with a sprinkle of salt. If you want to be exact, use 1% salt by weight relative to the total weight of the chicken meat. For example, 900 g of boneless chicken would need 9 g of salt. Mix the remaining dry seasonings in a bowl. Evenly sprinkle the seasoning onto all sides of the chicken thighs, and then lay them flat on a baking sheet. Freeze this sheet tray (uncovered) for at least 2 hours (or overnight) to firm up the chicken for slicing.",
+        "Once the seasoned chicken is frozen, pull out one piece at a time and slice the chicken as thinly as possible with a knife. This should make almost translucent shavings that will mimic the texture of döner meat when cooked. You’ll need a very sharp knife for this. If it’s too difficult, you can thaw the meat for about 10 minutes on the counter, which will soften it slightly. You need the meat to be mostly frozen, however, to make thin shavings. Once you’ve thinly shaved all of the chicken, you can cook it right away, or add it to gallon bags and freeze it for later use. The shavings are so thin that they can be cooked straight from frozen if needed.",
+        "Preheat a griddle or cast iron pan over high heat. Add a drizzle of cooking oil (or rendered chicken fat, if using) to coat the cooking surface. Add a single layer of shaved chicken straight from the freezer and sear undisturbed on high heat until browned on one side. The chicken slices are so thin that they will cook through without flipping. The sear on one side mimics the cooking from the kebab spits. Repeat as needed.",
+        "Make the herb sauce: Set a bowl over a scale to measure all the ingredients. Mix well. Taste and adjust seasoning as needed. Make the spicy sauce: Mix the ingredients and taste. Add more of an ingredient if desired.",
+        "Make the cabbage slaw: Add the thinly sliced cabbage to a bowl and dress with a sprinkle of salt, lemon juice, and a drizzle of oil. Taste and adjust as needed. This gets better as it sits over time. Prep the remaining vegetables and optionally season with a sprinkle of salt.",
+        "Warm the bread: Place a triangle or serving of Pide (Turkish bread) in a wet paper towel. Microwave for 30 seconds. Then, toast in a pan and flatten with a press or another pan before assembling. This gets you a crispy exterior with a warmed interior ready for serving. Assemble: Slice or tear the triangle of Pide bread open so it can be filled. Slather one side with herb sauce, and the other side with spicy sauce. Add a serving of seared chicken, and then a handful of the vegetables and cabbage slaw. Close the döner, optionally wrap or serve with parchment paper. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

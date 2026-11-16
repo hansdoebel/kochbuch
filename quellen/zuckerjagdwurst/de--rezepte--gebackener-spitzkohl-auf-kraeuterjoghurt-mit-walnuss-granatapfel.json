@@ -1,0 +1,37 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gebackener-spitzkohl-auf-kraeuterjoghurt-mit-walnuss-granatapfel",
+  "recipes": [
+    {
+      "name": "Gebackener Spitzkohl auf Kräuterjoghurt mit Walnuss-Granatapfel-Topping",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gebackener-spitzkohl-auf-kraeuterjoghurt-mit-walnuss-granatapfel",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gebackener-spitzkohl-auf-kraeuterjoghurt-mit-walnuss-granatapfel#recipe-a502495f-5891-597a-b187-c662de8ff51e",
+      "authors": [
+        "Nele Henzler"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 kleine Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT180M",
+      "ingredients": [
+        "Für den Spitzkohl: 1 Spitzkohl 4 EL Olivenöl 1 EL Senf 1 TL Paprikapulver (süß) 0.5 TL Chilipulver 1 EL Agavendicksaft Salz Pfeffer",
+        "Für den Kräuterjoghurt: 250 g Sojajoghurt 1 Knoblauchzehe 15 g frische Minze 40 g frische Petersilie",
+        "Für das Walnuss-Granatapfel-Topping: 20 g Walnüsse 0.5 Granatapfel 0.5 Zitrone (Saft)"
+      ],
+      "instructions": [
+        "Zuerst den Spitzkohl gründlich waschen. Den Strunk großzügig abschneiden und anschließend den Spitzkohl vierteln. Dann mit den Schnittseiten nach oben in eine Auflaufform legen und diese mit ordentlich Salz einreiben. Das Ganze mindestens 30 Minuten ziehen lassen.",
+        "Anschließend Olivenöl, Senf, Paprikapulver, Chilipulver und Agavendicksaft zu einer Marinade verrühren. Den Spitzkohl mit der Marinade gründlich einpinseln. Die Reste der Marinade aufheben und beiseitestellen.",
+        "Die Stücke für 4–5 Minuten in etwas Öl von beiden Schnittseiten in einer Pfanne anbraten, damit sie gut Farbe bekommen. Dann zurück in die Auflaufform geben und abgedeckt für circa 40 Minuten bei 200 °C (Umluft) im Ofen backen. Je nach gewünschter Farbe die Abdeckung in den letzten Minuten abnehmen, damit der Kohl noch etwas dunkler wird.",
+        "In der Zwischenzeit die Zutaten für den Joghurt mit einem Pürierstab fein pürieren und mit Salz und Pfeffer abschmecken. Für das Topping die Walnüsse hacken, den Granatapfel in einer Schüssel mit Wasser entkernen und beides zusammen mit Zitronensaft abschmecken.",
+        "Den fertigen Spitzkohl mit Kräuterjoghurt, dem Walnuss-Granatapfel-Topping und der übrig gebliebenen Marinade servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

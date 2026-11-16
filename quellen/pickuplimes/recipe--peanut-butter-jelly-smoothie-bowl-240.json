@@ -1,0 +1,38 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/peanut-butter-jelly-smoothie-bowl-240",
+  "recipes": [
+    {
+      "name": "Peanut Butter & Jelly Smoothie Bowl",
+      "source_url": "https://www.pickuplimes.com/recipe/peanut-butter-jelly-smoothie-bowl-240",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "1½ cup unsweetened soy milk",
+        "2 frozen banana",
+        "1½ cup frozen strawberries",
+        "3 Tbsp natural peanut butter"
+      ],
+      "instructions": [
+        "Add all of the ingredients to a blender and blend until smooth.",
+        "Pour into a bowl, add desired toppings, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium .",
+    "Storage Best to enjoy immediately."
+  ]
+}

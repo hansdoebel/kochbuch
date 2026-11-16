@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/passion-fruit-kombucha-spritz-1028",
+  "recipes": [
+    {
+      "name": "Passion Fruit & Kombucha Spritz",
+      "source_url": "https://www.pickuplimes.com/recipe/passion-fruit-kombucha-spritz-1028",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT10M",
+      "ingredients": [
+        "4 grapefruit",
+        "4 passion fruit",
+        "¼ cup fresh mint leaves",
+        "2 Tbsp fresh basil leaves",
+        "1 lime",
+        "4 cup ice cubes",
+        "2 cup kombucha"
+      ],
+      "instructions": [
+        "Juice the grapefruits.",
+        "Cut the passion fruits open and scoop the seeds out into each glass.",
+        "Divide the mint leaves, basil leaves, and lime slices between the glasses and muddle everything together with a tamper.",
+        "Add ice cubes and finish with equal parts of grapefruit juice and kombucha.",
+        "Garnish as desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Use any flavour kombucha that you enjoy.",
+    "Storage Best to enjoy immediately."
+  ]
+}

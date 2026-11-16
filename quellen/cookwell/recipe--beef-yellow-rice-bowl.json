@@ -1,0 +1,50 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/beef-yellow-rice-bowl",
+  "recipes": [
+    {
+      "name": "Beef & Yellow Rice Bowl",
+      "source_url": "https://app.cookwell.com/recipe/beef-yellow-rice-bowl",
+      "recipe_id": "https://app.cookwell.com/recipe/beef-yellow-rice-bowl",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "93/7 ground beef, 450 g",
+        "Salt, 4 g",
+        "Aleppo pepper, 2 g",
+        "Granulated garlic, 2 g",
+        "White rice, 180 g",
+        "Water, 250 g",
+        "Chicken bouillon powder, 5 g",
+        "Dried oregano, 1 g",
+        "Turmeric powder, 1 g",
+        "Garlic, 1",
+        "Low-fat sour cream, 150 g",
+        "Mayonnaise, 50 g",
+        "Water, 50 g",
+        "Dried dill, 4 g",
+        "Vinegar, a splash",
+        "Pickled onions",
+        "Cilantro"
+      ],
+      "instructions": [
+        "Add the rice, water, bouillon powder, oregano, turmeric, and crushed garlic clove to a rice cooker or saucepan. Stir to combine. Cook using your preferred method: Steam with the rice cooker or simmer on the stovetop covered until the rice is cooked through and the water is absorbed. Fluff with a fork before serving.",
+        "Meanwhile, heat a large skillet over medium-high heat until hot. Add the ground beef, salt, Aleppo pepper, and granulated garlic. As it sears, break it into small crumbles until it is well browned and cooked through. Remove from the heat and set aside.",
+        "Combine the sour cream, mayonnaise, water, dried dill, and a splash of vinegar, stirring until smooth. Taste and adjust with more vinegar for extra tang, or a bit more water to thin it out.",
+        "Prep the toppings: chop the cilantro and have the pickled onions ready. Divide the yellow rice among bowls or meal prep containers. Top with the seasoned beef, pickled onions, and cilantro. Finish with a generous spoonful of the dill sauce."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,123 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/saenggangcha",
+  "recipes": [
+    {
+      "name": "Ginger tea (Saenggangcha)",
+      "source_url": "https://www.maangchi.com/recipe/saenggangcha",
+      "recipe_id": "/recipe/saenggangcha#sso/recipe/23052",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Ginger, 1 cup, pureed",
+        "1 cup of honey",
+        "pine nuts for garnish"
+      ],
+      "instructions": [
+        "Peel a little more than 1 cup’s worth of fresh ginger. Wash and drain thoroughly.",
+        "Puree the ginger with either a grater or food processor.",
+        "Put 1 cup of the pureed ginger into a bowl. Add 1 cup of honey and mix well.",
+        "Transfer to a glass jar and store it in the fridge as you use it.",
+        "To serve, mix 2-3 tbs of the mixture into a teacup of boiling water. Garnish with several pine nuts on top.",
+        "Mix 3 tbs of the mixture into a large glass of cold water. Add some ice cubes and garnish with several pine nuts on top.",
+        "Thinly slice 1 cup of peeled ginger. Mix with 1 cup of honey or sugar.",
+        "Transfer to a glass jar and store it in the fridge as you use it.",
+        "To serve, boil 3 tbs of the mixture and 1½ cups of water in a ceramic or Pyrex kettle for about 10 minutes. Pour only the tea into a cup and leave the ginger slices in the kettle. Garnish with several pine nuts on top."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "Ginger, 1 cup, pureed"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup of honey"
+        },
+        {
+          "tag": "li",
+          "text": "pine nuts for garnish"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "My hot ginger tea"
+        },
+        {
+          "tag": "li",
+          "text": "Peel a little more than 1 cup’s worth of fresh ginger. Wash and drain thoroughly."
+        },
+        {
+          "tag": "li",
+          "text": "Puree the ginger with either a grater or food processor."
+        },
+        {
+          "tag": "li",
+          "text": "Put 1 cup of the pureed ginger into a bowl. Add 1 cup of honey and mix well."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer to a glass jar and store it in the fridge as you use it."
+        },
+        {
+          "tag": "li",
+          "text": "To serve, mix 2-3 tbs of the mixture into a teacup of boiling water. Garnish with several pine nuts on top."
+        },
+        {
+          "tag": "p",
+          "text": "Enjoy the hot tea!"
+        },
+        {
+          "tag": "h3",
+          "text": "My cold ginger tea"
+        },
+        {
+          "tag": "li",
+          "text": "Mix 3 tbs of the mixture into a large glass of cold water. Add some ice cubes and garnish with several pine nuts on top."
+        },
+        {
+          "tag": "p",
+          "text": "Enjoy the cold tea!"
+        },
+        {
+          "tag": "h3",
+          "text": "Traditional Korean ginger tea"
+        },
+        {
+          "tag": "li",
+          "text": "Thinly slice 1 cup of peeled ginger. Mix with 1 cup of honey or sugar."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer to a glass jar and store it in the fridge as you use it."
+        },
+        {
+          "tag": "li",
+          "text": "To serve, boil 3 tbs of the mixture and 1½ cups of water in a ceramic or Pyrex kettle for about 10 minutes. Pour only the tea into a cup and leave the ginger slices in the kettle. Garnish with several pine nuts on top."
+        },
+        {
+          "tag": "p",
+          "text": "Enjoy the traditional hot tea!"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

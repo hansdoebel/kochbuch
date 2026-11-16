@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/der-beste-kartoffelsalat-der-welt",
+  "recipes": [
+    {
+      "name": "Der beste Kartoffelsalat der Welt",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/der-beste-kartoffelsalat-der-welt",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/der-beste-kartoffelsalat-der-welt#recipe-d8c82840-dfe7-5d30-a0c4-c0b03e23f9ba",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4-6 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für die Kartoffeln:",
+        "800 g kleine Kartoffeln",
+        "1 EL Olivenöl",
+        "Salz",
+        "Pfeffer",
+        "Für das Dressing:",
+        "1 rote Zwiebel",
+        "1 Gurke",
+        "5 Gewürzgurken",
+        "10 g Dill",
+        "250 g vegane Mayonnaise",
+        "100 g Gurkenrelish",
+        "2 TL Senf",
+        "1 TL Zwiebelpulver",
+        "1 TL Knoblauchpulver",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "10 g Schnittlauch"
+      ],
+      "instructions": [
+        "Den Backofen auf 200 °C (Umluft) vorheizen. Die Kartoffeln gründlich waschen, halbieren und auf einem Backblech verteilen. Mit Olivenöl beträufeln und mit Salz und Pfeffer würzen. Die Kartoffeln 30–40 Minuten backen, bis sie gar, gebräunt und leicht knusprig sind. Während der Backzeit ein- bis zweimal wenden.",
+        "Währenddessen für das Dressing die Zwiebel schälen und klein würfeln, die Gurke waschen und klein schneiden und die Gewürzgurken in kleine Scheiben schneiden. Dill und Schnittlauch waschen und fein hacken.",
+        "Zwiebel, Gurke, Gewürzgurke, Dill, vegane Mayonnaise, Gurkenrelish, Senf, Zwiebel- und Knoblauchpulver in einer großen Schüssel vermengen. Mit Salz und Pfeffer abschmecken.",
+        "Die Kartoffeln nach dem Backen 5–10 Minuten abkühlen lassen. Im Anschluss in die Schüssel zum Dressing geben und vermengen. Kartoffelsalat mit gehacktem Schnittlauch bestreuen und noch lauwarm oder abgekühlt servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

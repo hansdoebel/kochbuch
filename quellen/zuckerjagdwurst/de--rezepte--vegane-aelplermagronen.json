@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-aelplermagronen",
+  "recipes": [
+    {
+      "name": "Vegane Älplermagronen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-aelplermagronen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-aelplermagronen#recipe-4a6dce72-4b0b-5a43-9657-75b45bf95f1b",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Für die Älplermagronen:",
+        "400 g festkochende Kartoffeln",
+        "300 g Röhrennudeln, z. B. Makkaroni",
+        "250 ml pflanzliche Milch",
+        "200 ml pflanzliche Sahne",
+        "300 ml Wasser",
+        "150 g veganer Streukäse",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "Für den Räuchertofu:",
+        "200 g Räuchertofu",
+        "1 TL Sojasoße",
+        "Pflanzenöl zum Braten",
+        "Für die Zwiebeln:",
+        "2 Zwiebeln",
+        "1 Knoblauchzehe",
+        "Pflanzenöl zum Braten",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "Apfelmus"
+      ],
+      "instructions": [
+        "Kartoffeln schälen und in kleine Stücke schneiden. Räuchertofu in kleine Würfel schneiden. Zwiebeln schälen, halbieren und in dünne Scheiben schneiden. Knoblauch ebenfalls schälen und in dünne Scheiben schneiden.",
+        "Pflanzliche Milch, pflanzliche Sahne und Wasser in einen Topf geben und gut salzen. Die Kartoffelstücke dazugeben und alles zusammen aufkochen lassen. Beachtet, dass die Kartoffelstücke je nach Größe ca. 10-15 Minuten brauchen, bis sie gar sind. Je nach Packungsangabe solltet ihr eure Nudeln erst später dazugeben, damit Kartoffeln und Nudeln gleichzeitig gar sind. Für uns hieß das: nach ca. 8 Minuten Makkaroni dazugeben und beides zusammen ca. 7-8 Minuten köcheln lassen.",
+        "In der Zwischenzeit Pflanzenöl in einer Pfanne erhitzen und die Räuchertofu-Würfel ca. 3-4 Minuten scharf anbraten, bis sie gebräunt sind. Sojasoße dazugeben und weiterbraten, bis der Räuchertofu knusprig ist. Danach aus der Pfanne nehmen.",
+        "Erneut etwas Pflanzenöl in der Pfanne erhitzen und die Zwiebeln anschwitzen, bis sie glasig sind. Knoblauch dazugeben, alles mit Salz und Pfeffer würzen und bis kurz vor dem Servieren weiter anbraten.",
+        "Sobald Kartoffeln und Nudeln gar sind, den veganen Streukäse dazugeben und vermengen, bis er geschmolzen ist. Die Älplermagronen mit Salz, Pfeffer und Muskat abschmecken. Zum Servieren den knusprigen Räuchertofu und die angebratenen Zwiebeln und Knoblauch darauf verteilen. Alles mit Apfelmus servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

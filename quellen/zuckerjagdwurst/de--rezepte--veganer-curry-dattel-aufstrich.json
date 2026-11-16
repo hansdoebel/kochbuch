@@ -1,0 +1,38 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-curry-dattel-aufstrich",
+  "recipes": [
+    {
+      "name": "Veganer Curry-Dattel-Aufstrich",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-curry-dattel-aufstrich",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-curry-dattel-aufstrich#recipe-e18521b9-4f02-5c98-9de8-4539b4855e06",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "300 g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "100 g Naturtofu (z. B. von Taifun Tofu)",
+        "150 g veganer Frischkäse",
+        "2 TL Currypulver",
+        "6 entsteinte Datteln",
+        "frischer Zitronensaft",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Naturtofu, veganen Frischkäse und Currypulver in ein hohes Gefäß geben und pürieren.",
+        "Die Datteln fein würfeln und unterheben. Den Dip mit frischem Zitronensaft, Salz und Pfeffer abschmecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

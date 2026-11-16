@@ -1,0 +1,85 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/frische-fruehlingstacos-mit-veganem-feta",
+  "recipes": [
+    {
+      "name": "Veganer Feta aus Tofu in Kräuterlake",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/frische-fruehlingstacos-mit-veganem-feta",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/frische-fruehlingstacos-mit-veganem-feta#recipe-fa7bd63a-3cab-5a78-9d4e-e45e78068829",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "200 g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT180M",
+      "ingredients": [
+        "200 g Naturtofu",
+        "100–150 ml Olivenöl",
+        "2 EL getrockneter Basilikum",
+        "2 EL getrockneter Oregano",
+        "1 EL getrockneter Thymian",
+        "1 TL Salz",
+        "1 TL helle Misopaste (optional)",
+        "2 Knoblauchzehen"
+      ],
+      "instructions": [
+        "Den Naturtofu in mundgerechte Würfel schneiden.",
+        "In ein Einmach- oder Schraubglas 5 EL Olivenöl geben und mit getrocknetem Basilikum, Oregano, Thymian und Salz verrühren. Optional Misopaste unterrühren.",
+        "Knoblauchzehen schälen, mit einem Messerrücken leicht zerdrücken und in Scheiben schneiden. Knoblauchscheiben und Tofuwürfel ebenfalls in das Glas geben, mit Olivenöl auffüllen und gut schütteln, damit der Tofu gleichmäßig mit Kräutern bedeckt ist.",
+        "Das Glas in den Kühlschrank stellen und nach frühestens 24 Stunden servieren. Der Tofu hält sich darin bis zu fünf Tage. Zwischendurch das Glas immer wieder umdrehen oder schütteln, damit alles gleichmäßig mariniert."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Frische Frühlingstacos mit veganem Feta",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/frische-fruehlingstacos-mit-veganem-feta",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/frische-fruehlingstacos-mit-veganem-feta#recipe-603ed864-8810-5736-96a4-755718477f3a",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT180M",
+      "ingredients": [
+        "6 weiche Tacos",
+        "1/4 Honigmelone",
+        "1/2 Gurke",
+        "1 Portion veganer „Feta“ (Rezept auf dem Blog)",
+        "Veganer Ricotta Dip",
+        "150 g Cashews (mind. 30 Minuten, am besten aber über Nacht in Wasser eingelegt)",
+        "1/2 Zitrone",
+        "50 ml Wasser",
+        "2 EL Hefeflocken",
+        "1 Knoblauchzehe",
+        "2 EL pflanzlicher Joghurt",
+        "3 g Schnittlauch",
+        "3 g Petersilie",
+        "3 g Minze",
+        "Salz&Pfeffer"
+      ],
+      "instructions": [
+        "Veganer Ricotta Dip",
+        "Für eure Cashew-Ricotta nehmt ihr euch einen Standmixer oder Pürierstab. Die Cashewkerne, den Zitronensaft, 1 Knoblauchzehe, 2 EL Hefeflocken, sowie mindestens 25 ml Wasser dazugeben und gut mixen.",
+        "Wenn der Ricotta zu fest wird, gebt ihr mehr Wasser dazu. Die Cashew-Ricotta sollte am Ende nicht flüssig, aber auch kein Klumpen sein, sondern eine cremige Masse mit vereinzelten Stücken.",
+        "Nun die restlichen Zutaten für den Dip unterrühren. Dafür die Kräuter waschen und fein hacken und den pflanzlichen Joghurt dazugeben. Nochmals mit Salz, Pfeffer und Hefeflocken abschmecken!",
+        "Tacos",
+        "Schält eure Honigmelone und schneidet sie dann mit einem Sparschäler in Streifen.",
+        "Das gleiche macht ihr mit der Gurke. Wer die Bio-Gurke kauft, kann die Schale mit dranlassen.",
+        "Nehmt einen Taco und verteilt ein wenig Ricotta-Dip darauf. Nun mit Melonen- und Gurkenscheiben, und den veganen Feta toppen. Zum Schluss mit etwas mehr Dip und Schnittlauch belegen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

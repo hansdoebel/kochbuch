@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kuerbisbrownies",
+  "recipes": [
+    {
+      "name": "Vegane Kürbisbrownies",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kuerbisbrownies",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kuerbisbrownies#recipe-19343d64-3a51-5f37-bb8e-9ee3f73dbb49",
+      "authors": [
+        "Team"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "9 Brownies (1 Backform 20x25cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für die Kürbiscreme:",
+        "220 g Hokkaidokürbis (170 g Kürbispüree)",
+        "100 g veganer Frischkäse (auf Mandelbasis)",
+        "gemahlener Zimt",
+        "gemahlener Muskat",
+        "gemahlener Piment",
+        "Für den Brownieteig:",
+        "200 g Zartbitterschokolade",
+        "200 g Weizenmehl (Type 405)",
+        "200 g Zucker",
+        "50 g ungesüßtes Kakaopulver",
+        "100 g Apfelmus",
+        "100 ml Pflanzenöl",
+        "200 ml pflanzliche Milch"
+      ],
+      "instructions": [
+        "Wasser in einem Topf zum Kochen bringen. Den Kürbis in mundgerechte Stücke schneiden und circa 10 Minuten kochen, bis alle Stücke weich sind. Danach abgießen, abtropfen lassen und in einem hohen Gefäß pürieren. Anschließend abkühlen lassen.",
+        "Das abgekühlte Kürbispüree mit veganem Frischkäse verrühren und mit Zimt, Muskat und Piment abschmecken.",
+        "Tipp: Schmeckt die Frischkäsecreme unbedingt ab, bevor ihr sie auf dem Brownieteig verteilt, da jede Frischkäsesorte unterschiedlich stark im Geschmack ist.",
+        "Zartbitterschokolade über einem Wasserbad schmelzen und im Anschluss etwas abkühlen lassen.",
+        "Den Ofen auf 180 °C (Umluft) vorheizen. Eine Backform (20 x 25 cm) einfetten und mit etwas Kakaopulver ausklopfen.",
+        "Mehl, Zucker und Kakaopulver in einer großen Schüssel verrühren. Danach die geschmolzene Schokolade, Apfelmus, Pflanzenöl und pflanzliche Milch hinzugeben und zu einem glatten Teig verrühren.",
+        "Den Teig in die vorbereitete Backform geben, dann die Frischkäse-Kürbis-Creme auf dem Brownieteig verteilen und mit einer Gabel kleine Swirls durch den Brownieteig „unterziehen“ und",
+        "Die Brownies bei 180 °C (Umuft) 25–30 Minuten backen. Vor dem Anschneiden abkühlen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

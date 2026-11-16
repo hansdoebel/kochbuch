@@ -1,0 +1,46 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/chilaquiles",
+  "recipes": [
+    {
+      "name": "Chilaquiles",
+      "source_url": "https://app.cookwell.com/recipe/chilaquiles",
+      "recipe_id": "https://app.cookwell.com/recipe/chilaquiles",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1-2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Roma tomatoes, 5",
+        "Dried arbol chiles, 2",
+        "Jalapeños, 1",
+        "Garlic, 1",
+        "White onions, 1/2",
+        "Salt, to taste",
+        "Eggs, 1",
+        "Tortilla Chips, a serving",
+        "Cooking oil, a spoonful",
+        "Chicken broth, as needed",
+        "Queso Fresco, to taste",
+        "Crema, for garnish",
+        "Pickled onions, for garnish",
+        "Cilantro, for garnish"
+      ],
+      "instructions": [
+        "Set the oven to broil. Put a kettle or pot of water on to boil. Lightly toast the arbol chile in a hot pan (no oil) until fragrant, then set aside. Add a tiny drizzle of oil to a sheet pan and place the jalapeño, onion, tomatoes, and garlic clove on it. Broil in the oven until the vegetables are browned all over and charred in spots. Make sure to keep an eye on them to avoid burning. In a bowl or container, pour hot water over the toasted chiles de arbol and let them rehydrate for about 10 minutes.",
+        "Add the roasted vegetables to a blender along with a pinch of salt and the rehydrated chiles de arbol. Blend until completely smooth. Taste it, and adjust the salt as needed.",
+        "Add a drizzle of oil and a serving of the salsa roja (1 part) to the pan. Let it fry for 1-2 minutes to develop deeper flavors. Your ideal salsa amount will vary depending on how saucy you like your chilaquiles. Try about a 1/4 of the salsa for a 1/4 bag of tortilla chips. Add 0.5 to 1 part chicken broth to the simmering salsa, then stir and reduce for another minute or two. Turn the heat off and add the tortilla chips to let the sauce soak in. If needed, add more chips or an extra splash of salsa or broth the adjust the chilaquiles to your ideal consistency. If you want them with more crunch, use less broth and then serve and eat them immediately. For a soggier texture, use more broth and allow the moisture to soak in for a few minutes. Serve with queso fresco, sour cream, pickled onions, and a fried egg. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

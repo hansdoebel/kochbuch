@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/mocha-hazelnut-oatmeal-732",
+  "recipes": [
+    {
+      "name": "Mocha Hazelnut Oatmeal",
+      "source_url": "https://www.pickuplimes.com/recipe/mocha-hazelnut-oatmeal-732",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT10M",
+      "total_time": "PT15M",
+      "ingredients": [
+        "1 cup rolled oats",
+        "2 cup unsweetened almond milk",
+        "⅓ cup Dutch-process cocoa powder",
+        "2 tsp instant coffee granules",
+        "1 pinch salt",
+        "0.882 oz dairy-free dark chocolate",
+        "2 Tbsp maple syrup",
+        "1 banana",
+        "½ cup unsweetened coconut yogurt",
+        "2 Tbsp hazelnut butter",
+        "1 Tbsp unsalted roasted hazelnuts",
+        "0.882 oz dairy-free dark chocolate"
+      ],
+      "instructions": [
+        "Add the oats, milk, cacao powder, instant coffee, and salt to a saucepan. Cook at a simmer for 7 to 10 minutes. Turn off the heat and stir in the chocolate and maple syrup.",
+        "Divide the oatmeal between the bowls. Top with banana, yogurt, hazelnut butter, hazelnuts, and the some more chocolate. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk and yogurt that is fortified with calcium . † We use 50 - 60% cocoa chocolate for a balanced sweetness. Darker varieties (70%+) can make the result too bitter.",
+    "Storage Store the oatmeal, without toppings, in an airtight container in the fridge for up to 2 days."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/lamb-pita-pocket",
+  "recipes": [
+    {
+      "name": "Lamb Pita Pocket",
+      "source_url": "https://app.cookwell.com/recipe/lamb-pita-pocket",
+      "recipe_id": "https://app.cookwell.com/recipe/lamb-pita-pocket",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "Ground lamb , 450 g",
+        "Salt, 5 g",
+        "Cumin, 3 g",
+        "Aleppo pepper, 3 g",
+        "Pita Bread, 2-3",
+        "Hummus, ~30 g per pita",
+        "Feta, ~15 g per pita",
+        "Pickled onions",
+        "Tomatoes",
+        "Lettuce"
+      ],
+      "instructions": [
+        "Preheat a pan or griddle over medium-high heat. Once hot, press the ground lamb into the pan into an even layer, and allow to sear undisturbed for 4-5 minutes or until that side has developed deep browning. Season with salt, then use a spatula or potato masher to scrape and break up the lamb into a finer texture as it continues cooking through.",
+        "Once the lamb is mostly cooked through, add the cumin and aleppo pepper to the pan. Stir well to coat the lamb evenly in the spices and continue cooking for another 2-3 minutes to bloom the spices and finish cooking the meat. Taste and adjust seasoning with more salt or spices if needed. Set aside.",
+        "Slice and open up the pita pockets (warming them up, if necessary). Spread a layer of hummus to both sides of the interior of each pita pocket (about 30 g of hummus per pita), then fill with the seasoned lamb (about 1/3 or 6 oz, depending on your pita size). Garnish with pickled or fresh vegetables of choice, and crumbled feta cheese (about 15 g per pita). Optionally finish with an extra sprinkle of Aleppo pepper."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

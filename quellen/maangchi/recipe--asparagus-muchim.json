@@ -1,0 +1,125 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/asparagus-muchim",
+  "recipes": [
+    {
+      "name": "Asparagus side dish (Asparagus-muchim: 아스파라거스무침)",
+      "source_url": "https://www.maangchi.com/recipe/asparagus-muchim",
+      "recipe_id": "/recipe/asparagus-muchim#sso/recipe/92930",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "2 garlic cloves, minced",
+        "1 green onion, chopped",
+        "1 tablespoon soy sauce",
+        "2 tablespoons apple cider vinegar (or any distilled vinegar)",
+        "2 tablespoons gochujang (Korean hot pepper paste)",
+        "2 teaspoons toasted sesame oil",
+        "1 tablespoon rice syrup (honey or sugar)",
+        "¼ teaspoon kosher salt",
+        "1 teaspoon toasted sesame seeds"
+      ],
+      "instructions": [
+        "Bring a pot filled with 2 inches of water to a boil. Add the asparagus and blanch 1 to 2 minutes without the lid until bright green and a little soft, depending on the thickness of your asparagus. Remove from the heat.",
+        "Drain and rinse it under cold running water to clean and stop cooking. Drain and set aside.",
+        "Combine all the ingredients in a large mixing bowl and mix it well with a wooden spoon.",
+        "Add the asparagus and mix them well by hand or tongs.",
+        "Transfer to a plate and sprinkle more sesame seeds and serve with rice."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "1 large bunch (about 1 pound) of thin stem asparagus, trimmed"
+        },
+        {
+          "tag": "h3",
+          "text": "For seasoning mixture:"
+        },
+        {
+          "tag": "li",
+          "text": "2 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 green onion, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons apple cider vinegar (or any distilled vinegar)"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons gochujang (Korean hot pepper paste)"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon rice syrup (honey or sugar)"
+        },
+        {
+          "tag": "li",
+          "text": "¼ teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon toasted sesame seeds"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Bring a pot filled with 2 inches of water to a boil. Add the asparagus and blanch 1 to 2 minutes without the lid until bright green and a little soft, depending on the thickness of your asparagus. Remove from the heat."
+        },
+        {
+          "tag": "li",
+          "text": "Drain and rinse it under cold running water to clean and stop cooking. Drain and set aside."
+        },
+        {
+          "tag": "h3",
+          "text": "Make seasoning mixture:"
+        },
+        {
+          "tag": "li",
+          "text": "Combine all the ingredients in a large mixing bowl and mix it well with a wooden spoon."
+        },
+        {
+          "tag": "h3",
+          "text": "Mix and serve:"
+        },
+        {
+          "tag": "li",
+          "text": "Add the asparagus and mix them well by hand or tongs."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer to a plate and sprinkle more sesame seeds and serve with rice."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

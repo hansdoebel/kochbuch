@@ -1,0 +1,83 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/ssukbeomul",
+  "recipes": [
+    {
+      "name": "Mugwort rice cake (Ssuk-beomul)",
+      "source_url": "https://www.maangchi.com/recipe/ssukbeomul",
+      "recipe_id": "/recipe/ssukbeomul#sso/recipe/13882",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Fresh mugwort (ssuk), sweet rice flour, sugar, kosher salt, and water."
+      ],
+      "instructions": [
+        "Clean 2 cups of mugwort (70 grams) by washing thoroughly and rinsing and draining in cold running water a couple of times. You may need to scrub it by hand to remove any residual dirt from between the leaves.",
+        "Slightly squeeze the clean mugwort and put it on a microwavable plate.",
+        "Add ⅓ cup sweet rice flour, 1 tbs sugar, ¼ ts kosher salt, and 2 tbs water.",
+        "Mix it up with both hands until there’s no sweet rice flour left at the bottom of the plate.",
+        "Cook it for 3-4 minutes in the microwave oven.",
+        "Take it off the plate and turn it over with a spoon or spatula.",
+        "Serve it hot."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Fresh mugwort (ssuk), sweet rice flour, sugar, kosher salt, and water."
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Clean 2 cups of mugwort (70 grams) by washing thoroughly and rinsing and draining in cold running water a couple of times. You may need to scrub it by hand to remove any residual dirt from between the leaves."
+        },
+        {
+          "tag": "li",
+          "text": "Slightly squeeze the clean mugwort and put it on a microwavable plate."
+        },
+        {
+          "tag": "li",
+          "text": "Add ⅓ cup sweet rice flour, 1 tbs sugar, ¼ ts kosher salt, and 2 tbs water."
+        },
+        {
+          "tag": "li",
+          "text": "Mix it up with both hands until there’s no sweet rice flour left at the bottom of the plate."
+        },
+        {
+          "tag": "li",
+          "text": "Cook it for 3-4 minutes in the microwave oven."
+        },
+        {
+          "tag": "li",
+          "text": "Take it off the plate and turn it over with a spoon or spatula."
+        },
+        {
+          "tag": "li",
+          "text": "Serve it hot."
+        },
+        {
+          "tag": "p",
+          "text": "My other mugwort recipe, mugwort soup (ssukguk) is here!"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

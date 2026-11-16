@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/super-seed-mix-651",
+  "recipes": [
+    {
+      "name": "Super Seed Mix",
+      "source_url": "https://www.pickuplimes.com/recipe/super-seed-mix-651",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "24 servings",
+      "prep_time": "PT03M",
+      "cook_time": "",
+      "total_time": "PT03M",
+      "ingredients": [
+        "½ cup raw pumpkin seeds",
+        "½ cup raw sunflower seeds",
+        "⅓ cup raw walnuts",
+        "3 Tbsp ground flaxseeds",
+        "3 Tbsp hemp seeds",
+        "3 Tbsp whole chia seeds",
+        "3 Tbsp toasted sesame seeds"
+      ],
+      "instructions": [
+        "Combine all the ingredients in a mason jar.",
+        "Store and sprinkle as desired onto salads, soups, yogurt, or oatmeal."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store away from heat or sunlight for up to 2 months, or keep in the freezer for up to 6 months."
+  ]
+}

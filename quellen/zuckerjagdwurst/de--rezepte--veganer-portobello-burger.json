@@ -1,0 +1,69 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-portobello-burger",
+  "recipes": [
+    {
+      "name": "Portobello-Burger",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-portobello-burger",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-portobello-burger#recipe-4a721de0-2363-5ac9-8204-e204df63ae18",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Burger",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "4 helle Sesambrötchen",
+        "4 Portobello Pilze",
+        "4 Blätter Eisbergsalat",
+        "1 Apfel",
+        "Für die Marinade:",
+        "1 Schalotte",
+        "3 EL Öl",
+        "2 EL dunkler Balsamico-Essig",
+        "1 TL Senf",
+        "1 TL Knoblauchpulver",
+        "1 TL Koriander",
+        "1 TL Liquid Smoke (optional)",
+        "Für die Guacamole:",
+        "1 Avocado",
+        "1 TL Zitronensaft",
+        "Salz",
+        "Pfeffer",
+        "Für die süße Senf-Sauce:",
+        "2 EL Agavendicksaft",
+        "3 EL Senf",
+        "Für die vegane Sour Cream:",
+        "200 g Sojaquark",
+        "150 g veganer Frischkäse",
+        "1 TL Knoblauchpulver",
+        "1 EL Apfelessig",
+        "1 Zitrone (Saft)",
+        "Salz",
+        "Pfeffer",
+        "Für die karamellisierten Zwiebeln:",
+        "2 große helle Zwiebeln",
+        "2 EL Öl",
+        "2 EL Zucker",
+        "Salz"
+      ],
+      "instructions": [
+        "Wir beginnen mit der Marinade für die Portobellos. Eine Schalotte schälen und in feine Würfel schneiden. In einer Schüssel zusammen mit den restlichen Zutaten verrühren. Die Portobellos mit Marinade einreiben und 20 Minuten ziehen lassen.",
+        "In einer (Grill-) Pfanne 1 EL Öl erhitzen und die Portobellos je 6-8 Minuten von beiden Seiten anbraten.",
+        "Zwiebeln schälen und in dünne Scheiben schneiden. In einer zweiten Pfanne 2 EL Öl erhitzen, die Zwiebelscheiben leicht salzen und auf kleiner Flamme glasig anbraten - das dauert etwa 5 Minuten. Danach 2 EL Zucker hinzugeben und 15 Minuten auf kleiner Flamme weiterbraten, bis die Zwiebeln gebräunt sind.",
+        "In der Zwischenzeit könnt ihr eure Saucen und Toppings vorbereiten. Einen Apfel waschen und in Scheiben schneiden. Verrührt in einer Schüssel alle Zutaten für die vegane Sour Cream und in einer zweiten Schüssel alle Zutaten für die süße Senf-Sauce.",
+        "In einer dritten Schüssel wird die Guacamole zubereitet. Dafür halbiert ihr die Avocado, entfernt den Kern und entnehmt mit einem Löffel das Fruchtfleisch. Mit einer Gabel in der Schüssel zermatschen, Zitronensaft dazugeben und mit Salz und Pfeffer würzen.",
+        "Wenn alle Zutaten bereit sind, könnt ihr eure Burgerbrötchen halbieren und im Ofen oder in einer Pfanne ohne Öl anrösten.",
+        "Los geht’s mit dem Belegen! Auf die untere Brötchenhälfte kommt zunächst eine Schicht vegane Sour Cream, danach Eisbergsalat, der gegrillte, marinierte Portobello, Guacamole, Apfelscheiben und marinierte Zwiebeln. Zum Schluss bestreicht ihr die obere Brötchenhälfte noch mit der süßen Senf-Sauce und fertig ist euer Portobello-Burger!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,148 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/maekjeok",
+  "recipes": [
+    {
+      "name": "Maekjeok (Doenjang Pork Skewers)",
+      "source_url": "https://www.maangchi.com/recipe/maekjeok",
+      "recipe_id": "/recipe/maekjeok#sso/recipe/32108",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 pound pork shoulder, sliced very thinly",
+        "¾ cup minced onion",
+        "4 garlic cloves, minced",
+        "1 teaspoon minced ginger",
+        "½ teaspoon ground black pepper",
+        "2 tablespoons doenjang (Korean fermented soybean paste)",
+        "1 tablespoon mirim (or water, or cooking wine)",
+        "2 tablespoons rice syrup (or olligodang)",
+        "1 tablespoon toasted sesame oil",
+        "3 ounces (about 1½ cup) Asian chives (buchu), cut into 3 inch long",
+        "½ teaspoon kosher salt",
+        "1 teaspoon vegetable oil"
+      ],
+      "instructions": [
+        "Combine onion, garlic, ginger, mirim, doenjang, 2 teaspoons of toasted sesame oil, rice syrup, and ground black pepper in a bowl. Mix well with a wooden spoon.",
+        "Add the pork and mix well by hand. Refrigerate for 30 minutes.",
+        "Make the salad by combining the chives, kosher salt, and toasted sesame oil in a bowl. Mix well by hand. Set aside.",
+        "Skewer the marinated pork. Make 4 skewers on 9-10 inch long skewers.",
+        "Heat a grill pan over high heat. Add vegetable oil and swirl the pan around to spread it evenly.",
+        "Add the pork skewers. Lower the heat to medium and cook for 2 to 3 minutes until the bottom goes light golden brown. Then turn them over and cook the other side for 5 minutes.",
+        "Flip them over a final time and cook for a few more minutes until the pork is thoroughly cooked and not pink at all.",
+        "Optionally, if you have access to an open flame, scorch the outside of the meat to make it even more delicious.",
+        "Remove from the heat and serve immediately. Serve with rice and the chive salad."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound pork shoulder, sliced very thinly"
+        },
+        {
+          "tag": "li",
+          "text": "¾ cup minced onion"
+        },
+        {
+          "tag": "li",
+          "text": "4 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon minced ginger"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon ground black pepper"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons doenjang (Korean fermented soybean paste)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon mirim (or water, or cooking wine)"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons rice syrup (or olligodang)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "3 ounces (about 1½ cup) Asian chives (buchu), cut into 3 inch long"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon vegetable oil"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Combine onion, garlic, ginger, mirim, doenjang, 2 teaspoons of toasted sesame oil, rice syrup, and ground black pepper in a bowl. Mix well with a wooden spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Add the pork and mix well by hand. Refrigerate for 30 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Make the salad by combining the chives, kosher salt, and toasted sesame oil in a bowl. Mix well by hand. Set aside."
+        },
+        {
+          "tag": "li",
+          "text": "Skewer the marinated pork. Make 4 skewers on 9-10 inch long skewers."
+        },
+        {
+          "tag": "h3",
+          "text": "Let’s cook! You can barbecue, grill, or pan-fry! To grill:"
+        },
+        {
+          "tag": "li",
+          "text": "Heat a grill pan over high heat. Add vegetable oil and swirl the pan around to spread it evenly."
+        },
+        {
+          "tag": "li",
+          "text": "Add the pork skewers. Lower the heat to medium and cook for 2 to 3 minutes until the bottom goes light golden brown. Then turn them over and cook the other side for 5 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Flip them over a final time and cook for a few more minutes until the pork is thoroughly cooked and not pink at all."
+        },
+        {
+          "tag": "li",
+          "text": "Optionally, if you have access to an open flame, scorch the outside of the meat to make it even more delicious."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and serve immediately. Serve with rice and the chive salad."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

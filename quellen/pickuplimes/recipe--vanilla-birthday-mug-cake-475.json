@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vanilla-birthday-mug-cake-475",
+  "recipes": [
+    {
+      "name": "Vanilla Birthday Mug Cake",
+      "source_url": "https://www.pickuplimes.com/recipe/vanilla-birthday-mug-cake-475",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT02M",
+      "total_time": "PT07M",
+      "ingredients": [
+        "3 Tbsp all-purpose flour",
+        "1½ Tbsp granulated sugar",
+        "2 tsp rainbow sprinkles",
+        "¼ tsp baking powder",
+        "1 pinch salt",
+        "2 Tbsp unsweetened soy milk",
+        "2 tsp vegetable oil",
+        "½ tsp pure vanilla extract"
+      ],
+      "instructions": [
+        "In a microwave-safe mug, combine the flour, sugar, sprinkles, baking powder, and salt. Then add in the milk, oil, and vanilla, and mix until just combined. Be careful not to over-mix.",
+        "Microwave on high (800 - 900 W) for 2 minutes, or until a toothpick inserted into the centre comes out clean*. The cooking time may vary depending on your microwave and settings. If the cake isn't cooked through yet, simply place it back in the microwave at intervals of 15 seconds until done. The mug might be quite hot, so take care when removing it from the microwave.",
+        "Top with vegan whipped cream and sprinkles if desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * If preferred, bake it in the oven at 350°F (180°C) for 15 to 25 minutes, or until a toothpick inserted into the centre comes out clean. Just be sure to use an oven-safe baking dish.",
+    "Storage Best if enjoyed immediately."
+  ]
+}

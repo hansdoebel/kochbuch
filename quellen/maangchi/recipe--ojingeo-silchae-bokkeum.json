@@ -1,0 +1,94 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/ojingeo-silchae-bokkeum",
+  "recipes": [
+    {
+      "name": "Crunchy squid threads",
+      "source_url": "https://www.maangchi.com/recipe/ojingeo-silchae-bokkeum",
+      "recipe_id": "/recipe/ojingeo-silchae-bokkeum#sso/recipe/69578",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "½ pound (226 grams) dried squid threads (ojingeo-silchae), cut into bite size pieces",
+        "2 cloves minced garlic",
+        "2 tablespoons vegetable oil",
+        "1 tablespoon soy sauce",
+        "2 tablespoons white or brown sugar",
+        "1 tablespoon sesame seeds"
+      ],
+      "instructions": [
+        "Heat up a large pan over medium heat. Add the vegetable oil and garlic and stir fry until fragrant.",
+        "Add the squid threads and mix and stir with a wooden spoon and a pair of tongs for a few minutes, until the squid turns a little crunchy and shiny all over.",
+        "Add the soy sauce and sugar and keep mixing and stirring until the sugar is melted and the squid turns a little curly.",
+        "Remove from the heat and sprinkle with the sesame seeds.",
+        "Serve as a side dish for rice or with beer. You can keep it in the fridge for up to 1 month."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "½ pound (226 grams) dried squid threads (ojingeo-silchae), cut into bite size pieces"
+        },
+        {
+          "tag": "li",
+          "text": "2 cloves minced garlic"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons white or brown sugar"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon sesame seeds"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Heat up a large pan over medium heat. Add the vegetable oil and garlic and stir fry until fragrant."
+        },
+        {
+          "tag": "li",
+          "text": "Add the squid threads and mix and stir with a wooden spoon and a pair of tongs for a few minutes, until the squid turns a little crunchy and shiny all over."
+        },
+        {
+          "tag": "li",
+          "text": "Add the soy sauce and sugar and keep mixing and stirring until the sugar is melted and the squid turns a little curly."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and sprinkle with the sesame seeds."
+        },
+        {
+          "tag": "li",
+          "text": "Serve as a side dish for rice or with beer. You can keep it in the fridge for up to 1 month."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

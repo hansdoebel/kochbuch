@@ -1,0 +1,43 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/basic-risotto-with-parmesan",
+  "recipes": [
+    {
+      "name": "Basic Risotto with Parmesan",
+      "source_url": "https://app.cookwell.com/recipe/basic-risotto-with-parmesan",
+      "recipe_id": "https://app.cookwell.com/recipe/basic-risotto-with-parmesan",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1-2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Butter, 28 g",
+        "Onions, 1/4",
+        "Garlic, 2 cloves",
+        "Arborio rice, 120 g",
+        "Broth, 120 g",
+        "Water, 240 g",
+        "Parmigiano Reggiano, 40 g",
+        "Butter, 14 g",
+        "Parsley, to taste",
+        "Salt, to taste",
+        "Black Pepper, to taste"
+      ],
+      "instructions": [
+        "Place butter in the pan to melt over medium-low. Grate in the onion and garlic cloves (if you don't have a grater or microplane, finely mince them with a knife instead). Sauté for 1-2 minutes until softened and fragrant.",
+        "Add the rice and stir to coat the kernels in fat and lightly toast their exterior. Add about 80% of the cooking liquid (broth & water) to the rice. Reserve the rest to adjust the consistency at the end of cooking. Turn the heat to medium-high and bring the liquid to a simmer. Stir once or twice then turn the heat to low. Cover the pan with a lid and set a timer for 10 minutes. Once the time is up, stir the rice once or twice, cover it, and set a timer for another 10 minutes.",
+        "Test the doneness of the rice. As needed, add in the remaining cooking liquid and stir until the risotto reaches your desired consistency. Add more liquid for a loose texture and less liquid (or continue reducing the risotto) for a compact and sticky texture. Add in the Parmigiano and the remaining butter and stir until creamy. Add salt, black pepper, and fresh herbs to taste. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

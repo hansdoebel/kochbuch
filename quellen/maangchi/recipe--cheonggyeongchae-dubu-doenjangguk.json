@@ -1,0 +1,136 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/cheonggyeongchae-dubu-doenjangguk",
+  "recipes": [
+    {
+      "name": "Doenjang soup with bok choy and tofu (Cheonggyeongchae...",
+      "source_url": "https://www.maangchi.com/recipe/cheonggyeongchae-dubu-doenjangguk",
+      "recipe_id": "/recipe/cheonggyeongchae-dubu-doenjangguk#sso/recipe/83919",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "8 to 10 ounces bok choy, split the leaves, rinsed, and drained",
+        "8 large dried anchovies, with the heads and guts cleaned",
+        "¼ cup doenjang (Korean fermented soybean paste)",
+        "1 tablespoon gochujang (Korean hot pepper paste)",
+        "1 tablespoon flour",
+        "Fish sauce (or salt) to taste",
+        "4 cloves garlic, minced",
+        "1 or 2 green chili peppers, sliced",
+        "1 pound tofu, cut into bite size pieces"
+      ],
+      "instructions": [
+        "Place the anchovies in a soup strainer or a stock pouch and add to a large pot. Add 8 cups of water. Cover and boil for 10 minutes over medium high heat until boiling.",
+        "Remove from the heat and uncover.",
+        "Place a wire strainer in the pot. It can be a little submerged in the stock. Add doenjang, gochujang, and flour into the strainer and break it up with a wooden spoon so that it sifts into the stock. Discard any dregs remaining in the strainer.",
+        "Add the bok choy, garlic, and green chili pepper. Cover and cook for 15 minutes over medium high heat until the anchovies are nicely infused into the stock.",
+        "Add the tofu and gently stir a few times. Cover and cook another 5 minutes over medium high heat until the tofu turns soft.",
+        "Remove the anchovy pouch.",
+        "Taste the soup and add fish sauce or salt to your taste if you think it needs it. I added 2 teaspoons of fish sauce.",
+        "Remove from the heat and serve right away with rice and side dishes."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 4"
+        },
+        {
+          "tag": "li",
+          "text": "8 to 10 ounces bok choy, split the leaves, rinsed, and drained"
+        },
+        {
+          "tag": "li",
+          "text": "8 large dried anchovies, with the heads and guts cleaned"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup doenjang (Korean fermented soybean paste)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon gochujang (Korean hot pepper paste)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon flour"
+        },
+        {
+          "tag": "li",
+          "text": "Fish sauce (or salt) to taste"
+        },
+        {
+          "tag": "li",
+          "text": "4 cloves garlic, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 or 2 green chili peppers, sliced"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound tofu, cut into bite size pieces"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Make stock:"
+        },
+        {
+          "tag": "li",
+          "text": "Place the anchovies in a soup strainer or a stock pouch and add to a large pot. Add 8 cups of water. Cover and boil for 10 minutes over medium high heat until boiling."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and uncover."
+        },
+        {
+          "tag": "li",
+          "text": "Place a wire strainer in the pot. It can be a little submerged in the stock. Add doenjang, gochujang, and flour into the strainer and break it up with a wooden spoon so that it sifts into the stock. Discard any dregs remaining in the strainer."
+        },
+        {
+          "tag": "h3",
+          "text": "Make soup:"
+        },
+        {
+          "tag": "li",
+          "text": "Add the bok choy, garlic, and green chili pepper. Cover and cook for 15 minutes over medium high heat until the anchovies are nicely infused into the stock."
+        },
+        {
+          "tag": "li",
+          "text": "Add the tofu and gently stir a few times. Cover and cook another 5 minutes over medium high heat until the tofu turns soft."
+        },
+        {
+          "tag": "li",
+          "text": "Remove the anchovy pouch."
+        },
+        {
+          "tag": "li",
+          "text": "Taste the soup and add fish sauce or salt to your taste if you think it needs it. I added 2 teaspoons of fish sauce."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and serve right away with rice and side dishes."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

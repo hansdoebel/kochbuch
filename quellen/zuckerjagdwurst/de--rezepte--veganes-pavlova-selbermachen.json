@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-pavlova-selbermachen",
+  "recipes": [
+    {
+      "name": "Veganes Pavlova",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-pavlova-selbermachen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-pavlova-selbermachen#recipe-6d39ab57-41ec-54aa-807d-043ebcbe9284",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "9 Mini-Pavlova",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT240M",
+      "ingredients": [
+        "Für das vegane Baiser:",
+        "125 g Zucker",
+        "10 g Kartoffelprotein",
+        "80 ml eiskaltes Wasser",
+        "0.5 TL Apfelessig",
+        "2 g Speisestärke",
+        "1 EL Vanilleextrakt",
+        "Für das Pavlova:",
+        "200 ml vegane Sahne zum Aufschlagen",
+        "8 g Vanillezucker",
+        "8 g Sahnesteif",
+        "150 g TK-Beeren",
+        "frische Beeren",
+        "frische Minze",
+        "Puderzucker"
+      ],
+      "instructions": [
+        "Den Zucker in einen Mixer geben (alternativ einen Mörser nutzen) und kurz mixen, damit er feiner wird. Am Ende sollte er wie grober Puderzucker sein.",
+        "Wasser und Apfelessig in eine Rührschüssel geben. Kartoffelprotein langsam einrieseln lassen, während ihr alles mit einem Handmixer oder einer Küchenmaschine aufschlagt. Sobald alles vermengt ist, für 5 Minuten quellen lassen. Den Backofen auf 90 °C (Umluft) vorheizen.",
+        "Nun mit der Küchenmaschine auf höchster Stufe 5–7 Minuten schlagen, bis sich ein fester, glänzender Schaum bildet.",
+        "Den feinen Zucker esslöffelweise dazugeben, während ihr weiter aufschlagt. Insgesamt nochmals 5–7 Minuten schlagen, bis die Masse steif und glatt ist. Reibt am Ende ein wenig Schaum zwischen zwei Fingern – wenn er nicht mehr körnig ist, hat sich der Zucker gut aufgelöst.",
+        "Nun Speisestärke und Vanilleextrakt nur noch kurz und vorsichtig unterrühren. Das vegane Baiser als neun Portionen auf ein mit Backpapier belegtes Blech geben und kleine Mulden formen. Für 90–100 Minuten bei 90 °C (Umluft) backen. Danach den Ofen ausschalten und bei offener Tür 1 Stunde abkühlen lassen. Im Anschluss direkt luftdicht verpacken, sonst wird der Baiser weich und klebrig.",
+        "In der Zwischenzeit vegane Sahne mit Sahnesteif und Vanillezucker aufschlagen und die gefrorenen Beeren in einem Topf aufkochen und ggf. pürieren.",
+        "Das abgekühlte Baiser mit veganer Schlagsahne, Beerensoße, frischen Beeren, Minze und Puderzucker dekorieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

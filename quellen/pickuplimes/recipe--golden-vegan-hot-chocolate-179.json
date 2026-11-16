@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/golden-vegan-hot-chocolate-179",
+  "recipes": [
+    {
+      "name": "Golden Vegan Hot Chocolate",
+      "source_url": "https://www.pickuplimes.com/recipe/golden-vegan-hot-chocolate-179",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT05M",
+      "total_time": "PT10M",
+      "ingredients": [
+        "2 cup unsweetened soy milk",
+        "3 Medjool date",
+        "2 Tbsp Dutch-process cocoa powder",
+        "1 tsp ground cinnamon",
+        "¼ tsp ground turmeric",
+        "¼ tsp pure vanilla extract",
+        "1 pinch ground nutmeg",
+        "1 pinch ground black pepper"
+      ],
+      "instructions": [
+        "Add all the ingredients to a blender, and blend until smooth*.",
+        "Transfer to a saucepan and bring to a gentle simmer over medium-high heat. Stir continuously to prevent scorching the milk.",
+        "When heated through, remove from heat, transfer into your desired cups and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium . * The dates provide natural sweetness, but also add a slight graininess to the drink. For a smoother texture, use maple syrup instead and omit the blender. Simply add the ingredients to the saucepan.",
+    "Storage Best enjoyed immediately."
+  ]
+}

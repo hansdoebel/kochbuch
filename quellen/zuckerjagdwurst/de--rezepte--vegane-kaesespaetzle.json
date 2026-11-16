@@ -1,0 +1,62 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kaesespaetzle",
+  "recipes": [
+    {
+      "name": "Vegane Käsespätzle",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kaesespaetzle",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kaesespaetzle#recipe-b90a5062-cb74-5b08-8dd6-fc90d20a6fbd",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für die Röstzwiebeln:",
+        "2 Zwiebeln",
+        "2 EL Weizenmehl (Type 550)",
+        "neutrales Pflanzenöl oder Frittieröl",
+        "Für die Spätzle:",
+        "300 g Weizenmehl (Type 550)",
+        "3 EL Hartweizengrieß",
+        "1.5 EL Maisgrieß",
+        "3 TL Salz",
+        "1.5 EL Pflanzenöl",
+        "375 ml Sprudelwasser",
+        "Für die Soße:",
+        "1 Zwiebel",
+        "100 ml vegane Sahne",
+        "150 g veganer Streukäse",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "Pflanzenöl zum Braten",
+        "Für die Speck-Alternative:",
+        "200 g Räuchertofu (oder vegane Speckwürfel)",
+        "0.5 TL Sojasoße",
+        "Öl zum Braten",
+        "Zum Servieren:",
+        "Schnittlauch",
+        "Blattsalat"
+      ],
+      "instructions": [
+        "Für die Röstzwiebeln Zwiebeln schälen, nach Wunsch halbieren und in (Halb-)Ringe schneiden. In einer Schüssel mit Mehl vermengen, damit sie rundum bedeckt sind. Reichlich neutrales Pflanzenöl in einer Pfanne erhitzen und die Zwiebelringe darin frittieren, bis sie knusprig sind. Anschließend aus dem Fett nehmen und auf Küchenpapier abtropfen lassen.",
+        "Räuchertofu würfeln und in einer Pfanne mit Pflanzenöl anbraten, bis er gut gebräunt ist. Mit Sojasoße würzen, danach beiseitestellen. Wenn ihr keinen Räuchertofu mögt, gibt es mittlerweile auch vegane Speckwürfel, die ihr anbraten könnt.",
+        "Für den Spätzleteig Mehl, Hartweizengrieß, Maisgrieß und Salz vermengen. Danach Pflanzenöl und Sprudelwasser dazugeben und alles zu einem glatten Teig verrühren. Wenige Minuten ruhen lassen.",
+        "In der Zwischenzeit die Zwiebel für die Soße schälen und fein würfeln. Pflanzenöl in einer Pfanne erwärmen und die Zwiebelwürfel 3–4 Minuten anschwitzen, bis sie glasig sind. Vegane Sahne dazugeben und den veganen Streukäse einrühren, bis er geschmolzen ist. Die Soße mit Salz, Pfeffer und Muskat würzen und bei kleiner Hitze warmhalten.",
+        "Einen großen Topf mit leicht gesalzenem Wasser erhitzen, aber nicht zum Kochen bringen. Den Spätzleteig mit einer Presse, einem Spätzleschaber oder einem Holzbrett, von dem ihr die Spätzle schabt, direkt ins siedende Wasser geben.",
+        "Sobald die Spätzle an der Oberfläche schwimmen, mit einer Schöpfkelle herausnehmen und direkt in die vegane Käsesoße geben. Alles kurz durchschwenken und nochmal abschmecken.",
+        "Die veganen Käsespätzle mit den Räuchertofu-Würfeln, knusprigen Zwiebeln und fein gehacktem Schnittlauch toppen und dazu einen Beilagensalat servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

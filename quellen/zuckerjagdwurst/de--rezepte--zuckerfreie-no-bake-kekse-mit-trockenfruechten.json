@@ -1,0 +1,37 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/zuckerfreie-no-bake-kekse-mit-trockenfruechten",
+  "recipes": [
+    {
+      "name": "No-Bake-Kekse mit Trockenfrüchten",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/zuckerfreie-no-bake-kekse-mit-trockenfruechten",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/zuckerfreie-no-bake-kekse-mit-trockenfruechten#recipe-e7556496-4587-5660-88ac-c44adeea6897",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 20 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT130M",
+      "ingredients": [
+        "200 g Datteln",
+        "100 g getrocknete Aprikosen",
+        "50 g getrocknete Cranberrys",
+        "100 g Haferflocken",
+        "0.5 TL Meersalz",
+        "1 EL Lebkuchengewürz"
+      ],
+      "instructions": [
+        "Alle Zutaten gemeinsam in einen Zerkleinerer geben und mind. 1 Minute auf hoher Stufe vermengen, bis ein klebriger Teig entsteht, der sich gut formen lässt.",
+        "Zu kleinen Kugeln formen und diese leicht flach drücken. Im Kühlschrank mind. 2 Std. kühlen lassen, ihr könnt sie aber locker bis zum Servieren drin lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

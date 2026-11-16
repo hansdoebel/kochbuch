@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-mohnkuchen",
+  "recipes": [
+    {
+      "name": "Veganer Mohnkuchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-mohnkuchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-mohnkuchen#recipe-00a5e870-1583-58a7-b04f-e9122a957570",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (Ø 18 cm für eine besonders dicke Mohnschicht, oder Ø 26 cm für eine normal dicke Mohnschicht)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "Für den Teig:",
+        "500 g Weizenmehl (Type 405)",
+        "5 EL Zucker",
+        "0.5 Zitrone (Abrieb)",
+        "1 Prise Salz",
+        "250 g kalte vegane Butter",
+        "ca. 100 ml kaltes Wasser",
+        "Für die Füllung:",
+        "750 ml pflanzliche Milch",
+        "150 g Weichweizengrieß",
+        "37 g veganes Vanillepuddingpulver",
+        "150 g Zucker",
+        "300 g gemahlener Mohn",
+        "50 g vegane Butter",
+        "Für die Glasur:",
+        "100 g Puderzucker",
+        "ca. 2 EL Zitronensaft / Wasser",
+        "Außerdem:",
+        "vegane Butter zum Einfetten",
+        "Mehl zum Bestäuben"
+      ],
+      "instructions": [
+        "Für den Mürbeteig Weizenmehl, Zucker, Zitronenabrieb und Salz in einer großen Schüssel vermengen. Kalte vegane Butter in Flocken darübergeben und mit kalten Händen in die Mehlmischung einarbeiten, bis eine feinkrümelige Mischung entsteht. Kaltes Wasser nach und nach dazugeben und verkneten, bis ihr einen geschmeidigen Teig habt, der nicht klebt.",
+        "Eine Springform mit veganer Butter einfetten und bemehlen. Ca. zwei Drittel des Teigs zu einem Kreis ausrollen, der so groß ist, dass er den Boden und Rand der Springform bedeckt. Den Teig vorsichtig in die Form legen, leicht festdrücken und 30 Minuten im Kühlschrank ruhen lassen. Den restlichen Teig ebenfalls in den Kühlschrank stellen.",
+        "In der Zwischenzeit für die Füllung pflanzliche Milch erhitzen, bis sie warm ist. Weichweizengrieß einrühren und 2–3 Minuten erhitzen, bis die Mischung andickt. Vanillepuddingpulver, Zucker und gemahlenen Mohn dazugeben und unter Rühren 4–5 Minuten erhitzen. Den Topf vom Herd nehmen, vegane Butter einrühren und die Füllung abkühlen lassen, bis der Mürbeteig ausreichend lang im Kühlschrank lag.",
+        "Den Backofen auf 180 °C (Umluft) vorheizen. Die Mohnfüllung auf dem Teig in der Form verteilen. Den restlichen Mürbeteig als Streusel darübergeben. Den Kuchen 50–60 Minuten backen. Sollten die Streusel zu dunkel werden, die Form einfach abdecken. Nach dem Backen abkühlen lassen.",
+        "Für die Glasur Puderzucker nach und nach mit Zitronensaft verrühren, bis ein dickflüssiger Zuckerguss entsteht. Den Guss über den Streuseln verteilen und noch wenige Minuten warten, bis er getrocknet ist."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

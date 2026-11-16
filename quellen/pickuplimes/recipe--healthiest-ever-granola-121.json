@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/healthiest-ever-granola-121",
+  "recipes": [
+    {
+      "name": "Healthiest Ever Granola",
+      "source_url": "https://www.pickuplimes.com/recipe/healthiest-ever-granola-121",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "13 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT30M",
+      "total_time": "PT40M",
+      "ingredients": [
+        "3 cup rolled oats",
+        "½ cup raw almonds",
+        "½ cup raw cashews",
+        "½ cup raisins",
+        "¼ cup dried cranberries",
+        "¼ cup raw sunflower seeds",
+        "¼ cup raw pumpkin seeds",
+        "¼ cup unsweetened shredded coconut",
+        "½ tsp ground cinnamon",
+        "¼ tsp salt",
+        "1 cup Medjool date",
+        "½ cup tahini",
+        "¼ cup water"
+      ],
+      "instructions": [
+        "Line a baking tray and preheat the oven to 300°F (150°C)*.",
+        "In a large bowl, combine all the dry ingredients.",
+        "In a small food processor, blend all the wet ingredients until smooth.**",
+        "Add the date mixture to the bowl of dry ingredients and mix until well combined.",
+        "Spread the granola evenly on the baking tray. Bake on the centre rack of the oven for 25 to 30 minutes, stirring once or twice throughout.",
+        "Once lightly golden, remove the granola from the oven. Let cool completely, then transfer to an airtight container or large glass storage jar. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection). ** Tahini consistency can vary between brands—some are thick, while others are thin. If your tahini is on the thicker side, consider adding a small splash more water to reach the desired consistency. However, be cautious not to add too much water, as this can result in overly soft granola when stored.",
+    "Storage Store sealed on the counter for up to 2 weeks."
+  ]
+}

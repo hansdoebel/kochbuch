@@ -1,0 +1,65 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/makkaroni-pie-mit-veganen-hackbaellchen",
+  "recipes": [
+    {
+      "name": "Makkaroni-Pie mit veganen Hackbällchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/makkaroni-pie-mit-veganen-hackbaellchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/makkaroni-pie-mit-veganen-hackbaellchen#recipe-5565cf81-d1e4-53dd-89c4-0c2b1911b62d",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Springform (⌀ 24 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT80M",
+      "ingredients": [
+        "Für den Auflauf:",
+        "500 g Makkaroni",
+        "500 g (für ca. 30 vegane Bällchen) frisches veganes Hack",
+        "Für die Tomatensoße:",
+        "1 große Zwiebel",
+        "2 Knoblauchzehen",
+        "1 Paprikaschote",
+        "250 g Kirschtomaten",
+        "1 TL getrockneten Basilikum",
+        "1 TL getrockneten Oregano",
+        "0.5 TL edelsüßes Paprikapulver",
+        "0.25 TL Cayennepfeffer",
+        "3 EL Tomatenmark",
+        "1 TL Agavendicksaft (oder Zucker)",
+        "400 g stückige Tomaten aus der Dose",
+        "Salz",
+        "Pfeffer",
+        "Pflanzenöl zum Braten",
+        "Für den cremigen Mix:",
+        "200 g veganen Streukäse",
+        "125 ml Wasser",
+        "250 ml pflanzliche Sahne",
+        "2 EL Hefeflocken",
+        "100 g veganer Frischkäse",
+        "40 g Sojamehl",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "Basilikum zum Servieren"
+      ],
+      "instructions": [
+        "Zwiebel und Knoblauch schälen und fein würfeln. Die Paprika ebenfalls fein würfeln. Kirschtomaten halbieren oder vierteln.",
+        "Pflanzenöl in einer großen Pfanne erhitzen und zuerst die Zwiebelwürfel anschwitzen, bis sie glasig sind. Knoblauch dazugeben und ca. 1 Minute weiter anbraten, danach die Paprikawürfel, getrockneten Basilikum, Oregano, Paprikapulver, Cayennepfeffer, Salz und Pfeffer dazugeben und alles ca. 5 Minuten anbraten. Tomatenmark und Agavendicksaft dazugeben, vermengen und 2-3 Minuten erhitzen. Dann stückige Tomaten aus der Dose und Kirschtomaten dazugeben und die Soße köcheln lassen, bis die Nudeln fertig sind.",
+        "Einen Topf mit gesalzenem Wasser zum Kochen bringen und die Makkaroni nach Packungsangabe al dente kochen. Vor dem Abgießen ca. 100 ml Kochwasser abschöpfen.",
+        "Für den cremigen Mix veganen Streukäse, Wasser, pflanzliche Sahne, Hefeflocken und veganen Frischkäse in einen kleinen Topf geben, verrühren und köcheln lassen, bis der vegane Käse fast komplett geschmolzen ist. Mit Salz und Pfeffer würzen. Dann vom Herd nehmen, das Sojamehl einrühren und den Mix beiseitestellen.",
+        "Den Backofen auf 200°C (Umluft) vorheizen. Gekochte Nudeln, Tomatensoße und die Hälfte vom cremigen Mix vermengen. Dabei das Kochwasser der Nudeln dazugeben, bis alles zu einer sämigen Soße wird.",
+        "Die Nudeln in eine mit Öl eingefettete Springform geben und den restlichen cremigen Mix darüber verteilen, sodass bestenfalls jede Makkaroni bedeckt ist. Das vegane Hackfleisch zu ca. 30 Fleischbällchen rollen, auf dem Makkaroni-Pie verteilen und vorsichtig bis zur Hälfte in den Pie drücken.",
+        "Den Makkaroni-Pie bei 200°C ca. 15-20 Minuten backen. Danach den Ofen ausschalten, die Ofentür öffnen und den Pie noch in der Form ca. 15 Minuten stehen und anziehen lassen. Danach vorsichtig aus der Form lösen, mit frischer gehacktem Basilikum bestreuen und anschneiden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

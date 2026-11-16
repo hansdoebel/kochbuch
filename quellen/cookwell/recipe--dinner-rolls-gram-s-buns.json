@@ -1,0 +1,44 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/dinner-rolls-gram-s-buns",
+  "recipes": [
+    {
+      "name": "Dinner Rolls (Gram's Buns)",
+      "source_url": "https://app.cookwell.com/recipe/dinner-rolls-gram-s-buns",
+      "recipe_id": "https://app.cookwell.com/recipe/dinner-rolls-gram-s-buns",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "8 rolls",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT2H40M",
+      "ingredients": [
+        "All-purpose flour, 300 g",
+        "Milk, 160 g",
+        "Butter, 56 g",
+        "Sugar, 50 g",
+        "Instant yeast, 6 g",
+        "Salt, 6 g",
+        "Eggs, 1",
+        "Butter",
+        "Flaky salt",
+        "Rosemary"
+      ],
+      "instructions": [
+        "Warm the milk in the microwave until lukewarm (100°F/38°C). Add the yeast and stir until dissolved. Let stand for 5-10 minutes until light foam surfaces and little bubbles are visible. Note: Proofing is done to test the viability of the yeast. If there is no foam surface or little bubbles the yeast is likely dead and should be discarded. Meanwhile, mix the flour, salt, and sugar in a large bowl.",
+        "Pour the yeast and milk mixture into the dry ingredients along with the beaten egg. Mix the dough with your hands until a shaggy dough forms. It will be very sticky. Add in the softened butter and knead the butter into the dough until it’s completely incorporated, about 5 minutes. If you have a stand mixer, feel free to use it during this step.",
+        "Once incorporated, sprinkle some flour on the work surface and turn the dough out. Flatten the dough a bit and fold it into itself. Flip the dough over and shape it into a ball by tightening and pulling against the work surface. The dough should feel light, soft, and smooth. Place back in the bowl and cover. Let rise until doubled in size, about 60 to 90 minutes.",
+        "Once the dough has risen and doubled in size take it out and divide it into 8, ~70 gram pieces. Form them into a ball by tightening and pulling on them on the work surface. Place on a greased baking sheet and cover. Let rise until doubled in size, another 60 to 90 minutes.",
+        "Preheat the oven to 400°F/204°C. Place the buns in the oven and bake for about 10 minutes. They should be golden brown on top and lightly browned on the bottom. Optionally, check the internal temp, which should be at least 203°F/95°C. Once your buns are golden brown and fluffy, take them out and lightly brush them with melted butter over top. Optionally garnish with flakey salt or chopped rosemary. These are best enjoyed warm."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

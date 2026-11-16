@@ -1,0 +1,51 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/jamaican-oxtail-stew",
+  "recipes": [
+    {
+      "name": "Jamaican Oxtail Stew",
+      "source_url": "https://app.cookwell.com/recipe/jamaican-oxtail-stew",
+      "recipe_id": "https://app.cookwell.com/recipe/jamaican-oxtail-stew",
+      "authors": [
+        "Cook Well Official"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT3H30M",
+      "ingredients": [
+        "Oxtails, 1000 g",
+        "Salt",
+        "Cooking oil, a drizzle",
+        "Onions, 1/2",
+        "Garlic, 2-5 cloves",
+        "Scallions, 1 bunch",
+        "Scotch bonnets, 1-3",
+        "Fresh ginger, A 2\" knob",
+        "Black Pepper, a spoonful",
+        "Allspice, a spoonful",
+        "Ketchup, a spoonful",
+        "Browning sauce, a spoonful",
+        "Water, enough to submerge",
+        "Salt, to taste",
+        "Butter beans, a 14 oz can",
+        "Scallions",
+        "Thyme"
+      ],
+      "instructions": [
+        "Generously season the oxtail pieces with a sprinkle of salt on each side. Add a drizzle of cooking oil to a braising pot over high heat. In batches, sear the oxtail chunks on each side until well browned. Once all oxtails are seared, set them aside.",
+        "Add all aromatics and spices to the pot to bloom over medium heat until they begin to soften and go fragrant. Scrape to deglaze any browned bits on the bottom of the pot (add a splash of water to prevent burning, if needed). Add in reserved, seared oxtails.",
+        "Add in the ketchup and browning sauce, and stir in with the meat & aromatic base until the oxtail chunks are well coated. Add in the water or broth until everything is submerged. Add a sprinkle of salt to season the liquid. Bring the pot to a simmer, and then reduce the heat to low.",
+        "Let the pot simmer on the stovetop, partially covered, for a 2-3 hour braise or until the meat is tender. Add in the butter beans and thyme sprigs and simmer for an additional, final 20 minutes, uncovered. The braising liquid should reduce and thicken a bit during this final cooking stage. Stir as needed to prevent burning.",
+        "Taste the braising liquid & a small piece of meat. Adjust with more salt, if needed. Turn off the heat and let the braise cool for about an hour. This dish can be served immediately or reheated throughout the week. Garnish with sliced green scallion tops."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

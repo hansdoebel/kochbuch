@@ -1,0 +1,44 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/gochujang-steak-bowl",
+  "recipes": [
+    {
+      "name": "Gochujang Steak Bowl",
+      "source_url": "https://app.cookwell.com/recipe/gochujang-steak-bowl",
+      "recipe_id": "https://app.cookwell.com/recipe/gochujang-steak-bowl",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT1H30M",
+      "ingredients": [
+        "Steak of choice, 454 g",
+        "Onions, 1",
+        "Fresh ginger, 1 inch piece",
+        "Garlic, 6-7 cloves",
+        "Salt, a sprinkle",
+        "Ponzu, a drizzle",
+        "Soy Sauce, a spoonful",
+        "Gochujang, a spoonful",
+        "Cooked rice, 2-3 portions",
+        "Scallions, a handful",
+        "Sesame Oil, a drizzle",
+        "Sesame Seeds, a sprinkle"
+      ],
+      "instructions": [
+        "Grind the garlic, ginger, and salt together in a mortar & pestle. Pro tip: You could mince, blend, or grate the aromatics for a similar result. Combine the ponzu, soy sauce, gochujang, and salt into the ginger & garlic. Add the sliced steak and onions to the marinade and mix it all up. Let this marinate for an hour or up to 24 hours. While the steak is marinating, steam some rice to have for serving.",
+        "Set a wok or large skillet over medium-high heat. Add a drizzle of oil and add a small batch of the steak to the wok. Let the pieces sear and develop a nice brown crust before flipping it over and stir-frying until cooked through. Cook in batches until all of the remaining steak is cooked. Once all of the steak is cooked, set aside and add the sesame oil & seeds for a boost of aroma.",
+        "To assemble, add a serving of cooked rice and steak to a bowl. Add in some leftover vegetables if you wish. I had leftover asparagus, but any cooked vegetable would work great here. Garnish with the sliced green onion and enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

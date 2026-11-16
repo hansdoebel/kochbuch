@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/pistachio-cranberry-energy-balls-193",
+  "recipes": [
+    {
+      "name": "Pistachio & Cranberry Energy Balls",
+      "source_url": "https://www.pickuplimes.com/recipe/pistachio-cranberry-energy-balls-193",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "15 energy balls",
+      "prep_time": "PT20M",
+      "cook_time": "PT10M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "1 cup Medjool date",
+        "2 Tbsp ground flaxseeds",
+        "3 Tbsp water",
+        "1 cup rolled oats",
+        "½ cup raw shelled pistachios",
+        "½ cup raw cashews",
+        "⅓ cup dried cranberries",
+        "¼ cup dairy-free dark chocolate chips",
+        "2 Tbsp maple syrup",
+        "1 tsp pure vanilla extract",
+        "¼ tsp ground cinnamon",
+        "1 pinch salt"
+      ],
+      "instructions": [
+        "Line a baking tray and preheat the oven to 350°F (180°C)*.",
+        "While the oven preheats, mash the dates with a fork in a large bowl until smooth. Alternatively, blend in a food processor.",
+        "Then add the ground flaxseeds and water to the dates, mix, and set aside.",
+        "Add the oats and nuts (if not pre-roasted) to the baking tray. Bake for 8 to 10 minutes, or until lightly golden, stirring once halfway.",
+        "Remove the oats and nuts from the oven and let cool, then finely chop**. Transfer to the large bowl containing the date mixture.",
+        "Add the remaining ingredients to the bowl as well. Mix until well combined.",
+        "Roll into bite-size balls. Wetting your hand with a bit of water may help to prevent sticking. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection). ** Alternatively, pulse a few times in a food processor.",
+    "Storage Store in an airtight container in the fridge for up to 1 week. Store in the freezer for up to 2 months."
+  ]
+}

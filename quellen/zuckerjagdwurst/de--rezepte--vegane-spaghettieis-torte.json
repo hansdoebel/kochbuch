@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-spaghettieis-torte",
+  "recipes": [
+    {
+      "name": "Vegane Spaghettieis-Torte",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-spaghettieis-torte",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-spaghettieis-torte#recipe-3b4843e4-1110-56e1-b5a7-2902ae28d97b",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Springform (∅ 18 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "Für den Kuchenboden:",
+        "225 g Weizenmehl Typ 405 oder Dinkelmehl Typ 630",
+        "100 g Zucker",
+        "1 TL (5 g) Backpulver",
+        "1.5 TL (8 g) Vanillezucker",
+        "250 ml Sprudelwasser",
+        "50 ml neutrales Pflanzenöl",
+        "vegane Butter zum Einfetten",
+        "Außerdem:",
+        "100 ml vegane Sahne zum Aufschlagen",
+        "2 TL (8 g) Sahnesteif",
+        "1.5 TL (8 g) Vanillezucker",
+        "900 ml veganes Vanilleeis",
+        "250 g gefrorene Erdbeeren",
+        "50 g vegane weiße Schokolade"
+      ],
+      "instructions": [
+        "Den Backofen auf 180°C (Umluft) vorheizen. Für den Kuchenboden Mehl, Zucker, Backpulver und Vanillezucker in einer großen Schüssel verrühren. Anschließend das Sprudelwasser und Öl hinzugeben und nur noch kurz unterrühren, bis kein trockenes Mehl mehr zu sehen ist.",
+        "Eine Kuchenform (∅ 18 cm) mit veganer Butter einfetten und den Teig hineinfüllen. Auf mittlerer Schiene für etwa 30 Minuten bei 180°C backen und ggf. mit Alufolie abdecken, sobald der Kuchen zu dunkel wird. Mit einem Stäbchen testen, ob der Teig durch ist – dafür wird ein Zahnstocher leicht schräg in den Kuchenboden gestochen und wieder herausgezogen. Bleiben keine Teigreste an ihm kleben, ist der Kuchen durchgebacken. Den Kuchen aus dem Ofen nehmen und komplett abkühlen lassen.",
+        "Während der Kuchen abkühlt, die vegane Sahne mit Sahnesteif und Vanillezucker aufschlagen und kalt stellen. Die gefrorenen Erdbeeren in einem kleinen Topf einkochen, bis sie weich sind.. Im Anschluss zu einer glatten Soße pürieren und ebenfalls abkühlen lassen. Die vegane weiße Schokolade raspeln.",
+        "Den abgekühlten Kuchenboden ggf. mit einem Messer oder Tortenbodenschneider begradigen und einen Tortenring (oder den Ring der Backform) um den Kuchen schließen. Die vegane Schlagsahne gleichmäßig auf dem Boden verstreichen und das vegane Vanilleeis mithilfe einer Spätzlepresse darauf verteilen. Den Kuchen nun für mindestens 1 Stunde in das Gefrierfach stellen.",
+        "Kurz vor dem Servieren den Kuchen aus dem Gefrierfach nehmen und mit Erdbeersoße und der geraspelten weißen Schokolade toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

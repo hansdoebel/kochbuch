@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/pink-lemonade-24",
+  "recipes": [
+    {
+      "name": "Pink Lemonade",
+      "source_url": "https://www.pickuplimes.com/recipe/pink-lemonade-24",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "5 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT05M",
+      "total_time": "PT01H10M",
+      "ingredients": [
+        "1½ cup frozen raspberries",
+        "¼ cup maple syrup",
+        "4 lemon",
+        "4 cup cold water",
+        "2 cup ice cubes"
+      ],
+      "instructions": [
+        "Add the raspberries and maple syrup to a saucepan, cooking for 3 to 4 minutes at a gentle simmer.",
+        "As the raspberries start to soften, use the back of a wooden spatula or tamper to mash them.",
+        "Place a sieve over a pitcher to strain the raspberry mixture, using the back of a spoon to press out as much liquid as possible. Let this liquid cool off completely, ideally in the fridge.",
+        "When cooled, stir in the lemon juice and water.",
+        "Add ice to glasses, and pour in the lemonade. Taste test and add more maple syrup to taste if too tart. Garnish, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † If the drink is too tart from the lemons, add more maple syrup to balance it out.",
+    "Storage The pink lemonade can be stored in an air-tight mason jar or glass bottle for up to 2 - 3 days."
+  ]
+}

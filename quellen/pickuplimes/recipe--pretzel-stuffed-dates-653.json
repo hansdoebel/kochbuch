@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/pretzel-stuffed-dates-653",
+  "recipes": [
+    {
+      "name": "Pretzel Stuffed Dates",
+      "source_url": "https://www.pickuplimes.com/recipe/pretzel-stuffed-dates-653",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "12 dates",
+      "prep_time": "PT08M",
+      "cook_time": "",
+      "total_time": "PT08M",
+      "ingredients": [
+        "12 Medjool date",
+        "6 pretzel stick",
+        "2 Tbsp natural peanut butter"
+      ],
+      "instructions": [
+        "Using a sharp paring knife, make an incision along the length of each date, but try not to cut the date in half.",
+        "Remove the pits from the dates.",
+        "Break apart the pretzel and place the pieces inside the empty dates.",
+        "Dollop the peanut butter over the pretzel.",
+        "If desired, drizzle the filled dates with melted chocolate and a sprinkle of sea salt. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store these dates at room temperature in an airtight container for up to 3 days, or in the fridge for up to 2 weeks. Note that if not enjoyed the same day, the pretzels will likely lose their crunch."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-brokkolisuppe",
+  "recipes": [
+    {
+      "name": "Vegane Brokkolisuppe",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-brokkolisuppe",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-brokkolisuppe#recipe-0b5bb489-8f39-568f-acaf-2f499f6ec1f5",
+      "authors": [
+        "Gesine Fiedler"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für die Suppe",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "500 g Brokkoli",
+        "400 g mehligkochende Kartoffeln",
+        "750 ml Gemüsebrühe",
+        "400 ml Kokosmilch",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "neutrales Pflanzenöl zum Braten",
+        "Für die Croûtons",
+        "100 g altes Brot",
+        "50 g Kokoschips",
+        "neutrales Pflanzenöl zum Braten",
+        "Meersalz"
+      ],
+      "instructions": [
+        "Zwiebel und Knoblauch schälen und grob würfeln. Brokkoli waschen und Röschen und Strunk in kleine Stücke schneiden. Kartoffeln schälen und würfeln.",
+        "In einem großen Topf etwas neutrales Pflanzenöl erhitzen, Zwiebeln und Knoblauch darin glasig dünsten, Brokkoli und Kartoffeln hinzugeben und 5 Minuten unter Rühren mitdünsten. Mit Gemüsebrühe und Kokosmilch aufgießen und circa 20 Minuten köcheln lassen. Wenn das Gemüse gar ist, die Suppe glatt und cremig pürieren. Mit Salz, Pfeffer und Muskat kräftig abschmecken.",
+        "Brot in kleine Würfel schneiden, Öl in einer großen Pfanne erhitzen und die Würfel mit Kokoschips darin rundherum knusprig braun braten. Auf Küchenpapier abtropfen lassen, in eine Schüssel geben und mit Meersalz würzen.",
+        "Die Suppe auf Tellern anrichten, dann mit dem knusprigen Brot-Kokos-Mix bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

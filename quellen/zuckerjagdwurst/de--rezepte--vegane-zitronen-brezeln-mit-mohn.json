@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-zitronen-brezeln-mit-mohn",
+  "recipes": [
+    {
+      "name": "Vegane Zitronen-Brezeln mit Mohn",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-zitronen-brezeln-mit-mohn",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-zitronen-brezeln-mit-mohn#recipe-f42fb9e1-a37d-5c52-bef6-87e87c6454e4",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 20 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "175 g Mehl",
+        "75 g Kokosnusszucker",
+        "1 Zitrone",
+        "3 EL Mohn",
+        "0.25 TL Salz",
+        "150 g kalte vegane Butter",
+        "150 g Puderzucker",
+        "Mohn zum Bestreuen"
+      ],
+      "instructions": [
+        "Zucker, Salz, Mohn und Zitronenabrieb vermengen. Kalte vegane Butter in Würfeln dazugeben und vermengen. Mehl dazugeben zu alles einem glatten Teig vermengen.",
+        "Den Teig zu einer Rolle formen und in Frischhaltefolie wickeln und ca. 30 Minuten im Kühlschrank ruhen lassen.",
+        "Backofen auf 180°C vorheizen. Den gekühlten Teig in ca. 20 Scheiben teilen und jede Scheibe zunächst zu einer langen Rolle formen und anschließend zu einer Brezel eindrehen.",
+        "Die Kekse auf ein mit Backpapier ausgelegtes Backblech legen und ca. 6 Minuten bei 180°C backen. Anschließend herausnehmen und abkühlen lassen.",
+        "In der Zwischenzeit Puderzucker und so viel Zitronensaft vermengen, bis ein dicker Zuckerguss entsteht. Die abgekühlten Zitronen-Brezeln damit bestreichen und zum Schuss mit Mohn bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,93 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/gim-muchim",
+  "recipes": [
+    {
+      "name": "Seasoned seaweed (Gim-muchim: 김무침)",
+      "source_url": "https://www.maangchi.com/recipe/gim-muchim",
+      "recipe_id": "/recipe/gim-muchim#sso/recipe/90753",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "10 toasted, unseasoned seaweed sheets (gim)",
+        "2 garlic cloves, minced",
+        "2 green onions, chopped",
+        "1 tablespoon soy sauce",
+        "1 tablespoon toasted toasted sesame oil",
+        "1 teaspoon sugar (optional)",
+        "1 tablespoon toasted sesame seeds, plus a little extra for garnish"
+      ],
+      "instructions": [
+        "In a large bowl, mix the seasoning sauce ingredients together until well incorporated.",
+        "Tear the sheets of gim with your hands into small pieces over the seasoning sauce and gently toss all together.",
+        "Transfer to a serving plate or bowl. Serve with rice and other side dishes, or pack in a lunchbox."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "10 toasted, unseasoned seaweed sheets (gim)"
+        },
+        {
+          "tag": "h3",
+          "text": "For seasoning sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "2 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "2 green onions, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon sugar (optional)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame seeds, plus a little extra for garnish"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "In a large bowl, mix the seasoning sauce ingredients together until well incorporated."
+        },
+        {
+          "tag": "li",
+          "text": "Tear the sheets of gim with your hands into small pieces over the seasoning sauce and gently toss all together."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer to a serving plate or bowl. Serve with rice and other side dishes, or pack in a lunchbox."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

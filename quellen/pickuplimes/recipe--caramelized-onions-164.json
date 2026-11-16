@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/caramelized-onions-164",
+  "recipes": [
+    {
+      "name": "Caramelized Onions",
+      "source_url": "https://www.pickuplimes.com/recipe/caramelized-onions-164",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT01H00M",
+      "total_time": "PT01H05M",
+      "ingredients": [
+        "4 medium yellow onion",
+        "1 Tbsp vegetable oil",
+        "¼ tsp salt",
+        "1 Tbsp water"
+      ],
+      "instructions": [
+        "Slice the onion thinly and as uniformly as possible so that all of the onions cook evenly.",
+        "Drizzle the oil in a heavy-bottomed pan over medium-high heat. When hot, drop the heat to medium and add the onions*. Add as many onions as fits in a single layer in the pan, but try not to overfill.",
+        "Stir the onion in the oil, and then let sit to cook for 50 to 60 minutes, stirring once every 10 minutes. Don't over-stir. About halfway through cooking, add the salt. This helps to draw any additional water out of the onions.",
+        "If the pan is looking very caramelized on the bottom, consider adding a splash of water, only if needed, to deglaze the pan.",
+        "When the onions are golden, remove them from the heat and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * Ensure the heat of the pan is not too high. The longer the onions can caramelize at a lower temperature, the better.",
+    "Storage Store in an airtight container in the fridge for up to 4 days."
+  ]
+}

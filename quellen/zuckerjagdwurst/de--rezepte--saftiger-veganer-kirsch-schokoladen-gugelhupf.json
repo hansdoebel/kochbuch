@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/saftiger-veganer-kirsch-schokoladen-gugelhupf",
+  "recipes": [
+    {
+      "name": "Saftiger, veganer Kirsch-Schokoladen-Gugelhupf",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/saftiger-veganer-kirsch-schokoladen-gugelhupf",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/saftiger-veganer-kirsch-schokoladen-gugelhupf#recipe-727647ee-bf70-506f-9786-73c9c13637d4",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT75M",
+      "ingredients": [
+        "Für den Teig:",
+        "350 g frische Kirschen",
+        "340 g Mehl",
+        "40 g Kakaopulver (ungesüßt)",
+        "175 g weißer Zucker",
+        "12 g Backpulver",
+        "8 g Vanillezucker (1 Tütchen)",
+        "330 ml Sprudelwasser",
+        "100 ml pflanzliches Öl (Raps- oder Sonnenblumenöl)",
+        "50 g Zartbitter-Schokotröpfchen",
+        "pflanzliche Butter zum Einfetten",
+        "Kakaopulver oder Mehl zum Ausklopfen",
+        "Für die Dekoration:",
+        "50 g frische Kirschen",
+        "250 g Zartbitterschokolade"
+      ],
+      "instructions": [
+        "Den Ofen auf 180°C Umluft vorheizen. Die Kirschen waschen und die Stiele entfernen. Mit einem Essstäbchen oder einem Strohhalm aus Glas oder Metall die Kerne aus den Kirschen drücken.",
+        "In einer Schüssel Mehl, Kakaopulver, Zucker, Backpulver und Vanillezucker mischen. Das Sprudelwasser und Öl hinzugeben und zu einem glatten Teig verrühren. Nur so wenig wie möglich rühren, ansonsten wird der Kuchen nicht fluffig! Die Zartbitter-Schokotröpfchen und die Kirschen unterheben.",
+        "Eine Gugelhupfform aus Silikon mit den Maßen 25 x 9 cm (oder eine normale Gugelhupf-Backform) mit pflanzlicher Butter einfetten. Ist eure Form nicht aus Silikon, dann am besten noch mit Kakaopulver (alternativ Weizenmehl) ausklopfen.",
+        "Den Teig in die Form füllen und im vorgeheizten Ofen bei 180°C ca. 45 Minuten auf mittlerer Stufe backen. Mit einem Holzstab testen, ob der Kuchen schon durch ist. Nach dem Backen den Kuchen komplett abkühlen lassen.",
+        "Für die Dekoration 200 g Zartbitterschokolade in einem Wasserbad schmelzen. Die restlichen 50 g Schokoladen grob hacken. Den Kuchen mit der geschmolzenen Schokolade übergießen und mit den restlichen frischen Kirschen und der gehackten Schokolade verzieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

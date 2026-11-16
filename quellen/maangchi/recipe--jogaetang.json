@@ -1,0 +1,158 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/jogaetang",
+  "recipes": [
+    {
+      "name": "Clam stew (Jogaetang)",
+      "source_url": "https://www.maangchi.com/recipe/jogaetang",
+      "recipe_id": "/recipe/jogaetang#sso/recipe/58156",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 kilogram (a little more than 2 pounds) clams",
+        "5 ounces Korean radish (or daikon), sliced thinly: 1 inch x 1 inch x 1/8 inch thick",
+        "1 small onion (about ¾ cup), sliced",
+        "2 garlic cloves, minced",
+        "5 large dried anchovies, guts and heads removed",
+        "1 green chili pepper, chopped",
+        "1 green onion, chopped",
+        "a pinch of ground black pepper",
+        "1 teaspoon toasted sesame oil",
+        "water",
+        "Rinse the clams in cold water and pick out any opened clams, which are dead. Scrub them in cold water and rinse a few times until clean.",
+        "In a bowl, stir 1 tablespoon kosher salt into 4 cups of water. Add the clams and cover. Keep in the fridge for at least 2 hours.",
+        "Strain the clams and rinse and drain in cold water a couple of times. Strain again."
+      ],
+      "instructions": [
+        "Put the radish, onion, garlic, and dried anchovies in a shallow pan or pot. Add 3 cups of water. Cover and cook for 20 minutes over medium high heat until the radish looks a little translucent and the broth looks slightly amber in color.",
+        "Take out the anchovies with tongs or chopsticks.",
+        "Add the clams and cover. Cook until all the clams start opening.",
+        "Open the lid and move opened clams to the top of the soup, and unopened to the bottom so that unopened clams get cooked in the hot broth. Ladle some broth from bottom to top to keep everything well seasoned.",
+        "When the all clams are opened, sprinkle the chopped green chili pepper and green onion.",
+        "Remove from the heat and add some ground black pepper and toasted sesame oil. Serve with rice."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 4"
+        },
+        {
+          "tag": "li",
+          "text": "1 kilogram (a little more than 2 pounds) clams"
+        },
+        {
+          "tag": "li",
+          "text": "5 ounces Korean radish (or daikon), sliced thinly: 1 inch x 1 inch x 1/8 inch thick"
+        },
+        {
+          "tag": "li",
+          "text": "1 small onion (about ¾ cup), sliced"
+        },
+        {
+          "tag": "li",
+          "text": "2 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "5 large dried anchovies, guts and heads removed"
+        },
+        {
+          "tag": "li",
+          "text": "1 green chili pepper, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 green onion, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "a pinch of ground black pepper"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "water"
+        },
+        {
+          "tag": "p",
+          "text": "How to clean clams:"
+        },
+        {
+          "tag": "li",
+          "text": "Rinse the clams in cold water and pick out any opened clams, which are dead. Scrub them in cold water and rinse a few times until clean."
+        },
+        {
+          "tag": "li",
+          "text": "In a bowl, stir 1 tablespoon kosher salt into 4 cups of water. Add the clams and cover. Keep in the fridge for at least 2 hours."
+        },
+        {
+          "tag": "li",
+          "text": "Strain the clams and rinse and drain in cold water a couple of times. Strain again."
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "p",
+          "text": "Make soup:"
+        },
+        {
+          "tag": "li",
+          "text": "Put the radish, onion, garlic, and dried anchovies in a shallow pan or pot. Add 3 cups of water. Cover and cook for 20 minutes over medium high heat until the radish looks a little translucent and the broth looks slightly amber in color."
+        },
+        {
+          "tag": "li",
+          "text": "Take out the anchovies with tongs or chopsticks."
+        },
+        {
+          "tag": "li",
+          "text": "Add the clams and cover. Cook until all the clams start opening."
+        },
+        {
+          "tag": "li",
+          "text": "Open the lid and move opened clams to the top of the soup, and unopened to the bottom so that unopened clams get cooked in the hot broth. Ladle some broth from bottom to top to keep everything well seasoned."
+        },
+        {
+          "tag": "li",
+          "text": "When the all clams are opened, sprinkle the chopped green chili pepper and green onion."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and add some ground black pepper and toasted sesame oil. Serve with rice."
+        },
+        {
+          "tag": "p",
+          "text": "Mitbanchan: (side dishes prepared in advance and kept in the fridge for 1 to 2 weeks) that go well with clam stewKimchi"
+        },
+        {
+          "tag": "p",
+          "text": "braised beef in soy sauce (jangjorim: 장조림)"
+        },
+        {
+          "tag": "p",
+          "text": "braised beans (Kongjorim: 콩조림)"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-champignon-kroketten-auflauf",
+  "recipes": [
+    {
+      "name": "Veganer Champignon-Kroketten-Auflauf",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-champignon-kroketten-auflauf",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-champignon-kroketten-auflauf#recipe-08cec439-aefc-52ae-875a-09d8022b066e",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT55M",
+      "ingredients": [
+        "20 g getrocknete Steinpilze",
+        "200 ml heißes Wasser",
+        "600 g Champignons",
+        "2 Zwiebeln",
+        "3 Knoblauchzehen",
+        "0.5 TL getrockneter Thymian",
+        "50 ml veganer Weißwein",
+        "100 ml pflanzliche Sahne",
+        "200 g veganer Streukäse",
+        "750 g vegane Kroketten",
+        "Pflanzenöl zum Braten und Einfetten",
+        "Petersilie zum Servieren",
+        "Salz",
+        "Pfeffer",
+        "Muskat"
+      ],
+      "instructions": [
+        "Getrocknete Steinpilze ca. 30 Minuten in heißem Wasser einweichen. In der Zwischenzeit Champignons putzen und klein schneiden – das kann gern etwas stückiger sein. Zwiebeln und Knoblauch schälen und fein würfeln.",
+        "Pflanzenöl in einer großen Pfanne bei mittlerer Hitze erwärmen. Zuerst die Zwiebelwürfel mit getrocknetem Thymian ca. 3-4 Minuten darin anschwitzen, bis die Zwiebelwürfel glasig sind. Anschließend Champignons und Knoblauch dazugeben und ca. 10 Minuten scharf anbraten, bis die komplette austretende Flüssigkeit verkocht ist und die Champignons bräunen.",
+        "Die gebratenen Pilze mit veganem Weißwein ablöschen und ca. 5 Minuten köcheln lassen. Danach die eingeweichten Steinpilze mit dem Pilzsud sowie pflanzliche Sahne dazugeben und alles gut vermengen. Die Pilzpfanne kräftig mit Salz, Pfeffer und Muskat abschmecken und ca. 5 Minuten köcheln lassen. Danach vom Herd nehmen.",
+        "Den Backofen auf 200°C Umluft vorheizen. Wir haben direkt eine gusseiserne Pfanne verwendet, sodass wir die Pilze darin auch backen lassen konnten. Alternativ könnt ihr sonst eine Auflaufform mit Öl einfetten und die Pilzmischung hineingeben. Den veganen Käse mit etwas Pflanzenöl vermengen und über die Pilze streuen. Darauf die gefrorenen Kroketten verteilen.",
+        "Den Auflauf ca. 20 Minuten backen oder bis die Kroketten goldbraun und knusprig sind. Mit frischer Petersilie bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

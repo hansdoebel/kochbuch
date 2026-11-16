@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vegan-ranch-mix-5",
+  "recipes": [
+    {
+      "name": "Vegan Ranch Mix",
+      "source_url": "https://www.pickuplimes.com/recipe/vegan-ranch-mix-5",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "2 Tbsp dried parsley",
+        "2 Tbsp nutritional yeast flakes",
+        "1 Tbsp dried chives",
+        "1 Tbsp garlic powder",
+        "1 Tbsp onion powder",
+        "½ Tbsp dried dill",
+        "1 tsp salt",
+        "½ tsp ground black pepper"
+      ],
+      "instructions": [
+        "Add all the ingredients into a mason jar, mix, and you're good to go!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store well sealed and away from direct sunlight for up to 6 months."
+  ]
+}

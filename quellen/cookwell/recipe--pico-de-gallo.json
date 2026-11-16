@@ -1,0 +1,37 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/pico-de-gallo",
+  "recipes": [
+    {
+      "name": "Pico de Gallo",
+      "source_url": "https://app.cookwell.com/recipe/pico-de-gallo",
+      "recipe_id": "https://app.cookwell.com/recipe/pico-de-gallo",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "Tomatoes, 120 g",
+        "Onions, 1/2",
+        "Serrano peppers, 1-2",
+        "Cilantro, a handful",
+        "Lime juice, 1 lime",
+        "Salt, to taste"
+      ],
+      "instructions": [
+        "Chop all ingredients and combine in a bowl. Juice one lime and add half of it to the mixture. Set the other half of the juice aside. Mix all of the ingredients together until evenly distributed.",
+        "Separate the pico into two bowls. Add a sprinkle of salt to one of the bowls, give it a stir, and allow it to sit for 30 seconds. Taste it! Continue this step and notice how the flavors change each time. Salt it until the salt is the overbearing flavor and doesn’t taste as good. To get the salsa back to the desired taste, dilute the salty salsa with the unseasoned one and balance the flavor with more lime juice. Now you should understand how to season to taste — which is bringing something just before the point of being overly seasoned. Enjoy your new powers."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

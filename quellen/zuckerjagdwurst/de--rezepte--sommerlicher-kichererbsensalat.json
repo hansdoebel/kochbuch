@@ -1,0 +1,88 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/sommerlicher-kichererbsensalat",
+  "recipes": [
+    {
+      "name": "Veganer Feta aus Tofu in Kräuterlake",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/sommerlicher-kichererbsensalat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/sommerlicher-kichererbsensalat#recipe-fa7bd63a-3cab-5a78-9d4e-e45e78068829",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "200 g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "200 g Naturtofu",
+        "100–150 ml Olivenöl",
+        "2 EL getrockneter Basilikum",
+        "2 EL getrockneter Oregano",
+        "1 EL getrockneter Thymian",
+        "1 TL Salz",
+        "1 TL helle Misopaste (optional)",
+        "2 Knoblauchzehen"
+      ],
+      "instructions": [
+        "Den Naturtofu in mundgerechte Würfel schneiden.",
+        "In ein Einmach- oder Schraubglas 5 EL Olivenöl geben und mit getrocknetem Basilikum, Oregano, Thymian und Salz verrühren. Optional Misopaste unterrühren.",
+        "Knoblauchzehen schälen, mit einem Messerrücken leicht zerdrücken und in Scheiben schneiden. Knoblauchscheiben und Tofuwürfel ebenfalls in das Glas geben, mit Olivenöl auffüllen und gut schütteln, damit der Tofu gleichmäßig mit Kräutern bedeckt ist.",
+        "Das Glas in den Kühlschrank stellen und nach frühestens 24 Stunden servieren. Der Tofu hält sich darin bis zu fünf Tage. Zwischendurch das Glas immer wieder umdrehen oder schütteln, damit alles gleichmäßig mariniert."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Sommerlicher Kichererbsensalat mit veganem „Feta“",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/sommerlicher-kichererbsensalat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/sommerlicher-kichererbsensalat#recipe-eb5aa191-7776-55e0-987b-34b110a96349",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4–6 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Für den Salat:",
+        "200 g veganer Feta in Kräuterlake",
+        "1 Rote Zwiebel",
+        "150 g Mango",
+        "100 g Radieschen",
+        "150 g Gurke",
+        "7–8 getrocknete Tomaten aus dem Glas",
+        "10 g frische Minze",
+        "10 g frische Petersilie",
+        "150 g Mandeln",
+        "400 g Kichererbsen",
+        "2 EL neutrales Pflanzenöl",
+        "edelsüßes Paprika",
+        "Cayennepfeffer",
+        "Salz",
+        "Pfeffer",
+        "Für das Dressing:",
+        "3 EL Olivenöl",
+        "2 EL Zitronensaft",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Tipp: Idealerweise mariniert ihr den veganen Feta schon einen Tag vorher. So kann er alle Aromen besser aufnehmen und schmeckt intensiver.",
+        "Rote Zwiebel schälen, halbieren und in feine Ringe schneiden. Mango schälen, das Fruchtfleisch vom Kern lösen und würfeln. Radieschen, Gurke und getrocknete Tomaten ebenfalls in mundgerechte Stücke schneiden.",
+        "Die Kräuter fein schneiden und die Mandeln in einer Pfanne ohne Öl für wenige Minuten rösten und im Anschluss grob hacken.",
+        "Die Kichererbsen abgießen und mit Öl in einer Pfanne für etwa 5–7 Minuten anbraten, bis sie knusprig sind. Mit Salz, Pfeffer, Paprika und Cayennepfeffer würzen.",
+        "Alle Zutaten in eine Schüssel geben, vermengen und mit dem veganen „Feta“ toppen. Ein richtiges Dressing gibt es bei diesem Salat nicht, da die eingelegten getrockneten Tomaten und der vegane Feta in Lake schon einiges an „Dressing“ mitbringen. Daher gebt ihr einfach noch Olivenöl und Zitronensaft zum Salat und schmeckt mit Salz und Pfeffer ab."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

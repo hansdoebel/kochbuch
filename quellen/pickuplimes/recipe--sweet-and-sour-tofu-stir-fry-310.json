@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/sweet-and-sour-tofu-stir-fry-310",
+  "recipes": [
+    {
+      "name": "Sweet & Sour Tofu Stir-Fry",
+      "source_url": "https://www.pickuplimes.com/recipe/sweet-and-sour-tofu-stir-fry-310",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT20M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "15.873 oz firm tofu",
+        "2 Tbsp reduced-sodium soy sauce",
+        "¼ cup cornstarch",
+        "½ tsp salt",
+        "¼ tsp ground black pepper",
+        "1 Tbsp vegetable oil",
+        "½ cup pineapple juice",
+        "¼ cup rice vinegar",
+        "¼ cup tomato paste",
+        "3 Tbsp reduced-sodium soy sauce",
+        "2 Tbsp maple syrup",
+        "2 garlic clove",
+        "2 tsp cornstarch",
+        "1 tsp grated fresh ginger",
+        "1½ cup long-grain white rice",
+        "2 tsp vegetable oil",
+        "1 medium red onion",
+        "1 medium carrot",
+        "1 red bell pepper",
+        "½ cup canned pineapple chunks"
+      ],
+      "instructions": [
+        "In a large shallow bowl, combine the tofu cubes and soy sauce. Stir to coat.",
+        "Then add the cornstarch, salt, and pepper. Gently stir until all the pieces are well coated.",
+        "Add the oil to a large pan over medium-high heat. When hot, add the tofu and cook for 7 to 10 minutes, or until golden on all sides. Don't disturb the tofu too much while it's cooking to avoid crumbling.",
+        "Meanwhile, make the sauce by whisking together all the ingredients in a small bowl.",
+        "Cook the rice according to the package instructions.",
+        "When the tofu is golden, transfer it to a bowl and set it aside. Return the same large pan to the heat, add heat up some oil. Cook the onion and carrot for 4 to 5 minutes.",
+        "Then add the bell peppers and pineapple chunks, and cook for another minute.",
+        "Add the sweet and sour sauce to the veggies in the pan, along with the tofu. Let it simmer for 3 minutes, or until the sauce thickens a bit.",
+        "Remove from the heat, serve alongside the rice, garnish, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

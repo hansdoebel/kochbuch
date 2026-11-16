@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-apfel-kirsch-hand-pie-mit-zuckerguss",
+  "recipes": [
+    {
+      "name": "Veganer Apfel-Kirsch Hand Pie mit Zuckerguss",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-apfel-kirsch-hand-pie-mit-zuckerguss",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-apfel-kirsch-hand-pie-mit-zuckerguss#recipe-0d039532-8ec7-5e2c-bc69-43dcbb4fc9a4",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Hand Pie (⌀ 32 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT80M",
+      "ingredients": [
+        "Für die Füllung:",
+        "2 Äpfel",
+        "350 g Kirschen aus dem Glas (Abtropfgewicht)",
+        "50 ml Kirschsaft aus dem Glas",
+        "0.5 Zitrone (Saft)",
+        "50 g Zucker",
+        "2 TL Vanillepaste",
+        "2 TL Zimt",
+        "2 EL Speisestärke",
+        "Für den Zuckerguss:",
+        "100 g Puderzucker",
+        "0.5 Zitrone (Saft)",
+        "Außerdem:",
+        "2 vegane Quiche- oder Tarteteige (z.B. frischer Quiche & Tarteteig von Tante Fanny)"
+      ],
+      "instructions": [
+        "Den Ofen auf 190°C (Ober-/Unterhitze) vorheizen. Die Äpfel waschen, entkernen, in kleine Würfel schneiden und in einen Topf geben. Die Kirschen abgießen und die Flüssigkeit in einer Schüssel auffangen. Die abgetropften Kirschen ebenfalls in den Topf geben.",
+        "Zitronensaft, Zucker, Vanillepaste und Zimt zum Kirschsaft hinzugeben und vermischen. Anschließend unter ständigem Rühren mit einem Schneebesen die Speisestärke einrühren und zu den Äpfeln und Kirschen in den Topf geben.",
+        "Die Masse auf mittlerer Stufe erhitzen und ca. 5 Minuten köcheln lassen, bis eine dickflüssige Konsistenz entsteht. Dabei immer wieder rühren, damit nichts anbrennt.",
+        "Den veganen Quiche- oder Tarteteig auf einem Backblech ausrollen. Dabei kann das mitgerollte Backpapier direkt zum Backen verwendet werden. Nun die Masse auf dem Teig verteilen. Dabei einen Rand von ca. 1.5 cm lassen. Den anderen Teig darüberlegen und die Ränder mit einer Gabel platt drücken. Anschließend den Teig mit dem Griff eines Kochlöffels so eindrücken, dass 8 Stücke entstehen.",
+        "Den Hand Pie bei 190°C (Ober-/Unterhitze) ca. 30 Minuten backen, bis er gebräunt ist und anschließend abkühlen lassen.",
+        "Sobald der Hand Pie abgekühlt ist, den Zuckerguss aus Puderzucker und Zitronensaft anrühren und darüber verteilen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

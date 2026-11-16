@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/to-go-miso-noodle-soup-171",
+  "recipes": [
+    {
+      "name": "To-Go Miso Noodle Soup",
+      "source_url": "https://www.pickuplimes.com/recipe/to-go-miso-noodle-soup-171",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT05M",
+      "total_time": "PT10M",
+      "ingredients": [
+        "1.764 oz quick-cooking ramen noodles",
+        "2 Tbsp red miso paste",
+        "½ vegetable bouillon cube",
+        "2.822 oz firm tofu",
+        "1.94 oz button mushrooms",
+        "1 stalk green onion",
+        "½ cup spinach",
+        "1½ cup boiling water"
+      ],
+      "instructions": [
+        "Layer your soup ingredients in a mason jar or another heat-proof container. Noodles should go at the bottom, followed by the miso and bouillon cube, then tofu*, green onion, and lastly the mushrooms and spinach. Keep sealed in the fridge until ready to eat.",
+        "When ready to enjoy, carefully pour boiling water into your jar, plus more if needed to fully submerge all the ingredients**. Or transfer the contents into a bowl and pour the water on top to cover.",
+        "Add a cover, let sit for about 3 to 5 minutes or until the noodles are cooked. Garnish and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * If you have extra time: pan fry the tofu in a tsp of coconut oil to crisp up the sides. ** Mason jars can get very hot, so be sure to handle them with care. If the glass jar is cold, add a small splash of hot water to the jar first and swirl around before adding the rest.",
+    "Storage Best if enjoyed right away after adding the boiling water. The prepped soup can be stored in the fridge for up to two days, so long as no water has been added."
+  ]
+}

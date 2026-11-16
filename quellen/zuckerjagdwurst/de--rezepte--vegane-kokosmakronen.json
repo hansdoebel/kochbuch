@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kokosmakronen",
+  "recipes": [
+    {
+      "name": "Vegane Kokosmakronen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kokosmakronen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kokosmakronen#recipe-d5c943df-186a-5b45-a02f-9ed3ad3acfb8",
+      "authors": [
+        "Team"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Plätzchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "100 g Kokosraspeln",
+        "75 g Zucker",
+        "1 Prise Zimt",
+        "1 TL Zitrone (Saft)",
+        "1 Prise gemahlene Vanille",
+        "1 Prise Salz",
+        "6 EL Weizenmehl (Type 405)",
+        "100 ml Sojamilch",
+        "1 EL Kokosöl",
+        "70 g vegane Zartbitterschokolade"
+      ],
+      "instructions": [
+        "Ofen auf 150 °C (Ober-/ Unterhitze) vorheizen. Ein Backblech mit Backpapier auslegen.",
+        "Kokosraspeln mit Zucker, Zimt, Zitronensaft, Vanille und Salz vermengen. Dann Weizenmehl, Sojamilch und Kokosöl dazugeben und alles zu einer zähflüssigen Masse vermengen.",
+        "Die Masse zu zwölf kleinen Kugeln formen und auf das Backblech legen.",
+        "Die Kokosmakronen bei 150 °C (Ober-/ Unterhitze) circa 20 Minuten backen, bis die Makronen anfangen leicht braun zu werden, aber noch nicht zu dunkel sind. Lasst sie nicht zu lange im Ofen, sie werden sonst schnell trocken!",
+        "Die Makronen auf dem Blech auskühlen lassen, da sie nach dem Backen noch sehr weich sein werden. Die Schokolade über einem Wasserbad schmelzen und die Makronen mit dem Boden circa 1 Zentimeter tief hinein tunken oder mit einer Gabel Schokomuster über den Makronen verteilen. Danach auf das Backpapier zurück setzen und die Schokolade fest werden lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

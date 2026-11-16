@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-maronensuppe-mit-gebratenen-pilzen-und-spicy-nuss-topping",
+  "recipes": [
+    {
+      "name": "Vegane Maronensuppe mit gebratenen Pilzen und spicy Nuss-Topping",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-maronensuppe-mit-gebratenen-pilzen-und-spicy-nuss-topping",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-maronensuppe-mit-gebratenen-pilzen-und-spicy-nuss-topping#recipe-45db29e0-6905-56e9-a067-2cd3bf6cebfa",
+      "authors": [
+        "Team"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Suppe:",
+        "400 g gekochte Maronen",
+        "150 g Pilze (z. B. braune Champignons)",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "2 EL vegane Butter",
+        "50 ml veganer Weißwein",
+        "600 ml Gemüsebrühe",
+        "130 ml vegane Kochsahne",
+        "Salz",
+        "Pfeffer",
+        "Für die Toppings:",
+        "250 g Pilze (z. B. braune Champignons)",
+        "2 EL vegane Butter (aufgeteilt)",
+        "4 Zweige frischer Thymian",
+        "100 g Nussmischung",
+        "Chiliflocken",
+        "Zimt",
+        "Zum Servieren:",
+        "2 Zweige frischer Thymian",
+        "1 Baguette",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Für die Suppe Maronen, Pilze, Zwiebel und Knoblauch klein schneiden.",
+        "Vegane Butter in einem großen Topf zerlassen und Zwiebel und Knoblauch darin anschwitzen, bis die Zwiebelstückchen glasig sind. Maronen und Pilze hinzugeben und circa 5 Minuten anbraten, bis sie gebräunt sind. Mit veganem Weißwein ablöschen. Anschließend Gemüsebrühe und vegane Sahne hinzugeben und gut verrühren. Die Suppe auf mittlerer Stufe circa 10 Minuten köcheln lassen.",
+        "In der Zwischenzeit für das Topping Pilze putzen und in Scheiben schneiden. In einer Pfanne einen Esslöffel vegane Butter zerlassen und die Pilzscheiben darin anbraten, bis sie gut gebräunt sind. Dabei die Blätter von vier Zweigen Thymian dazugeben. Erst nach dem Braten mit Salz und Pfeffer würzen.",
+        "Nüsse hacken. In einer kleinen Pfanne einen Esslöffel Butter zerlassen. Nüsse, Chiliflocken und Zimt nach Geschmack hinzugeben und anrösten, bis die Nüsse ebenfalls gut gebräunt sind. Danach in eine Schale umfüllen.",
+        "Suppe pürieren und mit Pilz- und Nuss-Topping, frischem Pfeffer und den restlichen Thymianblättern und aufgeschnittenem Baguette servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

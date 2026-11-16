@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/knuspriges-veganes-schokoladengranola",
+  "recipes": [
+    {
+      "name": "Knuspriges, veganes Schokoladengranola",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/knuspriges-veganes-schokoladengranola",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/knuspriges-veganes-schokoladengranola#recipe-db21baa5-29e7-5b1f-870a-240244edc750",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "500 g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "EIN BLECH GRANOLA",
+        "200 g kernige Haferflocken",
+        "100 g Mandelscheiben",
+        "100 g gehackte Mandeln",
+        "100 g Haselnüsse",
+        "4 EL Kokosöl",
+        "1 Banane",
+        "2 EL Agavendicksaft",
+        "15 g Vanilleextrakt",
+        "5 EL Apfelmuß",
+        "50 g Kakaopulver",
+        "Prise Salz",
+        "100 g dunkle, Schokoladentropfen"
+      ],
+      "instructions": [
+        "Kernige Haferflocken, Mandelscheiben, gehackte Mandeln und Haselnüsse in eine große Schüssel geben und vermischen.",
+        "Kokosöl in einem Topf erhitzen, bis es flüßig ist. Banane in einer Schüssel mit einer Gabel zerdrücken, bis sie schön matschig ist.",
+        "In einer Schüssel die zerdrückte Banane mit dem Kokosöl, dem Salz, dem Apfelmus, dem Agavendicksaft, dem Vanilleextrakt und dem Kakopulver vermischen.",
+        "Die flüßige Mischung nun über die Nuss-Haferflocken Mischung geben und gut verteilen.",
+        "Das ganze nun auf einem Backblech verteilen und bei 180°C für 30 Minuten im Ofen backen bis es schön knusprig ist.",
+        "Sobald das Granola etwas ausgekühlt ist, die Schokoladentropfen unterheben und luftdicht verschließen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

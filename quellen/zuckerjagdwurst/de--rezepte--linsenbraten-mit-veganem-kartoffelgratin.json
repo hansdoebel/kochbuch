@@ -1,0 +1,90 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/linsenbraten-mit-veganem-kartoffelgratin",
+  "recipes": [
+    {
+      "name": "Veganer Linsenbraten",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/linsenbraten-mit-veganem-kartoffelgratin",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/linsenbraten-mit-veganem-kartoffelgratin#recipe-5fea3649-9289-5a31-821b-6140b3f5e5a9",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kastenform",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT100M",
+      "ingredients": [
+        "250 g gekochte Linsen (grün oder braun)",
+        "2 Zwiebeln",
+        "1 Knoblauchzehe",
+        "1 Karotte",
+        "125 g vegane Butter",
+        "1 EL Mehl",
+        "300 ml pflanzliche Milch (z.B. Edeka Bio Haferdrink)",
+        "2 EL Senf",
+        "2 EL Tomatenmark",
+        "1 EL getrockneter Thymian",
+        "1 TL getrockneter Oregano",
+        "150 g Haferflocken",
+        "50 g Walnüsse",
+        "200 g Weißbrot oder Toastbrot",
+        "Salz",
+        "Pfeffer",
+        "vegane Butter zum Einfetten",
+        "Semmelbrösel zum Bestreuen"
+      ],
+      "instructions": [
+        "Falls ihr keine gekochten Linsen bekommen habt, müsst ihr zunächst eure Linsen vorbereiten und im Wasser köcheln lassen, bis sie gar sind. In der Zwischenzeit Zwiebeln, Knoblauch und Karotte schälen und fein würfeln, die Walnüsse hacken und das Toastbrot mit euren Händen zerbröseln.",
+        "Gebt die vegane Butter (ja, die 125g!) in eine tiefe Pfanne und bratet zunächst Knoblauch und die Karotten- und Zwiebelwürfel ca. 5 Minuten an. Mehl einrühren und weitere 2 Minuten anschwitzen und anschließend mit der pflanzlichen Milch ablöschen. Senf, Tomatenmark, Thymian- und Oreganoblätter dazugeben und einrühren. Zum Schluss schmeckt ihr die Soße mit Salz und Pfeffer ab.",
+        "Gebt die gekochten Linsen, Haferflocken, gehackte Walnüsse, das zerbröselte Toastbrot und eure Gemüse-Soßen-Mischung in eine große Schüssel, würzt nochmal mit Salz und Pfeffer und vermengt alles gründlich.",
+        "Heizt den Backofen auf 180°C vor, fettet eure Kastenform gut ein und bestreut die Innenseiten mit Semmelbröseln. Nun gebt ihr dir Masse hinein und streicht sie glatt.",
+        "Mit Aluminiumfolie abgedeckt geht's erst für 60 Minuten in den Backofen. Nehmt danach die Alufolie weg und lasst den Linsenbraten noch 15 Minuten weiterbacken. Vor dem Servieren noch ein paar Minuten in der Form abkühlen und festigen lassen und anschließend in Scheiben schneiden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Veganes Kartoffelgratin",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/linsenbraten-mit-veganem-kartoffelgratin",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/linsenbraten-mit-veganem-kartoffelgratin#recipe-0ecbe646-25ff-58e1-8185-7dbf0eb3f8c2",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT100M",
+      "ingredients": [
+        "1 kg Kartoffeln (vorwiegend festkochend)",
+        "1 TL Thymian",
+        "1 TL Rosmarin",
+        "250 ml pflanzliche Milch (z.B. Edeka Bio Haferdrink)",
+        "250 ml pflanzliche Sahne",
+        "1 EL Speisestärke",
+        "2 EL Wasser",
+        "2 Knoblauchzehen",
+        "Muskat",
+        "Salz",
+        "Pfeffer",
+        "vegane Butter zum Einfetten",
+        "Schnittlauch zum Servieren"
+      ],
+      "instructions": [
+        "Kartoffeln nach Wunsch schälen und in Scheiben schneiden.",
+        "Thymian und Rosmarin hacken. Pflanzliche Milch, Sahne, Thymian und Rosmarin in einen kleinen Topf geben und aufkochen lassen. Speisestärke und Wasser vermengen und mit in den Topf geben, damit die Mischung leicht andickt. Mit Muskat, Salz und Pfeffer abschmecken.",
+        "Eine Auflaufform mit veganer Butter einfetten und mit der Knoblauchzehe einreiben. Die Kartoffeln in die Form geben und mit der Soße übergießen.",
+        "Bei 180°C ca. 30 Minuten backen und mit frischem gehacktem Schnittlauch bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

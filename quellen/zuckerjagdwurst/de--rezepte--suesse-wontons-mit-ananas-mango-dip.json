@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/suesse-wontons-mit-ananas-mango-dip",
+  "recipes": [
+    {
+      "name": "Süße Wontons mit Ananas-Mango-Dip",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/suesse-wontons-mit-ananas-mango-dip",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/suesse-wontons-mit-ananas-mango-dip#recipe-49016a90-597d-593e-8703-d94a61db8523",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "20 Wontons",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "20 Wontonblätter",
+        "1 Mango (reif)",
+        "1 kleine Ananas (reif)",
+        "1 Banane",
+        "Zucker nach Wahl (z.B. brauner Zucker, Ahornsirup, Kokoszucker, …)",
+        "1 TL Zimt",
+        "Puderzucker zum Bestäuben",
+        "2 EL Pflanzenöl zum Ausbacken"
+      ],
+      "instructions": [
+        "Für den Dip: Eine halbe Ananas und die Mango schälen und in kleine Stücke schneiden. Mit dem Stabmixer pürieren bis die gewünschte Konsistenz erreicht ist. Nun mit Zucker euer Wahl (wir hatten Kokosnusszucker) und 0.5 TL Zimt süßen und kalt stellen.",
+        "Banane in Scheiben schneiden. Die zweite Hälfte der Ananas ebenfalls schälen und klein schneiden. Die Stückchen sollten in etwa so groß wie die Bananenscheiben sein.",
+        "Erneut Zucker eurer Wahl (wir hatten auch hier Kokosnusszucker) und 0.5 TL Zimt in einer kleinen Schüssel vermengen.",
+        "Legt ein Wontonblatt bereit. Wälzt eine Scheibe Obst in der Zucker-Zimt-Mischung und legt sie dann in die Mitte des oberen Drittels. Befeuchtet die obere, sowie die linke und rechte Seite des Wontonblatts. Klappt die Ecke rechts-unten über die Obstscheibe, das Wontonblatt ist also nicht bündig, sondern steht über. Leicht andrücken. Nun falten ihr noch die beiden unteren Ecken zusammen und drückt sie fest, eventuell könnt ihr dafür nochmal die Ecken befeuchten.",
+        "Erhitzt das Öl in einer Pfanne über mittlerer Hitze und bratet die gefüllten Wontons rundum knusprig braten, das dauert pro Seite auch nur ca. 20 Sekunden. Nehmt sie heraus und lasst sie auf etwas Küchenpapier abtropfen. Da wahrscheinlich nicht alle Wontons gleichzeitig in eine Pfanne passen, wiederholt ihr das Braten mit den restlichen Wontons.",
+        "Zum Schluss werden die Wontons mit Puderzucker bestäubt und mit Dip serviert."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

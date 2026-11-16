@@ -1,0 +1,89 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/kimchi-bokkeum",
+  "recipes": [
+    {
+      "name": "Stir-fried kimchi (Kimchi-bokkeum: 김치볶음)",
+      "source_url": "https://www.maangchi.com/recipe/kimchi-bokkeum",
+      "recipe_id": "/recipe/kimchi-bokkeum#sso/recipe/80940",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 pound (453 grams) fermented sour kimchi, chopped",
+        "¼ cup onion, chopped",
+        "1 tablespoon vegetable oil",
+        "1 teaspoon sugar",
+        "1 to 2 tablespoons gochujang (Korean hot pepper paste)",
+        "1 tablespoon toasted sesame oil"
+      ],
+      "instructions": [
+        "Heat the vegetable oil in a skillet over medium high heat. Add the kimchi and onion and stir it with a wooden spoon for about 1 minute.",
+        "Add sugar and gochujang. Keep stirring for about another 4 minutes until the kimchi softens and the onion looks translucent.",
+        "Remove from the heat and stir in the sesame oil.",
+        "Serve as a side dish for rice. Put the leftovers into an airtight container and refrigerator up to 1 week."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound (453 grams) fermented sour kimchi, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup onion, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon sugar"
+        },
+        {
+          "tag": "li",
+          "text": "1 to 2 tablespoons gochujang (Korean hot pepper paste)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame oil"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Heat the vegetable oil in a skillet over medium high heat. Add the kimchi and onion and stir it with a wooden spoon for about 1 minute."
+        },
+        {
+          "tag": "li",
+          "text": "Add sugar and gochujang. Keep stirring for about another 4 minutes until the kimchi softens and the onion looks translucent."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and stir in the sesame oil."
+        },
+        {
+          "tag": "li",
+          "text": "Serve as a side dish for rice. Put the leftovers into an airtight container and refrigerator up to 1 week."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

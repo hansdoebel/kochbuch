@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.recipetineats.com/roasted-cauliflower/",
+  "recipes": [
+    {
+      "name": "Roasted Cauliflower",
+      "source_url": "https://www.recipetineats.com/roasted-cauliflower/",
+      "recipe_id": "https://www.recipetineats.com/roasted-cauliflower/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "5"
+      ],
+      "prep_time": "PT5M",
+      "cook_time": "PT25M",
+      "total_time": null,
+      "ingredients": [
+        "1 large head cauliflower",
+        "2 1/2 tbsp olive oil",
+        "1/2 tsp each salt and pepper",
+        "2 garlic cloves (, finely minced)",
+        "1 tbsp parsley (, roughly chopped, for sprinkling (optional))",
+        "2 tbsp parmesan (, finely grated (store bought, sandy type))",
+        "3 tbsp panko breadcrumbs"
+      ],
+      "instructions": [
+        "Preheat oven to 220°C/425°F (200°C fan).",
+        "Toss cauliflower in a large bowl with oil, salt, pepper and garlic if using. (You can do this on the tray, but you'll need more oil). Add parmesan and Panko breadcrumbs at this point, if using.",
+        "Spread on tray. Roast 20 minutes. Flip cauliflower, roast a further 5 minutes until you have golden edges and it's soft all the way through.",
+        "Serve immediately, sprinkled with parsley if using."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: Nutrition per serving for plain Roasted Cauliflower ie not the parmesan flavour variation."
+  ]
+}

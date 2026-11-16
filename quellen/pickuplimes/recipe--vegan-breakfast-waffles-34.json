@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vegan-breakfast-waffles-34",
+  "recipes": [
+    {
+      "name": "Vegan Breakfast Waffles",
+      "source_url": "https://www.pickuplimes.com/recipe/vegan-breakfast-waffles-34",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "7 waffles",
+      "prep_time": "PT10M",
+      "cook_time": "PT20M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "1½ cup unsweetened soy milk",
+        "1 Tbsp apple cider vinegar",
+        "2 cup whole wheat flour",
+        "⅓ cup unsweetened applesauce",
+        "2 tsp baking powder",
+        "1 tsp ground cinnamon",
+        "1 tsp pure vanilla extract",
+        "½ tsp salt"
+      ],
+      "instructions": [
+        "In a large bowl, combine the milk and vinegar, mix, and let this rest for 5 minutes. The milk will start to slightly curdle, and this is normal.",
+        "Heat the waffle maker. Then, returning to the bowl, add the flour, applesauce, baking powder, cinnamon, vanilla, and salt, then mix until just combined.",
+        "Brush the waffle pan with some oil. Add a few spoonfuls of the waffle batter until the element is filled near to the top. Gently close the lid, and let it cook for 4 to 5 minutes, or until golden. Repeat this with the remaining batter.",
+        "Add desired toppings to your waffles, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We recommend using either soy or pea milk for this recipe, as the high protein content of these milks are what allows the milk to curdle to create vegan buttermilk. We can't guarantee other plant-based milk will be successful.",
+    "Storage Best if enjoyed immediately. The waffles can be stored separately from the toppings in an airtight container in the fridge for up to 2 days. Batch make and store these waffles in the freezer for up to 2 months. Simply pop in the toaster or oven to reheat and serve for a speedy breakfast."
+  ]
+}

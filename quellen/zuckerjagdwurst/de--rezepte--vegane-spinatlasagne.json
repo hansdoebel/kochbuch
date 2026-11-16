@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-spinatlasagne",
+  "recipes": [
+    {
+      "name": "Vegane Spinatlasagne",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-spinatlasagne",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-spinatlasagne#recipe-b51935ba-5ed0-53d0-a5bf-d6f58a2e4e49",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT100M",
+      "ingredients": [
+        "Für die Lasagne:",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "400 g frischer Spinat",
+        "250 g Champignons",
+        "50 g Walnüsse",
+        "50 g vegane Schinkenwürfel (oder Räuchertofu)",
+        "Pflanzenöl zum Braten",
+        "Lasagneplatten",
+        "Chiliflocken",
+        "Salz",
+        "Pfeffer",
+        "Für die „Käseschicht”:",
+        "300 g veganer geriebener Käse",
+        "300 g veganer Feta auf Nussbasis",
+        "Wasser",
+        "Für die Soße:",
+        "60 g vegane Butter",
+        "50 g Weizenmehl",
+        "300 ml Gemüsebrühe",
+        "400 ml vegane Sahne",
+        "1 EL Hefeflocken",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "Zitronensaft"
+      ],
+      "instructions": [
+        "Zwiebel und Knoblauch schälen und fein würfeln. Den frischen Spinat grob hacken. Die Pilze vierteln oder in Scheiben schneiden und die Walnüsse grob hacken.",
+        "Pflanzenöl in einer Pfanne bei mittlerer Hitze erwärmen. Zwiebel- und Knoblauchwürfel darin anschwitzen, bis die Zwiebelwürfel glasig sind. Danach den frischen Spinat dazugeben und nur kurz erwärmen, bis er zusammenfällt. Mit Salz, Pfeffer und Chiliflocken abschmecken.",
+        "Parallel dazu Pflanzenöl einer zweiten großen Pfanne bei mittlerer Hitze erwärmen. Die Champignons darin scharf anbraten, bis sie gebräunt sind. Danach die gehackten Walnüsse und die veganen Schinkenwürfel dazugeben und alles gemeinsam weitere 4–5 Minuten anbraten.",
+        "Für die Soße vegane Butter schmelzen und das Mehl einrühren. Anschließend die Gemüsebrühe und vegane Sahne dazugeben und gründlich einrühren, damit sich kleine Klümpchen bilden. Die Soße mit Hefeflocken würzen und mit Salz, Pfeffer, Muskat und Zitronensaft abschmecken. Anschließend köcheln lassen, bis sie cremig, aber nicht zu dickflüssig ist. Nach Bedarf etwas Wasser dazugeben.",
+        "Die Spinat- und Champignon-Mischung zur Soße geben und alles vermengen und erneut abschmecken.",
+        "Den veganen Streukäse etwas kleiner hacken und mit zerbröseltem pflanzlichen Fetakäse und einem Schuss Wasser vermengen.",
+        "Den Ofen auf 180 °C (Umluft) vorheizen. In einer Auflaufform zunächst unten eine dünne Schicht der Soße verteilen und danach abwechselnd die Lasagneplatten, die Spinat-Pilz-Mischung und etwas vom veganen Käse in die Form schichten. Mit einer Schicht veganem Käse aufhören.",
+        "Die Spinatlasagne bei 180 °C (Umluft) ca. 30–40 Minuten backen, bis die Lasagneplatten durch und die oberste Schicht goldbraun ist. Vor dem Anschneiden noch ein paar Minuten abkühlen und anziehen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

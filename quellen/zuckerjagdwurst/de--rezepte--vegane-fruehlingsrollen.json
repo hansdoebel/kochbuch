@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-fruehlingsrollen",
+  "recipes": [
+    {
+      "name": "Vegane Frühlingsrollen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-fruehlingsrollen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-fruehlingsrollen#recipe-4fe31eb3-8a9c-58f7-b55a-e7e1d15029b7",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 15 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "15 Frühlingsrollenblätter",
+        "1 Karotte",
+        "200 g Spitzkohl",
+        "25 g Ingwer",
+        "1 Knoblauchzehe",
+        "3 Pilze (z.B. Champignons, Shiitake oder Kräuterseitlinge)",
+        "2 Frühlingszwiebeln",
+        "50 g Mungobohnenkeimlinge",
+        "1 TL Reiswein",
+        "1 EL Sojasauce",
+        "1 EL Stärke",
+        "1 EL Wasser",
+        "Sesamöl zum Braten",
+        "Pflanzenöl zum Frittieren",
+        "Sweet Chili Soße zum Servieren"
+      ],
+      "instructions": [
+        "Frühlingsrollenblätter aus dem Gefrierschrank nehmen und auftauen lassen. Karotte und Spitzkohl in dünne Streifen schneiden. Ingwer, Knoblauch fein hacken und Pilze klein schneiden. Frühlingszwiebeln in dünne Ringe schneiden.",
+        "Sesamöl in einer Pfanne über mittlerer Hitze erwärmen und Karotte und Spitzkohl ca. 4 - 5 Minuten anbraten. Danach Ingwer, Knoblauch, Pilze, Frühlingszwiebeln und Mungobohnenkeimlinge dazugeben und weitere ca. 5 Minuten anbraten. Sojasauce und Reiswein dazugeben und mit Salz und Zucker würzen. Weitere 3 - 4 Minuten anbraten, bis die Gemüsefüllung gut gebraten ist.",
+        "Die Frühlingsrollenblätter sollten mittlerweile aufgetaut sein und können gefüllt werden. Vorher Stärke und Wasser in einer Schüssel verrühren und bereitstellen. Etwa einen Esslöffel der Füllung mittig auf ein Frühlingsrollenblatt geben. Zuerst die Seiten links und rechts zur Mitte über die Füllung falten und die Frühlingsrolle von unten nach oben aufrollen. Die oberen Kanten mit der Stärkemischung bestreichen, damit die Frühlingsrolle fest verschlossen ist und beim Frittieren nicht aufgeht.",
+        "Pflanzenöl in einer Frittierpfanne oder einem Topf erhitzen bis es ca. 180°C heiß ist. Die Frühlingsrollen in Portionen goldbraun frittieren. Anschließend herausnehmen und auf etwas Küchenpapier abtropfen lassen. Mit Sweet Chili Soße zum Eintunken servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

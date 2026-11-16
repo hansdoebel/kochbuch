@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vegan-caesar-dressing-1407",
+  "recipes": [
+    {
+      "name": "Vegan Caesar Dressing",
+      "source_url": "https://www.pickuplimes.com/recipe/vegan-caesar-dressing-1407",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT08M",
+      "cook_time": "",
+      "total_time": "PT08M",
+      "ingredients": [
+        "3 garlic clove",
+        "1 lemon",
+        "½ cup raw cashews",
+        "⅓ cup water",
+        "3½ Tbsp nutritional yeast flakes",
+        "1 Tbsp extra-virgin olive oil",
+        "1 Tbsp apple cider vinegar",
+        "2 tsp capers",
+        "1 tsp Dijon mustard",
+        "1 tsp reduced-sodium soy sauce",
+        "⅛ tsp ground black pepper"
+      ],
+      "instructions": [
+        "Add all of the ingredients to a blender.",
+        "Blend until smooth, then enjoy with your favourite salad!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † If unable to soak overnight, simply cover with boiling water and let sit for at least 15 minutes to soften.",
+    "Storage Store in an airtight container in the fridge for up to 4 days. The sauce thickens when stored in the fridge. Simply add more water for a thinner consistency."
+  ]
+}

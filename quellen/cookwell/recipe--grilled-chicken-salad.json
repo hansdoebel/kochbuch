@@ -1,0 +1,56 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/grilled-chicken-salad",
+  "recipes": [
+    {
+      "name": "Grilled Chicken Chop Salad",
+      "source_url": "https://app.cookwell.com/recipe/grilled-chicken-salad",
+      "recipe_id": "https://app.cookwell.com/recipe/grilled-chicken-salad",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Chicken Thighs, 6",
+        "Salt",
+        "Kewpie mayo, 30 g",
+        "Cumin, 6 g",
+        "Paprika, 6 g",
+        "Garlic Powder, 6g",
+        "Turmeric powder, 6 g",
+        "Sumac, 6 g",
+        "Black Pepper, 6 g",
+        "Ground cinnamon, a sprinkle",
+        "Cayenne Pepper, a sprinkle",
+        "Yogurt, 150 g",
+        "Garlic, 2 cloves",
+        "Black Pepper, a spoonful",
+        "Lemon juice, 1/2 lemon",
+        "Fresh dill, a spoonful",
+        "Salt, to taste",
+        "Romaine lettuce",
+        "Cherry tomatoes",
+        "Cucumbers",
+        "Feta",
+        "Pickled onions",
+        "Tortilla strips"
+      ],
+      "instructions": [
+        "Salt the chicken thighs with a even sprinkle of salt on all sides. In a small bowl, combine all of the spices with the mayo. Add the mayo marinade to the chicken and rub it all over.",
+        "To a ripping hot griddle or cast iron, add the chicken and sear until browned on both sides. Brown the chicken until it has reached around 170°F/ 76°C. Once the chicken is cooked, pull it off the heat and let it rest a bit before slicing.",
+        "Combine the yogurt, garlic, spices, and lemon juice. Mix it together and taste it. Adjust the salt and other seasonings to your preference.",
+        "Add the lettuce to a bowl and top with the tortilla strips or pita. Layer on the yogurt sauce, cucumber, tomato, feta, cheese, chicken, and pickled onion. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

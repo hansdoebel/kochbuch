@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-omelett-aus-seidentofu-mit-gruenem-spargel",
+  "recipes": [
+    {
+      "name": "Veganes Omelett aus Seidentofu (mit grünem Spargel)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-omelett-aus-seidentofu-mit-gruenem-spargel",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-omelett-aus-seidentofu-mit-gruenem-spargel#recipe-11e49ff6-e8a9-5bb6-8ed5-224df022a86e",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Omeletts",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Für das Omelett:",
+        "200 g Seidentofu",
+        "50 g Kichererbsenmehl/Sojamehl",
+        "25 ml pflanzliche Milch",
+        "2 EL Hefeflocken",
+        "1 TL Kala Namak",
+        "1 TL Knoblauchpulver",
+        "0.5 TL Paprikapulver",
+        "1 TL Kurkumapulver",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "1 rote Zwiebel",
+        "300 g grüner Spargel",
+        "neutrales Pflanzenöl"
+      ],
+      "instructions": [
+        "Seidentofu, Kichererbsenmehl, pflanzliche Milch, Hefeflocken, Kala Namak, Knoblauchpulver, Paprikapulver, Kurkumapulver, Salz und Pfeffer in ein hohes Gefäß geben und glattpürieren. Im Anschluss beiseite stellen.",
+        "Rote Zwiebel schälen und fein würfeln und grünen Spargel waschen, die holzigen Enden kürzen und in mundgerechte Stücke schneiden.",
+        "Pflanzenöl in einer Pfanne erhitzen und die Hälfte der Omelett-Masse hineingießen. Mit einem Löffel die Masse rundstreichen. Die Hälfte der Zwiebelwürfel und Spargelstücke auf dem Omelett verteilen.",
+        "Nach 4–5 Minuten, sobald die Konsistenz des Omeletts deutlich angezogen ist, das Omelett einmal flippen und erneut braten. Die Schritte wiederholen, bis alle Zutaten aufgebraucht sind."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

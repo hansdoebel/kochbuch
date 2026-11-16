@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/selbstgemachte-mandelmilch",
+  "recipes": [
+    {
+      "name": "Selbstgemachte Mandelmilch",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/selbstgemachte-mandelmilch",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/selbstgemachte-mandelmilch#recipe-96448840-0ed4-5f22-a917-f8784c1e11b8",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Liter",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT720M",
+      "ingredients": [
+        "200 g Mandeln",
+        "1 Liter warmes Wasser",
+        "1 Liter kühles Wasser",
+        "1 TL Vanillearoma (optional)",
+        "1 EL Agavendicksaft (optional)"
+      ],
+      "instructions": [
+        "Nehmt euch eine Kanne, gebt die Mandeln hinein und füllt mit warmem Wassers auf. Lasst das ganze für 12 Stunden, also am besten über Nacht, ziehen.",
+        "Am nächsten Morgen das Wasser abgießen und mit 1 Liter frischem, kühlen Wasser auffüllen.",
+        "Beides in einen Standmixer füllen und circa 3-4 Minuten kräftig mixen, bis die Mandeln zerkleinert sind. Keine Sorge - wenn ihr Mandeln mit Schale benutzt, werdet ihr die Schale jetzt natürlich noch sehen. Wir werden sie aber gleich herausfiltern.",
+        "Schmeckt gern einmal ab. Wer seine Milch süß mag, kann gern etwas Vanillearoma oder Agavendicksaft hinzugeben und nochmal kurz durchrühren.",
+        "Bereitet eure Kanne vor und legt ein großes Sieb darüber. Auf das Sieb legt ihr im Optimalfall ein Passiertuch, alternativ geht auch ein sauberes Küchentuch. Gießt vorsichtig eure Mandelmilch ein, damit alle Mandelstücke im Sieb hängen bleiben. Sobald ihr damit durch seid, wringt ihr das Tuch nochmals kräftig aus, damit auch wirklich die ganze Flüssigkeit in der Kanne ist.",
+        "Tata – und schon habt ihr eure eigene Mandelmilch."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

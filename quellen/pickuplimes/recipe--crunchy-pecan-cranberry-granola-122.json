@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/crunchy-pecan-cranberry-granola-122",
+  "recipes": [
+    {
+      "name": "Crunchy Pecan & Cranberry Granola",
+      "source_url": "https://www.pickuplimes.com/recipe/crunchy-pecan-cranberry-granola-122",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "15 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT35M",
+      "total_time": "PT45M",
+      "ingredients": [
+        "4 cup rolled oats",
+        "1 cup raw pecans",
+        "½ cup unsweetened coconut flakes",
+        "¼ cup light brown sugar",
+        "¼ cup raw sunflower seeds",
+        "¼ cup raw pumpkin seeds",
+        "½ tsp ground cinnamon",
+        "¼ cup vegetable oil",
+        "¼ cup maple syrup",
+        "½ tsp salt",
+        "½ cup dried cranberries",
+        "2 Tbsp whole chia seeds"
+      ],
+      "instructions": [
+        "Line a baking tray and preheat the oven to 325°F (160°C)*.",
+        "Add the dry in gredients to a large bowl. Mix well.",
+        "In a separate small bowl, whisk together the wet ingredients. Pour this over the dry ingredients and mix, then spread out over the baking tray.",
+        "Bake for 25 to 35 minutes, until lightly golden. Stir once or twice throughout. When removed from the oven, add the dried fruit and chia seeds.",
+        "When fully cooled, transfer to a large glass storage jar. Enjoy with yogurt and fruit for breakfast or as a snack!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Store sealed and on the counter for up to 3 weeks."
+  ]
+}

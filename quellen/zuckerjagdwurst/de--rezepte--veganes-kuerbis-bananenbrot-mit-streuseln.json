@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kuerbis-bananenbrot-mit-streuseln",
+  "recipes": [
+    {
+      "name": "Veganes Kürbis-Bananenbrot mit Streuseln",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kuerbis-bananenbrot-mit-streuseln",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kuerbis-bananenbrot-mit-streuseln#recipe-2f4374f5-e465-5f45-bb37-ecc39a3f5711",
+      "authors": [
+        "Lara Iwaloye"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kastenform (20 x 11 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT80M",
+      "ingredients": [
+        "Für den Teig:",
+        "140 g gekochter Kürbis oder Kürbispürree",
+        "2 Bananen (circa 200 g)",
+        "80 g neutrales Pflanzenöl",
+        "30 ml pflanzliche Milch",
+        "1 TL Zimt",
+        "1 TL Pumpkin Pie Spice",
+        "1 Prise Salz",
+        "220 g Weizenmehl (Type 405)",
+        "60 g brauner Zucker",
+        "2 TL Backpulver",
+        "40 g Pekannüsse",
+        "Für die Streusel:",
+        "70 g Weizenmehl (Type 405)",
+        "40 g vegane Butter (kalt)",
+        "30 g brauner Zucker",
+        "1 TL Pumpkin Pie Spice",
+        "20 g gehackte Pekannüsse",
+        "Für den Zuckerguss:",
+        "100 g Puderzucker",
+        "2–3 EL Wasser"
+      ],
+      "instructions": [
+        "Für die Streusel in einer kleinen Schüssel Mehl, kalte vegane Butter, Zucker und Pumpkin Spice verkneten. Pekannüsse grob hacken und mit den Streuseln vermischen. Falls die Streusel zu weich sind, bis zur Weiterverarbeitung in den Kühlschrank stellen. Den Backofen auf 180 °C (Umluft) vorheizen.",
+        "Kürbis in kleine Stücke schneiden und circa 10 Minuten kochen, bis er sehr weich ist. Anschließend das restliche Wasser abgießen und den Kürbis mit einer Gabel zerdrücken und abkühlen lassen. Bananen in einer Schüssel ebenfalls mit einer Gabel zerdrücken und mit Kürbis, Öl, pflanzlicher Milch, Zimt, Pumpkin Spice und Salz verrühren. Mehl, Zucker, Backpulver und gehackte Pekannüsse in einer weiteren Schüssel vermischen, zu der Bananen-Kürbis-Masse hinzugeben und unterrühren.",
+        "Die Kastenform einfetten. Nun den Teig hineingeben und anschließend mit den Streuseln bedecken. Das Bananebrot circa 60 Minuten bei 180 °C (Umluft) backen. Den Kuchen nach 50 Minuten abdecken, falls die Streusel zu dunkel werden.",
+        "Das Bananenbrot auskühlen lassen und vorsichtig aus der Form stürzen. Den Zuckerguss mit Puderzucker und Wasser anrühren und über den Kuchen geben."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

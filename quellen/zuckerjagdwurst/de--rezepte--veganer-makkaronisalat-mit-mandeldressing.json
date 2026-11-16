@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-makkaronisalat-mit-mandeldressing",
+  "recipes": [
+    {
+      "name": "Veganer Makkaronisalat mit Mandeldressing",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-makkaronisalat-mit-mandeldressing",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-makkaronisalat-mit-mandeldressing#recipe-a3235492-53b8-5899-989e-63b895bc398f",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "Für den Salat:",
+        "250 g Makkaroni",
+        "150 g tiefgekühlte Erbsen",
+        "0.5 Gurke",
+        "1 gelbe Paprika",
+        "1 rote Zwiebel",
+        "10 g Schnittlauch",
+        "10 g Dill",
+        "100 g Mandeln",
+        "Für das Dressing:",
+        "250 g veganer Naturjoghurt",
+        "75 g vegane Mayonnaise",
+        "4 EL weißes Mandelmus",
+        "1 Zitrone (Saft)",
+        "1 EL Senf",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Gesalzenes Wasser in einem großen Topf zum Kochen bringen und Makkaroni nach Packungsanweisung al dente kochen. Ca. 3 Minuten vor dem Ende der angegebenen Kochzeit die tiefgekühlten Erbsen ebenfalls in den Topf geben. Danach beides gemeinsam abgießen.",
+        "Während die Nudeln kochen, Gurke, Paprika und rote Zwiebel fein würfeln. Schnittlauch und Dill fein hacken. Mandeln in einer fettfreien Pfanne rösten und danach grob hacken.",
+        "Das geschnittene Gemüse, die gekochten Nudeln und die Erbsen in eine große Schüssel geben und gut vermengen.",
+        "Veganen Joghurt, vegane Mayonnaise, Mandelmus, Zitronensaft und Senf in einer Schüssel vermengen. Mit Salz und Pfeffer abschmecken.",
+        "Das Dressing, gehackten Schnittlauch, Dill und die gerösteten Mandeln zum Salat geben und vermengen. Den Salat vor dem Servieren etwas ziehen lassen und kurz vorher erneut mit Salz und Pfeffer abschmecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

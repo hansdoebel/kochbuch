@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/savoury-miso-sesame-oatmeal-736",
+  "recipes": [
+    {
+      "name": "Savoury Miso Sesame Oatmeal",
+      "source_url": "https://www.pickuplimes.com/recipe/savoury-miso-sesame-oatmeal-736",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT10M",
+      "total_time": "PT15M",
+      "ingredients": [
+        "½ cup frozen shelled edamame",
+        "1 cup rolled oats",
+        "1⅔ cup canned light coconut milk",
+        "⅓ cup water",
+        "½ vegetable bouillon cube",
+        "2 tsp toasted sesame oil",
+        "¼ tsp garlic powder",
+        "1 stalk green onion",
+        "2 tsp white miso paste",
+        "1 tsp sriracha",
+        "¼ tsp ground black pepper",
+        "4 small radish",
+        "2 Tbsp pickled red onions",
+        "1 tsp toasted sesame seeds",
+        "1 pinch chili flakes"
+      ],
+      "instructions": [
+        "Add the edamame beans to a bowl and cover them with plenty of boiling water. Let it sit to thaw while you prepare the oats.",
+        "In a saucepan, combine the oats, coconut milk, water, bouillon cube, sesame oil, and garlic powder. Bring to a gentle boil, then reduce to a simmer for 7 to 8 minutes, stirring occasionally.",
+        "Then stir in the green onion, miso paste, sriracha, and pepper. Cook for 1 to 2 minutes.",
+        "Divide the oatmeal between bowls. Top with the drained edamame, radish, pickled onion, sesame seeds, and chili flakes. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † White miso, also called \"Shiro Miso,\" is fermented for less time than red miso, which gives it a milder, sweeter flavour. If substituting red miso, use a smaller amount and adjust to taste, as red miso is saltier and stronger.",
+    "Storage Store the oatmeal, without toppings, in an airtight container in the fridge for up to 2 days."
+  ]
+}

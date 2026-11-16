@@ -1,0 +1,46 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/spiced-bison-meatball-and-rice-bowl",
+  "recipes": [
+    {
+      "name": "Spicy Garlicky Bison Meatball & Rice Bowl",
+      "source_url": "https://app.cookwell.com/recipe/spiced-bison-meatball-and-rice-bowl",
+      "recipe_id": "https://app.cookwell.com/recipe/spiced-bison-meatball-and-rice-bowl",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Ground bison, 450 g",
+        "Salt, 4 g",
+        "Garlic, 3 cloves",
+        "Harissa paste, 50 g",
+        "Yogurt, 170 g",
+        "Garlic Powder, 5 g",
+        "Dried oregano, 2 g",
+        "Lime juice, to taste",
+        "Cooked rice",
+        "Tomatoes",
+        "Lettuce",
+        "Pickled onions",
+        "Pickled beets"
+      ],
+      "instructions": [
+        "Add the ground meat, minced garlic, salt, and harissa paste to a bowl. Use your hands to mix the meat thoroughly. Stop when the meat begins to get tacky. Shape the meatballs to your desired size. I did golf ball-size meatballs. Preheat a pan or skillet over medium-high heat.",
+        "Once the cooking surface is hot, add the meatballs to the pan to sear. Rotate the meatballs every few minutes so that you get browning and light charring on all sides. Adjust the heat as needed. Once the meatballs have a crust on all sides, use a thermometer to check their internal temperature. Pull the meatballs off the heat when they read 140°F/60°C. Meatballs take different amounts of time to cook through depending on their size and your pan. Because these meatballs don’t have breadcrumbs or binders, it’s important that you don’t overcook the meatballs to keep them juicy. If you have the time, you can prep the remaining components while the meatballs cook.",
+        "Mix together all the yogurt sauce ingredients until smooth. If desired, you can thin the sauce with a splash of water. Taste and adjust with more lime juice or spices. Gather or chop any fresh toppings you want for the bowl.",
+        "In a bowl, warm up a serving of rice. Top with the fresh vegetables, a serving of the warm meatballs, some yogurt sauce, and pickled beets or onions as a garnish."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

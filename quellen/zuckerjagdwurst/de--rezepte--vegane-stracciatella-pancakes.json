@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-stracciatella-pancakes",
+  "recipes": [
+    {
+      "name": "Vegane Stracciatella-Pancakes",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-stracciatella-pancakes",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-stracciatella-pancakes#recipe-48acc2bd-ece7-5599-87f3-0e702ef55e1b",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Pancakes",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Pancakes:",
+        "300 g Weizenmehl Typ 405",
+        "8 g Backpulver",
+        "50 g Rohrzucker",
+        "1 Prise Salz",
+        "200 ml pflanzliche Milch",
+        "180 g pflanzlicher Stracciatella-Joghurt (z.B. von LUVE)",
+        "50 g Zartbitter-Schokoraspel",
+        "Pflanzenöl zum Braten",
+        "Für das Topping:",
+        "200 ml vegane Schlagsahne",
+        "8 g Sahnesteif",
+        "8 g Vanillezucker",
+        "Zartbitter-Schokoraspel",
+        "frisches Obst"
+      ],
+      "instructions": [
+        "Mehl, Backpulver, Rohrzucker und eine Prise Salz in einer Schüssel mischen. Die pflanzliche Milch und den pflanzlichen Stracciatella-Joghurt dazugeben und vermengen. Schokoraspel vorsichtig unterheben und den Teig ca. 10 Minuten ruhen lassen.",
+        "Etwas Pflanzenöl in einer kleinen Pfanne erhitzen und die Pancakes bei kleiner Hitze nach und nach von beiden Seiten goldbraun ausbacken.",
+        "Tipp: Die Pancakes werden am Ende schön dick und fluffig. Damit sie aber auch wirklich durchgebacken werden, sollte man sie lieber auf niedriger Stufe mind. 4-5 Minuten braten und erst wenden, wenn man kleine Bläschen an der Oberfläche sieht. Testet am besten bei eurem ersten Pancake, ob dieser durch ist, sodass ihr gegebenenfalls die Temperatur und Zeit anpassen könnt.",
+        "Die vegane Schlagsahne mit Sahnesteif und Vanillezucker aufschlagen. Die Pancakes mit veganer Schlagsahne und frischem Obst servieren und mit Schokoraspeln bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

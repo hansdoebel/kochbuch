@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gefuellte-eier",
+  "recipes": [
+    {
+      "name": "Vegane gefüllte Eier",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gefuellte-eier",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gefuellte-eier#recipe-19f71a38-0b48-5c66-bc8c-c604b37c79c5",
+      "authors": [
+        "Gesine Fiedler"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Für die veganen Eier:",
+        "500 ml Sojamilch",
+        "3 TL Agartine (Agar Agar-Gehalt 25 %)",
+        "0.5 TL Kala Namak",
+        "#### Für die Füllung:",
+        "1 reife Avocado",
+        "200 g Naturtofu",
+        "3 EL vegane Mayonnaise",
+        "1 EL Hefeflocken",
+        "1 EL Gewürzgurkenwasser (aus dem Glas)",
+        "3 TL Senf",
+        "1 TL Zwiebelpulver",
+        "1 TL Kala Namak",
+        "1 TL Kurkuma",
+        "1 TL rosenscharfes Paprikapulver",
+        "3 EL veganes rotes Pesto",
+        "Für das Topping:",
+        "20 g Schnittlauch",
+        "30 g Kapern",
+        "1 TL Paprikapulver"
+      ],
+      "instructions": [
+        "Für die veganen Eier Sojamilch mit Agartine in einem Topf verrühren. Anschließend die Mischung in einen Topf geben und über kleiner bis mittlerer Hitze circa 5 Minuten erhitzen, bis sie einmal aufkocht. Vom Herd nehmen, Kala Namak unterrühren und die Mischung in die Ei-Formen füllen. Erst auf Raumtemperatur runterkühlen und dann im Kühlschrank circa 60 Minuten ruhen lassen. Bei uns hat es für 12 halbe Ei-Formen gereicht.",
+        "Für die Füllung Avocado schälen, Kern entfernen, fein würfeln und beiseitestellen. Tofu mit veganer Mayonnaise, Hefeflocken, Gewürzgurkenwasser, Senf, Zwiebelpulver, Kala Namak, Kurkuma und Paprikapulver glattpürieren. Dafür entweder einen Pürierstab oder einen Mixer verwenden. Die fertige Masse in zwei Portionen aufteilen und unter eine Hälfte rotes Pesto und unter die andere Hälfte Avocado mixen. Dann beide Massen in zwei Spritzbeutel mit geriffelten Spritztüllen füllen und noch mal für mindestens 30 Minuten kalt stellen.",
+        "Die festgewordenen Eier aus der Form lösen und eine kleine Mulde reinlöffeln (zum Beispiel mit einem Melonenausstecher). In jeweils drei Eier eine Sorte der jeweiligen Füllung spritzen. Schnittlauch in feine Röllchen schneiden und die grünen Eier mit Schnittlauch und die roten Eier mit Kapern und Paprikapulver garnieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

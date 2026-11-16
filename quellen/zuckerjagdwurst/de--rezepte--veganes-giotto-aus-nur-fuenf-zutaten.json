@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-giotto-aus-nur-fuenf-zutaten",
+  "recipes": [
+    {
+      "name": "Veganes Giotto (aus nur 5 Zutaten)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-giotto-aus-nur-fuenf-zutaten",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-giotto-aus-nur-fuenf-zutaten#recipe-2daf2f9c-1392-5b8d-be83-b5653d52dcca",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "14 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "Für die Hülle:",
+        "1 vegane Waffelplatte (30 x 40 cm)",
+        "50 g vegane weiße Schokolade",
+        "40 g gehackte Haselnüsse",
+        "Kokosöl (optional)",
+        "Für die Creme:",
+        "75 g vegane weiße Schokolade",
+        "110 g Haselnussmus",
+        "0.5 TL Vanillepaste",
+        "1 Prise Salz"
+      ],
+      "instructions": [
+        "Für die Creme vegane weiße Schokolade über einem Wasserbad schmelzen. Haselnussmus, Vanillepaste und Salz dazugeben und verrühren. Anschließend beiseitestellen.",
+        "Den Backofen auf 180 °C (Ober-/Unterhitze) vorheizen. Mit einem runden Ausstecher (⌀ 5 Zentimeter) Kreise aus den Waffelplatten ausstechen. Die Waffelkreise circa 5 Sekunden in ein Wasserbad tunken und anschließend auf ein Brett legen. Mit einem Messer vorsichtig ein Drittel des Kreises in Form eines Kuchenstücks herausschneiden.",
+        "Sobald die Waffelplatten weich sind, etwas platt drücken, in eine Silikonform legen und vorsichtig in die Form drücken. Bei 180 °C (Ober-/Unterhitze) circa 20 Minuten backen, bis die Waffeln wieder knusprig sind. Danach vollständig abkühlen lassen.",
+        "Die gehackten Haselnüsse noch etwas kleiner hacken und anschließend in einer fettfreien Pfanne anrösten.",
+        "Die Creme in die ausgekühlten Waffelhalbkreise geben und diese anschließend 20–30 Minuten in den Kühlschrank stellen, sodass die Creme fest wird.",
+        "In der Zwischenzeit die vegane weiße Schokolade über einem Wasserbad schmelzen.",
+        "Tipp: Optional etwas Kokosöl zur weißen Schokolade dazugeben, falls diese etwas flüssiger ist.",
+        "Die Ränder der Waffelhalbkreise mit etwas geschmolzener Schokolade einstreichen und zwei Halbkreise zu einer Kugel zusammensetzen. Nun die Kugeln nacheinander zuerst in die weiße Schokolade tunken und daraufhin in den gehackten Haselnüssen wälzen, sodass sie von allen Seiten ummantelt sind. Auf ein mit Backpapier ausgelegtes Brett circa 10 Minuten in den Kühlschrank stellen, sodass die Schokolade fest wird."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

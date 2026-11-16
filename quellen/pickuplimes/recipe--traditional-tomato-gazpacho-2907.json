@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/traditional-tomato-gazpacho-2907",
+  "recipes": [
+    {
+      "name": "Traditional Tomato Gazpacho",
+      "source_url": "https://www.pickuplimes.com/recipe/traditional-tomato-gazpacho-2907",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT02H10M",
+      "ingredients": [
+        "6 medium tomato",
+        "1 red bell pepper",
+        "½ cucumber",
+        "1 slice rustic bread",
+        "½ small red onion",
+        "1 garlic clove",
+        "¼ cup extra-virgin olive oil",
+        "1½ Tbsp red wine vinegar",
+        "½ tsp salt",
+        "¼ tsp ground black pepper"
+      ],
+      "instructions": [
+        "Add the tomatoes, bell pepper, cucumber, bread, onion, and garlic to a blender. Blend into a chunky sauce*.",
+        "Then add the oil, vinegar, salt, and pepper. Blend until smooth.",
+        "Pass the soup through a sieve to remove any remaining chunks.",
+        "Chill the gazpacho in the fridge for at least 2 hours before serving. Garnish as desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Use ripe, in-season tomatoes for the best flavour. Tomato size can vary, but for us, 6 medium tomatoes weighed about 800g. † For us, ½ cucumber weighed 185g. † For us, 1 large slice of bread weighed 55g. * Don't blend for too long, as the colour will get less vibrant.",
+    "Storage Store leftovers in an airtight container in the fridge for up to 2 days."
+  ]
+}

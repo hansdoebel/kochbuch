@@ -1,0 +1,142 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/gogumabap",
+  "recipes": [
+    {
+      "name": "Sweet potato rice (Goguma-bap)",
+      "source_url": "https://www.maangchi.com/recipe/gogumabap",
+      "recipe_id": "/recipe/gogumabap#sso/recipe/24764",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 cup of short grain rice",
+        "1 pound (453 grams) of sweet potato",
+        "Water",
+        "½ cup of chopped Asian chives (can be replaced with green onions)",
+        "1 clove of minced garlic",
+        "¼ cup soy sauce",
+        "1 ts honey or sugar",
+        "2 Tbs of vinegar",
+        "1 ts of Korean hot pepper flakes (gochugaru)",
+        "1 Tbs of toasted sesame seeds"
+      ],
+      "instructions": [
+        "Put 1 cup of short grain rice in a heavy bottomed pot or stone pot. Rinse in cold water and drain. Scrub the wet rice with your hand, and rinse and drain until the drained water runs clear. Drain the last of the water by tilting the pot as much as you can. The rice should still be wet. Add 1 cup of water and soak in the pot for 30 minutes with the lid closed.",
+        "Peel the sweet potatoes and rinse in cold water. Cut them into ½ inch cubes.",
+        "Add the sweet potato cubes over the rice in the pot.",
+        "Bring it to a boil over medium heat and let it cook for about 15 minutes in a stone pot (or 10 minutes in the regular pot).",
+        "Open the lid and turn over the rice and the sweet potato with a wooden spoon.",
+        "Close the lid and let it simmer for another 15-20 minutes in a stone pot (or 10-15 minutes in a regular pot) until the sweet potato and rice are cooked fully.",
+        "Open the lid and use a wooden spoon to turn over the rice and sweet potato so they mix well.",
+        "Transfer some to serving bowls and serve with seasoning sauce.",
+        "Combine the soy sauce, chopped chives, garlic, honey, Korean hot pepper flakes (gochugaru), vinegar, and toasted sesame seeds in a small bowl."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients (for 2-3 servings)"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup of short grain rice"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound (453 grams) of sweet potato"
+        },
+        {
+          "tag": "li",
+          "text": "Water"
+        },
+        {
+          "tag": "h3",
+          "text": "For seasoning sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup of chopped Asian chives (can be replaced with green onions)"
+        },
+        {
+          "tag": "li",
+          "text": "1 clove of minced garlic"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 ts honey or sugar"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbs of vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "1 ts of Korean hot pepper flakes (gochugaru)"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbs of toasted sesame seeds"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Put 1 cup of short grain rice in a heavy bottomed pot or stone pot. Rinse in cold water and drain. Scrub the wet rice with your hand, and rinse and drain until the drained water runs clear. Drain the last of the water by tilting the pot as much as you can. The rice should still be wet. Add 1 cup of water and soak in the pot for 30 minutes with the lid closed."
+        },
+        {
+          "tag": "li",
+          "text": "Peel the sweet potatoes and rinse in cold water. Cut them into ½ inch cubes."
+        },
+        {
+          "tag": "li",
+          "text": "Add the sweet potato cubes over the rice in the pot."
+        },
+        {
+          "tag": "li",
+          "text": "Bring it to a boil over medium heat and let it cook for about 15 minutes in a stone pot (or 10 minutes in the regular pot)."
+        },
+        {
+          "tag": "li",
+          "text": "Open the lid and turn over the rice and the sweet potato with a wooden spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Close the lid and let it simmer for another 15-20 minutes in a stone pot (or 10-15 minutes in a regular pot) until the sweet potato and rice are cooked fully."
+        },
+        {
+          "tag": "li",
+          "text": "Open the lid and use a wooden spoon to turn over the rice and sweet potato so they mix well."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer some to serving bowls and serve with seasoning sauce."
+        },
+        {
+          "tag": "h3",
+          "text": "For the seasoning sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "Combine the soy sauce, chopped chives, garlic, honey, Korean hot pepper flakes (gochugaru), vinegar, and toasted sesame seeds in a small bowl."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

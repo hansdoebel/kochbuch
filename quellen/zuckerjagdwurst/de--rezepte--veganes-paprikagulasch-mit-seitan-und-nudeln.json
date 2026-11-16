@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-paprikagulasch-mit-seitan-und-nudeln",
+  "recipes": [
+    {
+      "name": "Veganes Paprika-Seitan-Gulasch mit Nudeln",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-paprikagulasch-mit-seitan-und-nudeln",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-paprikagulasch-mit-seitan-und-nudeln#recipe-ac29dd87-0ce5-5ddd-8535-b65feb34e429",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "400 g kurze Nudeln",
+        "3 Zwiebeln",
+        "1 Knoblauchzehe",
+        "2 rote Paprika",
+        "1 Karotte",
+        "600 g Seitan aus der Dose („Vegetarian Mock Duck“)",
+        "2 EL vegane Butter",
+        "2 EL edelsüßes Paprikapulver",
+        "1 TL rosenscharfes Paprikapulver",
+        "1 EL Tomatenmark",
+        "2 EL Senf",
+        "250 ml veganer Rotwein",
+        "250 ml Gemüsebrühe",
+        "pflanzlicher Schmand zum Servieren",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Zwiebeln und Knoblauch schälen. Die Zwiebeln halbieren und in dünne Scheiben schneiden. Den Knoblauch fein schneiden. Die Karotte längs halbieren und ebenfalls in dünne Scheiben schneiden. Paprika waschen und in Würfel oder Streifen schneiden. Die Seitanstückchen abgießen und falls nötig etwas kleiner schneiden.",
+        "Vegane Butter in einem Topf erhitzen und zuerst den Seitan darin circa 5 Minuten anbraten, bis er gut gebräunt ist. Anschließend Zwiebeln, Knoblauch, Karotte und Paprika hinzugeben. Alles gemeinsam circa 10 Minuten anbraten, bis das Gemüse weicher ist. Mit Paprikapulver, Salz und Pfeffer würzen.",
+        "Tomatenmark und Senf hinzugeben und weitere 2–3 Minuten anbraten. Anschließend mit veganem Rotwein ablöschen, mit Gemüsebrühe aufgießen und alles gut verrühren. Das Gulasch bei kleiner Hitze köcheln lassen, bis die Nudeln fertig sind.",
+        "In der Zwischenzeit einen Topf mit gesalzenem Wasser zum Kochen bringen und die Nudeln nach Packungsanweisung kochen, bis sie al dente sind. Vor dem Abgießen eine Tasse vom Nudelwasser abschöpfen und beiseitestellen.",
+        "Die gekochten Nudeln zum Gulasch geben und vermengen. Dabei etwas vom Kochwasser dazugeben und alles mit Paprikapulver, Salz und Pfeffer abschmecken.",
+        "Das Gulasch mit einem Klecks veganem Schmand und gehackter Petersilie servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/sun-dried-tomato-and-butter-bean-stew-1761",
+  "recipes": [
+    {
+      "name": "Sun-Dried Tomato & Butter Bean Stew",
+      "source_url": "https://www.pickuplimes.com/recipe/sun-dried-tomato-and-butter-bean-stew-1761",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT15M",
+      "total_time": "PT25M",
+      "ingredients": [
+        "1 Tbsp vegetable oil",
+        "1 large leek",
+        "3 garlic clove",
+        "½ tsp dried thyme",
+        "½ tsp dried rosemary",
+        "⅓ cup oil-packed sun-dried tomatoes",
+        "1 Tbsp all-purpose flour",
+        "1¼ cup water",
+        "1 vegetable bouillon cube",
+        "3 cup cooked butter beans",
+        "½ cup soy cooking cream",
+        "5 cup spinach",
+        "2 Tbsp white wine vinegar",
+        "¼ tsp ground black pepper",
+        "3 slice rustic bread"
+      ],
+      "instructions": [
+        "Heat the oil in a large pot over medium-high heat. Cook the leek for 3 to 4 minutes.",
+        "Add the garlic, thyme, and rosemary. Cook for 2 minutes, until fragrant.",
+        "Add the sun-dried tomatoes and flour. Continue to stir, cooking for 1 minute.",
+        "Add the water and bouillon cube. Bring to a boil, then reduce to a simmer and cook uncovered until thickened.",
+        "Stir in the beans and cooking cream. Cook for another 2 minutes.",
+        "Lastly, stir in the spinach, white wine vinegar and black pepper.",
+        "Serve with toasted bread, garnish, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Also known as lima beans.",
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

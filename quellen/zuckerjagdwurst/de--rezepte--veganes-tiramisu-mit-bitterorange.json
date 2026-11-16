@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-tiramisu-mit-bitterorange",
+  "recipes": [
+    {
+      "name": "Veganes Tiramisu mit Bitterorange",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-tiramisu-mit-bitterorange",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-tiramisu-mit-bitterorange#recipe-6b86ffa6-6bc6-5922-b0e0-a70232adb99e",
+      "authors": [
+        "Anneke Schügner"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Dessertgläser (ø 8 cm) oder eine Form (15 x 25 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT340M",
+      "ingredients": [
+        "Für den Biskuit:",
+        "225 g Weizenmehl Type 405 oder Dinkelmehl Type 603 150 g Zucker 5 g (1 TL) Backpulver 8 g (1.5 TL) Vanillezucker 50 ml Pflanzenöl (Raps- oder Sonnenblumenöl) 250 ml Sprudelwasser",
+        "Für die Creme:",
+        "200 ml pflanzliche Sahne zum Aufschlagen 16 g (2 EL) Sahnesteif 150 g pflanzliche Crème fraîche 8 g (1.5 TL) Vanillezucker 50 g Puderzucker",
+        "Außerdem:",
+        "500 g Orangen",
+        "120 ml Aperol/Bitterol oder ähnliches",
+        "50 g Backkakao"
+      ],
+      "instructions": [
+        "Ofen auf 180°C (Umluft) vorheizen. Für den Biskuit Mehl, Zucker, Backpulver und Vanillezucker in eine Schüssel geben und mit dem Schneebesen gut vermengen. Pflanzenöl und Sprudelwasser hinzugeben und kurz verrühren. Den Teig in eine 30x25 cm große, mit Backpapier ausgelegte Form geben und ca. 20 Minuten backen.",
+        "Pflanzliche Sahne mit Sahnesteif aufschlagen. Vegane Crème fraîche, Vanillezucker und Puderzucker unterheben. Die fertige Creme in den Kühlschrank geben.",
+        "Tipp: Wer mag, gibt noch ein wenig geriebene Orangenschale hinzu.",
+        "Orangen schälen und das Fruchtfleisch in daumengroße Stücke schneiden. Anschließend zum Abtropfen in ein Sieb geben.",
+        "Den vollständig abgekühlten Biskuit aus der Form lösen und auf die gewünschte Größe zuschneiden, also entweder Kreise für eure Gläser ausstechen oder den Teig halbieren, so dass ihr zwei 15x25 cm große Teighälften habt.",
+        "Nun geht es an das Schichten des Tiramisus. Dafür erst Biskuit in ein Glas geben, ein wenig Aperol daraufgeben, Orangenstücke darauf verteilen, mit etwas Creme bedecken und das Ganze wiederholen.",
+        "Das Tiramisu am besten über Nacht ziehen lassen. Kurz vor dem Servieren großzügig mit ungesüßtem Kakaopulver bestäuben."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,104 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/maeun-gamja-jorim",
+  "recipes": [
+    {
+      "name": "Spicy braised potatoes (Maeun-gamja-jorim: 매운감자조림)",
+      "source_url": "https://www.maangchi.com/recipe/maeun-gamja-jorim",
+      "recipe_id": "/recipe/maeun-gamja-jorim#sso/recipe/76922",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 pound peeled potato (Idaho or Yukon), cut crosswise into ½ inch thick pieces",
+        "5 ounces onion, sliced (about 1 cup)",
+        "2 garlic cloves, minced",
+        "3 tablespoons soy sauce",
+        "2 tablespoons Korean hot pepper flakes (gochugaru)",
+        "1 teaspoon sugar",
+        "7 large dried anchovies, heads and guts removed",
+        "1½ cup water"
+      ],
+      "instructions": [
+        "Add potato, onion, garlic, soy sauce, hot pepper flakes, and sugar to a heavy pot. Mix all with a wooden spoon.",
+        "Add the anchovies and water. Cover and cook for 10 minutes over medium high heat.",
+        "Open and stir. Cover and lower the heat to medium.",
+        "Cook for another 15 minutes until the potato is fully cooked but not mushy.",
+        "Transfer it to a plate and serve right away with rice. You can refrigerate it up to 2 to 3 days. To eat again, reheat in the microwave or put it into a pan with a little bit of water and heat it up on the stove. Or you can serve it cold."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound peeled potato (Idaho or Yukon), cut crosswise into ½ inch thick pieces"
+        },
+        {
+          "tag": "li",
+          "text": "5 ounces onion, sliced (about 1 cup)"
+        },
+        {
+          "tag": "li",
+          "text": "2 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "3 tablespoons soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons Korean hot pepper flakes (gochugaru)"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon sugar"
+        },
+        {
+          "tag": "li",
+          "text": "7 large dried anchovies, heads and guts removed"
+        },
+        {
+          "tag": "li",
+          "text": "1½ cup water"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Add potato, onion, garlic, soy sauce, hot pepper flakes, and sugar to a heavy pot. Mix all with a wooden spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Add the anchovies and water. Cover and cook for 10 minutes over medium high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Open and stir. Cover and lower the heat to medium."
+        },
+        {
+          "tag": "li",
+          "text": "Cook for another 15 minutes until the potato is fully cooked but not mushy."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer it to a plate and serve right away with rice. You can refrigerate it up to 2 to 3 days. To eat again, reheat in the microwave or put it into a pan with a little bit of water and heat it up on the stove. Or you can serve it cold."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

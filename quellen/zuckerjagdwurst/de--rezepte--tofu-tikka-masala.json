@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tofu-tikka-masala",
+  "recipes": [
+    {
+      "name": "Tofu Tikka Masala",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tofu-tikka-masala",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/tofu-tikka-masala#recipe-dbb18522-d696-53e4-b822-4e37e421e510",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT35M",
+      "ingredients": [
+        "FÜR DIE PASTE:",
+        "2 Schalotten",
+        "3 Knoblauchzehen",
+        "25 g Ingwer",
+        "3 EL Kokosö",
+        "3 EL Garam Masala",
+        "1 Limette (Saft)",
+        "1 TL Koriander",
+        "1 TL Kreuzkümmel",
+        "1 TL Chili",
+        "1 TL Paprika",
+        "1 TL weißer Pfeffer",
+        "1 TL Salz",
+        "AUSSERDEM:",
+        "200 g Reis",
+        "2 EL Kokosöl",
+        "400 g Naturtofu",
+        "3 EL Tomatenmark",
+        "100 g passierte Tomaten",
+        "300 ml Kokosmilch",
+        "2 EL vegane Butter",
+        "2 EL pflanzlicher Joghurt",
+        "Salz & Pfeffer"
+      ],
+      "instructions": [
+        "Gebt alle Zutaten für die Paste in eine Schüssel oder ein hohes Gefäß und püriert die Zutaten zu einer Paste.",
+        "Den Reis ansetzen, also Reis und Wasser gemeinsam in einen Topf geben. Auf 1 Tasse Reis kommen ca. 1,5 Tassen Wasser, in diesem Fall also 300 ml. Salzt das Wasser und bringt es kurz zum Kochen. Anschließend die Hitze reduzieren und den Reis ca. 20 Minuten köcheln lassen, bis er das Wasser komplett aufgesogen hat. Falls der Reis dann noch immer zu viel Biss hat, nochmal etwas Wasser dazugeben und wieder warten, bis das Wasser vollständig aufgesogen ist.",
+        "In der Zwischenzeit den Tofu in Würfel schneiden. Kokosöl in einer großen Pfanne erhitzen und die Paste einrühren. Beibt am besten auf niedriger Hitze, dann brennt auch nix an. Tofuwürfel dazu geben und ca. 6-8 Minuten anbraten. Tomatenmark einrühren und 2-3 Minuten weiter anbraten. Danach passierte Tomaten und Kokosmilch dazugeben und alles mind. 10 Minuten köcheln lassen. Mit Salz und Pfeffer abschmecken.",
+        "Vom Herd nehmen und die vegane Butter und den pflanzlichen Joghurt einrühren. Mit Reis servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

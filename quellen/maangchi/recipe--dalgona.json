@@ -1,0 +1,86 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/dalgona",
+  "recipes": [
+    {
+      "name": "Dalgona candy with nuts",
+      "source_url": "https://www.maangchi.com/recipe/dalgona",
+      "recipe_id": "/recipe/dalgona#sso/recipe/94744",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "1 cookie",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "P0DT0H3M0S",
+      "ingredients": [
+        "2 tablespoons white sugar",
+        "¼ teaspoon baking soda",
+        "7 to 8 nuts (almonds, cashew, pistachios, or peanuts), optional"
+      ],
+      "instructions": [
+        "If you use nuts, place several on a baking sheet lined with parchment paper, in a circle about 2 inches in diameter.",
+        "Put the sugar in a stainless steel ladle (or small pan) and heat it up over low heat. When the sugar starts melting, stir with a small and long handle spoon until the sugar is fully melted.",
+        "Stir in the baking soda. It will expand three times in size.",
+        "Quickly drop the hot candy on top of the nuts. Let it cool down for about 10 minutes. Serve right away."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Makes 1 cookie"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons white sugar"
+        },
+        {
+          "tag": "li",
+          "text": "¼ teaspoon baking soda"
+        },
+        {
+          "tag": "li",
+          "text": "7 to 8 nuts (almonds, cashew, pistachios, or peanuts), optional"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "If you use nuts, place several on a baking sheet lined with parchment paper, in a circle about 2 inches diameter"
+        },
+        {
+          "tag": "li",
+          "text": "Put the sugar in a stainless steel ladle (or small pan) over low heat. When the sugar starts melting, stir it with a long-handled stainless or wooden spoon so it melts evenly and doesn’t burn. Control the heat by lifting the ladle far from the heat or bringing it closer, as needed."
+        },
+        {
+          "tag": "li",
+          "text": "Stir the melting sugar until it turns into a smooth, clear liquid with no lumps."
+        },
+        {
+          "tag": "li",
+          "text": "Add baking soda and continue stirring. It will expand and change from light brown to creamy golden beige and then it will expand three times in size."
+        },
+        {
+          "tag": "li",
+          "text": "Quickly drop the hot candy on top of the nuts. Let it cool down for about 10 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Serve right away."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

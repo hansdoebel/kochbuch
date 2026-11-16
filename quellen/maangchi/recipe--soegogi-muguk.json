@@ -1,0 +1,104 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/soegogi-muguk",
+  "recipes": [
+    {
+      "name": "Beef and Radish Soup (Soegogi-muguk)",
+      "source_url": "https://www.maangchi.com/recipe/soegogi-muguk",
+      "recipe_id": "/recipe/soegogi-muguk#sso/recipe/31375",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "½ pound beef brisket, cut into small pieces",
+        "½ pound Korean radish or daikon, washed and peeled",
+        "2 green onions, sliced thinly diagonally",
+        "4 garlic cloves, minced",
+        "1 tablespoon fish sauce (or soup soy sauce)",
+        "1 teaspoon kosher salt",
+        "7 cups water"
+      ],
+      "instructions": [
+        "Slice the radish thinly into bite size pieces about 1½ x 1½ inch and ¼ to 1/8 inch thick.",
+        "Put the radish and water into a pot. Cover and bring it to a boil over medium high heat for about 15 minutes.",
+        "Add the beef and garlic. Turn down the heat to medium and cook for 25 minutes.",
+        "Add fish sauce, kosher salt, and chopped green onion.",
+        "Cook another 5 minutes and remove from the heat.",
+        "Ladle into a bowl. Serve with rice, kimchi, and more side dishes."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients (serves 2-3)"
+        },
+        {
+          "tag": "li",
+          "text": "½ pound beef brisket, cut into small pieces"
+        },
+        {
+          "tag": "li",
+          "text": "½ pound Korean radish or daikon, washed and peeled"
+        },
+        {
+          "tag": "li",
+          "text": "2 green onions, sliced thinly diagonally"
+        },
+        {
+          "tag": "li",
+          "text": "4 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon fish sauce (or soup soy sauce)"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "7 cups water"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Slice the radish thinly into bite size pieces about 1½ x 1½ inch and ¼ to 1/8 inch thick."
+        },
+        {
+          "tag": "li",
+          "text": "Put the radish and water into a pot. Cover and bring it to a boil over medium high heat for about 15 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Add the beef and garlic. Turn down the heat to medium and cook for 25 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Add fish sauce, kosher salt, and chopped green onion."
+        },
+        {
+          "tag": "li",
+          "text": "Cook another 5 minutes and remove from the heat."
+        },
+        {
+          "tag": "li",
+          "text": "Ladle into a bowl. Serve with rice, kimchi, and more side dishes."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

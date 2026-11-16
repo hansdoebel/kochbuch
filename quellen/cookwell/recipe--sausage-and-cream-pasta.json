@@ -1,0 +1,44 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/sausage-and-cream-pasta",
+  "recipes": [
+    {
+      "name": "Sausage & Cream Pasta",
+      "source_url": "https://app.cookwell.com/recipe/sausage-and-cream-pasta",
+      "recipe_id": "https://app.cookwell.com/recipe/sausage-and-cream-pasta",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4-6 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "Pasta, 450 g",
+        "Water",
+        "Salt",
+        "Whole peeled tomatoes, 800 g",
+        "Heavy cream, 75 g",
+        "Butter, 30 g",
+        "Italian Sausage, 2",
+        "Rosemary, 1 sprig",
+        "Red Pepper Flakes, a sprinkle",
+        "Salt, to taste",
+        "Parmigiano Reggiano",
+        "Parsley"
+      ],
+      "instructions": [
+        "Set a pot of water to boil. Add your sausage links and boil for 2 minutes to firm them up (this will allow you to slice them easily). Remove them from the water and slice them into even coins. Add the pasta to your boiling pot of water, along with a small handful of salt. Set a timer and drain when finished. While the pasta is boiling, you can start the sauce.",
+        "In a large saucepan, sear the sausage slices in 15 grams of butter over high heat until they are browned. Once they are cooked through and nicely colored, remove them from the pan and set them aside. Leave any remaining fat in the pan. Add the rosemary and pepper flakes to the pan and bloom until they are fragrant. Next, add the tomatoes. Using a wooden spoon or spatula, scrape any fond off the bottom of the pan. Once the pan is deglazed, reduce the heat and let it simmer for 5-10 minutes or until the tomatoes have reduced by about a third.",
+        "Spoon the tomato sauce into a blender, being careful to remove the rosemary sprig. Blend until smooth, and return to the pan. Add in the heavy cream and reduce for a few minutes, or until the desired consistency is reached. Add the cooked pasta to the sauce, along with the reserved Italian sausage, and stir to combine. Toss with the remaining 15 grams of butter to finish. Garnish with Parmigiano Reggiano & parsley and serve."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

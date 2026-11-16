@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/oktoberfest-taco-mit-veganem-wurstsalat",
+  "recipes": [
+    {
+      "name": "Oktoberfest Taco mit veganem Wurstsalat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/oktoberfest-taco-mit-veganem-wurstsalat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/oktoberfest-taco-mit-veganem-wurstsalat#recipe-369e65e1-ad9a-5fd2-adbd-34997d603789",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "6 weiche Tacos",
+        "4 EL Süßer Senf",
+        "2 EL vegane Mayo",
+        "2 Laugenstangen",
+        "FÜR DEN WURSTSALAT",
+        "200 g vegane Fleischwurst",
+        "1 gelbe Paprika",
+        "1 rote Zwiebel",
+        "8 Radieschen",
+        "5 Cornichons",
+        "1/2 Bund Schnittlauch",
+        "1/2 Bund Petersilie",
+        "FÜR DAS DRESSING",
+        "4 EL Öl",
+        "2 EL Weißwein-Essig",
+        "1 EL Süßer Senf",
+        "1 EL Agavendicksaft",
+        "Pfeffer & Salz"
+      ],
+      "instructions": [
+        "Los geht’s mit dem Wurstsalat. Dafür müsst ihr einfach alle Zutaten klein schneiden. Egal ob in Würfel, Scheiben oder Streifen – geschnitten wird, wie ihr mögt.",
+        "Verrührt alle Zutaten für das Dressing, gebt es über den Salat und lasst das ganze eine halbe Stunde ziehen. Danach könnt ihr natürlich nochmal abschmecken.",
+        "In der Zwischenzeit könnt ihr eure Laugenstangen in Scheiben schneiden und in einer großen Pfanne ohne Öl von beiden Seiten anrösten.",
+        "Verrührt außerdem Mayo mit süßem Senf in einer kleinen Schüssel.",
+        "Und dann geht’s auch schon los. Beschmiert euren Taco mit Süßer-Senf-Mayo, stapelt euren veganen Wurstsalat darauf und legt ein paar krosse Laugenstangen-Scheiben dazu."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

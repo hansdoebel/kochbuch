@@ -1,0 +1,43 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/steamed-mussels",
+  "recipes": [
+    {
+      "name": "Steamed Mussels",
+      "source_url": "https://app.cookwell.com/recipe/steamed-mussels",
+      "recipe_id": "https://app.cookwell.com/recipe/steamed-mussels",
+      "authors": [
+        "Cook Well Official"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "Olive Oil, 2 spoonfuls",
+        "Garlic, 5 cloves",
+        "Shallots, 1",
+        "Fresno pepper, 1",
+        "Live mussels, 900 g",
+        "White wine, 500 g",
+        "Salt, to taste",
+        "Black Pepper, to taste",
+        "Lemon juice, a squeeze",
+        "Parsley, for garnish"
+      ],
+      "instructions": [
+        "In a colander, rinse and wash mussels off any sand, debris, or broken shells. If you find any beards attached, remove and rinse them off.",
+        "In a deep pot, add the olive oil, garlic, shallot, red pepper, & aromatics. Sauté over medium heat until fragrant and the vegetables have softened but not browned.",
+        "Add the white wine and the mussels and lightly mix everything to coat. Bring the liquid to a simmer, cover, then steam for 3-6 minutes. Check frequently — as soon as all of the mussels have opened, they are ready. Overcooking can result in the mussels shrinking and going rubbery. To be safe, toss any mussels that didn’t open up during the steaming process.",
+        "Turn off the heat and add the parsley. Taste the broth and adjust the seasoning with salt and pepper, and a squeeze of lemon if desired. Carefully ladle mussels and their broth into bowls. Serve with lemon wedges and toasted bread. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

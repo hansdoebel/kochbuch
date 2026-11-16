@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schillerlocken-mit-roten-johannisbeeren",
+  "recipes": [
+    {
+      "name": "Vegane Schillerlocken mit roten Johannisbeeren",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schillerlocken-mit-roten-johannisbeeren",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schillerlocken-mit-roten-johannisbeeren#recipe-3d315443-a624-5b52-a150-e51e143a9f14",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Schillerlocken",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT75M",
+      "ingredients": [
+        "270 g veganer Blätterteig (40 x 24 cm)",
+        "200 ml vegane Schlagsahne",
+        "12 g (3 TL) Sahnesteif",
+        "8 g (1.5 TL) Vanillezucker",
+        "50 g rote Johannisbeeren",
+        "50 g rote Johannisbeermarmelade",
+        "vegane Butter zum Einfetten",
+        "Puderzucker zum Bestreuen"
+      ],
+      "instructions": [
+        "Den Ofen auf 180°C (Umluft) vorheizen und die Schillerlockenformen/Schaumrollen einfetten.",
+        "Den Blätterteig in möglichst lange, etwa 2-3 cm dünne Streifen schneiden. Die Teigstreifen sich überlappend um die Formen wickeln, beginnend von der kleinen Öffnung aus. Den Teig sorgfältig an die Form drücken, damit keine Lücken beim Backen zwischen den Bahnen entstehen. Die Formen liegend bei 180°C ca. 10-15 Minuten backen, bis der Teig sich goldbraun färbt. Solang die Schillerlocken noch warm sind, vorsichtig von der Form lösen und komplett abkühlen lassen.",
+        "In der Zwischenzeit die vegane Schlagsahne mit Sahnesteif und Vanillezucker aufschlagen, in einen Spritzbeutel füllen und kaltstellen.",
+        "Die Johannisbeeren von den Stielen pflücken. Nun die Innenseite der Schillerlocken mit Johannisbeermarmelade bestreichen und abwechselnd Johannisbeeren und Sahne hineinfüllen. Die Schillerlocken mit Puderzucker bestreuen und direkt servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

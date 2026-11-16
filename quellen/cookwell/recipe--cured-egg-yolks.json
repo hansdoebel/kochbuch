@@ -1,0 +1,36 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/cured-egg-yolks",
+  "recipes": [
+    {
+      "name": "Cured Egg Yolks",
+      "source_url": "https://app.cookwell.com/recipe/cured-egg-yolks",
+      "recipe_id": "https://app.cookwell.com/recipe/cured-egg-yolks",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT145H10M",
+      "ingredients": [
+        "Salt, 454 g",
+        "Sugar, 100 g",
+        "Calabrian chili powder, 5 g",
+        "Egg Yolks, 4"
+      ],
+      "instructions": [
+        "Mix the salt, sugar, and Calabrian chili powder in a large bowl. Spread out half of the salt mixture in a baking dish or container. Using a spoon or an egg, create four dimples in the salt mixture.",
+        "Separate the yolks from the whites, and save the whites for another use. Carefully place an egg yolk in each dimple. Lightly sprinkle the rest of the salt mixture over the yolks until they are completely covered. Cover the container with plastic and let it chill in the fridge for 4-6 days. The salt will draw the moisture from the egg. After 4-6 days, they should be firm, but still slightly gummy.",
+        "Preheat the oven to 180° F/ 82°C (or the lowest it will go). Brush the salt off each yolk, then rinse the yolks with water. Lightly dry each yolk with a paper towel. Set a wire rack on a baking sheet and spray it with vegetable oil. Place the yolks on the rack and let them dry out in the oven for 45 to 60 minutes (depending on the oven temperature). The yolks are done when they are opaque and the texture is like firm cheese. Let the yolks cool before using. Instead of using the oven, the yolks can be wrapped in cheesecloth and hung to dry in the fridge for and additional 4-7 days or until firm. Finely grate the egg yolks as a garnish. Try them over pasta (like carbonara), soups, salads, or appetizers."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

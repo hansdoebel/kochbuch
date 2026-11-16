@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.recipetineats.com/taco-slaw-excellent-for-tacos/",
+  "recipes": [
+    {
+      "name": "Taco Slaw",
+      "source_url": "https://www.recipetineats.com/taco-slaw-excellent-for-tacos/",
+      "recipe_id": "https://www.recipetineats.com/taco-slaw-excellent-for-tacos/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "12",
+        "12 - 16 tacos"
+      ],
+      "prep_time": "PT15M",
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "6 tightly packed cups green cabbage (, finely shredded (about 1/4 head))",
+        "1 cup green onion (, finely sliced on the diagonal)",
+        "1/2 cup finely chopped coriander/cilantro leaves",
+        "1/2 cup sour cream ((sub plain yogurt))",
+        "2 tbsp mayonnaise",
+        "2 tsp lime zest",
+        "1 tbsp lime juice",
+        "1/2 tsp cooking salt / kosher salt ((halve for table salt))"
+      ],
+      "instructions": [
+        "Mix the dressing ingredients in a large bowl.",
+        "Toss - Add the Slaw ingredients then toss well with hands or tongs.",
+        "Set aside for at least 1 hour until the cabbage becomes wilted and floppy. Toss again then use in tacos!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: Makes enough for 12 – 16 tacos. Keeps 3 days in the fridge, though the dressing will thin out a bit as it extracts more water from the cabbage. Nutrition per taco, assuming 16 tacos."
+  ]
+}

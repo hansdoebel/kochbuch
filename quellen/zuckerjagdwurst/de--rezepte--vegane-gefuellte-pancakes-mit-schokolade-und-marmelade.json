@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gefuellte-pancakes-mit-schokolade-und-marmelade",
+  "recipes": [
+    {
+      "name": "Vegane gefüllte Pancakes mit Schokolade und Marmelade",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gefuellte-pancakes-mit-schokolade-und-marmelade",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gefuellte-pancakes-mit-schokolade-und-marmelade#recipe-db1c555c-7cb0-5422-8cf4-ad518221ecdb",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Pancakes",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für den Teig:",
+        "150 g Weizenmehl Typ 405",
+        "8 g (1.5 TL) Backpulver",
+        "25 g Rohrzucker",
+        "1 Prise Salz",
+        "180 ml pflanzliche Milch",
+        "90 g pflanzlicher Joghurt",
+        "vegane Butter oder neutrales Pflanzenöl zum Braten",
+        "Für die Füllung:",
+        "Schokoladencreme",
+        "Marmalade",
+        "Außerdem:",
+        "frische Beeren (z. B. Heidelbeeren)",
+        "gehackte Nüsse"
+      ],
+      "instructions": [
+        "Die Füllung der Pancakes am besten am Abend vorher zubereiten. Dafür jeweils drei runde Kleckse Schokoladencreme und Marmelade auf ein Backpapier geben, glatt streichen und einfrieren, bis sie fest sind.",
+        "Für den Teig Weizenmehl, Backpulver, Rohrzucker und Salz gut vermischen. Pflanzliche Milch und pflanzlichen Joghurt dazugeben und mit einem Schneebesen verrühren, bis ein glatter Teig entsteht.",
+        "Eine Pfanne mit etwas veganer Butter oder Pflanzenöl bei mittlere Hitze erwärmen. Einen Esslöffel Pancaketeig in die Pfanne geben, die eingefrorene Scheibe Schokoladencreme oder Marmelade drauflegen und mit einem weiteren Esslöffel Teig bedecken. Wenn der Pancake an der Unterseite leicht gebräunt ist, vorsichtig mit einem Pfannenwender umdrehen und auch von der anderen Seite anbraten, sodass am Ende beide Seiten goldbraun sind.",
+        "Nacheinander alle Pancakes ausbacken. Am besten noch warm und mit frischen Beeren und gehackten Nüssen servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

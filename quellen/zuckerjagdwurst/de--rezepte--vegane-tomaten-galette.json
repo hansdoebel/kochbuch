@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-tomaten-galette",
+  "recipes": [
+    {
+      "name": "Vegane Tomaten-Galette",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-tomaten-galette",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-tomaten-galette#recipe-ed4e7d13-1251-53ae-ae9a-f88ba0fe7938",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Galette",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "Für den Teig:",
+        "200 g Weizenmehl",
+        "50 g Maismehl",
+        "1 TL Zucker",
+        "0.5 TL Salz",
+        "3 TL All Bagel Seasoning",
+        "100 g kalte, pflanzliche Butter",
+        "4 EL Eiswasser",
+        "Für die Füllung:",
+        "150 g veganer Frischkäse",
+        "1 TL getrockneter Oregano",
+        "1 TL Basilikum",
+        "1 TL Zatar",
+        "0.5 TL getrockneter Rosmarin",
+        "300 g Tomaten",
+        "1 Knoblauchzehe",
+        "1 rote Zwiebel",
+        "Außerdem:",
+        "1 EL pflanzliche Milch",
+        "0.5 TL Agavendicksaft oder Ahornsirup",
+        "frischer Basilikum",
+        "Pflanzenöl zum Braten"
+      ],
+      "instructions": [
+        "Weizenmehl, Maismehl, Zucker, Salz und All Bagel Seasoning in einer Schüssel verrühren. Kalte pflanzliche Butter in Würfel schneiden und dazugeben. Erst in der Mehlmischung wenden und danach mit Gabeln oder den Händen schnell einarbeiten, bis der Teig fein krümelig ist. Anschließend kaltes Wasser nach und nach dazugeben, bis der Teig zusammenhält. Den Teig zu einer dicken Scheibe formen und in Frischhaltefolie gewickelt mind. 1 Stunde im Kühlschrank ruhen lassen.",
+        "In der Zwischenzeit die Tomaten in Scheiben schneiden und auf Küchenpapier oder Backpapier ein paar Minuten ruhen lassen, damit sie ein bisschen an Feuchtigkeit verlieren. Den veganen Frischkäse mit getrocknetem Oregano, Basilikum, Zatar und Rosmarin verrühren.",
+        "Knoblauch und rote Zwiebel schälen und in Scheiben oder Streifen schneiden. Pflanzenöl erhitzen und Zwiebel und Knoblauch auf kleiner Hitze ca. 5 Min. anschwitzen. Mit Salz und Pfeffer abschmecken.",
+        "Den Teig aus dem Kühlschrank nehmen und auf einer leicht bemehlten Arbeitsfläche zu einem großen Kreis ausrollen. Wenn er reißen/kleben/anderen Stress verursachen, könnt ihr ihn auch zwischen zwei Blättern Backpapier ausrollen.",
+        "Die vegane Kräuter-Frischkäse-Creme auf dem Teig verstreichen und dabei ca. 2 cm Abstand zum Rand lassen. Erst die Tomatenscheiben und danach die Zwiebel-Knoblauch-Mischung auf dem Frischkäse verteilen. Den Teigrand nach innen klappen. Pflanzliche Milch mit Ahornsirup oder Agavendicksaft verrühren und damit den Teigrand bestreichen.",
+        "Im vorgeheizten Backofen bei 180°C ca. 25 Min. backen, bis der Teigrand goldbraun ist. Vor dem noch ein paar Minuten mit dem Anschneiden warten. Die Tomatengalette mit frischem Basilikum bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

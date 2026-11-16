@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-salted-caramel-eisbecher",
+  "recipes": [
+    {
+      "name": "Veganer Salted Caramel Eisbecher",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-salted-caramel-eisbecher",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-salted-caramel-eisbecher#recipe-e37a0379-a5d6-59b8-bff8-d45e6dcab2f5",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "4 Kugeln veganes Keks-Kakao-Eis (z.B. von LUVE)",
+        "50 g dunkle Schokolade",
+        "50 g Erdnüsse",
+        "grobes Salz",
+        "Veganes Karamell",
+        "60 g Kokosblütenzucker",
+        "60 g Kokosmilch (aus der Dose)",
+        "Prise Salz"
+      ],
+      "instructions": [
+        "Für das vegane Karamell den Kokosblütenzucker und die Kokosmilch (dafür nutzt ihr die dicke Schicht der Kokosnussmilch, die sich normalerweise im oberen Teil einer Dose absetzt) in einen Topf geben und für 5-6 Minuten köcheln lassen. Ständig umrühren und mit einer Prise Salz abschmecken.",
+        "Die Erdnüsse und die dunkle Schokolade grob hacken.",
+        "In zwei Eisbechern oder Gläser je 2-3 Kugeln veganes Eis stapeln und mit dem noch lauwarmen Karamell, den Erdnüssen, der gehackter Schokolade und einer Prise groben Salz toppen. Direkt servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

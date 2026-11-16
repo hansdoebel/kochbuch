@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/brown-sugar-matcha-bubble-tea-1011",
+  "recipes": [
+    {
+      "name": "Brown Sugar Matcha Bubble Tea",
+      "source_url": "https://www.pickuplimes.com/recipe/brown-sugar-matcha-bubble-tea-1011",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT10M",
+      "total_time": "PT20M",
+      "ingredients": [
+        "2 Tbsp light brown sugar",
+        "2 Tbsp boiling water",
+        "½ cup quick-cooking tapioca pearls",
+        "2 tsp matcha powder",
+        "½ cup hot water",
+        "1 tsp pure vanilla extract",
+        "1 cup ice cubes",
+        "2½ cup barista oat milk"
+      ],
+      "instructions": [
+        "Add the brown sugar and boiling water to a bowl. Stir vigorously until the sugar has dissolved.",
+        "In a saucepan, cook the tapioca pearls according to the package instructions. For us, this took about 5 minutes.",
+        "Drain the tapioca pearls, rinse under cold water, and transfer to the brown sugar syrup jar. Give it a mix.",
+        "Sift the matcha powder into a bowl. Then add the hot water. Use a matcha whisk to whisk until there’s a foam layer on top of the matcha*.",
+        "Add the vanilla extract to the matcha mixture and whisk again until combined.",
+        "Divide the brown sugar pearls between the glasses, top with the ice cubes, milk, and lastly the matcha. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † A premium grade of matcha is preferable for this drink over culinary or cooking grade matcha. † Ideally around 175°F/80°C. † Nutrition tip: aim to use plant-based milk that is fortified with calcium . * If you don’t have a matcha whisk, add the same amount of matcha and warm (rather than hot) water to a jar, and shake until combined.",
+    "Storage Best to enjoy this bubble tea immediately."
+  ]
+}

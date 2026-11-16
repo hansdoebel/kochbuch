@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.recipetineats.com/tzatziki/",
+  "recipes": [
+    {
+      "name": "Tzatziki",
+      "source_url": "https://www.recipetineats.com/tzatziki/",
+      "recipe_id": "https://www.recipetineats.com/tzatziki/#recipe",
+      "authors": [
+        "Nagi | RecipeTin Eats"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "1"
+      ],
+      "prep_time": "PT20M",
+      "cook_time": "PT6M",
+      "total_time": "PT26M",
+      "ingredients": [
+        "2 Lebanese cucumbers (Persian cucumbers)",
+        "1 1/4 cups Greek yoghurt (or Greek-style yogurt, preferably full fat)",
+        "1 tbsp lemon juice",
+        "1 tbsp extra virgin olive oil ((or more if you want richer))",
+        "1 garlic clove (, minced)",
+        "1/4 heaped teaspoon cooking salt / kosher salt ((halve for table salt, +50% for flakes))",
+        "Pinch of black pepper",
+        "2 tbsp finely chopped dill ((or mint), OPTIONAL - see note)"
+      ],
+      "instructions": [
+        "Deseed, shred and squeeze - Cut the cucumber in half lengthwise. Use a teaspoon to scrape the watery seeds out. Coarsely grate the cucumber using a box grater. Then wrap in a tea towel and squeeze to remove excess liquid.",
+        "Mix - Place cucumber in a bowl. Add remaining ingredients then mix to combine.",
+        "Set aside for at least 20 minutes for the flavours to meld.",
+        "Use immediately or keep in an airtight container in the fridge for 3 days."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: Recipe quantity note – I know using 1 1/4 cups yogurt is an odd amount, but it’s because I make this most often to use as a sauce for things like Gyros wraps, and this recipe makes enough to serve 4 – 5 generously (which is what most of my recipes serve). Using 1 cup is just a little short, and using 2 cups results in too much left over, and it only keeps a few days. Fresh dill or mint – If making as a dip, I recommend using one of these. If using as a sauce for a wrap, burger etc, I wouldn’t make a special trip to the store for fresh herbs. I prefer dill over mint, though mint is lovely when making spicy-heavy Middle Eastern foods (like Chicken Shawarma ). Nutrition for whole batch."
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/kongjorim",
+  "recipes": [
+    {
+      "name": "Braised soybeans (Kongjorim)",
+      "source_url": "https://www.maangchi.com/recipe/kongjorim",
+      "recipe_id": "/recipe/kongjorim#sso/recipe/118",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 cup dried soy beans",
+        "½ cup soy sauce,",
+        "1 teaspoon vegetable oil,",
+        "2 cloves of minced garlic",
+        "⅓ cup of sugar",
+        "2 teaspoons toasted sesame seeds."
+      ],
+      "instructions": [
+        "Rinse the soy beans in cold running water. Drain and put them in a pan.",
+        "Add 2 cups of water to the pan and soak the beans for 8 hours.",
+        "Cover and boil the mixture of beans and water over medium high heat for 10 minutes. If it boils over, crack the lid.",
+        "Add soy sauce, sugar, vegetable oil, and garlic. Stir a few times with a wooden spoon. Reduce the heat to low, cover, and cook for 30 minutes.",
+        "Open the lid and turn up the heat to medium high heat, stirring with with wooden spoon until the beans turn shiny and a little wrinkly.",
+        "Remove from the heat and sprinkle with the sesame seeds. Let cool and transfer to an airtight container. Refrigerate up to 1 month."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup dried soy beans"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup soy sauce,"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon vegetable oil,"
+        },
+        {
+          "tag": "li",
+          "text": "2 cloves of minced garlic"
+        },
+        {
+          "tag": "li",
+          "text": "⅓ cup of sugar"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons toasted sesame seeds."
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Rinse the soy beans in cold running water. Drain and put them in a pan."
+        },
+        {
+          "tag": "li",
+          "text": "Add 2 cups of water to the pan and soak the beans for 8 hours."
+        },
+        {
+          "tag": "li",
+          "text": "Cover and boil the mixture of beans and water over medium high heat for 10 minutes. If it boils over, crack the lid."
+        },
+        {
+          "tag": "li",
+          "text": "Add soy sauce, sugar, vegetable oil, and garlic. Stir a few times with a wooden spoon. Reduce the heat to low, cover, and cook for 30 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Open the lid and turn up the heat to medium high heat, stirring with with wooden spoon until the beans turn shiny and a little wrinkly."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and sprinkle with the sesame seeds. Let cool and transfer to an airtight container. Refrigerate up to 1 month."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

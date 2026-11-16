@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/kurkuma-kokossuppe-mit-reisnudeln",
+  "recipes": [
+    {
+      "name": "Kurkuma-Kokossuppe mit Reisnudeln",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/kurkuma-kokossuppe-mit-reisnudeln",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/kurkuma-kokossuppe-mit-reisnudeln#recipe-b230a44b-ff7a-509c-a5ac-0d38944b3a5e",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Suppe:",
+        "200 g dünne Reisnudeln",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "1 Stange Zitronengras",
+        "50 g Ingwer",
+        "2 EL Kokosöl",
+        "0.5 TL Chiliflocken",
+        "2 EL gemahlene Kurkuma",
+        "1 EL Currypulver",
+        "800 ml Kokosmilch",
+        "2 EL helle Misopaste",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "50 g Erdnüsse",
+        "1 Möhre",
+        "1 Frühlingszwiebel",
+        "1 Limette",
+        "Chiliflocken",
+        "frische Minze",
+        "Sesam",
+        "Sojasprossen"
+      ],
+      "instructions": [
+        "Die Reisnudeln nach Packungsanleitung zubereiten. Danach abgießen, mit kaltem Wasser abspülen und beiseitestellen.",
+        "Zwiebel, Knoblauch und Ingwer schälen und fein hacken. Zitronengras mit dem Messerrücken weichklopfen.",
+        "Kokosöl in einem großen Topf bei mittlerer Hitze schmelzen lassen. Zuerst gehackte Zwiebel, Knoblauch, Ingwer und Chiliflocken 2–3 Minuten anschwitzen, bis die Zwiebelwürfel glasig sind. Anschließend Kurkuma- und Currypulver einrühren und weitere 1–2 Minuten anbraten.",
+        "Mit Kokosmilch auffüllen, die helle Misopaste einrühren und die Zitronengrasstange dazugeben. Alles zusammen ca. 10 Minuten köcheln lassen. Sollte die Suppe zu sehr einköcheln, einfach etwas Wasser dazugeben.",
+        "In der Zwischenzeit Erdnüsse in einer fettfreien Pfanne anrösten. Die Möhre mit einem Sparschäler in dünne Scheiben schneiden und die Frühlingszwiebel in feine Ringe schneiden. Die Limette in Spalten schneiden.",
+        "Zum Servieren die vorgekochten dünnen Reisnudeln in Schüsseln geben. Die Kokossuppe mit Salz, Pfeffer, Limettensaft und nach Wunsch mehr Misopaste abschmecken und die Zitronengrasstange herausnehmen. Danach über die Reisnudeln geben und alles nach Belieben mit Chiliflocken, frischer Minze, Sesam, Sojasprossen, den vorbereiteten Frühlingszwiebeln und der Möhre toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

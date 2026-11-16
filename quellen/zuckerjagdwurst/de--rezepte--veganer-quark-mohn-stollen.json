@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-quark-mohn-stollen",
+  "recipes": [
+    {
+      "name": "Veganer Quark-Mohn-Stollen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-quark-mohn-stollen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-quark-mohn-stollen#recipe-1e7b23e7-4679-5118-b027-4eb8752f635c",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kastenform (circa 30 cm lang)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT180M",
+      "ingredients": [
+        "Für den Teig:",
+        "50 ml pflanzliche Milch (lauwarm)",
+        "50 g Zucker",
+        "0.5 Würfel (21 g) frische Hefe",
+        "350 g Weizenmehl (Type 405)",
+        "50 g gemahlene Mandeln",
+        "1.5 EL Christstollengewürz",
+        "0.5 Orange (Abrieb)",
+        "75 g pflanzliche Butter (Zimmertemperatur)",
+        "125 g veganer Quark",
+        "75 g Marzipan Rohmasse",
+        "50 ml Orangensaft",
+        "Für die Füllung:",
+        "500 g backfertiges Mohnback",
+        "50 g gemahlene Mandeln",
+        "1 TL Backpulver",
+        "pflanzliche Milch",
+        "Für Nach-dem-Backen:",
+        "50 g vegane Butter (geschmolzen)",
+        "50 g Puderzucker"
+      ],
+      "instructions": [
+        "In einer großen Schüssel (oder direkt in der Schüssel eurer Küchenmaschine) lauwarme pflanzliche Milch und einen Esslöffel vom Zucker vermischen und die frische Hefe dazubröseln. Die Mischung nur lose vermengen und circa 10 Minuten stehen lassen.",
+        "In der Zwischenzeit Mehl, gemahlene Mandeln, den restlichen Zucker, Christstollengewürz und Orangenabrieb in einer Schüssel vermengen und beiseitestellen.",
+        "Weiche vegane Butter, veganen Quark, Marzipan-Rohmasse in kleinen Stücken und Orangensaft zur Hefemischung geben und alles kurz verrühren, bis sich das Marzipan gut verteilt hat.",
+        "Die Mehlmischung ebenfalls in die Schüssel geben und alles zu einem glatten Teig verkneten. Dabei so viel Mehl wie nötig dazugeben, bis der Teig nicht mehr klebt. Den Teig anschließend abgedeckt circa 60 Minuten an einem warmen Platz ruhen lassen.",
+        "Für die Füllung Mohnback in eine Schüssel geben und mit gemahlenen Nüssen, Backpulver vermengen. Danach so viel pflanzliche Milch dazugeben, bis die Füllung gut verstreichbar (aber nicht flüssig) ist.",
+        "Den Hefeteig zu einem großen Rechteck ausrollen – bei der Größe könnt ihr euch an der Länge eurer Backform orientieren. Die Mohnfüllung darauf verteilen und danach den Teig von den beiden Längsseiten zur Mitte zusammenrollen. Alternativ könnt ihr ihn aber auch nur von einer Längsseite aus zu einer dicken Rolle formen.",
+        "Den gerollten Teig entweder vorsichtig in eine eingefettete und bemehlte Kastenform legen oder ganz simpel ohne Form auf ein mit Backpapier belegtes Backblech legen und abgedeckt nochmals circa 30 Minuten an einem warmen Platz gehen lassen.",
+        "In der Zwischenzeit den Ofen auf 175 °C (Ober- und Unterhitze) vorheizen. Die Kastenform auf dem Backblech platzieren oder den Stollen direkt auf dem Backblech circa 45 Minuten backen.",
+        "Danach den Stollen aus dem Ofen nehmen und vegane Butter schmelzen. Den noch warmen Stollen mit der veganen geschmolzenen Butter bestreichen und kurz danach mit einer dicken Schicht Puderzucker bestreuen.",
+        "Den Stollen komplett abkühlen lassen, aber danach entweder direkt essen oder in einem luftdichten Behälter 1–2 Wochen lagern."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

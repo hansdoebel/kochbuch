@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schwedische-haferkekse",
+  "recipes": [
+    {
+      "name": "Vegane, schwedische Haferkekse",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schwedische-haferkekse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schwedische-haferkekse#recipe-fbffae05-5ea8-5a6d-b3ed-9be6b865f5ca",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "18 Kekse",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "225 g blütenzarte Haferflocken",
+        "180 g Rohrzucker",
+        "80 g Dinkelmehl",
+        "8 g Backpulver",
+        "8 g Vanilleextrakt",
+        "60 g Apfelmus",
+        "180 g vegane Butter"
+      ],
+      "instructions": [
+        "Den Backofen auf 180°C Umluft vorheizen.",
+        "Haferflocken, Rohrzucker, Dinkelmehl, Backpulver und Vanilleextrakt in einer Schüssel vermischen.",
+        "Das Apfelmus und die vegane Butter hinzugeben und zu einem Teig kneten.",
+        "Aus dem Teig 18 Kugeln formen und diese auf 2-3 Backblechen mit Backpapier platzieren.",
+        "Mit der Handfläche jede Kugel zerdrücken, sodass ein flacher Keks entsteht. Umso dünner die Kekse gedrückt werden, desto knuspriger werden sie. Es kann auch ein Nudelholz zur Hilfe genommen werden.",
+        "Bei 180°C Umluft für 12 Minuten backen und auf dem Backblech abkühlen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

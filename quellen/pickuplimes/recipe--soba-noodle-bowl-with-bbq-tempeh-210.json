@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/soba-noodle-bowl-with-bbq-tempeh-210",
+  "recipes": [
+    {
+      "name": "Soba Noodle Bowl with BBQ Tempeh",
+      "source_url": "https://www.pickuplimes.com/recipe/soba-noodle-bowl-with-bbq-tempeh-210",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT20M",
+      "cook_time": "PT30M",
+      "total_time": "PT02H50M",
+      "ingredients": [
+        "8.818 oz tempeh",
+        "1 cup barbecue sauce",
+        "3 Tbsp reduced-sodium soy sauce",
+        "2 Tbsp tahini",
+        "1 garlic clove",
+        "½ lime",
+        "1 Tbsp rice vinegar",
+        "1 Tbsp agave syrup",
+        "1 tsp grated fresh ginger",
+        "1 tsp sambal oelek",
+        "1 tsp toasted sesame oil",
+        "6.349 oz soba noodles",
+        "1 cup frozen shelled edamame",
+        "1 Tbsp vegetable oil",
+        "2 garlic clove",
+        "1 medium carrot",
+        "3.527 oz shiitake mushrooms",
+        "1 large broccoli"
+      ],
+      "instructions": [
+        "Lightly boil or steam the tempeh in a large pan on the stove for 10 minutes*. Then rinse and pat dry.",
+        "Arrange the tempeh in a baking dish, pour on the BBQ sauce, and stir to coat. Cover and refrigerate for 2 to 24 hours - the longer the better.",
+        "Line a baking tray and preheat oven to 375°F (190°C)**.",
+        "Place the marinated tempeh on the baking tray. Bake for 25 minutes, stopping to flip once halfway. Remove from oven and brush with additional BBQ sauce if desired.",
+        "Meanwhile, add all of the dressing ingredients to a bowl and whisk.",
+        "Add the soba noodles and edamame to a pot of boiling water. Cook for 5 minutes, or until the noodles are al dente*. Drain and rinse.",
+        "Heat the oil in a sauté pan over medium-high heat. Cook the garlic for 2 minutes, then add the carrot and mushrooms and cook for 5 minutes more.",
+        "Then add the broccoli and cook for an additional 2 minutes. Add the drained noodles and edamame to the pan. Pour over the dressing and toss to combine. Divide into bowls, add the BBQ tempeh, garnish, and enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * This is an optional step, but can remove bitterness. ** We used top and bottom heating (not fan-assisted/convection). * If your noodles need longer to cook, add the edamame in the last 5 minutes.",
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

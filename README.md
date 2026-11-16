@@ -52,7 +52,7 @@ Schema, Einheiten, nicht numerische Angaben und der Umzug auf Postgres (zum Beis
 
 ## Öffentliche Rezeptarchive
 
-Die Original-Rezeptdaten von Rainbow Plant Life, Babish und Joshua Weissman stehen unter `quellen/`. Abdeckung, Unterschiede zu den deutschen Kochbuch-Rezepten und die Wiederholung des Abrufs sind in [quellen/README.md](quellen/README.md) dokumentiert. Die ersten fünf Rainbow-Plant-Life-Rezepte sind außerdem auf Deutsch in `rezepte/` und in der Zutaten-Datenbank erfasst.
+Die Original-Rezeptdaten von Rainbow Plant Life, Babish, Joshua Weissman, Cook Well / Ethan Chlebowski, RecipeTin Eats, Zucker & Jagdwurst, Maangchi und Pick Up Limes stehen unter `quellen/`. Abdeckung, ausgeschlossene Quellen und Zugangsbeschränkungen sowie die Wiederholung des Abrufs sind in [quellen/README.md](quellen/README.md) dokumentiert. Diese Quellenarchive sind noch keine Einträge in der Einkaufslisten-Datenbank. Die ersten fünf Rainbow-Plant-Life-Rezepte sind außerdem auf Deutsch in `rezepte/` und in der Zutaten-Datenbank erfasst.
 
 Offline prüfen:
 

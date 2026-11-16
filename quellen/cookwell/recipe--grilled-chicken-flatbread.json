@@ -1,0 +1,43 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/grilled-chicken-flatbread",
+  "recipes": [
+    {
+      "name": "Grilled Chicken Flatbread",
+      "source_url": "https://app.cookwell.com/recipe/grilled-chicken-flatbread",
+      "recipe_id": "https://app.cookwell.com/recipe/grilled-chicken-flatbread",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 serving",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Flatbreads, 1",
+        "Grilled chicken, 1 breast",
+        "Hummus, 2-3 spoonfuls",
+        "Feta, a handful",
+        "Pickles, a handful",
+        "Cherry tomatoes, a handful",
+        "Onions, a sprinkle",
+        "Low-fat sour cream, a spoonful",
+        "Mayonnaise, a spoonful",
+        "Dried dill, 1/2 spoonful",
+        "Black Pepper, to taste"
+      ],
+      "instructions": [
+        "Mix together the sour cream, mayo, dill, and black pepper. Adjust to taste if needed. Gather or prep remaining components.",
+        "Toast the flatbread on a pan, griddle, or in the oven until it firms up and is crispy on the bottom — you’ll want it to hold up to the toppings. Meanwhile, heat up the cooked chicken, and slice into thin strips.",
+        "Spread a layer of hummus on top of the flatbread. Now top with an even spread of the chicken, feta, tomatoes, pickles, and onion. Drizzle the sauce overtop. Slice the flatbread into pieces and enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

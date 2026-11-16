@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-rhabarber-tarte",
+  "recipes": [
+    {
+      "name": "Vegane, einfache Rhabarber-Tarte",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-rhabarber-tarte",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-rhabarber-tarte#recipe-06de802f-9c9d-5f87-bad7-6b3256616794",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Tarte (∅ 28 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Für den Mürbeteig:",
+        "250 g Weizenmehl (Type 405)",
+        "75 g Zucker",
+        "125 g vegane Butter (kalt)",
+        "kaltes Wasser nach Bedarf",
+        "Für die vegane Quarkschicht:",
+        "400 g veganer Quark / Skyr",
+        "15 g Speisestärke",
+        "50 ml Agavendicksaft",
+        "Für die Rhabarber-Schicht:",
+        "300 g frischer Rhabarber",
+        "gehobelte Mandeln",
+        "Außerdem:",
+        "vegane Butter zum Einfetten"
+      ],
+      "instructions": [
+        "Für den Mürbeteig Weizenmehl und Zucker in einer großen Schüssel vermischen. Kalte vegane Butter dazugeben und mit kalten Händen verkneten. Nach Bedarf etwas kaltes Wasser dazugeben und alle Zutaten zu einem geschmeidigen Teig vermengen. Den Teig mindestens 30 Minuten im Kühlschrank ruhen lassen.",
+        "In der Zwischenzeit die Creme vorbereiten. Dafür veganen Quark, Speisestärke und Agavendicksaft in einer Schüssel glatt rühren.",
+        "Den Rhabarber waschen und trockene oder holzige Enden entfernen. Die Rhabarberstangen in Rauten schneiden, sodass ihr ein „Fischgrätenparkett“ mit ihnen legen könnt. Dies am besten schon vorbereiten und probelegen.",
+        "Den Ofen auf 180 °C (Umluft) vorheizen. Eine Tarteform mit 28 cm Durchmesser einfetten. Den Teig aus dem Kühlschrank nehmen und auf einer bemehlten Arbeitsfläche ausrollen, bis er so groß ist, dass er den Boden und Rand der Tarteform bedeckt. Den Teig in die Form legen und leicht am Boden und Rand festdrücken. Die Quarkcreme gleichmäßig in der Form verteilen und die Rhabarberstücke darauflegen.",
+        "Die Tarte für ca. 30–40 Minuten bei 180 °C (Umluft) auf mittlerer Schiene backen. 10 Minuten vor dem Ende der Backzeit den Rand mit gehobelten Mandeln dekorieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

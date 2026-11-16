@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vegan-tzatziki-2",
+  "recipes": [
+    {
+      "name": "Vegan Tzatziki",
+      "source_url": "https://www.pickuplimes.com/recipe/vegan-tzatziki-2",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT10M",
+      "ingredients": [
+        "½ cucumber",
+        "1 cup unsweetened soy yogurt",
+        "2 garlic clove",
+        "¼ cup fresh dill",
+        "½ lemon",
+        "1 tsp extra-virgin olive oil",
+        "¼ tsp salt",
+        "⅛ tsp ground black pepper"
+      ],
+      "instructions": [
+        "Using a box grater, grate the cucumber. Drain off the excess liquid by squeezing the grated cucumber firmly with your hands.",
+        "To a bowl, add the pressed cucumber along with all the other ingredients. Mix, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use a plant-based yogurt that is fortified with calcium .",
+    "Storage Store in an airtight container in the fridge for up to 2 days."
+  ]
+}

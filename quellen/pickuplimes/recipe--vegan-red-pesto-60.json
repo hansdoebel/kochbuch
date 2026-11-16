@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vegan-red-pesto-60",
+  "recipes": [
+    {
+      "name": "Vegan Red Pesto",
+      "source_url": "https://www.pickuplimes.com/recipe/vegan-red-pesto-60",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT05M",
+      "total_time": "PT10M",
+      "ingredients": [
+        "½ cup raw almonds",
+        "1 cup oil-packed sun-dried tomatoes",
+        "½ cup oil from jar of sun-dried tomatoes",
+        "½ cup fresh basil leaves",
+        "2 garlic clove",
+        "1 Tbsp nutritional yeast flakes",
+        "½ lemon",
+        "½ tsp salt",
+        "¼ tsp ground black pepper"
+      ],
+      "instructions": [
+        "Heat a small pan over medium-high heat, and toast the almonds for 4 to 5 minutes, stirring throughout.",
+        "Add the toasted almonds and all the remaining ingredients to a food processor, and blend. Enjoy with crackers or as a spread on your favourite sandwich!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage The pesto can be stored in an airtight container in the fridge for up to 5 days."
+  ]
+}

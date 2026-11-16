@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/btlt-bbq-tempeh-lettuce-tomato-sandwich-172",
+  "recipes": [
+    {
+      "name": "BTLT: BBQ Tempeh Lettuce & Tomato Sandwich",
+      "source_url": "https://www.pickuplimes.com/recipe/btlt-bbq-tempeh-lettuce-tomato-sandwich-172",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT15M",
+      "total_time": "PT02H25M",
+      "ingredients": [
+        "8.818 oz tempeh",
+        "½ cup barbecue sauce",
+        "2 tsp vegetable oil",
+        "6 slice whole wheat bread",
+        "2 Tbsp vegan mayonnaise",
+        "3 romaine lettuce leaf",
+        "1 jarred roasted red pepper",
+        "1 medium tomato",
+        "1 avocado"
+      ],
+      "instructions": [
+        "Optional step: bring a medium pan of water to a boil. Cut the tempeh into ¼ inch (½ cm) thin strips. The thinner they are, the crispier they will be! Add the strips to the boiling water and cook for 5 minutes to reduce the bitterness. Drain and pat dry.",
+        "Mix the tempeh and BBQ sauce and let sit for at least 5 minutes, or ideally for 2 hours or overnight for maximum flavour.",
+        "Drizzle the oil in a large pan over medium-high heat. Once hot, add the tempeh strips and cook until golden on both sides. Keep an eye on it as BBQ sauce can quickly burn. Remove from heat when crisped to your liking.",
+        "Top the toasted bread with mayo. Add the tempeh strips, lettuce, roasted pepper, tomatoes, and avocado. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Best to enjoy this sandwich the same day it's made. Store the tempeh in an airtight container in the fridge for up to 3 days."
+  ]
+}

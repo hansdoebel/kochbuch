@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schokobanane-auf-sahne-und-biskuitteig",
+  "recipes": [
+    {
+      "name": "Vegane Schokobanane",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schokobanane-auf-sahne-und-biskuitteig",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schokobanane-auf-sahne-und-biskuitteig#recipe-90bbe5a3-e2f2-539f-99b1-d2b2615f0353",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Schokobananen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT180M",
+      "ingredients": [
+        "Biskuitteig",
+        "110 g Mehl",
+        "85 g Zucker",
+        "125 ml Sprudelwasser",
+        "25 ml pflanzliches Öl (Raps- oder Sonnenblumenöl)",
+        "8 g Backpulver (1 Tüte)",
+        "8 g Vanillezucker (1 Tüte)",
+        "1 El vegane Butter",
+        "Toppings",
+        "5 - 6 Bananen",
+        "300 - 400 g Zartbitterschokolade oder „Milch“-Schokolade",
+        "100 g vegane, weiße Schokolade",
+        "200 ml vegane Sahne zum Aufschlagen",
+        "8 g Sahnesteif (1 Tüte)",
+        "8 g Vanillezucker (1 Tüte)"
+      ],
+      "instructions": [
+        "Den Biskuitboden backen",
+        "Ofen auf 180°C Umluft vorheizen.",
+        "In einer Schüssel Mehl, Zucker, Vanillinzucker und Backpulver verrühren.",
+        "Anschließend das Öl und das Mineralwasser dazugeben und nur noch kurz unterrühren.",
+        "Eine viereckige (22x22cm) oder runde Form mit etwas veganer Butter einfetten, mit Mehl ausklopfen und den Teig hineingeben. 15 Minuten lang backen. Am Ende solltet ihr einen sehr flachen Teig erhalten, das nur als „Bett“ für die Banane dient.",
+        "Mit einem Stäbchen testen, ob der Teig durch ist. Danach komplett abkühlen lassen.",
+        "Belegen",
+        "Sahne mit Sahnesteif und Vanillezucker in einem Gefäß steif schlagen.",
+        "Die dunkle Schokoladen in einem Wasserbad schmelzen. Die Bananen schälen.",
+        "Nun die Bananen auf den Teig legen und mit einem Messer rund herum schneiden.",
+        "Die Banane wieder herunter nehmen und die ausgeschnittene Form mit Sahne bestreichen. Nun die Banane auf die Sahneschicht legen.",
+        "Die geschmolzene, dunkle Schokolade abkühlen lassen und und komplett über der Banane verteilen. Auf einem Gitter abkühlen lassen.",
+        "In dieser Zeit die helle, weiße Schokoladen in einem Wasserbad schmelzen und anschließend dekorieren. Danach für 2-3 Stunden im Kühlschrank lagern. Erst kurz vor dem Servieren heraus nehmen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

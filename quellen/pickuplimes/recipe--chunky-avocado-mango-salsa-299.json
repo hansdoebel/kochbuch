@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/chunky-avocado-mango-salsa-299",
+  "recipes": [
+    {
+      "name": "Chunky Avocado Mango Salsa",
+      "source_url": "https://www.pickuplimes.com/recipe/chunky-avocado-mango-salsa-299",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT08M",
+      "cook_time": "",
+      "total_time": "PT08M",
+      "ingredients": [
+        "1 avocado",
+        "1 mango",
+        "2 medium tomato",
+        "¼ cup fresh cilantro",
+        "½ small onion",
+        "½ lime"
+      ],
+      "instructions": [
+        "Chop the avocado, mango, tomatoes, and cilantro. Mince the onion.",
+        "Place all ingredients in a bowl, and squeeze over the lime juice.",
+        "Toss, serve, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Best if enjoyed immediately. Store leftovers in an airtight container in the fridge for up to 1 day."
+  ]
+}

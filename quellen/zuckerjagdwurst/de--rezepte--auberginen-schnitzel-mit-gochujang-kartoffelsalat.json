@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/auberginen-schnitzel-mit-gochujang-kartoffelsalat",
+  "recipes": [
+    {
+      "name": "Auberginen-Schnitzel mit Gochujang Kartoffelsalat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/auberginen-schnitzel-mit-gochujang-kartoffelsalat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/auberginen-schnitzel-mit-gochujang-kartoffelsalat#recipe-766c7d79-6762-5335-b8e4-6a2ee7188a84",
+      "authors": [
+        "Anne-Sophie Hoffmann"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "für 1 Schnitzel",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für das Auberginen-Schnitzel:",
+        "1 Aubergine",
+        "Rapsöl zum Anbraten",
+        "Für die Panade:",
+        "60 g Mehl",
+        "120 ml pflanzliche Milch",
+        "1 EL Sojasoße",
+        "50 g Semmelbrösel",
+        "0.25 TL Curry",
+        "0.25 TL Knoblauchpulver",
+        "Salz",
+        "Pfeffer",
+        "Für den Kartoffel-Salat:",
+        "150 g kleine Kartoffeln (etwa 2–3 kleine Kartoffeln)",
+        "Eine Prise Salz",
+        "Pfeffer",
+        "0.5 EL vegane Mayo",
+        "0.25 Knoblauchzehe",
+        "0.5 TL Gochujang-Paste",
+        "1 TL Reisweinessig",
+        "0.5 Frühlingszwiebel",
+        "1 EL Korianderblätter",
+        "0.5 TL Sesamkörner",
+        "Salz"
+      ],
+      "instructions": [
+        "Backofen auf 200 °C (Umluft) vorheizen. Kartoffeln in einen großen Topf mit kaltem, gesalzenem Wasser geben. Wasser zum Kochen bringen und Kartoffeln 15 Minuten köcheln lassen, bis sie gar, aber noch fest sind. Kartoffeln halbieren, mit Olivenöl beträufeln und mit Salz und Pfeffer würzen.",
+        "Mit einer Gabel mehrere Löcher in die Aubergine stechen. Aubergine und Kartoffeln auf ein Backblech legen und in den Ofen geben. Aubergine 25–30 Minuten backen, bis sie weich ist. Kartoffeln 30–40 Minuten backen, bis sie gar und knusprig sind. Dabei ein- bis zweimal wenden.",
+        "Für die Gochujang-Aioli Knoblauch fein hacken. Vegane Mayonnaise, Knoblauch, Reisweinessig und Gochujang-Paste in einer kleinen Schüssel verrühren und beiseitestellen.",
+        "Aubergine aus dem Ofen nehmen und auskühlen lassen. Schale abziehen, Frucht längs leicht einschneiden und mit einer Gabel flachdrücken. Flüssigkeit mit Küchenpapier abtupfen. Aubergine mit Salz und Pfeffer würzen.",
+        "Frühlingszwiebeln in feine Ringe schneiden und Koriander fein hacken.",
+        "Kartoffeln 5–10 Minuten abkühlen lassen. Mit Gochujang-Aioli vermengen. Kartoffelsalat mit Frühlingszwiebeln, Sesam und Koriander bestreuen.",
+        "Mehl, pflanzliche Milch, Sojasoße, Salz und Pfeffer in einer Schüssel verrühren. Semmelbrösel mit Currypulver, Knoblauchpulver, Salz und Pfeffer in einer zweiten Schüssel mischen.",
+        "Auberginenscheiben zuerst durch die Milch-Mehl-Mischung ziehen, dann in das Paniermehl wenden.",
+        "Öl in einer Pfanne erhitzen. Auberginen bei mittlerer Hitze 3–4 Minuten pro Seite goldbraun anbraten.",
+        "Schnitzel auf Küchenpapier abtropfen lassen. Mit Zitronenspalten, Koriander und dem Kartoffel-Salat servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

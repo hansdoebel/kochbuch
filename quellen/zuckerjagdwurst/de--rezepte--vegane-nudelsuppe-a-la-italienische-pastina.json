@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nudelsuppe-a-la-italienische-pastina",
+  "recipes": [
+    {
+      "name": "Vegane Nudelsuppe à la italienische Pastina",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nudelsuppe-a-la-italienische-pastina",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nudelsuppe-a-la-italienische-pastina#recipe-c21d4f21-7b4c-5cd9-a2cd-9dcbe9a8f2d6",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für die Suppe:",
+        "2 Zwiebeln",
+        "3 Knoblauchzehen",
+        "200 g Möhren",
+        "2 Stangensellerie",
+        "1 kleine Zucchini",
+        "1.5 Liter Gemüsebrühe",
+        "3 EL Hefeflocken (optional)",
+        "250 g vegane Suppennudeln (z. B. Sternchennudeln, Buchstabennudeln, Orzonudeln)",
+        "100 g Tiefkühl-Erbsen",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "Olivenöl",
+        "frische Petersilie"
+      ],
+      "instructions": [
+        "Zuerst Zwiebeln, Knoblauch, und optional auch die Möhren und Zucchini schälen und zusammen mit dem Stangensellerie in größere Stücke schneiden.",
+        "Gemüsebrühe in einen Topf geben und das geschnittene Gemüse dazugeben, salzen und aufkochen lassen. Anschließend abgedeckt bei mittlerer Hitze circa 20 Minuten köcheln lassen.",
+        "Das Gemüse mit einer Schöpfkelle herausnehmen und zusammen mit einer Kelle der Flüssigkeit und Hefeflocken in einen Mixer geben oder mit einem Pürierstab glatt mixen.",
+        "Den pürierten Gemüsemix zurück in den Topf geben und die Brühe nochmal aufkochen lassen. Dann die veganen Suppennudeln und Tiefkühl-Erbsen dazugeben und die Nudeln al dente kochen lassen. Nach Bedarf mehr Brühe oder Wasser dazugeben, wenn euch die Suppe zu cremig ist.",
+        "Die Suppe vor dem Servieren erneut mit Salz, Pfeffer und Hefeflocken abschmecken. Mit etwas Olivenöl und gehackter Petersilie bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

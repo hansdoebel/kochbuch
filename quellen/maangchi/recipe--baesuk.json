@@ -1,0 +1,137 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/baesuk",
+  "recipes": [
+    {
+      "name": "Baesuk (Korean steamed pears)",
+      "source_url": "https://www.maangchi.com/recipe/baesuk",
+      "recipe_id": "/recipe/baesuk#sso/recipe/26001",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "a 1 pound Korean pear",
+        "2 tbs honey",
+        "1 ts ginger, grated",
+        "½ ts cinnamon powder",
+        "1 tbs pine nuts",
+        "2 jujubes (optional), pits removed"
+      ],
+      "instructions": [
+        "Rinse the pear in cold water and pat dry.",
+        "Make a lid by slicing 1 inch off the top.",
+        "Scoop out the core and the seeds with a small spoon.",
+        "Fill it up with honey, ginger, cinnamon powder, and jujubes",
+        "Put the sliced lid back on the pear and put it in a heat-resistant bowl. In the video I’m using a soup bowl.",
+        "Steam the pear about 1 hour over medium high heat.",
+        "If you’re trying to cure a cold, serve it hot, with a small spoon. Otherwise, you can serve it hot or chill it in the fridge before serving.",
+        "1 tbs honey",
+        "½ ts ginger, grated",
+        "¼ ts cinnamon powder",
+        "2 ts pine nuts",
+        "1 jujube (optional), pit removed"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients (1-2 servings)"
+        },
+        {
+          "tag": "li",
+          "text": "a 1 pound Korean pear"
+        },
+        {
+          "tag": "li",
+          "text": "2 tbs honey"
+        },
+        {
+          "tag": "li",
+          "text": "1 ts ginger, grated"
+        },
+        {
+          "tag": "li",
+          "text": "½ ts cinnamon powder"
+        },
+        {
+          "tag": "li",
+          "text": "1 tbs pine nuts"
+        },
+        {
+          "tag": "li",
+          "text": "2 jujubes (optional), pits removed"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Rinse the pear in cold water and pat dry."
+        },
+        {
+          "tag": "li",
+          "text": "Make a lid by slicing 1 inch off the top."
+        },
+        {
+          "tag": "li",
+          "text": "Scoop out the core and the seeds with a small spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Fill it up with honey, ginger, cinnamon powder, and jujubes"
+        },
+        {
+          "tag": "li",
+          "text": "Put the sliced lid back on the pear and put it in a heat-resistant bowl. In the video I’m using a soup bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Steam the pear about 1 hour over medium high heat."
+        },
+        {
+          "tag": "li",
+          "text": "If you’re trying to cure a cold, serve it hot, with a small spoon. Otherwise, you can serve it hot or chill it in the fridge before serving."
+        },
+        {
+          "tag": "h3",
+          "text": "Bosc pear baesuk:"
+        },
+        {
+          "tag": "p",
+          "text": "If you make baesuk with a bosc pear, the directions are the same but you only need to steam it for 30 minutes. And because the pear is smaller, the ingredients need to be scaled down:"
+        },
+        {
+          "tag": "li",
+          "text": "1 tbs honey"
+        },
+        {
+          "tag": "li",
+          "text": "½ ts ginger, grated"
+        },
+        {
+          "tag": "li",
+          "text": "¼ ts cinnamon powder"
+        },
+        {
+          "tag": "li",
+          "text": "2 ts pine nuts"
+        },
+        {
+          "tag": "li",
+          "text": "1 jujube (optional), pit removed"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

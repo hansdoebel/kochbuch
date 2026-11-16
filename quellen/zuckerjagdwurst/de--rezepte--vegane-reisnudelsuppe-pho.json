@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-reisnudelsuppe-pho",
+  "recipes": [
+    {
+      "name": "Vegane Reisnudelsuppe (Pho)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-reisnudelsuppe-pho",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-reisnudelsuppe-pho#recipe-85bb3c45-e9e0-5a1b-b5a5-e0f22bb9d0ab",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "200 g Reisnudeln",
+        "2 EL Hefeflocken",
+        "150 ml heißes Wasser",
+        "100 g Edamame",
+        "1 Zimtstange",
+        "3 Sternanis",
+        "2 Nelken",
+        "1 TL Koriandersamen",
+        "3 Schalotten",
+        "50 g Ingwer",
+        "2 l Gemüsebrühe",
+        "2 EL helle Misopaste",
+        "250 g gebackener Tofu",
+        "1 TL Sojasauce",
+        "1 Chili",
+        "1 Frühlingszwiebel",
+        "1 Limette",
+        "Minze zum Servieren",
+        "Koriander zum Servieren",
+        "Sojasprossen zum Servieren"
+      ],
+      "instructions": [
+        "Hefeflocken und heißes Wasser in eine kleinen Tasse geben und erstmal ziehen lassen, bis sie gebraucht werden. Die Reisnudeln, sowie Edamame nach Packungsanleitung zubereiten und anschließend beiseitestellen.",
+        "In der Zwischenzeit Zimtstange, Sternanis, Nelken und Koriandersamen in einer fettfreien Pfanne anrösten, bis sie ihre Aromen entfalten. Danach aus der Pfanne nehmen und beiseitestellen. Schalotten und Ingwer halbieren oder in grobe Stücke schneiden, ihr müsst sie dafür nicht schälen. Beides in der selben Pfanne wie die Gewürze anbraten, sie dürfen ruhig dunkel werden.",
+        "Gemüsebrühe in einen großen Topf geben und aufkochen lassen. Misopaste einrühren und anschließend die gerösteten Gewürze, Schalotten und Ingwer dazugeben und ca. 15 Minuten köcheln lassen.",
+        "In der Zwischenzeit Tofu in einer Pfanne mit etwas Kokosöl anbraten, damit er ein bisschen Farbe bekommt. Anschließend beiseitestellen.",
+        "Wenn die Brühe genug geköchelt hat, durch ein Sieb geben, um die Gewürze, Schalotten und Ingwer aufzufangen. Die Brühe danach wieder in den Topf geben. Erinnert ihr euch noch an die Hefeflocken-Mischung? Davon gebt ihr die gelbliche Flüssigkeit zur Brühe, den Schleim könnt ihr entsorgen. Sojasauce dazugeben und die Brühe abschmecken.",
+        "Für die Toppings müsst ihr nur noch Chili und Frühlingszwiebel in feine Ringe schneiden und die Limette vierteln. Gebt die vorgekochten Reisnudeln, Edamamebohnen und Tofu in Schüsseln und füllt mit der heißen Brühe auf. Zum Servieren stellt ihr Minze, Koriander, die geschnittene Chili, Frühlingszwiebel, Limette und Sojasprossen bereit, die sich jeder nach Geschmack auf die Suppe machen kann."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

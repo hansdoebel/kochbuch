@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/caramelized-grape-chickpea-salad-1953",
+  "recipes": [
+    {
+      "name": "Caramelized Grape & Chickpea Salad",
+      "source_url": "https://www.pickuplimes.com/recipe/caramelized-grape-chickpea-salad-1953",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT15M",
+      "total_time": "PT25M",
+      "ingredients": [
+        "½ Tbsp vegetable oil",
+        "1½ cup red grapes",
+        "1½ cup cooked chickpeas",
+        "¼ tsp salt",
+        "½ Tbsp vegetable oil",
+        "1½ cup croutons",
+        "6 cup lamb's lettuce",
+        "2 lemon",
+        "1½ Tbsp extra-virgin olive oil",
+        "1 Tbsp maple syrup",
+        "⅛ tsp salt",
+        "1 pinch ground black pepper"
+      ],
+      "instructions": [
+        "Cut the lemons in half. Set aside.",
+        "Bring a non-stick pan or cast iron to high heat. Then add the lemon, cut-side down.",
+        "Cook until deeply caramelized and browned, about 3 minutes. Set aside to cool down slightly.",
+        "Clean the pan, return it to the heat, and warm the oil. Add the grapes, chickpeas, and salt, and cook until the chickpeas are golden and the grapes are slightly charred.",
+        "Meanwhile, juice and strain the lemons into a glass jar.",
+        "Add the remaining dressing ingredients to the jar.",
+        "Close the jar and shake vigorously until the dressing has emulsified.",
+        "Optionally, Add the oil and croutons to a pan over medium-high heat. Toast for 2 to 3 minutes so they are extra crisp and flavourful.",
+        "Only when ready to serve, combine the lettuce, grapes, chickpeas and croutons in a large bowl. Drizzle over the dressing, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Best to enjoy immediately as the lettuce wilts soon after being tossed with the dressing. The dressing can be stored in the fridge for up to 2 days."
+  ]
+}

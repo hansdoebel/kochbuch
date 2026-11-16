@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/oyster-mushroom-curry-salad-sandwich-39",
+  "recipes": [
+    {
+      "name": "Oyster Mushroom Curry Salad Sandwich",
+      "source_url": "https://www.pickuplimes.com/recipe/oyster-mushroom-curry-salad-sandwich-39",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 sandwiches",
+      "prep_time": "PT05M",
+      "cook_time": "PT10M",
+      "total_time": "PT15M",
+      "ingredients": [
+        "1 tsp olive oil",
+        "1 garlic clove",
+        "½ medium shallot",
+        "5.996 oz oyster mushrooms",
+        "⅛ tsp salt",
+        "½ tsp ground cumin",
+        "½ tsp ground coriander",
+        "¼ tsp ground ginger",
+        "⅛ tsp ground black pepper",
+        "½ cup canned pineapple chunks",
+        "2 Tbsp vegan mayonnaise",
+        "2 Tbsp unsweetened soy yogurt",
+        "1 tsp curry powder",
+        "1 tsp Dijon mustard",
+        "4 slice whole wheat bread",
+        "2 romaine lettuce leaf",
+        "1 medium tomato",
+        "1 stalk green onion"
+      ],
+      "instructions": [
+        "Heat a medium pan over medium-high heat. Add the oil, garlic, and shallot. Cook for 2 to 3 minutes. Using your hands, peel the mushrooms into small strips, and add them to the pan along with the salt. Cook, while stirring occasionally for 3 minutes.",
+        "Add the cumin, coriander, ginger, and pepper, and cook for another 3 minutes. By now, the liquid from the mushrooms should have evaporated. Transfer the mixture to a bowl.",
+        "To the same bowl, add the pineapple, mayo, yogurt, curry powder, and mustard. Stir to combine.",
+        "To assemble the sandwich, begin with a slice of your favourite bread. Layer it with lettuce, tomato slices, the mushroom curry mixture, and top it with some green onions. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage The mushroom salad filling can be stored in an airtight container in the fridge for up to 3 days."
+  ]
+}

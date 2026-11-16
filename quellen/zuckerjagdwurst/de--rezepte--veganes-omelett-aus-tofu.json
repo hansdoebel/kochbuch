@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-omelett-aus-tofu",
+  "recipes": [
+    {
+      "name": "Veganes Omelett aus Tofu",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-omelett-aus-tofu",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-omelett-aus-tofu#recipe-ce3a2cc3-93db-50ab-b064-82f41a126792",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 kleine Omeletts",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Omelett",
+        "350 g fester Tofu",
+        "180 ml pflanzliche Milch",
+        "2 EL Kichererbsenmehl",
+        "1 TL Kala Namak",
+        "2 TL Kurkuma",
+        "2 EL Speisestärke",
+        "2 EL Hefeflocken",
+        "1 Zwiebel",
+        "Salz & Pfeffer",
+        "Cayennepfeffer",
+        "Toppings",
+        "1 Zwiebel",
+        "200 g Pilze",
+        "100 g Mixsalat"
+      ],
+      "instructions": [
+        "Alle Zutaten für das Omelett bis auf die Zwiebel in ein hohes Gefäß geben und gut pürieren.",
+        "Die Zwiebel schälen und in kleine Würfel schneiden. Die Zwiebelstücken unter den Omelett-Teig rühren.",
+        "Die Toppings vorbereiten. Dafür die Pilze etwas säubern, Stiele entfernen und in Scheiben schneiden.",
+        "Eine kleine Pfanne mit Öl erhitzen. Anschließend den Omelett-Teig hineingeben und 3-4 Minuten pro Seite ausbacken.",
+        "In einer seperaten Pfanne Öl erhitzen und Zwiebel und Pilze anbraten.",
+        "Salat waschen und Omeletts mit Salat, Pilzen und Zwiebeln toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-chai-porridge-mit-waldheidelbeeren",
+  "recipes": [
+    {
+      "name": "Veganes Chai-Porridge mit Waldheidelbeeren",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-chai-porridge-mit-waldheidelbeeren",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-chai-porridge-mit-waldheidelbeeren#recipe-b7f4a788-911d-54ad-96f8-b9256588876e",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "100 g Waldheidelbeeren (im Glas)",
+        "1 TL (5 g) Speisestärke",
+        "1 Banane",
+        "30 g Haselnüsse",
+        "30 g geraspelte, dunkle Schokolade",
+        "Chai-Porridge",
+        "100 g Kölln Nussiges Hafer-Porridge",
+        "240 ml Kölln Haferdrink",
+        "1 EL (15 g) veganes Chaipulver (oder 2 Beutel Chai-Tee)"
+      ],
+      "instructions": [
+        "Einen kleinen Topf mit der pflanzlichen Milch erhitzen und das Chaipulver einrühren. Das Hafer-Porridge auf zwei Schüsseln verteilen und mit der Chai-Milch übergießen. Umrühren und ein paar Minuten ziehen lassen.",
+        "In einen weiteren Topf die Waldheidelbeeren geben. Etwas Flüssigkeit aus dem Glas mit der Speisestärke anrühren und hinzugeben. So dickt die Flüssigkeit besser an. 2-3 Minuten köcheln lassen und bei Seite stellen.",
+        "Die Banane schälen und in Scheiben schneiden. Die Haselnüsse grob hacken (optional: davor in einer Pfanne ohne Öl rösten). Die Schokolade ebenfalls grob hacken.",
+        "Das Hafer-Porridge mit der Heidelbeer-Sauce, den Bananenscheiben, der Schokolade und den Haselnüssen toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

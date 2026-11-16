@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-weihnachtliche-tim-tams",
+  "recipes": [
+    {
+      "name": "Vegane weihnachtliche Tim Tams (australische Schokoladenkekse)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-weihnachtliche-tim-tams",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-weihnachtliche-tim-tams#recipe-432a1db1-e058-5178-aef5-27b092b39933",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "16 Tim Tams",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Für den Teig:",
+        "200 g Weizenmehl (Type 405)",
+        "130 g kalte vegane Butter",
+        "70 g Zucker",
+        "10 g Backkakao",
+        "5 g Lebkuchengewürz (optional)",
+        "1 Prise Salz",
+        "Für die Füllung:",
+        "120 g Zartbitterschokolade",
+        "0.5 EL Kokosöl",
+        "2 EL Zuckersirup",
+        "40 g Marzipan",
+        "1 Prise Salz",
+        "5 EL kalte pflanzliche Milch",
+        "Für die Glasur:",
+        "250 g vegane Zartbitterschokolade",
+        "2 EL Kokosöl"
+      ],
+      "instructions": [
+        "Für den Teig Mehl, kalte Butter, Zucker, Backkakao, Lebkuchengewürz und Salz in einer Schüssel verkneten, zu einer Kugel formen und circa 30 Minuten in den Kühlschrank legen.",
+        "In der Zwischenzeit Schokolade zusammen mit Kokosöl, Zuckersirup, Marzipan und Salz über einem Wasserbad schmelzen und zu einer homogenen Masse rühren. Die Masse vom Wasserbad herunternehmen und pflanzliche Milch einrühren. Die Masse circa 10–15 Minuten in den Kühlschrank stellen.",
+        "Tipp: Falls die Füllung zu fest wird, etwas pflanzliche Milch hinzugeben. Ist die Masse zu flüssig, mehr Schokolade dazugeben.",
+        "Den Ofen auf 170 °C (Ober-/Unterhitze) vorheizen. Den Teig aus dem Kühlschrank nehmen und mit einem Nudelholz zu einem Rechteck ausrollen. Der Teig sollte ungefähr 5 Millimeter hoch sein. Wenn der Teig zu klebrig ist, etwas Mehl darüberstreuen. Den Keksboden circa 16 Minuten backen und komplett auskühlen lassen. Anschließend vorsichtig mit einem großen Messer in 32 gleich große Rechtecke schneiden.",
+        "Zwei Teelöffel der Füllung auf einem Rechteck verstreichen. Ein weiteres Rechteck darauf legen und leicht andrücken, sodass keine Creme rausquillt und der Keks nicht zerbricht.",
+        "Die Schokolade für die Glasur hacken. Zwei Drittel davon zusammen mit Kokosöl im Wasserbad schmelzen, bis die Mischung auf 50 °C erwärmt ist. Die restliche gehackte Schokolade hinzugeben, bis sie ebenfalls geschmolzen ist und die Schokolade auf 32 °C abkühlen lassen.",
+        "Anschließend nach und nach die Tim Tams auf eine Gabel legen und vollständig ins Schokoladenbad eintauchen. Anschließend auf ein Backpapier zum Auskühlen legen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

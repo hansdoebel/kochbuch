@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/mexican-inspired-spice-mix-107",
+  "recipes": [
+    {
+      "name": "Homemade Mexican Seasoning",
+      "source_url": "https://www.pickuplimes.com/recipe/mexican-inspired-spice-mix-107",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "15 servings",
+      "prep_time": "PT03M",
+      "cook_time": "",
+      "total_time": "PT03M",
+      "ingredients": [
+        "3 Tbsp garlic powder",
+        "3 Tbsp ground cumin",
+        "3 Tbsp onion powder",
+        "3 Tbsp sweet paprika powder",
+        "2 Tbsp chili powder",
+        "1½ Tbsp salt",
+        "2 tsp dried oregano",
+        "1 tsp ground black pepper"
+      ],
+      "instructions": [
+        "Mix all the ingredients together in a jar. Seal until ready to use."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We use pure ground chili powder made from dried chili peppers - not to be confused with the chili powder spice blend commonly found in the US, which often includes cumin, garlic powder, and other seasonings. For the intended heat and flavour, be sure to use pure chili powder.",
+    "Storage Store in a cool, dark cupboard for up to 6 months."
+  ]
+}

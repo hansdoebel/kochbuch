@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gin-tonic-sorbet",
+  "recipes": [
+    {
+      "name": "Gin-Sorbet-Tonic",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gin-tonic-sorbet",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gin-tonic-sorbet#recipe-5d88e652-691d-5d2b-8f47-9240f9e1b7e2",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "Das Gurkensorbet reicht locker für mind. 12 Gläser, die Getränkeangaben haben wir für je 2 Gläser angegeben.",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT480M",
+      "ingredients": [
+        "Gin Tonic",
+        "12 cl Gin",
+        "400 ml Tonic",
+        "Gurkenscheiben",
+        "FÜR DAS SORBET",
+        "2 Gurken (700 g)",
+        "100 g brauner Zucker",
+        "125 ml Wasser",
+        "100 ml Tonic",
+        "1 Zitrone (Saft)",
+        "1 Dose Kichererbsen (400 g)",
+        "1 EL Backpulver",
+        "100 g Puderzucker"
+      ],
+      "instructions": [
+        "Verrührt braunen Zucker mit Wasser in einem kleinen Topf und lasst die Mischung aufkochen und danach ca. 10 Min. auf kleiner-mittlerer Hitze köcheln, bis sich der Zucker vollkommen aufgelöst hat. Danach zur Seite stellen und abkühlen lassen.",
+        "Gurken schälen und in grobe Stücke schneiden. Die Gurke anschließend pürieren, bis sie komplett flüssig ist. Wer noch immer größere Kerne im Gurkensaft hat, kann diese einfach durch ein Sieb herausfiltern.",
+        "2 EL frischen Zitonensaft, Tonic und euren Zuckersirup dazugeben und alles gut verrühren.",
+        "Die Mischung könnt ihr nun in eine Tupperdose oder andere gefriersichere Form gießen und im Gefrierfach mindestens 5 Stunden kühlen.",
+        "Öffnet eine Dose Kichererbsen und gießt das Wasser in eine große Schüssel. Gebt Backpulver hinzu und schlagt das Kichererbsenwasser einige Minuten auf hoher Stufe auf, bis die Masse schaumig wie Eiweiß wird. Gebt Puderzucker und den Saft einer halben Zitrone hinzu und schlagt das ganze 2-3 weitere Minuten. Wem die Masse noch immer zu sehr nach Kichererbsen schmeckt, kann noch mehr Zucker oder Zitronensaft hinzugeben.",
+        "Nehmt euer Sorbet aus dem Gefrierschrank, das bereits frostig sein sollte. Hackt mit einem spitzen Gegenstand, z.B. einer Gabel das Sorbet leicht auf, gebt dann Aquafaba hinzu und vermengt das ganze. Danach stellt ihr es nochmals für mind. 3 Stunden in den Gefrierschrank.",
+        "Zum Servieren nehmt ihr eure Gläser, gebt eine Kugel Gurken-Tonic-Sorbet hinein und füllt mit Gin und Tonic auf. Garniert das ganze mit Gurkenscheiben."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

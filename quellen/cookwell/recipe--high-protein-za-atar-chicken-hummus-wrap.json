@@ -1,0 +1,40 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/high-protein-za-atar-chicken-hummus-wrap",
+  "recipes": [
+    {
+      "name": "High Protein Za’atar Chicken & Hummus Wrap",
+      "source_url": "https://app.cookwell.com/recipe/high-protein-za-atar-chicken-hummus-wrap",
+      "recipe_id": "https://app.cookwell.com/recipe/high-protein-za-atar-chicken-hummus-wrap",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 wrap",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "Chicken Breasts, 170 g",
+        "Za'atar, to taste",
+        "Salt, to taste",
+        "Non Stick Cooking Spray, a spritz",
+        "high protein tortilla wrap",
+        "Hummus",
+        "Pickles",
+        "Feta"
+      ],
+      "instructions": [
+        "If needed, thinly slice the chicken breast into razor-like shavings with a sharp knife. Preheat a pan or skillet, add a spritz of cooking oil, then add the chicken to sear. Season with a generous sprinkle of za’atar. Gently mix & break up the chicken to evenly distribute the spices as it cooks through. Once all the pieces are cooked, taste and adjust with extra salt or seasoning if needed.",
+        "Spread a thin layer of hummus into the center of the tortilla wrap. Add a layer of pickles, and then add all of the cooked chicken. Finish with crumbled feta over top. Tightly roll up the tortilla (like a burrito) to contain the wrap.",
+        "Return the assembled wrap to the pan and toast over medium heat until at least two sides are lightly golden. Focus on toasting the tortilla seam to seal the wrap together. Cut in half & enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

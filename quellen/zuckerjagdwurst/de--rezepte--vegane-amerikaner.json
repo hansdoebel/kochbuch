@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-amerikaner",
+  "recipes": [
+    {
+      "name": "Vegane Amerikaner",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-amerikaner",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-amerikaner#recipe-4904b1a8-b133-5dcd-9d1f-49e689ae9494",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Amerikaner",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "100 g vegane Butter",
+        "60 g brauner Zucker",
+        "150 g Apfelmus",
+        "100 ml pflanzliche Milch",
+        "300 g Mehl",
+        "37 g Vanille-Puddingpulver",
+        "8 g Backpulver",
+        "Dekoration",
+        "80 g vegane Schokolade (z.B.iChoc Classic)",
+        "80 g vegane weiße Schokolade (z.B. iChoc White Vanilla)",
+        "50 g vegane Streusel"
+      ],
+      "instructions": [
+        "Die vegane Butter in einer Schüssel mit Hilfe eines Mixers aufschlagen und den Zucker nach und nach dazugeben.",
+        "Nun den Apfelmus und die pflanzliche Milch hinzugeben und unterrühren.",
+        "Auch das Mehl, Vanille-Puddingpulver und Backpulver dazugeben und zu einem glatten Teig verrühren.",
+        "Den Ofen auf 180°C Umluft vorheizen und 2 Backbleche mit Backpapier belegen.",
+        "Pro Amerikaner 2 EL Teig nehmen und zu Kugeln formen, sodass am Ende 12 Amerikaner entstehen. Diese mit einem feuchten Löffel oder den Fingern (immer wieder in Wasser tunken) abrunden, sodass „halbe“ Kugeln und somit die „typische“ Form entsteht.",
+        "Die Amerikaner auf mittlerer Stufe für 12 - 15 Minuten backen. Im Anschluss komplett abkühlen lassen.",
+        "Dekoration",
+        "In einem Wasserbad zuerst die helle Schokolade erhitzen und diese mit einem Löffel auf der geraden Unterseite von 6 Amerikaner verstreichen. Mit Streuseln dekorieren.",
+        "Im Anschluss die dunkle Schokolade im Wasserbad erhitzen und auf den 6 restlichen Amerikanern verstreichen. Ebenfalls dekorieren.",
+        "Die Schokolade gut trocknen lassen und am besten innerhalb von einem Tag essen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-pancake-burger",
+  "recipes": [
+    {
+      "name": "Veganer Pancake Burger mit Soja-Steaks",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-pancake-burger",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-pancake-burger#recipe-3a6343dd-cc86-523e-8eb6-a60dc389da0e",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Burger",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "PANCAKES",
+        "150 g Weizenmehl",
+        "1 TL Backpulver",
+        "1 Prise Salz",
+        "150 ml Wasser",
+        "SOJA-STEAKS",
+        "12 kleine Soja-Steaks",
+        "2 l Gemüsebrühe",
+        "4-5 EL BBQ-Sauce",
+        "1-2 EL Sojasauce",
+        "Salz&Pfeffer",
+        "Avocado-Creme",
+        "1 Avocado",
+        "2 EL Zitronensaft",
+        "Salz&Pfeffer",
+        "AUSSERDEM",
+        "100 g Gurken-Relish",
+        "100 ml pflanzliche Mayonnaise",
+        "1/4 Eisbergsalat oder 100 g Babyspinat",
+        "1/2 rote Zwiebel",
+        "2 Tomaten",
+        "4 Gewürzgurken",
+        "Salz&Pfeffer"
+      ],
+      "instructions": [
+        "Für die Pancakes Mehl, Backpulver und Salz verrühren und anschließen mit dem Wasser nach und nach zu einem glatten Teig verrühren. Den Teig 10 Minuten ruhen lassen.",
+        "Die Soja-Steaks in heißer Gemüsebrühe etwa 10 Minuten einweichen. Danach das Wasser gut ausdrücken, die kleinen Steaks mit Salz und Pfeffer vorwürzen und mit BBQ-Sauce einreiben. In einer großen Pfanne Öl erhitzen und die Soja-Steaks anbraten. Nach etwa 3 Minuten die Sojasauce dazugeben und die Steaks von beiden Seiten kross anbraten.",
+        "Die restlichen Toppings vorbereiten, dafür Salat und Gemüse waschen. Den Salat in feine Streifen schneiden, die Tomaten und die Gurken in Scheiben schneiden. Die Zwiebel schälen und in Ringe schneiden.",
+        "In einer flachen und beschichteten Pfanne nur wenig Öl erhitzen und 1-2 EL des Pancake-Teigs hinein geben. Von beiden Seiten goldbraun braten. Insgesamt solltet ihr 8 Pancakes erhalten.",
+        "Für die Avocadocreme, das Fleisch aus der Avocado lösen, mit einer Gabel zu einer Creme zerdrücken und mit frischem Zitronensaft, Salz und Pfeffer abschmecken.",
+        "Einen Pancake mit der Avocado-Creme bestreichen und die Soja-Steaks, den Salat, die Tomaten, die Gurken und die Zwiebeln darauf platzieren. Mit dem Gurken-Relish und der pflanzlichen Mayonnaise toppen und einen zweiten Pancake oben drauflegen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

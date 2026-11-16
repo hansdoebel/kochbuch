@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-rosenkohl-hollandaise-pinsa",
+  "recipes": [
+    {
+      "name": "Vegane Rosenkohl-Hollandaise-Pinsa",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-rosenkohl-hollandaise-pinsa",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-rosenkohl-hollandaise-pinsa#recipe-e1ebc44e-7c90-585d-8c29-832cd2793652",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "3 Pinsen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT105M",
+      "ingredients": [
+        "Für drei Pinsen:",
+        "350 g veganer Pinsateig (z. B. von Bauck Mühle)",
+        "7 g Trockenhefe",
+        "300 ml lauwarmes Wasser",
+        "1 EL Öl",
+        "Für den Belag:",
+        "200 ml vegane Sauce Hollandaise",
+        "1 rote Zwiebel",
+        "300 g Rosenkohl",
+        "3–4 Scheiben veganer Schinken",
+        "Für die Marinade:",
+        "2 EL Olivenöl",
+        "1 EL Agavendicksaft",
+        "2 EL Balsamico Essig",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "Balsamico Creme",
+        "Chili Crisp"
+      ],
+      "instructions": [
+        "Den Pinsateig nach Packungsanleitung zubereiten: Dafür die Backmischung in eine Schüssel geben und mit Trockenhefe verrühren, dann Wasser und Öl hinzufügen. Mit einem Handrührgerät (Knethaken) zu einem geschmeidigen Teig verarbeiten. Den Teig 30 Minuten abgedeckt an einem warmen Ort gehen lassen.",
+        "Währenddessen den Beleg vorbereiten. Dafür Olivenöl, Agavendicksaft, Balsamico Essig, Salz und Pfeffer in einer Schüssel vermengen. Den Rosenkohl putzen, in Scheiben schneiden und zur Marinade geben und gut vermischen. Rote Zwiebeln schälen, halbieren und in feine Scheiben schneiden. Den veganen Schinken in Stücke zerreissen.",
+        "Den Teig dritteln und circa 1 cm dick ausrollen. Ein Backblech mit Backpapier belegen und die drei Pinsen darauf platzieren.",
+        "Vegane Sauce Hollandaise auf den drei Pinsen verstreichen und jede Pinsa mit Rosenkohl, Roten Zwiebeln und Schinken belegen. Nochmals 30 Minuten gehen lassen und währenddessen den Backofen auf 230 °C (Ober-/Unterhitze) vorheizen.",
+        "Die Pinsen für 15 Minuten bei 230 °C (Ober-/Unterhitze) backen und mit Balsamico Essig und Chili Crisp servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/crispy-air-fryer-potatoes-2708",
+  "recipes": [
+    {
+      "name": "Crispy Air Fryer Potatoes",
+      "source_url": "https://www.pickuplimes.com/recipe/crispy-air-fryer-potatoes-2708",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT35M",
+      "total_time": "PT45M",
+      "ingredients": [
+        "6 small potato",
+        "½ Tbsp salt",
+        "⅛ tsp baking soda",
+        "2½ Tbsp vegetable oil",
+        "½ tsp salt",
+        "½ tsp smoked paprika powder",
+        "½ tsp garlic powder",
+        "1 pinch ground black pepper"
+      ],
+      "instructions": [
+        "Add the potatoes to a large pot and cover with cold water. Bring to a boil.",
+        "Once boiling, add the salt and baking soda, then cook at a rolling boil for 8 to 10 minutes.",
+        "Combine the coating ingredients in a small bowl. Preheat the air fryer to 400°F (200°C)*.",
+        "Drain the potatoes and add them to a bowl. Gently toss with the dressing.",
+        "Transfer the potatoes to the air fryer basket. Cook for 10 minutes**.",
+        "Shake to flip the potatoes, and cook for another 10 to 15 minutes, or until crispy. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † For us, 6 small potatoes weighed 600 g. For best results, use starchy potatoes such as Russets. All-purpose varieties like Yukon Golds also work. * If baking in the oven instead, line a baking tray and preheat to the same temperature using the fan setting rather than conventional top–bottom heat. ** If using an oven, bake for 30 to 33 minutes in total, or until golden. Stir once halfway.",
+    "Storage The air-fried potatoes are best when still hot and crispy! Store leftovers in an airtight container in the fridge for up to 2 days."
+  ]
+}

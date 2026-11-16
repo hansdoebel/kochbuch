@@ -1,0 +1,135 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/cheonggyeongchae-kimchi",
+  "recipes": [
+    {
+      "name": "Easy bok choy kimchi (Cheonggyeongchae kimchi: 청경채 김치)",
+      "source_url": "https://www.maangchi.com/recipe/cheonggyeongchae-kimchi",
+      "recipe_id": "/recipe/cheonggyeongchae-kimchi#sso/recipe/103200",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "About 3 pounds",
+      "prep_time": "P0DT0H30M0S",
+      "cook_time": null,
+      "total_time": "P0DT0H40M0S",
+      "ingredients": [
+        "2 pounds large bok choy (5 to 7 inches long)",
+        "4 tablespoons kosher salt",
+        "¼ cup gochu-garu (Korean hot pepper flakes)",
+        "¼ cup (or 3 tablespoons) fish sauce",
+        "4 garlic cloves, minced",
+        "2 green onions, sliced diagonally",
+        "1 small carrot, cut into matchsticks (about ½ cup)",
+        "1 medium onion, thinly sliced",
+        "1 tablespoon toasted sesame seeds (for fresh kimchi)"
+      ],
+      "instructions": [
+        "Use your hands to separate the leaves of the bok choy and remove the core. Cut into bite size pieces.",
+        "Wet the bok choy with cold running water and drain.",
+        "Sprinkle salt evenly over the bok choy. Let it sit for 30 minutes, turning and mixing every 10 minutes to salt evenly.",
+        "Meanwhile, in a large bowl, combine the garlic, green onion, carrot, fish sauce, and gochu-garu. Mix well with a wooden spoon for a few minutes, until the onion releases some moisture and everything is well combined. Set aside.",
+        "After 30 minutes, rinse the bok choy several times in cold water until all excess salt and any dirt are removed. Drain well.",
+        "Add the drained bok choy to the bowl with the seasoning mixture. Mix it well by hand (wear disposable gloves if you like) for a few minutes, until everything is well combined.",
+        "Transfer the kimchi to an airtight container or a glass jar. Press down firmly so it’s tightly packed and no air pockets remain. Close the lid."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "2 pounds large bok choy (5 to 7 inches long)"
+        },
+        {
+          "tag": "li",
+          "text": "4 tablespoons kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup gochu-garu (Korean hot pepper flakes)"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup (or 3 tablespoons) fish sauce"
+        },
+        {
+          "tag": "li",
+          "text": "4 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "2 green onions, sliced diagonally"
+        },
+        {
+          "tag": "li",
+          "text": "1 small carrot, cut into matchsticks (about ½ cup)"
+        },
+        {
+          "tag": "li",
+          "text": "1 medium onion, thinly sliced"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame seeds (for fresh kimchi)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the bok choy and seasonings"
+        },
+        {
+          "tag": "li",
+          "text": "Use your hands to separate the leaves of the bok choy and remove the core. Cut into bite size pieces."
+        },
+        {
+          "tag": "li",
+          "text": "Wet the bok choy with cold running water and drain."
+        },
+        {
+          "tag": "li",
+          "text": "Sprinkle salt evenly over the bok choy. Let it sit for 30 minutes, turning and mixing every 10 minutes to salt evenly."
+        },
+        {
+          "tag": "li",
+          "text": "Meanwhile, in a large bowl, combine the garlic, green onion, carrot, fish sauce, and gochu-garu. Mix well with a wooden spoon for a few minutes, until the onion releases some moisture and everything is well combined. Set aside."
+        },
+        {
+          "tag": "h3",
+          "text": "Mix and make kimchi"
+        },
+        {
+          "tag": "li",
+          "text": "After 30 minutes, rinse the bok choy several times in cold water until all excess salt and any dirt are removed. Drain well."
+        },
+        {
+          "tag": "li",
+          "text": "Add the drained bok choy to the bowl with the seasoning mixture. Mix it well by hand (wear disposable gloves if you like) for a few minutes, until everything is well combined."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer the kimchi to an airtight container or a glass jar. Press down firmly so it’s tightly packed and no air pockets remain. Close the lid."
+        },
+        {
+          "tag": "p",
+          "text": "You can serve the fresh kimchi right away. Sprinkle with toasted sesame seeds before serving. Or let it ferment at room temperature for a few days, depending on the warmth of your kitchen, until the kimchi tastes and smells sour. Once fermented, store it in the refrigerator."
+        },
+        {
+          "tag": "p",
+          "text": "You can enjoy the kimchi at any stage. Whenever you remove kimchi from the jar, be sure to press down on the remaining kimchi with a spoon to prevent it from being exposed to air."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/dill-pasta-salad-with-a-tahini-dressing-267",
+  "recipes": [
+    {
+      "name": "Dill Pasta Salad with a Tahini Dressing",
+      "source_url": "https://www.pickuplimes.com/recipe/dill-pasta-salad-with-a-tahini-dressing-267",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT13M",
+      "cook_time": "PT07M",
+      "total_time": "PT20M",
+      "ingredients": [
+        "3 cup fusilli pasta",
+        "2 red bell pepper",
+        "½ cucumber",
+        "¾ cup fresh dill",
+        "½ cup kalamata olives",
+        "¼ medium red onion",
+        "1½ cup cooked chickpeas",
+        "½ cup tahini",
+        "⅓ cup water",
+        "1¼ lemon",
+        "2 garlic clove",
+        "1 Tbsp olive oil",
+        "1 Tbsp red wine vinegar",
+        "1 tsp ground cumin",
+        "1 tsp sweet paprika powder",
+        "¼ tsp salt"
+      ],
+      "instructions": [
+        "Cook the pasta per packaging instructions until al dente, about 8 minutes. Then drain and set aside.",
+        "Meanwhile, chop the bell peppers, cucumber, dill, olives, and mince the red onion.",
+        "Add all the dressing ingredients to a bowl and whisk. If the dressing is too thick, add a splash of water. Taste test, and add more lemon juice, garlic, or salt if desired.",
+        "In a large bowl, combine all the salad ingredients. Pour over the dressing and toss to coat. Garnish as desired. Enjoy!​"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store the dressing separately from the salad in airtight container s in the fridge for up to 4 days."
+  ]
+}

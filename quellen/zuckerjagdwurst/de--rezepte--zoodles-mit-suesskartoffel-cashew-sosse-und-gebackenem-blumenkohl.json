@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/zoodles-mit-suesskartoffel-cashew-sosse-und-gebackenem-blumenkohl",
+  "recipes": [
+    {
+      "name": "Zoodles mit Süßkartoffel-Cashew-Soße und gebackenem Blumenkohl",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/zoodles-mit-suesskartoffel-cashew-sosse-und-gebackenem-blumenkohl",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/zoodles-mit-suesskartoffel-cashew-sosse-und-gebackenem-blumenkohl#recipe-0d4b216c-3735-52a3-bf7d-81e7d285e154",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "3 - 4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "6 Zuchinis",
+        "Wasser",
+        "Salz",
+        "FÜR DIE SAUCE",
+        "150 g eingeweichte Cashews",
+        "1 Süßkartoffel",
+        "0.5 TL Salz",
+        "0.5 TL Pfeffer",
+        "0.5 TL Knoblauchpulver",
+        "FÜR DEN BLUMENKOHL",
+        "1 kleiner Blumenkohl",
+        "Öl",
+        "1 TL Paprikapulver",
+        "0.5 TL Cayennepfeffer",
+        "0.5 TL Zimt",
+        "1 TL Knoblauchpulver",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Blumenkohl waschen, klein schneiden und auf einem Backblech verteilen. Das Öl und die Gewürze über dem Blumenkohl verteilen und kurz einreiben.",
+        "Süßkartoffel schälen und in kleine Stücken schneiden. Legt diese auf die andere Seite des Blechs, mit Salz und Pfeffer würzen und für 25 Minuten bei 180°C backen.",
+        "In der Zeit die Zuchhinis waschen, die Enden entfernen und mit einem Gerät eurer Wahl zoodeln (Julienneschäler, Spiralschneider etc.)",
+        "In leicht gesalzenem und köchelndem Wasser für 3 Minuten kochen. Danach abtropen lassen in einem Sieb.",
+        "Blumenkohl und Süßkartoffeln aus dem Ofen holen und abkühlen lassen.",
+        "Die Süßkartoffel mit den Cashewnüssen pürieren. Mit Wasser eine schöne Konsistenz finden und würzen. Zoodles und Cashew-Süßkartoffel-Soße anrichten und mit den Blumenkohlröschen toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

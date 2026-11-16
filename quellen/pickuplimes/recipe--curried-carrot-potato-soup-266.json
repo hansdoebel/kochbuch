@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/curried-carrot-potato-soup-266",
+  "recipes": [
+    {
+      "name": "Curried Carrot & Potato Soup",
+      "source_url": "https://www.pickuplimes.com/recipe/curried-carrot-potato-soup-266",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT25M",
+      "total_time": "PT35M",
+      "ingredients": [
+        "2 tsp olive oil",
+        "1 large onion",
+        "2 garlic clove",
+        "1 tsp curry powder",
+        "½ tsp garam masala",
+        "½ tsp ground turmeric",
+        "¼ tsp ground allspice",
+        "3 medium carrot",
+        "2 medium potato",
+        "1½ vegetable bouillon cube",
+        "4 cup water"
+      ],
+      "instructions": [
+        "Heat the oil in a large pot over high heat. Cook the onion until lightly caramelized, about 5 to 7 minutes. Add splashes of water as needed to deglaze the pot.",
+        "Add the garlic and all the spices. Cook for another 2 minutes.",
+        "Then add the remaining ingredients, except for the quinoa. Bring to a boil, then reduce to a simmer. Cook for 15 minutes, or until the potatoes have softened.",
+        "Using an immersion blender, purée the soup to the desired consistency. If using a standing blender, we recommend blending half, so that some small chunks remain.",
+        "Serve alongside some cooked quinoa, or with croutons. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 4 days. Store in the freezer for up to 2 months."
+  ]
+}

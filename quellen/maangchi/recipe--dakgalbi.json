@@ -1,0 +1,217 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/dakgalbi",
+  "recipes": [
+    {
+      "name": "Dakgalbi (Spicy grilled chicken and vegetables)",
+      "source_url": "https://www.maangchi.com/recipe/dakgalbi",
+      "recipe_id": "/recipe/dakgalbi#sso/recipe/32346",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 pound deboned chicken thigh (or drumsticks), cut into small bite sized pieces",
+        "2 tablespoons milk",
+        "1 tablespoon soy sauce",
+        "¼ teaspoon ground black pepper",
+        "12 garlic cloves, minced",
+        "1 teaspoon peeled and minced ginger",
+        "2 tablespoons soy sauce",
+        "½ cup water",
+        "⅓ cup gochu-garu (Korean hot pepper flakes)",
+        "2 tablespoons rice syrup (or corn syrup, or sugar)",
+        "½ teaspoon ground black pepper",
+        "4 ounces sliced rice cake (1 cup), soaked in cold water at least 10 minutes",
+        "8 ounces cabbage, cored and cut into bite sized pieces",
+        "4 ounces (½ of large onion), sliced",
+        "1 small carrot (about ⅓ cup), peeled and sliced",
+        "1 or 2 green chili peppers, sliced",
+        "¾ cup peeled sweet potato, sliced into ¼ inch thick bite size pieces.",
+        "12 perilla leaves (or basil leaves), cut or ton a few times",
+        "½ cup water",
+        "1 bowl of rice (optional)",
+        "¼ cup chopped fermented kimchi (optional)"
+      ],
+      "instructions": [
+        "Combine the chicken, milk, soy sauce, and ground black pepper in a bowl and mix all together with a spoon.",
+        "Cover and set aside.",
+        "Combine the minced garlic, ginger, soy sauce, water, gochu-garu (Korean hot pepper flakes), rice syrup, and ground black pepper in a bowl. Mix well with a spoon and set aside.",
+        "Spread the cabbage on the bottom of a large, heavy, and shallow pan or skillet.",
+        "Add onion, carrot, green chili pepper, sweet potato, rice cake, and perilla leaves in that order.",
+        "Add the chicken in the center. Pour the seasoning sauce over the chicken and spread it with a wooden spoon. Add 1/2 cup water.",
+        "Cover and cook for 3 to 4 minutes over medium high heat until it starts boiling. Turn down the heat to medium. Open and stir with wooden spoon so that the pan doesn’t burn and the ingredients and sauce mix evenly. Cover and cook another 13 to 15 minutes over medium heat, stirring occasionally until the chicken and sweet potato are cooked thoroughly.",
+        "Keep the heat low during the meal. Cook, stir, eat, and talk. The pieces will be hot, so be careful! Turn off the heat when the chicken and potato are totally cooked.",
+        "Give a bowl to each diner. They can each take some out of the pan into their bowl, and eat. When it’s almost totally finished, make some fried rice by adding some rice and chopped kimchi to what’s left on the grill. Stir with a wooden spoon over medium heat for a few minutes. Serve in separate bowls, or give everyone a spoon and let them eat from the pan together."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 2 to 3"
+        },
+        {
+          "tag": "h3",
+          "text": "For chicken and marinade:"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound deboned chicken thigh (or drumsticks), cut into small bite sized pieces"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons milk"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "¼ teaspoon ground black pepper"
+        },
+        {
+          "tag": "h3",
+          "text": "For the seasoning sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "12 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon peeled and minced ginger"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup water"
+        },
+        {
+          "tag": "li",
+          "text": "⅓ cup gochu-garu (Korean hot pepper flakes)"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons rice syrup (or corn syrup, or sugar)"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon ground black pepper"
+        },
+        {
+          "tag": "h3",
+          "text": "Veggies and rice cakes:"
+        },
+        {
+          "tag": "li",
+          "text": "4 ounces sliced rice cake (1 cup), soaked in cold water at least 10 minutes"
+        },
+        {
+          "tag": "li",
+          "text": "8 ounces cabbage, cored and cut into bite sized pieces"
+        },
+        {
+          "tag": "li",
+          "text": "4 ounces (½ of large onion), sliced"
+        },
+        {
+          "tag": "li",
+          "text": "1 small carrot (about ⅓ cup), peeled and sliced"
+        },
+        {
+          "tag": "li",
+          "text": "1 or 2 green chili peppers, sliced"
+        },
+        {
+          "tag": "li",
+          "text": "¾ cup peeled sweet potato, sliced into ¼ inch thick bite size pieces."
+        },
+        {
+          "tag": "li",
+          "text": "12 perilla leaves (or basil leaves), cut or ton a few times"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup water"
+        },
+        {
+          "tag": "li",
+          "text": "1 bowl of rice (optional)"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup chopped fermented kimchi (optional)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Marinate chicken:"
+        },
+        {
+          "tag": "li",
+          "text": "Combine the chicken, milk, soy sauce, and ground black pepper in a bowl and mix all together with a spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Cover and set aside."
+        },
+        {
+          "tag": "h3",
+          "text": "Make seasoning sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "Combine the minced garlic, ginger, soy sauce, water, gochu-garu (Korean hot pepper flakes), rice syrup, and ground black pepper in a bowl. Mix well with a spoon and set aside."
+        },
+        {
+          "tag": "h3",
+          "text": "Cook and serve:"
+        },
+        {
+          "tag": "li",
+          "text": "Spread the cabbage on the bottom of a large, heavy, and shallow pan or skillet."
+        },
+        {
+          "tag": "li",
+          "text": "Add onion, carrot, green chili pepper, sweet potato, rice cake, and perilla leaves in that order."
+        },
+        {
+          "tag": "li",
+          "text": "Add the chicken in the center. Pour the seasoning sauce over the chicken and spread it with a wooden spoon. Add 1/2 cup water."
+        },
+        {
+          "tag": "li",
+          "text": "Cover and cook for 3 to 4 minutes over medium high heat until it starts boiling. Turn down the heat to medium. Open and stir with wooden spoon so that the pan doesn’t burn and the ingredients and sauce mix evenly. Cover and cook another 13 to 15 minutes over medium heat, stirring occasionally until the chicken and sweet potato are cooked thoroughly."
+        },
+        {
+          "tag": "li",
+          "text": "Keep the heat low during the meal. Cook, stir, eat, and talk. The pieces will be hot, so be careful! Turn off the heat when the chicken and potato are totally cooked."
+        },
+        {
+          "tag": "li",
+          "text": "Give a bowl to each diner. They can each take some out of the pan into their bowl, and eat. When it’s almost totally finished, make some fried rice by adding some rice and chopped kimchi to what’s left on the grill. Stir with a wooden spoon over medium heat for a few minutes. Serve in separate bowls, or give everyone a spoon and let them eat from the pan together."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

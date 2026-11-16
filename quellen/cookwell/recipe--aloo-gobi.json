@@ -1,0 +1,49 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/aloo-gobi",
+  "recipes": [
+    {
+      "name": "Aloo Gobi",
+      "source_url": "https://app.cookwell.com/recipe/aloo-gobi",
+      "recipe_id": "https://app.cookwell.com/recipe/aloo-gobi",
+      "authors": [
+        "Cook Well Official"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Cauliflower, 1 head",
+        "Potatoes, 2-4",
+        "Onions, 1/2",
+        "Garlic, a spoonful",
+        "Fresh ginger, a spoonful",
+        "Green chilies, a spoonful",
+        "Tomatoes, 1-2",
+        "Cumin, a sprinkle",
+        "Turmeric powder, a sprinkle",
+        "Paprika, a sprinkle",
+        "Garam Masala, a sprinkle",
+        "Cooking oil, as needed",
+        "Salt, as needed",
+        "Water, as needed",
+        "Cilantro, for garnish"
+      ],
+      "instructions": [
+        "In a large pot, add some cooking oil over medium heat and sauté all aromatics until softened and fragrant. Add in all ground spices and a pinch of salt, and toast for 1 minute longer.",
+        "Add the tomato and cook until softened. If the mixture is dry and the spices or aromatics are at risk of burning, deglaze with a splash of water.",
+        "Once the tomatoes have broken down, add in the cauliflower and potatoes. Add a generous sprinkle of salt to season. Toss until everything is well coated in the spice/sauce mixture. Add in a heavy splash of water — just enough to create steam to cook the mixture.",
+        "Cover and let the vegetables steam until softened. This might take 10-20 minutes, but it depends on the batch size and pan setup. Check and mix frequently - at least every 5 minutes. Once they have reached your desired doneness — remove the cover and turn up the heat to evaporate any excess moisture.",
+        "Cut the heat and toss with chopped cilantro. Taste and adjust with more salt or spices, if needed."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

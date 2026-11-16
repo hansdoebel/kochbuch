@@ -1,0 +1,256 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/easy-kimchi",
+  "recipes": [
+    {
+      "name": "Easy kimchi",
+      "source_url": "https://www.maangchi.com/recipe/easy-kimchi",
+      "recipe_id": "/recipe/easy-kimchi#sso/recipe/5019",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "10 pounds baechu (napa cabbage)",
+        "1 cup kosher salt for the cabbage, plus 3 tablespoons if preparing the optional squid",
+        "½ cup sweet rice flour",
+        "¼ cup sugar",
+        "3 cups water for the porridge, plus more for soaking and rinsing",
+        "1 cup crushed garlic",
+        "1 to 2 tablespoons ginger, minced",
+        "1 cup onion, minced",
+        "1 cup fish sauce",
+        "Salted, fermented squid (optional; see “Prepare the salted squid” below)",
+        "2½ cups Korean hot pepper flakes (gochugaru) (to taste)",
+        "2 cups leek or Asian chives, chopped",
+        "10 green onions (diagonally sliced)",
+        "¼ cup carrot, cut into matchsticks",
+        "12 ounces of peeled Korean radish, cut into matchsticks, about 2 cups"
+      ],
+      "instructions": [
+        "Clean 300 grams (⅔ pound) of very fresh squid by removing the guts and backbone, then rinse well. Add 3 tablespoons kosher salt and mix with a spoon. Transfer to a container or glass jar, cover, and refrigerate for 1 week. Rinse thoroughly until no longer slippery, then drain. Remove the skin if you like. Pat dry with paper towels or a clean cotton cloth, chop, and add to the kimchi paste. Salting and refrigeration should not be relied on to make raw squid safe to eat. See the FDA seafood safety guidance.",
+        "Trim the discolored outer leaves of the napa cabbage. Cut the cabbage lengthwise into quarters and remove the cores. Chop it into bite-sized pieces. Soak the pieces of cabbage in cold water, then transfer the wet cabbage to a large basin. Sprinkle the 1 cup kosher salt evenly over the cabbage and toss well. Every 30 minutes, turn the cabbage over to salt evenly (total salting time will be 2 hours). 2 hours later, rinse the cabbage in cold water 3 times to clean it thoroughly. Drain the cabbage and set aside.",
+        "Put 3 cups of water and sweet rice flour in a pot and mix it well and bring to a boil. Keep stirring until the porridge makes bubbles (about 5 minutes). Add ¼ cup sugar. Stir and cook for a few more minutes until it's translucent. Let it cool completely.",
+        "Place the cooled porridge into a large bowl. Now you will add all your ingredients one by one. Add fish sauce, hot pepper flakes, crushed garlic, minced ginger, and minced onion. *tip: it's much easier to use a food processor! If using the salted squid, rinse and drain it, then chop it and add it to the kimchi paste. The squid is optional, so you can leave it out. Add green onions, chopped leek or Asian chives, Korean radish, and carrot. Mix all ingredients well and your kimchi paste is done.",
+        "Add the cabbage to the kimchi paste and mix well by hand. *tip: If your basin is not large enough to mix all the ingredients at once, do it bit by bit. Transfer the kimchi to a clean, food-safe container or glass jar. Press it down firmly to remove air pockets. Leave some space at the top so the juices have room to rise during fermentation, then cover. You can eat it fresh right after making or wait until it’s fermented. I usually put all my kimchi in the fridge except for a little bit in a small container. I like fresh kimchi, so this way the kimchi in the fridge ferments slowly and stays fresh, while the smaller container ferments faster and gets sour. I use this sour kimchi for making dishes like kimchi jjigae where sour kimchi should be used. Then, when the small container is empty, I fill it up again with kimchi from the big container. It takes a little management, but experiment and you'll get the hang of it!",
+        "You can eat kimchi fresh or let it ferment in the refrigerator. It will gradually become more sour. The time this takes depends on the temperature and your taste. For faster fermentation of a batch made without the optional squid, leave the covered container at room temperature for about a couple of days, depending on the warmth of your kitchen. Set it on a tray to catch any overflowing juices. When it tastes pleasantly sour, refrigerate it. If you use a tightly sealed jar or a container, open the lid occasionally to release any built-up gas."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "A large batch made with 10 pounds of napa cabbage"
+        },
+        {
+          "tag": "li",
+          "text": "10 pounds baechu (napa cabbage)"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup kosher salt for the cabbage, plus 3 tablespoons if preparing the optional squid"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup sweet rice flour"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup sugar"
+        },
+        {
+          "tag": "li",
+          "text": "3 cups water for the porridge, plus more for soaking and rinsing"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup crushed garlic"
+        },
+        {
+          "tag": "li",
+          "text": "1 to 2 tablespoons ginger, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup onion, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup fish sauce"
+        },
+        {
+          "tag": "li",
+          "text": "Salted, fermented squid (optional; see “Prepare the salted squid” below)"
+        },
+        {
+          "tag": "li",
+          "text": "2½ cups Korean hot pepper flakes (gochugaru) (to taste)"
+        },
+        {
+          "tag": "li",
+          "text": "2 cups leek or Asian chives, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "10 green onions (diagonally sliced)"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup carrot, cut into matchsticks"
+        },
+        {
+          "tag": "li",
+          "text": "12 ounces of peeled Korean radish, cut into matchsticks, about 2 cups"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the salted squid (optional; 1 week ahead)"
+        },
+        {
+          "tag": "li",
+          "text": "Clean 300 grams (⅔ pound) of very fresh squid by removing the guts and backbone, then rinse well."
+        },
+        {
+          "tag": "li",
+          "text": "Add 3 tablespoons kosher salt and mix with a spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer to a container or glass jar, cover, and refrigerate for 1 week."
+        },
+        {
+          "tag": "li",
+          "text": "Rinse thoroughly until no longer slippery, then drain. Remove the skin if you like."
+        },
+        {
+          "tag": "li",
+          "text": "Pat dry with paper towels or a clean cotton cloth, chop, and add to the kimchi paste."
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the cabbage"
+        },
+        {
+          "tag": "li",
+          "text": "Trim the discolored outer leaves of the napa cabbage."
+        },
+        {
+          "tag": "li",
+          "text": "Cut the cabbage lengthwise into quarters and remove the cores. Chop it into bite-sized pieces."
+        },
+        {
+          "tag": "li",
+          "text": "Soak the pieces of cabbage in cold water, then transfer the wet cabbage to a large basin. Sprinkle the 1 cup kosher salt evenly over the cabbage and toss well."
+        },
+        {
+          "tag": "li",
+          "text": "Every 30 minutes, turn the cabbage over to salt evenly (total salting time will be 2 hours)."
+        },
+        {
+          "tag": "li",
+          "text": "2 hours later, rinse the cabbage in cold water 3 times to clean it thoroughly."
+        },
+        {
+          "tag": "li",
+          "text": "Drain the cabbage and set aside."
+        },
+        {
+          "tag": "h3",
+          "text": "Make porridge"
+        },
+        {
+          "tag": "li",
+          "text": "Put 3 cups of water and sweet rice flour in a pot and mix it well and bring to a boil. Keep stirring until the porridge makes bubbles (about 5 minutes)."
+        },
+        {
+          "tag": "li",
+          "text": "Add ¼ cup sugar. Stir and cook for a few more minutes until it’s translucent."
+        },
+        {
+          "tag": "li",
+          "text": "Let it cool completely."
+        },
+        {
+          "tag": "h3",
+          "text": "Make kimchi paste"
+        },
+        {
+          "tag": "li",
+          "text": "Place the cooled porridge into a large bowl. Now you will add all your ingredients one by one."
+        },
+        {
+          "tag": "li",
+          "text": "Add fish sauce, hot pepper flakes, crushed garlic, minced ginger, and minced onion. *tip: it’s much easier to use a food processor!"
+        },
+        {
+          "tag": "li",
+          "text": "If using the salted squid, rinse and drain it, then chop it and add it to the kimchi paste. The squid is optional, so you can leave it out."
+        },
+        {
+          "tag": "li",
+          "text": "Add green onions, chopped leek or Asian chives, Korean radish, and carrot."
+        },
+        {
+          "tag": "li",
+          "text": "Mix all ingredients well and your kimchi paste is done."
+        },
+        {
+          "tag": "h3",
+          "text": "Action! Mix the cabbage with the kimchi paste!"
+        },
+        {
+          "tag": "li",
+          "text": "Add the cabbage to the kimchi paste and mix well by hand. *tip: If your basin is not large enough to mix all the ingredients at once, do it bit by bit."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer the kimchi to a clean, food-safe container or glass jar. Press it down firmly to remove air pockets. Leave some space at the top so the juices have room to rise during fermentation, then cover. You can eat it fresh right after making or wait until it’s fermented."
+        },
+        {
+          "tag": "p",
+          "text": "I usually put all my kimchi in the fridge except for a little bit in a small container. I like fresh kimchi, so this way the kimchi in the fridge ferments slowly and stays fresh, while the smaller container ferments faster and gets sour. I use this sour kimchi for making dishes like kimchi jjigae where sour kimchi should be used. Then, when the small container is empty, I fill it up again with kimchi from the big container. It takes a little management, but experiment and you’ll get the hang of it!"
+        },
+        {
+          "tag": "h3",
+          "text": "Serve, ferment, and store"
+        },
+        {
+          "tag": "p",
+          "text": "You can eat kimchi fresh or let it ferment in the refrigerator. It will gradually become more sour. The time this takes depends on the temperature and your taste."
+        },
+        {
+          "tag": "p",
+          "text": "For faster fermentation of a batch made without the optional squid, leave the covered container at room temperature for about a couple of days, depending on the warmth of your kitchen. Set it on a tray to catch any overflowing juices. When it tastes pleasantly sour, refrigerate it. If you use a tightly sealed jar or a container, open the lid occasionally to release any built-up gas."
+        },
+        {
+          "tag": "h2",
+          "text": "The story behind this recipe"
+        },
+        {
+          "tag": "p",
+          "text": "I first shared my whole cabbage kimchi and radish kimchi recipe in 2007. In that early video, I used cabbage and radishes of different sizes without giving precise weights. Readers soon began asking for more exact measurements, especially when they wanted to make just cabbage kimchi. Their questions inspired me to share this step-by-step easy kimchi recipe in 2010, using 10 pounds of napa cabbage. It’s based on the kimchi I’ve been making for decades, and it’s popular with my Korean friends, too."
+        },
+        {
+          "tag": "p",
+          "text": "Take a look at these mouthwatering kimchi photos shared by my readers!"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

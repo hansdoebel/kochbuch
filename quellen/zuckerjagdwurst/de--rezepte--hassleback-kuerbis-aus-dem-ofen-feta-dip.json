@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/hassleback-kuerbis-aus-dem-ofen-feta-dip",
+  "recipes": [
+    {
+      "name": "Einfacher Hasselback Kürbis mit Feta-Dip & Basilikum-Butter",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/hassleback-kuerbis-aus-dem-ofen-feta-dip",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/hassleback-kuerbis-aus-dem-ofen-feta-dip#recipe-b7d6489b-ad14-58e8-adf6-8ec9033f741e",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT85M",
+      "ingredients": [
+        "Für den Kürbis:",
+        "1 Butternut Kürbis",
+        "Olivenöl",
+        "grobes Salz",
+        "Für den Feta-Dip:",
+        "200 g veganer Feta",
+        "150 g veganer ungesüßter Joghurt",
+        "1 EL Olivenöl",
+        "ca. 30 ml Wasser",
+        "Zitronensaft",
+        "Salz",
+        "Pfeffer",
+        "Für die Basilikum-Butter:",
+        "30 g vegane Butter",
+        "2 Knoblauchzehen",
+        "0.5 frische Chilischote",
+        "15 g Basilikum",
+        "0.5 Zitrone (Saft)",
+        "Außerdem:",
+        "frischer Pfeffer"
+      ],
+      "instructions": [
+        "Den Backofen auf 180 °C (Ober-/Unterhitze) vorheizen. Den Kürbis halbieren und schälen. Die Hälften zwischen zwei Bretter legen und fächerartig einritzen. Durch die Bretter wird der Kürbis nicht komplett durchtrennt. Beide Hälften auf ein mit Backpapier ausgelegtes Backblech legen, mit Öl einstreichen und mit Salz bestreuen. Anschließend circa 60 Minuten bei 180 °C (Ober-/Unterhitze) backen, bis der Kürbis weich ist.",
+        "In der Zwischenzeit Feta, Joghurt, Olivenöl, Wasser und Zitronensaft in ein hohes Gefäß geben und mit einem Pürierstab mixen, bis eine glatte Masse entsteht. Mit Salz und Pfeffer abschmecken.",
+        "In einer kleinen Pfanne Butter auf mittlerer Hitze schmelzen, gehackten Knoblauch und Chili dazugeben und circa 2 Minuten anschwitzen. Basilikum dazugeben und mit Zitronensaft abschmecken.",
+        "Die Feta-Creme auf einem Teller verstreichen, eine Kürbishälfte darauflegen, mit Chili-Butter und frischem Pfeffer toppen und servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

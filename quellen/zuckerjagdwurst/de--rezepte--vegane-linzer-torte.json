@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-linzer-torte",
+  "recipes": [
+    {
+      "name": "Vegane Linzer Torte",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-linzer-torte",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-linzer-torte#recipe-1ef23522-9029-5b81-b6e4-738790a9c36e",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (12 Stücke)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT115M",
+      "ingredients": [
+        "1 EL vegane Butter (zum Einfetten)",
+        "1 EL Mehl (zum Einfetten)",
+        "2-3 EL pflanzliche Milch (zum Einstreichen)",
+        "1 TL Agavendicksaft (zum Einstreichen)",
+        "Teig",
+        "250 g Weizenmehl",
+        "100 g Zucker",
+        "8 g Backpulver",
+        "Prise Salz",
+        "0.5 TL Zimt",
+        "1 Prise Kardamom",
+        "1 Prise gemahlene Nelken",
+        "100 g gemahlene Mandeln",
+        "200 g pflanzliche Butter",
+        "Servieren",
+        "370 g Johannisbeerkonfitüre",
+        "1 EL Puderzucker"
+      ],
+      "instructions": [
+        "Mehl, Zucker, Salz, Backpulver, Zimt, Nelken, Kardamom und gemahlene Mandeln in einer Schüssel vermischen.",
+        "Die pflanzliche Butter unterkneten und den Teig zu einem Ball formen. Für 30 Minuten im Kühlschrank kaltstellen.",
+        "Den Teig aus dem Kühlschrank nehmen und halbieren. Eine Kuchenform (26 cm Durchmesser) mit veganer Butter einfetten und mit etwas Mehl ausklopfen.",
+        "Die erste Hälfte des Teigs in die Form legen und fest an den Boden drücken, sodass ein gleichmäßig dicker Boden entsteht.",
+        "Das Johannisbeergelee in eine Schüssel geben und glatt rühren und auf dem Boden verteilen. Dabei etwa 1 cm Rand nach außen lassen.",
+        "Die Hälfte des noch verbliebenen Teigs ausrollen und mit einem Pizzaschneider oder einem Messer in Streifen schneiden.",
+        "Die Hälfte der Teigstreifen von der unteren linken Seite zur oberen rechten Seite parallel platzieren. Ein langes Messer oder eine Winkelplatte eignen sich sehr gut, um die Streifen auf den Kuchen zu legen.",
+        "Die zweite Hälfte der Streifen von der rechten unteren Ecke zur linken oberen Ecke platzieren.",
+        "Den verbliebenen Teig nehmen und zu mehreren gleichdicken Schlangen ausrollen (etwas 5-7 Stück). Diese an den Rand legen und andrücken.",
+        "In einem kleinen Gefäß pflanzliche Milch und Agavendicksaft verrühren und den Teig damit bestreichen.",
+        "Den Kuchen bei 180°C Umluft für etwa 30 Minuten auf mittlerer Schiene backen.",
+        "Abkühlen lassen, mit etwas Puderzucker bestreuen und servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/thai-sweet-potato-chickpea-green-curry-170",
+  "recipes": [
+    {
+      "name": "Thai Sweet Potato & Chickpea Green Curry",
+      "source_url": "https://www.pickuplimes.com/recipe/thai-sweet-potato-chickpea-green-curry-170",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT20M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "1⅓ cup long-grain white rice",
+        "½ Tbsp vegetable oil",
+        "1 medium onion",
+        "2 garlic clove",
+        "2 Tbsp Thai green curry paste",
+        "1 medium sweet potato",
+        "1⅔ cup canned full-fat coconut milk",
+        "1¼ cup cooked chickpeas",
+        "⅓ cup water",
+        "2 cup spinach"
+      ],
+      "instructions": [
+        "Cook the rice according to the package instructions.",
+        "Heat the oil in a large pot over high heat. Cook the onion for 3 minutes.",
+        "Add the garlic and sauté until fragrant, about 1 minute.",
+        "Add the curry paste, and mash into the garlic and onion mixture until fragrant, about 30 seconds.",
+        "Then add the sweet potato, coconut milk, chickpeas, and water*.",
+        "Bring to a boil, then reduce to a simmer. Cook for 10 to 15 minutes, partially covered, until the sweet potatoes are cooked.",
+        "Remove from heat and add the spinach, stirring to wilt.",
+        "Serve over rice or with naan, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * Taste test after adding the water. Depending on how thick you like your curry, you may want to add more water to thin it out.",
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

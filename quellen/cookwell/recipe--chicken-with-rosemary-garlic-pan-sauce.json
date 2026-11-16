@@ -1,0 +1,43 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/chicken-with-rosemary-garlic-pan-sauce",
+  "recipes": [
+    {
+      "name": "Chicken with Rosemary Garlic Pan Sauce",
+      "source_url": "https://app.cookwell.com/recipe/chicken-with-rosemary-garlic-pan-sauce",
+      "recipe_id": "https://app.cookwell.com/recipe/chicken-with-rosemary-garlic-pan-sauce",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Chicken Breasts, 1",
+        "Salt",
+        "chicken stock, ~200 g",
+        "Rosemary, 5 g",
+        "Garlic, 1 clove",
+        "Cooking oil, a drizzle",
+        "Cornstarch slurry, as needed",
+        "Black Pepper, to taste",
+        "Lemon juice, to taste",
+        "Salt, to taste"
+      ],
+      "instructions": [
+        "Thin out the chicken breast by slicing cross cuts into the thick end or pounding it flat with a pan. Add salt to both sides. Optionally, let the chicken brine for at least 1 hour or up to overnight.",
+        "Set a pan over medium-high heat and add a drizzle of oil, enough to coat the entire pan in a thin layer. Press the chicken breast into the hot pan to sear. Sear for 1-2 minutes until the breast has developed deep browning on one side. Flip the chicken and repeat on the other side. Once browned on both sides, turn the heat down to medium-low. Cook until the internal temperature reads 155°F/68°C at the thickest point. Set aside to rest while preparing the pan sauce.",
+        "Turn the heat down to medium. Add the minced garlic and rosemary to bloom for 30 seconds. Pour in the stock and turn the heat to high. Use a spatula to deglaze the bottom of the pan. The liquid should come back up to a rapid simmer. While stirring, reduce the liquid in half, for 2-4 minutes. If using store bought stock, which will not have enough gelatin to thicken, add a splash of the cornstarch slurry (equal parts cornstarch and water) to the pan and stir around until thickened to your liking. Turn the heat off. Add the fresh cracked black pepper and lemon juice. Taste it! Add salt or other flavorings as needed.",
+        "Slice the chicken on a bias and spoon the sauce over the top. Serve with salad, roasted vegetables or your side dish of choice."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

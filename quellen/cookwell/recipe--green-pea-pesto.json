@@ -1,0 +1,40 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/green-pea-pesto",
+  "recipes": [
+    {
+      "name": "Green Pea Pesto",
+      "source_url": "https://app.cookwell.com/recipe/green-pea-pesto",
+      "recipe_id": "https://app.cookwell.com/recipe/green-pea-pesto",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "Peas, 150 g",
+        "Fresh basil, a handful",
+        "Olive Oil, 25 g",
+        "Butter, 10 g",
+        "Parmesan, 20 g",
+        "Garlic, 2 cloves",
+        "Salt, to taste",
+        "Black Pepper, a sprinkle",
+        "Lemon juice, a drizzle"
+      ],
+      "instructions": [
+        "Add all ingredients to a food processor, setting aside half of the oil. Pulse until all ingredients are chopped. While blending, gradually add in the reserved oil until a unified sauce is formed. If needed, you can add a splash of water to thin out the texture.",
+        "Taste it! Add salt, black pepper, and squeeze in lemon juice to taste. Use with hot pasta, salads, flatbreads, or as a dip. Store in a container in the refrigerator for up to a week."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

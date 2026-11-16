@@ -1,0 +1,99 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/kimchi-guk",
+  "recipes": [
+    {
+      "name": "Kimchi soup (Kimchi-guk)",
+      "source_url": "https://www.maangchi.com/recipe/kimchi-guk",
+      "recipe_id": "/recipe/kimchi-guk#sso/recipe/27738",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "2-3 servings",
+      "prep_time": "P0DT0H5M0S",
+      "cook_time": "P0DT0H40M0S",
+      "total_time": "P0DT0H45M0S",
+      "ingredients": [
+        "2 cups of chopped kimchi",
+        "½ pound of pork shoulder (or pork belly), cut into bite sized pieces",
+        "2 Tablespoons of hot pepper paste",
+        "1 teaspoon of sugar",
+        "5 cups of water",
+        "2 stalks of green onions, chopped",
+        "1 package of tofu (14 ounces:396 grams), cut into bite sized cubes"
+      ],
+      "instructions": [
+        "Combine the kimchi, hot pepper paste, kimchi juice, pork, and sugar in a heavy bottomed pot.",
+        "Add water and bring to a boil over hight heat and cook for 30 minutes.",
+        "Add tofu and lower the heat to medium low. Cook for another 10 minutes.",
+        "Add green onion and remove from the heat.",
+        "Serve hot with rice and a few more side dishes if desired."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients (for 2-3 servings)"
+        },
+        {
+          "tag": "li",
+          "text": "2 cups of chopped kimchi"
+        },
+        {
+          "tag": "li",
+          "text": "½ pound of pork shoulder (or pork belly), cut into bite sized pieces"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tablespoons of hot pepper paste"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon of sugar"
+        },
+        {
+          "tag": "li",
+          "text": "5 cups of water"
+        },
+        {
+          "tag": "li",
+          "text": "2 stalks of green onions, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 package of tofu (14 ounces:396 grams), cut into bite sized cubes"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Combine the kimchi, hot pepper paste, kimchi juice, pork, and sugar in a heavy bottomed pot."
+        },
+        {
+          "tag": "li",
+          "text": "Add water and bring to a boil over hight heat and cook for 30 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Add tofu and lower the heat to medium low. Cook for another 10 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Add green onion and remove from the heat."
+        },
+        {
+          "tag": "li",
+          "text": "Serve hot with rice and a few more side dishes if desired."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

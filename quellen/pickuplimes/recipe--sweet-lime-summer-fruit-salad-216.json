@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/sweet-lime-summer-fruit-salad-216",
+  "recipes": [
+    {
+      "name": "Sweet Lime Summer Fruit Salad",
+      "source_url": "https://www.pickuplimes.com/recipe/sweet-lime-summer-fruit-salad-216",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT10M",
+      "ingredients": [
+        "2 tsp agave syrup",
+        "1 lime",
+        "2 kiwi",
+        "1 mango",
+        "1 cup fresh blueberries",
+        "1 cup red grapes",
+        "1 cup fresh strawberries",
+        "1 cup fresh blackberries",
+        "1½ Tbsp fresh mint leaves"
+      ],
+      "instructions": [
+        "In a large bowl, combine the agave syrup, lime zest, and juice.",
+        "Add the fruit and mint to the bowl and toss with the dressing. Serve immediately. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Best to enjoy immediately."
+  ]
+}

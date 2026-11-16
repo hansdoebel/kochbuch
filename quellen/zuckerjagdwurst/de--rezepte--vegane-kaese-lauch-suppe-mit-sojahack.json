@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kaese-lauch-suppe-mit-sojahack",
+  "recipes": [
+    {
+      "name": "Vegane Käse-Lauch-Suppe mit „Hack\"",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kaese-lauch-suppe-mit-sojahack",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kaese-lauch-suppe-mit-sojahack#recipe-0c0a23dd-c4d8-505b-a365-3b6018b994de",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "300 g Lauch",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "250 g veganes Hack",
+        "1 TL Sojasoße",
+        "1 EL Agavendicksaft",
+        "50 g Sonnenblumenkerne",
+        "1 EL Mehl",
+        "600 ml Gemüsebrühe",
+        "3 EL Hefeflocken",
+        "250 ml vegane Kochsahne",
+        "200 ml Wasser (nach Bedarf)",
+        "0.5 TL Muskat",
+        "neutrales Pflanzenöl zum Braten",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Lauch putzen und in Ringe schneiden. Zwiebel und Knoblauch schälen und fein hacken.",
+        "Pflanzenöl in einer Pfanne erhitzen und das vegane Hack darin circa 5 Minuten scharf anbraten. Sojasoße und Agavendicksaft dazugeben und weitere 5 Minuten anbraten. Zum Schluss Sonnenblumenkerne hinzufügen, mit Salz und Pfeffer abschmecken und weiter braten, bis die Suppe fertig ist.",
+        "In der Zwischenzeit Pflanzenöl in einem großen Topf bei kleiner Hitze erwärmen. Zwiebel und Knoblauch darin anschwitzen, bis die Zwiebelwürfel glasig sind. Lauch dazugeben und 3–4 Minuten gemeinsam anbraten. Mit Mehl bestäuben und die Gemüsebrühe einrühren. Alles zusammen circa 10 Minuten köcheln lassen.",
+        "Hefeflocken und vegane Sahne hinzugeben und die Suppe mit Salz und Pfeffer abschmecken. Weitere 5 Minuten köcheln lassen und nach Wunsch mehr Wasser dazugeben, bis die gewünschte Suppenkonsistenz erreicht ist. Erst kurz vor dem Servieren die vegane Hack-Sonnenblumenkern-Mischung dazugeben und die Suppe mit Muskat würzen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

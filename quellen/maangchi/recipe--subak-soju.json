@@ -1,0 +1,84 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/subak-soju",
+  "recipes": [
+    {
+      "name": "Soju Watermelon Cocktail (Subak soju)",
+      "source_url": "https://www.maangchi.com/recipe/subak-soju",
+      "recipe_id": "/recipe/subak-soju#sso/recipe/31293",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "2 small seedless watermelons, kept in the fridge",
+        "2 bottles of soju, kept in the fridge (about 4 cups’ worth)",
+        "2 cups of ice cubes"
+      ],
+      "instructions": [
+        "Cut off the top of watermelon. Scoop the flesh out with a spoon and put it in a blender. Set aside the watermelon bowls.",
+        "Blend the watermelon flesh for 1 minute, until smooth.",
+        "Set a fine-mesh strainer over a bowl and pour the blended watermelon through it. Press down with a spoon to strain it well. Discard the pulp. Remove the foam from the top with a spoon.",
+        "Measure 4 cups of blended watermelon juice and put it into a pitcher. Add 4 cups of soju and mix well.",
+        "Pour the mixture into the watermelon bowl and add ice cubes.",
+        "Serve cold with a green onion pancake."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients (Serves 4-8)"
+        },
+        {
+          "tag": "li",
+          "text": "2 small seedless watermelons, kept in the fridge"
+        },
+        {
+          "tag": "li",
+          "text": "2 bottles of soju, kept in the fridge (about 4 cups’ worth)"
+        },
+        {
+          "tag": "li",
+          "text": "2 cups of ice cubes"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Cut off the top of watermelon. Scoop the flesh out with a spoon and put it in a blender. Set aside the watermelon bowls."
+        },
+        {
+          "tag": "li",
+          "text": "Blend the watermelon flesh for 1 minute, until smooth."
+        },
+        {
+          "tag": "li",
+          "text": "Set a fine-mesh strainer over a bowl and pour the blended watermelon through it. Press down with a spoon to strain it well. Discard the pulp. Remove the foam from the top with a spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Measure 4 cups of blended watermelon juice and put it into a pitcher. Add 4 cups of soju and mix well."
+        },
+        {
+          "tag": "li",
+          "text": "Pour the mixture into the watermelon bowl and add ice cubes."
+        },
+        {
+          "tag": "li",
+          "text": "Serve cold with a green onion pancake."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

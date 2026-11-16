@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/high-protein-vegan-pancakes-714",
+  "recipes": [
+    {
+      "name": "High Protein Vegan Pancakes",
+      "source_url": "https://www.pickuplimes.com/recipe/high-protein-vegan-pancakes-714",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT20M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "10.582 oz silken tofu",
+        "1½ cup unsweetened pea milk",
+        "2 Tbsp maple syrup",
+        "2 tsp pure vanilla extract",
+        "2 tsp fresh lemon juice",
+        "3½ cup spelt flour",
+        "2 tsp baking powder",
+        "1 tsp baking soda",
+        "1 tsp ground cinnamon",
+        "¼ tsp salt",
+        "1 Tbsp vegetable oil",
+        "1 cup unsweetened soy Greek-style yogurt",
+        "1 cup fresh mixed berries",
+        "⅓ cup mixed unsalted roasted nuts",
+        "2 Tbsp roasted pumpkin seeds"
+      ],
+      "instructions": [
+        "To a blender, add the tofu, pea milk, maple syrup, vanilla, and lemon juice. Blend until smooth.",
+        "In a large bowl, combine the spelt flour, baking powder, baking soda, cinnamon, and salt. Mix well. Then add the wet ingredients from the blender. Mix until just combined, but be careful not to over-mix. If the mixture is too thick, add a splash of plant milk to thin it out a touch.",
+        "Heat a non-stick crêpe pan over medium-high heat and use a bit of oil to lightly grease the pan. Use a ¼ measuring cup to pour the batter onto the pan. Cook for 2 minutes on each side, or until golden. Continue with the leftover batter.",
+        "Top with yogurt, nuts, berries, and maple syrup if desired, and enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We recommend either soy or pea milk for this recipe as the high protein content helps for the fluffiness.",
+    "Storage The pancakes are best when enjoyed immediately, but can be stored separately from the toppings in an airtight container in the fridge for up to 3 days."
+  ]
+}

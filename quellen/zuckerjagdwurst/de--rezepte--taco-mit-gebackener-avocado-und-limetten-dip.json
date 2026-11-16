@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/taco-mit-gebackener-avocado-und-limetten-dip",
+  "recipes": [
+    {
+      "name": "Taco mit gebackener Avocado & Limetten-Dip",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/taco-mit-gebackener-avocado-und-limetten-dip",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/taco-mit-gebackener-avocado-und-limetten-dip#recipe-e3940019-f45b-506c-b6b5-f7449a43ae53",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "6 weiche Tacos",
+        "FÜR DIE FÜLLUNG",
+        "2 Avocado",
+        "1 Papaya",
+        "150 ml pflanzliche Milch",
+        "150 g Semmelbrösel",
+        "Schwarzer Sesam",
+        "Koriander",
+        "FÜR DEN DIP",
+        "1 Limette (Saft)",
+        "250 g pflanzlicher Joghurt",
+        "Salz, Pfeffer"
+      ],
+      "instructions": [
+        "Avocado schälen, Kern entfernen und in Streifen schneiden.",
+        "In zwei kleinen Schüsseln bereitet ihr alles fürs Panieren vor. In eine Schüssel füllt ihr pflanzliche Milch, in die andere Semmelbrösel. Legt eure Avocado-Scheiben erst in die Milch und wälzt sie dann rundum in Semmelbröseln.",
+        "Wenn alle Avocado-Scheiben paniert sind, legt ihr sie auf Backpapier auf ein Backblecht und lasst sie im Ofen bei etwa 150°C für 10 Minuten backen.",
+        "In der Zwischenzeit könnt ihr alles weitere vorbereiten. Papaya schälen und in Streifen schneiden. Koriander waschen und zurechtschneiden. Für den Dip verrührt ihr den Joghurt mit dem Limettensaft und schmeckt mit Salz und Pfeffer ab.",
+        "Sobald die Avocado fertig ist, bestreicht ihr einen Taco mit eurem Dip. Danach kommen Avocado und Papaya abwechselnd darauf. Mit Koriander und schwarzem Sesam toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

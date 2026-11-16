@@ -1,0 +1,36 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/balsamic-vinegar-reduction-711",
+  "recipes": [
+    {
+      "name": "Balsamic Vinegar Reduction",
+      "source_url": "https://www.pickuplimes.com/recipe/balsamic-vinegar-reduction-711",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT02M",
+      "cook_time": "PT15M",
+      "total_time": "PT17M",
+      "ingredients": [
+        "1 cup balsamic vinegar",
+        "1 Tbsp granulated sugar"
+      ],
+      "instructions": [
+        "In a small saucepan, combine the balsamic vinegar, and sugar if using, and bring to a boil over high heat. When it starts to boil, reduce the temperature to maintain a simmer.",
+        "Cook the vinegar down, stirring occasionally until it's about a third of the original volume, which should take about 13 to 15 minutes.",
+        "Allow the reduction to cool completely before transferring to a glass jar. The reduction will continue to thicken as it cools. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in the fridge for up to 2 months."
+  ]
+}

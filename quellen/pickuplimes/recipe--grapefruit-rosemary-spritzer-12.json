@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/grapefruit-rosemary-spritzer-12",
+  "recipes": [
+    {
+      "name": "Grapefruit Rosemary Spritzer",
+      "source_url": "https://www.pickuplimes.com/recipe/grapefruit-rosemary-spritzer-12",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT20M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "2 grapefruit",
+        "2 cup fresh pineapple",
+        "6 sprig fresh rosemary",
+        "½ cup water",
+        "⅓ cup granulated sugar",
+        "3 cup ice cubes",
+        "1½ cup grapefruit juice",
+        "3 cup carbonated water"
+      ],
+      "instructions": [
+        "Start with zesting the grapefruit. Reserve the zest for later.",
+        "Add the juice from the same grapefruit to a saucepan, along with the remaining syrup ingredients. Cook uncovered at a gentle simmer for 10 to 15 minutes. Stir often.",
+        "Then add the grapefruit zest to the saucepan. Use a wooden spoon or tamper to mash the pieces of pineapple to release their juices and flavours.",
+        "Place a sieve over a bowl or pitcher and strain the mixture. Use the back of a spoon to press out as much liquid as possible. Let cool completely.",
+        "Divide the ice between the glasses. To each cup, add 1 part syrup, 1 part grapefruit juice, 2 parts carbonated water. Garnish and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage The drink is best enjoyed immediately. The simple syrup can be made ahead and stored in a glass jar in the fridge for up to 3 days."
+  ]
+}

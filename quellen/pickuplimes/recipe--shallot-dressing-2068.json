@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/shallot-dressing-2068",
+  "recipes": [
+    {
+      "name": "Shallot Dressing",
+      "source_url": "https://www.pickuplimes.com/recipe/shallot-dressing-2068",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "1 medium shallot",
+        "⅓ cup extra-virgin olive oil",
+        "¼ cup white wine vinegar",
+        "¼ cup maple syrup",
+        "2 tsp Dijon mustard",
+        "⅛ tsp salt",
+        "⅛ tsp ground black pepper"
+      ],
+      "instructions": [
+        "Combine the shallot and vinegar in a small bowl. Let sit for at least 3 minutes to help soften the shallot and infuse the vinegar.",
+        "Add the remaining ingredients and whisk to emulsify.",
+        "The dressing is ready to use over your favourite salad. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage This dressing can be stored in an airtight container or jar in the fridge for up to 2 days."
+  ]
+}

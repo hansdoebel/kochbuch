@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-disco-bit-riegel",
+  "recipes": [
+    {
+      "name": "Vegane Disco Bit Riegel",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-disco-bit-riegel",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-disco-bit-riegel#recipe-b4ea1fc6-bd74-5055-a3f9-42c8da7d74f2",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Riegel",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT300M",
+      "ingredients": [
+        "Für den Teig:",
+        "150 g Weizenmehl (Type 405)",
+        "50 g Zucker",
+        "100 g vegane Butter",
+        "Mehl zum Bestäuben der Arbeitsfläche",
+        "Für das Karamell:",
+        "120 g weißer Zucker",
+        "75 ml vegane Sahne",
+        "30 g vegane Butter",
+        "Für die Deko:",
+        "vegane Milchschokolade",
+        "vegane Schokolinsen",
+        "Edelbitter Schokolade (für den Kringel)"
+      ],
+      "instructions": [
+        "Mehl und Zucker in einer Schüssel vermischen. Vegane Butter zu den trockenen Zutaten geben und mit den Händen zu einem Teig kneten. Den Teig zu einer Kugel formen und für 1 Stunde kalt stellen.",
+        "Den Teig auf einer bemehlten Arbeitsfläche dünn ausrollen und in 10 x 4 Zentimeter große Rechtecke schneiden. Die Rechtecke in die passende Riegelform legen. Den restlichen Teig in einen Spritzbeutel füllen und den welligen Rand auf den Riegeln platzieren. Alternativen einfach einen gerade Rand formen. Die Riegelform für eine weitere Stunde kalt stellen.",
+        "Backofen auf 180 °C (Umluft) vorheizen. Die Riegel mit einer Gabel mehrfach einstechen und 12–15 Minuten bei 180 °C (Umluft) backen, bis die Ränder leicht golden sind. Danach vollständig auskühlen lassen.",
+        "Für das Karamell den weißen Zucker in einer beschichteten Pfanne bei mittlerer Hitze schmelzen lassen, bis er goldbraun und flüssig ist. Die Pfanne gelegentlich schwenken, aber nicht umrühren. Pfanne vom Herd nehmen und vorsichtig vegane Sahne einrühren. Anschließend vegane Butter unterrühren, bis eine glatte, cremige Masse entsteht. Falls das Karamell klumpt, bei niedriger Hitze weiterrühren. Das Karamell etwas abkühlen lassen und danach gleichmäßig auf den abgekühlten Riegeln verteilen. Wieder in den Kühlschrank stellen.",
+        "Vegane Milchschokolade im Wasserbad schmelzen und mit einem Teelöffel auf dem Karamell verteilen. Sofort vegane Schokolinsen darauf verteilen und leicht andrücken (aber daran denken, dass noch eine Zartbitter-Welle in der Mitte Platz finden muss). Die Riegel wieder kalt stellen.",
+        "Edelbitterschokolade schmelzen, in einen Spritzbeutel füllen und eine Welle zentral auf den Riegeln auftragen.",
+        "Die Riegel 1–2 Stunden im Kühlschrank vollständig fest werden lassen. Danach vorsichtig aus der Form lösen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

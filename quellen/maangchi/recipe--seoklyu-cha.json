@@ -1,0 +1,72 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/seoklyu-cha",
+  "recipes": [
+    {
+      "name": "Pomegranate tea (Seoklyu-cha)",
+      "source_url": "https://www.maangchi.com/recipe/seoklyu-cha",
+      "recipe_id": "/recipe/seoklyu-cha#sso/recipe/58373",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "3½ cups pomegranate seeds (from 2 large pomegranates)",
+        "1 cup sugar"
+      ],
+      "instructions": [
+        "Place the pomegranate seeds in a bowl. Crush them coarsely with a pestle about 50 to 60 times.",
+        "Add the sugar and mix well.",
+        "Put the mixture in a glass jar. Make tea right away, or keep in the refrigerator for up to 1 month."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h3",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "3½ cups pomegranate seeds (from 2 large pomegranates)"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup sugar"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h3",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Place the pomegranate seeds in a bowl. Crush them coarsely with a pestle about 50 to 60 times."
+        },
+        {
+          "tag": "li",
+          "text": "Add the sugar and mix well."
+        },
+        {
+          "tag": "li",
+          "text": "Put the mixture in a glass jar. Make tea right away, or keep in the refrigerator for up to 1 month."
+        },
+        {
+          "tag": "h4",
+          "text": "Make tea:"
+        },
+        {
+          "tag": "p",
+          "text": "Put about ¼ cup of pomegranate seeds and juice in a tea cup. Add hot water and mix. Serve hot."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

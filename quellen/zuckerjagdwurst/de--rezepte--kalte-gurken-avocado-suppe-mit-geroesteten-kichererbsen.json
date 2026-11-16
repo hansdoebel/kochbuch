@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/kalte-gurken-avocado-suppe-mit-geroesteten-kichererbsen",
+  "recipes": [
+    {
+      "name": "Kalte Gurken-Avocado-Suppe mit gerösteten Kichererbsen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/kalte-gurken-avocado-suppe-mit-geroesteten-kichererbsen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/kalte-gurken-avocado-suppe-mit-geroesteten-kichererbsen#recipe-0d649fc5-6c23-519e-a569-cb89f859c48b",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "GURKEN-AVOCADO-SUPPE",
+        "2 Gurken",
+        "2 Avocados",
+        "125 ml Tahini",
+        "1 Zitrone (Saft)",
+        "2 Knoblauchzehen",
+        "15 g Basilikum",
+        "15 g Petersilie",
+        "15 g Dill",
+        "2 EL pflanzlicher Natur-Joghurt",
+        "0.5 TL Paprikapulver",
+        "0.5 TL Cayenne Pfeffer",
+        "1 TL Salz",
+        "GERÖSTETE KICHERERBSEN",
+        "400 g Kichererbsen",
+        "1 TL Salz",
+        "0.5 TL Pfeffer",
+        "0.5 TL Cayenne",
+        "1 TL Paprikapulver",
+        "2 EL pflanzliches Öl"
+      ],
+      "instructions": [
+        "Den Ofen auf 220°C vorheizen.",
+        "Die Kichererbsen abtropfen lassen, mit den Gewürzen und dem Öl in einer Schüssel vermengen und auf einem Backblech verteilen.",
+        "Die Kichererbsen im Ofen für 20 Minuten backen, bis sie schön knusprig und braun sind. Zwischendurch mal wenden.",
+        "In der Zwischenzeit alle Zutaten in einen Mixer geben und zu einer glatten Masse pürieren. Wasser und pflanzlichen Joghurt hinzugeben und abschmecken.",
+        "Die kalte Suppe mit den gerösteten Kichererbsen, pflanzlichem Joghurt, Öl und frischen Kräutern toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

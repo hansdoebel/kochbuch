@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-franzoesische-zwiebelsuppe-mit-steinpilzen",
+  "recipes": [
+    {
+      "name": "Vegane französische Zwiebelsuppe mit Steinpilzen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-franzoesische-zwiebelsuppe-mit-steinpilzen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-franzoesische-zwiebelsuppe-mit-steinpilzen#recipe-84e4e6c5-fca7-5445-9525-b3a4e2e41ea2",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Auflaufförmchen (Durchmesser: 12 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "40 g getrocknete Steinpilze",
+        "1 Liter heißes Wasser (oder Gemüsebrühe)",
+        "750 g Zwiebeln",
+        "3 EL vegane Butter",
+        "1 EL Weizenmehl (Type 405)",
+        "200 ml veganer Weißwein",
+        "6 Thymianzweige",
+        "1 Baguette",
+        "120 g veganer Streukäse",
+        "Salz",
+        "Pfeffer",
+        "Weißweinessig"
+      ],
+      "instructions": [
+        "Die getrockneten Steinpilze mit heißem Wasser übergießen und 30–60 Minuten darin einweichen lassen.",
+        "In der Zwischenzeit alle Zwiebeln schälen, halbieren und in dünne Halbringe schneiden. Vegane Butter in einer großen Pfanne zerlassen und die Zwiebeln darin circa 45 Minuten bei kleiner bis mittlerer Hitze karamellisieren lassen, bis sie süßlich und goldbraun sind.",
+        "Die Steinpilze abgießen, aber die Brühe aufheben und beiseitestellen. Die eingeweichten Pilze in die Pfanne geben und 3–4 Minuten mit anbraten. Danach alles mit Mehl bestäuben und mit veganem Weißwein ablöschen. Die Pilzbrühe (oder alternativ Gemüsebrühe) einrühren. Thymianzweige dazugeben und die Suppe circa 20 Minuten köcheln lassen. Danach kräftig mit Salz, Pfeffer und mit etwas Weißweinessig abschmecken.",
+        "Den Backofen auf 220 °C (Umluft) vorheizen. Das Baguette in Scheiben schneiden und die Scheiben während des Vorheizens in den Ofen legen, bis sie knusprig sind.",
+        "Die Thymianstiele aus der Suppe nehmen und die Suppe anschließend in Auflaufförmchen umfüllen. Die Baguettescheiben mit veganer Butter beschmieren und auf die Suppe legen. Veganen Streukäse mit etwas Pflanzenöl vermengen und auf den Brotscheiben verteilen. Die Suppe bei 220 °C (Umluft) gratinieren, bis die Käseschicht oben geschmolzen und goldbraun ist."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

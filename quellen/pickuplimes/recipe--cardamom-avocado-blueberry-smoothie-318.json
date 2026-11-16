@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/cardamom-avocado-blueberry-smoothie-318",
+  "recipes": [
+    {
+      "name": "Cardamom Avocado & Blueberry Smoothie",
+      "source_url": "https://www.pickuplimes.com/recipe/cardamom-avocado-blueberry-smoothie-318",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "½ avocado",
+        "1 frozen banana",
+        "1 cup unsweetened oat milk",
+        "½ cup unsweetened soy yogurt",
+        "1 cup frozen blueberries",
+        "½ cup frozen pineapple chunks",
+        "2 cardamom pod",
+        "½ tsp pure vanilla extract",
+        "⅛ tsp ground cinnamon"
+      ],
+      "instructions": [
+        "Add all ingredients to a high-speed blender and blend until smooth.",
+        "Pour the smoothie in tall glasses and top with desired garnish. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milks and yogurts that are fortified with calcium . † We used frozen wild blueberries, which we find gives a more vibrant purple colour once blended.",
+    "Storage Smoothies are best enjoyed immediately."
+  ]
+}

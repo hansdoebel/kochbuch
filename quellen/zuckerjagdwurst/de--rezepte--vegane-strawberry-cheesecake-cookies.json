@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-strawberry-cheesecake-cookies",
+  "recipes": [
+    {
+      "name": "Vegane Strawberry Cheesecake Cookies",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-strawberry-cheesecake-cookies",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-strawberry-cheesecake-cookies#recipe-f8f35c51-53c8-5bf7-a262-686fb6ca22ab",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT75M",
+      "ingredients": [
+        "Für die Frischkäse-Füllung:",
+        "100 g veganer Frischkäse (weich)",
+        "30 g Mehl (Type 405)",
+        "0.5 Zitrone (Abrieb)",
+        "Für die Kekse:",
+        "100 g frische Erdbeeren",
+        "30 g gefriergetrocknete Erdbeeren",
+        "125 g weiche vegane Butter (Zimmertemperatur)",
+        "125 g brauner Zucker",
+        "1 TL Vanilleextrakt",
+        "250 g Weizenmehl (Type 405)",
+        "1.5 TL Backpulver",
+        "0.5 TL Salz",
+        "75 ml pflanzliche Milch"
+      ],
+      "instructions": [
+        "Den veganen Frischkäse mit Mehl und Zitronenabrieb in einer kleinen Schüssel cremig rühren. Mit einem Teelöffel 8 Portionen auf ein mit Backpapier belegtes Brett setzen. Die Frischkäse-Portionen für mindestens 30 Minuten einfrieren, bis sie fest sind.",
+        "Die frischen Erdbeeren in feine Würfel schneiden. Die gefriergetrockneten Erdbeeren fein mahlen. Für den Keksteig vegane Butter und braunen Zucker in einer großen Schüssel aufschlagen. Vanilleextrakt unterrühren.",
+        "Mehl, Backpulver, gemahlene gefriergetrocknete Erdbeeren und Salz in einer separaten Schüssel mischen. Die trockenen Zutaten nach und nach zur Butter-Zucker-Mischung geben und dabei abwechselnd die pflanzliche Milch hinzufügen. Zu einem glatten Teig verrühren.",
+        "Den Backofen auf 180 °C (Umluft) vorheizen und ein Backblech mit Backpapier auslegen.",
+        "Aus dem Teig acht gleich große Kugeln formen und etwas flachdrücken. Den gefrorenen Frischkäse jeweils in die Mitte setzen und mit Teig rundherum verschließen. Die Kekse mit etwas Abstand auf das Backblech setzen und mit den Erdbeerwürfeln dekorieren.",
+        "Die Kekse für circa 15 Minuten backen, bis sie leicht goldbraun sind. Aus dem Ofen nehmen, gegebenenfalls etwas platt drücken, kurz auf dem Blech abkühlen und dann auf einem Gitter vollständig auskühlen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

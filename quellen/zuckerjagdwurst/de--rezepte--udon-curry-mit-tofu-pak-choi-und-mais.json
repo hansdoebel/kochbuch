@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/udon-curry-mit-tofu-pak-choi-und-mais",
+  "recipes": [
+    {
+      "name": "Udon Curry mit Tofu, Pak Choi und Mais",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/udon-curry-mit-tofu-pak-choi-und-mais",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/udon-curry-mit-tofu-pak-choi-und-mais#recipe-df6b74d5-3266-524c-87ec-c3a5944e23b0",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Zum Anbraten:",
+        "200 g Räuchertofu",
+        "1-2 Pak Choi",
+        "2 Frühlingszwiebeln",
+        "1–2 Knoblauchzehen",
+        "10 g Ingwer",
+        "200 g Mais aus der Dose",
+        "1 EL Sojasoße",
+        "1 TL Agavendicksaft",
+        "2–3 getrocknete Shiitake Pilze (optional)",
+        "Salz",
+        "Pfeffer",
+        "Erdnussöl zum Braten",
+        "#### Außerdem:",
+        "1–2 EL Currypaste",
+        "400 ml Kokosmilch",
+        "600 g vorgekochte Udonnudeln",
+        "Wasser (optional)",
+        "Zum Servieren:",
+        "Chili Crunch",
+        "Sesam",
+        "frischer Koriander",
+        "Limette"
+      ],
+      "instructions": [
+        "Zuerst alle Zutaten vorbereiten und schneiden: Räuchertofu grob reiben. Pak Choi und Frühlingszwiebeln jeweils in feine Ringe und Streifen schneiden und den grünen Teil vom weißen Teil trennen. Knoblauch und Ingwer reiben und den Mais aus der Dose abgießen.",
+        "Erdnussöl in einer Pfanne erhitzen und zunächst den Mais aus der Dose darin anbraten, bis er knusprig ist. Danach herausnehmen, mit Salz und Pfeffer würzen und beiseitestellen.",
+        "Erneut etwas Öl in der Pfanne erhitzen und anschließend den Räuchertofu darin gut anbraten, bis er gut gebräunt ist. Sojasoße und Agavendicksaft dazugeben und weitere 2–3 Minuten anbraten. Dann den weißen Teil der Frühlingszwiebeln, vom Pak Choi, geriebenen Knoblauch und Ingwer dazugeben und weitere 5 Minuten braten. Die getrockneten Pilze fein reiben und dazugeben.",
+        "Parallel dazu Currypaste und Kokosmilch in einem Topf verrühren und zum Kochen bringen. Die Udonnudeln entweder kurz in heißem Wasser oder direkt in der köchelnden Soße ziehen lassen. In letzterem Fall bei Bedarf etwas Wasser dazugeben, bis die Soße die gewünschte Konsistenz hat.",
+        "Zum Servieren die Udonnudeln zusammen mit den gebratenen Zutaten aus der Pfanne in eine Schüssel geben und mit der Soße aufgießen. Mit dem grünen Teil des Pak Choi, der Frühlingszwiebeln und nach Wunsch Chili Crunch, Sesam, Koriander und Limettensaft toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

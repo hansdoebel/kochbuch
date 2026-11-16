@@ -1,0 +1,50 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/crispy-oven-roasted-buffalo-chicken",
+  "recipes": [
+    {
+      "name": "Crispy Oven Roasted Buffalo Chicken",
+      "source_url": "https://app.cookwell.com/recipe/crispy-oven-roasted-buffalo-chicken",
+      "recipe_id": "https://app.cookwell.com/recipe/crispy-oven-roasted-buffalo-chicken",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT4H50M",
+      "ingredients": [
+        "chicken, 1 whole",
+        "Salt, 1%",
+        "Baking Powder, 1%",
+        "Corn starch, 1%",
+        "Butter, 1 part",
+        "Hot Sauce, 1 part",
+        "Garlic Powder, a sprinkle",
+        "Black Pepper, a spoonful",
+        "Mayonnaise, 30 g",
+        "Sour Cream, 30 g",
+        "Blue Cheese, 20 g",
+        "Milk, 15 g",
+        "Worcestershire Sauce, 10 g",
+        "Garlic Powder, 5 g",
+        "Lemon juice, 1/2 lemon",
+        "Salt, to taste",
+        "Black Pepper, to taste"
+      ],
+      "instructions": [
+        "First, break down the whole chicken into 10 pieces. Use a paper towel to pat the chicken dry and remove any excess moisture. Note: Save the backbone for making chicken stock later. Next, place a large bowl on a scale, add the chicken pieces, and take note of the weight. Then, add 1% by weight of salt, baking powder, and corn starch to the chicken. Toss the chicken pieces in this mixture until they are evenly coated. Example: If the chicken pieces weigh 1000 g, add 10 g each of salt, baking powder, and corn starch. Cover a baking sheet with aluminum foil and place a wire rack on top. Arrange the chicken pieces on the rack and place it on the bottom shelf of the refrigerator. For the best results, let it air dry and brine for at least 4 hours, or up to 24.",
+        "When ready to roast, preheat the oven to 450° F/232° C. Remove the chicken from the fridge. If there are any visible water droplets on the chicken's exterior, gently blot them off with a paper towel. Place the chicken in the oven and roast for 20 to 25 minutes. During this time, the skin should start to render, crisp up, and brown. Rotate the chicken wings and drumsticks to ensure even browning. Continue to bake the chicken for another 15 to 25 minutes, or until it's evenly browned and crispy. While the chicken is baking, you can prepare the buffalo sauce and dipping sauces.",
+        "Melt the butter in a saucepan over medium-low heat. Once melted, add the hot sauce of your choice, the garlic powder, and black pepper. Stir until the sauce is cohesive and emulsified and then take it off the heat. Place in a bowl until ready to serve. Add all the blue cheese components to a bowl and whisk together. Thin out with milk or water if needed. Taste and adjust salt and pepper as you see fit. Place in a bowl until ready to serve.",
+        "Once the chicken is done, add it to a large bowl. Spoon the buffalo sauce over top and toss so it is evenly coated on the exterior. Serve immediately (so the skin doesn't go soggy) with the blue cheese dressing or your dipping sauce of choice. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-piroggen-mit-sauerkraut-und-pilzen",
+  "recipes": [
+    {
+      "name": "Vegane Piroggen mit Sauerkraut & Pilzen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-piroggen-mit-sauerkraut-und-pilzen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-piroggen-mit-sauerkraut-und-pilzen#recipe-4a49782e-e81c-5f5e-99dd-3b8df35ce836",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "20 Piroggen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Teig",
+        "250 g Weizenmehl",
+        "100-150 ml sehr warmes Wasser",
+        "1/2 TL Salz",
+        "Füllung",
+        "2 EL pflanzliche Butter",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "150 g frische Pilze (Champignons, Steinpilze, Shiitake)",
+        "150 g Sauerkraut",
+        "Salz & viel Pfeffer",
+        "Toppings",
+        "150 g pflanzlicher Joghurt",
+        "5 saure Gurken",
+        "100 g Röstzwiebeln"
+      ],
+      "instructions": [
+        "Für den Teig alle Zutaten in einer Schüssel vermischen. Am besten gibst du das warme Wasser nach und nach hinzu. Knete den Teig so lange, bis er geschmeidig ist. Das kann bis zu 10 Minuten dauern. Den Teig anschließend 20 Minuten ruhen lassen.",
+        "Für die Füllung die Zwiebel und die Knoblauchzehe schälen und grob hacken. Die Pilze putzen, die Stiele entfernen und grob zerkleinern.",
+        "In einer hohen Pfanne etwas pflanzliche Butter erhitzen und Zwiebel und Knoblauch darin anschwitzen.",
+        "Nach 2-3 Minuten die Pilze hinzugeben und mindestens 5 Minuten gut anrösten. Am Ende das Sauerkraut unterrühren. Abschmecken und mit Salz und Pfeffer kräftig würzen.",
+        "Die Füllung in einen Zerkleinerer geben und etwas feiner schreddern, aber nicht cremig! Die Füllung sollte mit einem Teelöffel gut portionierbar sein.",
+        "Den Teig auf einer bemehlten Unterfläche ausrollen und mit einer Ausstechform oder einem Glas Kreise ausstechen. 1 TL Füllung auf den Teig geben und den Rand etwas mit Wasser befeuchten. Die Kreise zuklappen und gut fest drücken. Wenn ihr mit dem Rücken einer Gabeln die Rändern nochmals fest drücken, halten sie bombenfest!",
+        "Einen Topf mit gesalzenem Wasser erhitzen und die Piroggen darin 2-3 Minuten bei leicht siedendem Wasser ziehen lassen, bis sie an der Wasseroberfläche schwimmen.",
+        "Anschließend abtropfen lassen und mit pflanzlichem Joghurt, einer sauren Gurke, Röstzwiebeln und etwas gemahlenem Pfeffer servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

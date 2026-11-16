@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/einfaches-veganes-stockbrot",
+  "recipes": [
+    {
+      "name": "Einfaches veganes Stockbrot",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/einfaches-veganes-stockbrot",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/einfaches-veganes-stockbrot#recipe-e6b810c1-458a-55f4-8bdf-fe16d0904e39",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Stockbrote",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT210M",
+      "ingredients": [
+        "Für den Hefeteig:",
+        "7 g Trockenhefe",
+        "1 TL Zucker",
+        "280 ml lauwarmes Wasser",
+        "500 g Weizenmehl (Type 405) oder Dinkelmehl (Type 630)",
+        "2 TL Salz",
+        "25 g vegane Aioli (z.B. von Byodo)",
+        "Für den Dip:",
+        "50 g vegane Aioli (z.B. von Byodo)",
+        "1 Bio-Zitrone (Abrieb)",
+        "10 g frische Kräuter",
+        "Außerdem:",
+        "Verschiedene Grillsoßen (z.B. Barbecue Sauce oder Grill & Fondue Senf von Byodo)"
+      ],
+      "instructions": [
+        "Trockenhefe zusammen mit Zucker in eine Schüssel geben und mit lauwarmem Wasser übergießen. 5 Minuten stehen lassen, bis die Hefe Blasen schlägt. Mehl und Salz dazugeben und zu einem groben Teig mit einem Kochlöffel verrühren.",
+        "Den Teig nun in eine Küchenmaschine geben und auf kleiner Stufe kneten lassen, bis dieser glatt ist. Alternativ mit den Händen kneten. Die vegane Aioli dazugeben und weitere 7–8 Minuten mit den Händen oder der Küchenmaschine kneten. Den Teig anschließend rundwirken und zurück in die Schüssel geben, mit einem Tuch überdecken und an einem warmen Ort mindestens 1 Stunde oder bis er sich verdoppelt hat gehen lassen.",
+        "In der Zwischenzeit den Dip aus veganer Aioli, gehackten frischen Kräutern und Zitronenabrieb anrühren und bis zur Verwendung in den Kühlschrank stellen.",
+        "Sobald der Teig gegangen ist, erneut durchkneten und in 8 gleichgroße Stücke teilen. Die Teigstücke zu einer Schlange formen und etwas plattdrücken und um euren Stock (oder Kochlöffel) wickeln und erneut ca. 30 Minuten gehen lassen.",
+        "Nun das Stockbrot entweder über dem Grill oder im Backofen bei 200 °C (Ober- und Unterhitze) ca. 10–14 Minuten backen, bis er goldbraun ist."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

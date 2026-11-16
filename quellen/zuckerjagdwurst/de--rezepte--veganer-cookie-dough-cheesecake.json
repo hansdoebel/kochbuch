@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-cookie-dough-cheesecake",
+  "recipes": [
+    {
+      "name": "Veganer Cookie Dough Cheesecake",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-cookie-dough-cheesecake",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-cookie-dough-cheesecake#recipe-a282cd6f-e2a4-578c-90e6-5202269c44ea",
+      "authors": [
+        "Lara Iwaloye"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (∅ 28cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT225M",
+      "ingredients": [
+        "Für den Keksteig:",
+        "200 g Weizenmehl (Type 405) oder Dinkelmehl (Type 603)",
+        "90 g Zucker",
+        "125 g vegane Butter",
+        "8 g (1.5 TL) Vanillezucker",
+        "5 g (1 TL) Backpulver",
+        "2 EL Apfelmus",
+        "150 g Schokodrops (backstabil)",
+        "1 Prise Salz",
+        "Für den Käsekuchen:",
+        "800 g Sojajoghurt 200 g veganer Frischkäse 100 g Zucker 56 g veganes Vanillepuddingpulver 125 g vegane Margarine (geschmolzen) 1 EL Zitronensaft Zitronenabrieb einer Zitrone",
+        "Außerdem:",
+        "100 ml vegane Sahne 100 g vegane Zartbitterschokolade"
+      ],
+      "instructions": [
+        "Den Backofen auf 180 °C (Ober- und Unterhitze) vorheizen. Eine Springform (∅ 28 cm) einfetten und mit Backpapier auslegen.",
+        "In einer großen Schüssel Mehl, Zucker, vegane Butter, Salz, Vanillezucker, Backpulver und Apfelmus miteinander vermengen. Die Schokodrops ebenfalls untermischen. Den Keksteig in zwei Hälften teilen, mit etwas Mehl bestäuben, und jeweils beide Hälften kreisrund ausrollen, bis sie etwa die Größe der Springform haben. Die eine Hälfte in den Boden der Form geben und leicht andrücken.",
+        "Sojajoghurt, veganen Frischkäse, Zucker, Vanillepuddingpulver, vegane Margarine, Zitronensaft und -schale vermischen und auf die Keksschicht gießen. Den restlichen Keksteig als letzte Schicht obendrauf legen und den Kuchen bei 180 ° C (Ober- Unterhitze) für 50 Minuten backen.",
+        "Den Kuchen mindestens 2 Stunden abkühlen lassen. Die Sahne in einem Topf leicht erwärmen, vom Herd nehmen und die Zartbitterschokolade hineingeben. Warten, bis die Schokolade schmilzt und anschließend zu einer Ganache verrühren. Abkühlen lassen und auf dem Kuchen verteilen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

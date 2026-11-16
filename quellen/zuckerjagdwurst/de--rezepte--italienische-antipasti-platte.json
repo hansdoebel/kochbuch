@@ -1,0 +1,102 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/italienische-antipasti-platte",
+  "recipes": [
+    {
+      "name": "Selbstgebackene Grissini",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/italienische-antipasti-platte",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/italienische-antipasti-platte#recipe-2046fab1-b849-569c-bdd2-a3811a71e6ba",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 - 10 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT180M",
+      "ingredients": [
+        "250 g Mehl",
+        "21 g frische Hefe (1/2 Würfel)",
+        "1 EL Zucker",
+        "125 ml lauwarmes Wasser",
+        "50 ml Öl",
+        "2 Rosmarinzeige"
+      ],
+      "instructions": [
+        "Mehl in eine Schüssel geben und eine kleine Mulde in der Mitte formen. Hefe und Zucker in lauwarmem Wasser auflösen. Die Mischung in die Mehlmulde gießen und vorsichtig zu einem Vorteig vermengen. Mit einem Küchentuch abdecken und ca. 10 Minuten stehen lassen.",
+        "Rosmarinzweige hacken. Öl mit gehacktem Rosmarin verrühren und dazugeben und nun alles zu einem Teig verkneten, ca. 5 Minuten. Zurück in die leicht eingeölte Schüssel legen und abgedeckt ca. 1 Stunde gehen lassen.",
+        "Sobald sich das Teigvolumen vergrößert hat, den Teig in 12 gleich große Portionen teilen und jede Teigportion zu einer Stange formen. Auf ein mit Backpapier ausgelegtes Backblech legen und nochmal 15 Minuten gehen lassen. Bei 200 Grad ca. 15 Minuten backen oder bis die Grissini goldbraun sind."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Hausgemachte halbgetrocknete Tomaten",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/italienische-antipasti-platte",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/italienische-antipasti-platte#recipe-97469805-e00f-519d-90fa-e56cd0c560ef",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 großes Glas",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT180M",
+      "ingredients": [
+        "500 g Kirschtomaten",
+        "3 Zehen Knoblauch",
+        "5 g frischer Rosmarin",
+        "5 g frischer Basilikum",
+        "5 g frischer Oregano",
+        "Olivenöl",
+        "Salz"
+      ],
+      "instructions": [
+        "Die Kirschtomaten halbieren und auf einem Backblech verteilen. Mit etwas Öl beträufeln und Salz würzen. Danach im Backofen auf der unteren Schiene bei ca. 80°C gut und gern 1 Stunde backen und trocknen lassen. Bei unserem Gasofen dauert es so lang, die Zeit kann natürlich von Ofen zu Ofen abweichen. Danach herausnehmen und leicht abkühlen lassen.",
+        "Anschließend Knoblauch schälen und mit dem Messerrücken zerdrücken. In ein verschließbares Glas geben. Rosmarin, Basilikum und Oregano fein hacken und ebenfalls in der Glas geben. Schon mal 3-4 EL Olivenöl dazugeben und verrühren. Wenn ihr keine frischen Kräuter bekommt, könnt ihr auch getrocknete Kräuter nehmen.",
+        "Die Kirschtomaten ins Glas füllen und anschließend mit gutem Olivenöl auffüllen. Verschließen und tataa, da habt ihr eure Tomätchen!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Hausgemachte Oliventapenade",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/italienische-antipasti-platte",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/italienische-antipasti-platte#recipe-69c6fa6c-b4df-5819-9bbc-7f71a1acd940",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Glas",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT180M",
+      "ingredients": [
+        "200 g Kalamata Oliven (ohne Kern)",
+        "100 g grüne Oliven",
+        "50 g Kapern",
+        "1 Knoblauchzehe",
+        "5 g frischer Basilikum",
+        "5 g frischer Thymian",
+        "5 g frischer Oregano",
+        "1 EL Zitronenabrieb",
+        "Olivenöl",
+        "Salz"
+      ],
+      "instructions": [
+        "Falls ihr doch keine Oliven ohne Stein bekommen habt, müsst ihr zuerst die Oliven entsteinen. Alle anderen können diesen Schritt überspringen und direkt Oliven, Kapern, Knoblauchzehe, frische Kräuter, Zitronenabrieb in ein hohes Gefäß geben und mit dem Pürierstab vermengen.",
+        "Nun nach und nach so viel Olivenöl dazugeben, bis die Masse dickflüssig, aber cremig wird. Mit Salz abschmecken. Als Aufstrich oder Dip verwenden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

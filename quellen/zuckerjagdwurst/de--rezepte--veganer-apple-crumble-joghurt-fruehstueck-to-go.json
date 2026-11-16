@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-apple-crumble-joghurt-fruehstueck-to-go",
+  "recipes": [
+    {
+      "name": "Veganer Apple Crumble Joghurt (als Frühstück to go)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-apple-crumble-joghurt-fruehstueck-to-go",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-apple-crumble-joghurt-fruehstueck-to-go#recipe-145d0ca6-17e6-50ae-8d9b-49b1e3f630ab",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "5 kleine Portionen / 3 große Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "8 Äpfel",
+        "1 TL Zimt",
+        "1 Zitrone (Saft)",
+        "300 ml Wasser",
+        "90 g kernige Haferflocken",
+        "60 g gehackte Haselnüsse",
+        "10 g gepuffter Amaranth",
+        "2 TL Agavendicksaft",
+        "600 g veganer Stracciatella-Joghurt (z. B. Lughurt Stracciatella von LUVE)"
+      ],
+      "instructions": [
+        "Äpfel waschen, entkernen und würfeln. Die Apfelstückchen mit Zimt, dem Saft einer Zitrone und Wasser in einen Topf geben und ca. 20 Minuten bei mittlerer Hitze köcheln lassen, bis die Apfelstückchen ganz weich sind und leicht zerfallen. Während des Einkochens mehrmals umrühren.",
+        "Haferflocken, Haselnüsse, gepufften Amaranth und Agavendicksaft in einer beschichteten Pfanne bei kleiner bis mittlerer Hitze etwa 10 Minuten rösten, bis es herrlich duftet.",
+        "Den pflanzlichen Stracciatella-Joghurt und Apfelmus in einem Einmachglas oder einer Dose übereinander schichten. Das Granola am besten in einem separaten Gefäß aufbewahren, damit es knusprig bleibt, und erst kurz vor dem Essen auf dem veganen Joghurt verteilen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

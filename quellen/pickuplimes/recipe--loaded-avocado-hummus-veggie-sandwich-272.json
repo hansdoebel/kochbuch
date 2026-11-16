@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/loaded-avocado-hummus-veggie-sandwich-272",
+  "recipes": [
+    {
+      "name": "Loaded Avocado & Hummus Veggie Sandwich",
+      "source_url": "https://www.pickuplimes.com/recipe/loaded-avocado-hummus-veggie-sandwich-272",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 sandwiches",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT10M",
+      "ingredients": [
+        "4 slice whole wheat bread",
+        "½ cup hummus",
+        "1 avocado",
+        "1 cup spinach",
+        "¼ cucumber",
+        "1 medium tomato",
+        "¼ cup green olives",
+        "¼ small red onion",
+        "¼ medium carrot",
+        "1 Tbsp sweet chili sauce"
+      ],
+      "instructions": [
+        "Divide the ingredients between the breads to make sandwiches. That’s it - enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage This sandwich is best enjoyed immediately. Store in an airtight container in the fridge for up to 1 day."
+  ]
+}

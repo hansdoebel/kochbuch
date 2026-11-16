@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-apfelkrapfen-apple-fritters",
+  "recipes": [
+    {
+      "name": "Vegane Apfelkrapfen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-apfelkrapfen-apple-fritters",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-apfelkrapfen-apple-fritters#recipe-a02af33c-fe14-5402-a21f-ad8c0fd89850",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 20 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "Für die Apfelkrapfen:",
+        "4 Äpfel",
+        "1 Zitrone (Saft)",
+        "250 g Mehl",
+        "40 g Rohrzucker",
+        "0.5 TL Salz",
+        "8 g (1.5 TL) Backpulver",
+        "1 TL gemahlener Zimt",
+        "1 TL gemahlener Ingwer",
+        "200 ml pflanzliche Milch",
+        "40 g vegane Butter (geschmolzen)",
+        "2 TL Vanilleextrakt",
+        "125 ml Apfelmus",
+        "Für die Glasur:",
+        "200 g Puderzucker",
+        "1 TL Zimt",
+        "2 TL Zitronensaft",
+        "Wasser oder Pflanzenmilch",
+        "Außerdem:",
+        "neutrales Pflanzenöl zum Frittieren"
+      ],
+      "instructions": [
+        "Äpfel schälen, entkernen und in mundgerechte Würfel schneiden – nicht zu klein, aber auch nicht zu groß. Mit etwas Zitronensaft beträufeln und beiseitestellen.",
+        "Mehl, Zucker, Salz, Backpulver, gemahlenen Zimt und Ingwer in eine Schüssel geben und vermengen.",
+        "Pflanzliche Milch, geschmolzene vegane Butter, Vanilleextrakt und Apfelmus in einer zweiten Schüssel verrühren.",
+        "Die flüssige Mischung zum Mehl geben. Alles gut verrühren und dann die Apfelwürfel untermengen.",
+        "Pflanzenöl in einer tiefen Pfanne oder einem Topf auf ca. 180°C erhitzen. Zum Test könnt ihr auch einen Holzspieß vorsichtig ins Öl halten – bilden sich kleine Bläschen daran, ist das Fett heiß genug. Für jeden Apfelkrapfen ca. einen gehäuften Esslöffel des Teigs vorsichtig ins heiße Fett geben und dann von beiden Seiten mindestens goldbraun frittieren – gern sogar einen Tick dunkler, denn dann werden sie knuspriger. Gebt immer nur 3-5 Apfelkrapfen in die Pfanne oder den Topf, damit das Fett nicht zu sehr abkühlt. Die Krapfen anschließend aus dem Fett nehmen und auf Küchenpapier abtropfen und abkühlen lassen.",
+        "Für die Glasur Puderzucker mit Zimt vermengen, Zitronensaft einrühren und dann soviel Wasser oder Pflanzenmilch dazugeben, bis ihr einen dickflüssigen Zuckerguss habt. Die abgekühlten Apfelkrapfen entweder direkt in die Glasur tunken oder mit ihr beträufeln. Alternativ könnt ihr sie auch in Zimt und Zucker wenden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

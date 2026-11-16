@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-biscoff-griessbrei-mit-5-zutaten",
+  "recipes": [
+    {
+      "name": "Veganer Biscoff-Grießbrei (mit 5 Zutaten)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-biscoff-griessbrei-mit-5-zutaten",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-biscoff-griessbrei-mit-5-zutaten#recipe-e1eae671-090b-5b9a-9ba9-acc62f96fc18",
+      "authors": [],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 ganze Portionen (oder 4 Dessert-Portionen)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Für den Grießbrei:",
+        "1 l pflanzliche Milch",
+        "120 g Weichweizengrieß",
+        "Für das Topping:",
+        "1-2 Äpfel",
+        "100 g Biscoff-Kekse",
+        "60 ml pflanzliche Milch",
+        "1 Prise Salz",
+        "30 g vegane Schokolade"
+      ],
+      "instructions": [
+        "Pflanzliche Milch in einen großen Topf geben und aufkochen lassen. Den Weichweizengrieß langsam einrieseln lassen und dabei direkt mit einem Schneebesen verrühren, damit sich keine Klümpchen bilden. Den Grießbrei nochmal kurz aufkochen lassen, dann vom Herd nehmen und quellen lassen.",
+        "Apfel waschen und in dünne Spalten schneiden. 130 ml Wasser in eine große Pfanne geben und die Apfelspalten darin ca. 6-8 Min. mit geschlossenem Deckel dünsten, bis das Wasser verkocht ist.",
+        "80 g der Kekse entweder mit einem Zerkleinerer oder einem Mixer zerbröseln, bis keine Stückchen mehr vorhanden sind. Die pflanzliche Milch und Salz hinzugeben und gut verrühren, damit eine cremige Masse entsteht.",
+        "Die restlichen 20 g Kekse zerkleinern und beiseitestellen. Die vegane Schokolade entweder in der Mikrowelle oder über dem Wasserbad schmelzen.",
+        "Zum Anrichten den Grießbrei in eine Schüssel geben undmit gedünsteten Apfelstücken, geschmolzener Schokolade, Biscoff-Keks-Creme und Bröseln toppen und genießen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": [
+        "authors"
+      ]
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

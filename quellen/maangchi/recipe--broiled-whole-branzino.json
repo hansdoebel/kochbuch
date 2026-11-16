@@ -1,0 +1,154 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/broiled-whole-branzino",
+  "recipes": [
+    {
+      "name": "Broiled Whole Branzino",
+      "source_url": "https://www.maangchi.com/recipe/broiled-whole-branzino",
+      "recipe_id": null,
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 whole branzino (about 1–1.5 lb), cleaned (see my video “How to Clean Fish”)",
+        "¼ teaspoon kosher salt",
+        "2 tablespoons olive oil (or any cooking oil)",
+        "3 tablespoons soy sauce",
+        "1 teaspoon gochugaru (Korean hot pepper flakes)",
+        "2 garlic cloves, minced",
+        "3 green onions, chopped (reserve 1–2 tablespoons for garnish)",
+        "1 tablespoon toasted sesame oil",
+        "2 tablespoons thinly sliced onion",
+        "1 tablespoon toasted sesame seeds"
+      ],
+      "instructions": [
+        "In a small bowl, mix the soy sauce, gochu-garu, garlic, chopped green onion, and sesame oil. Set aside.",
+        "Reserve a little bit of the chopped green onion for garnish before serving.",
+        "Soak the onion in water. You’ll add it on top just before serving."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves: 3-4 Cooking time: 10-15 minutes"
+        },
+        {
+          "tag": "li",
+          "text": "1 whole branzino (about 1–1.5 lb), cleaned (see my video “How to Clean Fish”)"
+        },
+        {
+          "tag": "li",
+          "text": "¼ teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons olive oil (or any cooking oil)"
+        },
+        {
+          "tag": "li",
+          "text": "3 tablespoons soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon gochugaru (Korean hot pepper flakes)"
+        },
+        {
+          "tag": "li",
+          "text": "2 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "3 green onions, chopped (reserve 1–2 tablespoons for garnish)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons thinly sliced onion"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame seeds"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "p",
+          "text": "Prepare the sauce and garnish"
+        },
+        {
+          "tag": "li",
+          "text": "In a small bowl, mix the soy sauce, gochu-garu, garlic, chopped green onion, and sesame oil. Set aside."
+        },
+        {
+          "tag": "li",
+          "text": "Reserve a little bit of the chopped green onion for garnish before serving."
+        },
+        {
+          "tag": "li",
+          "text": "Soak the onion in water. You’ll add it on top just before serving."
+        },
+        {
+          "tag": "p",
+          "text": "Now, let’s broil the fish: 1. Preheat the oven broiler to 500°F (260°C). 2. Place the cleaned branzino on a cutting board and pat it dry with paper towels. Score both sides of the fish a few times with a sharp knife."
+        },
+        {
+          "tag": "p",
+          "text": "3. Sprinkle ¼ teaspoon of salt evenly over the fish."
+        },
+        {
+          "tag": "p",
+          "text": "4. Brush both sides of the fish with olive oil and lightly oil the rack in the roasting pan to prevent sticking."
+        },
+        {
+          "tag": "p",
+          "text": "5. Place the roasting pan on the middle oven rack and broil the fish for about 5 to 6 minutes, until the skin is nicely browned. If the fish is larger, cook it a little longer."
+        },
+        {
+          "tag": "p",
+          "text": "6. Flip the fish over and broil for another 4 to 5 minutes."
+        },
+        {
+          "tag": "p",
+          "text": "7. Meanwhile, rinse and drain the sliced onion."
+        },
+        {
+          "tag": "p",
+          "text": "8. Transfer the fish to a serving plate. Spoon the sauce over the fish, then top with the onion slices and the remaining chopped green onions."
+        },
+        {
+          "tag": "p",
+          "text": "9. Finish with a sprinkle of sesame seeds. 10. Serve right away with rice, kimchi, and other side dishes if desired. Doenjang-jjigae or sundubu-jjigae is a great accompaniment."
+        },
+        {
+          "tag": "p",
+          "text": "11. Usually it’s eaten all at once, but if you have leftovers, refrigerate them in an airtight container and enjoy within about 3–4 days."
+        },
+        {
+          "tag": "p",
+          "text": "Broiled branzino served with multigrain rice, sundubu-jjigae, radish kimchi, and cilantro salad."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [
+    "Kein Recipe-JSON-LD; sichtbare Rezeptkarte mit Originaltitel und sichtbarer Byline erfasst."
+  ],
+  "page_recipe_notes": []
+}

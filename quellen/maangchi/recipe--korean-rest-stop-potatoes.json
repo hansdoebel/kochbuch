@@ -1,0 +1,94 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/korean-rest-stop-potatoes",
+  "recipes": [
+    {
+      "name": "Korean Highway Rest Stop PotatoesKorean highway rest stop potatoes...",
+      "source_url": "https://www.maangchi.com/recipe/korean-rest-stop-potatoes",
+      "recipe_id": "/recipe/korean-rest-stop-potatoes#sso/recipe/106085",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "2 servings",
+      "prep_time": null,
+      "cook_time": "P0DT0H25M0S",
+      "total_time": "P0DT0H25M0S",
+      "ingredients": [
+        "1 pound small baby potatoes, scrubbed clean with any blemishes removed",
+        "1 tablespoon unsalted butter",
+        "¼ teaspoon kosher salt",
+        "1 tablespoon sugar, optional",
+        "1 to 2 tablespoon grated Parmesan cheese"
+      ],
+      "instructions": [
+        "Place the potatoes in a medium saucepan and add enough water to barely cover them, about 1½ cups. Cover and cook over medium heat until fully cooked, about 17 to 20 minutes.",
+        "Test a potato with a wooden skewer. If it slides in easily, the potatoes are cooked. If the center is still a little firm, reduce the heat and cook for a few more minutes.",
+        "Drain the potatoes and return them to the pan. Cook over medium heat for a few minutes, gently tossing, until the remaining moisture has evaporated.",
+        "Add the butter and gently toss over medium heat until the potatoes are glossy and their skins are lightly crisp, about 5 minutes. Sprinkle with salt, give them a quick toss, and transfer them to a bowl.",
+        "Top with Parmesan cheese and sugar, if using, without stirring.",
+        "Insert a few wooden toothpicks into the potatoes and serve immediately."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound small baby potatoes, scrubbed clean with any blemishes removed"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon unsalted butter"
+        },
+        {
+          "tag": "li",
+          "text": "¼ teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon sugar, optional"
+        },
+        {
+          "tag": "li",
+          "text": "1 to 2 tablespoon grated Parmesan cheese"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "p",
+          "text": "1. Place the potatoes in a medium saucepan and add enough water to barely cover them, about 1½ cups. Cover and cook over medium heat until fully cooked, about 17 to 20 minutes."
+        },
+        {
+          "tag": "p",
+          "text": "2. Test a potato with a wooden skewer. If it slides in easily, the potatoes are cooked. If the center is still a little firm, reduce the heat and cook for a few more minutes."
+        },
+        {
+          "tag": "p",
+          "text": "3. Drain the potatoes and return them to the pan. Cook over medium heat for a few minutes, gently tossing, until the remaining moisture has evaporated."
+        },
+        {
+          "tag": "p",
+          "text": "4. Add the butter and gently toss over medium heat until the potatoes are glossy and their skins are lightly crisp, about 5 minutes. Sprinkle with salt, give them a quick toss, and transfer them to a bowl."
+        },
+        {
+          "tag": "p",
+          "text": "5. Top with Parmesan cheese and sugar, if using, without stirring."
+        },
+        {
+          "tag": "p",
+          "text": "6. Insert a few wooden toothpicks into the potatoes and serve immediately."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

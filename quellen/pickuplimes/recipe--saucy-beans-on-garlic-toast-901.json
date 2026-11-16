@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/saucy-beans-on-garlic-toast-901",
+  "recipes": [
+    {
+      "name": "Saucy Beans on Garlic Toast",
+      "source_url": "https://www.pickuplimes.com/recipe/saucy-beans-on-garlic-toast-901",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT05M",
+      "total_time": "PT10M",
+      "ingredients": [
+        "2 garlic clove",
+        "1 Tbsp olive oil",
+        "2 slice rustic bread",
+        "1⅓ cup cooked navy beans",
+        "¼ cup tomato paste",
+        "¼ cup water",
+        "½ vegetable bouillon cube",
+        "1 Tbsp chipotle adobo sauce",
+        "2 tsp maple syrup",
+        "1 tsp ground cumin",
+        "½ tsp onion powder",
+        "¼ cup unsweetened soy Greek-style yogurt",
+        "2 Tbsp pickled jalapeños"
+      ],
+      "instructions": [
+        "Add the garlic and oil to a small bowl. Stir.",
+        "Use a silicone pastry brush to brush the garlic oil onto both sides of the bread. Transfer the bread to a large pan over medium heat and allow to toast until lightly golden on both sides.",
+        "To a small pan over medium heat, add the ingredients for the \"saucy beans\". Cook for 5 minutes, or until heated through.",
+        "Spoon the beans over the garlic toast and serve with a dollop of yogurt and some pickled jalapeño if desired. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Also known as haricot beans. † The chipotle sauce we use is a blend of chipotle peppers with water, vinegar, and spices. It's a deep red-coloured sauce. Some chipotle sauces are mayo-based, and we do not recommend using these versions in this recipe.",
+    "Storage This recipe is best enjoyed immediately. The saucy beans can be stored in an airtight container in the fridge for up to 4 days."
+  ]
+}

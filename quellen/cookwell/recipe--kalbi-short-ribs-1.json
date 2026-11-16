@@ -1,0 +1,47 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/kalbi-short-ribs-1",
+  "recipes": [
+    {
+      "name": "Kalbi Short Ribs",
+      "source_url": "https://app.cookwell.com/recipe/kalbi-short-ribs-1",
+      "recipe_id": "https://app.cookwell.com/recipe/kalbi-short-ribs-1",
+      "authors": [
+        "Cook Well Official"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "3-4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Soy Sauce, 240 g",
+        "Rice Vinegar, 120 g",
+        "Mirin, 120 g",
+        "Toasted sesame oil, 60 g",
+        "Sugar, 60 g",
+        "Garlic, 4-5 cloves",
+        "Asian pear, 1",
+        "Scallions, 1 bunch",
+        "Onions, 1/2",
+        "Cross-cut short ribs, 2-4 lbs",
+        "Cooking oil, as needed",
+        "Kimchi",
+        "Cooked rice",
+        "Scallions, for garnish",
+        "Sesame Seeds, for garnish"
+      ],
+      "instructions": [
+        "Blend all marinade components until smooth. Taste and adjust as needed. The marinade is a starting point. It should taste really strong in every area (saltiness, sourness, sweetness, etc) to impart flavor to the meat. Pour the marinade over the short ribs in a freezer bag or bowl and massage it into the meat. Seal or cover and marinate for a few hours or up to two days in advance.",
+        "Heat a pan or grill over high heat. Add a drizzle of oil before cooking. Wipe off excess marinade, then sear or grill short ribs until charred on each side and mostly cooked through.",
+        "Garnish with sesame seeds and scallions, and serve with a side of choice. Enjoy immediately while the grilled short ribs are still warm for best texture."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zwiebelkuchen-mit-gruenem-spargel",
+  "recipes": [
+    {
+      "name": "Vegane Zwiebelquiche mit grünem Spargel",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zwiebelkuchen-mit-gruenem-spargel",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zwiebelkuchen-mit-gruenem-spargel#recipe-47f18261-1f20-59d5-af2e-bcebaffbe3a7",
+      "authors": [
+        "Team"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Quiche (∅ 25 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Für den Boden:",
+        "300 g Weizenmehl (Type 405)",
+        "1 TL Salz",
+        "180 g vegane Butter (kalt)",
+        "ca. 4 EL kaltes Wasser (nach Bedarf)",
+        "Für die Füllung:",
+        "200 g Naturtofu",
+        "200 g veganer Naturjoghurt",
+        "250 g rote Zwiebeln",
+        "750 g weiße Zwiebeln",
+        "400 g grüner Spargel",
+        "50 g Speisestärke",
+        "2 EL Senf",
+        "3 EL Hefeflocken",
+        "1 TL Muskat",
+        "2 TL Kümmel",
+        "Salz",
+        "Pfeffer",
+        "Öl zum Braten",
+        "Zum Servieren:",
+        "Wildkräutersalat"
+      ],
+      "instructions": [
+        "Für den Boden Mehl und Salz in einer Schüssel vermischen. Die kalte vegane Butter zum Mehl geben und einarbeiten, bis eine krümelige Konsistenz entsteht. Nach und nach kaltes Wasser hinzufügen und schnell zu einem glatten Teig verkneten. Nicht zu lange kneten. Den Teig zu einer Kugel formen und für mindestens 30 Minuten im Kühlschrank ruhen lassen.",
+        "Für die Füllung die weißen Zwiebeln schälen und in Würfel schneiden. In einer großen Pfanne mit etwas Öl bei niedriger bis mittlerer Hitze langsam anschwitzen, bis sie ganz weich sind (etwa 20–30 Minuten). Ab und zu umrühren und darauf achten, dass sie nicht bräunen. Die Hälfte der weichen Zwiebeln wird später in die Füllung püriert, die andere Hälfte beiseitestellen.",
+        "Die roten Zwiebeln schälen, in 1 Zentimeter dicke Scheiben schneiden und in einer separaten Pfanne mit etwas Öl anbraten, bis sie leicht karamellisiert sind. Vorsichtig wenden, damit sie nicht auseinanderfallen, denn sie kommen später als Dekoration auf die Quiche.",
+        "Den grünen Spargel waschen und die holzigen Enden abschneiden. In 1 Zentimeter lange Stücke schneiden und kurz in einer Pfanne mit Öl anbraten, bis sie leicht braun sind. Die Spargelköpfe beiseitelegen für die Dekoration am Ende.",
+        "Für die Füllung Naturtofu, veganen Joghurt und die Hälfte der weißen Zwiebeln in einem Mixer fein pürieren. Speisestärke, Senf, Hefeflocken, Muskat, Salz und Pfeffer hinzufügen und abschmecken. Die restlichen weißen Zwiebeln, den grünen Spargel (nicht die Köpfe) und Kümmel unterheben.",
+        "Den Backofen auf 180 °C (Umluft) vorheizen. Den Teig auf einer bemehlten Arbeitsfläche ausrollen und in eine gefettete Quiche- oder Tarteform (25 Zentimeter Durchmesser) legen. Den Teig am Rand andrücken und überstehenden Teig abschneiden. Den Boden mehrmals mit einer Gabel einstechen und für 10 Minuten vorbacken.",
+        "Die Füllung auf den vorgebackenen Boden gießen. Die angebratenen roten Zwiebelscheiben und die Spargelköpfe dekorativ auf der Oberfläche verteilen. Die Quiche für 40–45 Minuten backen, bis sie goldbraun und fest ist. Vor dem Servieren etwa 15 Minuten abkühlen lassen.",
+        "Die Quiche mit frischem Wildkräutersalat servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

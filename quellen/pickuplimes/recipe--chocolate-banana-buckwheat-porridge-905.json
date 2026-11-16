@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/chocolate-banana-buckwheat-porridge-905",
+  "recipes": [
+    {
+      "name": "Chocolate Banana Buckwheat Porridge",
+      "source_url": "https://www.pickuplimes.com/recipe/chocolate-banana-buckwheat-porridge-905",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT15M",
+      "total_time": "PT20M",
+      "ingredients": [
+        "⅓ cup roasted buckwheat groats (kasha)",
+        "1¼ cup unsweetened soy milk",
+        "1 banana",
+        "1 Tbsp Dutch-process cocoa powder",
+        "1 Tbsp tahini",
+        "1 tsp maple syrup",
+        "¼ tsp pure vanilla extract",
+        "¼ tsp ground cinnamon",
+        "1 pinch salt",
+        "1 Tbsp unsalted roasted walnuts",
+        "½ Tbsp mini dark chocolate chips",
+        "½ tsp toasted sesame seeds"
+      ],
+      "instructions": [
+        "Add the buckwheat and milk to a saucepan. Bring to a boil, reduce to a simmer, and cook covered with a lid for 15 minutes, stirring often.",
+        "When cooked, add the mashed banana, cocoa powder, tahini, maple syrup, vanilla, cinnamon, and salt. Stir until heated through.",
+        "Remove from the heat and cover with a lid. Let sit for 5 minutes. This helps to soften the grain further.",
+        "Serve, add toppings as desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † If using raw buckwheats, toast them first on a dry skillet over medium heat for 4 - 5 minutes until golden, stirring throughout. † Nutrition tip: aim to use plant-based milk/yogurt that is fortified with calcium .",
+    "Storage Store in the fridge in an airtight container for up to 3 days."
+  ]
+}

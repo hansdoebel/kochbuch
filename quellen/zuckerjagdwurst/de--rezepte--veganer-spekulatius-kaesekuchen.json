@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-spekulatius-kaesekuchen",
+  "recipes": [
+    {
+      "name": "Veganer Spekulatius-Käsekuchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-spekulatius-kaesekuchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-spekulatius-kaesekuchen#recipe-45f5ef36-4038-5ba6-a6a7-db38983019da",
+      "authors": [
+        "Anneke Schügner"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Springform (ø 24 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT105M",
+      "ingredients": [
+        "Für den Boden:",
+        "300 g Weizenmehl (Type 405)",
+        "80 g Zucker",
+        "1 EL Spekulatiusgewürz (z. B. von Lebensbaum)",
+        "1.5 TL (8 g) Backpulver",
+        "1 Prise Salz",
+        "180 g vegane Margarine",
+        "Für die Käsekuchen-Creme:",
+        "150 g vegane Margarine",
+        "74 g veganes Vanille-Puddingpulver",
+        "60 ml Sojamilch",
+        "800 g pflanzlicher Naturjoghurt",
+        "50 g brauner Zucker",
+        "0.25 Zitrone (Abrieb)",
+        "1 TL ungesüßter Backkakao",
+        "1 TL Spekulatiusgewürz (z. B. von Lebensbaum)",
+        "Außerdem:",
+        "vegane Margarine zum Einfetten"
+      ],
+      "instructions": [
+        "Den Ofen auf 180 °C (Umluft) vorheizen. Eine Springform mit Backpapier auslegen und mit veganer Margarine einfetten. Für den Boden in einer großen Schüssel Weizenmehl, Zucker, Spekulatiusgewürz, Backpulver und Salz vermengen. Anschließend vegane Margarine in daumengroßen Stücken hinzugeben und verkneten. Den Teig anschließend in die Springform bröseln und andrücken, sodass ein gleichmäßiger Boden entsteht. Den Boden mit einer Gabel mehrmals einstechen.",
+        "Für die vegane Käsekuchen-Creme zunächst die Margarine in einem kleinen Topf zum Schmelzen bringen. Die geschmolzene Margarine abkühlen lassen, bis sie nur noch lauwarm ist.",
+        "Tipp: Um die Kühlzeit zu verringern, Magarine nur leicht erhitzen, bis etwa zwei Drittel geschmolzen sind. Den Topf vom Herd nehmen und die Margarine rühren, bis auch das letzte Drittel zerlaufen ist.",
+        "Das Puddingpulver in einer kleinen Schale mit der Sojamilch verrühren, bis sich alle Klumpen in der Flüssigkeit gelöst haben.",
+        "Den pflanzlichen Joghurt in eine große Schüssel geben und mit Zucker, Zitronenabrieb, der Puddingmischung und weicher Margarine (höchstens lauwarm) vermengen.",
+        "150 g der Käsekuchen-Creme in eine separate Schüssel geben und mitBackkakao und Spekulatiusgewürz vermengen.",
+        "Die helle Käsekuchen-Creme auf den Boden in der Springform geben. Die dunkle Creme mit einem Löffel in Tupfen auf den Kuchen geben. Mit der Rückseite einer Gabel die helle und dunkle Creme miteinander verswirlen, sodass ein hübsches Muster entsteht.",
+        "Den Kuchen für 60 Minuten bei 180 °C (Umluft) backen. Den Kuchen vor dem Verzehr für einige Stunden oder über Nacht komplett auskühlen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

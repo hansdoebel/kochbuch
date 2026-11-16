@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-15-minuten-frischkaese-pasta-mit-lauch",
+  "recipes": [
+    {
+      "name": "Vegane 15 Minuten Frischkäse-Pasta mit Lauch",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-15-minuten-frischkaese-pasta-mit-lauch",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-15-minuten-frischkaese-pasta-mit-lauch#recipe-b533737f-7199-5233-a0d7-b5571d5aa1a0",
+      "authors": [
+        "Nele Henzler"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "Für die Pasta:",
+        "200 g Pasta",
+        "3 Knoblauchzehen",
+        "1 große Stange Lauch",
+        "0.5 Zitrone (Saft)",
+        "150 g veganer Frischkäse (z. B. von Nabio)",
+        "Agavendicksaft",
+        "Olivenöl",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "frischer Schnittlauch",
+        "Chiliflocken",
+        "veganer Parmesan (optional)"
+      ],
+      "instructions": [
+        "Den Lauch längs einschneiden und gründlich unter kaltem Wasser waschen. Anschließend in feine Ringe schneiden. Knoblauch ebenfalls klein schneiden.",
+        "Währenddessen die gewünschte Pasta al dente kochen und eine Tasse vom Kochwasser aufheben.",
+        "Olivenöl in einer Pfanne erhitzen und die Lauchringe für circa 5 Minuten bei mittlerer Hitze anbraten. Dann den Knoblauch dazugeben, ebenfalls kurz mit anbraten und mit einem Schuss Agavendicksaft karamellisieren lassen. Anschließend kräftig mit Salz und Pfeffer würzen, aus der Pfanne nehmen und beiseite stellen.",
+        "Den Frischkäse, je nach gewünschter Konsistenz etwas Pastawasser und die gekochten Nudeln in die Pfanne geben. Zitronensaft dazugeben und mit Salz und Pfeffer abschmecken.",
+        "Die Nudeln mit dem angebratenen Lauch, frischem Schnittlauch, Chiliflocken und optional mit veganem Parmesan servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

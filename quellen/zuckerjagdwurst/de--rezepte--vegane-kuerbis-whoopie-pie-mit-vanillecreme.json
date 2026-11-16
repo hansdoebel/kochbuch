@@ -1,0 +1,78 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kuerbis-whoopie-pie-mit-vanillecreme",
+  "recipes": [
+    {
+      "name": "Pumpkin Pie Spice",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kuerbis-whoopie-pie-mit-vanillecreme",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kuerbis-whoopie-pie-mit-vanillecreme#recipe-667af016-a492-57ff-8f83-7d3745100049",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 EL",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "2 TL Zimtpulver",
+        "1 TL Ingwerpulver",
+        "0.5 TL gemahlener Piment",
+        "0.5 TL Muskatnuss"
+      ],
+      "instructions": [
+        "Alle Gewürze in einem kleinen Gefäß vermischen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Vegane Kürbis-Whoopie Pies mit Vanillecreme",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kuerbis-whoopie-pie-mit-vanillecreme",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kuerbis-whoopie-pie-mit-vanillecreme#recipe-6a730142-2159-5993-b567-4281524620e8",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Whoopies",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "Für die Whoopie Pies:",
+        "250 g Hokkaido-Kürbis",
+        "100 g vegane Butter",
+        "90 g Zucker",
+        "8 g (1.5 TL) Vanillezucker",
+        "150 ml pflanzliche Milch",
+        "240 g Weizenmehl Type 405, 550 oder Dinkelmehl Type 603",
+        "8 g (1.5 TL) Backpulver",
+        "2.5 g (0.5 TL) Natron",
+        "1 Prise Salz",
+        "Für die Vanillecreme:",
+        "300 g veganer Frischkäse",
+        "100 g vegane Butter (Zimmertemperatur)",
+        "60 g Zucker",
+        "8 g (1.5 TL) Vanillezucker",
+        "1 TL frischer Zitronensaft",
+        "1 Vanilleschote"
+      ],
+      "instructions": [
+        "Für die Vanillecreme veganen Frischkäse und zimmerwarme vegane Butter in eine Schüssel geben und mit einem Handrührgerät aufschlagen, bis eine cremige Masse entsteht. Zucker, Vanillezucker und Zitronensaft hinzugeben. Die Vanilleschote halbieren und mit einer Messerrückseite das Innere der Schote herauskratzen und ebenfalls in die Schüssel geben. Erneut mit dem Handrührgerät verrühren, bis alles gut vermischt ist. Die Creme am besten über Nacht in den Kühlschrank stellen.",
+        "Den Ofen auf 180°C (Umluft) vorheizen. Den Hokkaido-Kürbis waschen, entkernen und in gleich große Stücke schneiden. Anschließend einen Topf mit Wasser füllen, die Kürbisstücke hineingeben und ca. 10 Minuten kochen, bis er weich ist. 200 g des gekochten Kürbis abwiegen und mit einer Gabel zerdrücken oder mit einem Pürierstab pürieren, bis ein Brei entsteht.",
+        "Für die Whoopies in einer Schüssel vegane Butter mit einem Handrührgerät auf höchster Stufe aufschlagen, bis sie cremig ist. Die Geschwindigkeit etwas reduzieren und dabei den Zucker und den Vanillezucker in die Schüssel rieseln lassen und weiter rühren, bis alles gut verrührt ist. Sobald der Kürbisbrei abgekühlt ist, zusammen mit der pflanzlichen Milch zur Butter-Zucker-Masse hinzugeben und erneut verrühren.",
+        "In einer zweiten Schüssel Mehl, Backpulver, Natron, Salz und Pumpkin Pie Spice vermischen und anschließend zu den flüssigen Zutaten geben und alles zu einem glatten Teig verrühren.",
+        "Den Teig in einen Spritzbeutel geben und pro Backblech 6-8 Kekse mit genug Abstand zueinander aufspritzen, da sie im Ofen aufgehen. Hierbei immer darauf achten, dass es eine gerade Anzahl an Keksen ist, damit es am Ende aufgeht. Die Oberfläche der Kekse mit angefeuchteten Händen glatt streichen. Im Anschluss die Whoopies bei 180°C (Umluft) ca. 10 Minuten backen. Danach komplett auskühlen lassen.",
+        "Die Vanillecreme in einen Spritzbeutel geben, kreisförmig auf einen abgekühlten Keks aufspritzen und den zweiten Keks daraufsetzen. Bis zum Essen kalt stellen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

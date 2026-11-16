@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/green-goodness-sandwich-1474",
+  "recipes": [
+    {
+      "name": "Green Goodness Sandwich",
+      "source_url": "https://www.pickuplimes.com/recipe/green-goodness-sandwich-1474",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT15M",
+      "cook_time": "",
+      "total_time": "PT15M",
+      "ingredients": [
+        "5.291 oz firm tofu",
+        "½ cup spinach",
+        "¼ cup fresh dill",
+        "¼ cup fresh chives",
+        "2 Tbsp nutritional yeast flakes",
+        "2 Tbsp apple cider vinegar",
+        "2 garlic clove",
+        "1 tsp onion powder",
+        "¼ tsp salt",
+        "⅛ tsp ground black pepper",
+        "1 mini Turkish pide bread",
+        "⅓ cup vegan green pesto",
+        "4 butter lettuce leaf",
+        "1 avocado",
+        "¼ cucumber",
+        "½ cup alfalfa sprouts"
+      ],
+      "instructions": [
+        "Add all the tofu whip ingredients to a food processor.",
+        "Blend until smooth*.",
+        "Spread pesto over half of the bread and tofu whip on the other half. Top with the veggies and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We used a version of pide called Ramazan pidesi, a thicker round pide. * Tofus vary in moisture. Add a splash of water or extra-virgin olive oil if needed for a smoother texture.",
+    "Storage It's best enjoyed the day it's made but the assembled sandwich can be stored in an airtight container in the fridge for up to 1 day. The tofu whip can be made in advance and stored in the fridge for up to 3 days. It might have some water separate from it, that can be drained off or stirred back in before using."
+  ]
+}

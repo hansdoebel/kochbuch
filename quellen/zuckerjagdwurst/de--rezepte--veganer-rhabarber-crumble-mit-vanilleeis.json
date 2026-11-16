@@ -1,0 +1,38 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-rhabarber-crumble-mit-vanilleeis",
+  "recipes": [
+    {
+      "name": "Veganer Rhabarber-Crumble mit Vanilleeis",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-rhabarber-crumble-mit-vanilleeis",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-rhabarber-crumble-mit-vanilleeis#recipe-a68f81de-4e56-58a6-a873-fbb7d18ca79b",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "500 g Rhabarber",
+        "250 g Weizenmehl (Typ 405)",
+        "160 g Zucker",
+        "160 g vegane Butter",
+        "veganes Vanilleeis"
+      ],
+      "instructions": [
+        "Rhabarber waschen und die Enden entfernen. Die Stangen in circa 1 Zentimeter dicke Stücke schneiden.",
+        "Mehl, Zucker und vegane Butter in einer Schüssel verkneten, bis ein krümeliger Teig entsteht.",
+        "Eine Auflaufform (oder mehrere kleine Auflaufformen) mit veganer Butter einfetten und den Rhabarber hinzugeben. Den Teig mit den Händen darüber zerbröseln.",
+        "Den Rhabarber-Crumble bei 180 °C Umluft 20–30 Minuten backen. Im Anschluss 5 Minuten abkühlen lassen und mit veganem Vanilleeis servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

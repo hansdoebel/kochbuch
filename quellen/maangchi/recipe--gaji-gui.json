@@ -1,0 +1,123 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/gaji-gui",
+  "recipes": [
+    {
+      "name": "Pan-fried eggplant",
+      "source_url": "https://www.maangchi.com/recipe/gaji-gui",
+      "recipe_id": null,
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "2 medium eggplants (14 ounces: about 400 grams)",
+        "¼ cup wheat flour",
+        "¼ cup or more olive oil (or vegetable, canola, corn oil) For the seasoning sauce:",
+        "3 tablespoons soy sauce",
+        "3 tablespoons mirim",
+        "1 tablespoon gochu-garu (Korean hot pepper flakes)",
+        "2 garlic cloves, mince",
+        "3 green onions, chopped",
+        "1 tablespoon toasted sesame oil",
+        "½ teaspoon toasted sesame seeds"
+      ],
+      "instructions": [
+        "Heat a large skillet over medium heat. Add about 2 tablespoons cooking oil and swirl to coat the skillet evenly.",
+        "Add the floured eggplant strips one by one, leaving a little space between them. Cook for about 2 minutes, until the bottoms turn light brown. Turn them over, add a little more oil if needed, and cook until both sides are lightly browned and a little crispy.",
+        "Spoon the seasoning sauce over the eggplant strips. Turn them over with a spatula and cook for about 30 seconds to 1 minute, just until the sauce is heated through and lightly absorbed.",
+        "Remove from the heat and transfer the eggplant strips to a large plate, seasoned side up. Sprinkle with toasted sesame seeds and serve right away with rice and other side dishes. Store any leftovers in an airtight container in the refrigerator for up to 3 days. Reheat gently in a skillet before serving, if desired."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "2 medium eggplants (14 ounces: about 400 grams)"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup wheat flour"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup or more olive oil (or vegetable, canola, corn oil) For the seasoning sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "3 tablespoons soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "3 tablespoons mirim"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon gochu-garu (Korean hot pepper flakes)"
+        },
+        {
+          "tag": "li",
+          "text": "2 garlic cloves, mince"
+        },
+        {
+          "tag": "li",
+          "text": "3 green onions, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon toasted sesame seeds"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "p",
+          "text": "Cut the eggplants lengthwise into ¼ inch-thick strips and place them on a large cutting board or tray. Sprinkle with the flour and gently toss to coat evenly. Set aside."
+        },
+        {
+          "tag": "p",
+          "text": "Make the seasoning sauce: Combine the soy sauce, mirim, gochugaru, garlic, green onions, and toasted sesame oil in a small bowl. Mix well and set aside."
+        },
+        {
+          "tag": "p",
+          "text": "Cook the eggplant:"
+        },
+        {
+          "tag": "li",
+          "text": "Heat a large skillet over medium heat. Add about 2 tablespoons cooking oil and swirl to coat the skillet evenly."
+        },
+        {
+          "tag": "li",
+          "text": "Add the floured eggplant strips one by one, leaving a little space between them. Cook for about 2 minutes, until the bottoms turn light brown. Turn them over, add a little more oil if needed, and cook until both sides are lightly browned and a little crispy."
+        },
+        {
+          "tag": "li",
+          "text": "Spoon the seasoning sauce over the eggplant strips. Turn them over with a spatula and cook for about 30 seconds to 1 minute, just until the sauce is heated through and lightly absorbed."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and transfer the eggplant strips to a large plate, seasoned side up. Sprinkle with toasted sesame seeds and serve right away with rice and other side dishes. Store any leftovers in an airtight container in the refrigerator for up to 3 days. Reheat gently in a skillet before serving, if desired."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [
+    "Kein Recipe-JSON-LD; sichtbare Rezeptkarte mit Originaltitel und sichtbarer Byline erfasst."
+  ],
+  "page_recipe_notes": []
+}

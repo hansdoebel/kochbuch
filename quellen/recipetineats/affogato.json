@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.recipetineats.com/affogato/",
+  "recipes": [
+    {
+      "name": "Affogato",
+      "source_url": "https://www.recipetineats.com/affogato/",
+      "recipe_id": "https://www.recipetineats.com/affogato/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "1"
+      ],
+      "prep_time": "PT5M",
+      "cook_time": null,
+      "total_time": "PT5M",
+      "ingredients": [
+        "1 large or 2 small(ish) scoops vanilla gelato or ice cream ( (Note 1))",
+        "1 shot (30 ml/1 oz) hot espresso coffee ( (short black) - Note 2)",
+        "1 tbsp frangelico, amaretto or other liquor ((optional) - Note 3)"
+      ],
+      "instructions": [
+        "Put ice cream in glass suitable for affogato eating (Note 4).",
+        "Place shot of espresso and liquor (if using) on the side.",
+        "Pour the hot espresso then liquor over the ice cream. Enjoy swirls of melty ice cream blending into the coffee. Dig in immediately!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. Gelato is traditional, ice cream is perfectly acceptable. Vanilla is the classic flavour and a dead-set perfect match with coffee flavour. However, feel free to use any flavour you want! 2. Espresso (short black) – Make sure it’s hot (so it melts the ice cream) and strong (so your ice cream coffee “soup” isn’t weak and bland) 3. Liquor – Kahlua, sambuca, rum and Bailey’s are also common offerings. Use what you know works with coffee! 4. Glass – Fancy restaurants use shallow cocktail glasses which I find impractical and poontsy, just for show. I like the glass taller than wider so you can dig in. Try to find one not too tall, it’s easier to eat out of. 5. Optional extras (not traditional, but nobody can stop you!) Biscotti (excellent for dunking) Chocolate shavings – use microplane or potato peeler Whipped cream Melted chocolate – on ice cream Nuts – roughly chopped pistacchio and hazelnuts on theme Leftovers – nobody keeps half eaten melted affogato, do they?? Nutrition per serving, assumes 1/2 cup of ice cream which is a little on the generous side."
+  ]
+}

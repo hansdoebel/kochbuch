@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pizzabroetchen",
+  "recipes": [
+    {
+      "name": "Vegane Pizzabrötchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pizzabroetchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pizzabroetchen#recipe-8a8e55c9-5e76-5b0e-9086-d8feae2f3d50",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "9 Brötchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "Teig",
+        "250 ml lauwarmes Wasser",
+        "1 TL Zucker",
+        "1 TL Salz",
+        "21 g frische Hefe oder 7 g Trockenhefe",
+        "500 g Mehl",
+        "Füllung",
+        "200 g Räuchertofu",
+        "1 EL Sojasauce",
+        "5 Tropfen Liquid Smoke (optional)",
+        "1 rote Paprika",
+        "10 getrocknete Tomaten",
+        "10 Oliven",
+        "1 EL getrockneter Oregano",
+        "Salz&Pfeffer",
+        "Zusätzlich",
+        "Marinara Dip"
+      ],
+      "instructions": [
+        "In einer kleinen Schüssel das lauwarme Wasser mit Zucker und Salz verrühren. Die Hefe hinzugeben bzw. hineinbröseln und verrühren.",
+        "In eine große Schüssel das Mehl geben und die aufgelöste Hefe hingeben. Ohne umzurühren etwa 10 Minuten warten und die Hefe langsam aktivieren lassen. Im Anschluss den Teig gut kneten, mit einem feuchten Tuch abdecken und an einem warmen Ort 45 Minuten gehen lassen.",
+        "In der Zwischenzeit die Füllung vorbereiten. Dafür den Räuchertofu in kleine Würfel schneiden und in einer Pfanne mit Öl kräftig anbraten. Nach etwa 2 Minuten die Sojasauce und das Liquid Smoke hinzufügen und weitere 4-5 Minuten braten. Danach zur Seite stellen.",
+        "Die Paprika waschen und in kleine Würfel schneiden. Die gerockneten Tomaten und Oliven abtropfen lassen und ebenfalls klein schneiden.",
+        "Wenn der Teig aufgegangen ist, die Füllung und den Oregano mit zum Teig geben und unterkneten.",
+        "Den Teig in 8-10 gleichmäßig große Kugeln formen und in einer Auflaufform oder gusseisernern Pfanne platzieren. Diese sollten zuvor gut eingettet werden.",
+        "Mit einem Küchentuch abdecken und nochmals mind. 30 Minuten an einem warmen Ort gehen lassen. Den Ofen auf 180°C Umluft vorheizen.",
+        "Bei 180°C ca. 30 Minuten im Ofen backen, bis die Pizzabrötchen goldbraun sind. Mit Marinara-Dip noch warm aus dem Ofen servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

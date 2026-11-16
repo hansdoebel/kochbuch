@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kalte-tomaten-ramen-hiyashi",
+  "recipes": [
+    {
+      "name": "Vegane kalte Tomaten-Ramen (Hiyashi Ramen)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kalte-tomaten-ramen-hiyashi",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kalte-tomaten-ramen-hiyashi#recipe-8a65fa64-cfb1-5d09-820d-4a1315110317",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Für die Nudeln:",
+        "400 g Ramen-Nudeln",
+        "Für das Tomaten-Dressing:",
+        "2 Knoblauchzehen",
+        "25 g Ingwer",
+        "500 ml Tomatensaft (z. B. von [Voelkel](https://shop.voelkel.bio/tomate-0-7-l/089598c0 ))",
+        "4 EL Tahin",
+        "5 EL Sojasoße",
+        "2 EL Reisessig",
+        "2 EL Sesamöl",
+        "2–3 EL Agavendicksaft",
+        "Salz",
+        "Pfeffer",
+        "Für das Topping:",
+        "2 Tomaten",
+        "1 Karotte",
+        "0.25 Salatgurke",
+        "0.5 gelbe Paprika",
+        "100 g Sojasprossen",
+        "1 Frühlingszwiebel",
+        "0.5 Nori-Blatt",
+        "100 g Edamame",
+        "1 Maiskolben",
+        "200 g gebackener Tofu oder veganes Hack",
+        "Zum Servieren:",
+        "Sesam",
+        "Chiliöl"
+      ],
+      "instructions": [
+        "Für das Dressing Knoblauch und Ingwer fein reiben. Tomatensaft, Tahin, Sojasoße, Reisessig, Sesamöl, Agavendicksaft, Knoblauch und Ingwer in einer Schüssel gut miteinander verrühren, bis eine cremige, homogene Soße entsteht. Mit Salz und Pfeffer abschmecken.",
+        "Karotte, Salatgurke und Paprika in feine Julienne-Streifen schneiden. Tomaten in Scheiben oder Würfel schneiden. Sojasprossen waschen. Frühlingszwiebeln in Ringe schneiden. Nori-Blatt mit einer Schere in schmale Streifen schneiden.",
+        "Ramen-Nudeln nach Packungsanweisung in Salzwasser kochen. Direkt nach dem Kochen in eiskaltem Wasser abschrecken, gut abtropfen lassen und beiseitestellen. Im gleichen Kochwasser die Edamame nach Packungsanweisung kochen.",
+        "Gebackenen Tofu oder veganes Hack in einer Pfanne mit etwas Öl anbraten. Danach den Mais in die Pfanne geben und ebenfalls anbraten. Tofu in Streifen schneiden und den Mais vom Kolben schneiden.",
+        "Tomaten-Dressing auf den Schüsseln verteilen. Nudeln, Tofu oder Hack, Gemüse und Sojasprossen darauf anrichten. Mit Sesam sowie einem Schuss Chiliöl servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

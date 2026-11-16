@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-zucchini-hack-pfanne-mit-reis-feta",
+  "recipes": [
+    {
+      "name": "Vegane Zucchini-Hack-Pfanne mit Reis & Feta",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-zucchini-hack-pfanne-mit-reis-feta",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-zucchini-hack-pfanne-mit-reis-feta#recipe-e4171854-6379-51ce-94f1-40de2e102318",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "120 g Basmatireis",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "2 Zucchini",
+        "250 g veganes Hack",
+        "50 g Sonnenblumenkerne",
+        "100 g Kirschtomaten",
+        "1 EL Sojasoße",
+        "2 TL edelsüßes Paprikapulver",
+        "1 TL Cayenne Pfeffer",
+        "1 TL gemahlener Koriander",
+        "1 TL gemahlenes Chili",
+        "100 g veganer Feta auf Mandelbasis",
+        "1 Zitrone",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Reis nach Packungsanleitung zubereiten.",
+        "Zwiebel und Knoblauch schälen und in feine Würfel schneiden. Zucchini halbieren und in Scheiben schneiden.",
+        "Pflanzenöl in einer großen Pfanne erhitzen und Zwiebeln anschwitzen, bis die Zwiebelwürfel glasig sind. Knoblauch hinzugeben und 2–3 Minuten weiterbraten. Die Zucchinischeiben hinzugeben und 5 Minuten braten, bis sie leicht braun sind. Das vegane Hack hinzugeben und ebenfalls anbraten, bis es leicht gebräunt ist. Nun die Sonnenblumenkerne und Kirschtomaten unterheben.",
+        "Die Pfanne mit Sojasoße, edelsüßem Paprikapulver, Cayennepfeffer, gemahlenem Koriander, gemahlenem Chili, Salz, Pfeffer und Zitronensaft abschmecken und mit Reis servieren. Den veganen Mandelfeta zerbröseln und auf dem Gericht verteilen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

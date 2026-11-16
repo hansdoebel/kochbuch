@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/peanut-butter-jelly-overnight-oats-114",
+  "recipes": [
+    {
+      "name": "Peanut Butter & Jelly Overnight Oats",
+      "source_url": "https://www.pickuplimes.com/recipe/peanut-butter-jelly-overnight-oats-114",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT06H05M",
+      "ingredients": [
+        "½ cup rolled oats",
+        "½ cup unsweetened soy milk",
+        "2 Tbsp natural peanut butter",
+        "1 Tbsp whole chia seeds",
+        "¼ tsp ground cinnamon",
+        "½ cup frozen mixed berries",
+        "¼ cup unsweetened coconut yogurt",
+        "¼ cup fresh mixed berries",
+        "½ Tbsp unsalted roasted peanuts"
+      ],
+      "instructions": [
+        "Add the oats, milk, peanut butter, chia seeds, and cinnamon to a mason jar or airtight container. Mix to combine.",
+        "Then add the frozen berries, and gently mix again. Seal and let sit overnight in the fridge.",
+        "The next morning, add your desired toppings and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium .",
+    "Storage Keep in an airtight container in the fridge for up to 2 days."
+  ]
+}

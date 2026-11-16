@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-nudelsalat-a-la-ratatouille",
+  "recipes": [
+    {
+      "name": "Veganer Nudelsalat à la Ratatouille",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-nudelsalat-a-la-ratatouille",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-nudelsalat-a-la-ratatouille#recipe-c4282be1-4345-5578-82a0-3c51c51e4a4d",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4–6 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für das Ratatouille:",
+        "1 Aubergine",
+        "1 Zucchini",
+        "2 Paprikas",
+        "2 rote Zwiebeln",
+        "250 g Kirschtomaten",
+        "2 Knoblauchzehen",
+        "100 g Oliven",
+        "1 TL getrockneter Rosmarin",
+        "1 TL getrockneter Thymian",
+        "1 TL getrockneter Oregano",
+        "1 TL getrockneter Majoran",
+        "0.5 TL Chiliflocken",
+        "2 EL Balsamicoessig",
+        "Salz",
+        "Pfeffer",
+        "Für das Basilikumöl:",
+        "30 g frischer Basilikum",
+        "10 g frischer Blattspinat",
+        "100 ml neutrales Pflanzenöl",
+        "Salz",
+        "Außerdem:",
+        "300 g kurze Pasta",
+        "150 g veganer Feta",
+        "50 g geröstete Pinienkerne",
+        "1 Zitrone (Abrieb)"
+      ],
+      "instructions": [
+        "Zuerst bereiten wir das Kräuteröl zu. Dafür frischen Basilikum, Spinat, Pflanzenöl und eine Prise Salz circa 5 Minuten in einem Standmixer mixen, bis eine wirklich glatte Mischung entsteht. Diese in einen kleinen Topf geben und auf circa 70 Grad erhitzen. Anschließend durch ein feines Sieb filtern und abkühlen lassen. Danach das Basilikumöl in eine Flasche umfüllen.",
+        "Eure liebsten kurzen Nudeln in gesalzenem Wasser nach Packungsangaben al dente kochen, danach abgießen und zum Abkühlen beiseitestellen.",
+        "Für das Ratatouille die Aubergine, Zucchini, Paprika und rote Zwiebeln jeweils in kleine Würfel schneiden. Die Kirschtomaten halbieren oder vierteln. Den Knoblauch schälen und in dünne Scheiben schneiden. Die Oliven hingegen in etwas dickere Scheiben schneiden.",
+        "Olivenöl in einer großen Pfanne erhitzen. Zuerst Aubergine, Zucchini und Paprika circa 10 Minuten darin anbraten, bis sie weicher sind, aber noch Biss haben. Balsamicoessig untermengen und alles mit Salz und Pfeffer würzen. Das Gemüse danach aus der Pfanne nehmen und beiseitestellen.",
+        "Erneut etwas Olivenöl in die Pfanne geben und nun die Zwiebeln und Knoblauch zusammen mit den getrockneten Kräuter und Chiliflocken circa 5 Minuten bei kleiner Hitze anschwitzen, bis die Zwiebelwürfel glasig sind. Danach Kirschtomaten und Oliven dazugeben und alles zusammen 5 Minuten anbraten.",
+        "Die gekochten Nudeln mit dem gebratenen Gemüse in einer großen Schüssel vermengen. Wenn ihr Zeit habt, könnt ihr den Salat gern noch etwas ziehen lassen. Nach Wunsch danach auf eine Servierplatte geben. Den veganen Feta darüber zerbröseln und den Salat mit dem Basilikumöl, gerösteten Pinienkernen, Zitronenabrieb und nach Wunsch Chiliflocken toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

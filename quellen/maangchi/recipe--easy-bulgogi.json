@@ -1,0 +1,116 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/easy-bulgogi",
+  "recipes": [
+    {
+      "name": "Easy bulgogi (Mak-bulgogi: 막불고기)",
+      "source_url": "https://www.maangchi.com/recipe/easy-bulgogi",
+      "recipe_id": "/recipe/easy-bulgogi#sso/recipe/30623",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "Serves 2 to 4",
+      "prep_time": "P0DT0H35M0S",
+      "cook_time": "P0DT0H15M0S",
+      "total_time": "P0DT0H50M0S",
+      "ingredients": [
+        "1 pound beef tenderloin, top sirloin, or skirt steak, thinly sliced (about ⅛ inch thick)",
+        "4 garlic cloves, minced",
+        "2 green onions, chopped",
+        "2 tablespoons soy sauce",
+        "2 tablespoons sugar",
+        "3 tablespoons water",
+        "1 tablespoon toasted sesame oil",
+        "1 tablespoon toasted sesame seeds, coarsely ground",
+        "½ teaspoon ground black pepper"
+      ],
+      "instructions": [
+        "Make marinade by combining the garlic, green onion, soy sauce, sugar, water, sesame oil, sesame seeds, and ground black pepper in a large bowl. Mix it well with a spoon until the sugar is well dissolved.",
+        "Add the sliced beef and mix everything by hand until the beef is covered in the marinade. Keep in the fridge at least 30 minutes.",
+        "Cook on a pan or a grill, and transfer to a plate or a cast iron plate to serve with rice, lettuce, ssamjang, and more side dishes.",
+        "To eat, wrap a spoonful of rice, a piece of bulgogi, and a little bit of ssamjang in a lettuce leaf. Fold it over and eat. Repeat!"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 2 to 4"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound beef tenderloin, top sirloin, or skirt steak, thinly sliced (about ⅛ inch thick)"
+        },
+        {
+          "tag": "li",
+          "text": "4 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "2 green onions, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons sugar"
+        },
+        {
+          "tag": "li",
+          "text": "3 tablespoons water"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame seeds, coarsely ground"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon ground black pepper"
+        },
+        {
+          "tag": "h3",
+          "text": "Choosing beef for bulgogi"
+        },
+        {
+          "tag": "p",
+          "text": "Tenderloin, sirloin, and skirt steak all work well for this recipe. The most important thing is to slice the beef very thinly so it cooks quickly. Pre-sliced hot pot beef is also a great choice because it is already thin enough for bulgogi."
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Make marinade by combining the garlic, green onion, soy sauce, sugar, water, sesame oil, sesame seeds, and ground black pepper in a large bowl. Mix it well with a spoon until the sugar is well dissolved."
+        },
+        {
+          "tag": "li",
+          "text": "Add the sliced beef and mix everything by hand until the beef is covered in the marinade. Keep in the fridge for at least 30 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Heat a large skillet over high heat until very hot. Add the marinated beef and cook it quickly, stirring and turning until cooked through. Because the pan is already hot and the beef is thinly sliced, it cooks fast without releasing much liquid. You can also cook the beef on a grill. Transfer it to a plate or a cast iron plate to serve with rice, lettuce, ssamjang, and more side dishes. If you’re using a Korean handheld grill over a flame like I do in the video, use a medium flame and keep moving the grill around so that it gets evenly cooked, before flipping it over."
+        },
+        {
+          "tag": "li",
+          "text": "To eat, wrap a spoonful of rice, a piece of bulgogi, and a little bit of ssamjang in a lettuce leaf. Fold it over and eat. Repeat!"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

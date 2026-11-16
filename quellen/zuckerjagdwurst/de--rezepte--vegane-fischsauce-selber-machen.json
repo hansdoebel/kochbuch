@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-fischsauce-selber-machen",
+  "recipes": [
+    {
+      "name": "Vegane Fischsauce",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-fischsauce-selber-machen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-fischsauce-selber-machen#recipe-ba84cf2c-0b7c-5ed6-b2b6-2c81b83a4cd0",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "180 - 200 ml",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "3 Noriblätter",
+        "750 ml Wasser",
+        "1 TL Zucker",
+        "50 ml Sojasauce",
+        "Pfeffer",
+        "2 TL Misopaste"
+      ],
+      "instructions": [
+        "Die Noriblätter grob schneiden und mit 750 ml Wasser in einen Topf geben. Aufkochen lassen!",
+        "Nach 15 Minuten 1 TL Zucker, eine Prise Pfeffer, Sojasauce und 2 TL Misopaste hinzugeben. Weitere 5 Minuten köcheln lassen.",
+        "Nun das Wasser durch ein Sieb gießen, damit ihr die Noriblätter aussiebt (die haben sich inzwischen aufgelöst). Ihr solltet ca. 300 ml Flüßigkeit auffangen.",
+        "Das Wasser zurück geben und nochmals für 20-30 Minuten köcheln lassen. Abkühlen lassen und weiter verwenden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

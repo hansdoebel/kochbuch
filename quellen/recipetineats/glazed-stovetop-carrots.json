@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.recipetineats.com/glazed-stovetop-carrots/",
+  "recipes": [
+    {
+      "name": "Glazed Stovetop Carrots",
+      "source_url": "https://www.recipetineats.com/glazed-stovetop-carrots/",
+      "recipe_id": "https://www.recipetineats.com/glazed-stovetop-carrots/#recipe",
+      "authors": [
+        "Nagi | RecipeTin Eats"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "4",
+        "4 -5"
+      ],
+      "prep_time": "PT10M",
+      "cook_time": "PT10M",
+      "total_time": "PT20M",
+      "ingredients": [
+        "6 carrots (, peeled, cut into quarters lengthwise then halved)",
+        "3 tbsp olive oil",
+        "2 tsp honey",
+        "2/3 cup water",
+        "Salt and pepper",
+        "Parsley (, finely chopped, for garnish (optional))"
+      ],
+      "instructions": [
+        "Heat the oil in a very large skillet over medium high heat.",
+        "Add carrots and shake the pan so they are (almost all) cut side down. Cook for 5 to 7 minutes without stirring until golden brown.",
+        "Add remaining ingredients except parsley. Stir once then allow to cook until the water is evaporated and carrots start to caramelise - about 3 minutes.",
+        "Stir once or twice until caramelised, then transfer to serving dish.",
+        "Sprinkle with parsley and serve warm"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

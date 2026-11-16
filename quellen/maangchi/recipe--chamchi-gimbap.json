@@ -1,0 +1,253 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/chamchi-gimbap",
+  "recipes": [
+    {
+      "name": "Tuna gimbap",
+      "source_url": "https://www.maangchi.com/recipe/chamchi-gimbap",
+      "recipe_id": "/recipe/chamchi-gimbap#sso/recipe/35674",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "2 to 3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "P0DT0H30M0S",
+      "ingredients": [
+        "4 cups freshly made white fluffy rice",
+        "¼ teaspoon kosher salt",
+        "1 teaspoon white or apple vinegar",
+        "1 (5-ounce) can of tuna, preferably oil-packed",
+        "1 garlic clove, minced",
+        "1 tablespoon toasted sesame oil",
+        "1 tablespoon soy sauce",
+        "¼ teaspoon ground black pepper",
+        "1 tablespoon honey (or sugar), optional",
+        "4 artificial crab sticks",
+        "2 teaspoons vegetable oil",
+        "4 strips (about ½ inch thick) of danmuji (yellow pickled radish)",
+        "1 or 2 avocados",
+        "½ lemon",
+        "4 sheets of gim (seaweed paper), toasted",
+        "1 teaspoon toasted sesame seeds"
+      ],
+      "instructions": [
+        "Put the freshly made steamy rice into a large bowl. Add salt and vinegar and gently fold it in with a rice scoop or a wooden spoon. Set aside and let the rice cool down.",
+        "Heat a small pan over medium high heat. Add the tuna, garlic, 1 teaspoon sesame oil, soy sauce, and ground black pepper. Stir the mixture for about 2 minutes with a wooden spoon until the tuna turns a little flaky. Remove from the heat. Stir in the honey (or sugar) if you use. Set aside.",
+        "Heat the vegetable oil in a large skillet over medium heat. Swirl the skillet around so the oil evenly coats it. Add the crab sticks, white side down. Cook for about 1 minute until the bottoms turn soft and light brown. Turn them over with a spatula and cook for another 30 seconds. Remove from the heat and transfer to a large platter.",
+        "Put the 4 strips of danmuji on the platter, next to the crab sticks. Cut the avocado in half lengthwise and remove the seed. Slice it lengthwise while it's still in its shell. Scoop the slices out with a large spoon and transfer them to the platter. Squeeze the lemon over the avocado to prevent it from going brown.",
+        "Divide the rice into 4 portions. Place a sheet of gim on a gimbal (a bamboo mat for making gimbap), with the shiny side down. Evenly spread 1 portion of rice over the gim, leaving a 1-inch margin uncovered along the top edge. Divide the tuna mixture into 4 portions. Spread one portion across the middle of the rice, in a strip lengthwise. Add a strip of danmuji, some avocado, and a crab stick. Use both hands to pick up the bottom edge of the mat and use it to roll the gim up and over the fillings so the rice surrounds them. Squeeze the mat gently and then continue rolling up the gim in the mat, squeezing the mat regularly to get a tight roll. Unroll the mat and remove the roll from the mat. Set the roll aside, with the seam down. Repeat with the remaining ingredients to make 3 more rolls. Gently brush the rest of the 2 teaspoons sesame oil over the rolls by hand or with a basting brush. Sprinkle the sesame seeds over top. Cut each roll into ⅓ to ½-inch slices with a sharp knife. For easier slicing, wipe your knife with a wet paper towel (or kitchen cloth) as you go.",
+        "Arrange the slices on a plate or pack in a lunchbox. The gimbap will keep for several hours at room temperature."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Makes 4 rolls (Serves 2 to 4)"
+        },
+        {
+          "tag": "h3",
+          "text": "For rice:"
+        },
+        {
+          "tag": "li",
+          "text": "4 cups freshly made white fluffy rice"
+        },
+        {
+          "tag": "li",
+          "text": "¼ teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon white or apple vinegar"
+        },
+        {
+          "tag": "h3",
+          "text": "For tuna filling:"
+        },
+        {
+          "tag": "li",
+          "text": "1 (5-ounce) can of tuna, preferably oil-packed"
+        },
+        {
+          "tag": "li",
+          "text": "1 garlic clove, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "¼ teaspoon ground black pepper"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon honey (or sugar), optional"
+        },
+        {
+          "tag": "h3",
+          "text": "For gimbap:"
+        },
+        {
+          "tag": "li",
+          "text": "4 artificial crab sticks"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "4 strips (about ½ inch thick) of danmuji (yellow pickled radish)"
+        },
+        {
+          "tag": "li",
+          "text": "1 or 2 avocados"
+        },
+        {
+          "tag": "li",
+          "text": "½ lemon"
+        },
+        {
+          "tag": "li",
+          "text": "4 sheets of gim (seaweed paper), toasted"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon toasted sesame seeds"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the rice:"
+        },
+        {
+          "tag": "li",
+          "text": "Put the freshly made steamy rice into a large bowl. Add salt and vinegar and gently fold it in with a rice scoop or a wooden spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Set aside and let the rice cool down."
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the tuna:"
+        },
+        {
+          "tag": "li",
+          "text": "Heat a small pan over medium high heat. Add the tuna, garlic, 1 teaspoon sesame oil, soy sauce, and ground black pepper."
+        },
+        {
+          "tag": "li",
+          "text": "Stir the mixture for about 2 minutes with a wooden spoon until the tuna turns a little flaky. Remove from the heat."
+        },
+        {
+          "tag": "li",
+          "text": "Stir in the honey (or sugar) if you use. Set aside."
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the artificial crab sticks:"
+        },
+        {
+          "tag": "li",
+          "text": "Heat the vegetable oil in a large skillet over medium heat. Swirl the skillet around so the oil evenly coats it."
+        },
+        {
+          "tag": "li",
+          "text": "Add the crab sticks, white side down. Cook for about 1 minute until the bottoms turn soft and light brown."
+        },
+        {
+          "tag": "li",
+          "text": "Turn them over with a spatula and cook for another 30 seconds."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and transfer to a large platter."
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the danmuji (yellow pickled radish) and avocado:"
+        },
+        {
+          "tag": "li",
+          "text": "Put the 4 strips of danmuji on the platter, next to the crab sticks."
+        },
+        {
+          "tag": "li",
+          "text": "Cut the avocado in half lengthwise and remove the seed. Slice it lengthwise while it’s still in its shell."
+        },
+        {
+          "tag": "li",
+          "text": "Scoop the slices out with a large spoon and transfer them to the platter. Squeeze the lemon over the avocado to prevent it from going brown."
+        },
+        {
+          "tag": "h3",
+          "text": "Roll the gimbap:"
+        },
+        {
+          "tag": "li",
+          "text": "Divide the rice into 4 portions. Place a sheet of gim on a gimbal (a bamboo mat for making gimbap), with the shiny side down. Evenly spread 1 portion of rice over the gim, leaving a 1-inch margin uncovered along the top edge."
+        },
+        {
+          "tag": "li",
+          "text": "Divide the tuna mixture into 4 portions. Spread one portion across the middle of the rice, in a strip lengthwise. Add a strip of danmuji, some avocado, and a crab stick."
+        },
+        {
+          "tag": "li",
+          "text": "Use both hands to pick up the bottom edge of the mat. Use it to roll the gim up and over the fillings so the rice surrounds them."
+        },
+        {
+          "tag": "li",
+          "text": "Squeeze the mat gently and then continue rolling the gim in the mat, squeezing the mat regularly to get a tight roll."
+        },
+        {
+          "tag": "li",
+          "text": "Unroll the mat and remove the roll from the mat. Set the roll aside, with the seam down."
+        },
+        {
+          "tag": "li",
+          "text": "Repeat with the remaining ingredients to make 3 more rolls."
+        },
+        {
+          "tag": "li",
+          "text": "Gently brush the rest of the 2 teaspoons sesame oil over the rolls by hand or with a basting brush."
+        },
+        {
+          "tag": "li",
+          "text": "Sprinkle the sesame seeds over top."
+        },
+        {
+          "tag": "li",
+          "text": "Cut each roll into ⅓ to ½-inch slices with a sharp knife. For easier slicing, wipe your knife with a wet paper towel (or kitchen cloth) as you go."
+        },
+        {
+          "tag": "h3",
+          "text": "Serve:"
+        },
+        {
+          "tag": "p",
+          "text": "Arrange the slices on a plate or pack in a lunchbox. The gimbap will keep for several hours at room temperature."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

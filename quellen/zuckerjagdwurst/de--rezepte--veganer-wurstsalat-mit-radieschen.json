@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-wurstsalat-mit-radieschen",
+  "recipes": [
+    {
+      "name": "Veganer Wurstsalat mit Radieschen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-wurstsalat-mit-radieschen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-wurstsalat-mit-radieschen#recipe-a768e8b9-0d88-59a9-b014-429cc5e56f00",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "200 g vegane Fleischwurst",
+        "1 gelbe Paprika",
+        "1 rote Zwiebel",
+        "8 Radieschen",
+        "5 saure Gurken",
+        "5 g Schnittlauch",
+        "8 g Petersilie",
+        "4 EL neutrales Pflanzenöl",
+        "2 EL Weißweinessig",
+        "1 EL süßer Senf",
+        "1 EL Agavendicksaft",
+        "Salz",
+        "Pfeffer",
+        "frische Laugenbrezeln zum Servieren"
+      ],
+      "instructions": [
+        "Zwiebel schälen, halbieren und in feine Streifen schneiden. Radieschen und Paprika waschen und gemeinsam mit den sauren Gurken und der veganen Fleischwurst in Streifen schneiden.",
+        "Schnittlauch und Petersilie waschen, trockenschütteln und fein schneiden. Alle Zutaten in einer Schüssel vermischen.",
+        "Für das Dressing Pflanzenöl, Weißweinessig, süßen Senf, Agavendicksaft sowie Salz und Pfeffer verrühren. Gut mit den restlichen Zutaten in der Schüssel vermischen und am besten über Nacht ziehen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

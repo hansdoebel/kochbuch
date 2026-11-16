@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/frozen-yogurt-breakfast-bars-150",
+  "recipes": [
+    {
+      "name": "Frozen Yogurt Breakfast Bars",
+      "source_url": "https://www.pickuplimes.com/recipe/frozen-yogurt-breakfast-bars-150",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "9 servings",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT02H10M",
+      "ingredients": [
+        "1 cup frozen mixed berries",
+        "1 cup Medjool date",
+        "2 cup rolled oats",
+        "1 cup almond butter",
+        "¼ cup ground flaxseeds",
+        "1 tsp ground cinnamon",
+        "1½ cup unsweetened soy yogurt"
+      ],
+      "instructions": [
+        "Place the frozen berries in a saucepan over medium heat, stirring occasionally. The fruits will begin to thaw and release their juices. When heated through, remove from the heat.",
+        "In a food processor, blend the dates until smooth.",
+        "Add the oats, almond butter, ground flaxseed, and cinnamon. Blend again until well combined.",
+        "Transfer the mix to a lined 11 x 7 inch (18 x 28cm) baking dish and press firmly into the base of the dish. The more firmly you press, the better the bars will hold together.",
+        "Top with the yogurt and spread out evenly.",
+        "Dot the yogurt with the stewed berries and use a butter knife to swirl.",
+        "Place into the freezer and let freeze for 1 to 2 hours, or until the bars are solid enough to cut.",
+        "When removed from the freezer, cut into squares or bars of the desired size.",
+        "Let thaw for 3 to 5 minutes and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based yogurt that is fortified with calcium .",
+    "Storage Store in an airtight container in the freezer for up to 3 weeks, with parchment paper between cut slices of the bars to prevent them from sticking to each other."
+  ]
+}

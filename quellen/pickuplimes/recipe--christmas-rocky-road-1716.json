@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/christmas-rocky-road-1716",
+  "recipes": [
+    {
+      "name": "Christmas Rocky Road",
+      "source_url": "https://www.pickuplimes.com/recipe/christmas-rocky-road-1716",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 bars",
+      "prep_time": "PT20M",
+      "cook_time": "PT05M",
+      "total_time": "PT03H25M",
+      "ingredients": [
+        "8.818 oz dairy-free dark chocolate",
+        "4.233 oz unsalted vegan butter",
+        "2 Tbsp maple syrup",
+        "7.055 oz Biscoff speculoos cookies",
+        "1½ cup vegan marshmallow",
+        "½ cup dried cranberries",
+        "½ cup salted roasted pistachios",
+        "2 Tbsp salted roasted pistachios",
+        "2 Tbsp freeze-dried cranberries"
+      ],
+      "instructions": [
+        "Line an 8-inch (20 cm) square baking dish with parchment paper.",
+        "Break the chocolate into pieces and place it into a heatproof bowl with the butter and maple syrup. Melt it over a pot filled with gently boiling water on the stove. Set aside once melted.",
+        "In a large bowl, roughly crush the cookies, then add the chopped marshmallows, cranberries and salted pistachios.",
+        "Pour the chocolate mixture into the bowl with the cookie mixture and mix until everything is coated in chocolate.",
+        "Transfer the mixture to your lined dish and press it down very firmly.",
+        "Sprinkle the finely chopped pistachios and freeze-dried cranberries on top.",
+        "Refrigerate for 3 hours to set, then cut into bars or squares. Wrap them as a gift if desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We use 50 - 60% cocoa chocolate for a balanced sweetness. Darker varieties (70%+) can make the result too bitter.",
+    "Storage Store in an airtight container in the fridge for up to 2 weeks. Store in the freezer for up to 2 months."
+  ]
+}

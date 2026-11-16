@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.recipetineats.com/apple-sauce/",
+  "recipes": [
+    {
+      "name": "Apple Sauce",
+      "source_url": "https://www.recipetineats.com/apple-sauce/",
+      "recipe_id": "https://www.recipetineats.com/apple-sauce/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "8"
+      ],
+      "prep_time": "PT10M",
+      "cook_time": "PT15M",
+      "total_time": null,
+      "ingredients": [
+        "3 gala apples (, peeled, quartered, cored, and sliced thinly (Note 1))",
+        "1/4 cup caster sugar / superfine sugar",
+        "2 tbsp sherry vinegar",
+        "50g / 3 ½ tbsp unsalted butter",
+        "1 pinch of salt"
+      ],
+      "instructions": [
+        "Place sugar in a medium saucepan over low heat. Shake pan to spread sugar. Leave for a few minutes until the edges start melting and turning golden, then swirl the pan to spread the caramel/sugar to encourage even melting (do not stir, sugar may crystallise).",
+        "Once the sugar is all melted, add apple and vinegar. Mix, and cook for 8 - 10 minutes, stirring occasionally, until the apple is completely soft.",
+        "Add the butter, stir it in until mostly melted. Blitz until smooth using a stick blender (tilt saucepan if needed to ensure head is completely submerged to avoid splattering).",
+        "Serve with: Slow-roasted crispy pork belly or any pork dishes. Also great for sweet applications – see in post for more ideas!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. Apples – I like Gala apples for their mildly sweet flavour. But really, you can use any apple you want, just bearing in mind that the flavour of the apple will dominate your sauce! 2. Storage – Keeps 5 days in the fridge. I haven’t tried but it should freeze perfectly!"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-grillkaese",
+  "recipes": [
+    {
+      "name": "Veganer Grillkäse",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-grillkaese",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-grillkaese#recipe-04271f40-e324-5cbf-b257-e2a0b4655166",
+      "authors": [
+        "Ronja Gramse"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 vegane Grillkäse",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für den Grillkäse:",
+        "80 g Cashewkerne",
+        "80 g blanchierte Mandeln",
+        "6 EL Hefeflocken",
+        "60 g Tapiokastärke",
+        "20 g Speisestärke",
+        "150 g veganer Joghurt (ungesüßt)",
+        "1 TL Misopaste",
+        "2 TL Salz",
+        "3 EL Zitronensaft",
+        "100 ml Wasser",
+        "6 g Agar Agar (100%)",
+        "Für die Marinade:",
+        "1 Limette (Saft)",
+        "30 ml Olivenöl",
+        "1 Knoblauchzehe",
+        "1 TL Agavendicksaft",
+        "1 TL getrocknete Kräuter (z.B. Majoran, Thymian, Oregano)",
+        "0.5 TL Chiliflocken (optional)",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "Pflanzenöl zum Braten"
+      ],
+      "instructions": [
+        "Die Cashewnüsse und Mandeln mind. 30 Minuten oder über Nacht in Wasser einweichen.",
+        "In einer Schüssel die eingeweichten Nüsse, Hefeflocken, Tapiokastärke, Speisestärke, veganen Joghurt, Misopaste, Salz und Zitronensaft mit einem Pürierstab zu einer homogenen Masse pürieren.",
+        "Wasser und Agar Agar in einem Topf verrühren und anschließend ca. 2 Minuten köcheln lassen, bis die Mischung etwas andickt. Dann die Nussmischung hinzugeben und unter Rühren köcheln lassen, bis sich die Masse vom Topfrand löst und nur noch sehr schwer umrühren lässt. Danach vom Herd nehmen und in vier Silikonförmchen füllen. Die veganen Grillkäse in ihrer Silikonform abgedeckt über Nacht im Kühlschrank ziehen lassen.",
+        "Für die Marinade Knoblauch schälen, klein schneiden und zusammen mit dem Limettensaft, Olivenöl, Agavedicksaft, Salz und Pfeffer in einer Schüssel verrühren. Wir empfehlen euch die Marinade ebenfalls am Vortag vorzubereiten, damit sie ebenfalls über Nacht durchziehen kann.",
+        "Am nächsten Tag die Grillkäse ca. 2 Stunden vor dem Anbraten ins Eisfach stellen. Dadurch lassen sie sich leichter aus der Form lösen.",
+        "Ein beschichtete Pfanne mit Öl erwärmen. Die Grillkäse mit der Marinade einpinseln und anschließend bei mittlerer Hitze einige Minuten anbraten, bis sie goldbraun sind. Noch warm servieren.",
+        "Tipp: Der vegane Grillkäse lässt sich auch gut im Kontaktgrill zubereiten. Wenn ihr den Grillkäse grillen wollt, solltet ihr ihn in eine Aluschale legen, da er sonst am Rost kleben bleibt."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

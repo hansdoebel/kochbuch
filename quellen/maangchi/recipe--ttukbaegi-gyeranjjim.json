@@ -1,0 +1,84 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/ttukbaegi-gyeranjjim",
+  "recipes": [
+    {
+      "name": "Steamed eggs in an earthenware bowl (Ttukbaegi gyeranjjim)",
+      "source_url": "https://www.maangchi.com/recipe/ttukbaegi-gyeranjjim",
+      "recipe_id": "/recipe/ttukbaegi-gyeranjjim#sso/recipe/17388",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "2 servings",
+      "prep_time": "P0DT0H2M0S",
+      "cook_time": "P0DT0H12M0S",
+      "total_time": "P0DT0H14M0S",
+      "ingredients": [
+        "4 to 5 large eggs",
+        "1 green onion, chopped",
+        "1 cup salted chicken broth (or 1 cup water with 4 teaspoons fish sauce)",
+        "2 teaspoons toasted sesame oil"
+      ],
+      "instructions": [
+        "Combine eggs, green onion, and the chicken broth in a 3 cup earthenware pot or a small, heavy bottomed stainless steel saucepan.",
+        "Mix it well with a fork or whisk.",
+        "Cover with dome-shaped heat-safe ceramic or stainless-steel bowl that fits over the pot.",
+        "Set it over medium-low and cook for about 12 to 13 minutes (about 8 to 10 minutes if using stainless steel saucepan), until steam comes out and steamy liquid begins to drip down the sides. The eggs will smell nutty.",
+        "Carefully remove the lid. Drizzle the sesame oil over top and serve right away with rice."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "4 to 5 large eggs"
+        },
+        {
+          "tag": "li",
+          "text": "1 green onion, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup salted chicken broth (or 1 cup water with 4 teaspoons fish sauce)"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons toasted sesame oil"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Combine eggs, green onion, and the chicken broth in a 3 cup earthenware pot or a small, heavy bottomed stainless steel saucepan."
+        },
+        {
+          "tag": "li",
+          "text": "Mix it well with a fork or whisk."
+        },
+        {
+          "tag": "li",
+          "text": "Cover with dome-shaped heat-safe ceramic or stainless-steel bowl that fits over the pot."
+        },
+        {
+          "tag": "li",
+          "text": "Set it over medium-low and cook for about 12 to 13 minutes (about 8 to 10 minutes if using stainless steel saucepan), until steam comes out and steamy liquid begins to drip down the sides. The eggs will smell nutty."
+        },
+        {
+          "tag": "li",
+          "text": "Carefully remove the lid. Drizzle the sesame oil over top and serve right away with rice."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

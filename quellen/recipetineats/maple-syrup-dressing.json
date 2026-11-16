@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.recipetineats.com/maple-syrup-dressing/",
+  "recipes": [
+    {
+      "name": "Maple Syrup Dressing",
+      "source_url": "https://www.recipetineats.com/maple-syrup-dressing/",
+      "recipe_id": "https://www.recipetineats.com/maple-syrup-dressing/#recipe",
+      "authors": [
+        "Nagi | RecipeTin Eats"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "1",
+        "1 cup"
+      ],
+      "prep_time": "PT5M",
+      "cook_time": null,
+      "total_time": "PT5M",
+      "ingredients": [
+        "1 tbsp apple cider vinegar",
+        "2 tbsp olive oil",
+        "1 1/2 tsp pure maple syrup",
+        "1 tsp Dijon mustard",
+        "Salt and pepper",
+        "1/3 cup apple cider vinegar",
+        "2/3 cup olive oil ((extra virigin is ok))",
+        "2 tbsp pure maple syrup",
+        "1 tbsp Dijon mustard",
+        "1/2 tsp salt",
+        "Black pepper"
+      ],
+      "instructions": [
+        "Place ingredients in a jar. Shake until well combined and creamy.",
+        "Store: Keep in the fridge for 2 to 3 weeks.",
+        "Single Batch: This will dress 4 large handfuls of leafy greens / fresh salad, or about 500g / 1 lb roasted sweet potato or pumpkin place o 2 handfuls of rocket lettuce / arugula."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

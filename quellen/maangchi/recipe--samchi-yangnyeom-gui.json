@@ -1,0 +1,154 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/samchi-yangnyeom-gui",
+  "recipes": [
+    {
+      "name": "Pan-fried seasoned Spanish mackerel (Samchi-yangnyeom-gui: 삼치양념구이)",
+      "source_url": "https://www.maangchi.com/recipe/samchi-yangnyeom-gui",
+      "recipe_id": "/recipe/samchi-yangnyeom-gui#sso/recipe/101329",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "Serves 2",
+      "prep_time": "P0DT0H10M0S",
+      "cook_time": "P0DT0H6M0S",
+      "total_time": null,
+      "ingredients": [
+        "1 tablespoons soy sauce",
+        "2 tablespoons mirim cooking wine (also known as mirin)",
+        "1 garlic clove, minced",
+        "1 teaspoons minced peeled ginger",
+        "A pinch of ground black pepper",
+        "8 ounces Spanish mackerel fillets",
+        "¼ cup all-purpose flour",
+        "¼ cup cooking oil",
+        "2 tablespoons rice syrup (or sugar), optional",
+        "1 green onion, chopped",
+        "1 teaspoon toasted sesame oil",
+        "1 teaspoon toasted sesame seeds"
+      ],
+      "instructions": [
+        "In a large, shallow bowl, combine soy sauce, mirim, minced garlic, and minced ginger. Mix well. Cut the fillets crosswise into pieces approximately 2 inches long and about ½ inch thick. Add the filets to the marinade. Mix thoroughly to ensure even seasoning.",
+        "Put the flour on a baking sheet or cutting board. Remove the fish from the marinade and coat each piece evenly with flour, reserving the leftover marinade for later. Heat a large skillet over medium heat and add the cooking oil. Once hot, add the fish pieces and cook for 2 to 3 minutes until crispy and lightly browned on the bottom. Flip the fillets over with a spatula and cook until the other side is light brown, approximately 2 to 3 minutes more or until cooked thoroughly. Transfer the cooked fish to a plate and discard excess oil from the skillet. Add the leftover sauce and the rice syrup (if using) to the skillet. Heat until the sauce starts bubbling. Add the fish pieces back into the skillet. Stir with a wooden spoon to coat them evenly in the sauce.",
+        "Remove the skillet from the heat and stir in the sesame oil. Transfer the cooked fish to a serving plate and sprinkle with the chopped green onion and toasted sesame seeds."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 2"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoons soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons mirim cooking wine (also known as mirin)"
+        },
+        {
+          "tag": "li",
+          "text": "1 garlic clove, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoons minced peeled ginger"
+        },
+        {
+          "tag": "li",
+          "text": "A pinch of ground black pepper"
+        },
+        {
+          "tag": "li",
+          "text": "8 ounces Spanish mackerel fillets"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup all-purpose flour"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup cooking oil"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons rice syrup (or sugar), optional"
+        },
+        {
+          "tag": "li",
+          "text": "1 green onion, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon toasted sesame seeds"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Marinate the fish filets"
+        },
+        {
+          "tag": "li",
+          "text": "In a large, shallow bowl, combine soy sauce, mirim, garlic, ginger, and ground black pepper. Mix well."
+        },
+        {
+          "tag": "li",
+          "text": "Cut the fillets crosswise into pieces approximately 2 inches long and about ½ inch thick."
+        },
+        {
+          "tag": "li",
+          "text": "Add the pieces to the marinade. Mix thoroughly to ensure even seasoning."
+        },
+        {
+          "tag": "h3",
+          "text": "Coat and fry the fish"
+        },
+        {
+          "tag": "li",
+          "text": "Put the flour on a baking sheet or cutting board. Remove the fish from the marinade and coat each piece evenly with flour, reserving the leftover marinade for later."
+        },
+        {
+          "tag": "li",
+          "text": "Heat a skillet over medium heat and add the cooking oil. Once hot, add the fish pieces and cook for 2 to 3 minutes until crispy and lightly browned on the bottom."
+        },
+        {
+          "tag": "li",
+          "text": "Flip the fish over with a spatula and cook until the other side is light brown, approximately 2 to 3 minutes more or until cooked thoroughly."
+        },
+        {
+          "tag": "li",
+          "text": "Discard excess oil from the skillet."
+        },
+        {
+          "tag": "li",
+          "text": "Add the leftover sauce and the rice syrup to the skillet. Push the fish to one side of the skillet and then tilt it so the opposite, empty corner is directly over the heat. Heat the sauce and rice syrup there until it’s bubbling nicely, then level the skillet and cover the fish with the bubbling sauce. Stir with a wooden spoon to coat them evenly."
+        },
+        {
+          "tag": "h3",
+          "text": "Finish and serve"
+        },
+        {
+          "tag": "li",
+          "text": "Remove the skillet from the heat and stir in the sesame oil. Transfer the cooked fish to a serving plate and sprinkle with the chopped green onion and toasted sesame seeds."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

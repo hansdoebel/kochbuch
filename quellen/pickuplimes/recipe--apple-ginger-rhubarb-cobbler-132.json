@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/apple-ginger-rhubarb-cobbler-132",
+  "recipes": [
+    {
+      "name": "Apple, Rhubarb & Ginger Cobbler",
+      "source_url": "https://www.pickuplimes.com/recipe/apple-ginger-rhubarb-cobbler-132",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT40M",
+      "total_time": "PT50M",
+      "ingredients": [
+        "3 apple",
+        "14.109 oz rhubarb stalk",
+        "1 Tbsp fresh ginger",
+        "2 Tbsp granulated sugar",
+        "½ Tbsp cornstarch",
+        "¼ tsp five spice powder",
+        "1½ cup all-purpose flour",
+        "¼ cup granulated sugar",
+        "1 Tbsp baking powder",
+        "¼ tsp salt",
+        "2.646 oz unsalted vegan butter",
+        "½ cup unsweetened soy yogurt",
+        "1 tsp pure vanilla extract"
+      ],
+      "instructions": [
+        "Grease a 12 x 8 inch (30 x 20 cm) baking dish with some melted butter or coconut oil. Preheat the oven to 350°F (180°C)*.",
+        "Combine the ingredients for the fruit base in a large bowl.",
+        "Transfer the fruit to the baking dish, cover, and bake for 15 minutes.",
+        "Meanwhile, prepare the biscuit topping by combining the dry ingredients in a bowl.",
+        "Cut the butter into the dry mixture until the butter pieces are roughly pea-sized.",
+        "Add the remaining biscuit ingredients and combine to form a dough.",
+        "Pat the dough to ½ inch (1 cm) thickness and cut rounds using a cookie cutter.",
+        "Place the biscuits over the roasted fruit and dot any remaining dough between the pieces.",
+        "Return the baking dish to the oven and bake for 30 to 35 minutes, or until the top of the biscuits are golden.",
+        "Serve with powdered sugar or ice cream. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Green apples, such as Granny Smiths, yield roasted apples with a hint of crispness. Baking apples, like Macintosh, result in tender and soft roasted apples. * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Best to enjoy on the day it's made. Store leftovers in an airtight container in the fridge for up to 2 days."
+  ]
+}

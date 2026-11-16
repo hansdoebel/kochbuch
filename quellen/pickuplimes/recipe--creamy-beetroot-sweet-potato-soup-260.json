@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/creamy-beetroot-sweet-potato-soup-260",
+  "recipes": [
+    {
+      "name": "Creamy Beetroot & Sweet Potato Soup",
+      "source_url": "https://www.pickuplimes.com/recipe/creamy-beetroot-sweet-potato-soup-260",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT15M",
+      "cook_time": "PT40M",
+      "total_time": "PT55M",
+      "ingredients": [
+        "1 Tbsp olive oil",
+        "2 medium onion",
+        "¼ tsp salt",
+        "2 garlic clove",
+        "1 tsp ground cumin",
+        "½ tsp sweet paprika powder",
+        "3 medium sweet potato",
+        "2 medium beet",
+        "2½ cup vegetable broth",
+        "1⅔ cup canned full-fat coconut milk"
+      ],
+      "instructions": [
+        "Heat the oil in a large pot over high heat. Add the onion and salt, and cook for 5 to 7 minutes, or until golden. Add splashes of water as needed to deglaze the pan.",
+        "Add the garlic and stir until golden, about 2 minutes.",
+        "Then sprinkle in the spices and toast for 30 seconds, stirring throughout.",
+        "Add the sweet potatoes, beets, and broth. Bring to a boil, reduce to a simmer, partially cover, and cook for 25 to 30 minutes.",
+        "Once the potatoes and beetroots are soft, add the coconut milk and purée using an immersion blender or standing blender.",
+        "Taste and add more salt if you'd like. Serve with desired garnishes. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 4 days. Store in the freezer for up to 2 months."
+  ]
+}

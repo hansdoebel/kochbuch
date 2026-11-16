@@ -1,0 +1,329 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/bo-ssam",
+  "recipes": [
+    {
+      "name": "Pork wraps (Bo-ssam)",
+      "source_url": "https://www.maangchi.com/recipe/bo-ssam",
+      "recipe_id": "/recipe/bo-ssam#sso/recipe/61235",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 pound napa cabbage leaves, washed and drained",
+        "¼ cup sugar",
+        "¼ cup white vinegar",
+        "1 tablespoon kosher salt",
+        "3/4 cup water",
+        "3 pounds pork belly (or pork shoulder), rinsed and drained",
+        "1 large onion, cut into quarters or sliced",
+        "2 tablespoons ginger, sliced thinly",
+        "12 garlic cloves",
+        "2 tablespoons Korean fermented soybean paste (doenjang)",
+        "1 tablespoon brown sugar",
+        "1 tablespoon instant hazelnut-flavored coffee",
+        "10 cups water",
+        "1 pound Korean radish (or daikon), peeled and washed",
+        "2 teaspoons kosher salt",
+        "2 tablespoons fish sauce",
+        "2 teaspoons sugar",
+        "3 garlic cloves, minced",
+        "1 green onion, chopped",
+        "8 ounces frozen shucked oysters, thawed out in the fridge for an hour",
+        "¼ cup plus 2 tablespoons Korean hot pepper flakes (gochugaru)",
+        "1 tablespoon toasted sesame seeds",
+        "1 tablespoon saeujeot (fermented salted shrimp)",
+        "1 teaspoon sugar",
+        "1 teaspoon Korean hot pepper flakes (gochugaru)",
+        "1 green onion, chopped",
+        "1 garlic clove, minced",
+        "2 tablespoon water",
+        "a pinch of toasted sesame seeds"
+      ],
+      "instructions": [
+        "Combine sugar, vinegar, kosher salt, and water in a large bowl. Mix well until it turns into a clear pickle brine.",
+        "Add the cabbage and mix well by hand.",
+        "Let it sit for 15 minutes, then mix well and turn it over so the leaves pickle evenly. Repeat this every 10 to 15 minutes for 1 to 2 hours until the cabbage gets soft and withered.",
+        "Squeeze out the excess water and refrigerate until ready to serve.",
+        "Add the pork, onion, ginger, garlic, soy bean paste, brown sugar, hazelnut coffee powder, and the water to a large pot. Cover and cook for 1 hour over medium high heat.",
+        "When it boils vigorously, turn the pork over with a wooden spoon or tongs.",
+        "After 1 hour of boiling, turn down the heat to low and cook for another 15 minutes.",
+        "Take out the cooked pork and let it cool down until ready to serve.",
+        "Cut the radish into matchsticks and put them into a bowl. Mix with the salt and let it sit for 10 minutes.",
+        "Squeeze out the excess water and put it back into a bowl.",
+        "Take the oysters out of the fridge and wash and drain.",
+        "Create a seasoning mixture by combining hot pepper flakes, fish sauce, sugar, garlic, and green onion in a bowl. Mix well with a wooden spoon.",
+        "Add the seasoning mixture to the radish and mix well by hand. Add the oysters and mix it gently. Add the sesame seeds.",
+        "Combine the fermented salted shrimp, sugar, hot pepper flakes, green onion, garlic, and water in a small bowl. Mix it well with a spoon. Sprinkle with sesame seeds.",
+        "Slice the pork into 1/8 inch thick pieces. Put them on a large platter.",
+        "Add the cabbage, spicy oyster radish salad, and shrimp sauce side by side nicely. Sprinkle with some sesame seeds and serve.",
+        "Koreans often serve with Korean booze: soju, makgeolli, or even beer in a pinch. Children should have Coke. ; )",
+        "Put a leaf of pickled cabbage on your palm (or on a small plate if it’s easier).",
+        "Add a piece of pork to the leaf, as well as some oyster radish salad, and a tiny amount of shrimp sauce. You should make it small enough so that it will fit into your mouth all at once.",
+        "Wrap the leaf into a small pouch and eat it whole.",
+        "Go back to step 1, and modify the amount of each ingredient, as you like, or not."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "h3",
+          "text": "For cabbage"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound napa cabbage leaves, washed and drained"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup sugar"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup white vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "3/4 cup water"
+        },
+        {
+          "tag": "h3",
+          "text": "For pork"
+        },
+        {
+          "tag": "li",
+          "text": "3 pounds pork belly (or pork shoulder), rinsed and drained"
+        },
+        {
+          "tag": "li",
+          "text": "1 large onion, cut into quarters or sliced"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons ginger, sliced thinly"
+        },
+        {
+          "tag": "li",
+          "text": "12 garlic cloves"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons Korean fermented soybean paste (doenjang)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon brown sugar"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon instant hazelnut-flavored coffee"
+        },
+        {
+          "tag": "li",
+          "text": "10 cups water"
+        },
+        {
+          "tag": "h3",
+          "text": "For oyster radish salad"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound Korean radish (or daikon), peeled and washed"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons fish sauce"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons sugar"
+        },
+        {
+          "tag": "li",
+          "text": "3 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 green onion, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "8 ounces frozen shucked oysters, thawed out in the fridge for an hour"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup plus 2 tablespoons Korean hot pepper flakes (gochugaru)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame seeds"
+        },
+        {
+          "tag": "h3",
+          "text": "For shrimp sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon saeujeot (fermented salted shrimp)"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon sugar"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon Korean hot pepper flakes (gochugaru)"
+        },
+        {
+          "tag": "li",
+          "text": "1 green onion, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 garlic clove, minced"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoon water"
+        },
+        {
+          "tag": "li",
+          "text": "a pinch of toasted sesame seeds"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "For cabbage"
+        },
+        {
+          "tag": "li",
+          "text": "Combine sugar, vinegar, kosher salt, and water in a large bowl. Mix well until it turns into a clear pickle brine."
+        },
+        {
+          "tag": "li",
+          "text": "Add the cabbage and mix well by hand."
+        },
+        {
+          "tag": "li",
+          "text": "Let it sit for 15 minutes, then mix well and turn it over so the leaves pickle evenly. Repeat this every 10 to 15 minutes for 1 to 2 hours until the cabbage gets soft and withered."
+        },
+        {
+          "tag": "li",
+          "text": "Squeeze out the excess water and refrigerate until ready to serve."
+        },
+        {
+          "tag": "h3",
+          "text": "For pork"
+        },
+        {
+          "tag": "li",
+          "text": "Add the pork, onion, ginger, garlic, soy bean paste, brown sugar, hazelnut coffee powder, and the water to a large pot. Cover and cook for 1 hour over medium high heat."
+        },
+        {
+          "tag": "li",
+          "text": "When it boils vigorously, turn the pork over with a wooden spoon or tongs."
+        },
+        {
+          "tag": "li",
+          "text": "After 1 hour of boiling, turn down the heat to low and cook for another 15 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Take out the cooked pork and let it cool down until ready to serve."
+        },
+        {
+          "tag": "h3",
+          "text": "For spicy oyster radish salad"
+        },
+        {
+          "tag": "li",
+          "text": "Cut the radish into matchsticks and put them into a bowl. Mix with the salt and let it sit for 10 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Squeeze out the excess water and put it back into a bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Take the oysters out of the fridge and wash and drain."
+        },
+        {
+          "tag": "li",
+          "text": "Create a seasoning mixture by combining hot pepper flakes, fish sauce, sugar, garlic, and green onion in a bowl. Mix well with a wooden spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Add the seasoning mixture to the radish and mix well by hand. Add the oysters and mix it gently. Add the sesame seeds."
+        },
+        {
+          "tag": "h3",
+          "text": "For shrimp sauce"
+        },
+        {
+          "tag": "li",
+          "text": "Combine the fermented salted shrimp, sugar, hot pepper flakes, green onion, garlic, and water in a small bowl. Mix it well with a spoon. Sprinkle with sesame seeds."
+        },
+        {
+          "tag": "h3",
+          "text": "Ready to serve!"
+        },
+        {
+          "tag": "li",
+          "text": "Slice the pork into 1/8 inch thick pieces. Put them on a large platter."
+        },
+        {
+          "tag": "li",
+          "text": "Add the cabbage, spicy oyster radish salad, and shrimp sauce side by side nicely. Sprinkle with some sesame seeds and serve."
+        },
+        {
+          "tag": "li",
+          "text": "Koreans often serve with Korean booze: soju, makgeolli, or even beer in a pinch. Children should have Coke. ; )"
+        },
+        {
+          "tag": "h2",
+          "text": "How to eat ssam-style"
+        },
+        {
+          "tag": "li",
+          "text": "Put a leaf of pickled cabbage on your palm (or on a small plate if it’s easier)."
+        },
+        {
+          "tag": "li",
+          "text": "Add a piece of pork to the leaf, as well as some oyster radish salad, and a tiny amount of shrimp sauce. You should make it small enough so that it will fit into your mouth all at once."
+        },
+        {
+          "tag": "li",
+          "text": "Wrap the leaf into a small pouch and eat it whole."
+        },
+        {
+          "tag": "li",
+          "text": "Go back to step 1, and modify the amount of each ingredient, as you like, or not."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

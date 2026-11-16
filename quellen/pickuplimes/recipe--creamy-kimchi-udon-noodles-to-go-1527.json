@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/creamy-kimchi-udon-noodles-to-go-1527",
+  "recipes": [
+    {
+      "name": "Creamy Kimchi Udon Noodles To-Go",
+      "source_url": "https://www.pickuplimes.com/recipe/creamy-kimchi-udon-noodles-to-go-1527",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 servings",
+      "prep_time": "PT13M",
+      "cook_time": "PT02M",
+      "total_time": "PT15M",
+      "ingredients": [
+        "7.055 oz fresh udon noodles",
+        "½ cup grated carrot",
+        "½ cup shredded green cabbage",
+        "2 Tbsp vegan kimchi",
+        "½ stalk green onion",
+        "½ cup cooked shelled edamame",
+        "1½ Tbsp vegan mayonnaise",
+        "½ Tbsp dark soy sauce",
+        "½ tsp toasted sesame oil"
+      ],
+      "instructions": [
+        "Add the noodles to a saucepan of boiling water. Cook for 2 minutes, then drain and rinse under cold water. Set aside.",
+        "Meanwhile, prep the carrot, cabbage, kimchi, and green onion.",
+        "Add the mayo, soy sauce and sesame oil to the bottom of your container or jar. Give it a mix.",
+        "Then add the cooled noodles, prepared veggies, and the edamame.",
+        "When ready to enjoy, give it a shake so everything combines or toss it together in a bowl. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage The noodles can be stored in a mason jar or an airtight container in the fridge for up to 3 days."
+  ]
+}

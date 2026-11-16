@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-lemon-curd",
+  "recipes": [
+    {
+      "name": "Veganer Lemon Curd",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-lemon-curd",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-lemon-curd#recipe-9d8873a4-ecc1-52a0-b6e9-c5958a619a04",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 kleines Glas",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "50 ml Ahornsirup",
+        "75 ml pflanzliche Milch",
+        "1 Prise Salz",
+        "3 EL vegane Butter (z.B. Alsan)",
+        "1 Zitrone (Abrieb)",
+        "100 ml Zitronensaft (ca. 2 Zitronen)",
+        "1 EL Speisestärke",
+        "1 EL Wasser",
+        "1/2 TL Kurkuma für die Farbe (optional)"
+      ],
+      "instructions": [
+        "Ahornsirup, Zitronensaft und pflanzliche Milch in einen kleinen Topf geben und erhitzen bis die Mischung leicht köchelt.",
+        "Eine Zitrone abreiben und den Abrieb, sowie eine Prise Salz und vegane Butter dazugeben. Vermengen bis sich die vegane Butter aufgelöst hat. Wer eine kräftige gelbe Farbe möchte, kann auch etwas Kurkuma dazugeben, aber das ist wirklich nur für den optischen Effekt und daher optional. Lasst das ganze ca. 2-3 Min. köcheln.",
+        "Speisestärke und Wasser in einer kleinen Schüssel anrühren und dazugeben, aber kräftig verrühren, damit nichts klumpt. Wenn ihr lieber flüssigen Lemon Curd (z.B. als Topping für Desserts und Kuchen) wollt, dann reicht auch 1/2 TL. Wollt ihr Lemon Curd als Aufstrich verwenden, benutzt 1 EL. Unter Rühren nun einköcheln lassen bis die gewünschte Konsistenz erreicht ist.",
+        "In einem luftdichten Gefäß hält sich der Lemon Curd 1-2 Wochen im Kühlschrank."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

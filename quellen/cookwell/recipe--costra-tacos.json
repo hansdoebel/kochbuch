@@ -1,0 +1,39 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/costra-tacos",
+  "recipes": [
+    {
+      "name": "Costra Tacos",
+      "source_url": "https://app.cookwell.com/recipe/costra-tacos",
+      "recipe_id": "https://app.cookwell.com/recipe/costra-tacos",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Steak of choice, 227 g",
+        "Adobo Seasoning, a sprinkle",
+        "Corn tortillas",
+        "Monterrey jack cheese",
+        "Hot Sauce",
+        "Pickled onions",
+        "Crema"
+      ],
+      "instructions": [
+        "Begin by seasoning the steak slices with adobo seasoning and set them aside. Lightly oil a griddle or pan. Then, place the steak on a griddle or pan over high heat. Sear it until it's browned and cooked through.",
+        "Place a nonstick pan over medium heat. Add a handful of cheese to the center of the pan and spread it out into a uniform circle (about the width of the tortilla you are using). Let it cook undisturbed so that it melts into a circle and the bottom starts to brown. You should see the fat naturally separate from the cheese, which will help fry the cheese layer. As this cooks, warm up some tortillas.",
+        "Once the edges of the cheese circle turn golden brown, add a serving of meat to the cheese in a line, as if the melted cheese circle were a tortilla. Gently use a spatula to fold the cheese over the meat, wrapping it as you would an enchilada. The cheese should be crispy on the outside, yet still soft enough to wrap and hold its shape around the meat. Transfer the cheese-wrapped meat to a warm tortilla. Top it with a drizzle of crema, hot sauce, and pickled onions. It's best enjoyed warm."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

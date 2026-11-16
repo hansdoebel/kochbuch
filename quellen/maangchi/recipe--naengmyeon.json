@@ -1,0 +1,338 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/naengmyeon",
+  "recipes": [
+    {
+      "name": "Mul-naengmyeon (Korean cold noodles in chilled broth) 물냉면",
+      "source_url": "https://www.maangchi.com/recipe/naengmyeon",
+      "recipe_id": "/recipe/naengmyeon#sso/recipe/135",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "10 ounces (280 grams) dried naengmyeon noodles",
+        "2 packets of liquid or powdered concentrated broth that comes with the package of naengmyeon noodles",
+        "2 packets of mustard oil that comes with the package of naengmyeon noodles.",
+        "½ English cucumber, cut into thin strips",
+        "1 Korean pear (or 2 bosc pears)",
+        "½ teaspoon kosher salt",
+        "1½ teaspoon sugar",
+        "1 tablespoon white or apple cider vinegar",
+        "1 hard-boiled egg, cut in halves",
+        "2 tablespoons toasted sesame seeds, ground",
+        "ice cubes",
+        "8 cups of water",
+        "3 or 4 shiitake mushrooms",
+        "4 inch piece of dried kelp",
+        "8 to 10 dried anchovies (with the heads and the intestines removed)",
+        "8 ounces beef brisket",
+        "7 cups water",
+        "4 cups brine from dongchimi (water radish kimchi)",
+        "2 teaspoons kosher salt",
+        "¼ cup sugar"
+      ],
+      "instructions": [
+        "Open the packets of the concentrated broth and put them into a bowl. Mix with 4 cups of water.",
+        "Keep in the freezer for 4 to 5 hours so it gets slushy. If you can’t make the broth in advance, make the broth with only 2 cups of water and add 2½ cups of ice cubes. Keep it in the fridge while you prepare everything else, and take it out just when you’re ready to serve.",
+        "Make quick pickled cucumbers by combining the sliced cucumber, kosher salt, ½ teaspoon sugar, and vinegar in a bowl. Mix it well and set aside.",
+        "Make sugar water by mixing 1 cup of water and 1 teaspoon sugar.",
+        "Peel the pear and slice into halves. Slice one half into thin strips and soak them in the sugar water to keep them from going brown.",
+        "Grate the other half of the pear and squeeze out the juice using a cotton cloth or cheesecloth. You should get about ½ cup of pear juice. If you use small bosc pears, use one for garnish and the other for pear juice.",
+        "Take the bowl of broth out of the freezer. Squeeze some cucumber brine into the broth and add the pear juice.",
+        "Mix well and put the broth back in the fridge or freezer until the noodles are ready.",
+        "Bring a large pot of water to a boil. Add the noodles and stir with a wooden spoon. Cover and let them cook for 3 to 5 minutes.",
+        "Take a sample to taste. When you chew the noodles, there shouldn’t be any hard stuff inside. Be sure not to overcook them or they’ll go soggy.",
+        "Strain and rinse the noodles in cold running water until they aren’t slippery any more and are well cooled.",
+        "Fill a large bowl with cold water and some ice cubes. Add the noodles and rinse them a final time.",
+        "Drain the noodles and divide them into 2 large shallow bowls.",
+        "Pour the icy broth into each bowl.",
+        "Place the cucumber and pear on top.",
+        "Add a packet of mustard oil to each bowl.",
+        "Sprinkle with some sesame seeds powder. Add a half egg on top of each bowl.",
+        "Serve right away.",
+        "Boil 8 cups of water with all ingredients for 20 minutes over high heat.",
+        "Lower the heat and cook another 20 minutes. Strain, cool it down and put it in the freezer.",
+        "Rinse the brisket under cold running water, then soak in a bowl of cold water for 10 minutes to remove any blood, so you get a nice, clear broth.",
+        "Bring the 7 cups water to a boil in a pot over high heat. Drain the brisket and add to the pot. Turn the heat down to medium and cook, covered, for 1 hour.",
+        "Turn the heat down to low and cook for another 50 minutes.",
+        "Take out the brisket and set the broth aside to cool.",
+        "Thinly slice the beef. Cover and refrigerate.",
+        "Combine the beef broth and kimchi brine in a freezer safe bowl. Add the salt and sugar and stir to dissolve. Cover and put into the freezer.",
+        "Later, when you serve your mul-naengmyeon, use the slices of beef as a garnish, along with the cucumber, pear, and egg. You can also add some thin slices of dongchimi if you have it."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 2"
+        },
+        {
+          "tag": "li",
+          "text": "10 ounces (280 grams) dried naengmyeon noodles"
+        },
+        {
+          "tag": "li",
+          "text": "2 packets of liquid or powdered concentrated broth that comes with the package of naengmyeon noodles"
+        },
+        {
+          "tag": "li",
+          "text": "2 packets of mustard oil that comes with the package of naengmyeon noodles."
+        },
+        {
+          "tag": "li",
+          "text": "½ English cucumber, cut into thin strips"
+        },
+        {
+          "tag": "li",
+          "text": "1 Korean pear (or 2 bosc pears)"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1½ teaspoon sugar"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon white or apple cider vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "1 hard-boiled egg, cut in halves"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons toasted sesame seeds, ground"
+        },
+        {
+          "tag": "li",
+          "text": "ice cubes"
+        },
+        {
+          "tag": "h3",
+          "text": "Make broth"
+        },
+        {
+          "tag": "h3",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "8 cups of water"
+        },
+        {
+          "tag": "li",
+          "text": "3 or 4 shiitake mushrooms"
+        },
+        {
+          "tag": "li",
+          "text": "4 inch piece of dried kelp"
+        },
+        {
+          "tag": "li",
+          "text": "8 to 10 dried anchovies (with the heads and the intestines removed)"
+        },
+        {
+          "tag": "h3",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "8 ounces beef brisket"
+        },
+        {
+          "tag": "li",
+          "text": "7 cups water"
+        },
+        {
+          "tag": "li",
+          "text": "4 cups brine from dongchimi (water radish kimchi)"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup sugar"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Open the packets of the concentrated broth and put them into a bowl. Mix with 4 cups of water."
+        },
+        {
+          "tag": "li",
+          "text": "Keep in the freezer for 4 to 5 hours so it gets slushy. If you can’t make the broth in advance, make the broth with only 2 cups of water and add 2½ cups of ice cubes. Keep it in the fridge while you prepare everything else, and take it out just when you’re ready to serve."
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare cucumber and pear garnishes"
+        },
+        {
+          "tag": "li",
+          "text": "Make quick pickled cucumbers by combining the sliced cucumber, kosher salt, ½ teaspoon sugar, and vinegar in a bowl. Mix it well and set aside."
+        },
+        {
+          "tag": "li",
+          "text": "Make sugar water by mixing 1 cup of water and 1 teaspoon sugar."
+        },
+        {
+          "tag": "li",
+          "text": "Peel the pear and slice into halves. Slice one half into thin strips and soak them in the sugar water to keep them from going brown."
+        },
+        {
+          "tag": "li",
+          "text": "Grate the other half of the pear and squeeze out the juice using a cotton cloth or cheesecloth. You should get about ½ cup of pear juice. If you use small bosc pears, use one for garnish and the other for pear juice."
+        },
+        {
+          "tag": "li",
+          "text": "Take the bowl of broth out of the freezer. Squeeze some cucumber brine into the broth and add the pear juice."
+        },
+        {
+          "tag": "li",
+          "text": "Mix well and put the broth back in the fridge or freezer until the noodles are ready."
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare noodles"
+        },
+        {
+          "tag": "li",
+          "text": "Bring a large pot of water to a boil. Add the noodles and stir with a wooden spoon. Cover and let them cook for 3 to 5 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Take a sample to taste. When you chew the noodles, there shouldn’t be any hard stuff inside. Be sure not to overcook them or they’ll go soggy."
+        },
+        {
+          "tag": "li",
+          "text": "Strain and rinse the noodles in cold running water until they aren’t slippery any more and are well cooled."
+        },
+        {
+          "tag": "li",
+          "text": "Fill a large bowl with cold water and some ice cubes. Add the noodles and rinse them a final time."
+        },
+        {
+          "tag": "li",
+          "text": "Drain the noodles and divide them into 2 large shallow bowls."
+        },
+        {
+          "tag": "h3",
+          "text": "Put it together"
+        },
+        {
+          "tag": "li",
+          "text": "Pour the icy broth into each bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Place the cucumber and pear on top."
+        },
+        {
+          "tag": "li",
+          "text": "Add a packet of mustard oil to each bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Sprinkle with some sesame seeds powder. Add a half egg on top of each bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Serve right away."
+        },
+        {
+          "tag": "h2",
+          "text": "Variation 1: Anchovy, mushroom, & kelp stock broth"
+        },
+        {
+          "tag": "p",
+          "text": "If you have more time, anchovy stock broth is a more delicious and savory option than using the packets that come with the noodles. This is the kind of broth I made in my original naengmyeon video, years ago. I didn’t show the exact process in the video, but it’s pretty easy:"
+        },
+        {
+          "tag": "h3",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Boil 8 cups of water with all ingredients for 20 minutes over high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Lower the heat and cook another 20 minutes. Strain, cool it down and put it in the freezer."
+        },
+        {
+          "tag": "h3",
+          "text": "Mustard paste"
+        },
+        {
+          "tag": "p",
+          "text": "In the video I also make a homemade mustard paste by mixing 1 tbs of mustard powder and ½ tbs water, and then setting it in a warm place for 5 minutes for it to ferment (in the video, it’s on the top of the pot!)."
+        },
+        {
+          "tag": "h2",
+          "text": "Variation 2: Traditional broth using dongchimi & beef stock"
+        },
+        {
+          "tag": "p",
+          "text": "This is the most delicious, tangy, beefy, unique tasting broth you will ever have, but it also takes the longest to make, because dongchimi (water radish kimchi) itself needs at least 4 to 5 days to ferment, and then we use that brine in our naengmyeon."
+        },
+        {
+          "tag": "p",
+          "text": "Even though it takes a lot of effort, the taste is unbeatable and much better than you can get any other way. This recipe is from my first book, Maangchi’s Real Korean Cooking."
+        },
+        {
+          "tag": "h3",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Rinse the brisket under cold running water, then soak in a bowl of cold water for 10 minutes to remove any blood, so you get a nice, clear broth."
+        },
+        {
+          "tag": "li",
+          "text": "Bring the 7 cups water to a boil in a pot over high heat. Drain the brisket and add to the pot. Turn the heat down to medium and cook, covered, for 1 hour."
+        },
+        {
+          "tag": "li",
+          "text": "Turn the heat down to low and cook for another 50 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Take out the brisket and set the broth aside to cool."
+        },
+        {
+          "tag": "li",
+          "text": "Thinly slice the beef. Cover and refrigerate."
+        },
+        {
+          "tag": "li",
+          "text": "Combine the beef broth and kimchi brine in a freezer safe bowl. Add the salt and sugar and stir to dissolve. Cover and put into the freezer."
+        },
+        {
+          "tag": "h3",
+          "text": "Serving"
+        },
+        {
+          "tag": "li",
+          "text": "Later, when you serve your mul-naengmyeon, use the slices of beef as a garnish, along with the cucumber, pear, and egg. You can also add some thin slices of dongchimi if you have it."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

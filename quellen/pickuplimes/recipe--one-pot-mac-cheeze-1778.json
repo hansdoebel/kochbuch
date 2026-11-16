@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/one-pot-mac-cheeze-1778",
+  "recipes": [
+    {
+      "name": "One-Pot Mac & Cheeze",
+      "source_url": "https://www.pickuplimes.com/recipe/one-pot-mac-cheeze-1778",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT03M",
+      "cook_time": "PT17M",
+      "total_time": "PT20M",
+      "ingredients": [
+        "1 cup water",
+        "1 cup unsweetened soy milk",
+        "1 cup macaroni pasta",
+        "1 vegetable bouillon cube",
+        "½ cup plain vegan cream cheese",
+        "¼ cup nutritional yeast flakes",
+        "1 tsp Dijon mustard",
+        "1 tsp apple cider vinegar",
+        "½ tsp onion powder",
+        "¼ tsp ground turmeric"
+      ],
+      "instructions": [
+        "Add the water, milk, pasta, apple cider vinegar, and bouillon to a saucepan. Cook uncovered at a gentle simmer until al dente, about 10 mintues. Stir throughout to prevent sticking.",
+        "Add the remaining ingredients and stir until thick and glossy. The sauce will also continue to thicken as it cools.",
+        "Garnish as desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † For best results, stick with the traditional macaroni shape since the cooking time and liquid ratio is best.",
+    "Storage Store in an airtight container in the fridge for up to 2 days."
+  ]
+}

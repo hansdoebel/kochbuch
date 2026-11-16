@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-vanille-waffeln-mit-rhabarber-kompott",
+  "recipes": [
+    {
+      "name": "Vegane Vanille-Waffeln mit Rhabarber-Kompott",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-vanille-waffeln-mit-rhabarber-kompott",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-vanille-waffeln-mit-rhabarber-kompott#recipe-2a4e8647-4c11-506b-b1c8-14e733b4edf1",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "5 Waffeln",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT35M",
+      "ingredients": [
+        "Für die Waffeln:",
+        "290 g Weizenmehl Type 405",
+        "50 g Rohrzucker",
+        "8 g (1.5 TL) Backpulver",
+        "8 g (1.5 TL) Vanillezucker",
+        "2 Vanilleschoten",
+        "200 ml pflanzliche Milch",
+        "15 ml (2 EL) neutrales Pflanzenöl",
+        "100 ml Sprudelwasser",
+        "Für das Rhabarber-Kompott:",
+        "500 g Rhabarber",
+        "50 g Zucker",
+        "50 ml Wasser",
+        "1 Prise Salz",
+        "Zusätzlich:",
+        "500 g veganer Quark",
+        "Pflanzenöl zum Einfetten"
+      ],
+      "instructions": [
+        "Den Rhabarber mit einer Bürste säubern, die holzigen Enden entfernen und die restlichen Stangen klein schneiden.",
+        "Rhabarberstücke mit Zucker, Wasser und einer Prise Salz in einen Topf oder eine hohe Pfanne geben und ca. 10 Minuten köcheln lassen. Falls das Kompott zu dickflüssig ist, noch etwas Wasser dazugeben. Den Rhabarber solltet ihr am Ende ganz leicht zerdrücken können. Das Kompott mit Zucker abschmecken und anschließend vom Herd nehmen. Ihr könnt es lauwarm oder kalt zu den Waffeln servieren. Wer es lieber warm mag, lässt das Kompott bei kleiner Hitze noch auf dem Herd.",
+        "Während das Kompott köchelt, die Waffeln zubereiten. Mehl, Rohrzucker, Backpulver und Vanillezucker in einer großen Schüssel vermischen. Die Vanilleschoten mit einem scharfen Messer halbieren und das Vanillemark mit dem Messerrücken herauskratzen und ebenfalls in die Schüssel geben. Pflanzliche Milch, Pflanzenöl und Sprudelwasser hinzugeben und alle Zutaten zu einem glatten Teig verrühren.",
+        "Das Waffeleisen erhitzen, mit Pflanzenöl einfetten und die Waffeln nacheinander goldbraun ausbacken.",
+        "Die Waffeln mit veganem Quark und Rhabarberkompott toppen und noch warm servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

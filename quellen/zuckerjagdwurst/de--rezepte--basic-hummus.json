@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/basic-hummus",
+  "recipes": [
+    {
+      "name": "Veganes Grundrezept für Hummus",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/basic-hummus",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/basic-hummus#recipe-f61b0124-52a2-5e3e-9605-9899604f42af",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für den Hummus:",
+        "700 g gekochte Kichererbsen (oder 350 g getrocknete Kichererbsen)",
+        "1 TL Backnatron",
+        "1 Zitrone",
+        "2 Knoblauchzehen",
+        "100 g Tahin",
+        "1 TL Kreuzkümmel",
+        "1 TL Salz",
+        "Zum Servieren:",
+        "Fladenbrot",
+        "Olivenöl",
+        "frische Petersilie",
+        "Sesam",
+        "Oliven",
+        "Tomaten",
+        "Gurke"
+      ],
+      "instructions": [
+        "Hummus vorbereiten – Variante 1: mit getrockneten Kichererbsen",
+        "Die getrockneten Kichererbsen gut waschen und am Abend zuvor in reichlich kaltem Wasser einweichen.",
+        "Am nächsten Tag die Kichererbsen aus dem Wasser nehmen. In einem Topf mit Wasser bedecken und mit dem Backnatron ca. 30-60 Minuten (je nach Beschaffenheit der Kichererbsen) köcheln. Am Ende sollten die Kichererbsen sehr weich sein und fast „zerfallen“. Das Wasser aus dem Kochtopf nicht wegkippen.",
+        "Die Kichererbsen und Flüssigkeit im Topf so lange abkühlen lassen, bis sie nur noch lauwarm sind.",
+        "Hummus vorbereiten – Variante 2: mit Kichererbsen aus der Dose",
+        "Die Kichererbsen aus der Dose samt der Flüssigkeit und Backnatron in einen Topf geben und ca. 20 Minuten auf mittlerer Stufe köcheln. Falls das Wasser im Topf knapp wird, mehr hinzufügen. Am Ende sollten die Kichererbsen leicht auseinanderfallen und schön weich sein. Auch hier sollte das Wasser aus dem Topf unbedingt aufgehoben werden.",
+        "Hummus zubereiten",
+        "Den Saft der Zitrone ausdrücken und zunächst nur die Hälfte davon in einen Mixer geben. Die Knoblauchzehen schälen und mit dem Tahin, Kreuzkümmel und Salz hinzugeben. Die Masse etwa eine Minute gut mixen.",
+        "Nun die gekochten Kichererbsen hinzugeben und erneut mixen. So viel Wasser der Kichererbsen hinzugeben, bis ein cremiger, fast samtiger Hummus entsteht. Am Ende nochmals abschmecken und gegebenenfalls jetzt auch den restlichen Zitronensaft dazugeben.",
+        "Den fertigen Hummus mit Fladenbrot, Olivenöl, frischer Petersilie, Sesam, Oliven, Tomaten und Gurke servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schnitzel-mit-kartoffelsalat",
+  "recipes": [
+    {
+      "name": "Vegane Schnitzel mit Kartoffelsalat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schnitzel-mit-kartoffelsalat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schnitzel-mit-kartoffelsalat#recipe-adb2dd39-516d-53e1-aefe-0c3a49200dd0",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Für die Schnitzel:",
+        "4 getrocknete Soja-Big-Steaks",
+        "1 l Gemüsebrühe",
+        "4 EL Senf",
+        "100 g Mehl",
+        "150 ml pflanzliche Milch",
+        "150 g Semmelbrösel oder Panko",
+        "pflanzliches Öl zum Ausbacken",
+        "Zitrone zum Servieren",
+        "Salz",
+        "Pfeffer",
+        "Paprikapulver",
+        "Für den Kartoffelsalat:",
+        "750 g festkochende Kartoffeln",
+        "1 Gurke",
+        "1 Zwiebel",
+        "1 EL Sonnenblumenöl",
+        "250 ml Gemüsebrühe",
+        "2 EL Senf",
+        "3 EL Weißweinessig",
+        "15 g Schnittlauch",
+        "15 g Dill",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Kartoffeln mit Schale in einen Topf geben, salzen und ca. 20 Minuten kochen, bis ihr mit einer Gabel reinpieksen könnt und die Kartoffeln weich sind.",
+        "Währenddessen die Zwiebel fein würfeln und die Gurke in Scheiben schneiden. Öl in einem kleinen Topf erhitzen und die Zwiebelwürfel darin glasig anschwitzen. Mit 250 ml Gemüsebrühe aufgießen und Senf und Weißweinessig dazugeben und das ganze ca. 5 Minuten köcheln lassen. Mit Salz und Pfeffer abschmecken und anschließend vom Herd nehmen.",
+        "Die weichen Kartoffeln abgießen und kurz abkühlen, damit ihr sie anfassen könnt. Danach schälen und in dünne Scheiben schneiden, während sie noch warm sind und in eine große Schüssel geben. Die warme Gemüsebrühe-Mischung über die Kartoffelscheiben gießen. Kräftig mit Salz und Pfeffer abschmecken und frisch gehackten Dill, Schnittlauch und die Gurkenscheiben dazugeben. Den Kartoffelsalat mind. 1 Stunde ziehen lassen.",
+        "Die getrockneten Soja-Big-Steaks in einen Topf oder eine hitzebeständige Schüssel geben und mit ca. 1 Liter heißer Gemüsebrühe übergießen. Abgedeckt ca. 10 Minuten ziehen lassen, oder bis eure Sojasteaks weich sind. Die weichen Sojasteaks abgießen und die Flüssigkeit aus ihnen herausdrücken. Von beiden Seiten mit Senf einreiben und mit Salz, Pfeffer und Paprikapulver würzen.",
+        "Nehmt drei tiefe Teller oder Schüsseln und verteilt in jeweils eine Mehl, pflanzliche Milch und Semmelbrösel. Zuerst werden die Sojaschnitzel im Mehl gewendet, damit die Panade gut hält. Dann einmal durch die pflanzliche Milch ziehen und zum Schluss in Semmelbröseln wenden, damit sie rundum paniert sind. Wer es noch knuspriger mag, nimmt statt Semmelbröseln Panko oder paniert die Schnitzel doppelt.",
+        "Ausreichend Pflanzenöl in einer großen Pfanne erhitzen, es sollte 0.5 - 1 cm in eurer Pfanne stehen. Ist das Fett ca. 170°C heiß, könnt ihr die Sojaschnitzel von beiden Seiten goldbraun anbraten. Anschließend auf etwas Küchenpapier abfetten und noch warm mit Kartoffelsalat servieren. Legt ein paar Zitronenspalten dazu, damit ihr die Sojaschnitzel mit Zitronensaft beträufeln könnt."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

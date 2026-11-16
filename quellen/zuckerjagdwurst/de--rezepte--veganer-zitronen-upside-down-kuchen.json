@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zitronen-upside-down-kuchen",
+  "recipes": [
+    {
+      "name": "Veganer Zitronen Upside Down Kuchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zitronen-upside-down-kuchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zitronen-upside-down-kuchen#recipe-fae2b982-66ce-5092-beb6-438cd0ecab4f",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Stücke",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT80M",
+      "ingredients": [
+        "1 EL pflanzliche Butter",
+        "1-2 EL weißer Zucker",
+        "5 Zitronen",
+        "50 g Puderzucker (zum Dekorieren)",
+        "Teig",
+        "450 g Weizenmehl",
+        "0.5 TL Salz",
+        "20 g Backpulver",
+        "8 g Bio Bourbon Vanille-Zucker (z.B. von RUF)",
+        "5 g Bio Zitronenschale (z.B. von RUF)",
+        "200 g Zucker",
+        "200 g pflanzliche Butter",
+        "150 ml pflanzliche Milch",
+        "100 ml Wasser mit Kohlensäure",
+        "1 Zitrone"
+      ],
+      "instructions": [
+        "Den Ofen auf 180°C Umluft vorheizen.",
+        "Den Boden einer Backform mit Backpapier auslegen. Die Backform mit 1 EL pflanzlicher Butter einfetten. Den Boden der Form mit 1-2 EL weißem Zucker bestreuen.",
+        "5 Zitronen waschen, in Scheiben schneiden, die Kerne entfernen und den Boden der Form mit den Zitronenscheiben auslegen. Die Backform bei Seite stellen.",
+        "In einer kleineren Schüssel Weizenmehl, Salz, Backpulver, Bio Bourbon Vanille-Zucker und Bio Zitronenschale vermischen.",
+        "In einer zweiten Schüssel die vegane Butter mit dem Zucker aufschlagen und nach und nach die Mehlmischung unterrühren.",
+        "Nach und nach ebenfalls die pflanzliche Milch, das Wasser mit Kohlensäure und den Saft und die Schale von einer Zitrone hinzugeben, bis ein glatter Teig entsteht.",
+        "Den Teig in die Backform füllen, sodass alle Zitronenscheiben mit dem Teig bedeckt sind.",
+        "Den Kuchen bei 180°C auf mittlerer Stufe etwa 60 Minuten backen. Anschließend in der Form komplett auskühlen lassen und erst danach stürzen. Mit Puderzucker servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

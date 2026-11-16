@@ -1,0 +1,65 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-stir-fry-reis-mit-tofu",
+  "recipes": [
+    {
+      "name": "Veganer Stir Fry Reis mit Tofu",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-stir-fry-reis-mit-tofu",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-stir-fry-reis-mit-tofu#recipe-b34c1bc3-ce53-5e0f-b4cf-0bec18832d01",
+      "authors": [
+        "Isabel Janka"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT35M",
+      "ingredients": [
+        "Für den Tofu:",
+        "400 g Naturtofu",
+        "5 EL Sojasoße",
+        "2 EL neutrales Pflanzenöl",
+        "1.5 EL Speisestärke",
+        "Chiliflocken",
+        "Für den Wok:",
+        "200 g Reis (= 600 g gekochter Reis vom Vortag)",
+        "2 Frühlingszwiebeln",
+        "1 Stück Ingwer",
+        "2 Knoblauchzehen",
+        "300 g Blumenkohl",
+        "1 kleine Aubergine",
+        "1 Karotte",
+        "200g TK-Erbsen",
+        "1 Paprika",
+        "100 g Pilze",
+        "2 EL neutrales Pflanzenöl",
+        "Für die Soße:",
+        "6 EL Sojasoße",
+        "3 EL dunkle Sojasoße",
+        "2-3 EL Reisessig",
+        "4 EL neutrales Pflanzenöl",
+        "2 EL Agavendicksaft",
+        "Außerdem:",
+        "Sriracha (optional)",
+        "Chili Crisp Öl (optional)",
+        "Sojabohnen-Sprossen",
+        "Sesam",
+        "Erdnüsse",
+        "Sesamöl (optional)"
+      ],
+      "instructions": [
+        "Den Ofen auf 200 °C (Umluft) vorheizen. Den Tofu auspressen und in kleine Würfel schneiden und in einer Schüssel mit Sojasoße, Öl und Chiliflocken vermengen. Danach die Speisestärke hinzufügen und gut verteilen, bis keine Klümpchen mehr vorhanden sind. Die Tofu-Würfel im vorgeheizten Ofen für 15–20 Minuten backen, bis sie goldbraun und knusprig sind.",
+        "Für die Soße Sojasoße, dunkle Sojasoße, Reisessig, Agavendicksaft und Öl in einer kleinen Schüssel gut vermengen und beiseite stellen.",
+        "Nun die Frühlingszwiebeln in Ringe schneiden und den grünen Teil für das Topping beiseite legen. Knoblauch und Ingwer fein hacken. Den Blumenkohl in kleine Röschen teilen. Die Karotten, Aubergine und Pilze in kleine Würfel und Paprika in dünne Streifen schneiden. Knoblauch und Ingwer zusammen mit dem weißen Teil der Frühlingszwiebeln in einem Wok mit etwas Öl für 1 Minute bei mittlerer Hitze anbraten. Dann den Blumenkohl hinzufügen und für weitere 2 Minuten anbraten. Anschließend die Karotten und Aubergine hinzugeben und 2–3 Minuten weiterbraten. Zum Schluss die Erbsen, Pilze und Paprika hinzufügen und nochmals 2 Minuten braten.",
+        "Den Reis und die vorbereitete Soße in den Wok mit dem Gemüse geben und gut umrühren. Optional mit etwas Srirachasoße und Sesamöl abschmecken. Die fertigen Tofuwürfel hinzugeben und nochmal umrühren. Den Reis bei hoher Hitze braten, bis er leicht knusprig wird.",
+        "Jetzt die Erdnüsse klein hacken, den fertigen Reis servieren und mit Sojasprossen, Frühlingszwiebeln, Sesam und Erdnüssen garnieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

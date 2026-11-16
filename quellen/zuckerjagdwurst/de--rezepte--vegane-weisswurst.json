@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-weisswurst",
+  "recipes": [
+    {
+      "name": "Vegane Weißwurst",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-weisswurst",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-weisswurst#recipe-e1a33e2b-92df-5e80-92f1-fd32d9d9e09d",
+      "authors": [
+        "Anneke Schügner"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "3 Weißwürste",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Für die Weißwürste:",
+        "200 g Tofu",
+        "5 g Petersilie",
+        "1 TL gemahlener Muskat",
+        "0.5 TL gemahlener Kardamom",
+        "0.5 TL gemahlener Ingwer",
+        "1 TL Zwiebelpulver",
+        "0.5 TL Knoblauchpulver",
+        "1 TL Gemüsebrühe",
+        "2.5 EL Seitan Fix",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "Brezeln",
+        "süßer Senf"
+      ],
+      "instructions": [
+        "Den Tofu mit den Händen gut zerkleinern und die Petersilie fein hacken. Tofu mit Petersilie, Muskat, Kardamom, Ingwer, Zwiebelpulver, Knoblauchpulver, Gemüsebrühe und Salz und Pfeffer würzen.",
+        "Seitanfix gut unterkneten und aus der Masse drei gleich große Würstchen formen. Die „Würstchen“ rundum in Alufolie einwickeln, sodass beim Kochen möglichst wenig Wasser hineingelangt.",
+        "Die Seitan-Würstchen in ein Sieb geben und das Sieb in einen Topf mit kochendem Wasser einhängen, sodass die “Würstchen” mit Wasser bedeckt sind, aber nicht den Boden des Topfs berühren. Die veganen Würstchen ca. 20 Minuten bei mittlerer Hitze köcheln.",
+        "Die veganen Würstchen aus dem Wasser nehmen und ein wenig abkühlen lassen. Nach dem Abkühlen auswickeln und mit Brezeln und süßem Senf servieren. Laß daas schmecka!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vegan-gingerbread-latte-42",
+  "recipes": [
+    {
+      "name": "Gingerbread Latte",
+      "source_url": "https://www.pickuplimes.com/recipe/vegan-gingerbread-latte-42",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT05M",
+      "total_time": "PT10M",
+      "ingredients": [
+        "3 cup barista oat milk",
+        "½ cup brewed espresso",
+        "2 Tbsp maple syrup",
+        "½ Tbsp blackstrap molasses",
+        "1 tsp ground cinnamon",
+        "½ tsp ground ginger",
+        "1 pinch ground nutmeg",
+        "1 pinch ground cloves"
+      ],
+      "instructions": [
+        "Add the barista milk to a saucepan over high heat. Whisk throughout to create some froth. Stay with it, as it often only needs a minute to heat through. When the milk starts to simmer, remove the pan from the heat and pour it into your desired mugs.",
+        "Return the saucepan to the stove over medium heat, and whisk together the espresso, maple syrup, molasses, cinnamon, ginger, nutmeg, and clove. Let everything heat through.",
+        "Divide the espresso mixture between your mugs and top with whipped cream and cookie crumbles, if desired. Serve while hot, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Blackstrap molasses is a dark, thick, often bitter syrup, which is produced during the sugar-making process. You can substitute it with 1 Tbsp (15 mL) dark corn syrup, or maple syrup, or ¾ Tbsp (9 g) packed brown sugar or granulated sugar.",
+    "Storage Best if enjoyed immediately."
+  ]
+}

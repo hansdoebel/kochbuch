@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/chipotle-refried-beans-582",
+  "recipes": [
+    {
+      "name": "Chipotle Refried Beans",
+      "source_url": "https://www.pickuplimes.com/recipe/chipotle-refried-beans-582",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT08M",
+      "cook_time": "PT20M",
+      "total_time": "PT28M",
+      "ingredients": [
+        "2 Tbsp vegetable oil",
+        "1 medium onion",
+        "3 garlic clove",
+        "2 tsp ground cumin",
+        "1 tsp sweet paprika powder",
+        "1 vegetable bouillon cube",
+        "½ tsp cayenne pepper",
+        "1 pinch ground black pepper",
+        "3 cup cooked pinto beans",
+        "1½ cup water",
+        "1 Tbsp chipotle adobo sauce",
+        "½ lime"
+      ],
+      "instructions": [
+        "Heat the oil in a large pan over medium-high heat. Cook the onion for 5 to 7 minutes, or until golden.",
+        "Add the garlic, cumin, paprika, bouillon cube, cayenne, and pepper. Cook for 1 minute, breaking up the bouillon cube and letting the spices get fragrant and toasted.",
+        "Add the beans, water, and chipotle. Stir and simmer uncovered over medium heat for 10 minutes.",
+        "Optional step: transfer half of the cooked bean mixture to a tall container or bowl and blend with a immersion blender. Alternatively, blend in a regular standing blender until creamy and smooth.",
+        "Use a wooden spoon to roughly mash the remaining beans in the pan, leaving some texture.",
+        "Add the blended portion of the beans back into the pan of mashed beans, along with the lime juice and stir to combine.",
+        "Allow it to slightly cool before serving. Top with fresh cilantro and chopped onions if desired. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Reduce the amount of water for a thicker spread that's more suitable for wraps. † The chipotle sauce we use is a blend of chipotle peppers with water, vinegar, and spices. We do not recommend using a mayo-based chipotle sauce in this recipe.",
+    "Storage This recipe keeps in an airtight container in the fridge for up to 3 days."
+  ]
+}

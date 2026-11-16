@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-leberkaese",
+  "recipes": [
+    {
+      "name": "Veganer Leberkäse",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-leberkaese",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-leberkaese#recipe-e12869e1-517c-56f5-86ce-b15866a436d7",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 veganer Leberkäse (20x11 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT80M",
+      "ingredients": [
+        "Für den veganen Leberkäse:",
+        "1250 g veganes „rohes” Hackfleisch",
+        "350 ml Wasser",
+        "25 ml Rote-Bete-Saft",
+        "2.5 TL gemahlenes Piment",
+        "1.25 TL gemahlener weißer Pfeffer",
+        "2.5 TL gemahlene Muskatnuss",
+        "2.5 TL Knoblauchpulver",
+        "1.25 TL Zwiebelpulver",
+        "2.5 TL getrockneter Liebstöckel",
+        "2.5 EL Speisestärke",
+        "2.5 TL Backpulver",
+        "Außerdem:",
+        "Radieschen",
+        "(glutenfreies) Laugenbrötchen",
+        "Senf",
+        "Krautsalat",
+        "Öl zum Einfetten"
+      ],
+      "instructions": [
+        "Wasser in ein Gefäß geben und ca. 10 Minuten in das Gefrierfach stellen, bis es eiskalt ist. Den Ofen auf 180°C (Ober-Unterhitze) vorheizen.",
+        "Für den Leberkäse das vegane Hack in eine Schüssel geben und pürieren. Den Rote-Bete-Saft einrühren und anschließend nach und nach das eiskalte Wasser hinzugeben und weiter pürieren. Die Masse sollte eine cremige, rosafarbene Konsistenz haben.",
+        "Die Masse im Anschluss durch ein Sieb direkt in eine Schüssel pressen. Gemahlenen Piment, weißen Pfeffer, Muskat, Knoblauch- und Zwiebelpulver, getrockneten Liebstöckel, Speisestärke und Backpulver hinzugeben und alles gut vermengen.",
+        "Tipp: All das, was im Sieb zurückbleibt, könnt ihr für ein anderes Gericht weiterverwenden.",
+        "Eine Backform (20x11 cm) mit Öl einfetten und die Masse in die Form streichen. Nun könnt ihr eure Hände etwas nass machen und die Oberfläche damit einstreichen, sodass eine kleine Wasserschicht entsteht. Dadurch entsteht beim Backen die typische obere Leberkäse-Kruste, die etwas dunkler und knuspriger ist als der Rest. Die Form in den Ofen schieben und bei 180°C (Ober-Unterhitze) ca. 45 Minuten backen. Im Anschluss den Leberkäse aus der Form nehmen und noch ca. 5 Minuten bei 250°C im Backofen grillen, bis er gebräunt ist. Danach aus dem Ofen nehmen und vor dem Anschneiden noch kurz abkühlen lassen.",
+        "In der Zwischenzeit die Radieschen in Scheiben schneiden. Die Laugenbrötchen mit Senf, veganem Leberkäse, Krautsalat und Radieschen belegen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

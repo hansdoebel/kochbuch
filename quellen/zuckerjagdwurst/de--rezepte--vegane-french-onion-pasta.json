@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-french-onion-pasta",
+  "recipes": [
+    {
+      "name": "Vegane French Onion Pasta",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-french-onion-pasta",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-french-onion-pasta#recipe-ba1cf57d-00b0-5b42-b52d-d7fc370d7d94",
+      "authors": [
+        "Anne-Sophie Hoffmann"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT35M",
+      "ingredients": [
+        "Für die Soße:",
+        "700 g Zwiebeln",
+        "1 EL vegane Butter",
+        "1 Knoblauchzehe",
+        "30 ml Apfelessig",
+        "150 ml vegane Kochsahne",
+        "50 g veganer Parmesan",
+        "2 EL Hefeflocken",
+        "5 Zweige frischer Thymian",
+        "Salz",
+        "Pfeffer",
+        "Für das Topping:",
+        "20 g Pinienkerne",
+        "200 g Räuchertofu",
+        "2 Zweige frischer Thymian",
+        "Pflanzenöl zum Braten",
+        "Außerdem:",
+        "250 g Spaghetti",
+        "Salz"
+      ],
+      "instructions": [
+        "Zwiebeln schälen, halbieren und in Ringe schneiden. Eine Pfanne mit veganer Butter auf mittlerer Stufe erhitzen. Die Zwiebeln hineingeben und circa 30 Minuten bei kleiner Hitze karamellisieren lassen. Immer wieder rühren, damit sie nicht anbrennen.",
+        "In der Zwischenzeit Nudeln kochen, aber 2 Minuten bevor sie al dente sind abgießen.Dabei eine Tasse des Pastawassers auffangen. Die Nudeln mit kaltem Wasser abschrecken und beiseitestellen.",
+        "Pinienkerne in einer fettfreien Pfanne goldbraun rösten. Räuchertofu in Würfel schneiden und anschließend in der selben Pfanne mit etwas Öl anbraten.",
+        "Knoblauch schälen, in Scheiben schneiden und zusammen mit dem Apfelessig zu den Zwiebeln geben und weitere 5 Minuten in der Pfanne karamellisieren lassen. Danach vegane Sahne, geriebenen veganen Parmesan, Hefeflocken und Thymianblätter unterrühren. Anschließend die gekochten Nudeln dazugeben und untermengen. Wenn die Soße zu dickflüssig ist, etwas vom Pastawasser hinzugeben. Mit Salz und Pfeffer abschmecken.",
+        "Die Nudeln mit frischen Thymianblättern, gerösteten Pinienkernen, gebratenem Räuchertofu und frischem Pfeffer servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

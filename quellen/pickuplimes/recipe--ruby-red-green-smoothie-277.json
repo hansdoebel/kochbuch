@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/ruby-red-green-smoothie-277",
+  "recipes": [
+    {
+      "name": "Ruby Red Green Smoothie",
+      "source_url": "https://www.pickuplimes.com/recipe/ruby-red-green-smoothie-277",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "1½ frozen banana",
+        "1 cup spinach",
+        "1 orange",
+        "1 small beet",
+        "1 Tbsp hemp seeds",
+        "1 cup unsweetened soy milk"
+      ],
+      "instructions": [
+        "Add all the ingredients to a blender and blend until smooth.",
+        "Serve and enjoy immediately."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium .",
+    "Storage Smoothies are best enjoyed immediately."
+  ]
+}

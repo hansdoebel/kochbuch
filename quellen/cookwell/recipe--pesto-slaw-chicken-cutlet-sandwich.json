@@ -1,0 +1,41 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/pesto-slaw-chicken-cutlet-sandwich",
+  "recipes": [
+    {
+      "name": "Pesto Slaw Chicken Cutlet Sandwich",
+      "source_url": "https://app.cookwell.com/recipe/pesto-slaw-chicken-cutlet-sandwich",
+      "recipe_id": "https://app.cookwell.com/recipe/pesto-slaw-chicken-cutlet-sandwich",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Breaded chicken cutlet, 1",
+        "Kale, a handful",
+        "Fennel, a handful",
+        "Pesto, a spoonful",
+        "Mayonnaise, a spoonful",
+        "Fresh mozzarella, 113 g",
+        "Hoagie rolls, 1",
+        "Heirloom tomato, 1",
+        "Fresh oregano, a sprinkle"
+      ],
+      "instructions": [
+        "Turn on the broiler. Once the oven is heated, broil the fried chicken cutlet until warmed through and crispy. Alternatively, use an air fryer or toaster oven.",
+        "Add the chopped kale, fennel, pesto and mayo to a bowl and toss it all together. Set aside for assembly. Slice the tomato in to thick slices. Add a sprinkle of salt and pepper to them. Slice the mozzarella.",
+        "Grab the roll and slice it in half. Add some of the slaw, followed by slices of tomato, chicken cutlets, and the mozzarella. Sprinkle the top with oregano and wrap the sandwich with parchment paper. This will help everything compress together and changes the texture of the sandwich. Slice the sandwich in half and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

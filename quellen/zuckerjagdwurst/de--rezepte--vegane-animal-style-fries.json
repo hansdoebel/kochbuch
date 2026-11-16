@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-animal-style-fries",
+  "recipes": [
+    {
+      "name": "Vegane Animal Style Fries",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-animal-style-fries",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-animal-style-fries#recipe-92800c29-9b33-5460-bbdd-5ce9f5de5eba",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für die Soße:",
+        "100 g vegane Mayonnaise",
+        "60 g Gurkenrelish",
+        "1.5 EL Ketchup",
+        "1 EL Senf",
+        "1 TL Apfelessig",
+        "4 TL Wasser",
+        "Salz",
+        "Pfeffer",
+        "Für die karamellisierten Zwiebeln:",
+        "4 große Zwiebeln",
+        "Salz",
+        "Pflanzenöl zum Braten",
+        "Außerdem:",
+        "500 g Tiefkühl-Pommes",
+        "150 g veganer Scheibenkäse"
+      ],
+      "instructions": [
+        "Zwiebeln schälen und in Würfel schneiden. Etwas Pflanzenöl und die Zwiebeln in eine große Pfanne geben. Die Zwiebeln salzen und nun bei kleiner Hitze erwärmen, bis sie glasig sind. Danach einen Deckel auf die Pfanne legen und die Zwiebeln ca. 15-20 Minuten weiterbraten – den Deckel dabei immer wieder anheben und die Zwiebeln umrühren. Anschließend ohne Deckel noch ca. 10 Minuten anbraten, bis die Zwiebeln goldbraun, karamellisiert sind und süßlich schmecken.",
+        "In der Zwischenzeit für die Soße vegane Mayonnaise, Gurkenrelish, Ketchup, Senf, Apfelessig und Wasser verrühren und mit Salz und Pfeffer abschmecken. Nach Bedarf mehr Wasser dazugeben, bis eine dickflüssige Soße entsteht.",
+        "Die Tiefkühlpommes auf einem mit Backpapier ausgelegten Backblech verteilen und nach Packungsanleitung backen. Ca. 5 Minuten vor dem Ende der Backzeit das Blech aus dem Ofen nehmen und die Pommes etwas näher zusammenschieben. Veganen Scheibenkäse entweder direkt auf den Pommes verteilen oder vorher mit etwas Pflanzenöl einreiben. Danach wieder in den Ofen schieben und weiterbacken, bis der Käse geschmolzen ist.",
+        "Am einfachsten ist es, die Pommes mit der geschmolzenen veganen Käseschicht auf dem Blech zu lassen und die karamellisierten Zwiebeln und die Soße darüber zu verteilen. Alternativ könnt ihr aber natürlich auch einzelne Portionen servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

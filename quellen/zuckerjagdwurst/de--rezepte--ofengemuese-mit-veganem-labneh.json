@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/ofengemuese-mit-veganem-labneh",
+  "recipes": [
+    {
+      "name": "Herbstliches Ofengemüse mit veganem Labneh",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/ofengemuese-mit-veganem-labneh",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/ofengemuese-mit-veganem-labneh#recipe-32b353e6-d77e-5856-bac6-e0768de002de",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT1440M",
+      "ingredients": [
+        "Für das Ofengemüse:",
+        "250 g Blumenkohl",
+        "3 Möhren",
+        "2 Paprikaschoten",
+        "10 Rosenkohl-Röschen",
+        "3 Zwiebeln",
+        "Olivenöl",
+        "Salz",
+        "Pfeffer",
+        "Für den veganen Labneh:",
+        "1000 g pflanzlicher Joghurt (ungesüßt)",
+        "2 Knoblauchzehen",
+        "50 g Haselnüsse",
+        "Olivenöl",
+        "Salz",
+        "Zum Toppen:",
+        "Olivenöl",
+        "frische Petersilie",
+        "Zaatar",
+        "Zitronenabrieb",
+        "Zum Servieren:",
+        "Wasa Delicate Rounds Sesam & Meersalz"
+      ],
+      "instructions": [
+        "Für den veganen Labneh pflanzlichen Joghurt leicht salzen. Eine größere, tiefe Schüssel nehmen und ein feines Sieb darauf legen. Das Sieb mit einem sauberen Küchentuch bedecken. Den leicht gesalzenen pflanzlichen Joghurt in das Sieb geben, also direkt auf das Tuch. Das Ganze in den Kühlschrank stellen und ca. 24 Stunden stehen lassen. Die Konsistenz sollte am Ende einem cremigen Frischkäse entsprechen. Sollte dies nach 24 Stunden noch nicht so sein, noch mal mehrere Stunden oder einen weiteren Tag im Kühlschrank lassen. Spätestens nach 48 Stunden sollte der vegane Joghurt aber ausreichend Flüssigkeit verloren haben.",
+        "Den Backofen auf 200°C Umluft vorheizen und in der Zwischenzeit das Ofengemüse zurechtschneiden. Blumenkohl in kleinere Stücke, Möhren in breite Schreiben und Paprikaschoten in Streifen schneiden. Rosenkohl putzen und halbieren. Zwiebeln schälen und vierteln.",
+        "Das Gemüse auf dem Backblech verteilen, mit Olivenöl beträufeln und mit Salz und Pfeffer würzen. Im vorgeheizten Ofen ca. 30-40 Minuten backen, bis das Gemüse weich ist, aber noch einen leichten Biss hat.",
+        "Während das Gemüse im Ofen ist, den abgehangenen pflanzlichen Joghurt aus dem Kühlschrank nehmen und auf einem großen Servierteller verstreichen.",
+        "Knoblauch schälen und in dünne Scheiben schneiden. Etwas Olivenöl in eine Pfanne oder einen Stieltopf geben und die Knoblauchscheiben direkt dazugeben. Ca. 5 Minuten bei kleiner Hitze erwärmen, bis die Knoblauchscheiben goldbraun sind. Parallel in einer fettfreien Pfanne die Haselnüsse rösten. Anschließend grob hacken. Petersilie zum Servieren fein hacken.",
+        "Veganen Labneh mit Olivenöl beträufeln und mit gehackter Petersilie, Zaatar, goldbraunen Knoblauchscheiben, frischem Zitronenabrieb und gerösteten Haselnüssen bestreuen. Das Ofengemüse sowie die Wasa Delicate Rounds Sesam & Meersalz dazu servieren. Die Knäckebrotscheiben können entweder dazu gegessen werden oder mit dem veganen Labneh bestrichen werden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

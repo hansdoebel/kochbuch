@@ -1,0 +1,129 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/tteokbokki",
+  "recipes": [
+    {
+      "name": "Tteokbokki (Hot and spicy rice cakes)",
+      "source_url": "https://www.maangchi.com/recipe/tteokbokki",
+      "recipe_id": "/recipe/tteokbokki#sso/recipe/101",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "3–4 servings",
+      "prep_time": null,
+      "cook_time": "P0DT0H30M0S",
+      "total_time": "P0DT0H30M0S",
+      "ingredients": [
+        "1 pound (about 450 g) of cylinder shaped rice cake (tteok), fresh or frozen, bought or homemade. (Use a little more if you’re not adding hard boiled eggs and fish cakes)",
+        "4 cups of water",
+        "7 large size dried anchovies, with heads and intestines removed",
+        "One 6 × 8-inch (15 × 20 cm) piece of dried kelp",
+        "⅓ cup hot pepper paste (gochujang)",
+        "1 tablespoon Korean hot pepper flakes (gochugaru) aka “Korean chili flakes”",
+        "1 tablespoon sugar",
+        "3 green onions (scallions), cut into 3 inch long pieces",
+        "2 hard boiled eggs, shelled (optional)",
+        "½ pound (about 225 g) fish cakes, cut into bite-sized pieces (optional)"
+      ],
+      "instructions": [
+        "If using frozen rice cakes, thaw them and soak them in cold water to soften them before cooking. Freshly made rice cakes will soften faster. Add the water, dried anchovies, and dried kelp to a shallow pot or pan. Boil for 15 minutes over medium high heat without the lid.",
+        "Combine gochujang (hot pepper paste), gochugaru (hot pepper flakes), and sugar in a small bowl. Remove the anchovies and kelp from the pot. You should have about 2½ cups of stock. If you have less, add water to bring it to about 2½ cups before adding the rice cake. Add the rice cake, the spicy mixture in the bowl, the green onion, and the optional fish cakes and hard boiled eggs.",
+        "When it starts to boil, stir gently with a wooden spoon. Let it simmer and keep stirring it until the rice cake turns soft and the sauce thickens and looks shiny. It should take about 10 to 15 minutes. If the rice cake is not soft enough in that time, add more water and continue stirring until it softens.",
+        "Remove from the heat and serve hot."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 3–4"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound (about 450 g) of cylinder shaped rice cake (tteok), fresh or frozen, bought or homemade. (Use a little more if you’re not adding hard boiled eggs and fish cakes)"
+        },
+        {
+          "tag": "li",
+          "text": "4 cups of water"
+        },
+        {
+          "tag": "li",
+          "text": "7 large size dried anchovies, with heads and intestines removed"
+        },
+        {
+          "tag": "li",
+          "text": "One 6 × 8-inch (15 × 20 cm) piece of dried kelp"
+        },
+        {
+          "tag": "li",
+          "text": "⅓ cup hot pepper paste (gochujang)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon Korean hot pepper flakes (gochugaru) aka “Korean chili flakes”"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon sugar"
+        },
+        {
+          "tag": "li",
+          "text": "3 green onions (scallions), cut into 3 inch long pieces"
+        },
+        {
+          "tag": "li",
+          "text": "2 hard boiled eggs, shelled (optional)"
+        },
+        {
+          "tag": "li",
+          "text": "½ pound (about 225 g) fish cakes, cut into bite-sized pieces (optional)"
+        },
+        {
+          "tag": "p",
+          "text": "Before you start: If using frozen rice cakes, thaw them and soak them in cold water to soften them before cooking. Freshly made rice cakes will soften faster."
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "p",
+          "text": "Cooking time: 25–30 minutes (15 minutes for the anchovy broth and 10–15 minutes for the tteokbokki)"
+        },
+        {
+          "tag": "li",
+          "text": "Add the water, dried anchovies, and dried kelp to a shallow pot or pan."
+        },
+        {
+          "tag": "li",
+          "text": "Boil for 15 minutes over medium high heat without the lid."
+        },
+        {
+          "tag": "li",
+          "text": "Combine gochujang (hot pepper paste), gochugaru (hot pepper flakes), and sugar in a small bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Remove the anchovies and kelp from the pot. You should have about 2½ cups of stock. If you have less, add water to bring it to about 2½ cups before adding the rice cake. Add the rice cake, the spicy mixture in the bowl, the green onion, and the optional fish cakes and hard boiled eggs."
+        },
+        {
+          "tag": "li",
+          "text": "When it starts to boil, stir gently with a wooden spoon. Let it simmer and keep stirring it until the rice cake turns soft and the sauce thickens and looks shiny. It should take about 10 to 15 minutes. If the rice cake is not soft enough in that time, add more water and continue stirring until it softens."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and serve hot. If you have any leftovers, keep them in the fridge and reheat them when you want to eat. They won’t be as good as when you first made them, but not bad. You should finish them in a few days, but it’s best to eat them all at once right after you make them."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

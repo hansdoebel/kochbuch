@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-gruenkohlsalat-mit-sesamdressing-und-knusprigen-gruenkohl-chips",
+  "recipes": [
+    {
+      "name": "Veganer Grünkohlsalat mit Sesamdressing und knusprigen Grünkohl-Chips",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-gruenkohlsalat-mit-sesamdressing-und-knusprigen-gruenkohl-chips",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-gruenkohlsalat-mit-sesamdressing-und-knusprigen-gruenkohl-chips#recipe-948249e0-9a08-5d96-ab70-d4c72fc039ee",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen (als Hauptgang) oder 4 Portionen (als Vorspeise)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Für die Grünkohl-Chips",
+        "150 g Grünkohl",
+        "1 EL Sesamöl (oder Olivenöl)",
+        "1 EL Sesam",
+        "0.25 TL Knoblauchpulver",
+        "Salz",
+        "Für den Salat",
+        "150 g Grünkohl",
+        "200 g Rotkohl",
+        "100 g Fenchel",
+        "150 g Weintrauben",
+        "50 g Mandelsplitter",
+        "Für das Sesamdressing",
+        "3 EL Olivenöl",
+        "2 EL Tahin",
+        "1 EL Apfelessig",
+        "1 TL Ahornsirup",
+        "1 EL Orangensaft",
+        "Salz",
+        "Pfeffer",
+        "-"
+      ],
+      "instructions": [
+        "Backofen auf 150 °C (Ober-/Unterhitze) vorheizen. Für die knusprigen Grünkohl-Chips die Stiele des Grünkohls von den Blättern trennen. Die Blätter in kleinere Stücke zupfen, waschen und gründlich trocknen. Danach in eine Schüssel geben, mit Sesamöl beträufeln und das Öl circa 5 Minuten gut einmassieren, sodass der Grünkohl weicher wird. Sesam, Knoblauchpulver und eine gute Prise Salz dazugeben und vermengen. Die Grünkohlblätter auf einem Backblech verteilen und circa 15 Minuten rösten, bis sie knusprig sind. Nach der Hälfte der Backzeit gern einmal „wenden“.",
+        "Währenddessen für den Salat die restlichen harten Grünkohlstiele von den Blättern trennen und die Grünkohlblätter in kleinere Stücke zupfen, waschen und trocknen. Rotkohl und Fenchel in dünne Streifen schneiden und alle drei Zutaten in eine große Schüssel geben. Weintrauben halbieren und beiseitelegen.",
+        "Mandelsplitter in einer fettfreien Pfanne rösten, bis sie goldbraun sind.",
+        "Für das Dressing Olivenöl, Tahin, Apfelessig, Ahornsirup und Orangensaft verrühren und mit Salz und Pfeffer abschmecken.",
+        "Frischen Grünkohl, Rotkraut und Fenchel mit dem Dressing vermengen und das Dressing mindestens 5 Minuten gut einmassieren, damit der Grünkohl weicher wird. Den Salat auf Teller geben und die Weintrauben, Mandelsplitter und knusprigen Grünkohl-Chips darüber verteilen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

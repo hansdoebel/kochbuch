@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-zucchinipuffer-mit-whipped-feta-dip",
+  "recipes": [
+    {
+      "name": "Vegane Zucchinipuffer mit Whipped Feta Dip",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-zucchinipuffer-mit-whipped-feta-dip",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-zucchinipuffer-mit-whipped-feta-dip#recipe-d77366f8-699b-5935-9a65-b88a705715d4",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für die Zucchinipuffer:",
+        "450 g Zucchini",
+        "2 Zwiebeln",
+        "100 g Paniermehl",
+        "50 g Reismehl",
+        "3 EL Hefeflocken",
+        "Salz",
+        "Pfeffer",
+        "Für den veganen Whipped Feta Dip:",
+        "1 Knoblauchzehe",
+        "150 g veganer Feta",
+        "100 g veganer Joghurt (ungesüßt)",
+        "0.5 Zitrone",
+        "0.5 TL Rosmarin",
+        "weißer Pfeffer",
+        "Harissa (optional)",
+        "Für den Gurkensalat:",
+        "1 Salatgurke",
+        "2 Frühlingszwiebeln",
+        "20 g frische Kräuter (Petersilie, Dill, Schnittlauch)",
+        "1 Zitrone",
+        "Olivenöl",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Für den Gurkensalat Salatgurke klein schneiden, Frühlingszwiebeln in feine Röllchen schneiden und Kräuter fein hacken. In einer Schüssel alles miteinander vermengen und mit Zitronensaft, Olivenöl, Salz und Pfeffer abschmecken. Den Gurkensalat beiseitestellen und ziehen lassen.",
+        "Für den veganen Whipped Feta Dip Knoblauch schälen, fein hacken und in einem Zerkleinerer mit veganem Feta und Joghurt mixen. Mit Zitronensaft, Rosmarin und weißem Pfeffer abschmecken und beiseitestellen.",
+        "Für die Zucchinipuffer Zucchini reiben und mithilfe eines sauberen Küchentuchs ausdrücken, sodass möglichst viel Flüssigkeit austritt.",
+        "Zwiebeln schälen und in Streifen schneiden. In einer großen Schüssel Zucchini, Zwiebeln, Paniermehl, Reismehl, Hefeflocken, Salz und Pfeffer vermengen und gut mit den Händen kneten.",
+        "Eine Pfanne mit neutralem Pflanzenöl erhitzen und aus der Masse Puffer formen. Nach und nach die Puffer von beiden Seiten goldbraun braten. Die Zucchinipuffer mit veganem Whipped Feta Dip, Gurkensalat und optional etwas Harissa servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

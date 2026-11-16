@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-nudelsalat-mit-gruenem-spargel-erdbeeren",
+  "recipes": [
+    {
+      "name": "Veganer Nudelsalat mit grünem Spargel und Erdbeeren",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-nudelsalat-mit-gruenem-spargel-erdbeeren",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-nudelsalat-mit-gruenem-spargel-erdbeeren#recipe-c2995550-4a66-58f4-a597-4cfd42c6cf71",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen (1 Salatschüssel)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Für den Salat:",
+        "250 g Nudeln",
+        "400 g Erdbeeren",
+        "400 g grüner Spargel",
+        "100 g Feldsalat",
+        "50 g gehobelte Mandeln",
+        "Salz",
+        "Pfeffer",
+        "Für das Dressing:",
+        "100 g Tahin (Sesammus)",
+        "50 ml Olivenöl",
+        "1 Zitrone (Saft)",
+        "Salz",
+        "Pfeffer",
+        "Agavendicksaft"
+      ],
+      "instructions": [
+        "Gesalzenes Wasser in einem Topf zum Kochen bringen und die Nudeln nach Packungsanweisung al dente kochen.",
+        "In der Zwischenzeit den grünen Spargel waschen, die holzigen Enden kürzen und die Spargelstangen in mundgerechte Stücke schneiden.",
+        "Eine Pfanne mit etwas Pflanzenöl erhitzen und die Spargelstücken darin ca. 5-6 Minuten anbraten, bis sie leicht braun werden. Gut salzen und pfeffern und beiseitestellen.",
+        "Den Feldsalat waschen. Die Erdbeeren ebenfalls waschen,den Strunk entfernen und alle Erdbeeren in Scheiben schneiden.Die gehobelten Mandeln in einer kleinen fettfreien Pfanne goldbraun rösten.",
+        "Für das Dressing Tahin, Olivenöl und Zitronensaft vermengen und mit Salz, Pfeffer und Agavendicksaft abschmecken.",
+        "Tipp: Wenn ihr sehr dunkles Sesammus habt, gebt einfach einen Schuss Pflanzenmilch hinzu. Das gibt eine frischere Optik und das Dressing wird noch ein wenig cremiger.",
+        "In einer Salatschüssel den Feldsalat mit den Erdbeeren, der Pasta und dem Spargel vermengen und mit den Mandelscheiben und dem Dressing servieren.",
+        "Tipp: Für eine nussfreie Variante des Rezepts einfach die Mandeln weglassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

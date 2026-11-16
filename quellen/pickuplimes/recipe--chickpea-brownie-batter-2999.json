@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/chickpea-brownie-batter-2999",
+  "recipes": [
+    {
+      "name": "Chickpea Brownie Batter",
+      "source_url": "https://www.pickuplimes.com/recipe/chickpea-brownie-batter-2999",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT10M",
+      "ingredients": [
+        "1½ cup cooked chickpeas",
+        "¼ cup natural peanut butter",
+        "¼ cup sweetened condensed coconut milk",
+        "¼ cup Dutch-process cocoa powder",
+        "3 Tbsp unsweetened soy milk",
+        "¼ tsp pure vanilla extract",
+        "¼ tsp salt",
+        "0.705 oz dairy-free dark chocolate"
+      ],
+      "instructions": [
+        "In a food processor, combine the chickpeas, nut butter, condensed coconut milk, cocoa powder, milk, vanilla, and salt.",
+        "Blend until completely smooth. For the best texture, it’s better to slightly over-blend than under-blend.",
+        "Taste and add more peanut butter if you'd like a richer mouthfeel, or more sweetened condensed coconut milk if you'd like it sweeter. Remove the blades and fold in the chocolate.",
+        "Enjoy right away or chill briefly for a firmer, fudgier texture. Top with more chopped chocolate if desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We use 50 - 60% cacao chocolate for a balanced sweetness. Darker varieties (70%+) can make the result too bitter.",
+    "Storage Store in an airtight container in the fridge for up to 3 days. The batter firms up when chilled; let it sit at room temperature for a few minutes before serving."
+  ]
+}

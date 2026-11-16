@@ -1,0 +1,70 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-halloumi-brote-mit-tzatziki-und-gurken-minz-salat",
+  "recipes": [
+    {
+      "name": "Vegane Halloumi-Brote mit Tzatziki und Gurken-Zwiebel-Minz-Salat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-halloumi-brote-mit-tzatziki-und-gurken-minz-salat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-halloumi-brote-mit-tzatziki-und-gurken-minz-salat#recipe-07bcc5c8-1fcb-55fd-8ebb-2a622a89936d",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT160M",
+      "ingredients": [
+        "Für die Brote:",
+        "1 Brotmischung (z. B. Wunderbrød Original von Bauck Mühle)",
+        "1 Gurke",
+        "15 g Minze",
+        "1 rote Zwiebel",
+        "1 Granatapfel",
+        "Olivenöl",
+        "Zitrone (Saft)",
+        "Salz",
+        "Pfeffer",
+        "Für den veganen Halloumi:",
+        "400 g Tofu (z. B. Naturtofu, fermentierter Tofu oder frittierter Tofu)",
+        "4 EL Olivenöl",
+        "1 Zitrone (Saft)",
+        "2 EL Hefeflocken",
+        "1.5 TL getrockneter Thymian",
+        "1 TL getrockneter Oregano",
+        "0.5 TL getrockneter Rosmarin",
+        "1 Knoblauchzehe",
+        "Salz",
+        "Pfeffer",
+        "heißes Wasser",
+        "Für die Hot-Honey-Variante (optional):",
+        "Ahornsirup oder Agavendicksaft",
+        "Chiliflocken",
+        "Für den veganen Tzatziki:",
+        "200 g veganer Skyr",
+        "0.5 Gurke",
+        "2 Knoblauchzehen",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "Pflanzenöl zum Anbraten"
+      ],
+      "instructions": [
+        "Zuerst das Brot vorbereiten, da es quellen muss.",
+        "Für die schnelle Zubereitung den Packungsinhalt mit 550 Milliliter kochendem Wasser in einer Schüssel vermengen und 20 Minuten quellen lassen. Danach in eine gefettete Kastenform (25 Zentimeter x 10 Zentimeter) geben und die Masse gut andrücken und glatt streichen. Backofen auf 200 °C (Ober-/Unterhitze) vorheizen und das Brot 70 Minuten backen. Vor dem Anschneiden abkühlen lassen.",
+        "Für die klassische Zubereitung den Packungsinhalt mit 500 Milliliter kaltem Wasser gründlich verrühren und mindestens 3 Stunden oder über Nacht im Kühlschrank quellen lassen. Anschließend in eine gefettete Kastenform (25 Zentimeter x 10 Zentimeter) geben und die Masse gut andrücken und glatt streichen. Die Kastenform in den kalten Ofen stellen und ohne Vorheizen bei 200 °C (Ober-/Unterhitze) 80 Minuten backen. Vor dem Anschneiden abkühlen lassen.",
+        "Für den veganen Halloumi Tofu in dickere Scheiben schneiden und beiseitelegen. Für die Marinade Olivenöl, Zitronensaft, Hefeflocken, getrocknete Kräuter, eine geriebene Knoblauchzehe, Salz und Pfeffer in einer Schüssel verrühren. So viel heißes Wasser dazugeben, bis die Marinade glatt ist. Die Tofuscheiben in die Marinade legen, gut vermengen und mindestens eine Stunde darin einlegen.",
+        "Für den Tzatziki veganen Skyr in eine Schüssel geben. Die Gurke reiben und danach gründlich in einem sauberen Küchentuch auswringen, damit sie so viel Wasser wie möglich verliert. Die geriebene Gurke in die Schüssel geben, Knoblauchzehen reiben und dazugeben und alles mit Salz und Pfeffer abschmecken. Bis zum Servieren in den Kühlschrank stellen.",
+        "Für den Salat die Gurke klein schneiden, Minze grob hacken und die Zwiebel schälen, halbieren und in dünne Scheiben schneiden. Alles in einer Schüssel vermengen und mit etwas Olivenöl, Zitronensaft, Salz und Pfeffer abschmecken. Granatapfelkerne herauslösen und beiseitestellen.",
+        "Pflanzenöl in einer (Grill-)Pfanne erhitzen und die Tofuscheiben darin von beiden Seiten anbraten. Nach Wunsch für die Hot-Honey-Variante danach einen Schuss Ahornsirup oder Agavendicksaft, Chiliflocken dazugeben und die Tofuscheiben darin kurz erwärmen.",
+        "Die Brotscheiben nach Wunsch toasten, dann mit veganem Tzatziki, dem Salat, veganen Tofuscheiben, Granatapfelkernen und frischen Minzblättern belegen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

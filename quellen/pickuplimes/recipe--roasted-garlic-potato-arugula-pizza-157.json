@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/roasted-garlic-potato-arugula-pizza-157",
+  "recipes": [
+    {
+      "name": "Roasted Garlic, Potato & Arugula Pizza",
+      "source_url": "https://www.pickuplimes.com/recipe/roasted-garlic-potato-arugula-pizza-157",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT15M",
+      "total_time": "PT25M",
+      "ingredients": [
+        "2 medium ready-made pizza crust",
+        "2 tsp olive oil",
+        "8 roasted garlic clove",
+        "2 small potato",
+        "1¼ tsp dried thyme",
+        "1 pinch salt",
+        "1 cup arugula",
+        "5 oil-packed sun-dried tomatoes",
+        "⅓ cup kalamata olives",
+        "3 Tbsp toasted pine nuts",
+        "1 Tbsp tahini",
+        "1 Tbsp sriracha",
+        "1 Tbsp fresh lemon juice",
+        "1 tsp maple syrup"
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F (180°C)*. Place the pizza crust on a baking tray and lightly coat with oil.",
+        "Place the roasted garlic onto the crust and mash it using the back of a fork, distributing it evenly over the crust.",
+        "To ensure the potatoes cook as quickly as the crust, slice them very thinly and evenly. Then layer them over the garlicky crust.",
+        "Sprinkle the thyme and salt over the pizza.",
+        "Bake on the centre rack of the oven for 13 to 15 minutes, or until the crust is golden and the potatoes are cooked through.",
+        "Meanwhile, combine the sauce ingredients in a small bowl.",
+        "Top the baked pizza with arugula, sun-dried tomatoes, olives, and pine nuts. Drizzle over the sauce, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Best enjoyed fresh out of the oven. Store leftovers in the fridge for up to 1 day."
+  ]
+}

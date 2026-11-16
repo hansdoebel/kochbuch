@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-camembert",
+  "recipes": [
+    {
+      "name": "Veganer Camembert",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-camembert",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-camembert#recipe-8279cc3a-64ff-50de-9665-6c79723733b8",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 vegane Camembert",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30240M",
+      "ingredients": [
+        "300 g Cashewkerne",
+        "320 g Wasser",
+        "1/16 TL Mesophilic Kulturen",
+        "1/16 TL Penicillium candium flüssig (oder Puder)",
+        "0.5 TL Vzyme",
+        "2 TL Salz"
+      ],
+      "instructions": [
+        "Cashews und Wasser zu einer sämigen Mischung pürieren.",
+        "Die Raumtemperatur sollte zwischen 20-25°C betragen. Mesophilic Kulturen und Penicillium candium auf die pürierte Mischung streuen und ca. 5 Minuten ruhen lassen. Danach Vzyme dazugeben und alles noch mal gut durch pürieren.",
+        "Die Mischung in eine Schüssel geben, mit einem nassen Tuch abdecken und ca. 4 Stunden bei Raumtemperatur stehen und fermentieren lassen.",
+        "Die Käsetücher abkochen, auswringen und danach in die Käseformen legen. Die fermentierte Cashewmischung auf die beiden Formen aufteilen. Mit dem Käsetuch gut bedecken und von oben etwas pressen, damit die Oberseite glatt und flach wird. Die Käseformen in den Kühlschrank stellen und dort ca. 24 Stunden ruhen lassen.",
+        "Nach 24 Stunden den Cashewkäse aus den Käsetüchern wickeln und auf eine Käsematte legen. Jede Seite mit jeweils 0.5 TL Salz bestreuen und den Käse ca. 1 Stunde bei Raumtemperatur trocknen lassen.",
+        "Nach dieser Stunde den Cashewkäse unbedeckt in den Kühlschrank legen und weitere ca. 12 Stunden trocknen lassen, bis er trocken genug zum Anfassen ist. Nach der Hälfte der Zeit den Cashewkäse einmal wenden.",
+        "Nun den Cashewkäse in eine Reifeverpackung wickeln (oder in einen Plastikbehälter legen). Er entwickelt nun über 2 Wochen Schimmel. Dafür sollte er im Kühlschrank stets ca. 7°-12°C haben. Alle ein-zwei Tage den Käse aus dem Papier wickeln und auf Feuchtigkeit testen. Jede feuchte Stelle mit Papiertüchern trocken tupfen, auch das Papier trocken wischen. Den Käse wieder darin einwickeln und zurück in den Kühlschrank legen. Wenn ihr ihn in einem Behälter habt, dann wischt auch den Behälter trocken, falls nötig.",
+        "Nach ca. 2 Wochen sollte der Cashewkäse komplett mit Schimmel überzogen sein. Erneut mit einem Papiertuch trocknen und nun in Camembertpapier einschlagen. Bis zu 1 Woche weiter im Kühlschrank reifen lassen, damit sich der Geschmack intensiviert."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kuerbisgnocchi-mit-cremiger-spinat-frischkaese-sosse",
+  "recipes": [
+    {
+      "name": "Vegane Kürbisgnocchi mit cremiger Spinat-Frischkäse-Soße",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kuerbisgnocchi-mit-cremiger-spinat-frischkaese-sosse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kuerbisgnocchi-mit-cremiger-spinat-frischkaese-sosse#recipe-f4c18dfd-2e81-5df7-a305-2d9224597ee0",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für die Gnocchi:",
+        "300 g Hokkaido-Kürbis",
+        "250 g mehlig kochende Kartoffeln",
+        "200 g Mehl",
+        "3 EL Kartoffelstärke",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "Für die vegane Spinat-Frischkäse-Soße:",
+        "350 g Tiefkühl-Spinat",
+        "150 g veganer Frischkäse (z. B. LUVE Streichglück Natur)",
+        "1 Zwiebel",
+        "2 Knoblauchzehen",
+        "1 EL Hefeflocken",
+        "50 g Cashewnüsse",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "Olivenöl zum Braten"
+      ],
+      "instructions": [
+        "Ein ausreichend großes Stück vom Kürbis abschneiden, entkernen, schälen und in grobe Stücke schneiden. Mehlig kochende Kartoffeln ebenfalls schälen und in grobe Stücke schneiden. Beides in einen Topf geben, mit Wasser bedecken und salzen. Das Wasser einmal aufkochen lassen, danach die Hitze reduzieren und Kürbis und Kartoffeln ca. 20 Minuten kochen, bis man ganz leicht mit einer Gabel hineinpiksen kann.",
+        "In der Zwischenzeit für die Soße Zwiebel und Knoblauch schälen und fein würfeln. Cashewnüsse hacken und erstmal beiseitelegen. Etwas Olivenöl in einer Pfanne erhitzen und Zwiebeln und Knoblauch bei kleiner Hitze anschwitzen, bis die Zwiebeln glasig sind. Mit Salz und Pfeffer würzen. Den Tiefkühlspinat dazugeben, einen Deckel auf die Pfanne legen und solange erhitzen, bis der Spinat aufgetaut ist.",
+        "Danach den Deckel von der Pfanne nehmen und den veganen Frischkäse einrühren. Die Soße erneut mit Salz, Pfeffer und Muskat abschmecken und nun auf kleiner Hitze warm halten.",
+        "Die Kartoffeln und der Kürbis sollten nun weich sein. Das Wasser abgießen und Kürbis und Kartoffeln zu einem Püree stampfen. Mit Salz, Pfeffer und Muskat abschmecken. Kartoffelstärke und die Hälfte des Mehls dazugeben und einarbeiten, danach den Teig auf eine bemehlte Arbeitsfläche geben und das restliche Mehl nach und nach dazugeben, bis der Teig nicht mehr klebt – es kann auch sein, dass ihr mehr/weniger Mehl als angegeben benötigt, geht da am besten nach Gefühl.",
+        "Den Teig vierteln und jeweils zu einer dünnen Rolle formen. Diese jeweils in ca. 1-2 cm breite Stücke schneiden. So habt ihr bereits Gnocchi – wenn ihr das typische Muster kreieren möchtet, müsst ihr die Gnocchi nur noch über die Zinken einer Gabel rollen. Auch hier gilt: wenn der Teig etwas klebt: mit Mehl bestäuben!",
+        "Gesalzenes Wasser in einem großen Topf zum Kochen bringen. Die Gnocchi portionsweise ins siedende Wasser geben und garen, bis sie an der Oberfläche schwimmen. Danach aus dem Wasser schöpfen und direkt in die Pfanne zur cremigen Spinatsoße geben – es ist kein Problem, wenn dabei etwas vom Kochwasser in die Pfanne kommt, denn so bindet sich die Soße gleich noch besser (sollte eure Soße zu dick sein, könnt ihr nach Bedarf auch mehr vom Kochwasser dazugeben). Sind alle Gnocchi in der Soße, müsst ihr nur noch die gehackten Cashewnüsse kurz unterrühren.",
+        "Wer mag, serviert die Gnocchi noch mit ein paar zusätzlichen Klecksen veganem Frischkäse – für Cremigkeit pur!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

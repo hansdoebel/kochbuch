@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-tahini-kekse",
+  "recipes": [
+    {
+      "name": "Vegane Tahini-Kekse",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-tahini-kekse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-tahini-kekse#recipe-d4f86c57-2e14-585b-8371-6de275048463",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 25 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT85M",
+      "ingredients": [
+        "250 g Mehl",
+        "75 g Tahini (Sesampaste)",
+        "150 g vegane Butter",
+        "0.25 TL Salz",
+        "125 g Rohrohrzucker",
+        "100 g schwarzer Sesam",
+        "100 g heller Sesam",
+        "Meersalzflocken"
+      ],
+      "instructions": [
+        "Mehl, Rohrohrzucker und Salz in einer Schüssel verrühren. Vegane Butter in kleinen Würfeln und zusammen mit Tahini dazugeben. Alles zu einem glatten Teig verrühren und den Teig zu einer Rolle formen.",
+        "Hellen und dunklen Sesam auf Frischhaltefolie verteilen. Die Teigrolle darin wälzen, damit sie rundum mit Sesam bedeckt ist. In Frischhaltefolie gewickelt ca. 60 Minuten im Kühlschrank ruhen lassen.",
+        "Den Backofen auf 180°C vorheizen. Die Teigrolle in Scheiben schneiden und auf ein mit Backpapier ausgelegtes Backblech legen. Wer mag, streut ein paar Meersalzflocken darüber. Ca. 15 Minuten backen und vor dem Servieren abkühlen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

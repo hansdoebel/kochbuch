@@ -1,0 +1,62 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/restaurant-style-butter-chicken",
+  "recipes": [
+    {
+      "name": "Restaurant-Style Butter Chicken",
+      "source_url": "https://app.cookwell.com/recipe/restaurant-style-butter-chicken",
+      "recipe_id": "https://app.cookwell.com/recipe/restaurant-style-butter-chicken",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT1H",
+      "ingredients": [
+        "Chicken Thighs, ~300 g",
+        "Yogurt, 30 g",
+        "Salt, 4 g",
+        "Chili Powder, 2 g",
+        "Cumin, 2 g",
+        "Garam Masala, 2 g",
+        "Garlic, 2 cloves",
+        "Fresh ginger, 1/2\" knob",
+        "Lime juice, 1/2 lime",
+        "Cooking oil, 5 g",
+        "Cooking oil, 28 g",
+        "Tomatoes, 400 g",
+        "Cashews, 50 g",
+        "Garlic, 1 clove",
+        "Fresh ginger, 1/2\" knob",
+        "Onions, 1/4 onion",
+        "Chili Powder, 4 g",
+        "Garam Masala, 2 g",
+        "Sugar, 2 g",
+        "Turmeric powder, 1 g",
+        "Salt, to taste",
+        "Water, as needed",
+        "Heavy cream, 45 g",
+        "Butter, 28 g",
+        "Fenugreek leaves, 2 g",
+        "Basmati Rice",
+        "Naan",
+        "Cilantro, for garnish"
+      ],
+      "instructions": [
+        "After chopping the chicken thighs into cubes, add them to a bowl with the chili powder, ground cumin, garam masala powder, salt, crushed garlic, ginger, lime, and yogurt. Mix to combine and set aside for 15 minutes to let marinate.",
+        "When ready to cook, set a cast iron on medium-high heat, add a light drizzle of oil. Sear the chicken pieces until browned and cooked through. Remove them from the pan and set aside.",
+        "Set a fresh pan over medium heat. Once hot, add the cooking oil or butter, and the onions. Sauté for 2-3 minutes. Add the tomatoes, cashews, garlic, ginger, garam masala, chili powder, a small pinch of salt, and a sprinkle of turmeric. Let it simmer for 10 minutes, stirring occasionally. Add some water to thin the mixture, enough to blend well in the next step, (about a cup). Stir to combine.",
+        "Pour the sauce into a food processor or blender and pulse until completely smooth. Over the pan, pour and push the sauce through a metal strainer back to the pan. Turn the heat on medium. Add the butter, heavy cream, and cooked chicken. Stir the sauce and let simmer until it thickens to your liking, usually about 6-10 minutes.",
+        "Crush the fenugreek leaves (kasoor methi) between your hands and sprinkle a pinch over top of the sauce. Turn off the heat. Taste and adjust as needed with salt, spices, or a bit more butter for texture. Serve the butter chicken with rice, naan, or vegetables. Garnish with cilantro, and optionally, an extra drizzle of heavy cream."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

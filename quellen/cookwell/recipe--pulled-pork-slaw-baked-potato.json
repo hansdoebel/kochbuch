@@ -1,0 +1,54 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/pulled-pork-slaw-baked-potato",
+  "recipes": [
+    {
+      "name": "Pulled Pork & Slaw Baked Potato",
+      "source_url": "https://app.cookwell.com/recipe/pulled-pork-slaw-baked-potato",
+      "recipe_id": "https://app.cookwell.com/recipe/pulled-pork-slaw-baked-potato",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT2H",
+      "ingredients": [
+        "Russet potatoes, 2-3",
+        "Neutral oil, a drizzle",
+        "Salt, a sprinkle",
+        "Pork Chops, 450 g",
+        "Salt, 5 g",
+        "Neutral oil, 10 g",
+        "Water, to submerge",
+        "Barbecue Sauce, for tossing",
+        "Green cabbage, 1/8",
+        "Carrots, 1",
+        "Jalapeños, 1",
+        "Cilantro, handful",
+        "Mayonnaise, a spoonful",
+        "Celery Seeds, a sprinkle",
+        "Salt, to taste",
+        "Black Pepper, to taste",
+        "Vinegar, to taste",
+        "Low-fat sour cream",
+        "Barbecue Sauce"
+      ],
+      "instructions": [
+        "Cut the pork into cubes. Set a Dutch oven or heavy pot over medium-high heat. Add the oil, then add the pork and salt. Add enough water to come about three-quarters of the way up the pork. Bring to a simmer, then cover, reduce heat, and braise for about 90 minutes, or until the pork is tender enough to shred.",
+        "Meanwhile, cook the potato. Poke several holes all over the potato with a fork. Microwave it for 3 minutes to give it a head start. Rub the potato with a little oil and salt, then transfer it to a 425°F (220°C) oven and bake for about 30-45 minutes, or until the skin is crisp and the center is tender.",
+        "Once the pork is tender, remove the lid and continue simmering until the water evaporates. Let the remaining fat in the pot start browning the pork pieces. Once well colored, remove the pork from the pot, allow to cool, and shred it with a fork or your hands. Set aside.",
+        "Thinly slice the cabbage and add it to a bowl with a small sprinkle of salt. Mix to lightly season and soften the cabbage. Add the julienned carrot, diced jalapeño, chopped cilantro, celery seed, vinegar, and mayo. Toss until the slaw is evenly coated, then taste and adjust with more salt, vinegar, mayo, or celery seed as desired.",
+        "Return the shredded pork to the pan over low heat. Add just enough BBQ sauce to coat the pulled pork. Mix until everything is warm, glossy, and evenly coated in sauce.",
+        "Slice into the top of the baked potato and fluff the interior with a fork. Add the low-fat sour cream to the inside and mix it slightly into the potato so the center becomes creamy. Pile on a large serving of hot Carolina BBQ pork, then top with the jalapeño cilantro slaw. Finish with an extra drizzle of Carolina BBQ sauce and serve immediately."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-overnight-oats-mit-selbstgemachtem-apfelmus",
+  "recipes": [
+    {
+      "name": "Vegane Overnight Oats mit selbstgemachtem Apfelmus",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-overnight-oats-mit-selbstgemachtem-apfelmus",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-overnight-oats-mit-selbstgemachtem-apfelmus#recipe-bdf808a7-bbd4-5111-a48b-1d46bb937add",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "1 TL Zimt",
+        "100 g pflanzlicher Joghurt",
+        "50 g Nussmix (Pistazien, Haselnüsse, Walnüsse etc.)",
+        "Overnight Oats",
+        "150 g Echte Kölln Kernige Haferflocken",
+        "300 ml Kölln Haferdrink",
+        "Apfelmus",
+        "3 Äpfel",
+        "50 ml Wasser",
+        "0.5 Zitrone"
+      ],
+      "instructions": [
+        "Overnight Oats",
+        "In einem Glas oder einer Schale die Haferflocken und den Haferdrink vermischen und über Nacht in den Kühlschrank stellen. Pro Portion 75 g Haferflocken und 150 ml Haferdrink nehmen.",
+        "Apfelmus",
+        "Die Äpfel waschen, ggf. schälen, entkernen, klein schneiden und in einen Topf geben.",
+        "Das Wasser und den Zitronensaft hinzugeben und auf mittlerer Stufe etwa 10 Minuten köcheln lassen, bis die Äpfel mit einer Gabel zu Brei verarbeitet werden können. Bei Wunsch das Apfelmus pürieren.",
+        "Die Overnight Oats mit pflanzlichem Joghurt, selbstgemachtem Apfelmus und Nüssen servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

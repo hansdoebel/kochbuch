@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/rote-beete-mango-tacos",
+  "recipes": [
+    {
+      "name": "Rote-Beete-Mango-Tacos",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/rote-beete-mango-tacos",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/rote-beete-mango-tacos#recipe-38d4da99-3917-5eae-8a99-47424697320e",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "6 weiche Tacos",
+        "1 Mango",
+        "2 Rote Beete (bereits gekocht)",
+        "Kresse",
+        "100 g veganen Frischkäse",
+        "Fleischersatz (optional, bei uns gab es Beef-Free-Strips von LikeMeat)",
+        "Öl"
+      ],
+      "instructions": [
+        "In einer großen Pfanne könnt ihr den Fleischersatz anbraten, wenn ihr denn welchen möchtet. Egal ob Tofu oder wie wir die Beef Free Strips. Etwas Öl erhitzen und ab damit in die Pfanne für 5 Minuten.",
+        "Schält die Mango und schneidet sie in Streifen. Die bereits gekochte rote Beete müsst ihr ebenfalls nur in Streifen schneiden.",
+        "Nehmt euch einen Taco, bestreicht ihn mit veganem Frischkäse und belegt ihn mit Beef Free Strips, Mango und rote Beete und streut zum Schluss etwas Kresse darüber."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

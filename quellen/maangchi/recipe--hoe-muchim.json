@@ -1,0 +1,174 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/hoe-muchim",
+  "recipes": [
+    {
+      "name": "Spicy raw fish (Hoe-muchim: 회무침)",
+      "source_url": "https://www.maangchi.com/recipe/hoe-muchim",
+      "recipe_id": "/recipe/hoe-muchim#sso/recipe/101406",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "Serves 2",
+      "prep_time": "P0DT0H20M0S",
+      "cook_time": null,
+      "total_time": "P0DT0H20M0S",
+      "ingredients": [
+        "8 ounces sashimi-grade fresh raw fish fillets (snapper, fluke, or tuna)",
+        "2 cups icy water",
+        "1 tablespoon distilled vinegar",
+        "2 tablespoons toasted sesame oil",
+        "1 tablespoon toasted sesame seeds",
+        "½ teaspoon minced ginger",
+        "2 cloves garlic, minced",
+        "¼ cup gochu-garu (Korean hot pepper flakes)",
+        "¼ cup apple cider vinegar",
+        "¼ cup gochujang (Korean hot pepper paste)",
+        "3 tablespoons rice syrup (or honey or sugar)",
+        "1 teaspoon soy sauce",
+        "½ teaspoon Kosher salt",
+        "4 to 5 large large lettuce leaves, washed and chopped",
+        "1 cup seedless cucumber, cut into matchsticks",
+        "⅓ cup carrot, cut into matchsticks",
+        "¼ cup onion, sliced",
+        "1 small Serrano pepper, chopped"
+      ],
+      "instructions": [
+        "Serve it as a side dish for alcohol or as a standalone one-bowl meal. To enjoy it as a meal, place some rice in a bowl, add a portion of hoe-muchim, and mix well, similar to how you make bibimbap. it pairs well with doenjang-jjigae."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 2 to 3"
+        },
+        {
+          "tag": "li",
+          "text": "8 ounces sashimi-grade fresh raw fish fillets (snapper, fluke, or tuna)"
+        },
+        {
+          "tag": "li",
+          "text": "2 cups icy water"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon distilled vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame seeds"
+        },
+        {
+          "tag": "h3",
+          "text": "For seasoning sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon minced ginger"
+        },
+        {
+          "tag": "li",
+          "text": "2 cloves garlic, minced"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup gochu-garu (Korean hot pepper flakes)"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup apple cider vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup gochujang (Korean hot pepper paste)"
+        },
+        {
+          "tag": "li",
+          "text": "3 tablespoons rice syrup (or honey or sugar)"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon Kosher salt"
+        },
+        {
+          "tag": "h3",
+          "text": "For Vegetables:"
+        },
+        {
+          "tag": "li",
+          "text": "4 to 5 large large lettuce leaves, washed and chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup seedless cucumber, cut into matchsticks"
+        },
+        {
+          "tag": "li",
+          "text": "⅓ cup carrot, cut into matchsticks"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup onion, sliced"
+        },
+        {
+          "tag": "li",
+          "text": "1 small Serrano pepper, chopped"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Slice the fish fillets into pieces approximately 3 inches in length and ⅓ inch in thickness. Place them in icy water and stir in the vinegar. Allow the fish to sit in the water for 10 minutes to firm up slightly."
+        },
+        {
+          "tag": "li",
+          "text": "In a bowl, combine all the ingredients for the seasoning sauce. Mix well."
+        },
+        {
+          "tag": "li",
+          "text": "In a large bowl, place all the vegetables. Drain the fish from the water and gently squeeze out any excess moisture. Add the fish to the bowl with the vegetables."
+        },
+        {
+          "tag": "li",
+          "text": "Pour the prepared seasoning sauce over the fish and vegetables, then add the sesame oil and sesame seeds. Mix everything together gently with a large spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer the mixture to a serving plate or bowl."
+        },
+        {
+          "tag": "h3",
+          "text": "Serve"
+        },
+        {
+          "tag": "p",
+          "text": "Serve it as a side dish for alcohol or as a standalone one-bowl meal. To enjoy it as a meal, place some rice in a bowl, add a portion of hoe-muchim, and mix well, similar to how you make bibimbap. it pairs well with doenjang-jjigae (fermented soybean paste stew)."
+        },
+        {
+          "tag": "p",
+          "text": "Enjoy your delicious hoe-muchim!"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

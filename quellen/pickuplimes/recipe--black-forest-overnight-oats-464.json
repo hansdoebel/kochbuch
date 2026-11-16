@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/black-forest-overnight-oats-464",
+  "recipes": [
+    {
+      "name": "Black Forest Overnight Oats",
+      "source_url": "https://www.pickuplimes.com/recipe/black-forest-overnight-oats-464",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 servings",
+      "prep_time": "PT07M",
+      "cook_time": "",
+      "total_time": "PT06H07M",
+      "ingredients": [
+        "½ cup rolled oats",
+        "½ cup unsweetened soy milk",
+        "1 Tbsp ground flaxseeds",
+        "2 Tbsp almond butter",
+        "1 Tbsp Dutch-process cocoa powder",
+        "¼ tsp almond extract",
+        "¼ cup cherry pie filling",
+        "⅓ cup unsweetened coconut yogurt"
+      ],
+      "instructions": [
+        "In a small bowl, mix the oats, milk, flaxseeds, almond butter, cocoa, and almond extract.",
+        "Spoon the mixture into a mason jar, alternating with spoonfuls of the cherry pie filling. Cover and place in the fridge overnight.",
+        "In the morning, top with yogurt and other desired toppings and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk and yogurt that are fortified with calcium .",
+    "Storage Store in the fridge in an airtight container for up to 3 days."
+  ]
+}

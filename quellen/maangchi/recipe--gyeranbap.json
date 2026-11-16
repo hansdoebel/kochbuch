@@ -1,0 +1,125 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/gyeranbap",
+  "recipes": [
+    {
+      "name": "Egg rice (Gyeranbap: 계란밥)",
+      "source_url": "https://www.maangchi.com/recipe/gyeranbap",
+      "recipe_id": "/recipe/gyeranbap#sso/recipe/96549",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "1 serving",
+      "prep_time": "P0DT0H2M0S",
+      "cook_time": "P0DT0H5M0S",
+      "total_time": "P0DT0H7M0S",
+      "ingredients": [
+        "1 cup warm cooked rice",
+        "1 large egg",
+        "1 sheet of toasted seaweed paper (gim), crushed",
+        "1 tablespoon cooking oil",
+        "1 teaspoon toasted sesame seeds",
+        "soy sauce",
+        "toasted sesame oil"
+      ],
+      "instructions": [
+        "Use both hands to form the rice into a ball, then shape it into 3 to 4 inch wide disc, like a hamburger patty. Heat up a skillet over medium high heat. Add 2 teaspoon cooking oil. Put the rice on the skillet and cook for a few minutes until the bottom turns crispy. Turn it over and cook it for a few more minutes until both sides are nice and crispy. Spread the crushed seaweed on a large serving plate. Add the rice to the center of the seaweed.",
+        "Heat up the pan again. Drizzle 1 teaspoon cooking oil in the pan and swirl it around a bit. Crack the egg into the pan and cook for 1 minute until the white turns opaque. Turn it over with a spatula and cook for 30 seconds to 1 minute until you can pick it up on the spatula without breaking the yolk.",
+        "Remove the egg from the heat and put it on top of the rice. Sprinkle sesame seeds and drizzle soy sauce and sesame oil over top to your taste. Serve it with kimchi or any vegetable dish. When you eat it, break the yolk into the rice with your spoon, and mix it in!"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 1"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup warm cooked rice"
+        },
+        {
+          "tag": "li",
+          "text": "1 large egg"
+        },
+        {
+          "tag": "li",
+          "text": "1 sheet of toasted seaweed paper (gim), crushed"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon cooking oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon toasted sesame seeds"
+        },
+        {
+          "tag": "li",
+          "text": "soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "toasted sesame oil"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the rice"
+        },
+        {
+          "tag": "li",
+          "text": "Use both hands to form the rice into a ball, then shape it into 3 to 4 inch wide disc, like a hamburger patty."
+        },
+        {
+          "tag": "li",
+          "text": "Heat up a skillet over medium high heat. Add 2 teaspoon cooking oil. Put the rice on the skillet and cook for a few minutes until the bottom turns crispy."
+        },
+        {
+          "tag": "li",
+          "text": "Turn it over and cook it for a few more minutes until both sides are nice and crispy."
+        },
+        {
+          "tag": "li",
+          "text": "Spread the crushed seaweed on a large serving plate. Add the rice to the center of the seaweed."
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the egg"
+        },
+        {
+          "tag": "li",
+          "text": "Heat up the pan again."
+        },
+        {
+          "tag": "li",
+          "text": "Drizzle 1 teaspoon cooking oil in the pan and swirl it around a bit. Crack the egg into the pan and cook for 1 minute until the white turns opaque. Turn it over with a spatula and cook for 30 seconds to 1 minute until you can pick it up on the spatula without breaking the yolk."
+        },
+        {
+          "tag": "h3",
+          "text": "Put it together"
+        },
+        {
+          "tag": "li",
+          "text": "Remove the egg from the heat and put it on top of the rice. Sprinkle sesame seeds and drizzle soy sauce and sesame oil over top to your taste."
+        },
+        {
+          "tag": "li",
+          "text": "Serve it with kimchi or any vegetable dish. When you eat it, break the yolk into the rice with your spoon, and mix it in!"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

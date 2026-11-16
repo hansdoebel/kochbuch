@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/feigen-aus-dem-ofen",
+  "recipes": [
+    {
+      "name": "Feigen aus dem Ofen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/feigen-aus-dem-ofen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/feigen-aus-dem-ofen#recipe-1de88408-d478-5dd5-b3a2-aa63e81df59c",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 - 3 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "8 Feigen",
+        "4 Rosmarinzweige",
+        "200 g veganer Quark",
+        "200 g veganer Frischkäse",
+        "1 EL Zitronensaft",
+        "1 TL Apfelessig",
+        "Ahornsirup",
+        "10 Walnüsse",
+        "2 EL Pistazien",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Zunächst bereiten wir die Füllung vor und verrühren veganen Quark und Frischkäse mit Apfelessig, Zitrone und schmecken mit Salz und Pfeffer ab. Kurz zur Seite stellen.",
+        "Feigen waschen und vierteln, aber nicht ganz durchschneiden. Legt sie in eine ofenfeste Form und drückt die Feigen-Viertel leicht auseinander.",
+        "Hackt Walnüsse grob und zupft die Rosmarinzweige.",
+        "In jede Feige kommt 1 EL der veganen Quark-Füllung und darauf ein paar Walnüsse, Pistazien und Rosmarin. Zum Schluss beträufelt ihr alles mit Ahornsirup.",
+        "Im Ofen etwa 10 Minuten bei 150 Grad backen und danach warm und mit Brot servieren. Ihr könnt vor dem Servieren auch nochmal etwas Ahornsirup darübergeben."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

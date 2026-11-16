@@ -1,0 +1,66 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gefuellte-gegrillte-portobello-pilze-mit-mais-paprika-salsa",
+  "recipes": [
+    {
+      "name": "Gefüllte & gegrillte Portobello-Pilze mit Mais-Paprika-Salsa",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gefuellte-gegrillte-portobello-pilze-mit-mais-paprika-salsa",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gefuellte-gegrillte-portobello-pilze-mit-mais-paprika-salsa#recipe-b9b814ea-834c-588a-ad8e-746b28fda5bf",
+      "authors": [
+        "Ronja Gramse"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für die Pilze:",
+        "8 Portobello-Pilze",
+        "2 Knoblauchzehen",
+        "1 Zwiebel",
+        "200 g Räuchertofu",
+        "1 TL getrockneter Thymian",
+        "1 TL getrockneter Oregano",
+        "2 EL Apfelbalsam (z. B. von Byodo)",
+        "150 g Kirschtomaten",
+        "200 g veganer Mozzarella",
+        "Kräutersalz (z. B. von Byodo)",
+        "Pfeffer",
+        "Für die Salsa:",
+        "2 rote Zwiebeln",
+        "2 Knoblauchzehen",
+        "1 rote Paprika",
+        "4-5 scharfe Peperoni aus dem Glas",
+        "10 g frische Petersilie",
+        "5 g frische Minze",
+        "150 g Mais",
+        "2 EL Olivenöl",
+        "2 EL Apfelessig (z. B. von Byodo)",
+        "6 EL Apfelbalsam (z. B. von Byodo)",
+        "1 EL Ahornsirup",
+        "1 TL Paprikapulver",
+        "Kräutersalz (z. B. von Byodo)",
+        "Pfeffer",
+        "Außerdem:",
+        "360 g Basmatireis",
+        "Olivenöl zum Braten",
+        "frische Petersilie zum Servieren"
+      ],
+      "instructions": [
+        "Die Portobello-Pilze putzen und die Stiele entfernen, aber nicht wegschmeißen. Eine Pfanne mit Olivenöl erhitzen und die Pilze darin bei mittlerer Hitze ca. 10-15 Minuten von beiden Seiten anbraten, bis sie saftig sind, aber noch eine feste Konsistenz haben.",
+        "Parallel dazu Knoblauch und Zwiebeln schälen und klein schneiden, den Räuchertofu fein würfeln und die Pilzstiele ebenfalls klein schneiden. Eine weitere Pfanne mit Olivenöl erhitzen und Zwiebeln und Knoblauch darin bei mittlerer Hitze anschwitzen, bis sie glasig sind. Dann getrockneten Thymian und Oregano, den Räuchertofu und die Pilzstiele dazugeben und weiterbraten, bis der Räuchertofu leicht gebräunt und knusprig ist. Mit Kräutersalz und Pfeffer abschmecken.",
+        "Die Kirschtomaten waschen und halbieren und den veganen Mozzarella in Scheiben schneiden.",
+        "Den Ofen auf 180°C (Ober/Unterhitze) vorheizen oder den Grill vorbereiten. Sobald die Pilze gar sind und der Tofu knusprig ist, die Pilze aus der Pfanne nehmen und mit etwas Apfelbalsam beträufeln und der Tofumischung befüllen. Anschließend jeden Pilz mit veganem Mozzarella und Tomaten toppen. Nun die Pilze ca. 20 Minuten im Ofen backen oder grillen, bis der vegane Mozzarella leicht geschmolzen und die Tomaten gar sind.",
+        "In der Zwischenzeit die Salsa vorbereiten und den Reis nach Packungsanweisung kochen. Für die Salsa Zwiebeln und Knoblauch schälen und Paprika, Peperonis und Kräuter waschen. Dann Peperoni, Knoblauch, Petersilie und Minze möglichst klein schneiden oder hacken und Zwiebeln und Paprika fein würfeln. Den Mais abtropfen lassen. Anschließend Zwiebeln, Knoblauch, Peperoni, Paprika, Mais und die gehackten Kräuter in eine Schüssel geben und mit Olivenöl, Apfelessig, Apfelbalsam, Ahornsirup und Paprikapulver vermengen. Mit Kräutersalz und Pfeffer abschmecken.",
+        "Die gefüllten und gegrillten Pilze mit Reis, Salsa und frischer Petersilie servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

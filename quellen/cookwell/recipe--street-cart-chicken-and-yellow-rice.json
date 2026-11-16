@@ -1,0 +1,72 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/street-cart-chicken-and-yellow-rice",
+  "recipes": [
+    {
+      "name": "Street Cart Chicken & Yellow Rice",
+      "source_url": "https://app.cookwell.com/recipe/street-cart-chicken-and-yellow-rice",
+      "recipe_id": "https://app.cookwell.com/recipe/street-cart-chicken-and-yellow-rice",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "3-4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT1H",
+      "ingredients": [
+        "Chicken Thighs, 4",
+        "Salt, 5 g",
+        "Whole cloves, ~5",
+        "Cumin seeds, 5 g",
+        "Dried oregano, 2 g",
+        "Black Pepper, 20 cranks",
+        "Garlic, 3 cloves",
+        "Lemon juice, 1/4 lemon",
+        "Mayonnaise, 30 g",
+        "Basmati Rice, 200 g",
+        "Chicken broth, 250 g",
+        "Butter, 15 g",
+        "Onions, 1/8",
+        "Cumin seeds, 5 g",
+        "Turmeric powder, 5 g",
+        "Smoked Paprika, 5 g",
+        "Bay Leaves, 1-2",
+        "Salt, to taste",
+        "Mayonnaise, 100 g",
+        "Greek Yogurt, 50 g",
+        "White Vinegar, 10 g",
+        "Lemon juice, 1/4 lemon",
+        "Black Pepper, 10 cranks",
+        "Dried oregano, a sprinkle",
+        "Smoked Paprika, a sprinkle",
+        "Salt, to taste",
+        "Water, 100 g",
+        "White Vinegar, 50 g",
+        "Cayenne Pepper, 15 g",
+        "Red Pepper Flakes, 5 g",
+        "Lemon juice, 1/2 lemon",
+        "Sugar, 10 g",
+        "Salt, to taste",
+        "Pita Bread",
+        "Lettuce",
+        "Tomatoes"
+      ],
+      "instructions": [
+        "Sprinkle the chicken thighs with salt and set them aside. Crush the cloves and cumin in a mortar and pestle. Add oregano, black pepper, and garlic cloves into the mortar with the spices and crush into a rough paste. In a large mixing bowl, combine the lemon juice, mayo, and spice mixture. Add the chicken thighs and mix to thoroughly coat the exterior. Cover and place in the fridge to marinate for up to 24 hrs or cook right away.",
+        "Melt butter in a pot over medium heat. Add onion, cumin, turmeric, smoked paprika, and bay leaf. Bloom the aromatics until fragrant but not burnt, about 30 seconds. Add the rice to the pan with the aromatics and mix. Lightly toast the rice and stir for about 2 minutes.",
+        "Add chicken broth, turn up the heat, and cover the pan to bring to a boil. Reduce the heat to the lowest setting. Let the rice gently simmer while covered for about 20 minutes. Meanwhile, feel free to cook the chicken or mix the sauces (next steps) Uncover and taste the rice! Add salt as needed or stir a little more butter to make the rice more unctuous.",
+        "Add all ingredients to a blender. Process until smooth. Add sauce to a pot and simmer over medium-low heat to develop flavors and reduce the sauce. Taste and adjust for salt and vinegar. NOTE: This will be hot. Let cool before storing in a bottle in the fridge.",
+        "Place bowl over a scale, and add the mayo, yogurt, vinegar, lemon juice, black pepper, oregano, smoked paprika, and salt into a bowl. Mix together. Taste it! Adjust salt or any spice/herb additions as you see fit.",
+        "When ready to cook, place a pan over medium-high heat. Once hot, sear the chicken thighs on both sides until the internal temp reaches at least 165 F°/73°C. Chop the chicken into pieces in the pan or let them rest, then slice.",
+        "Serve a portion of chicken & rice on a plate and drizzle with both of the sauces, as desired. Optional: serve with pita bread or fresh vegetables/herbs for garnish"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

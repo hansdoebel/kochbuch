@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vegan-french-toast-433",
+  "recipes": [
+    {
+      "name": "Vegan French Toast",
+      "source_url": "https://www.pickuplimes.com/recipe/vegan-french-toast-433",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "5 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT30M",
+      "total_time": "PT40M",
+      "ingredients": [
+        "1⅔ cup canned light coconut milk",
+        "2 Tbsp nutritional yeast flakes",
+        "1 Tbsp maple syrup",
+        "1 Tbsp ground flaxseeds",
+        "2 tsp ground cinnamon",
+        "1 tsp ground ginger",
+        "¼ tsp ground cardamom",
+        "¼ tsp ground turmeric",
+        "⅛ tsp ground nutmeg",
+        "⅛ tsp ground cloves",
+        "1 Tbsp vegetable oil",
+        "10 thick slice of day-old bread",
+        "1½ cup unsweetened coconut yogurt",
+        "2 cup fresh mixed berries",
+        "2 Tbsp maple syrup"
+      ],
+      "instructions": [
+        "In a wide, shallow bowl, whisk together all the batter ingredients.",
+        "Heat the oil in a large pan over medium-high heat.",
+        "Dip the bread slices into the batter, letting them soak for a few seconds before flipping to coat the other side. Let any excess batter drip off, or gently wipe it off if needed.",
+        "Place the soaked bread slices in the pan and cook for 2 to 3 minutes, until golden. Flip and cook on the other side for another 2 to 3 minutes.",
+        "Flip again and cook for about 1 minute per side to crisp the outside further. Add more oil between batches as needed.",
+        "Remove from the pan and serve with your favourite toppings. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Stale bread is preferred, otherwise the toasts get too soggy, especially in the middle.",
+    "Storage Best if enjoyed immediately. Keep leftovers in an airtight container in the fridge for up to 2 days."
+  ]
+}

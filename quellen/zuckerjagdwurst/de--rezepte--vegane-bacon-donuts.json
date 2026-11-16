@@ -1,0 +1,82 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-bacon-donuts",
+  "recipes": [
+    {
+      "name": "Veganer Kokosnuss Bacon",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-bacon-donuts",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-bacon-donuts#recipe-069e79ec-1957-5792-ac47-53cdb991ceba",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "225g Bacon",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "225 g Kokosnuss Chips",
+        "2 EL Sojasauce",
+        "2 EL Liquid Smoke",
+        "2 EL Agavendicksaft",
+        "2 TL Smoked Paprika (optional)"
+      ],
+      "instructions": [
+        "Sojasauce, Liquid Smoke, Agavendicksaft und Paprika Pulver in einer Schüssel verrühren.",
+        "Die Flüssigkeit mit den Kokosnuss Chips vermengen.",
+        "Die Kokosnuss Chips für 15 Minuten bei 160°C auf einem Backblech backen.",
+        "Alle 5 Minuten nach dem Kokosnuss Bacon schauen und die Chips wenden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Vegane Bacon Donuts",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-bacon-donuts",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-bacon-donuts#recipe-e5685ed6-b5f4-54d7-92ed-c88514f11e1e",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "20 Donuts",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "DONUTS",
+        "200 g Mehl",
+        "125 ml Ahornsirup",
+        "1 Päckchen Backpulver",
+        "1 Prise Salz",
+        "180 ml pflanzliche Milch",
+        "1 TL Apfelessig",
+        "1 TL Vanille Essenz",
+        "50 g Apfelmus",
+        "50 ml flüssiges Kokosöl",
+        "GLASUR",
+        "250 g Puderzucker",
+        "1 EL Ahornsyrup",
+        "TOPPING",
+        "0.5 Portion veganer Kokosnuss-Bacon (Rezept auf dem Blog)"
+      ],
+      "instructions": [
+        "Eine halbe Portion des Kokosnuss-Bacon zubereiten & abkühlen lassen. Das Rezept findet ihr auf dem Blog.",
+        "In einer kleinen Schüssel Milch mit Apfelessig vermengen und bei Seite stellen. 10 Minuten stehen lassen.",
+        "In einer großen Schüssel alle trockenen Zutaten vermengen.",
+        "Nun alle feuchten Zutaten hinzugeben und mit einem Mixer vermengen.",
+        "Die Mulden eures Donutmakers mit Kokosöl einfetten.",
+        "Sobald euer Donutmaker heiß ist, den Teig auf die Vertiefungen verteilen und für 3-5 Minuten backen. Das funktioniert am besten, wenn ihr euren Teig in eine Plastiktüte gebt und eine Ecke abschneidet. So könnt ihr ihn perfekt platzieren.",
+        "Den ganzen Teig verarbeiten und alle Donuts abschließend abkühlen lassen.",
+        "In der Zeit Puderzucker mit Ahornsyrup vermengen, über die erkalteten Donuts geben und mit dem Bacon toppen. Am besten noch warm oder am gleichen Tag verdrücken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

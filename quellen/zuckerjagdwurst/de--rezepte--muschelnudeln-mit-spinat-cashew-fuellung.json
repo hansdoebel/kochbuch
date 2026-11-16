@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/muschelnudeln-mit-spinat-cashew-fuellung",
+  "recipes": [
+    {
+      "name": "Muschelnudeln mit Spinat-Cashew-Füllung",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/muschelnudeln-mit-spinat-cashew-fuellung",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/muschelnudeln-mit-spinat-cashew-fuellung#recipe-c839368a-90e1-54b6-a5ab-dc5f4f1679e0",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für die Muschelnudeln:",
+        "12 Muschelnudeln (ca. 100 g)",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "150 g frischer Babyspinat",
+        "100 g Cashews (mind. 30 Minuten eingeweicht)",
+        "2 EL Wasser",
+        "2 EL Hefeflocken",
+        "1 EL Apfelessig",
+        "Pflanzenöl zum Braten",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "Für die Soße:",
+        "2 EL vegane Butter",
+        "2 EL Weizenmehl",
+        "150 ml pflanzliche Milch",
+        "150 ml pflanzliche Sahne",
+        "0.5 TL Chiliflocken",
+        "1 EL Hefeflocken",
+        "Salz",
+        "Pfeffer",
+        "Muskat"
+      ],
+      "instructions": [
+        "Zwiebel und Knoblauch schälen und fein hacken. Babyspinat waschen und ebenfalls fein hacken.",
+        "Pflanzenöl in einer Pfanne erhitzen und Zwiebel und Knoblauch darin anschwitzen, bis die Zwiebelwürfel glasig sind. Den Blattspinat dazugeben und ca. 5 Minuten dünsten, bis er zusammenfällt. Mit Salz, Pfeffer und Muskat abschmecken.",
+        "Cashews, Wasser, Hefeflocken und Apfelessig in ein hohes Gefäß geben und mit dem Pürierstab zu einer leicht stückigen Masse mixen. Mit Salz, Pfeffer und, je nach Geschmack, mit mehr Hefeflocken oder mehr Apfelessig abschmecken.",
+        "Die Cashewmischung mit dem angedünsteten Spinat vermengen und noch einmal mit Salz, Pfeffer und Muskat abschmecken.",
+        "Gesalzenes Wasser in einem Topf zum Kochen bringen und die Nudeln nach Packungsanleitung vorkochen. Danach abgießen und beiseitestellen.",
+        "Parallel dazu in einem kleinen Topf vegane Butter schmelzen lassen. Mehl gründlich einrühren, damit keine Klumpen entstehen. Mit pflanzlicher Milch und veganer Sahne aufgießen und dabei weiterrühren, damit die Soße glatt wird. Mit Chiliflocken, Hefeflocken, Salz, Pfeffer und Muskat abschmecken und die Soße noch ein paar Minuten weiterköcheln, bis sie dickflüssig ist.",
+        "Backofen auf 180°C (Umluft) vorheizen. Die Soße in die Backform geben. Jede Muschelnudel mit der Spinat-Cashew-Mischung füllen und in die Soße setzen. Die Nudeln 15–20 Minuten backen, bis sie beginnen, am Rand braun zu werden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

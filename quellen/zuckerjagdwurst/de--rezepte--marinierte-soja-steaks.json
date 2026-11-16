@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/marinierte-soja-steaks",
+  "recipes": [
+    {
+      "name": "Gegrillte Sojasteaks in würziger Marinade",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/marinierte-soja-steaks",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/marinierte-soja-steaks#recipe-0d5c2534-0e7d-5861-9090-aff2586d171d",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Steaks",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "6 Big Steaks",
+        "1 Liter Gemüsebrühe",
+        "Für die Marinade",
+        "250 ml Ketchup",
+        "250 ml BBQ Sauce",
+        "2 EL Ahornsirup",
+        "2 EL Senf",
+        "1 EL Salz",
+        "1 EL Pfeffer",
+        "1 EL Paprika",
+        "1 EL Cayennepfeffer",
+        "1 EL Knoblauchpulver",
+        "1 TL Steakgewürz",
+        "1 TL Apfelessig",
+        "1.5 EL Liquid Smoke"
+      ],
+      "instructions": [
+        "Soja-Big-Steaks in Gemüsebrühe einweichen und 15 Minuten ziehen lassen. Immer wieder umrühren, damit sie unter Wasser kommen und jede Stelle gut einweichen kann.",
+        "In der Zwischenzeit alle Zutaten für die Marinade verrühren und mit Salz und Pfeffer abschmecken. Es darf ruhig würziger als sonst sein, denn die Sojasteaks schmecken ja von Natur aus nach nichts.",
+        "Das Wasser aus den Steaks gut auspressen und die Steaks danach in die Marinade legen und gut damit einreiben. Lasst eure Steaks mindestens 30 Minuten in der Marinade ziehen, prinzipiell gilt natürlich: Je länger, desto intensiver wird der Geschmack.",
+        "Danach werft ihr eure Steaks auf den Grill und lasst sie von beiden Seiten gut brutzeln."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

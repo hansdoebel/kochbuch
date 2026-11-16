@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/chocolate-quinoa-porridge-552",
+  "recipes": [
+    {
+      "name": "Chocolate Quinoa Porridge",
+      "source_url": "https://www.pickuplimes.com/recipe/chocolate-quinoa-porridge-552",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT25M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "1 cup quinoa",
+        "1½ cup unsweetened soy milk",
+        "1⅔ cup canned full-fat coconut milk",
+        "3 Tbsp light brown sugar",
+        "3 Tbsp ground flaxseeds",
+        "3 Tbsp Dutch-process cocoa powder",
+        "2 tsp pure vanilla extract",
+        "½ tsp ground cinnamon",
+        "¼ tsp salt",
+        "2 banana",
+        "1 cup fresh mixed berries",
+        "1 cup unsweetened coconut yogurt"
+      ],
+      "instructions": [
+        "In a saucepan, combine the quinoa, soy and coconut milk, brown sugar, flaxseed, cocoa powder, vanilla, cinnamon, and salt. Bring to a boil, then reduce to a gentle simmer.",
+        "Add the bananas into the porridge and stir. Simmer for 20 to 25 minutes, partially covered. The quinoa should have absorbed all the liquid and the bananas should be cooked down.",
+        "Remove from the heat and cover for 5 minutes before serving up. Top with fresh berries and yogurt, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 3 days or in the freezer for up to 1 month."
+  ]
+}

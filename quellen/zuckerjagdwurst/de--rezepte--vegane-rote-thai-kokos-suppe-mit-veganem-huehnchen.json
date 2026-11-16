@@ -1,0 +1,62 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-rote-thai-kokos-suppe-mit-veganem-huehnchen",
+  "recipes": [
+    {
+      "name": "Vegane Rote Thai-Kokos-Suppe mit „Hühnchen“",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-rote-thai-kokos-suppe-mit-veganem-huehnchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-rote-thai-kokos-suppe-mit-veganem-huehnchen#recipe-f56a4182-ab7f-5254-864b-85f606db8406",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Suppe",
+        "1 Knoblauchzehe",
+        "15 g frischer Ingwer",
+        "1 Stange Zitronengras",
+        "4 (150 g) Champignons",
+        "1/2 (100 g) Paprika",
+        "1 (500 g) Brokkoli",
+        "1/2 (200 g) Zucchini",
+        "3 EL Erdnuss- oder Kokosöl",
+        "2-3 TL Rote-Curry-Paste",
+        "600 ml Gemüsebrühe",
+        "800 ml Kokosnussmilch",
+        "100 g Reisbandnudeln",
+        "180 g veganes Hühnchen (oder Tofu)",
+        "Sojasoße",
+        "Anrichten",
+        "50 g Erdnüsse",
+        "50 g Mungobohnensprosslinge",
+        "1 Limette",
+        "10 g Koriander",
+        "10 g Minze"
+      ],
+      "instructions": [
+        "Die Knoblauchzehe und den Ingwer schälen und fein hacken. Zitronengras waschen und mit dem Rücken eines Messers zerschlagen, damit die Fasern besser das Aroma abgeben können.",
+        "Das Gemüse vorbereiten: Zucchini, Paprika und Brokkoli waschen und klein schneiden, die Champignons putzen und vierteln.",
+        "In einem Topf oder Wok das Erdnuss- oder Kokosöl warm werden lassen.",
+        "Knoblauch, Ingwer, die Zitronengrasstange und Curry-Paste hinzugeben (je nach Schärfegrad mehr oder weniger) und 2-3 Minuten anschwitzen.",
+        "Die Gemüsebrühe anrühren und damit ablöschen. Kurz aufkochen lassen.",
+        "Mit der Kokosnussmilch auffüllen und gut umrühren.",
+        "Die Nudeln nach Packungsanleitung zubereiten.",
+        "Den Brokkoli zur Suppe geben und 3 Minuten köcheln lassen. Anschließend Paprika, Champignons und Zuchhini hinzugeben und nochmal solange köcheln lassen, bis das ganze Gemüse weich ist, aber noch Biss hat.",
+        "In einer Pfanne das vegane Hühnchen mit Öl kross anbraten.",
+        "Wenn die Reisnudeln und das Hühnchen fertig sind, beides mit zur Suppe geben und gut vermengen.",
+        "Die Suppe mit Sojasoße und Limettensaft abschmecken.",
+        "Die Zitronengrasstange aus der Suppe holen und die Suppe mit Mungosprossen, Erdnüssen, Minze, Koriander und einer Limetten anrichten."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

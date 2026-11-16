@@ -1,0 +1,36 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/cream-cheese-bacon-and-tomato-breakfast-sandwich",
+  "recipes": [
+    {
+      "name": "Cream Cheese, Bacon, & Tomato Breakfast Sandwich",
+      "source_url": "https://app.cookwell.com/recipe/cream-cheese-bacon-and-tomato-breakfast-sandwich",
+      "recipe_id": "https://app.cookwell.com/recipe/cream-cheese-bacon-and-tomato-breakfast-sandwich",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 sandwich",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "English Muffins, 1",
+        "Bacon, 2 slices",
+        "Heirloom tomato, 1/2” slice",
+        "Cream Cheese, to taste"
+      ],
+      "instructions": [
+        "Cook the bacon low and slow over a skillet or in a 350°F/176°C oven until the fat has rendered and the bacon is really crisp (check after 10 mins, flip if necessary). For this recipe, thin cut bacon that gets crispy is important for the overall texture of the sandwich. When the bacon is done, drain on a wire rack or paper towel.",
+        "Meanwhile, slice the heirloom tomato into a 1/2 inch (1-2 cm) slice. Slice the English muffin. Toast the top and bottom of each piece until it is fully warmed through.",
+        "Spread a thin layer of cream cheese on the inside of each English muffin slice. To the bottom slice, add a layer of crispy bacon pieces followed by the tomato slice. Close the sandwich and enjoy warm."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

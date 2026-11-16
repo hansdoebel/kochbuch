@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/mini-pies-mit-artischocke-und-spinat",
+  "recipes": [
+    {
+      "name": "Vegane Mini-Pies mit Artischocke & Spinat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/mini-pies-mit-artischocke-und-spinat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/mini-pies-mit-artischocke-und-spinat#recipe-4746d489-95e4-5cb0-89bc-bfe9db143e46",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Mini-Pies",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Teig",
+        "500 g Mehl",
+        "200 g vegane Butter",
+        "Prise Salz",
+        "10 - 15 EL kaltes Wasser",
+        "Füllung",
+        "1 Zwiebel",
+        "150 g Kichererbsen",
+        "200 g Artischocken aus der Dose",
+        "1 Knoblauchzehe",
+        "50 g Pinienkerne",
+        "100 g frischer Spinat",
+        "0.5 Zitrone",
+        "Salz & Pfeffer",
+        "2 EL pflanzliche Milch"
+      ],
+      "instructions": [
+        "Teig",
+        "Mehl, Salz und Butter in einer großen Schüssel verkneten.",
+        "Nach und nach mit einem Esslöffel kaltes Wasser hinzugeben, bis der Teig schön geschmeidig ist. Bei mir waren es etwa 10 EL.",
+        "Den Teig für 30 Minuten in den Kühlschrank stellen.",
+        "Füllung",
+        "Die Zwiebel und die Knoblauchzehe schälen.",
+        "Das Wasser der Kichererbsen und Artischockenherzen abgießen und den Spinat waschen. Den Saft einer halben Zitrone auspressen.",
+        "In einen Mixer alle Zutaten für die Füllung geben und zu einem cremigen Püree mixen. Mit Salz und Pfeffer abschmecken.",
+        "Befüllen",
+        "Eine Muffinform mit veganer Butter einfetten und mit Mehl ausklopfen.",
+        "Den Teig aus dem Kühlschrank nehmen und auf einer bemehlten Fläche etwa 0.5 mm ausrollen.",
+        "Mit einem großen Glas (oder Ausstecher) 12 Kreise ausstechen und mit einem kleineren Glas (oder Ausstecher) 12 kleine Kreise ausstechen.",
+        "Die großen Kreise in die Mulden der Muffinform drücken, sodass der Teig die kompletten Mulden ausfüllt.",
+        "Die Füllung in den 12 Mulden verteilen. Den Backofen auf 180°C Umluft vorheizen.",
+        "Mit einer Gabel drei Mal in die Teigdeckel einstechen und die Rückseite der Deckel befeuchten. Diese nun auf die Pies geben und mit den Finger festdrücken, sodass sich beide Teige verbinden.",
+        "Die Deckel mit der pflanzlichen Milch bestreichen und für 20 - 30 Minuten bei 180° Umluft auf mittlerer Schiene backen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

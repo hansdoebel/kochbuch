@@ -1,0 +1,34 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kartoffelsuppe-mit-wienern-und-raeuchertofu",
+  "recipes": [
+    {
+      "name": "Vegane Kartoffelsuppe mit Räuchertofu",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kartoffelsuppe-mit-wienern-und-raeuchertofu",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kartoffelsuppe-mit-wienern-und-raeuchertofu#recipe-31658c24-943d-5d54-8930-5fec1f1d4ae5",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "1 kg mehligkochende Kartoffeln 4 Karotten 2 Zwiebeln 350 g Räuchertofu 4 Frühlingszwiebeln 15 g Petersilie 750 ml Gemüsebrühe 1 EL Sojasoße (optional) 1 TL Liquid Smoke (optional) 100 ml vegane Kochsahne Salz Pfeffer Majoran neutrales Pflanzenöl zum Braten"
+      ],
+      "instructions": [
+        "Kartoffeln und Karotten schälen und in mundgerechte Stücke schneiden. Zwiebeln schälen und grob zerkleinern. Räuchertofu in kleine Würfel schneiden. Die Frühlingszwiebeln in feine Röllchen schneiden und Petersilie fein hacken.",
+        "Pflanzenöl in einem großen Topf erhitzen und die Zwiebeln darin 2–3 Minuten anschwitzen. Die Karotten- und Kartoffelwürfel hinzugeben und anbraten, bis das Gemüse leicht gebräunt ist. Mit Gemüsebrühe ablöschen und etwa 20 Minuten zugedeckt köcheln lassen, bis alle Gemüsewürfel weich sind.",
+        "In der Zwischenzeit den geschnittenen Räuchertofu in einer separaten Pfanne mit etwas Pflanzenöl scharf anbraten, bis er gut gebräunt ist. Optional mit Sojasoße und Liquid Smoke ablöschen.",
+        "Die Kartoffelsuppe pürieren und vegane Sahne und Petersilie unterrühren. Mit Salz, Pfeffer und Majoran abschmecken. Zum Servieren mit Frühlingszwiebeln und gebratenem Räuchertofu toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

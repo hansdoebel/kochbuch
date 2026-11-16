@@ -1,0 +1,43 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/garlicky-italian-sausage-and-broccoli-pasta",
+  "recipes": [
+    {
+      "name": "One Pot Italian Sausage & Broccoli Pasta",
+      "source_url": "https://app.cookwell.com/recipe/garlicky-italian-sausage-and-broccoli-pasta",
+      "recipe_id": "https://app.cookwell.com/recipe/garlicky-italian-sausage-and-broccoli-pasta",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Garlic, 3 cloves",
+        "Hot cherry peppers, 3 peppers",
+        "Hot Italian sausages, 2 links",
+        "Baby broccoli, 1 bunch",
+        "White wine, a splash",
+        "Pasta, 170 g",
+        "chicken stock, as needed",
+        "Salt, to taste",
+        "Parmesan, 40 g",
+        "Olive Oil, a drizzle"
+      ],
+      "instructions": [
+        "Place the stock in a pot on medium-high heat or warm it up in the microwave. Set aside until step 3. Chop the broccoli into pieces, thinly slice the garlic, and dice the cherry peppers.",
+        "Set a wok or saucier over medium-high heat, add a small drizzle of olive oil, and add the sausage removed from the casing. Break it apart with a potato masher and sauté until cooked through. Then transfer it to a bowl, keeping as much fat in the pan as possible. Add the garlic and diced peppers and sauté for 30 seconds. Add the broccoli with a sprinkle of salt and cook for 2-3 minutes stirring occasionally. Remove and add to the same bowl as the sausage.",
+        "Pour in a splash of white wine to deglaze the pan. Add the dried pasta to the wok with just enough chicken stock to cover it. It should boil quickly. Cook the pasta until al dente, adding more stock if it reduces too fast before the pasta is done. By the end, the pasta should be cooked through, and the stock should be significantly reduced to a sauce-like consistency.",
+        "Turn off the heat and add the parmesan cheese. Stir until the sauce comes together and is emulsified. To thicken, reduce it to your desired consistency. Once thickened to your liking, add the sausage and broccoli mixture and stir to combine. Serve immediately with extra parmesan cheese on top and a drizzle of olive oil."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

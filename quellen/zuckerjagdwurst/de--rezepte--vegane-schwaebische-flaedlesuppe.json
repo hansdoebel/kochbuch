@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schwaebische-flaedlesuppe",
+  "recipes": [
+    {
+      "name": "Vegane schwäbische Flädlesuppe",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schwaebische-flaedlesuppe",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schwaebische-flaedlesuppe#recipe-68961079-f78b-5e97-aa27-c87b1ee9452b",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "125 g Mehl",
+        "10 g Kichererbsenmehl",
+        "200 ml pflanzliche Milch",
+        "2 l Gemüsebrühe",
+        "10 g frischer Schnittlauch",
+        "Pflanzenöl zum Braten",
+        "Salz",
+        "Pfeffer",
+        "Muskat"
+      ],
+      "instructions": [
+        "Mehl, Kichererbsenmehl, Salz, Pfeffer, eine Prise Muskatnuss und pflanzliche Milch in einer Schüssel zu einem glatten Teig verrühren. Den Teig ca. 10 Minuten ruhen lassen.",
+        "Etwas Pflanzenöl in einer beschichteten Pfanne erwärmen und den Teig darin zu dünnen Pfannkuchen ausbacken. Die Pfannkuchen jeweils aus der Pfanne nehmen und auf Küchenpapier abtropfen lassen, damit sie nicht zu fettig sind. Anschließend jeden Pfannkuchen in dünne Streifen schneiden.",
+        "Gemüsebrühe in einem Topf erhitzen. Den Schnittlauch waschen und in feine Ringe schneiden.",
+        "Die Flädle, also Pfannkuchen-Streifen, auf Tellern verteilen und mit Gemüsebrühe übergießen. Zum Servieren mit Schnittlauch bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

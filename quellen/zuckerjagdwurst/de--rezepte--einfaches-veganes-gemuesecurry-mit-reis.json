@@ -1,0 +1,64 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/einfaches-veganes-gemuesecurry-mit-reis",
+  "recipes": [
+    {
+      "name": "Einfaches, veganes Gemüsecurry mit Reis",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/einfaches-veganes-gemuesecurry-mit-reis",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/einfaches-veganes-gemuesecurry-mit-reis#recipe-0d2061bd-4975-5b66-9fd1-b4e4c9eddc44",
+      "authors": [
+        "Team"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für das Gemüsecurry:",
+        "1 Zwiebel",
+        "2 Knoblauchzehen",
+        "20 g Ingwer",
+        "1 kleine Chilischote",
+        "100 g Kichererbsen",
+        "100 g Spinat",
+        "100 g Erbsenschoten (optional)",
+        "1 kleine Süßkartoffel",
+        "200 g Brokkoli (oder Brokkolini)",
+        "1 rote Paprika",
+        "3 EL Kokosöl",
+        "1 TL Agavendicksaft",
+        "2 EL gelbes Currypulver",
+        "1 TL Kurkuma",
+        "0.5 TL Cayennepfeffer",
+        "1.5 EL gelbe Currypaste",
+        "400 ml Kokosmilch",
+        "1 Limette",
+        "2 EL Sojasoße",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "250 g Wildreis",
+        "10 g Koriander zum Servieren",
+        "5 g Thai-Basilikum zum Servieren (optional)",
+        "1 Limette zum Servieren",
+        "Gurke zum Servieren"
+      ],
+      "instructions": [
+        "Den Wildreis nach Packungsanleitung zubereiten. Zwiebel, Knoblauchzehen und Ingwer schälen und fein würfeln.",
+        "Die kleine Chilischote waschen, entkernen und in feine Ringe schneiden. Die Kichererbsen abgießen und den Spinat waschen und abtropfen lassen. Die Erbsenschoten waschen und die Enden entfernen. Die Süßkartoffeln schälen und würfeln. Den Brokkoli waschen und in Röschen schneiden. Die Paprika waschen, entkernen und in Streifen schneiden.",
+        "Kokosöl in einer großen (Wok-)Pfanne erhitzen und zuerst Zwiebel, Knoblauch, Ingwer und Chili darin ca. 2 Minuten anschwitzen. Agavendicksaft, Currypulver, Kurkuma, Cayennepfeffer und gelbe Currypaste hinzugeben und weitere 2 Minuten anschwitzen.",
+        "Süßkartoffelwürfel und Brokkoli für 5–10 Minuten anbraten und im Anschluss das Gemüse mit Kokosmilch aufgießen. Das Ganze ca. 3 Minuten köcheln lassen. Danach Kichererbsen, Spinat, Erbsenschoten und Paprika hinzugeben und weitere 5 Minuten köcheln lassen.",
+        "Das Gemüsecurry mit frischem Limettensaft, Sojasoße, Salz, Pfeffer und Agavendicksaft abschmecken.",
+        "Tipp: Wenn ihr das Gericht sojafrei zubereiten möchtet, lasst die Sojasoße einfach weg.",
+        "Das Gemüsecurry mit gekochtem Wildreis servieren und mit frischem Koriander, Thai-Basilikum, ein paar frischen Scheiben Gurke und Limettenspalten toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

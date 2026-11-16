@@ -1,0 +1,89 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/gyeranjjim",
+  "recipes": [
+    {
+      "name": "Steamed egg side dish (Gyeranjjim)",
+      "source_url": "https://www.maangchi.com/recipe/gyeranjjim",
+      "recipe_id": "/recipe/gyeranjjim#sso/recipe/33105",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "1 serving",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "3 eggs, ½ cup water, 3 teaspoons salted shrimp sauce (saeujeot in Korean), and 2 chopped green onions"
+      ],
+      "instructions": [
+        "In a microwavable bowl, put eggs, water, salted shrimp sauce, and green onion. Mix well. *tip: If you don’t have salted shrimp sauce, you can use 3 teaspoons fish sauce.",
+        "Put it into the microwave oven and cook it for 5 minutes. Serve it with rice.",
+        "In a microwavable bowl, add the eggs, water, soy sauce, hot pepper flakes, chopped green onions, and the toasted sesame seeds powder and mix it well with a fork.",
+        "Put it into a microwave oven and cook it for 5 minutes.",
+        "Dribble some sesame oil on top before serving."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "3 eggs, ½ cup water, 3 teaspoons salted shrimp sauce (saeujeot in Korean), and 2 chopped green onions"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "In a microwavable bowl, put eggs, water, salted shrimp sauce, and green onion. Mix well. *tip: If you don’t have salted shrimp sauce, you can use 3 teaspoons fish sauce."
+        },
+        {
+          "tag": "li",
+          "text": "Put it into the microwave oven and cook it for 5 minutes. Serve it with rice."
+        },
+        {
+          "tag": "p",
+          "text": "If you don’t have microwave oven, steam it. In a large pot, pour about 3-4 cups of water and place the bowl that contains the egg mixture in the center of the pot. Close the lid and steam it for about 15 minutes over medium heat."
+        },
+        {
+          "tag": "p",
+          "text": "This spicy steamed egg side dish is unusual because hot pepper flakes are used. I learned this recipe from my cousin living in a very southern part of Korea. Sometimes I make it this way and sometimes I make the mild one, which is more authentic gye ran jjim."
+        },
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "3 eggs, ½ cup of water, 1½ tbs soy sauce, 2 ts Korean hot pepper flakes (gochugaru), ½ tbs toasted sesame seeds powder, 3 green onion or chopped Asian chives (buchu), and sesame oil."
+        },
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "In a microwavable bowl, add the eggs, water, soy sauce, hot pepper flakes, chopped green onions, and the toasted sesame seeds powder and mix it well with a fork."
+        },
+        {
+          "tag": "li",
+          "text": "Put it into a microwave oven and cook it for 5 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Dribble some sesame oil on top before serving."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

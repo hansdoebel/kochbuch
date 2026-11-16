@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/shredded-bbq-tofu-wrap-1852",
+  "recipes": [
+    {
+      "name": "Shredded BBQ Tofu Wrap",
+      "source_url": "https://www.pickuplimes.com/recipe/shredded-bbq-tofu-wrap-1852",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT20M",
+      "cook_time": "PT15M",
+      "total_time": "PT35M",
+      "ingredients": [
+        "15.873 oz firm tofu",
+        "4 large soft flour tortilla",
+        "½ cup canned corn",
+        "1½ cup spinach",
+        "⅓ cup barbecue sauce",
+        "1 Tbsp vegetable oil",
+        "4 garlic clove",
+        "½ tsp smoked paprika powder",
+        "⅓ cup long-grain white rice",
+        "1 stalk green onion",
+        "1½ cup shredded red cabbage",
+        "⅓ cup vegan mayonnaise",
+        "1 Tbsp chipotle adobo sauce"
+      ],
+      "instructions": [
+        "Cook the rice according to the package instructions. When done, fluff and set it aside.",
+        "Next, grate the tofu into large shreds.",
+        "Drizzle the oil in a sauté pan over medium-high heat. When hot, add the tofu, garlic, and smoked paprika. Cook for 4 to 5 minutes.",
+        "Then add the BBQ sauce. Cook for another 1 to 2 minutes and take it off the heat.",
+        "Assemble the wraps with cooked rice in the middle, then topping it with the tofu, spinach, cabbage, corn, and green onion.",
+        "Wrap it up and toast it in a grill pan if desired.",
+        "Mix the sauce in a small bowl and serve it along with the wraps. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Our large tortillas measure about 10 inches (25 cm) in diameter. † The chipotle sauce we use is a blend of chipotle peppers with water, vinegar, and spices. It's a deep red-coloured sauce. Some chipotle sauces are mayo-based, and we do not recommend using these versions in this recipe.",
+    "Storage These wraps are best when enjoyed on the day they are made."
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-spinat-quesadilla",
+  "recipes": [
+    {
+      "name": "Vegane Spinat-Quesadillas",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-spinat-quesadilla",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-spinat-quesadilla#recipe-2d462a9a-cb77-53af-a702-6c7b3b226af9",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "4 Weizentortillas",
+        "1 Zwiebel",
+        "2 Knoblauchzehen",
+        "250 g frischer Spinat",
+        "100 g Cashews (eingeweicht für mind. 2 Std.)",
+        "50 ml Wasser",
+        "3 EL vegane Mayo",
+        "50 g Walnüsse",
+        "1 EL Hefeflocken",
+        "Salz",
+        "Pfeffer",
+        "Chiliflocken",
+        "Muskat",
+        "Paprika-Tomaten-Dip zum Servieren (das Rezept dafür findet ihr hier"
+      ],
+      "instructions": [
+        "Zwiebel und Knoblauch schälen und fein hacken. Öl einer Pfanne erhitzen und die Zwiebel, Knoblauch und Chiliflocken anschwitzen, bis die Zwiebelwürfel glasig werden. Anschließend Blattspinat dazugeben und mit anbraten, bis er zusammenfällt. Das dauert nur wenige Minuten. Nun mit Salz, Pfeffer und Muskat abschmecken.",
+        "Eingeweichte Cashews, Wasser, Hefefocken und vegane Mayonnaise in einem hohen Standgefäß mit einem Pürierstab zu einer glatten Mischung pürieren. Bei Bedarf mehr Wasser dazugeben. Mit Salz und Pfeffer würzen.",
+        "Die Cashewmischung zum Spinat in die Pfanne geben und gut vermengen. Walnüsse hacken und unterrühren. Nach Geschmack nachwürzen.",
+        "Öl in einer zweiten großen Pfanne erhitzen. Weizentortilla in die Pfanne legen und die Hälfte der Spinat-Cashew-Mischung darauf verteilen. Eine zweiten Weizentortilla darauflegen und leicht andrücken. Sobald die Unterseite gut gebräunt ist, wenden und von der zweiten Seite goldbraun anbraten.",
+        "Aus der Pfanne nehmen und mit den restlichen Weizentortillas und der restlichen Füllung wiederholen. Die Quesadillas ca. 2-3 Minuten abkühlen lassen. Danach in Stücke schneiden und mit Paprika-Tomaten-Dip (oder einem Dip eurer Wahl) servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

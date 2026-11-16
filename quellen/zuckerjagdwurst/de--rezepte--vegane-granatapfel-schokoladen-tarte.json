@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-granatapfel-schokoladen-tarte",
+  "recipes": [
+    {
+      "name": "Vegane Granatapfel-Schokoladen-Tarte",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-granatapfel-schokoladen-tarte",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-granatapfel-schokoladen-tarte#recipe-d7274d74-aa32-5a84-ba94-00ecaa21fae0",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Tarte (∅ 28 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für den Boden",
+        "250 g Weizenmehl (Type 405)",
+        "20 g Backkakao",
+        "75 g Zucker",
+        "125 g vegane Butter (kalt)",
+        "kaltes Wasser nach Bedarf",
+        "vegane Butter zum Einfetten",
+        "Für die Schokoladen-Creme",
+        "200 ml vegane Sahne zum Aufschlagen",
+        "8 g (2 TL) Sahnesteif",
+        "8 g (1.5 TL) Vanillezucker",
+        "300 g veganer Frischkäse",
+        "50 g Puderzucker",
+        "20 g Backkakao",
+        "100 g Zartbitterschokolade",
+        "Für die Dekoration",
+        "1 Granatapfel",
+        "Rosmarinzweige",
+        "Zucker",
+        "gehackte Schokolade"
+      ],
+      "instructions": [
+        "Für den Mürbeteig Weizenmehl, Backkakao und Zucker in einer großen Schüssel vermischen. Kalte vegane Butter dazugeben und mit kalten Händen verkneten. Nach Bedarf etwas kaltes Wasser dazugeben, bis alle Zutaten zu einem geschmeidigen Teig vermengt sind. Den Teig mindestens 30 Minuten im Kühlschrank ruhen lassen.",
+        "Den Backofen auf 180 °C (Umluft) vorheizen und eine Tarteform (∅ 28 Zentimeter) einfetten. Den Teig aus dem Kühlschrank nehmen und zwischen zwei Blättern Backpapier ausrollen, bis er so groß ist, dass er den Boden und Rand der Tarteform bedeckt. Den Teig in die Form legen und leicht am Boden und Rand festdrücken. Den überschüssigen Teig abschneiden. Mit einer Gabel mehrfach in den Teigboden pieksen, damit keine Blasen beim Backen entstehen. Den Tarteboden circa 15–20 Minuten backen. Danach komplett auskühlen lassen.",
+        "Während der Backzeit den Granatapfel in einer Schüssel mit Wasser entkernen und im Anschluss auf einem Küchentuch abtropfen lassen.",
+        "Für die Schokoladen-Schicht vegane Sahne mit Sahnesteif und Vanillezucker aufschlagen, den veganen Frischkäse, Puderzucker und Backkakao hinzugeben und alles zu einer glatten Creme mixen. Die Zartbitterschokolade schmelzen und zügig unterrühren.",
+        "Die Creme 30 Minuten kaltstellen und danach auf dem Boden verstreichen. Die Rosmarinzweige kurz unter Wasser halten, etwas ausschütteln und dann in Zucker wenden. Mit Granatapfelkernen, gehackter Schokolade und den Rosmarinzweigen toppen und bis zum Servieren kaltstellen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

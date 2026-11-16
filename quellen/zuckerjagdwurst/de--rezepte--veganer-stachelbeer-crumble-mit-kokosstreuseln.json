@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-stachelbeer-crumble-mit-kokosstreuseln",
+  "recipes": [
+    {
+      "name": "Veganer Stachelbeer-Crumble mit Kokosstreuseln",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-stachelbeer-crumble-mit-kokosstreuseln",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-stachelbeer-crumble-mit-kokosstreuseln#recipe-9b62f60b-2040-5092-9d60-fc1e0c7fa70e",
+      "authors": [
+        "Lara Iwaloye"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Crumble (20 x 25 cm) oder 6 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für die Kokosstreusel:",
+        "120 g Zucker",
+        "180 g Mehl",
+        "100 g pflanzliche Margarine",
+        "100 g Kokosraspeln",
+        "Außerdem:",
+        "800 g Stachelbeeren",
+        "50 g Zucker",
+        "vegane Butter zum Einfetten",
+        "100 g vegane weiße Schokolade (geschmolzen)"
+      ],
+      "instructions": [
+        "Die Zutaten für die Streusel verkneten. Die Stachelbeeren entstielen, waschen und mit dem Zucker vermischen.",
+        "Zuerst die Stachelbeeren, dann die Streusel in eine gefettete Auflaufform (20 x 25 cm) oder mehrere kleine Formen geben.",
+        "Den Crumble bei 180 °C (Umluft) für circa 30 Minuten backen. Auskühlen lassen und mit geschmolzener, weißer Schokolade verzieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

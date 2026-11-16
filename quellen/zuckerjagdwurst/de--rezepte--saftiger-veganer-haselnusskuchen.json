@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/saftiger-veganer-haselnusskuchen",
+  "recipes": [
+    {
+      "name": "Saftiger, veganer Haselnusskuchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/saftiger-veganer-haselnusskuchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/saftiger-veganer-haselnusskuchen#recipe-ebe2c42d-1a0c-5aea-a573-b1b1dd635ac7",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (26 x 11 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Für den Haselnusskuchen:",
+        "50 g Haselnüsse",
+        "250 g Weizenmehl (Type 405)",
+        "150 g gemahlene Haselnüsse",
+        "150 g weißer Zucker",
+        "2 EL Kichererbsenmehl",
+        "8 g Backpulver",
+        "8 g Vanillezucker",
+        "1 Prise Salz",
+        "100 ml neutrales Pflanzenöl",
+        "2 EL Apfelmus",
+        "250 ml pflanzliche Milch",
+        "Außerdem:",
+        "200 g vegane Zartbitterschokolade",
+        "100 g Haselnüsse (zum Dekorieren)",
+        "vegane Butter zum Einfetten"
+      ],
+      "instructions": [
+        "Die Haselnüsse (für den Teig und für die Dekoration) in einer fettfreien Pfanne rösten und im Anschluss grob hacken.",
+        "In einer großen Schüssel Weizenmehl, gehackte Haselnüsse, gemahlene Haselnüsse, Zucker, Kichererbsenmehl, Backpulver, Vanillezucker und Salz vermischen. Pflanzenöl, Apfelmus und pflanzliche Milch hinzugeben und nur noch kurz unterrühren.",
+        "Eine Brotbackform (26 x 11 cm) mit veganer Butter einfetten und den Ofen auf 180 °C (Umluft) vorheizen. Den Teig in die Form geben. Den Kuchen im vorgeheizten Ofen bei 180 °C (Umluft) für etwa 50–60 Minuten backen. Mit einem Stäbchen testen, ob der Kuchen wirklich durchgebacken ist und mit Folie bedecken, falls er zu dunkel wird.",
+        "Nach dem Backen den Kuchen komplett abkühlen lassen. Die Schokolade schmelzen und über den Kuchen gießen. Mit den restlichen gehackten Haselnüssen dekorieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

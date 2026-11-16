@@ -1,0 +1,90 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/taco-tuesday-25-vegane-taquitos-mit-avocadosauce",
+  "recipes": [
+    {
+      "name": "Vegane Taquitos mit Avocadosauce",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/taco-tuesday-25-vegane-taquitos-mit-avocadosauce",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/taco-tuesday-25-vegane-taquitos-mit-avocadosauce#recipe-ebbef8b9-a6ec-5292-9c66-ad59991609eb",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Taquitos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "FÜR DIE FÜLLUNG",
+        "1/2 Tasse Reis",
+        "1 Tasse Wasser",
+        "2 EL Sojasahne",
+        "200 g geräucherter Tofu (alternativ auch veganes Hackfleisch)",
+        "1 EL Sojasauce",
+        "1 rote Zwiebel",
+        "3 Frühlingszwiebeln",
+        "pflanzliches Öl zum Braten",
+        "Salz",
+        "Pfeffer",
+        "FÜR DIE GRÜNE SAUCE",
+        "1 Avocado",
+        "1/2 Bund glatte Petersilie",
+        "1/2 Bund Koriander",
+        "1 Knoblauchzehe",
+        "1/2 Limette (Saft und Abrieb)",
+        "5 EL Sojasahne",
+        "FÜR DAS TOPPING",
+        "frischer Koriander",
+        "1 Limette",
+        "ZUSÄTZLICH",
+        "vegane Sour Cream (Rezept auf dem Blog)"
+      ],
+      "instructions": [
+        "Der Reis für die Füllung braucht am längsten, also beginnen wir mit ihm. Nehmt euch einen Topf, gebt den Reis hinein und gießt mit Wasser auf. Salzt das ganze leicht und bringt das Wasser zum Kochen. Danach dreht ihr die Hitze zurück und lasst den Reis für etwa 15 Minuten bei mittlerer Hitze köcheln, bis das Wasser komplett aufgesogen ist. Wenn der Reis euch noch immer zu bissfest ist, gebt ihr nochmal etwas Wasser hinzu, verrührt das ganze einmal und wartet dann wieder, bis das Wasser weg ist. Rührt zum Schluss Sojasahne unter.",
+        "Während der Reis kommt, nehmt ihr eine große Pfanne und erhitzt 2 EL pflanzliches Öl. Zerbröselt den geräucherten Tofu hinein und bratet ihn scharf an. Nach etwa 2-3 Minuten gebt ihr Sojasauce hinzu und lass ihn dann weitere 5 Minuten braten. Die rote Zwiebel fein würfeln und die Hälfte dazugeben, den Rest beiseite legen. Mit Salz und Pfeffer abschmecken.",
+        "Frühlingszwiebeln in Ringe schneiden, aber die Hälfte für das Topping am Ende zur Seite stellen.",
+        "Nehmt euch eure Taco-Fladen und gebt auf das untere Drittel Reis, Tofu und Frühlingszwiebeln. Rollt den Taco dann von unten nach oben ein, so dass ihr eine kleine Rolle vor euch liegen habt. Diese kommt nun in eine Auflaufform.",
+        "Wiederholt diesen Vorgang mit allen Teig-Fladen, bis alle zusammen nebeneinander in der Auflaufform kuscheln. Danach geht es für sie für etwa 10 Minuten bei 160°C in den Ofen.",
+        "In der Zwischenzeit werden alle Saucen und Toppings vorbereitet. Verrührt alle Zutaten für die vegane Sour Cream, siehe Rezept unten. Für die Green Sauce gebt ihr alle Zutaten in ein hohes Standgefäß und püriert das ganze ordentlich, bis ihr eine cremige Sauce habt. Wem die Sauce zu dick ist, kann noch etwas mehr Sojasahne dazugeben. Optional mit Salz und Pfeffer abschmecken, uns hat die Sauce so wie sie war schon sehr gut geschmeckt.",
+        "Eure Taquitos sollten nun kross sein. Nehmt sie aus dem Ofen und serviert sie mit Avocado-Sauce und Sour Cream, sowie frischem Koriander und dem Rest der Frühlingszwiebeln und gewürfelten roten Zwiebel. Legt außerdem eine Viertel Limette dazu, die ihr über euren Taquitos ausdrücken könnt. Guten Appetit!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Vegane Sour Cream",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/taco-tuesday-25-vegane-taquitos-mit-avocadosauce",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/taco-tuesday-25-vegane-taquitos-mit-avocadosauce#recipe-7fffae3a-0e69-5589-8dcf-265ab29f8842",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "250g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "200 g Sojaquark",
+        "150 g veganer Frischkäse",
+        "1 TL Knoblauchpulver",
+        "1 EL Apfelessig",
+        "1 Zitrone (Saft)",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Zitrone auspressen.",
+        "In einer Schüssel alle Zutaten verrühren, Zitronensaft dazurühren.",
+        "Mit Salz & Pfeffer abschmecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

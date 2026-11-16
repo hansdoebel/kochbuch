@@ -1,0 +1,42 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/mangu-and-los-tres-golpes",
+  "recipes": [
+    {
+      "name": "Mangu & 'Los Tres Golpes'",
+      "source_url": "https://app.cookwell.com/recipe/mangu-and-los-tres-golpes",
+      "recipe_id": "https://app.cookwell.com/recipe/mangu-and-los-tres-golpes",
+      "authors": [
+        "Cook Well Official"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 serving",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Green plantains, 1",
+        "Water, as needed",
+        "Butter, a spoonful",
+        "Salt, to taste",
+        "Queso de freir, 2-3 slices",
+        "Salami, 2-3 slices",
+        "Eggs, 1-2",
+        "Cooking oil, a drizzle",
+        "Pickled onions, for garnish"
+      ],
+      "instructions": [
+        "Peel the plantains and add them to a pot with water, making sure they are covered. Bring the pot to a simmer and boil the plantains until they are completely softened.",
+        "Once softened, transfer the plantains to a bowl, then begin mashing with a fork. Add some butter and a splash of water and continue mashing until the plantains hold together and resemble a stiff, rustic mashed potato texture, adding more butter or water as needed. Taste and adjust with salt.",
+        "In a nonstick pan, add a drizzle of cooking oil and sear the cheese until well browned on each side (the recommended cheeses above shouldn’t melt too much). Then sear the salami slices until lightly browned. Lastly, fry the eggs to your liking.",
+        "To a plate, add a scoop of mangú, followed by sides of fried cheese, salami, and eggs. Top with pickled onions, and enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

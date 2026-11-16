@@ -1,0 +1,61 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/cheesy-gordita-crunch",
+  "recipes": [
+    {
+      "name": "Cheesy Gordita Crunch",
+      "source_url": "https://app.cookwell.com/recipe/cheesy-gordita-crunch",
+      "recipe_id": "https://app.cookwell.com/recipe/cheesy-gordita-crunch",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "6-8 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "80/20 ground beef, 450 g",
+        "Salt, 7 g",
+        "Onion Powder, 5 g",
+        "Cumin, 5 g",
+        "Cayenne Pepper, 5 g",
+        "Paprika, 5 g",
+        "Tomato Paste, a spoonful",
+        "MSG, a sprinkle",
+        "Chicken Breasts, 450 g",
+        "Mayonnaise, 2 spoonfuls",
+        "Chipotles in Adobo, a spoonful",
+        "Cumin, a sprinkle",
+        "Salt, a sprinkle",
+        "Sour Cream, 1 part",
+        "Mayonnaise, 1 part",
+        "Hot Sauce, a drizzle",
+        "Cumin, a sprinkle",
+        "Ground coriander, a sprinkle",
+        "Pickled jalapeños, a spoonful",
+        "Lime juice, 1/4 lime",
+        "Salt, a sprinkle",
+        "MSG, a sprinkle",
+        "Taco Shells, 6-8",
+        "Pita Bread, 6-8",
+        "Colby Jack Cheese",
+        "Iceberg lettuce",
+        "Red Onions",
+        "Tomatoes"
+      ],
+      "instructions": [
+        "Over medium-high heat, add the ground beef, salt, onion powder, cumin, paprika, and cayenne to a pan. Use a potato masher or metal spatula to break the beef into pieces while it sears. In a separate bowl, combine the cubed chicken breast with mayo, adobo, cumin, and salt. Set this mixture aside to marinade. After the beef is well-browned and fully cooked, add a squirt of tomato paste and a splash of water to deglaze the pan. Stir well to ensure the mixture is evenly coated.",
+        "Reserve the beef in a container and wipe out the pan. Over high heat, sear the chicken until cooked through and browned on each side. Remove from pan when done.",
+        "While the chicken is cooking, thinly slice some lettuce and onions, and then grate the cheese. In a container, thoroughly mix all spicy ranch components and taste for salt & heat, and adjust if necessary.",
+        "Add a layer of cheese to a pita and melt it using a microwave, toaster oven, or kitchen torch. While the cheese is still warm, wrap the pita around the hard taco shell so they stick together. Fill the taco shell with your preferred meat, add another layer of grated cheese, spicy ranch, lettuce, and onion. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

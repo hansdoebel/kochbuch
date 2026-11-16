@@ -1,0 +1,34 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/nice-cream",
+  "recipes": [
+    {
+      "name": "Nice Cream",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/nice-cream",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/nice-cream#recipe-7e3bd062-48a8-5bd3-8ef9-0ae171b2165a",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "2 gefrorene Bananen (am Vortag)",
+        "1 TL Vanillearoma (optional)"
+      ],
+      "instructions": [
+        "Die Bananen solltet ihr unbedingt schon einen Tag vorab vorbereiten. Schält 2 Bananen, schneidet sie in Stücke und friert sie über Nacht ein (am besten in einer Tupperdose oder einer Tüte).",
+        "Die gefrorenen Bananenstücke kurz antauen lassen, in einen Standmixer geben und so lange mixen, bis eine cremige Eiskonsistenz entsteht.",
+        "Wer den puren Geschmack von Banane nicht mag, kann auch noch etwas Vanillearoma hinzugeben und alles nochmal mixen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

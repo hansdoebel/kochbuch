@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-queso-dip",
+  "recipes": [
+    {
+      "name": "Veganer Queso Dip",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-queso-dip",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-queso-dip#recipe-56b6a83b-c9ae-51a1-8243-66317c2ea556",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 große Schüssel",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "400 g Kartoffeln",
+        "1 große Möhre",
+        "1 Zwiebel",
+        "60 g Cashewkerne Natur (eingeweicht über Nacht, oder mindestens in warmen Wasser für 30 Minuten)",
+        "30 g Hefeflocken",
+        "50 ml pflanzliche Milch",
+        "0.5 TL Knoblauchpulver",
+        "0.5 TL Zwiebelpulver",
+        "3 EL Jalapenosaft + 5 Jalapenos (eingelegt aus dem Glas)",
+        "1 EL Zitronensaft",
+        "Salz & Pfeffer",
+        "Cayennepfeffer"
+      ],
+      "instructions": [
+        "Nehmt euer Gemüse. Schält Kartoffeln, Möhren und Zwiebeln und schneidet sie in etwa gleich große Stücken. Gebt die Stücke in einen Topf, bedeckt das ganze mit leicht gesalzenem Wasser. Lasst alles köcheln, bis das Gemüse weich ist. Gemüse abtropfen und die Kochflüssigkeit dabei auffangen.",
+        "In einen Mixer werft ihr euer weiches Gemüse, die eingeweichten Cashews, 5 Jalapeno-Ringe und Hefeflocken und füllt mit ca. 100 ml der Kochflüssigkeit, Sojamilch und Jalapeno-Saft auf. Mixer anschalten und alles gut pürieren lassen, bis es cremig ist.",
+        "Jetzt geht es ans Abschmecken mit Knoblauch- und Zwiebelpulver, Zitronensaft, Salz, Pfeffer und Cayenne.",
+        "Wem das ganze noch nicht \"käsig\" genug schmeckt, der würzt mit etwas mehr Hefeflocken nach. Unbedingt warm servieren!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schmorgurken-kartoffel-pfanne-mit-veganen-hackbaellchen",
+  "recipes": [
+    {
+      "name": "Schmorgurken-Kartoffel-Pfanne mit veganen Hackbällchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schmorgurken-kartoffel-pfanne-mit-veganen-hackbaellchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/schmorgurken-kartoffel-pfanne-mit-veganen-hackbaellchen#recipe-317cc64c-1e6f-5540-ba74-5938ca78924a",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "1 kg Schmorgurken",
+        "800 g vorwiegend festkochende Kartoffeln",
+        "2 Zwiebeln",
+        "1 Knoblauchzehe",
+        "15 g frischer Dill",
+        "1 EL vegane Butter",
+        "1 EL Mehl",
+        "150 ml Gemüsebrühe",
+        "1 EL (körniger) Senf",
+        "2 EL Senfkörner",
+        "2 EL Apfelessig",
+        "ca. 350 g vegane Hackbällchen",
+        "200 g Räuchertofu",
+        "Pflanzenöl zum Braten",
+        "veganer Schmand (oder veganer Joghurt) zum Servieren",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Die Schmorgurken schälen, halbieren, entkernen (das Fruchtfleisch aufheben!) und in breite Scheiben schneiden. Die Gurkenkerne pürieren und beiseitestellen. Kartoffeln schälen und in mundgerechte Stücke schneiden. Die Zwiebeln schälen, halbieren und in dünne Scheiben schneiden. Knoblauch in Scheiben schneiden. Den frischen Dill grob hacken.",
+        "Pflanzenöl in einer Pfanne bei mittlerer Hitze erwärmen. Zuerst Gurken-, Zwiebel- und Knoblauchscheiben 3–4 Minuten gemeinsam anbraten. Die Kartoffelstückchen dazugeben, mit den pürierten Gurkenkernen aufgießen, einen Deckel auf die Pfanne legen und alles circa 15 Minuten dünsten, bis die Kartoffeln weich, aber noch bissfest sind.",
+        "Tipp: Solltet ihr zu wenig Flüssigkeit haben, etwas Wasser dazugeben, damit die Kartoffeln wirklich weich werden und nicht braten.",
+        "Den Deckel von der Pfanne nehmen, vegane Butter dazugeben und einrühren. Alles mit Mehl bestäuben und direkt danach die Gemüsebrühe gut einrühren. Senf, Senfkörner und Apfelessig dazugeben und noch mehrere Minuten köcheln lassen, bis die Soße eure gewünschte Konsistenz hat und die Kartoffeln wirklich gar sind.",
+        "In der Zwischenzeit die veganen Hackbällchen in einer Pfanne anbraten. Den Räuchertofu in kleine Würfel schneiden und diese ebenfalls anbraten.",
+        "Die Schmorgurken-Pfanne mit Salz und Pfeffer abschmecken. Zum Schluss Dill einrühren, mit veganem Schmand und optional mit Räuchertofu toppen und mit den veganen Hackbällchen servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

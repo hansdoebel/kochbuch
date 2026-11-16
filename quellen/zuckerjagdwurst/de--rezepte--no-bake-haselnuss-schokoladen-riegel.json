@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/no-bake-haselnuss-schokoladen-riegel",
+  "recipes": [
+    {
+      "name": "No Bake Haselnuss-Schokoladen-Riegel",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/no-bake-haselnuss-schokoladen-riegel",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/no-bake-haselnuss-schokoladen-riegel#recipe-d4e93367-d603-5caf-a860-683d2be9e619",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "18 Riegel",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Für die Müslischicht:",
+        "750 g veganes Nuss-Müsli (z.B. Krunchy Joy Nuss von barnhouse)",
+        "40 g vegane Butter",
+        "160 g Apfelmus",
+        "Für die Schokoladenschicht:",
+        "400 g Zartbitterschokolade",
+        "80 g Nussbutter oder Nussmus (z. B. Erdnussbutter oder Mandelmus)",
+        "Für die Dekoration:",
+        "100 g ganze Haselnüsse",
+        "Außerdem:",
+        "Pflanzenöl zum Einfetten der Form"
+      ],
+      "instructions": [
+        "Vegane Butter in einem kleinen Topf schmelzen lassen. Das vegane Nuss-Müsli, Apfelmus und geschmolzene vegane Butter im Anschluss in einen Zerkleinerer oder Mixer geben und ca. 30-60 Sekunden mixen, bis das Müsli sich gut mit den Flüssigkeiten verbunden hat, aber dennoch nicht zu fein gemahlen ist.",
+        "Eine Form (25x21 cm) mit etwas Pflanzenöl einfetten und die zerkleinerte Müslimischung darin gleichmäßig mit einem Löffel oder Spatel verteilen und festdrücken.",
+        "Zartbitterschokolade grob hacken und in einer hitzebeständigen Schüssel über einem Topf mit köchelndem Wasser schmelzen lassen. Sobald sie geschmolzen ist, Erdnussbutter dazugeben, ebenfalls unter Rühren schmelzen lassen und dabei beide Zutaten vermengen. Parallel dazu die Haselnusskerne zur Dekoration grob hacken und in einer Pfanne ohne Öl ein paar Minuten rösten, bis sie leicht gebräunt sind und herrlich duften.",
+        "Die geschmolzene Schokolade auf die Müslischicht gießen, glatt streichen und mit den gerösteten Haselnusskernen dekorieren. Die Riegel in der Form mindestens eine Stunde komplett abkühlen lassen und im Anschluss in Riegel schneiden. Die Riegel danach im Kühlschrank aufbewahren und innerhalb von 3-4 Tagen verzehren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

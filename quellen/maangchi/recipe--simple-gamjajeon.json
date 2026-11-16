@@ -1,0 +1,142 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/simple-gamjajeon",
+  "recipes": [
+    {
+      "name": "Simple potato pancake (Gamjajeon: 감자전)",
+      "source_url": "https://www.maangchi.com/recipe/simple-gamjajeon",
+      "recipe_id": "/recipe/simple-gamjajeon#sso/recipe/70227",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 large potato (8 ounces), peeled and grated",
+        "¼ cup grated onion",
+        "¼ teaspoon kosher salt",
+        "¼ cup potato starch",
+        "¼ cup grape seed oil (or vegetable oil)",
+        "2 tablespoons soy sauce",
+        "1 tablespoon freshly squeezed lime juice (or vinegar)",
+        "1 green onion, chopped",
+        "¼ cup thinly sliced onion",
+        "1 jalapeno pepper, chopped",
+        "½ teaspoon sugar"
+      ],
+      "instructions": [
+        "To make the dipping sauce, combine soy sauce, lime juice, green onion, onion, jalapeno pepper, and sugar in a small bowl and mix it together until the sugar is melted. Set aside.",
+        "Put the grated potato and onion in a bowl. Add salt, potato starch and mix it together.",
+        "Heat up a 9 to 12 inch nonstick pan over medium-high heat.",
+        "Add 2 tablespoons grape seed oil and swirl the pan around to coat it evenly. Add the potato mixture and spread it thinly on the pan.",
+        "Cook a few minutes until the bottom of the pancake turns crispy and a light golden brown.",
+        "Turn it over with a spatula or flip it. Add the rest of the grape seed oil to the edge of the pancake. Shake the pan and tilt it so that oil spreads underneath the pancake. Let it cook until the bottom of the pancake turns golden brown.",
+        "Keep turning it over and cooking until both sides are crispy and light golden brown, usually about 8 to 10 minutes.",
+        "Transfer it to a plate and serve hot with the sauce."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "(2 servings)"
+        },
+        {
+          "tag": "li",
+          "text": "1 large potato (8 ounces), peeled and grated"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup grated onion"
+        },
+        {
+          "tag": "li",
+          "text": "¼ teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup potato starch"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup grape seed oil (or vegetable oil)"
+        },
+        {
+          "tag": "h3",
+          "text": "For dipping sauce"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon freshly squeezed lime juice (or vinegar)"
+        },
+        {
+          "tag": "li",
+          "text": "1 green onion, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup thinly sliced onion"
+        },
+        {
+          "tag": "li",
+          "text": "1 jalapeno pepper, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon sugar"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "To make the dipping sauce, combine soy sauce, lime juice, green onion, onion, jalapeno pepper, and sugar in a small bowl and mix it together until the sugar is melted. Set aside."
+        },
+        {
+          "tag": "li",
+          "text": "Put the grated potato and onion in a bowl. Add salt, potato starch and mix it together."
+        },
+        {
+          "tag": "li",
+          "text": "Heat up a 9 to 12 inch nonstick pan over medium-high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Add 2 tablespoons grape seed oil and swirl the pan around to coat it evenly. Add the potato mixture and spread it thinly on the pan."
+        },
+        {
+          "tag": "li",
+          "text": "Cook a few minutes until the bottom of the pancake turns crispy and a light golden brown."
+        },
+        {
+          "tag": "li",
+          "text": "Turn it over with a spatula or flip it. Add the rest of the grape seed oil to the edge of the pancake. Shake the pan and tilt it so that oil spreads underneath the pancake. Let it cook until the bottom of the pancake turns golden brown."
+        },
+        {
+          "tag": "li",
+          "text": "Keep turning it over and cooking until both sides are crispy and light golden brown, usually about 8 to 10 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer it to a plate and serve hot with the sauce."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

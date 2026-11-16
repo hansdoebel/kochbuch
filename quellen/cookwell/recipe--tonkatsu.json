@@ -1,0 +1,50 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/tonkatsu",
+  "recipes": [
+    {
+      "name": "Tonkatsu",
+      "source_url": "https://app.cookwell.com/recipe/tonkatsu",
+      "recipe_id": "https://app.cookwell.com/recipe/tonkatsu",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Pork Chops, 2-4",
+        "Flour, 50 g",
+        "Cornstarch, 25 g",
+        "Eggs, 2",
+        "Panko bread crumbs, 50 g",
+        "Neutral oil, for frying",
+        "Salt, to taste",
+        "Cabbage, 1/4",
+        "Kewpie mayo, 20 g",
+        "Soy Sauce, 5 g",
+        "Sriracha, 5 g",
+        "Rice Vinegar, 5 g",
+        "Carrots, 1/4",
+        "Fresh ginger, a small knob",
+        "Garlic, 1 clove",
+        "Lemon zest, 1/2 lemon",
+        "Tonkatsu sauce",
+        "Lemons"
+      ],
+      "instructions": [
+        "Make the slaw dressing: Using a micro grater, grate the ginger, garlic and peeled carrot into a bowl. Zest the lemon and add the mayo, rice wine vinegar, soy sauce, and sriracha. Mix together and taste it, adjust seasoning as needed. Toss with thinly sliced cabbage or save to spoon over the top. Set aside for serving.",
+        "Pound or slice the boneless pork chops to roughly 3/4 (19 mm) thick. Sprinkle salt evenly over the exterior of both sides. Place a wok over medium heat and add enough neutral oil for deep frying about 2 inches high in the pan. Meanwhile, in three separate trays or plates add the cornstarch + flour into one tray, the beaten egg into the next, and the panko bread crumbs into the last. Bread the pork cutlets by first coating the exterior in the flour/starch mixture, followed by the egg before finishing in the panko bread crumbs. Push down on the bread crumbs to ensure it sticks to their exterior.",
+        "Using a thermometer, verify the temp of the oil is 350° F/ 176° C. Slowly drop the pork cutlets into the oil until golden brown. In total, fry the pork for about 7 to 9 minutes, slightly agitating them throughout. When browned to your liking, move to a paper towel on a wire rack, dab the excess oil, and move to the wire portion so it doesn't get soggy. Add a sprinkle of salt after frying. To serve, slice the cutlets into pieces. Eat with tonkatsu sauce and the ginger carrot sauced cabbage. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

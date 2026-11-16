@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/dark-chocolate-trail-mix-bars-284",
+  "recipes": [
+    {
+      "name": "Dark Chocolate Trail Mix Bars",
+      "source_url": "https://www.pickuplimes.com/recipe/dark-chocolate-trail-mix-bars-284",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "12 bars",
+      "prep_time": "PT15M",
+      "cook_time": "PT05M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "14.109 oz dairy-free dark chocolate",
+        "⅓ cup unsalted roasted almonds",
+        "3 Tbsp dried cranberries",
+        "2 Tbsp roasted pumpkin seeds",
+        "2 Tbsp unsweetened toasted coconut flakes",
+        "2 tsp dried goji berries"
+      ],
+      "instructions": [
+        "Line an 8 x 8 inch (21 x 21 cm) baking dish with parchment paper. Melt the chocolate in a microwave or on the stove, using a double boiler.",
+        "Pour half of the melted chocolate into the dish and spread it out into an even layer. Sprinkle about half of the almonds, cranberries, and pumpkin seeds over top.",
+        "Drizzle the remaining half of the chocolate over top, \"sandwiching\" the almonds and cranberries in the middle of the chocolate layers, using a rubber spatula to even out the top.",
+        "Sprinkle the top with the remaining ingredients. Place in the fridge or freezer for 10 to 20 minutes to harden.",
+        "Cut into pieces, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We use 50 - 60% cocoa chocolate for a balanced sweetness. Darker varieties (70%+) can make the result too bitter.",
+    "Storage Store in an airtight container at room temperature or in the fridge for up to 1 month."
+  ]
+}

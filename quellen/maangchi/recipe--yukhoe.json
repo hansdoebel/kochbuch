@@ -1,0 +1,164 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/yukhoe",
+  "recipes": [
+    {
+      "name": "Seasoned raw beef (Yukhoe: 육회)",
+      "source_url": "https://www.maangchi.com/recipe/yukhoe",
+      "recipe_id": "/recipe/yukhoe#sso/recipe/6058",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "8 ounces (226 grams) of fresh tender beef. Choose any tender cut of beef without fat: flank steak, filet mignon, round, etc.",
+        "½ of a Korean pear (or 2 bosc or anjou pears)",
+        "1 tablespoon sugar",
+        "2 cups of cold water",
+        "6 or 7 garlic cloves, minced",
+        "½ of green onion, chopped",
+        "1 tablespoon soy sauce",
+        "1 tablespoon of honey (or sugar)",
+        "2 tablespoons toasted sesame oil",
+        "a pinch of ground black pepper",
+        "1 tablespoon toasted sesame seeds",
+        "7 or 8 pine nuts",
+        "1 egg yolk per person (optional)"
+      ],
+      "instructions": [
+        "Freeze the beef for 1 to 2 hours.",
+        "Make the seasoning sauce by combining garlic, green onion, soy sauce, honey, ground black pepper, toasted sesame oil, and sesame seeds in a bowl. Mix it well.",
+        "Mix 2 cups of cold water and 1 tablespoon sugar in a bowl with a spoon.",
+        "Peel the pear and cut it into matchsticks. Soak them in the sugar water for about 10 minutes.",
+        "Drain the pear sticks and dry with paper towel. Put them on a plate, clearing out a spot in the center to put your yukhoe.",
+        "Take the beef out from the freezer and rinse it in cold running water. Pat dry with paper towels.",
+        "Cut the beef into thin matchsticks and then Mix it with the seasoning sauce.",
+        "Place the yukhoe in the center of the plate of pear matchsticks."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "8 ounces (226 grams) of fresh tender beef. Choose any tender cut of beef without fat: flank steak, filet mignon, round, etc."
+        },
+        {
+          "tag": "li",
+          "text": "½ of a Korean pear (or 2 bosc or anjou pears)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon sugar"
+        },
+        {
+          "tag": "li",
+          "text": "2 cups of cold water"
+        },
+        {
+          "tag": "li",
+          "text": "6 or 7 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "½ of green onion, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon of honey (or sugar)"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "a pinch of ground black pepper"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame seeds"
+        },
+        {
+          "tag": "li",
+          "text": "7 or 8 pine nuts"
+        },
+        {
+          "tag": "li",
+          "text": "1 egg yolk per person (optional)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Get started"
+        },
+        {
+          "tag": "li",
+          "text": "Freeze the beef for 1 to 2 hours."
+        },
+        {
+          "tag": "li",
+          "text": "Make the seasoning sauce by combining garlic, green onion, soy sauce, honey, ground black pepper, toasted sesame oil, and sesame seeds in a bowl. Mix it well."
+        },
+        {
+          "tag": "h3",
+          "text": "Soak the pear"
+        },
+        {
+          "tag": "li",
+          "text": "Mix 2 cups of cold water and 1 tablespoon sugar in a bowl with a spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Peel the pear and cut it into matchsticks. Soak them in the sugar water for about 10 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Drain the pear sticks and dry with paper towel. Put them on a plate, clearing out a spot in the center to put your yukhoe."
+        },
+        {
+          "tag": "h3",
+          "text": "Make yukhoe"
+        },
+        {
+          "tag": "li",
+          "text": "Take the beef out from the freezer and rinse it in cold running water. Pat dry with paper towels."
+        },
+        {
+          "tag": "li",
+          "text": "Cut the beef into thin matchsticks and then Mix it with the seasoning sauce."
+        },
+        {
+          "tag": "li",
+          "text": "Place the yukhoe in the center of the plate of pear matchsticks."
+        },
+        {
+          "tag": "h3",
+          "text": "Serve"
+        },
+        {
+          "tag": "p",
+          "text": "Sprinkle with pine nuts and serve right away as a side dish for alcohol, or as a snack or appetizer. An optional egg yolk for dipping can be served to each diner."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

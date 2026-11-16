@@ -1,0 +1,71 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/burrito-bowl-mit-wassermelonen-salsa",
+  "recipes": [
+    {
+      "name": "Sommerliche Burrito-Bowl mit Wassermelonen-Salsa",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/burrito-bowl-mit-wassermelonen-salsa",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/burrito-bowl-mit-wassermelonen-salsa#recipe-ef158b1b-e223-55b7-94f4-dbefaaf1c29a",
+      "authors": [
+        "Anneke Schügner"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für die Salsa:",
+        "400 g Wassermelone",
+        "0.5 Gurke",
+        "1 rote Zwiebel",
+        "1 Knoblauchzehe",
+        "10 g frischer Koriander (optional)",
+        "1 eingelegte Jalapeño",
+        "3 Limetten (Saft und Schale)",
+        "Salz",
+        "Für das Gemüse:",
+        "300 g Süßkartoffel",
+        "300 g Blumenkohl",
+        "1.5 TL Koriander gemahlen",
+        "1.5 TL Kreuzkümmel gemahlen",
+        "1.5 TL edelsüßes Paprikapulver",
+        "1.5 TL rosenscharfes Paprikapulver",
+        "1 TL Knoblauchpulver",
+        "1.5 TL Zwiebelpulver",
+        "1 TL Salz",
+        "50 ml Olivenöl",
+        "Für den Reis:",
+        "500 g Blumenkohl",
+        "Salz",
+        "Für den Mais:",
+        "1 EL vegane Butter",
+        "150 g Mais aus der Dose",
+        "1 TL Knoblauchpulver",
+        "Koriander (optional)",
+        "0.25 TL Chiliflocken",
+        "75 g veganer Fetakäse",
+        "1 Limette",
+        "Salz",
+        "Außerdem:",
+        "240 g schwarze Bohnen aus der Dose",
+        "200 g Kirschtomaten",
+        "1 Avocado",
+        "Limetten"
+      ],
+      "instructions": [
+        "Ofen auf 180°C (Umluft) vorheizen. Wassermelone und Gurke in feine Würfel schneiden und zum Abtropfen in ein Sieb geben. In der Zwischenzeit Zwiebel und Knoblauch fein würfeln und Koriander und die eingelegte Jalapeño fein hacken. Wassermelone, Gurke, Zwiebel, Knoblauch und die Jalapeño in einer Schüssel vermengen und den Saft von drei sowie die Schale von einer Limette hinzugeben. Die Wassermelonen-Salsa mit Salz und Koriander abschmecken.",
+        "Süßkartoffel waschen und in etwa daumengroße Würfel schneiden. Blumenkohlröschen vom Strunk trennen und zerkleinern. Der Strunk kann später für den Blumenkohlreis verwendet werden. Beides auf ein Backblech geben. In einer Schüssel gemahlenen Koriander, gemahlenen Kreuzkümmel, edelsüßes Paprikapulver, rosenscharfes Paprikapulver, Knoblauch- und Zwiebelpulver vermischen. Olivenöl und Gewürzmix zum Gemüse geben und mit den Händen gleichmäßig vermengen. Bei 180°C (Umluft) für 20 Minuten backen.",
+        "Den restlichen Blumenkohl mit dem Messer grob zerkleinern und in den Mixer geben. Fein mixen, bis der Blumenkohl ungefähr die Größe von Reiskörnern hat. Den Blumenkohlreis in einen Topf mit gesalzenem, kochendem Wasser geben und ca. 7-8 Minuten köcheln lassen, anschließend abgießen und beiseite stellen.",
+        "Während der „Reis“ köchelt, vegane Butter in einer Pfanne erhitzen, Mais hinzugeben, mit Knoblauch, Salz, Koriander und Chilliflocken würzen und . Nach 3-4 Minuten Pfanne vom Herd nehmen und veganen Fetakäse und Limettensaft hinzugeben.",
+        "Die schwarzen Bohnen abgießen und waschen. Tomaten halbieren, Avocado in Scheiben schneiden und Limetten vierteln. Die Bowls nach Belieben anrichten und mit der Wassermelonen-Salsa servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

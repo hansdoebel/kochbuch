@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-koerniger-frischkaese-huettenkaese",
+  "recipes": [
+    {
+      "name": "Veganer körniger Frischkäse",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-koerniger-frischkaese-huettenkaese",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-koerniger-frischkaese-huettenkaese#recipe-75a07e75-c1ba-588b-a946-f07e527fe06a",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 400 g veganer körniger Frischkäse",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT200M",
+      "ingredients": [
+        "Für den veganen Frischkäse:",
+        "75 g Cashewkerne (über Nacht eingeweicht)",
+        "75 ml pflanzliche Milch",
+        "3 EL veganer Naturjoghurt (ungesüßt)",
+        "1 EL Hefeflocken",
+        "2 EL Apfelessig",
+        "200 g Naturtofu",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "Brot",
+        "Leinöl",
+        "Kresse",
+        "Schnittlauch"
+      ],
+      "instructions": [
+        "Die Cashewnüsse sollten bestenfalls über Nacht in Wasser einweichen, damit sie beim Pürieren wirklich cremig werden. Wenn ihr nur ein paar Stunden dafür habt, dann gebt ihnen einfach so lange wie möglich Zeit.",
+        "Eingeweichte Cashewnüsse, pflanzliche Milch, veganen Joghurt, Hefeflocken und Apfelessig zu einer sämig-glatten Mischung pürieren. Kräftig mit Salz und Pfeffer abschmecken.",
+        "Naturtofu mit den Händen zerbröseln und in eine Schüssel geben. Die Cashew-Mischung nach und nach hinzugeben und vermengen. Eventuell benötigt ihr nicht die komplette Cashew-Mischung, wenn euch die Konsistenz bereits gefällt. Mögt ihr es cremiger, könnt ihr auch noch mehr veganen Joghurt dazugeben. Den körnigen veganen Frischkäse abschmecken.",
+        "Den veganen körnigen Frischkäse entweder direkt essen oder über Nacht im Kühlschrank ziehen lassen. Mit Brot, Leinöl, frischer Kresse und Schnittlauch servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/selbstgebackene-sonntagsbroetchen-mit-gewuerzgurken-und-dill",
+  "recipes": [
+    {
+      "name": "Selbstgebackene Sonntagsbrötchen mit Gewürzgurken und Dill",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/selbstgebackene-sonntagsbroetchen-mit-gewuerzgurken-und-dill",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/selbstgebackene-sonntagsbroetchen-mit-gewuerzgurken-und-dill#recipe-fddec7fd-fe72-5a8e-9604-9eea58d7fb10",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "Für 6 Brötchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT165M",
+      "ingredients": [
+        "7 g Trockenhefe",
+        "370 g Weizenmehl (Type 550)",
+        "100 g Weizenvollkornmehl",
+        "8 g Salz",
+        "100 g Gewürzgurken",
+        "325 ml warmes Wasser",
+        "1 EL Olivenöl",
+        "Dill als Topping (optional)"
+      ],
+      "instructions": [
+        "Trockenhefe, Weizenmehl, Weizenvollkornmehl und Salz in einer Schüssel verrühren.",
+        "Die Gewürzgurken in kleine Würfel schneiden und zuerst gut mit Küchenpapier abtupfen, damit sie an Feuchtigkeit verlieren. Die geschnittenen Gurken zu den trockenen Zutaten geben und kurz vermengen. Dann warmes Wasser und Olivenöl dazugeben und alles zu einem Teig vermengen, bis kein trockenes Mehl mehr zu sehen ist.",
+        "Die Schüssel abgedeckt entweder 8–12 Stunden im Kühlschrank oder 1–2 Stunden bei Zimmertemperatur gehen lassen. Das Teigvolumen sollte sich mindestens verdoppeln.",
+        "Wenn der Teig im Kühlschrank war, nach der Ruhezeit zunächst 15 Minuten bei Zimmertemperatur stehen lassen, damit er wieder etwas wärmer wird. Den Teig auf eine bemehlte Arbeitsfläche legen und alle vier Seiten jeweils zur Mitte falten, so dass ein kompakterer Teigball entsteht. Danach einmal umdrehen, so dass die Oberseite nun unten ist und den Teig sanft mit den Händen zu einer dicken Scheibe drücken. Mit einem Messer oder einer Teigkarte in sechs gleich große Stücke teilen.",
+        "Die Teigdreiecke auf ein mit Backpapier ausgelegtes Backblech legen. Optional ein paar Dillzweige auf die Oberseite der Brötchen legen und vorsichtig andrücken.",
+        "Den Backofen auf 230 °C (Ober-/Unterhitze) vorheizen und eine ofenfeste Schale mit Wasser auf den Boden stellen. Dadurch haben die Brötchen kurz nochmal eine Ruhezeit.",
+        "Sobald der Ofen heiß ist, das Backblech mit den Brötchen in den Ofen schieben. Optional zusätzlich etwas Wasser in den heißen Ofen kippen, sodass Dampf entsteht. Die Ofentür schnell schließen und die Brötchen circa 25 Minuten bei 230 °C (Ober-/Unterhitze) backen, bis sie gut gebräunt und knusprig sind."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

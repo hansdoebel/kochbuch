@@ -1,0 +1,41 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/hatch-chile-smashburger",
+  "recipes": [
+    {
+      "name": "Hatch Chile Smashburger",
+      "source_url": "https://app.cookwell.com/recipe/hatch-chile-smashburger",
+      "recipe_id": "https://app.cookwell.com/recipe/hatch-chile-smashburger",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 burger",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "Hatch chiles, 2",
+        "Cheddar, a handful",
+        "American Cheese, 1 slice",
+        "Ground beef, 180 g",
+        "Hamburger buns, 1",
+        "Kewpie mayo, 15 g",
+        "Daikon & pickled carrots, 5 g",
+        "Cilantro, 5 g"
+      ],
+      "instructions": [
+        "Chop up the roasted hatch chilies, slice the cheddar cheese and break up the American cheese slice. Mix together the cheeses along with the peppers and set aside.",
+        "Set a pan or griddle over high heat. Split the ground beef in half and shape into patties. Place them on the pan or griddle and sprinkle with salt. Flip the patties over and smash the patties down as thin as possible with a spatula. Allow the patties to sear for several minutes until browned on the bottom. Once browned, flip over the patty. Top the burgers with the cheese & chile mixture. Allow the patties to continue browning and the cheese to melt.",
+        "Chop up the pickled daikon & carrots and cilantro. Add the chopped ingredients to the mayo and mix together.",
+        "Place the sauce on both buns. Add the burger patties to the bun and close it up - enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

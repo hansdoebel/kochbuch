@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/herbsteintopf",
+  "recipes": [
+    {
+      "name": "Einfacher Herbsteintopf",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/herbsteintopf",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/herbsteintopf#recipe-aad10a2d-df0d-534c-a01a-14e9dd555760",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 - 6 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "1 Hokkaido-Kürbis",
+        "2 Knoblauchzehen",
+        "2 Schalotten",
+        "2 Möhren",
+        "4 Kartoffeln",
+        "1 Handvoll braune Champignons",
+        "1 Stange Lauch",
+        "250 g Pastinake",
+        "100 g Blattspinat",
+        "Für die Soße:",
+        "200 ml veganer Rotwein",
+        "400 ml Gemüsebrühe",
+        "3 EL Mehl",
+        "4 EL Tomatenmark",
+        "2 EL Senf",
+        "1 TL Kurkuma",
+        "400 g ganze Tomaten aus der Dose",
+        "1 Thymianzweig",
+        "2 Lorbeerblätter",
+        "Salz",
+        "Pfeffer",
+        "frische Petersilie zum Bestreuen"
+      ],
+      "instructions": [
+        "All dein Gemüse putzen, schälen, waschen und in mundgerechte Stücke schneiden. Vom Kürbis bis zu Möhren, Lauch und Pilzen. Die Knoblauch schälen und fein hacken. Schalotte ebenfalls schälen und klein schneiden.",
+        "Öl in einem Bräter oder großen Topf auf mittlerer Hitze erwärmen. Knoblauch und Schalotte ca. 3 Min. andünsten. Mit Mehl und Kurkuma bestäuben und Tomatenmark dazugeben und einrühren. Ca. 2-3 Minuten anbraten bis das Tomatenmark dunkler wird. Dann den Senf einrühren.",
+        "Mit Gemüsebrühe ablöschen und dabei gut verrühren, damit sich keine Klumpen bilden. Nun kommt das restliche geschnittene Gemüse dazu (bis auf den Spinat). Mit Rotwein und ganzen Tomaten auffüllen. Lorbeerblätter und abgezupfte Thymianblätter zum Eintopf geben, salzen und pfeffern.",
+        "Den Eintopf mind. 30 Min. köcheln lassen, damit das Gemüse noch einen leichten Biss hat. Erst kurz vor Schluss den Blattspinat dazugeben, ca. 5 Min. vor Ende.",
+        "Vor dem Servieren mit frischer Petersilie bestreuen und mit Salz und Pfeffer abschmecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

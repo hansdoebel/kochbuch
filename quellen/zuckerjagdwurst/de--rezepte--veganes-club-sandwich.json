@@ -1,0 +1,74 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-club-sandwich",
+  "recipes": [
+    {
+      "name": "Veganes Club Sandwich",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-club-sandwich",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-club-sandwich#recipe-2a1d9ead-efd3-52de-af89-c91da5d57328",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Sandwiches",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT65M",
+      "ingredients": [
+        "12 Toastbrotscheiben",
+        "2 Romanasalatherzen",
+        "5 Tomaten",
+        "4 EL vegane Mayonnaise",
+        "3 EL Senf",
+        "1.5 EL Agavendicksaft (alternativ: Ahornsirup)",
+        "4 Gewürzgurken",
+        "8 - 16 Scheiben Auberginenbacon",
+        "1 Packung Tofurky (optional, der Auberginenbacon reicht sonst auch easy aus)"
+      ],
+      "instructions": [
+        "Zunächst den Auberginenbacon zubereiten. Das Rezept findet ihr etwas weiter unten auf der Seite.",
+        "Während die Auberginenscheiben backen, könnt ihr die Tomaten in Scheiben schneiden. Den Romanasalat auseinanderzupfen und etwas klein machen. In einer kleinen Schüssel Senf und Agavendicksaft verrühren.",
+        "Alle Zutaten vorbereitet? Dann toastet eure Toastscheiben. Eine Toastscheibe mit veganer Mayonnaise bestreichen und mit Romanasalat, Auberginenbacon und Tomatenscheiben belegen. Nun eine zweite Toastscheibe darauf legen und diese mit dem Senf-Agavendicksaft-Mix bestreichen. Wieder mit Romanasalat, Auberginenbacon (oder Tofurkyscheiben, falls ihr sie verwendet) und Tomatenscheiben belegen. Zum Schluss kommt noch eine letzte Toastscheibe darauf. Die Kirsche auf dem Eis ist in diesem Fall eine Gewürzgurke auf dem Club Sandwich."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Veganer Auberginen Bacon",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-club-sandwich",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-club-sandwich#recipe-8b8592e1-093c-5caa-897d-f9d703bbf392",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT65M",
+      "ingredients": [
+        "1 Aubergine",
+        "2 EL Sojasauce]",
+        "2 EL Liquid Smoke",
+        "2 EL Agavendicksaft",
+        "1 TL Senf",
+        "1 TL geräuchertes Paprikapulver",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Verrührt Sojasauce, Liquid Smoke, Agavendicksaft, Senf und geräuchertes Paprikapulver miteinander und salzt und pfeffert nach Geschmack. Die Marinade anschließend beiseitestellen.",
+        "Aubergine mit einem Sparschäler oder Messer in dünne Streifen schneiden. Diese Streifen legt ihr auf Küchenpapier und salzt das ganze ein bisschen, damit der Aubergine das Wasser entzogen wird. Nach etwa 10-15 Minuten könnt ihr das Salz abtupfen.",
+        "Etwas Öl in einer Pfanne erhitzen und die Auberginen-Scheiben kurz anbraten. Der Schritt ist für die Konsistenz am Ende wichtig, denn sonst wird eure Aubergine nicht knusprig genug.",
+        "Die gebratenen Auberginen-Streifen nochmal mit Küchenpapier abtupfen, auf ein Backblech legen und beide Seiten mit der Marinade bepinseln. Bei 200°C ca. 8 Min. backen, die Zeit kann je nach Dicke der Auberginenstreifen variieren, also schaut regelmäßig in den Ofen, damit sie nicht verbrennen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

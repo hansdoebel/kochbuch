@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-karottenkuchen-mit-joghurtfrosting",
+  "recipes": [
+    {
+      "name": "Veganer Karottenkuchen mit Joghurt Frosting",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-karottenkuchen-mit-joghurtfrosting",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-karottenkuchen-mit-joghurtfrosting#recipe-14087380-0876-5b86-b2d1-bce3083fe125",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (ø 26 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "Für den Kuchen:",
+        "200 g Karotten",
+        "225 g Mehl",
+        "100 g brauner Zucker",
+        "0.5 TL geriebene Muskatnuss",
+        "1 TL Zimt",
+        "15 g Backpulver",
+        "200 g pflanzlicher Skyr",
+        "75 ml Öl",
+        "0.5 Limette (Abrieb)",
+        "1 Prise Salz",
+        "Für das Frosting:",
+        "200 g pflanzlicher Skyr",
+        "5 EL Puderzucker",
+        "0.5 Limette (Abrieb)",
+        "Zum Dekorieren:",
+        "50 g gehackte Haselnüsse",
+        "50 g gehackte Pistazien",
+        "8 Marzipankarotten"
+      ],
+      "instructions": [
+        "Karotten schälen und kleinraspeln. Am Ende sollten circa 150 Gramm geraspelte Karotten herauskommen.",
+        "Tipp: Falls ihr euch einen weniger fudgy Kuchen wünscht, können die geraspelten Karotten, bevor ihr sie in den Teig gebt, in einem sauberen Küchentuch ausgedrückt werden.",
+        "Den Ofen auf 180 °C (Umluft) vorheizen. Mehl, Zucker, Muskatnuss, Zimt, Backpulver und Salz in einer Schüssel verrühren. Dann Karotten, Öl, Skyr und den Abrieb einer halben Limette hinzugeben und gut verrühren.",
+        "Eine Springform (ø 26 cm) einfetten, mit Mehl ausklopfen und mit dem Teig befüllen. Bei 180 °C (Umluft) circa 40 Minuten backen.",
+        "Währenddessen den Skyr mit Puderzucker und Limettenabrieb abschmecken und nochmal kalt stellen.",
+        "Tipp: Damit das Frosting richtig schön fest wird, könnt ihr den Skyr über Nacht oder einige Stunden vor dem Backen über einem feinen Sieb abtropfen lassen.",
+        "Den fertigen Kuchen mit gehackten Pistazien, Mandeln und Marzipan-Karotten dekorieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

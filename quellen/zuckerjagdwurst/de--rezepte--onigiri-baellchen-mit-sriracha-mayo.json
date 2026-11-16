@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/onigiri-baellchen-mit-sriracha-mayo",
+  "recipes": [
+    {
+      "name": "Onigiri-Bällchen mit Sriracha Mayo",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/onigiri-baellchen-mit-sriracha-mayo",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/onigiri-baellchen-mit-sriracha-mayo#recipe-3d10be24-79de-501a-88a6-ec7d315d1d81",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Bällchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "150 g Sushireis",
+        "2 Noriblätter",
+        "2 EL Reisessig",
+        "2 TL Zucker",
+        "2 EL Sesamöl",
+        "50g heller und dunkler Sesam",
+        "FÜLLUNG",
+        "1/4 Avocado",
+        "1/4 Gurke",
+        "oder auch: eingelegte Pilze, Röstzwiebeln, eingelegter Kürbis ..",
+        "SRIRACHA MAYO",
+        "100 g vegane Mayo",
+        "2 EL Sriracha",
+        "Sojasauce"
+      ],
+      "instructions": [
+        "Den Reis in ein Sieb geben und so lange auswaschen, bis das Wasser klar ist. Zur Seite stellen.",
+        "400 ml Wasser zum köcheln bringen und anschließend den Reis hinzugeben. 1 - 2 Minuten bei hoher Temperatur köcheln lassen und dann auf die niedrigste Stufe stellen, sodass er ziehen kann. Bei uns war das sehr, sehr leichtes köcheln.",
+        "Sobald der Reis schön weich und klebrig ist, vom Herd nehmen und das Wasser abkippen. Bei uns hat das ca. 15 Minuten gedauert.",
+        "In einem Sieb den Reis für ein paar Minuten hin und her wenden mit der Hilfe eines Löffels. So kann er schneller abkühlen und verliert noch überschüssiges Wasser.",
+        "Reisessig, Salz und Zucker aufkochen in einem kleinen Topf, über den Reis geben und gut verteilen.",
+        "Den Reis auf einem Teller verteilen und warten, bis dieser abkühlt und trockner wird und sich formen lässt.",
+        "Die Noriblätter mit Hilfe einer Schere sehr fein schneiden und im Reis unterheben.",
+        "Avocado schälen, vom Kern befreien und in feine Stücken schneiden.",
+        "Gurke waschen und in kleine, feine Stücken schneiden.",
+        "Für die Sriracha Mayo die vegane Mayo mit Sriracha verrühren und abschmecken.",
+        "Frischhaltefolie ausrollen, 2 EL Reis in die Mitte geben und den Reis rund auf der Folie platt drücken.",
+        "Den Reiskreis nun mit der gewünschten Füllung bestücken. Einen weiteren EL Reis auf die Füllung geben und mit Hilfe der Folie zu einem Bällchen formen.",
+        "Den Ball kurz in hellen und dunklem Sesam rollen und mit der Sriracha Mayo futtern."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

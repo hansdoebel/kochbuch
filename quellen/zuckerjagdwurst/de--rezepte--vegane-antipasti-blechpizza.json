@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-antipasti-blechpizza",
+  "recipes": [
+    {
+      "name": "Vegane Antipasti-Blechpizza",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-antipasti-blechpizza",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-antipasti-blechpizza#recipe-71eeff30-567e-5d8b-aee8-f564efb78deb",
+      "authors": [
+        "Anna Germek"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT305M",
+      "ingredients": [
+        "Für den Teig:",
+        "260 g lauwarmes Wasser",
+        "15 g frische Hefe oder 5 g Trockenhefe",
+        "0.5 TL Zucker",
+        "400 g Weizenmehl (Typ 550)",
+        "8 g Salz",
+        "10 g Olivenöl",
+        "Maisgrieß fürs Backblech",
+        "Für den Belag:",
+        "1 Zucchini",
+        "1 kleine Aubergine",
+        "1 rote Paprika",
+        "5 EL Olivenöl",
+        "5 EL Balsamico-Essig",
+        "1 EL italienische Kräuter (getrocknet)",
+        "1 Glas Antipasti-Aufstrich (z. B. von Tartex)",
+        "Oliven",
+        "Artischocken (eingelegt aus dem Glas)",
+        "Kapern",
+        "frischer Basilikum",
+        "veganer Parmesan"
+      ],
+      "instructions": [
+        "Für den Teig Hefe mit dem Zucker in lauwarmem Wasser auflösen und kurz stehen lassen. Dann zusammen mit Weizenmehl, Salz und Olivenöl in einer Schüssel von Hand oder in der Küchenmaschine verkneten. Zu einer Kugel formen und in eine geölte Schüssel legen.",
+        "Den Teig abgedeckt 3–4 Stunden an einem warmen Ort gehen lassen, bis er sich deutlich vergrößert hat.",
+        "In der Zwischenzeit das Gemüse in Scheiben schneiden und in einer Pfanne oder im Kontaktgrill grillen. Danach in eine Mischung aus Olivenöl, Balsamico-Essig und italienischen Kräutern einlegen und stehen lassen.",
+        "Wenn der Teig bereit ist, den Ofen auf 230 °C (Ober-/Unterhitze) vorheizen. Das Blech großzügig einölen und darauf Maisgrieß verstreuen. Den Teig darauf stürzen und mit öligen Fingern vorsichtig auf die volle Größe ziehen. Mit etwas Olivenöl bestreichen. Die Pizza 15–20 Minuten backen, bis sie die gewünschte Farbe hat.",
+        "Die Pizza etwas abkühlen lassen, danach mit dem Antipasti-Aufstrich bestreichen und mit den Antipasti, Artischocken, Oliven, Kapern und frischem Basilikum toppen und veganen Parmesan darüber hobeln."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/hummus-pasta-salad-1551",
+  "recipes": [
+    {
+      "name": "Hummus Pasta Salad",
+      "source_url": "https://www.pickuplimes.com/recipe/hummus-pasta-salad-1551",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT15M",
+      "cook_time": "PT15M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "7.055 oz fusilli pasta",
+        "1 Tbsp olive oil",
+        "1 medium zucchini",
+        "1 tsp curry powder",
+        "¼ tsp salt",
+        "1 medium carrot",
+        "1 medium tomato",
+        "1 cup baby spinach",
+        "¼ cup fresh parsley",
+        "1½ jarred roasted red pepper",
+        "½ cup hummus",
+        "1½ Tbsp reduced-sodium soy sauce",
+        "1 Tbsp 1 tsp white vinegar",
+        "1 pinch ground black pepper"
+      ],
+      "instructions": [
+        "Cook the pasta until al dente. When cooked, drain, then add to a large bowl.",
+        "Meanwhile, add oil to a medium pan. When hot, add the zucchini and cook until lightly golden, about 4 to 5 minutes.",
+        "Then add the curry powder and salt. Cook for 2 - 3 more minutes. Stir often. Then transfer to the large bowl as well.",
+        "Add all the dressing ingredients to a small food processor. Blend until smooth.",
+        "Add the carrot, tomato, spinach, and parsley (if using) to the large bowl.",
+        "Drizzle over the dressing and toss to combine. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † For us, 1 zucchini weighed 320 g.",
+    "Storage The assembled salad is best enjoyed immediately. Store the pasta salad base separately from the sauce in airtight container s in the fridge for up to 3 days. Combine when ready to enjoy."
+  ]
+}

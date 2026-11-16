@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/chocolate-chip-cookie-dough-overnight-oats-469",
+  "recipes": [
+    {
+      "name": "Chocolate Chip Cookie Dough Overnight Oats",
+      "source_url": "https://www.pickuplimes.com/recipe/chocolate-chip-cookie-dough-overnight-oats-469",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 servings",
+      "prep_time": "PT07M",
+      "cook_time": "",
+      "total_time": "PT06H07M",
+      "ingredients": [
+        "½ cup unsweetened soy milk",
+        "½ cup rolled oats",
+        "2 Tbsp cashew butter",
+        "1 Tbsp maple syrup",
+        "1 Tbsp whole chia seeds",
+        "1 Tbsp mini dark chocolate chips",
+        "1 tsp pure vanilla extract",
+        "¼ cup fresh raspberries",
+        "2½ Tbsp rolled oats",
+        "1 Tbsp cashew butter",
+        "1 Tbsp mini dark chocolate chips",
+        "½ Tbsp maple syrup"
+      ],
+      "instructions": [
+        "Combine all of the overnight oats ingredients, except for the raspberries, in a mason jar or airtight container.",
+        "To make the optional cookie dough bites, mix the ingredients in a bowl. Then using your fingers, press little bits of the mixture into balls. Add these on top of the oats.",
+        "Cover and place in the fridge overnight. The next morning, top with fruit and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium .",
+    "Storage The oats can be stored in a mason jar or airtight container in the fridge for up to 4 days."
+  ]
+}

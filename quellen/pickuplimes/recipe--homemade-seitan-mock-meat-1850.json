@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/homemade-seitan-mock-meat-1850",
+  "recipes": [
+    {
+      "name": "Homemade Seitan - Mock Meat",
+      "source_url": "https://www.pickuplimes.com/recipe/homemade-seitan-mock-meat-1850",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT15M",
+      "cook_time": "PT30M",
+      "total_time": "PT45M",
+      "ingredients": [
+        "1 cup hot water",
+        "1 vegetable bouillon cube",
+        "½ Tbsp vegetable oil",
+        "2 tsp reduced-sodium soy sauce",
+        "1 tsp liquid smoke",
+        "1½ cup vital wheat gluten",
+        "¼ cup chickpea flour",
+        "2 tsp onion powder",
+        "2 tsp garlic powder",
+        "2 tsp chicken spice mix",
+        "1 tsp sweet paprika powder"
+      ],
+      "instructions": [
+        "Combine all the wet ingredients in a jar or small bowl. Set aside.",
+        "In a large bowl, mix together the remaining dry ingredients.",
+        "Add the wet mixture to the dry mixture and mix until it combines into a dough.",
+        "Knead the dough for 4 to 5 minutes.",
+        "Bring a pot of water to a boil and insert a steamer basket. Place the seitan in the middle of the basket and steam, covered, for 30 minutes.",
+        "Remove from the heat and allow to cool before using in your favourite recipes. Tear, shred, cut, or pulse in a food processor to make pieces of any size. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 4 days. Freeze for up to 2 months."
+  ]
+}

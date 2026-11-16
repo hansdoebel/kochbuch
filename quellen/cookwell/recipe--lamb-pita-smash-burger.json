@@ -1,0 +1,45 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/lamb-pita-smash-burger",
+  "recipes": [
+    {
+      "name": "Lamb Pita \"Smash Burger\"",
+      "source_url": "https://app.cookwell.com/recipe/lamb-pita-smash-burger",
+      "recipe_id": "https://app.cookwell.com/recipe/lamb-pita-smash-burger",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 serving",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT12M",
+      "ingredients": [
+        "Ground lamb , 160 g",
+        "Salt, a sprinkle",
+        "Za'atar, a sprinkle",
+        "Ground harissa, a sprinkle",
+        "Pita Bread, 1",
+        "Greek Yogurt, 30 g",
+        "Hummus, 15 g",
+        "Ground harissa, a sprinkle",
+        "Za'atar, a sprinkle",
+        "Lettuce, to taste",
+        "Tomatoes, to taste",
+        "Red Onions, to taste",
+        "Lemon juice, a squeeze"
+      ],
+      "instructions": [
+        "Pre-heat a griddle or pan over medium-high heat. Meanwhile, shape the ground lamb into a ball and sprinkle with salt. Place the lamb patty in the hot pan and smash it down with a spatula until it spreads out to the size of the pita you'll be using. Put a sprinkle of za’atar and ground harissa on top of the burger and let the bottom of the patty sear while you prep the toppings.",
+        "Thinly slice lettuce, tomatoes and red onion. Gather the remaining ingredients - yogurt, hummus, lemon, and the pita bread. Flip the lamb burger and press it down. Sear the other side for 2-3 more minutes or until cooked through. During these last few minutes of cooking, place the pita bread on top of the burger patty to steam and warm through.",
+        "Take the pita and patty off the heat to assemble the sandwich. Spread the greek yogurt and a sprinkle of harissa on one half of the pita bread, and the hummus and za’atar on the other half. Add the patty, lettuce, tomatoes, red onion, and whatever else you like. Finish with a squeeze of lemon juice. Before serving, wrap the sandwich in foil to steam and soften for about a minute. Slice the sandwich in half and enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

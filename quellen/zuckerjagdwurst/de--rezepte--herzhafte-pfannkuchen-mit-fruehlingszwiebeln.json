@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/herzhafte-pfannkuchen-mit-fruehlingszwiebeln",
+  "recipes": [
+    {
+      "name": "Vegane Herzhafte Pfannkuchen mit Frühlingszwiebeln",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/herzhafte-pfannkuchen-mit-fruehlingszwiebeln",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/herzhafte-pfannkuchen-mit-fruehlingszwiebeln#recipe-0b097c8a-15bd-5ac9-aef0-564046057600",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8-10 Pfannkuchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "450 g Mehl",
+        "300 ml warmes Wasser",
+        "0.5 TL Salz",
+        "1 Bund Frühlingszwiebeln",
+        "Öl zum Einfetten"
+      ],
+      "instructions": [
+        "Mehl, Wasser und Salz in einer Schüssel verrühren und ca. 5 Minuten zu einem glatten Teig verkneten. Nach Bedarf etwas mehr Wasser dazugeben. Entweder macht ihr das mit euren Händen oder nehmt die Küchenmaschine zur Hilfe.",
+        "Den Teig in eine leicht eingefettete Schüssel geben und abgedeckt ca. 30 Minuten an einem warmen Ort ruhen lassen.",
+        "In der Zwischenzeit die Frühlingszwiebeln in feine Ringe schneiden.",
+        "Sobald der Teig genug ruhen konnte, in vier gleich große Stücken teilen. Jedes Teilstück auf einer bemehlten Fläche zu einem großen, dünnen Rechteck ausrollen. Den Teig mit etwas Öl bepinseln und Frühlingszwiebelringe darauf verteilen. Den Teig aufrollen und anschließend jede Rolle nach Wunsch nochmal halbieren.",
+        "Den Teig wie eine Schnecke aufrollen und danach erneut dünn mit dem Nudelholz ausrollen. Es ist kein Problem, wenn die Frühlingszwiebeln manchmal aus dem Teig herausschauen.",
+        "Etwas Pflanzenöl in einer Pfanne erhitzen und die Pfannkuchen nacheinander von beiden Seiten goldbraun anbraten. Mit einem Dip eurer Wahl servieren, zum Beispiel Hoisin-Soße oder vegane Sriracha-Mayo."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

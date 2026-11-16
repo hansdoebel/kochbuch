@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/high-protein-peanut-butter-jelly-smoothie-1753",
+  "recipes": [
+    {
+      "name": "High-Protein Peanut Butter & Jelly Smoothie",
+      "source_url": "https://www.pickuplimes.com/recipe/high-protein-peanut-butter-jelly-smoothie-1753",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "5.291 oz silken tofu",
+        "1 frozen banana",
+        "1¼ cup unsweetened soy milk",
+        "1 cup frozen mixed berries",
+        "¼ cup natural peanut butter",
+        "3 Tbsp rolled oats",
+        "1½ Tbsp maple syrup",
+        "2 tsp pure vanilla extract"
+      ],
+      "instructions": [
+        "Place all the ingredients in a blender.",
+        "Blend until smooth.",
+        "Pour into glasses and garnish as desired. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: To keep this smoothie high in protein, we recommend using soy milk or pea milk. Other plant milks will still work, but they tend to be lower in protein.",
+    "Storage This smoothie is best enjoyed immediately."
+  ]
+}

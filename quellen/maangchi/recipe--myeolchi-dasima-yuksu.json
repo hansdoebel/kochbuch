@@ -1,0 +1,127 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/myeolchi-dasima-yuksu",
+  "recipes": [
+    {
+      "name": "Anchovy kelp stock (Myeolchi-dasima-yuksu: 멸치다시마육수)",
+      "source_url": "https://www.maangchi.com/recipe/myeolchi-dasima-yuksu",
+      "recipe_id": "/recipe/myeolchi-dasima-yuksu#sso/recipe/95822",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "Makes about 10 cups stock",
+      "prep_time": "P0DT0H15M0S",
+      "cook_time": "P0DT0H45M0S",
+      "total_time": "P0DT1H0M0S",
+      "ingredients": [
+        "8 large dried anchovies (2½ inch long), guts and heads removed",
+        "½ ounce dried kelp (about 15 grams)",
+        "8 ounces Korean radish or daikon, cut into very thin pieces",
+        "2 green onions including the roots, cut into 3 to 4 times",
+        "3 ounces onion (about ½ cup), sliced thinly",
+        "3 quarts (12 cups) water"
+      ],
+      "instructions": [
+        "Heat a large pot over medium high heat and add the anchovies. Periodically stir with a wooden spoon and cook the anchovies for about 3 to 4 minutes until they smell a little nutty.",
+        "Remove from the heat. Add the radish, green onion, onion, dried kelp, and water. Cover and cook for 10 minutes.",
+        "Open and stir it a few times, then close. Lower the heat to medium and cook for another 30 minutes until the radish and onion turn translucent. If the radish is still not translucent after 30 minutes, add more water and cook a little longer.",
+        "Remove from the heat. Strain the stock over a large bowl. Discard the cooked ingredients except for the kelp. You will get about 9 to 10 cups stock, which you can use right away or freeze for up to 3 months.",
+        "You can make a good side dish with the cooked kelp (see the recipe below).",
+        "Cut the kelp into thin strips.",
+        "Heat up a small pan with a few drops of cooking oil.",
+        "Add the kelp and 1 teaspoon minced garlic. Stir with a wooden spoon.",
+        "Stir in about 2 teaspoons soy sauce and 1 tablespoon rice syrup for about 1 minute, until the kelp turns shiny a little bit withered. Remove from the heat and stir in some toasted sesame oil.",
+        "Transfer to a small plate and sprinkle with toasted sesame seeds. Serve with rice."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Makes about 10 cups stock"
+        },
+        {
+          "tag": "li",
+          "text": "8 large dried anchovies (2½ inch long), guts and heads removed"
+        },
+        {
+          "tag": "li",
+          "text": "½ ounce dried kelp (about 15 grams)"
+        },
+        {
+          "tag": "li",
+          "text": "8 ounces Korean radish or daikon, cut into very thin pieces"
+        },
+        {
+          "tag": "li",
+          "text": "2 green onions including the roots, cut into 3 to 4 times"
+        },
+        {
+          "tag": "li",
+          "text": "3 ounces onion (about ½ cup), sliced thinly"
+        },
+        {
+          "tag": "li",
+          "text": "3 quarts (12 cups) water"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Heat a large pot over medium high heat and add the anchovies. Periodically stir with a wooden spoon and cook the anchovies for about 3 to 4 minutes until they smell a little nutty."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat. Add the radish, green onion, onion, dried kelp, and water. Cover and cook for 10 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Open and stir it a few times, then close. Lower the heat to medium and cook for another 30 minutes until the radish and onion turn translucent. If the radish is still not translucent after 30 minutes, add more water and cook a little longer."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat. Strain the stock over a large bowl. Discard the cooked ingredients except for the kelp. You will get about 9 to 10 cups stock, which you can use right away or freeze for up to 3 months."
+        },
+        {
+          "tag": "li",
+          "text": "You can make a good side dish with the cooked kelp (see the recipe below)."
+        },
+        {
+          "tag": "h2",
+          "text": "Stir-fried kelp side dish made from the cooked kelp"
+        },
+        {
+          "tag": "li",
+          "text": "Cut the kelp into thin strips."
+        },
+        {
+          "tag": "li",
+          "text": "Heat up a small pan with a few drops of cooking oil."
+        },
+        {
+          "tag": "li",
+          "text": "Add the kelp and 1 teaspoon minced garlic. Stir with a wooden spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Stir in about 2 teaspoons soy sauce and 1 tablespoon rice syrup for about 1 minute, until the kelp turns shiny a little bit withered. Remove from the heat and stir in some toasted sesame oil."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer to a small plate and sprinkle with toasted sesame seeds. Serve with rice."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

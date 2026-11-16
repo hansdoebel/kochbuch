@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/easy-berry-chia-seed-jam-178",
+  "recipes": [
+    {
+      "name": "Easy Berry Chia Seed Jam",
+      "source_url": "https://www.pickuplimes.com/recipe/easy-berry-chia-seed-jam-178",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "24 servings",
+      "prep_time": "PT02M",
+      "cook_time": "PT03M",
+      "total_time": "PT35M",
+      "ingredients": [
+        "1 cup frozen raspberries",
+        "1 cup frozen blueberries",
+        "2 Tbsp whole chia seeds",
+        "1 Tbsp apple juice"
+      ],
+      "instructions": [
+        "Thaw the berries in a saucepan over medium heat*. When softened, mash with a fork or spatula allowing some chunks to remain.",
+        "Then stir in the chia seeds and juice. Remove from the heat and let sit at room temperature for 30 minutes for the chia seeds to gel, stirring once halfway.",
+        "Transfer to your jar, and enjoy on toast, on oatmeal, in breakfast parfaits, and more!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Using frozen berries are preferred to fresh because they release some juice when defrosted - this juice is then absorbed by the chia seeds to gel. * Alternatively, place the berries in a bowl and microwave at 600W for about 3 minutes, stopping to stir every minute.",
+    "Storage Store in an airtight container or mason jar in the fridge for up to 5 days."
+  ]
+}

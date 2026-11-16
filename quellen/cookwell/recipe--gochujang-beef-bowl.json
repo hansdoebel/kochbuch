@@ -1,0 +1,41 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/gochujang-beef-bowl",
+  "recipes": [
+    {
+      "name": "Gochujang Beef Bowl",
+      "source_url": "https://app.cookwell.com/recipe/gochujang-beef-bowl",
+      "recipe_id": "https://app.cookwell.com/recipe/gochujang-beef-bowl",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Ground beef, 2 parts",
+        "Green Peas, 1 part",
+        "Gochujang, 1/4 part",
+        "Salt, a sprinkle",
+        "Sesame Oil, a drizzle",
+        "Water, as needed",
+        "Rice",
+        "Scallions, for garnish",
+        "Pickled ginger, for garnish"
+      ],
+      "instructions": [
+        "Add the ground beef to a pan over medium heat. Add a sprinkle of salt. Let it render out some fat and sear. As it starts to brown, break it up with a wooden spoon or spatula.",
+        "When the beef is almost cooked through, add the gochujang and peas (frozen peas work great here). Mix until well combined, and add a splash of water if the mixture is too tight. Stir & reduce until the sauce glazes the meat. Turn off the heat and finish with a drizzle of sesame oil. Taste and adjust with more salt if needed.",
+        "Add a portion of the beef mixture over a scoop of cooked rice. Optionally garnish with scallions & pickled ginger. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-ragout-fin",
+  "recipes": [
+    {
+      "name": "Veganes Ragout Fin",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-ragout-fin",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-ragout-fin#recipe-bae69321-2a5a-57ed-b448-9877e08def79",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Auflaufförmchen (Ø 11 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Für das Ragout Fin:",
+        "100 g trockene Sojaschnetzel",
+        "400 g ganze Champignons aus der Dose",
+        "1 Zwiebel",
+        "ca. 150 g veganer Streukäse",
+        "heiße Gemüsebrühe",
+        "neutrales Pflanzenöl zum Braten",
+        "Salz",
+        "Pfeffer",
+        "Für die Soße:",
+        "4 EL vegane Butter",
+        "3 EL Weizenmehl (Type 405)",
+        "300 ml Gemüsebrühe",
+        "250 ml vegane Kochsahne",
+        "60 ml veganer Weißwein",
+        "Zitrone (Saft)",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "Zum Servieren:",
+        "Worcestershiresauce",
+        "Toastbrot"
+      ],
+      "instructions": [
+        "Sojaschnetzel in einem kleinen Topf mit heißer Gemüsebrühe übergießen und abgedeckt 10–15 Minuten ziehen lassen, bis sie weich sind. Danach die Brühe gründlich ausdrücken und die Schnetzel mit Salz und Pfeffer würzen.",
+        "In der Zwischenzeit Champignons abgießen und halbieren. Die Zwiebel halbieren und in Scheiben schneiden.",
+        "Pflanzenöl in einer großen Pfanne erhitzen und die Sojaschnetzel darin 4–5 Minuten scharf anbraten. Halbierte Champignons und Zwiebel dazugeben und weitere 4–5 Minuten anbraten.",
+        "Parallel dazu vegane Butter in einem Topf schmelzen lassen. Das Mehl gründlich einrühren. Die Mehlschwitze sollte leicht Blasen schlagen. Gemüsebrühe, vegane Sahne und veganen Weißwein nach und nach einrühren, damit sich keine Klümpchen bilden. Die Soße mindestens 5 Minuten köcheln lassen, bis sie andickt. Anschließend mit Zitronensaft, Salz, Pfeffer und Muskat abschmecken.",
+        "Den Ofen auf 180 °C (Umluft) vorheizen. Die gebratene Pilz-Mischung auf vier kleine Auflaufförmchen (Ø 11 Zentimeter) aufteilen und mit der Soße übergießen. Veganen Streukäse mit etwas Pflanzenöl vermengen, damit er besser schmilzt, und auf dem Ragout Fin verteilen.",
+        "Bei 180 °C (Umluft) circa 15 Minuten backen, bis die vegane Käseschicht geschmolzen und gebräunt ist. Vor dem Servieren etwas abkühlen lassen und mit veganer Worcestershiresauce beträufeln. Dazu geröstetes Toastbrot servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

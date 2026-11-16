@@ -1,0 +1,51 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/figgy-pudding",
+  "recipes": [
+    {
+      "name": "Figgy Pudding",
+      "source_url": "https://app.cookwell.com/recipe/figgy-pudding",
+      "recipe_id": "https://app.cookwell.com/recipe/figgy-pudding",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 figgy pudding",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT4H",
+      "ingredients": [
+        "Breadcrumbs, 150 g",
+        "Milk, 150 g",
+        "Flour, 125 g",
+        "Beef tallow, 125 g",
+        "Demerara sugar, 125 g",
+        "Eggs, 1",
+        "Orange juice, 1/2 orange",
+        "Orange zest, 1/2 orange",
+        "Butter, for greasing",
+        "Mixed dried fruit, 450 g",
+        "Medjool dates, 100 g",
+        "Candied ginger, 50 g",
+        "Walnuts, 40 g",
+        "Nutmeg, 2 g",
+        "Ground cinnamon, 2 g",
+        "Allspice, 2 g",
+        "Brandy, to cover",
+        "Heavy cream"
+      ],
+      "instructions": [
+        "Grease a heat safe bowl with butter to hold & cook the pudding in. It should be a small, glass pyrex heat safe bowl or a metal bowl, small in size. This will shape the pudding into that half cannonball form. Remove pits from the dates. Roughly chop the dried fruit, dates, and candied ginger and place in a large mixing bowl. Finely grate in the orange zest, then squeeze in the juice.",
+        "Add in the fat, flour, sugar, breadcrumbs, chopped walnuts, and spices. Loosely mix. Crack in the egg and pour in the milk. Mix with your hands or a spatula until the mixture holds together. Transfer the pudding mixture to the greased bowl from earlier, push it down to conform to the shape of the bowl, and cover with a double layer of tin foil. Tie a piece of string around the side of the bowl to hold the tin foil tight.",
+        "Place the pudding bowl in a large saucepan or dutch oven, and pour in enough water until it comes halfway up the bowl. Bring to a boil, place a tight-fitting lid on the pan, and simmer for 3 hours. Check the water regularly, making sure that it never boils dry. The bowl could crack and burn if it does.",
+        "After 3 hours, remove the foil, and turn the pudding upside down onto a plate for presentation. Allow to cool and cover until ready to eat. Traditionally, the pudding can be aged for several weeks before Christmas in a cool, dry place. To serve, cover the pudding with a pour brandy and light aflame. Serve with fresh cream."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

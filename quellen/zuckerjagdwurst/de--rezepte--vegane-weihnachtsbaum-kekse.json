@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-weihnachtsbaum-kekse",
+  "recipes": [
+    {
+      "name": "Vegane Weihnachtsbaum-Kekse",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-weihnachtsbaum-kekse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-weihnachtsbaum-kekse#recipe-1a8bfce3-42c6-52bd-b79d-e601091ea1bb",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "30 Kekse",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT100M",
+      "ingredients": [
+        "Für den Teig:",
+        "300 g Weizenmehl (Type 405)",
+        "100 g Zucker",
+        "200 g kalte vegane Butter",
+        "kaltes Wasser nach Bedarf",
+        "Für die Dekoration:",
+        "Puderzucker",
+        "pflanzliche Milch",
+        "vegane Lebensmittelfarben",
+        "veganer Streusel Mix (z. B. „Konfettiiiii” von Super Streusel)"
+      ],
+      "instructions": [
+        "Weizenmehl und Zucker in einer großen Schüssel vermischen. Die kalte pflanzliche Butter in kleine Würfel schneiden, dazu geben und mit kalten Händen verkneten. Gegebenenfalls kaltes Wasser hinzugeben, bis sich eine geschmeidige Teigkugel formen lässt. Den Teig mindestens 30 Minuten im Kühlschrank ruhen lassen.",
+        "Den Ofen auf 180°C (Umluft) vorheizen. Auf einer bemehlten Unterfläche den Teig ausrollen und Weihnachtsbäume und -kugeln ausstechen. Anschließend aus jedem Baum und jeder Kugel noch ein kleines Loch ausstechen, durch welche wir später die Fäden ziehen. Die Ausstecher auf ein Backblech mit Backpapier legen und im vorgeheizten Ofenca. 8-10 Minuten backen.",
+        "Während die Kekse auskühlen, den Zuckerguss vorbereiten. Dafür den Puderzucker mit pflanzlicher Milch glatt rühren, bis eine dickflüssige Masse entsteht. Diese nach Wunsch einfärben (z. B. grün für die Bäume oder gelb für die Kugeln). Die abgekühlten Ausstecher mit Zuckerguss und dem veganen Streuselmix dekorieren und im Anschluss an den Weihnachtsbaum hängen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

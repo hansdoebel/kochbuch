@@ -1,0 +1,95 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/doenjang-banga",
+  "recipes": [
+    {
+      "name": "Dipping sauce for raw fish (Doenjang-banga)",
+      "source_url": "https://www.maangchi.com/recipe/doenjang-banga",
+      "recipe_id": "/recipe/doenjang-banga#sso/recipe/10946",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Soybean paste, hot pepper paste, vinegar, garlic, green onions, toasted sesame oil, roasted sesame seeds, honey (or sugar)"
+      ],
+      "instructions": [
+        "¼ cup soybean paste,",
+        "1tbs hot pepper paste,",
+        "1 ts of honey (or sugar),",
+        "1-2 ts vinegar,",
+        "2 cloves of minced garlic,",
+        "2 stalks of chopped green onions,",
+        "1 tbs of toasted sesame oil,"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Soybean paste, hot pepper paste, vinegar, garlic, green onions, toasted sesame oil, roasted sesame seeds, honey (or sugar)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "p",
+          "text": "Mix these ingredients on a bowl with a spoon:"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup soybean paste,"
+        },
+        {
+          "tag": "li",
+          "text": "1tbs hot pepper paste,"
+        },
+        {
+          "tag": "li",
+          "text": "1 ts of honey (or sugar),"
+        },
+        {
+          "tag": "li",
+          "text": "1-2 ts vinegar,"
+        },
+        {
+          "tag": "li",
+          "text": "2 cloves of minced garlic,"
+        },
+        {
+          "tag": "li",
+          "text": "2 stalks of chopped green onions,"
+        },
+        {
+          "tag": "li",
+          "text": "1 tbs of toasted sesame oil,"
+        },
+        {
+          "tag": "p",
+          "text": "*tip: If you want some vegetables to wrap the fish in, prepare lettuce, perilla leaves, and green chili pepper. Put a piece of raw fish into the lettuce or perilla leaf, add some dipping sauce and a green chili pepper, wrap it and eat."
+        },
+        {
+          "tag": "p",
+          "text": "doenjang-banga (dipping sauce) and snapper"
+        },
+        {
+          "tag": "p",
+          "text": "doenjang-banga, snapper, and conch"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

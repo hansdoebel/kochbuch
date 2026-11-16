@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-huehnchen-pfirsich-tacos-mit-limettenjoghurt",
+  "recipes": [
+    {
+      "name": "Vegane Hühnchen-Pfirsich-Tacos mit Limettenjoghurt",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-huehnchen-pfirsich-tacos-mit-limettenjoghurt",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-huehnchen-pfirsich-tacos-mit-limettenjoghurt#recipe-47ad59fb-024c-5f12-a5a6-ac427c1845fd",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "4 Tacos",
+        "1 Romanesco Salatherz",
+        "1 Pfirsich",
+        "1 Dose veganes Hühnchenfleisch (290g)",
+        "2-3 TL Teriyakisauce",
+        "0.5 TL Chilipulver",
+        "LIMETTENJOGHURT",
+        "250 g veganer Joghurt (Natur)",
+        "1 Limette",
+        "Salz & Pfeffer"
+      ],
+      "instructions": [
+        "Für den Limettenjoghurt die Limette gut waschen und mit einer Reibe die Schale abraspeln.",
+        "Diese mit dem veganen Joghurt, Salz & Pfeffer verrühren und abschmecken. Ich hab es gerne etwas säuerlicher und habe noch etwas Saft hinzugegeben.",
+        "Anschließend den Pfirsich gut waschen, den Kern entfernen und in kleine Stücken schneiden.",
+        "Den Salat waschen und in kleine Stücke reißen.",
+        "Das Hühnchenfleisch in einer Pfanne scharf anbraten, gut mit Chili würzen. Sobald das Hühnchenfleisch schön braun ist mit Teriyaki Soße ablöschen und vom Herd nehmen.",
+        "Die Tacos kurz in einer Pfanne erwärmen und mit dem Joghurt, dem Salat, dem Hühnchenfleisch und den Pfirsichstücken befüllen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

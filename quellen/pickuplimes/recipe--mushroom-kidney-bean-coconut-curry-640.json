@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/mushroom-kidney-bean-coconut-curry-640",
+  "recipes": [
+    {
+      "name": "Mushroom & Kidney Bean Coconut Curry",
+      "source_url": "https://www.pickuplimes.com/recipe/mushroom-kidney-bean-coconut-curry-640",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT15M",
+      "total_time": "PT20M",
+      "ingredients": [
+        "1⅓ cup long-grain white rice",
+        "2 tsp vegetable oil",
+        "1 medium onion",
+        "3 garlic clove",
+        "1 jalapeño",
+        "1 tsp grated fresh ginger",
+        "8.642 oz button mushrooms",
+        "1 Tbsp garam masala",
+        "2 tsp ground cumin",
+        "2 tsp ground coriander",
+        "½ tsp salt",
+        "1⅔ cup canned crushed tomatoes",
+        "1⅔ cup canned full-fat coconut milk",
+        "1⅓ cup cooked kidney beans",
+        "2 cup spinach",
+        "½ lime"
+      ],
+      "instructions": [
+        "Cook the rice according to the package instructions.",
+        "Heat the oil in a large pot over medium-high heat. Cook the onion for 3 to 4 minutes, stirring often.",
+        "Add the garlic, jalapeño, and ginger and cook for another 2 minutes.",
+        "Add in the mushrooms, garam masala, cumin, coriander, and salt and cook for 4 to 5 minutes, or until most of the liquid from the mushrooms evaporates.",
+        "Add the tomatoes, coconut milk, and kidney beans. Stir and bring to a gentle boil. Cook uncovered for 5 to 8 minutes, stirring often. Then add in the spinach and stir until wilted.",
+        "Before serving, squeeze in the lime juice. Serve with rice or naan, garnish, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage This curry will keep in the fridge in an airtight container for up to 3 days or in the freezer for up to 1 month."
+  ]
+}

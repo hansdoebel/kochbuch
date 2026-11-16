@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gebackener-gruener-spargel-caprese-style",
+  "recipes": [
+    {
+      "name": "Gebackener grüner Spargel Caprese-Style",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gebackener-gruener-spargel-caprese-style",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gebackener-gruener-spargel-caprese-style#recipe-6ec7319a-904f-5df4-b36a-236eabc91885",
+      "authors": [
+        "Anne-Sophie Hoffmann"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "Für den Spargel:",
+        "450 g grüner Spargel",
+        "extra-natives Olivenöl",
+        "Salz",
+        "Pfeffer",
+        "Für die Ofentomaten:",
+        "350 g Kirschtomaten",
+        "1.5 EL Olivenöl",
+        "1 EL Agavendicksaft",
+        "1.5 EL Balsamicoessig",
+        "1 Zweig Rosmarin",
+        "Pfeffer",
+        "Salz",
+        "Für das Pesto:",
+        "85 g Pinienkerne",
+        "50 g frische Basilikumblätter",
+        "2 Knoblauchzehen",
+        "2 EL Hefeflocken",
+        "80 ml Olivenöl",
+        "1 EL frischer Zitronensaft",
+        "1 TL Salz",
+        "0.25 TL Pfeffer",
+        "Außerdem:",
+        "200 g veganer Mozzarella",
+        "frischer Basilikum"
+      ],
+      "instructions": [
+        "Den Ofen auf 220 °C (Ober-/Unterhitze) vorheizen. Den grünen Spargel auf einem großen Backblech mit etwas Olivenöl vermengen und mit Salz und Pfeffer würzen. Auf eine Seite des Blechs schieben. Kirschtomaten auf die andere Seite des Blechs geben. In einer kleinen Schüssel Olivenöl, Agavendicksaft, Balsamicoessig, Salz und Pfeffer verrühren und über die Tomaten geben. Kurz durchmischen und einen Rosmarinzweig dazulegen. Spargel und Tomaten für circa 25 Minuten backen, bis der Spargel zart ist.",
+        "Pesto zubereiten: Pinienkerne in einer Pfanne ohne Öl 2–3 Minuten rösten, dabei regelmäßig umrühren oder die Pfanne schwenken. Anschließend Basilikum, geröstete Pinienkerne, Knoblauch und Hefeflocken in eine Küchenmaschine geben und fein mixen. Währenddessen langsam Olivenöl und Zitronensaft einfließen lassen, bis ein cremiges Pesto entsteht. Mit Salz und Pfeffer abschmecken.",
+        "Einen großzügigen Spiegel aus Basilikum-Pesto auf Tellern verteilen. Den gebackenen Spargel darauf anrichten und mit den Balsamico-Tomaten, veganem Mozzarella und frischem Basilikum garnieren.",
+        "Tipp: Das Pesto kann in einem luftdicht verschlossenen Glas bis zu 1 Woche im Kühlschrank aufbewahrt werden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,226 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/gomtang",
+  "recipes": [
+    {
+      "name": "Gomtang (Korean beef soup: 곰탕)",
+      "source_url": "https://www.maangchi.com/recipe/gomtang",
+      "recipe_id": "/recipe/gomtang#sso/recipe/100857",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "Four servings",
+      "prep_time": "P0DT0H40M0S",
+      "cook_time": "P0DT4H0M0S",
+      "total_time": "P0DT4H40M0S",
+      "ingredients": [
+        "2 pounds beef brisket",
+        "2 pounds beef tendon",
+        "8 ounces Korean radish (or daikon), cut into chunks",
+        "2 dae-pa (large green onions), one chopped, the other sliced 2 inches long",
+        "1 medium-size onion, quartered",
+        "12 garlic cloves",
+        "2 ounces dangmyeon (sweet potato noodles, or glass noodles), soaked in cold water for 40 minutes",
+        "1 tablespoon fish sauce",
+        "1 tablespoon plus 1 teaspoon kosher salt",
+        "ground black pepper and hot pepper flakes to taste",
+        "cooked rice",
+        "gochu-garu (Korean hot pepper flakes) to taste (optional)",
+        "fermented kkakdugi (cubed radish kimchi) for a side dish",
+        "2 eggs",
+        "¼ teaspoon kosher salt",
+        "1 teaspoon cooking oil (or grape-seed oil, vegetable oil, etc)"
+      ],
+      "instructions": [
+        "Trim fat from beef and beef tendon, then wash them in cold running water. Soak them in cold water for 1 hour to overnight, changing water a couple of times to remove blood. Drain. Bring a large pot of water to a boil and add the beef and tendon. Stir with a wooden spoon and cook for 12 to 15 minutes with the lid open until fatty brownish foams come up on the surface. Remove from heat and drain. Rinse the beef and tendon in cold water. Wash the large pot with soapy water. Add the beef, tendon, radish, onion, 1 large green onion (cut into 2 inches long), and garlic back into the cleaned pot. Add 6 quarts of water (24 cups), cover and cook over medium-high heat for 30 to 35 minutes until boiling. Reduce the heat to medium and cook for 2½ to 3 hours until the beef and tendon are soft. Taste to check tenderness. If not tender enough, cook a little longer. Remove from heat and let the beef and tendon cool. Strain the broth, yielding about 14 cups. If less, add water to make it 14 cups. Let the broth cool, then refrigerate until the fat on the surface solidifies. Remove and discard the solid fat. Slice the beef and tendon into bite-size pieces and set aside.",
+        "Beat the eggs with salt. Strain into another small bowl and discard any stringy bits remaining in the strainer. Heat a large nonstick skillet over medium-high heat. Add oil and swirl to coat. Wipe off excess oil with a paper towel, leaving a thin layer. Turn off the heat and pour the egg mixture into the skillet. Shape it to a large circle shape by tilting the skillet this way and that. Cook for a couple of minutes until set. Turn it over and let both sides set with the remaining heat. If it’s not set, you can cook it for another minute over low heat. Transfer to a cutting board and slice into thin strips. Put them into a bowl. Can be used immediately or stored in an airtight container in the refrigerator for up to 3 days.",
+        "Drain the noodles and cut them into approximately 2-inch lengths. Bring the 14 cups of broth and pre-cut noodles to a boil, then stir in fish sauce and salt to taste. Place a bowl of rice into a ttukbaegi (Korean earthenware bowl) or bowl and add some tendon and beef. Warm up and soften the rice, beef, and tendon using the Korean toryeom method: ladle some of the boiling broth into the bowl so it heats everything up, and then put the ladle into the bowl to hold it all in as you pour the broth out again into the boiling pot. Do this a couple of times and your rice, beef, and tendon will be at the right temperature and texture. Then you can add your final ladles of hot boiling broth to serve. Sprinkle ground black pepper, chopped green onion, egg strips, and gochu-garu (Korean hot pepper flakes) over top. Repeat these steps for each serving, adding rice, beef, tendon, to each additional bowls. Keep the broth boiling as you work. Serve immediately with fermented radish kimchi and any additional side dishes you want."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Makes 4 servings"
+        },
+        {
+          "tag": "li",
+          "text": "2 pounds beef brisket"
+        },
+        {
+          "tag": "li",
+          "text": "2 pounds beef tendon"
+        },
+        {
+          "tag": "li",
+          "text": "8 ounces Korean radish (or daikon), cut into chunks"
+        },
+        {
+          "tag": "li",
+          "text": "2 dae-pa (large green onions), one chopped, the other sliced 2 inches long"
+        },
+        {
+          "tag": "li",
+          "text": "1 medium-size onion, quartered"
+        },
+        {
+          "tag": "li",
+          "text": "12 garlic cloves"
+        },
+        {
+          "tag": "li",
+          "text": "2 ounces dangmyeon (sweet potato noodles, or glass noodles), soaked in cold water for 40 minutes"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon fish sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon plus 1 teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "ground black pepper and hot pepper flakes to taste"
+        },
+        {
+          "tag": "li",
+          "text": "cooked rice"
+        },
+        {
+          "tag": "li",
+          "text": "gochu-garu (Korean hot pepper flakes) to taste (optional)"
+        },
+        {
+          "tag": "li",
+          "text": "fermented kkakdugi (cubed radish kimchi) for a side dish"
+        },
+        {
+          "tag": "h3",
+          "text": "For egg strips (gyeran-jidan)"
+        },
+        {
+          "tag": "li",
+          "text": "2 eggs"
+        },
+        {
+          "tag": "li",
+          "text": "¼ teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon cooking oil (or grape-seed oil, vegetable oil, etc)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare beef, tendons, and broth"
+        },
+        {
+          "tag": "li",
+          "text": "Trim the fat from the beef and beef tendon, then wash them in cold running water."
+        },
+        {
+          "tag": "li",
+          "text": "Soak them in cold water for 1 hour to overnight, changing the water a couple of times to remove blood. Drain."
+        },
+        {
+          "tag": "li",
+          "text": "Bring a large pot of water to a boil and add the beef and tendon. Stir with a wooden spoon and cook for 10 to 15 minutes with the lid open, until fatty brownish foams come up on the surface."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from heat and drain. Rinse the beef and tendon in cold water. Wash the large pot with soapy water."
+        },
+        {
+          "tag": "li",
+          "text": "Add the beef, tendon, radish, onion, 1 large green onion (cut into 2 inches long), and garlic to the cleaned pot. Add 6 quarts of water (24 cups), cover and cook over medium-high heat for 30 to 35 minutes until boiling."
+        },
+        {
+          "tag": "li",
+          "text": "Reduce the heat to medium and cook for 2½ hours until the beef and tendon are soft. Taste to check tenderness. If not tender enough, cook a little longer."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from heat and let the beef and tendon cool. Strain the broth, yielding about 14 cups. If less, add water to make it 14 cups. Discard the mushy cooked vegetables."
+        },
+        {
+          "tag": "li",
+          "text": "Let the broth cool, then refrigerate until the fat on the surface solidifies. Remove and discard the solid fat."
+        },
+        {
+          "tag": "li",
+          "text": "Slice the beef and tendon into bite-size pieces and set aside."
+        },
+        {
+          "tag": "h3",
+          "text": "Make gyeran-jidan (egg strips)"
+        },
+        {
+          "tag": "li",
+          "text": "Beat the eggs with salt. Strain them into a small bowl and discard any stringy bits remaining in the strainer."
+        },
+        {
+          "tag": "li",
+          "text": "Heat a large nonstick skillet over medium-high heat. Add oil and swirl to coat. Wipe off excess oil with a paper towel, leaving a thin layer."
+        },
+        {
+          "tag": "li",
+          "text": "Turn off the heat and pour the egg mixture into the skillet. Shape it to a large circle shape by tilting the skillet this way and that. Cook for a couple of minutes until set."
+        },
+        {
+          "tag": "li",
+          "text": "Turn it over and let both sides set with the remaining heat. If it’s not set, you can cook it for another minute over low heat."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer to a cutting board and slice into thin strips. It can be used immediately or stored in an airtight container in the refrigerator for up to 3 days."
+        },
+        {
+          "tag": "h3",
+          "text": "Put gomtang together and serve"
+        },
+        {
+          "tag": "li",
+          "text": "Drain the noodles and cut them into approximately 2-inch lengths. Add them to the broth."
+        },
+        {
+          "tag": "li",
+          "text": "Stir in fish sauce and 4 teaspoons salt (or to your taste) and bring it to a boil."
+        },
+        {
+          "tag": "li",
+          "text": "Place a bowl of rice into a ttukbaegi (Korean earthenware bowl) or a large bowl and add some tendon and beef."
+        },
+        {
+          "tag": "li",
+          "text": "To warm up the rice, beef, and tendon, try the Korean “toryeom” method. Crank up the heat first! Then, ladle some hot broth into the bowl. Use the ladle to hold everything in place while pouring the broth back into the pot. Repeat a couple times until everything is warm and ready. Finally, add your final ladles of broth to serve."
+        },
+        {
+          "tag": "li",
+          "text": "Sprinkle ground black pepper, chopped green onion, egg strips, and gochu-garu (if used) over top."
+        },
+        {
+          "tag": "li",
+          "text": "Repeat these steps for each serving, adding rice, beef, tendon, to each additional bowls. Keep the broth boiling as you work."
+        },
+        {
+          "tag": "li",
+          "text": "Serve immediately with fermented radish kimchi and any additional side dishes you want."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

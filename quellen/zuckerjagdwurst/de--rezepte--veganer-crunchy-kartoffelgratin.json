@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-crunchy-kartoffelgratin",
+  "recipes": [
+    {
+      "name": "Veganes Crunchy Kartoffelgratin",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-crunchy-kartoffelgratin",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-crunchy-kartoffelgratin#recipe-d957d212-b945-560a-acb4-b6b01d071d7a",
+      "authors": [
+        "Anneke Schügner"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen (Backform: 22 cm x 28 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "800 g festkochende Kartoffeln",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "250 g Seidentofu",
+        "250 ml vegane Sahne",
+        "0.5 TL gemahlener Muskat",
+        "1 TL getrockneter Thymian",
+        "1 TL getrockneter Rosmarin",
+        "1 TL Gemüsebrühe",
+        "0.25 Zitronenabrieb",
+        "2 EL Hefeflocken (optional)",
+        "125 g veganer Speck oder Räuchertofu in Würfeln",
+        "100 g veganer Streukäse",
+        "100 g vegane Cracker (z. B. Bohnencracker Sorte Sea Salt & Vinegar oder Spicy Seeds von Sommer)",
+        "vegane Butter zum Braten und Einfetten",
+        "frische Petersilie zum Servieren"
+      ],
+      "instructions": [
+        "Ofen auf 180 °C (Umluft) vorheizen. Kartoffeln waschen und in ca. 2 mm dicke Scheiben hobeln. Die Zwiebel fein würfeln und den Knoblauch durch eine Knoblauchpresse drücken oder ebenfalls fein würfeln.",
+        "Tipp: Sollte die Dicke der Kartoffelscheiben stark von 2 mm abweichen, müsst ihr die Backzeit entsprechend anpassen.",
+        "Seidentofu, vegane Sahne, Muskat, Thymian, Rosmarin, Gemüsebrühe, Zitronenabrieb und Hefeflocken im Mixer oder mit dem Pürierstab zu einer cremigen Soße verarbeiten.",
+        "Veganen Speck, Zwiebel und Knoblauch mit etwas veganer Butter bei mittlerer Hitze etwa 5 Minuten andünsten, bis die Zwiebelwürfel glasig sind. Mit der Soße aus Seidentofu ablöschen und mit Salz und Pfeffer abschmecken. Für weitere 3–4 Minuten köcheln lassen und die Soße anschließend vom Herd nehmen.",
+        "Eine Backform (22 cm x 28 cm) mit veganer Butter einfetten. Abwechselnd Kartoffeln und Soße schichten und die veganen Speckwürfel dabei gleichmäßig verteilen. Die Bohnencracker in eine Tüte geben und mit einem Nudelholz grob zerkleinern. Die Cracker anschließend gleichmäßig auf dem Auflauf verteilen und mit veganem Käse bedecken.",
+        "Das Gratin für 20–25 Minuten bei 180 °C (Umluft) backen, bis die Kartoffeln gar sind. Sollte der Auflauf zu schnell anbräunen, nach der Hälfte der Zeit mit etwas Alufolie bedecken. Mit frischer Petersilie bestreuen und servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

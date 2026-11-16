@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-bisquitrolle-mit-erdbeeren",
+  "recipes": [
+    {
+      "name": "Vegane Biskuitrolle mit Erdbeer-Sahne-Füllung",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-bisquitrolle-mit-erdbeeren",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-bisquitrolle-mit-erdbeeren#recipe-7cfaf842-09d3-5ac5-8cee-5856672e7e81",
+      "authors": [
+        "Rahel Würsching"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Biskuitrolle",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für den Biskuitteig:",
+        "150 ml pflanzliche Milch",
+        "30 ml Zitronensaft",
+        "100 g Zucker",
+        "8 g (1.5 TL) Vanillezucker",
+        "180 g Mehl",
+        "2.5 g (0.5 TL) Weinsteinbackpulver",
+        "0.5 TL Natron",
+        "Für den Aquafaba-Mix:",
+        "120 ml Aquafaba",
+        "5 g (1 TL) Weinsteinbackpulver",
+        "1 Prise Salz",
+        "50 g Zucker",
+        "60 g Stärke",
+        "Für die Füllung:",
+        "400 g vegane Schlagsahne",
+        "16 g (2 EL) Sahnesteif",
+        "8 g (1.5 TL) Vanillezucker",
+        "50 g Puderzucker",
+        "250 g frische Erdbeeren",
+        "Außerdem:",
+        "Puderzucker zum Bestäuben",
+        "gehackte Pistazien zum Garnieren",
+        "frische Erdbeeren zum Garnieren"
+      ],
+      "instructions": [
+        "Biskuitboden",
+        "Zuerst die vegane Buttermilch zubereiten. Dafür pflanzliche Milch und Zitronensaft in einer Schüssel verrühren und mind. 10 Minuten ruhen lassen.",
+        "In der Zwischenzeit Aquafaba mit Weinsteinbackpulver und Salz ca. 10 Minuten mit einem Handrührgerät oder in einer Küchenmaschine steif schlagen. Zucker unter Rühren einrieseln lassen und weiter aufschlagen, bis ihr die Schüssel umdrehen könnt und der Aquafaba-Mix nicht herausfällt. Nun die Stärke in die Schüssel sieben und vorsichtig per Hand mit einem Schneebesen oder einem Gummispatel unterheben.",
+        "Den Ofen auf 220°C Ober- und Unterhitze vorheizen und einen rechteckigen Backrahmen oder eine Backform (25x30cm) mit Backpapier auslegen. Für den Teig Zucker, Vanillezucker, Mehl, Backpulver und Natron in einer großen Schüssel mischen. Die vegane Buttermilch dazugeben und nur kurz verrühren, bis alle Zutaten lose vermengt sind – es dürfen noch trockene Zutaten zu sehen sein.",
+        "Nun in mehreren Portionen den Aquafaba-Mix vorsichtig unter den Teig heben. Den Teig sofort in die vorbereitete Backform geben und auf mittlerer Schiene bei 220°C ca. 12 Minuten backen.",
+        "Während der Biskuitteig bäckt, ein frisches Küchenhandtuch bereitlegen und großzügig durch ein Sieb mit Puderzucker bestäuben. Den gebackenen Boden aus dem Ofen nehmen und direkt aus der Form lösen und auf das Küchenhandtuch stürzen. Das Backpapier vom Boden lösen und den Biskuitteig vorsichtig der Länge nach in das Tuch einwickeln und so vollständig auskühlen lassen.",
+        "Füllung",
+        "Die vegane Schlagsahne mit Sahnesteif und Vanillezucker steif schlagen und dabei den Puderzucker einrieseln lassen. Erdbeeren entstielen und klein schneiden.",
+        "Den ausgekühlten Biskuitboden vorsichtig aus dem Handtuch wickeln. Mit Erdbeeren und einem Teil der geschlagenen Sahne befüllen und wieder zusammenrollen.",
+        "Die Biskuitrolle mit der restlichen Sahne bestreichen und mit gehackten Pistazien und noch mehr Erdbeeren garnieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

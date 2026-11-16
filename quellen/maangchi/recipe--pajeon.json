@@ -1,0 +1,116 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/pajeon",
+  "recipes": [
+    {
+      "name": "Pajeon (Green onion pancake)",
+      "source_url": "https://www.maangchi.com/recipe/pajeon",
+      "recipe_id": "/recipe/pajeon#sso/recipe/13455",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Green onions, flour, water, soybean paste, sugar, and vegetable oil."
+      ],
+      "instructions": [
+        "Clean, wash, and drain a handful of wild green onions (or about 10 stalks of normal green onion).",
+        "Cut them into 5 inch long pieces.",
+        "Make batter by mixing ½ cup flour, ½ cup water, 1 ts soybean paste, and ½ ts sugar in a bowl. Mix well until the batter is smooth.",
+        "Place a non-stick pan on the stove and heat it up.",
+        "Add about 3 tbs vegetable oil to the heated pan.",
+        "Put the green onion on the pan parallel to each other, in the shape of a rectangle.",
+        "Pour the batter over the green onion evenly. *tip: If you want some seafood (chopped squid, mussels or fresh oysters) in your pancake add it on top of the green onion before pouring the batter.",
+        "While the pancake is being cooked, keep patting it, pressing it slightly, and keeping it in a nice shape with your spatula.",
+        "A few minutes later, when the bottom of the pancake turns crispy and golden brown, turn it over.",
+        "Cook a few more minutes until the bottom of the pancake turns crispy and golden brown again, and flip it or turn it over.",
+        "Cook another minute and transfer it to a serving plate.",
+        "Serve hot with sauce."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Makes 1 rectangular pancake about 6×7 inches"
+        },
+        {
+          "tag": "p",
+          "text": "Green onions, flour, water, soybean paste, sugar, and vegetable oil."
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Clean, wash, and drain a handful of wild green onions (or about 10 stalks of normal green onion)."
+        },
+        {
+          "tag": "li",
+          "text": "Cut them into 5 inch long pieces."
+        },
+        {
+          "tag": "li",
+          "text": "Make batter by mixing ½ cup flour, ½ cup water, 1 ts soybean paste, and ½ ts sugar in a bowl. Mix well until the batter is smooth."
+        },
+        {
+          "tag": "li",
+          "text": "Place a non-stick pan on the stove and heat it up."
+        },
+        {
+          "tag": "li",
+          "text": "Add about 3 tbs vegetable oil to the heated pan."
+        },
+        {
+          "tag": "li",
+          "text": "Put the green onion on the pan parallel to each other, in the shape of a rectangle."
+        },
+        {
+          "tag": "li",
+          "text": "Pour the batter over the green onion evenly. *tip: If you want some seafood (chopped squid, mussels or fresh oysters) in your pancake add it on top of the green onion before pouring the batter."
+        },
+        {
+          "tag": "li",
+          "text": "While the pancake is being cooked, keep patting it, pressing it slightly, and keeping it in a nice shape with your spatula."
+        },
+        {
+          "tag": "li",
+          "text": "A few minutes later, when the bottom of the pancake turns crispy and golden brown, turn it over."
+        },
+        {
+          "tag": "li",
+          "text": "Cook a few more minutes until the bottom of the pancake turns crispy and golden brown again, and flip it or turn it over."
+        },
+        {
+          "tag": "li",
+          "text": "Cook another minute and transfer it to a serving plate."
+        },
+        {
+          "tag": "li",
+          "text": "Serve hot with sauce."
+        },
+        {
+          "tag": "h3",
+          "text": "Sauce:"
+        },
+        {
+          "tag": "p",
+          "text": "Mix these ingredients in a small bowl: 2 tbs soy sauce, 1 tbs vinegar, 1 ts sugar or honey, chopped onion, chopped green or red chili peppers, and 1 ts roasted toasted sesame seeds."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

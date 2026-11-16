@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/chocolate-hazelnut-fig-granola-124",
+  "recipes": [
+    {
+      "name": "Chocolate Hazelnut & Fig Granola",
+      "source_url": "https://www.pickuplimes.com/recipe/chocolate-hazelnut-fig-granola-124",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "10 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT25M",
+      "total_time": "PT35M",
+      "ingredients": [
+        "4 cup rolled oats",
+        "¾ cup raw hazelnuts",
+        "¼ cup raw pumpkin seeds",
+        "¼ cup light brown sugar",
+        "¼ cup vegetable oil",
+        "¼ cup agave syrup",
+        "¼ tsp salt",
+        "½ cup dried fig",
+        "1.764 oz dairy-free dark chocolate",
+        "2 Tbsp whole chia seeds"
+      ],
+      "instructions": [
+        "Line a baking tray and preheat the oven to 325°F (160°C)*.",
+        "Mix the dry ingredients in a large bowl.",
+        "In a small bowl, whisk together the oil, agave syrup, and salt until very well combined.",
+        "Pour this wet mixture over the dry ingredients and toss to coat.",
+        "Evenly distribute over the baking tray.",
+        "Bake on the centre rack of the oven for 20 to 25 minutes, or until lightly golden, stirring once or twice throughout. Once cooled, stir in the add-ins.",
+        "Transfer to an airtight container or large glass storage jar. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We use 50 - 60% cocoa chocolate for a balanced sweetness. Darker varieties (70%+) can make the result too bitter. * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Store sealed and on the counter for up to 3 weeks."
+  ]
+}

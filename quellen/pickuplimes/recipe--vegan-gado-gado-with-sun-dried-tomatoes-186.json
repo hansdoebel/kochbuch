@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vegan-gado-gado-with-sun-dried-tomatoes-186",
+  "recipes": [
+    {
+      "name": "Vegan Gado Gado with Sun-Dried Tomatoes",
+      "source_url": "https://www.pickuplimes.com/recipe/vegan-gado-gado-with-sun-dried-tomatoes-186",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT15M",
+      "cook_time": "PT20M",
+      "total_time": "PT35M",
+      "ingredients": [
+        "1 Tbsp vegetable oil",
+        "2 medium onion",
+        "4 garlic clove",
+        "2 cup mock chicken pieces",
+        "4 cup green beans",
+        "1 cup boiling water",
+        "1⅓ cup long-grain white rice",
+        "2 bell pepper",
+        "⅓ cup oil-packed sun-dried tomatoes",
+        "⅓ cup reduced-sodium soy sauce",
+        "2 tsp sambal oelek",
+        "½ cup natural peanut butter",
+        "⅓ cup water",
+        "1 garlic clove",
+        "1 Tbsp reduced-sodium soy sauce",
+        "½ lime",
+        "1 tsp light brown sugar"
+      ],
+      "instructions": [
+        "Heat the oil in a sauté pan over high heat. Cook the onion and garlic for 5 minutes.",
+        "Add the mock chicken pieces. Continue to cook until lightly golden, about 5 minutes. Then transfer to a bowl.",
+        "Add the green beans and boiling water to the now-empty pan. Cover with a lid and cook at a gentle simmer for 7 minutes.",
+        "Meanwhile, cook the rice according to the package instructions.",
+        "Add all the ingredients for the peanut sauce to a small food processor and blend until smooth*.",
+        "Add the bell pepper to the pan with green beans. Cover and cook for 5 more minutes. A bit of remaining water is fine, but drain any excess beyond 1- 2 Tbsp.",
+        "Add the onion and mock chicken mixture back into the pan, along with the sun-dried tomatoes, soy sauce, and sambal. Cook until heated through.",
+        "Serve with rice, top with the peanut sauce, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * Alternatively, mix all of the ingredients in a bowl, with the garlic crushed in.",
+    "Storage Store in an airtight container in the fridge for up to 4 days."
+  ]
+}

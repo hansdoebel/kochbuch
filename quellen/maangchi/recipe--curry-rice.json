@@ -1,0 +1,104 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/curry-rice",
+  "recipes": [
+    {
+      "name": "Korean-style curry rice (Kare rice)",
+      "source_url": "https://www.maangchi.com/recipe/curry-rice",
+      "recipe_id": "/recipe/curry-rice#sso/recipe/63813",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "2 tablespoons unsalted butter",
+        "½ pound pork loin (or beef or chicken)",
+        "2 medium potatoes (about 10- 12 ounces), peeled and cut into ¾ inch cubes",
+        "1 large onion (about 8 ounces), cut into ¾ inch cubes",
+        "1 medium carrot (about 3 ounces), peeled and cut into ¼ inch cubes",
+        "3 cups water",
+        "1 (100 grams) package Korean curry powder",
+        "White fluffy rice"
+      ],
+      "instructions": [
+        "In a bowl, mix the curry powder with ½ cup water. Set aside.",
+        "Heat the butter in a large heavy pot over medium high heat. When it starts to melt add the pork and stir for a few minutes until the pork is no longer pink. Add the potatoes and stir for a few more minutes until the potatoes turn semi-translucent. Add the carrot and onion and stir for a few minutes.",
+        "Add 2½ cups water, stir a few times, cover, and turn down the heat to medium. Cook for 10 to 12 minutes until the potatoes are tender.",
+        "Add the curry and water mixture to the pot. Stir well for a few minutes until the sauce is creamy. Remove from the heat.",
+        "Ladle the curry sauce on top of fresh rice and serve immediately with kimchi."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons unsalted butter"
+        },
+        {
+          "tag": "li",
+          "text": "½ pound pork loin (or beef or chicken)"
+        },
+        {
+          "tag": "li",
+          "text": "2 medium potatoes (about 10- 12 ounces), peeled and cut into ¾ inch cubes"
+        },
+        {
+          "tag": "li",
+          "text": "1 large onion (about 8 ounces), cut into ¾ inch cubes"
+        },
+        {
+          "tag": "li",
+          "text": "1 medium carrot (about 3 ounces), peeled and cut into ¼ inch cubes"
+        },
+        {
+          "tag": "li",
+          "text": "3 cups water"
+        },
+        {
+          "tag": "li",
+          "text": "1 (100 grams) package Korean curry powder"
+        },
+        {
+          "tag": "li",
+          "text": "White fluffy rice"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "In a bowl, mix the curry powder with ½ cup water. Set aside."
+        },
+        {
+          "tag": "li",
+          "text": "Heat the butter in a large heavy pot over medium high heat. When it starts to melt add the pork and stir for a few minutes until the pork is no longer pink. Add the potatoes and stir for a few more minutes until the potatoes turn semi-translucent. Add the carrot and onion and stir for a few minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Add 2½ cups water, stir a few times, cover, and turn down the heat to medium. Cook for 10 to 12 minutes until the potatoes are tender."
+        },
+        {
+          "tag": "li",
+          "text": "Add the curry and water mixture to the pot. Stir well for a few minutes until the sauce is creamy. Remove from the heat."
+        },
+        {
+          "tag": "li",
+          "text": "Ladle the curry sauce on top of fresh rice and serve immediately with kimchi."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

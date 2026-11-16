@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/baked-dill-falafels-225",
+  "recipes": [
+    {
+      "name": "Dill Falafels",
+      "source_url": "https://www.pickuplimes.com/recipe/baked-dill-falafels-225",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "15 falafels",
+      "prep_time": "PT10M",
+      "cook_time": "PT20M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "2½ cup cooked chickpeas",
+        "½ cup roasted sunflower seeds",
+        "½ cup fresh dill",
+        "½ cup fresh cilantro",
+        "¼ cup chickpea flour",
+        "1 medium onion",
+        "2 garlic clove",
+        "½ lemon",
+        "2 tsp ground cumin",
+        "1 tsp ground coriander",
+        "½ tsp salt",
+        "½ tsp cayenne pepper",
+        "2 Tbsp vegetable oil"
+      ],
+      "instructions": [
+        "Blend the ingredients in a food processor until well combined.",
+        "Scoop up 2 Tbsp of the chickpea mixture and press into little patties, about 1 cm (½ inch) thick.",
+        "Add some of the oil to a large pan over medium-high heat. Working in batches, place the falafels in a single layer in the pan. Fry until golden, about 3 to 4 minutes per side. Repeat with the remaining oil and falafels.",
+        "Enjoy the falafels in a wrap, on a salad, or on their own with a dip!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store leftover falafels in an airtight container in the fridge for up to 4 days. Store in the freezer for up to 1 month."
+  ]
+}

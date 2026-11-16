@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-ofengemuese-pasta-mit-zitronen-ricotta-creme",
+  "recipes": [
+    {
+      "name": "Vegane Ofengemüse-Pasta mit Zitronen-Ricotta-Creme",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-ofengemuese-pasta-mit-zitronen-ricotta-creme",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-ofengemuese-pasta-mit-zitronen-ricotta-creme#recipe-416542c8-0ce2-5568-8e5e-641dacd406f7",
+      "authors": [
+        "Isabel Janka"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für das Ofengemüse:",
+        "1 Zucchini (350 g)",
+        "1 Aubergine (400 g)",
+        "2 Paprika (350 g)",
+        "250 g Cherrytomaten",
+        "1 große Zwiebel",
+        "3 Knoblauchzehen",
+        "2 TL italienische Kräuter",
+        "10 EL Olivenöl (z. B. von byodo)",
+        "3 Zweige frischer Rosmarin",
+        "Chiliflocken",
+        "Salz",
+        "Pfeffer",
+        "Für die Zitronen Ricotta-Creme:",
+        "400 g Naturtofu",
+        "130 ml pflanzliche Milch",
+        "1 Zitrone (Saft)",
+        "2 EL Hefeflocken",
+        "1 Zitrone (Abrieb)",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "500 g Nudeln (z. B. Cellentani, Grüne Erbse von byodo)"
+      ],
+      "instructions": [
+        "Den Ofen auf 200 °C (Umluft) vorheizen. Zucchini, Aubergine, Paprika, Tomaten und Zwiebel in mundgerechte Stücke schneiden und in eine große Schüssel geben. Knoblauchzehen pressen und zusammen mit den Kräutern, Gewürzen und Olivenöl zum Gemüse geben. Alles gut vermengen und auf einem Backblech verteilen. Rosmarinzweige auf dem Gemüse verteilen und im vorgeheizten Ofen circa 25 Minuten backen.",
+        "Währenddessen Naturtofu, pflanzliche Milch, Zitronensaft und Hefeflocken in einer Schüssel zu einer glatten Masse pürieren. Mit Zitronenabrieb, Salz und Pfeffer abschmecken. Etwa 4 gehäufte Esslöffel davon als Topping zur Seite stellen. Nudeln nach Packungsanweisung kochen und abgießen.",
+        "Sobald das Ofengemüse fertig ist, die Rosmarinzweige herunternehmen und etwa ein Drittel als Topping beiseitestellen. Das restliche Gemüse pürieren, mit der Zitronen-Ricotta-Creme vermengen und nochmal mit Salz und Pfeffer abschmecken. Die Soße zu den gekochten Nudeln geben und mit dem beiseitegestellten Ofengemüse, der Zitronen-Ricotta-Creme und frischem Rosmarin servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

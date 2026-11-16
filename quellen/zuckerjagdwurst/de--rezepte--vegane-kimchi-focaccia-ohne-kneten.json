@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kimchi-focaccia-ohne-kneten",
+  "recipes": [
+    {
+      "name": "Vegane Kimchi-Focaccia",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kimchi-focaccia-ohne-kneten",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kimchi-focaccia-ohne-kneten#recipe-1bd16bc8-cd3c-5294-94da-60ad046def62",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Focaccia",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT720M",
+      "ingredients": [
+        "Für den Focaccia-Teig:",
+        "4 g Trockenhefe",
+        "2 TL Zucker",
+        "480 ml Wasser",
+        "1 EL Olivenöl",
+        "600 g Mehl (Type 00)",
+        "4 TL Salz",
+        "Außerdem:",
+        "230 g Kimchi (z. B. Mediterranes Kimchi von Complete Organics)",
+        "Olivenöl zum Einfetten und Toppen"
+      ],
+      "instructions": [
+        "Trockenhefe und Zucker mit warmem Wasser und Olivenöl in einer großen Schüssel verrühren. Die Mischung circa 10 Minuten stehen lassen, damit die Hefe aktiviert wird. Anschließend Mehl und Salz dazugeben und alles mit einem Holzlöffel vermengen, bis kein trockenes Mehl mehr zu sehen ist. Die Schüssel mit einem Teller oder Küchentuch abdecken und den Teig 30 Minuten an einem warmen Ort ohne Zugluft gehen lassen.",
+        "Nach 30 Minuten beginnt ihr mit der Stretch-and-Fold-Technik: Die Hände mit Wasser befeuchten, damit der Teig nicht kleben bleibt. Vorsichtig mit einer Hand seitlich unter den Teig greifen, diesen nach oben ziehen und anschließend auf der anderen Seite ablegen. Die Schüssel um 90° drehen und den gleichen Schritt rundherum wiederholen, sodass der Teig von allen Seiten einmal gefaltet wurde. Die Schüssel wieder abdecken und den Teig 30 Minuten ruhen lassen. Diesen Vorgang insgesamt viermal wiederholen – das heißt, alle 30 Minuten den Teig falten und wieder ruhen lassen. Insgesamt dauert dieser Prozess 2 Stunden.",
+        "Den Teig nach dem letzten Stretch-and-Fold in eine eingeölte, große Schüssel geben und abgedeckt über Nacht (circa 8–12 Stunden) im Kühlschrank gehen lassen.",
+        "Am nächsten Tag eine Backform (circa 25 × 35 Zentimeter) mit 3–4 Esslöffeln Olivenöl großzügig einfetten. Den Teig aus dem Kühlschrank nehmen und ein letztes Mal die Stretch-and-Fold-Technik anwenden. Den Teig vorsichtig in die vorbereitete Backform geben und mit weiteren 2 Esslöffeln Olivenöl beträufeln. Das Öl sanft mit den Fingerspitzen über die Oberfläche verstreichen – dabei darauf achten, so wenige Luftblasen wie möglich zu zerstören, da diese für die luftige Struktur der Focaccia wichtig sind. Den Teig wieder abdecken und nochmals circa 1 Stunde bei Raumtemperatur gehen lassen, bis er sich sichtbar vergrößert hat.",
+        "Den Ofen auf 230 °C (Umluft) vorheizen. Währenddessen nochmals 2 Esslöffel Olivenöl auf dem Teig verteilen und nur mit den Fingerspitzen vorsichtig in die gesamte Oberfläche der Focaccia drücken, sodass die charakteristischen Mulden entstehen. Das Kimchi gleichmäßig auf der Focaccia verteilen und mit den Fingern sanft in den Teig drücken.",
+        "Die Focaccia bei 230 °C (Umluft) circa 20–25 Minuten backen, bis sie",
+        "durchgebacken, goldbraun und knusprig ist. Nach dem Backen circa 10 Minuten abkühlen lassen, bevor die Focaccia herausgenommen und angeschnitten wird."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

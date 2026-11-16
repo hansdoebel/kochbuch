@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/einfache-vegane-lebkuchen",
+  "recipes": [
+    {
+      "name": "Einfache, vegane Schoko-Lebkuchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/einfache-vegane-lebkuchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/einfache-vegane-lebkuchen#recipe-6f6ea209-5010-598b-8d37-1f107869fb46",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 30 Lebkuchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT105M",
+      "ingredients": [
+        "500 g Weizenmehl (Type 405)",
+        "8 g Backpulver",
+        "200 g Rohrzucker",
+        "40 g Backkakao (ungesüßt)",
+        "15 g Lebkuchengewürz",
+        "40 ml neutrales Pflanzenöl",
+        "250 ml pflanzliche Milch",
+        "300 g Zartbitterschokolade",
+        "2 EL Kokosöl"
+      ],
+      "instructions": [
+        "Den Ofen auf 180 °C (Umluft) vorheizen. Für den Teig Mehl, Backpulver, Zucker, Kakao und Lebkuchengewürz in einer Schlüssel vermischen. Neutrales Pflanzenöl und pflanzliche Milch hinzugeben und zu einem Teig kneten.",
+        "Den Teig auf einer bemehlten Fläche mindestens 5 Millimeter dick ausrollen und mit Ausstechern Sterne, Kreise, Herzen oder andere Formen ausstechen. Die Lebkuchen auf einem mit Backpapier ausgelegten Backblech platzieren und im vorgeheizten Backofen bei 180 °C (Umluft) circa 10–15 Minuten backen.",
+        "Tipp: Wenn ihr keine Ausstechformen habt, dann formt aus dem Teig kleine Bällchen, die ihr etwas plattdrückt. So bekommt ihr ganz einfach Lebkuchen in Kreisform.",
+        "Sobald die Lebkuchen abgekühlt sind, Schokolade und Kokosöl in einem Wasserbad schmelzen. Die Lebkuchen in der Schokolade wenden und auf einem Gitter abtropfen lassen. Im Anschluss auf Backpapier ruhen lassen, bis die Schokolade fest wird.",
+        "Die Lebkuchen in einem luftdichten Behälter aufbewahren und innerhalb von 3–5 Tagen essen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

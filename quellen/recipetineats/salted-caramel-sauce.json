@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.recipetineats.com/salted-caramel-sauce/",
+  "recipes": [
+    {
+      "name": "Salted Caramel Sauce",
+      "source_url": "https://www.recipetineats.com/salted-caramel-sauce/",
+      "recipe_id": "https://www.recipetineats.com/salted-caramel-sauce/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "4",
+        "4 - 6"
+      ],
+      "prep_time": "PT3M",
+      "cook_time": "PT10M",
+      "total_time": "PT13M",
+      "ingredients": [
+        "1 cup caster sugar",
+        "1/2 cup water",
+        "3/4 cup heavy whipping cream",
+        "1 tsp vanilla",
+        "1/4 tsp salt"
+      ],
+      "instructions": [
+        "Combine sugar and water in saucepan over medium heat.",
+        "Bring to rolling boil, stirring to help dissolve the sugar.",
+        "Boil for 5 to 8 minutes, until it turns a golden brown.",
+        "Pour in the cream, whisking constantly. Be careful, as the caramel is hot and it will foam.",
+        "Once the cream is combined, remove from heat and whisk in the salt and vanilla.",
+        "The caramel will seem thin. It thickens alot as it cools."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: Store in an air tight container for up to 3 weeks in the refrigerator or up to 2 months in the freezer."
+  ]
+}

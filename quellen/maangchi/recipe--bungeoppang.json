@@ -1,0 +1,114 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/bungeoppang",
+  "recipes": [
+    {
+      "name": "Fish-shaped bread with sweet red bean filling (Bungeoppang)",
+      "source_url": "https://www.maangchi.com/recipe/bungeoppang",
+      "recipe_id": "/recipe/bungeoppang#sso/recipe/35300",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 cup all purpose flour",
+        "½ teaspoon kosher salt",
+        "½ teaspoon baking soda",
+        "1 tablespoon brown or white sugar",
+        "1 cup plus 2 tablespoons water",
+        "1 tablespoon vegetable oil",
+        "Sweet red beans (canned or homemade): for homemade, use the method from my patbingsu recipe"
+      ],
+      "instructions": [
+        "Combine flour, kosher salt, baking soda, and sugar in a bowl. Add water and mix it well.",
+        "Sieve the mixture through a strainer to get a silky batter without any lumps.",
+        "Heat up the bunggeoppang pan and turn the heat down to low.",
+        "Open the pan and grease both the upper and lower fish molds with a light coating of vegetable oil.",
+        "Pour the batter into one side of the fish mold until it’s ⅓ full. Add 1 tablespoon of sweet red beans to the center, and then gently fill up the rest of the fish mold to totally cover the red beans.",
+        "Close the mold and cook for about 3 minutes over low heat.",
+        "Turn the pan over and let it cook another 3 minutes. Open it and turn it over again for another 30 seconds, to make the bread a little more crispy.",
+        "Take out and serve immediately."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients (for 6 bungeoppang)"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup all purpose flour"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon baking soda"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon brown or white sugar"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup plus 2 tablespoons water"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "Sweet red beans (canned or homemade): for homemade, use the method from my patbingsu recipe"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Combine flour, kosher salt, baking soda, and sugar in a bowl. Add water and mix it well."
+        },
+        {
+          "tag": "li",
+          "text": "Sieve the mixture through a strainer to get a silky batter without any lumps."
+        },
+        {
+          "tag": "li",
+          "text": "Heat up the bunggeoppang pan and turn the heat down to low."
+        },
+        {
+          "tag": "li",
+          "text": "Open the pan and grease both the upper and lower fish molds with a light coating of vegetable oil."
+        },
+        {
+          "tag": "li",
+          "text": "Pour the batter into one side of the fish mold until it’s ⅓ full. Add 1 tablespoon of sweet red beans to the center, and then gently fill up the rest of the fish mold to totally cover the red beans."
+        },
+        {
+          "tag": "li",
+          "text": "Close the mold and cook for about 3 minutes over low heat."
+        },
+        {
+          "tag": "li",
+          "text": "Turn the pan over and let it cook another 3 minutes. Open it and turn it over again for another 30 seconds, to make the bread a little more crispy."
+        },
+        {
+          "tag": "li",
+          "text": "Take out and serve immediately."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,104 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/myeongaju-muchim",
+  "recipes": [
+    {
+      "name": "Myeongaju-muchim (Lamb’s Quarters side dish)",
+      "source_url": "https://www.maangchi.com/recipe/myeongaju-muchim",
+      "recipe_id": "/recipe/myeongaju-muchim#sso/recipe/30443",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "10 ounces lamb’s quarters (about 300 grams): young leaves and stems",
+        "3 tablespoons doenjang (soybean paste)",
+        "1 tablespoon gochujang (hot pepper paste)",
+        "2 garlic cloves, minced",
+        "1 green onion, chopped",
+        "1 tablespoon toasted sesame oil",
+        "1 tablespoon toasted sesame seeds"
+      ],
+      "instructions": [
+        "Boil 3 quarts of water. Blanch the lamb’s quarters for about 1 to 2 minutes, until the leaves are tender.",
+        "Strain and rinse them in cold water a couple of times to stop them from cooking and to to remove any dirt.",
+        "Strain and squeeze out any excess water. If the leaves and stems are too long, cut them a few times into bite-sized pieces.",
+        "Put them into a mixing bowl and add soybean paste, hot pepper paste, garlic, green onion, and toasted sesame oil.",
+        "Mix by hand until all the leaves are well coated with the seasonings, and have absorbed them. You can wear disposable plastic gloves if you want.",
+        "Sprinkle with sesame seeds and transfer to a serving plate. Serve as a side dish to rice."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients (Serves 2-4)"
+        },
+        {
+          "tag": "li",
+          "text": "10 ounces lamb’s quarters (about 300 grams): young leaves and stems"
+        },
+        {
+          "tag": "li",
+          "text": "3 tablespoons doenjang (soybean paste)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon gochujang (hot pepper paste)"
+        },
+        {
+          "tag": "li",
+          "text": "2 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 green onion, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame seeds"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Boil 3 quarts of water. Blanch the lamb’s quarters for about 1 to 2 minutes, until the leaves are tender."
+        },
+        {
+          "tag": "li",
+          "text": "Strain and rinse them in cold water a couple of times to stop them from cooking and to to remove any dirt."
+        },
+        {
+          "tag": "li",
+          "text": "Strain and squeeze out any excess water. If the leaves and stems are too long, cut them a few times into bite-sized pieces."
+        },
+        {
+          "tag": "li",
+          "text": "Put them into a mixing bowl and add soybean paste, hot pepper paste, garlic, green onion, and toasted sesame oil."
+        },
+        {
+          "tag": "li",
+          "text": "Mix by hand until all the leaves are well coated with the seasonings, and have absorbed them. You can wear disposable plastic gloves if you want."
+        },
+        {
+          "tag": "li",
+          "text": "Sprinkle with sesame seeds and transfer to a serving plate. Serve as a side dish to rice."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

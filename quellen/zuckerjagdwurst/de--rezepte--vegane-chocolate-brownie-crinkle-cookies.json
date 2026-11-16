@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-chocolate-brownie-crinkle-cookies",
+  "recipes": [
+    {
+      "name": "Vegane Schokoladen Brownie Crinkle Cookies",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-chocolate-brownie-crinkle-cookies",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-chocolate-brownie-crinkle-cookies#recipe-cd022add-6675-5ca8-9ca5-4c7366c19fe6",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "15 Kekse",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "100 g Puderzucker",
+        "Teig",
+        "200 g vegane Feine Bitter Kuvertüre (z.B. von Vivani)",
+        "125 g vegane Butter",
+        "160 g Dinkelmehl",
+        "115 g brauner Zucker",
+        "2 EL (15 g) Kakaopulver",
+        "1 TL (5 g) Backpulver",
+        "1 Prise Salz",
+        "100 g Apfelmus"
+      ],
+      "instructions": [
+        "Die Schokolade und Butter in einem Wasserbad schmelzen. Anschließend gut abkühlen lassen.",
+        "In einer großen Schüssel das Mehl, den Zucker, das Kakaopulver, Backpulver und Salz vermischen.",
+        "Apfelmus und geschmolzene Schokoladen untermischen und zu einem glatten Teig verarbeiten.",
+        "Den Backofen auf 180°C Umluft erhitzen und zwei Backbleche mit Backpapier belegen.",
+        "Aus dem Teig 15 Kugeln formen, diese in Puderzucker wälzen und auf den zwei Backblechen mit ausreichend Abstand platzieren.",
+        "Die Kekse für 12-15 Minuten auf mittlerer Stufe backen und auf den Blechen abkühlen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

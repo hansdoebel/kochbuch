@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/one-pot-creamy-mushroom-pasta-98",
+  "recipes": [
+    {
+      "name": "One-Pot Creamy Mushroom Fusilli",
+      "source_url": "https://www.pickuplimes.com/recipe/one-pot-creamy-mushroom-pasta-98",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT20M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "1 Tbsp olive oil",
+        "2 medium shallot",
+        "6 garlic clove",
+        "1 fresh red chili",
+        "2½ cup vegetable broth",
+        "1⅔ cup canned full-fat coconut milk",
+        "5.009 oz button mushrooms",
+        "10.053 oz oyster mushrooms",
+        "16.049 oz fusilli pasta",
+        "¼ cup oil-packed sun-dried tomatoes",
+        "2 Tbsp nutritional yeast flakes",
+        "1 Tbsp reduced-sodium soy sauce",
+        "1 tsp sweet paprika powder",
+        "1 tsp fine sea salt",
+        "1 pinch ground black pepper",
+        "4 cup spinach"
+      ],
+      "instructions": [
+        "In a large pot, heat the oil over high heat. Add the shallots, garlic, and chili and sauté for about 3 minutes, until lightly golden.",
+        "Add the remaining ingredients (except for the spinach).",
+        "Bring to a boil. Reduce the heat to a gentle simmer, partially cover, and cook, stirring occasionally to prevent sticking, for about 15 minutes, or until the pasta is al dente.",
+        "Stir in the spinach and cook until wilted. Taste and add more salt and pepper if you like.",
+        "If desired, finish with a sprinkle of basil*. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Optionally, you can swap the vegetable broth for 2½ bouillon cubes dissolved in 2½ cups (600 ml) of water. If doing so, omit the added salt. † One (13.5 oz / 400ml) can yields about 1⅔ cups. * A squeeze of lemon juice is also a lovely addition.",
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

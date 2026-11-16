@@ -1,0 +1,49 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/high-protein-baked-potato",
+  "recipes": [
+    {
+      "name": "High Protein Baked Potato",
+      "source_url": "https://app.cookwell.com/recipe/high-protein-baked-potato",
+      "recipe_id": "https://app.cookwell.com/recipe/high-protein-baked-potato",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1-2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "Russet potatoes, 1",
+        "Neutral oil, a drizzle",
+        "Salt, a sprinkle",
+        "93/7 ground beef, 225 g",
+        "Black Beans, 60 g",
+        "Salt, 2 g",
+        "Paprika, 2 g",
+        "Chili Powder, 2 g",
+        "Cumin, 1 g",
+        "Granulated garlic, 1 g",
+        "Roma tomatoes, 1",
+        "Water, a splash",
+        "Low-fat sour cream, 60 g",
+        "Jalapeños",
+        "Cilantro",
+        "Lime wedges"
+      ],
+      "instructions": [
+        "Poke several holes all over the potato with a fork. Microwave it for 3 minutes to give it a head start. Rub the potato with a little oil and salt, then transfer it to a 425°F (220°C) oven and bake for about 30 minutes, or until the skin is crisp and the center is tender.",
+        "Meanwhile, heat a skillet over medium-high heat. Add the ground beef and press it into the pan so it sears and develops some browning before breaking it into crumbles. Season with the salt, crushed cumin and garlic, paprika, and chili powder. Continue searing and mixing until the beef is browned. Meanwhile, grate the tomato into a bowl to create a quick puree.",
+        "Stir the black beans into the browned beef. Add the grated tomato and a splash of water. Simmer for 2–3 minutes until the tomato cooks down and the mixture becomes thick, saucy, and chili-like. Taste and adjust seasoning as needed.",
+        "Slice the baked potato open and fluff the interior with a fork. Season the inside with a little more salt and add a spoonful of sour cream. Pile the chili filling over the top, then finish with another dollop of sour cream, diced jalapeño, fresh cilantro, and a squeeze of lime. Serve immediately while warm."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

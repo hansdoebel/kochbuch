@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-souffle-pancakes",
+  "recipes": [
+    {
+      "name": "Vegane Soufflé Pancakes",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-souffle-pancakes",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-souffle-pancakes#recipe-e0ecc100-daf9-54e4-aa87-b11276634d4f",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 10 Pancakes",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für den Teig:",
+        "100 ml Wasser aus einer Kichererbsendose (Aquafaba)",
+        "8 g Weinsteinbackpulver",
+        "1 TL Xanthan Gum",
+        "100 g Puderzucker",
+        "200 g Weizenmehl (Type 405) oder Dinkelmehl (Type 603)",
+        "200 ml pflanzliche Milch",
+        "1 Prise Salz",
+        "1 TL Vanillearoma",
+        "neutrales Pflanzenöl",
+        "Zum Servieren:",
+        "frische Beeren, Ahornsirup, vegane Butter, vegane Schokocreme"
+      ],
+      "instructions": [
+        "Das Wasser aus einer Kichererbsendose abgießen und mithilfe einer Küchenmaschine aufschlagen. Während des Aufschlagens Weinsteinbackpulver, Xanthan Gum und Puderzucker nach und nach hinzugeben.",
+        "Während das Aquafaba aufschlägt, Mehl, Salz, pflanzliche Milch und Vanillearoma mit einem Schneebesen in einer Schüssel verrühren.",
+        "Sobald das Aquafaba schaumig, weiß und glänzend ist, vorsichtig mithilfe eines Spatels dem Pancake-Teig unterheben.",
+        "Nun gibt es zwei Möglichkeiten, den Pancake-Teig in der Pfanne zuzubereiten:",
+        "a) mithilfe eines Spritzbeutels",
+        "Den Teig in einen Spritzbeutel füllen. Eine Pfanne (zu der ihr einen Deckel habt) mit etwas Öl erhitzen (Stufe 4 oder 5 von 9). Den Teig in möglichst hohen Türmen in die Pfanne setzen. Den Deckel auf die Pfanne setzen. Nun 4–5 Minuten pro Seite ausbacken.",
+        "b) mithilfe von kleinen Alu-Ringen",
+        "Für die Aluringe Alufolie mehrfach übereinander schlagen (Höhe 2–3 Zentimeter), einen Kreis formen, festkleben und gut einölen. Eine Pfanne (zu der ihr einen Deckel habt) mit etwas Öl erhitzen (Stufe 4 oder 5 von 9). Die Aluringe in der Pfanne platzieren, zu zwei Drittel mit Teig füllen und den Deckel auf die Pfanne setzen. Nun 5–8 Minuten pro Seite ausbacken. Erst wenn der Teig an der Oberseite schon etwas fest wird, wenden. Mit einem Stäbchen testen, ob der Teig wirklich durchgebacken ist.",
+        "Mit frischen Beeren, Ahornsirup, veganer Butter oder Schokocreme servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

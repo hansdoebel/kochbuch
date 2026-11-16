@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-cream-cheese-bagel",
+  "recipes": [
+    {
+      "name": "Vegane Cream Cheese Bagel",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-cream-cheese-bagel",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-cream-cheese-bagel#recipe-fc45c0ae-5414-5ac4-a112-2033cb0193ed",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Bagel",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT100M",
+      "ingredients": [
+        "Für die Bagel:",
+        "250 g Mehl",
+        "21 g frische Hefe (1/2 Würfel)",
+        "2 EL Ahornsirup",
+        "175 ml lauwarme Pflanzenmilch",
+        "1 EL Natron",
+        "Sesam, Mohn, Körner, etc. zum Toppen",
+        "Für den Mandel-Frischkäse",
+        "200 g Mandeln (ohne Schale)",
+        "200 ml Wasser",
+        "2 EL Kokosöl",
+        "1 TL Pfeilwurzmehl",
+        "1 EL Zitronensaft",
+        "1 EL Apfelessig",
+        "Salz",
+        "weißer Pfeffer"
+      ],
+      "instructions": [
+        "Wir beginnen mit dem Mandelfrischkäse, denn der muss über Nacht abtropfen. Mandeln mind. 30 Minuten in warmem Wasser einweichen lassen. Anschließend abgießen und unter klarem Wasser abspülen.",
+        "Die Mandeln in einen Standmixer geben. Wasser, Kokosöl, Pfeilwurzmehl, Zitronensaft und Apfelessig dazugeben und kräftig pürieren oder vermengen, bis eine cremige, einheitliche Masse entsteht. Je feiner die Konsistenz jetzt ist, desto cremiger wird euer Frischkäse am Ende. Kräftig mit Salz und weißem Pfeffer würzen.",
+        "Ein sauberes Küchentuch, am besten aber ein Käsetuch über ein Sieb legen. Die Frischkäsemasse einfüllen und danach das Tuch gut zusammendrehen und schon jetzt einen Teil der Flüssigkeit aus dem der Masse drücken. Anschließend gut zusammenknoten und das Sieb am besten über eine Schüssel oder einen kleinen Topf legen, in den die Flüssigkeit laufen kann. Die Konstruktion kommt nun in den Kühlschrank für mind. 3 Stunden, am besten aber über Nacht. Danach aus dem Käsetuch rollen und gern nochmal durchrühren. Auf Wunsch weiter abschmecken oder frische, klein gehackte Kräuter unterrühren.",
+        "Nun geht's an die Bagel. Hefe und 1 EL Ahornsirup in lauwarmer Pflanzenmilch auflösen. Mehl in eine Schüssel geben und eine kleine Mulde in der Mitte formen. Die Hefemischung dazugeben und zu einem Teig verkneten. Abgedeckt ca. 1 Stunde stehen lassen, bis sich das Volumen deutlich vergrößert hat.",
+        "Anschließend in 4 gleich große Portionen teilen und zu Kugeln formen. Diese ein bisschen flach drücken und kleine Löcher in die Mitte drücken.",
+        "In einem großen Topf 2 Liter Wasser aufkochen. Natron und 1 EL Ahornsirup dazugeben. Die Bagel nacheinander in das Wasser geben und ca. 20 Sekunden köcheln lassen.",
+        "Die Bagel herausnehmen und auf ein Backblech mit Backpapier legen. Bei 180°C ca. 20 Minuten backen oder bis sie schön braun sind. Leicht abkühlen lassen und mit eurem Mandel-Frischkäse bestreichen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-shakshuka-mit-feto",
+  "recipes": [
+    {
+      "name": "Veganes Shakshuka mit Feto",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-shakshuka-mit-feto",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-shakshuka-mit-feto#recipe-0fa463bf-0d2b-56ed-9c85-2c327e8e46c6",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "0.25 Chilischote (oder 0.5 kleine)",
+        "2 rote Paprika",
+        "2 TL Kreuzkümmel",
+        "1 TL Paprika edelsüß",
+        "2 EL Tomatenmark",
+        "800 g (2 Dosen) ganze Tomaten im Saft (im Sommer: frische Tomaten)",
+        "Salz",
+        "Pfeffer",
+        "Prise Zucker",
+        "Zusätzlich",
+        "200 g Feto (z.B. von Taifun)",
+        "1 frisches Brot (z.B. Pita, Fladenbrot)",
+        "1 Zitrone",
+        "15 g frische Petersilie",
+        "Olivenöl"
+      ],
+      "instructions": [
+        "Zwiebel und Knoblauch schälen und fein hacken.",
+        "Die Chilischote waschen und in feine Ringe schneiden. Die Paprikas ebenfalls waschen und in Streifen schneiden.",
+        "In einer Pfanne Olivenöl erhitzen und Knoblauch, Zwiebeln, Chili und die Gewürze darin anschwitzen. Das Tomatenmark 2 Minuten später ebenfalls hinzugeben. Ebenfalls für 2-3 Minuten anschwitzen.",
+        "Paprika und Tomaten hinzugeben und mindestens 20 Minuten köcheln lassen, bis die Flüßigkeit der Tomaten gut verkocht ist und das Shakshuka cremig ist.",
+        "Mit Salz, Zucker und Pfeffer abschmecken. Die Petersilie waschen und grob hacken, den Feto in einer Schüssel zerbröseln.",
+        "Das Shakshuka vom Herd nehmen und mit Feto, Petersilie und Olivenöl toppen. Mit frischem Fladenbrot servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

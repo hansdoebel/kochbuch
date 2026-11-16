@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/one-bowl-oatmeal-blueberry-muffins-269",
+  "recipes": [
+    {
+      "name": "One-Bowl Oatmeal Blueberry Muffins",
+      "source_url": "https://www.pickuplimes.com/recipe/one-bowl-oatmeal-blueberry-muffins-269",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "12 muffins",
+      "prep_time": "PT10M",
+      "cook_time": "PT20M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "2 Tbsp ground flaxseeds",
+        "1 cup unsweetened soy milk",
+        "1 tsp white vinegar",
+        "⅓ cup refined coconut oil",
+        "½ cup unsweetened applesauce",
+        "½ cup granulated sugar",
+        "1 tsp pure vanilla extract",
+        "1 tsp baking powder",
+        "½ tsp ground cinnamon",
+        "½ tsp baking soda",
+        "¼ tsp salt",
+        "2 cup oat flour",
+        "1¼ cup fresh blueberries",
+        "½ Tbsp granulated sugar",
+        "⅛ tsp ground cinnamon"
+      ],
+      "instructions": [
+        "In a large bowl, mix together the flaxseeds, milk, and vinegar and allow it to sit for 5 minutes to slightly thicken.",
+        "Lightly grease or line a muffin pan and preheat the oven to 375°F (190°C)*.",
+        "Returning to the bowl, add the oil, applesauce, sugar, vanilla, baking powder, cinnamon, baking soda, and salt. Mix well.",
+        "Then add the oat flour and mix until combined.",
+        "Place roughly 1 Tbsp of batter into each muffin. This helps to create a 'buffer' so that the blueberries don't sink to the bottom.",
+        "To the remaining batter, add the blueberries and gently stir them through. Divide the rest of the batter evenly into the muffin wells to fill them up.",
+        "For the optional topping, mix the sugar and cinnamon in a small bowl and then sprinkle over top of the muffins.",
+        "Bake the muffins on the middle rack of the oven for about 20 minutes. Let cool in the muffin tin for 5 minutes before transferring to a wire rack to cool completely. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Refined coconut oil is coconut oil that doesn't smell or taste like coconuts. If you prefer a distinct coconut taste, use unrefined coconut oil instead. † Make your own oat flour by blending rolled oats in a food processor until a flour consistency is reached. † Using frozen blueberries instead of fresh berries will create streaks in the batter resulting in more grey-coloured muffins, but the taste will still be delicious! Alternatively, you could divide the blueberry-free batter between the wells, and then gently press the frozen blueberries into the batter. This minimizes streaking. * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Nothing beats a fresh blueberry muffin, but if you are storing them, keep them in an airtight container in the fridge for up to 2 days, or in the freezer for up to 2 months."
+  ]
+}

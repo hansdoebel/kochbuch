@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schokokuesse-selber-machen",
+  "recipes": [
+    {
+      "name": "Vegane Schokoküsse selber machen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schokokuesse-selber-machen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schokokuesse-selber-machen#recipe-640c7568-0374-5a63-bbca-4d2f841b7e0b",
+      "authors": [
+        "Rahel Würsching"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12-16 Schokoküsse",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für die Aquafaba-Masse:",
+        "350 ml Aquafaba",
+        "200 g Puderzucker",
+        "1 Prise Salz",
+        "1 TL Weinsteinbackpulver",
+        "Außerdem:",
+        "400 g vegane Kakaoglasur",
+        "2 EL Kokosöl",
+        "vegane Waffelplatten (1-2 Waffelplatten 25x25 cm)"
+      ],
+      "instructions": [
+        "Das Aquafaba in einem Topf erhitzen und so lange köcheln, bis es auf 125 g reduziert ist. Mit einem runden Ausstecher (5 cm ø) Böden für die Schokoküsse aus den Waffeln ausstechen.",
+        "Einen Topf mit Wasser aufsetzen und eine wärmebeständige Schüssel über dem Wasserbad erhitzen. Das Aquafaba in der Schüssel für mindestens 5 Minuten steif schlagen. Puderzucker und Salz einrieseln lassen.",
+        "Nach weiteren 5 Minuten das Weinsteinbackpulver hinzugeben und noch einmal 5-10 Minuten schlagen. Die Kakaoglasur parallel mit dem Kokosöl schmelzen und verrühren.",
+        "Die Masse in einen Spritzbeutel mit runder Tülle füllen. Die Waffelböden auf einem Gitter verteilen und einen Bogen Backpapier unterlegen. Die Schokokussfüllung direkt auf die Böden aufdressieren und mit der Kakaoglasur überziehen. Die Schaumküsse anziehen lassen, bis die Schokohülle fest ist. Die Schokoküsse bei Raumtemperatur lagern und in 1-2 Tagen aufbrauchen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

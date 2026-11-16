@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/green-pea-soup-92",
+  "recipes": [
+    {
+      "name": "Green Pea Soup",
+      "source_url": "https://www.pickuplimes.com/recipe/green-pea-soup-92",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT20M",
+      "total_time": "PT25M",
+      "ingredients": [
+        "2 tsp vegetable oil",
+        "2 garlic clove",
+        "1 small onion",
+        "1 tsp dried thyme",
+        "2 cup frozen green peas",
+        "1 cup frozen shelled edamame",
+        "4 cup vegetable broth",
+        "½ cup raw cashews",
+        "1 pinch salt",
+        "1 pinch ground black pepper"
+      ],
+      "instructions": [
+        "Heat the oil in a large pot over medium-high heat, then add the onions and garlic and sauté until lightly golden, about 5 minutes. Add splashes of water as needed to deglaze the pot.",
+        "Add the remaining ingredients, bring to a boil, reduce to a simmer, and partially cover with a lid. Let simmer for 15 minutes.",
+        "Remove the pot from the heat and use an immersion blender or standing blender to blend the soup until creamy.",
+        "Serve while hot, and top with crunchy croutons - enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Can substitute each cup of stock for ½ vegetable bouillon cube plus 1 cup (240 mL) water.",
+    "Storage Keep in an airtight container in the fridge for up to 3 days, or freeze for up to 2 months."
+  ]
+}

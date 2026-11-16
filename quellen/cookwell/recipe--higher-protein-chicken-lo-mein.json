@@ -1,0 +1,54 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/higher-protein-chicken-lo-mein",
+  "recipes": [
+    {
+      "name": "Higher Protein Chicken Lo Mein",
+      "source_url": "https://app.cookwell.com/recipe/higher-protein-chicken-lo-mein",
+      "recipe_id": "https://app.cookwell.com/recipe/higher-protein-chicken-lo-mein",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "Lo Mein Noodles, 150 g",
+        "Neutral oil, as needed",
+        "Chicken Breasts, 300 g",
+        "Light soy sauce, a splash",
+        "Shaoxing wine, a splash",
+        "Sesame Oil, a drizzle",
+        "Chicken bouillon, a sprinkle",
+        "Light soy sauce, 25 g",
+        "Oyster Sauce, 15 g",
+        "Sugar, 10 g",
+        "Chicken bouillon, 5 g",
+        "Water, a splash",
+        "Garlic, 2 cloves",
+        "Fresh ginger, 1\" knob",
+        "Chinese broccoli, 1/2 bunch",
+        "Bell peppers, 1/2",
+        "Squash, 1/4",
+        "Red Onions, 1/8",
+        "Bean sprouts, a handful"
+      ],
+      "instructions": [
+        "Bring a pot of water to a boil and cook the noodles to the lower end of the package instructions. You want them slightly underdone since they’ll finish cooking in the sauce. Drain and set aside. Meanwhile, slice the chicken breast into thin, bite-sized pieces.",
+        "Add the chicken to a bowl with light soy sauce, chicken bouillon, sesame oil, and Shaoxing cooking wine. Mix until evenly coated.",
+        "Combine light soy sauce, oyster sauce, sugar, chicken bouillon, and a splash of water and mix until everything is dissolved. Set aside.",
+        "Heat oil in a wok or pan over high heat. Add the chicken and sear or stir-fry until lightly browned and just cooked through. Remove and set aside.",
+        "Add a bit more oil if needed, then add garlic and ginger to bloom for a few seconds until fragrant. Add Chinese broccoli, squash, bell pepper, and onion to stir-fry until lightly softened. If needed, do this in small batches to not overcrowd the pan.",
+        "Add noodles and sauce. Toss until glossy and evenly coated. Return the chicken and mix to combine. Add bean sprouts at the end to keep them fresh and crisp."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

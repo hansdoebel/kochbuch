@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-katsu-sando",
+  "recipes": [
+    {
+      "name": "Veganes Tofu Katsu Sando",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-katsu-sando",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-katsu-sando#recipe-b1c0ae66-a2cf-5558-9528-d14cd7a4e9cc",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Sandwiches",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "8 Toastbrotscheiben",
+        "50 g Panko",
+        "1 EL Hefeflocken",
+        "0.5 TL Knoblauchpulver",
+        "600 g Tofu",
+        "50 ml pflanzliche Milch",
+        "50 g Mehl",
+        "100 g Weißkohl",
+        "8 EL Tonkatsu-Soße",
+        "vegane Butter zum Bestreichen",
+        "Pflanzenöl zum Braten",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Den Weißkohl fein raspeln oder in dünne Streifen schneiden und beiseitelegen für später.",
+        "Die Rinden der Toastbrotscheiben abschneiden. Die könnt ihr kurz toasten und snacken während ihr die Sandwiches zubereitet.",
+        "Panko in eine fettfreie Pfanne geben und über kleiner Hitze vorsichtig goldbraun rösten. In einer Schüssel mit Hefeflocken, Knoblauchpulver, Salz und Pfeffer vermengen.",
+        "Tofu in dicke Scheiben schneiden. Auf ein Sandwich passen ca. anderthalb bis zwei Scheiben Tofu von der Breite. Jede Scheibe Tofu erst im Mehl wälzen, dann einmal durch die pflanzliche Milch ziehen und anschließend mit der Pankomischung ummanteln.",
+        "Pflanzenöl in einer gut beschichten Pfanne erhitzen und die Tofuscheiben nacheinander von allen Seiten knusprig und goldbraun anbraten.",
+        "Zum Servieren die Hälfte der Toastscheiben mit veganer Butter bestreichen und Tonkatsu-Soße darauf verteilen. Mit Tofu und Weißkohl belegen. Die restlichen Toastscheiben ebenfalls mit Tonkatsu-Soße bestreichen und darauflegen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

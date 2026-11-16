@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/immune-booster-smoothie-119",
+  "recipes": [
+    {
+      "name": "Immune Booster Smoothie",
+      "source_url": "https://www.pickuplimes.com/recipe/immune-booster-smoothie-119",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "2 frozen banana",
+        "1 orange",
+        "1 cup unsweetened soy milk",
+        "1 cup spinach",
+        "½ cup frozen raspberries",
+        "¼ medium beet",
+        "¼ cup unsweetened coconut yogurt",
+        "1 Tbsp fresh ginger",
+        "1 Tbsp natural peanut butter"
+      ],
+      "instructions": [
+        "Combine all ingredients in a high-speed blender and blend on high until smooth.",
+        "Pour into bowls and top with desired toppings. Alternatively, pour into a tall bottle and take with you on-the-go!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium .",
+    "Storage Best if enjoyed right away."
+  ]
+}

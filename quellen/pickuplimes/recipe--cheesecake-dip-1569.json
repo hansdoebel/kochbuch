@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/cheesecake-dip-1569",
+  "recipes": [
+    {
+      "name": "Cheesecake Dip",
+      "source_url": "https://www.pickuplimes.com/recipe/cheesecake-dip-1569",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "1½ cup cooked butter beans",
+        "¼ cup cashew butter",
+        "¼ cup plain vegan cream cheese",
+        "3 Tbsp maple syrup",
+        "2 tsp pure vanilla extract",
+        "1 pinch salt",
+        "2 cup fresh strawberries"
+      ],
+      "instructions": [
+        "Add all of the dip ingredients to a small food processor.",
+        "Blend until smooth and serve with your favourite fruit. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Also known as lima beans.",
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/wild-rice-mushroom-burger-109",
+  "recipes": [
+    {
+      "name": "Mushroom & Rice Burger",
+      "source_url": "https://www.pickuplimes.com/recipe/wild-rice-mushroom-burger-109",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 burgers",
+      "prep_time": "PT15M",
+      "cook_time": "PT20M",
+      "total_time": "PT35M",
+      "ingredients": [
+        "2 Tbsp ground flaxseeds",
+        "¼ cup water",
+        "1 Tbsp vegetable oil",
+        "2 medium onion",
+        "2 garlic clove",
+        "4.938 oz button mushrooms",
+        "⅓ cup raw walnuts",
+        "2 Tbsp reduced-sodium soy sauce",
+        "½ Tbsp ground cumin",
+        "1 tsp ground coriander",
+        "1½ cup cooked brown lentils",
+        "1 cup cooked brown rice",
+        "1 cup bread crumbs",
+        "1 Tbsp nutritional yeast flakes",
+        "1 Tbsp ketchup",
+        "1 pinch ground black pepper",
+        "⅓ cup vegan mayonnaise",
+        "1 Tbsp sriracha",
+        "6 burger bun",
+        "1 cup arugula",
+        "2 avocado",
+        "2 medium tomato"
+      ],
+      "instructions": [
+        "In a large bowl, mix together the ground flaxseeds and water. Set aside.",
+        "Heat the oil in a sauté pan over medium-high heat. Cook the onions and garlic until lightly golden, about 5 minutes.",
+        "Add the mushrooms and walnuts, and cook until most of the moisture has evaporated, 5 to 8 minutes.",
+        "Add the soy sauce, cumin, and coriander, and continue to cook until the moisture has evaporated. Remove from the heat.",
+        "Add the lentils to the bowl with the flaxseed mixture and mash as best you can using an immersion blender, potato masher, or fork.",
+        "Transfer the cooked mushroom mixture to the bowl, along with the rice, bread crumbs, nutritional yeast, ketchup, and black pepper. Mix well with your hands, then form into burger patties.",
+        "Heat a bit of oil in a large pan over medium heat. Cook the patties until golden on each side, about 2 to 3 minutes per side.",
+        "In a small bowl, mix together the mayonnaise and sriracha until smooth. Taste and adjust the amount of mayonnaise or sriracha to your preferred level of spice.",
+        "Assemble the burgers with the buns, sriracha mayo, arugula, avocado, and tomato. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Keep the patties in an airtight container in the fridge for up to 3 days. Store well sealed in the freezer separated by pieces of parchment paper for up to 1 month."
+  ]
+}

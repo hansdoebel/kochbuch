@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nudelsuppe-mit-gemuese",
+  "recipes": [
+    {
+      "name": "Vegane Nudelsuppe mit Gemüse",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nudelsuppe-mit-gemuese",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nudelsuppe-mit-gemuese#recipe-acbd468a-eff5-5f94-be28-b691ddd19d3b",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "250 g Suppennudeln",
+        "150 g Knollensellerie",
+        "1 Möhre",
+        "1 Zwiebel",
+        "50 g Lauch",
+        "1 Knoblauchzehe",
+        "2 TL getrockneter Thymian",
+        "1 TL getrockneter Majoran",
+        "0.5 TL getrockneter Oregano",
+        "1 l Gemüsebrühe",
+        "1 EL vegane Butter (optional)",
+        "Pflanzenöl zum Braten",
+        "Petersilie zum Servieren",
+        "Salz",
+        "Pfeffer",
+        "Muskat"
+      ],
+      "instructions": [
+        "Knollensellerie und Zwiebel schälen und zusammen mit der Möhre in kleine Würfel schneiden. Lauch waschen und in dünne Ringe schneiden. Knoblauch schälen und fein hacken.",
+        "Pflanzenöl in einem großen Topf bei mittlerer Hitze erwärmen und Zwiebel und Knoblauch 2–3 Minuten anschwitzen, bis die Zwiebelwürfel glasig werden. Danach das restliche geschnittene Gemüse sowie getrockneten Thymian, Majoran und Oregano dazugeben und 7–8 Minuten bei kleiner bis mittlerer Hitze anbraten.",
+        "Mit Gemüsebrühe auffüllen und zum Kochen bringen (falls ihr vorher schon merkt, dass das Gemüse am Topfboden anröstet, schon ein bisschen Brühe dazugeben, um das Gemüse zu lösen).",
+        "Die Nudeln dazugeben und die Suppe köcheln lassen, bis das Gemüse weich und die Nudeln al dente sind. Die Nudelsuppe mit Salz und Pfeffer abschmecken und zum Schluss nach Wunsch vegane Butter dazugeben.",
+        "Die Nudelsuppe erst kurz vor dem Servieren mit Muskat würzen und mit frischer, gehackter Petersilie bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

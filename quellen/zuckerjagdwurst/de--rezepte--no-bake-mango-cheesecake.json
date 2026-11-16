@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/no-bake-mango-cheesecake",
+  "recipes": [
+    {
+      "name": "Veganer No Bake Mango Cheesecake",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/no-bake-mango-cheesecake",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/no-bake-mango-cheesecake#recipe-199da060-c114-5cf3-99be-ffb2aa9e08c0",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (Ø 16-18 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT210M",
+      "ingredients": [
+        "Für den Boden:",
+        "100 g Cashews (z. B. von gebana)",
+        "50 g Pekanüsse (z. B. von gebana)",
+        "50 g Macadamia (z. B. von gebana)",
+        "150 g Datteln (über Nacht in Wasser eingeweicht)",
+        "70 g Kokosnussflocken",
+        "0.5 Zitrone (Saft)",
+        "Für die Füllung:",
+        "1 Vanilleschote",
+        "150 g Cashewnüsse (über Nacht in Wasser eingeweicht)",
+        "150 g veganer Frischkäse",
+        "2 EL Kokosöl",
+        "65 ml Ahornsirup",
+        "0.5 Zitrone (Saft)",
+        "1 Mango",
+        "Für die Mangosoße:",
+        "1 Mango (z. B. von gebana)",
+        "Außerdem:",
+        "50 g Kokosnuss-Flakes"
+      ],
+      "instructions": [
+        "Zubereitung:",
+        "Für den Boden die Nüsse und eingeweichten Datteln in einen Mixer geben und auf hoher Stufe durchmixen. Anschließend Kokosnussflocken und den Saft einer halben Zitrone hinzufügen. Nochmals mixen und beiseitestellen.",
+        "Für die Füllung eine Vanilleschote längs halbieren und mit dem Rücken eines Messers das Vanillemark herauskratzen. Das Vanillemark mit den eingeweichten Cashewnüssen, veganem Frischkäse, Kokosöl, Ahornsirup und dem Saft einer halben Zitrone in den Mixer geben und mixen, bis eine cremige Masse entsteht.",
+        "Für die Mangosoße die Mango schälen, das Fruchtfleisch vom Kern lösen und würfeln. In den Mixer geben oder mit einem Pürierstab pürieren.",
+        "Eine Kuchenform (Ø 16-18 cm) einfetten. Die Masse für den Kuchenboden in der Kuchenform verteilen und fest andrücken. Die restliche Mango schälen, das Fruchtfleisch vom Kern ablösen und in Streifen schneiden. Die Mangostreifen auf dem Kuchenboden verteilen, die Creme darauf geben und verstreichen.",
+        "Den Kuchen im Gefrierschrank ca. 3 Stunden ruhen lassen. Etwa 30 Minuten vor dem Servieren sollte der Kuchen aus dem Tiefkühlfach genommen werden. Mit Mangosoße und Kokosnussflocken servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

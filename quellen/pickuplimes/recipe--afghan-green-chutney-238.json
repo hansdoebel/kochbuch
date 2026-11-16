@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/afghan-green-chutney-238",
+  "recipes": [
+    {
+      "name": "Afghan Green Chutney",
+      "source_url": "https://www.pickuplimes.com/recipe/afghan-green-chutney-238",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "16 servings",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT08H10M",
+      "ingredients": [
+        "3 cup fresh parsley",
+        "3 cup fresh cilantro",
+        "5 garlic clove",
+        "½ cup raw walnuts",
+        "3 fresh green chili",
+        "1 tsp salt",
+        "¼ tsp ground black pepper",
+        "1 cup white vinegar"
+      ],
+      "instructions": [
+        "In a large food processor, combine the parsley, cilantro, garlic, walnuts, chilies, salt, and pepper. Blend until minced, but be careful not to purée.",
+        "Finally, add the vinegar and pulse 2 - 3 times, or simply stir the vinegar in with a spoon.",
+        "Transfer to a mason jar, filling it no more than ¾ full. Don't cover with a lid yet, as we want to let the chutney 'breathe' overnight while in the fridge*.",
+        "The next day, seal the jar. If using a metal lid, wrap the lid with plastic wrap first so the metal does not rust and leach into the jar. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * When covered too soon, the chutney can sometimes bubble out of the jar, making a mess. If you prefer to still cover it while it's in the fridge, we advise opening the lid every 4 to 6 hours on the first day to let the jar \"burp\".",
+    "Storage Store in an glass jar in the fridge for up to 4 months."
+  ]
+}

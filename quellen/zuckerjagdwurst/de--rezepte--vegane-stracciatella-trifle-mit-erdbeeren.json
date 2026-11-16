@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-stracciatella-trifle-mit-erdbeeren",
+  "recipes": [
+    {
+      "name": "Vegane Stracciatella-Trifle mit Erdbeeren",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-stracciatella-trifle-mit-erdbeeren",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-stracciatella-trifle-mit-erdbeeren#recipe-c4ba5a0a-7f95-5728-9c5c-2280cb4e6299",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Schokoladenbiskuit",
+        "100 g Mehl",
+        "15 g Kakaopulver (ungesüßt)",
+        "75 g Zucker",
+        "5 g Backpulver",
+        "8 g Vanillezucker",
+        "125 ml Sprudelwasser",
+        "25 ml pflanzliches Öl (Raps- oder Sonnenblumenöl)",
+        "Zusätzlich",
+        "500 g veganer Stracciatella-Joghurt (z.B. von LUVE)",
+        "250 g frische Erdbeeren",
+        "50 g dunkle Schokoladensplitter"
+      ],
+      "instructions": [
+        "Teig backen",
+        "Den Ofen auf 180°C Umluft vorheizen. In einer Schüssel Mehl, Kakaopulver, Zucker, Backpulver und Vanillezucker mit einem Schneebesen vermischen.",
+        "Das Sprudelwasser und Öl hinzugeben und nur noch kurz verrühren.",
+        "Eine kleine Kuchenform (eckig funktioniert natürlich auch) mit dem Durchmesser von etwa 16 cm mit pflanzlicher Butter einfetten und den Teig hineinfüllen.",
+        "Den Kuchen bei 180°C Umluft auf mittlerer Stufe für 25 Minuten backen. Im Anschluss komplett abkühlen lassen und aus der Kuchenform nehmen. Mit den Händen zerbröseln.",
+        "Schichten",
+        "Die Erdbeeren waschen, den Strunk entfernen und 4-5 Erdbeeren in Scheiben schneiden. Den Rest der Erdbeeren halbieren.",
+        "In vier kleinen Dessertgläsern den Boden mit einer Schicht Schokoladenbiskuit und einer Schicht Stracciatella-Joghurt befüllen. Nun die Erdbeerscheiben an den Rand der Gläser platzieren und weiter befüllen, bis das Glas voll ist.",
+        "Jedes Trifle mit frischen, halbierten Erdbeeren und Schokoladensplittern dekorieren. Direkt servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

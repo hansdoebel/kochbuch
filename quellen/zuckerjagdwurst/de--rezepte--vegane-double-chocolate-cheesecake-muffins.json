@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-double-chocolate-cheesecake-muffins",
+  "recipes": [
+    {
+      "name": "Vegane Double Chocolate Cheesecake Muffins",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-double-chocolate-cheesecake-muffins",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-double-chocolate-cheesecake-muffins#recipe-599d9ab7-87cf-5bba-9d12-bfa4873fb40a",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "10 Muffins",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "Für die Käsekuchenfüllung:",
+        "200 g Seidentofu (z.B. von Taifun)",
+        "50 ml pflanzliche Milch",
+        "60 g Vanillepuddingpulver",
+        "3 EL Zucker",
+        "150 g vegane Creme fraîche",
+        "Für den Schokoladenteig:",
+        "180 g Weizenmehl Typ 405 oder Dinkelmehl Typ 603",
+        "125 g Zucker",
+        "4 EL Backkakao",
+        "0.5 TL Natron",
+        "8 g (2 TL) Backpulver",
+        "6 g (1 TL) Vanillezucker",
+        "1 Prise Salz",
+        "100 g Zarbitterschokolade",
+        "100 g Apfelmus",
+        "100 g vegane Butter",
+        "100 ml kalter, starker Kaffee",
+        "100 ml pflanzliche Milch",
+        "-100 g backstabile Schokoladentropfen",
+        "Außerdem",
+        "1 EL pflanzliche Butter (zum Einfetten)"
+      ],
+      "instructions": [
+        "Für die Käsekuchencreme Seidentofu, pflanzliche Milch, Puddingpulver und Zucker in einem Topf miteinander verrühren, bis die Masse cremig ist. Unter ständigem Rühren aufkochen. Topf vom Herd nehmen und etwas abkühlen lassen. Danach die vegane Creme fraîche unterheben und die Masse abkühl",
+        "Den Backofen auf 180°C (Umluft) vorheizen. Zartbitterschokolade grob hacken und über dem Wasserbad schmelzen. Mehl, Zucker, Backkakao, Backpulver, Natron, Vanillezucker und Salz in einer Schüssel verrühren. Die geschmolzene Schokolade, Apfelmus, Butter, kalten Kaffee und pflanzliche Milch hinzugeben und unterrühren, bis ein cremiger Teig entsteht. Zuletzt Schokoladentropfen unterheben.",
+        "Ein Muffinblech mit veganer Butter einfetten und die Mulden bis zu einem Drittel mit dem Schokoladenteig füllen. Jeweils 1 EL der veganen Käsekuchen-Creme in der Mitte platzieren und mit Schokoladenteig bedecken. Anschließend erneut 1 TL der Füllung auf den Schokoteig geben und mit einem Holzstab oder einer Gabel vorsichtig unterziehen.",
+        "Den Teig bei 180°C (Umluft) für 25 Minuten backen. Nach dem Abkühlen halten sich die Muffins etwa drei Tage in einem luftdichten Behälter."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

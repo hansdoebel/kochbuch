@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/berry-breakfast-sweet-potato-1249",
+  "recipes": [
+    {
+      "name": "Berry Breakfast Sweet Potato",
+      "source_url": "https://www.pickuplimes.com/recipe/berry-breakfast-sweet-potato-1249",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT50M",
+      "total_time": "PT55M",
+      "ingredients": [
+        "2 medium sweet potato",
+        "½ cup frozen mixed berries",
+        "½ Tbsp whole chia seeds",
+        "½ cup unsweetened coconut yogurt",
+        "2 Tbsp natural peanut butter",
+        "¼ cup unsalted roasted almonds",
+        "1 pinch ground cinnamon"
+      ],
+      "instructions": [
+        "Preheat the oven to 400°F (200°C)*. Use a fork to poke a few holes in the potatoes, and transfer to a baking tray.",
+        "Bake the sweet potatoes for about 50 minutes, or until soft all the way through**.",
+        "Place the berries in a bowl and microwave at 600W for about 3 minutes, stopping to stir every minute. Alternatively, stew on the stove.",
+        "Then stir in the chia seeds and set it aside for the chia seeds to gel.",
+        "Slice the cooked sweet potatoes lengthwise down the middle, without cutting all the way through. Open them up, then top with yogurt, berry jam, a drizzle of peanut butter, chopped almonds, and a pinch of cinnamon. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection). ** The baking time will depend on the size of your sweet potatoes.",
+    "Storage The sweet potato can be stored separately from the toppings in an airtight container in the fridge for up to 3 days."
+  ]
+}

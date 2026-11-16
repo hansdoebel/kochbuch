@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/ras-el-hanout-spice-mix-391",
+  "recipes": [
+    {
+      "name": "Ras El Hanout Spice Mix",
+      "source_url": "https://www.pickuplimes.com/recipe/ras-el-hanout-spice-mix-391",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "10 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "2 Tbsp ground cumin",
+        "2 Tbsp ground ginger",
+        "1 Tbsp ground coriander",
+        "1 Tbsp cayenne pepper",
+        "1 Tbsp ground allspice",
+        "1 Tbsp ground turmeric",
+        "1 Tbsp ground cinnamon",
+        "2 tsp ground black pepper",
+        "1½ tsp ground cloves"
+      ],
+      "instructions": [
+        "Simply mix all the spices together in a small jar, and you're done!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in a well-sealed mason jar away from direct sunlight for up to 6 months."
+  ]
+}

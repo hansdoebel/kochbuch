@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/roasted-bell-pepper-pesto-sandwich-1555",
+  "recipes": [
+    {
+      "name": "Roasted Bell Pepper Pesto Sandwich",
+      "source_url": "https://www.pickuplimes.com/recipe/roasted-bell-pepper-pesto-sandwich-1555",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 sandwiches",
+      "prep_time": "PT10M",
+      "cook_time": "PT10M",
+      "total_time": "PT20M",
+      "ingredients": [
+        "5.82 oz firm tofu",
+        "1 Tbsp cornstarch",
+        "⅛ tsp salt",
+        "½ Tbsp vegetable oil",
+        "4 slice multigrain bread",
+        "¼ cup hummus",
+        "¼ cup vegan green pesto",
+        "1 cup baby spinach",
+        "2 jarred roasted red pepper",
+        "1 avocado",
+        "¼ lemon",
+        "1 pinch ground black pepper"
+      ],
+      "instructions": [
+        "Add the tofu, cornstarch, and salt to a bowl and gently massage to coat.",
+        "Add oil to a non-stick large pan over medium-high heat. Cook the tofu until golden, about 5 minutes per side.",
+        "Spread the hummus and pesto on the toasted bread.",
+        "Add the spinach, bell pepper, tofu, and avocado. Add a squeeze of fresh lemon juice and pepper to the top, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Best to enjoy the day it's made."
+  ]
+}

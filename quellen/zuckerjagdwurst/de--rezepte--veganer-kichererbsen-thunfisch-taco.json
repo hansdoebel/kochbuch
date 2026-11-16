@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kichererbsen-thunfisch-taco",
+  "recipes": [
+    {
+      "name": "Veganer Thunfisch Taco",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kichererbsen-thunfisch-taco",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kichererbsen-thunfisch-taco#recipe-ca767a4b-6558-5792-bc6a-505dc9dcf672",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "6 weiche Tacos",
+        "1 Schalotte",
+        "250 g Kichererbsen",
+        "1 Stange Sellerie",
+        "6 Gewürzgurken",
+        "1/2 Salatgurke",
+        "1 Noriblatt",
+        "150 g vegane Mayo",
+        "1 TL Senf",
+        "1/2 Zitrone (Saft)",
+        "1/2 Bund Dill",
+        "Salz",
+        "Pfeffer",
+        "FÜRS TOPPING",
+        "6 Gewürzgurken"
+      ],
+      "instructions": [
+        "Schneidet Salatgurke, Gewürzgurken, Selleriestange und Schalotte klein.",
+        "Nehmt euch einen (Stand-)Mixer und packt euer kleingeschnittenes Gemüse und die Kichererbsen dort rein. Schaltet den Mixer ein paar Mal an, damit euer Gemüse kleingemixt, aber auf keinen Fall püriert oder zu klein gehexelt wird. Es soll am Ende auf jeden Fall noch stückig sein.",
+        "Wenn euer Gemüse soweit ist, füllt ihr es in eine große Schüssel um und gebt Mayo, Senf und Zitronensaft dazu und schmeckt mit Salz und Pfeffer ab.",
+        "Zum Schluss hackt ihr noch Dill und schneidet ein Noriblatt klein. Dafür rollt ihr es am besten zusammen und schneidet danach kleine Scheiben ab. Beides rührt ihr unter euren Salat und könnt damit eure Tacos füllen. Als Topping noch ein paar extra Gewürzgurken drauflegen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

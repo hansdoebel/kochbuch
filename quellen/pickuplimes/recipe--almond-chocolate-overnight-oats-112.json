@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/almond-chocolate-overnight-oats-112",
+  "recipes": [
+    {
+      "name": "Almond Chocolate Overnight Oats",
+      "source_url": "https://www.pickuplimes.com/recipe/almond-chocolate-overnight-oats-112",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT06H05M",
+      "ingredients": [
+        "½ cup rolled oats",
+        "⅔ cup unsweetened soy milk",
+        "2 Tbsp almond butter",
+        "1 Tbsp ground flaxseeds",
+        "1 Tbsp maple syrup",
+        "0.353 oz dairy-free dark chocolate",
+        "½ cup fresh raspberries"
+      ],
+      "instructions": [
+        "Combine all ingredients in a mason jar or airtight container and let sit overnight in the fridge.",
+        "The next morning, serve with fruit and any other desired toppings. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium . † We use 50 - 60% cocoa chocolate for a balanced sweetness. Darker varieties (70%+) can make the result too bitter.",
+    "Storage Store in a mason jar in the fridge for up to 2 days."
+  ]
+}

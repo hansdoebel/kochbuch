@@ -1,0 +1,102 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/kimchi-hot-dog",
+  "recipes": [
+    {
+      "name": "Kimchi Hot Dog",
+      "source_url": "https://www.maangchi.com/recipe/kimchi-hot-dog",
+      "recipe_id": "/recipe/kimchi-hot-dog#sso/recipe/36193",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "4 hot dog buns",
+        "4 hot dogs, scored",
+        "⅓ cup fermented kimchi, chopped",
+        "¼ cup chopped onion",
+        "1-2 tablespoons vegetable oil",
+        "a pinch of sugar",
+        "lettuce leaves",
+        "cheddar cheese",
+        "mustard"
+      ],
+      "instructions": [
+        "Heat up a large grill or pan over medium high heat. Lower the heat to medium. Add the vegetable oil and cook the dogs until outside is crispy. Take out the dogs to a plate and set aside. Cook the buns, turning them with tongs until fluffy. Take the buns out and set aside.",
+        "Tilt the pan to collect the leftover oil and add kimchi. Stir-fry it for a few minutes. Add sugar and stir. Remove from the heat and add the chopped onion. Mix it well. The onion will be a little cooked from the heated kimchi."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients (for 4 hot dogs)"
+        },
+        {
+          "tag": "li",
+          "text": "4 hot dog buns"
+        },
+        {
+          "tag": "li",
+          "text": "4 hot dogs, scored"
+        },
+        {
+          "tag": "li",
+          "text": "⅓ cup fermented kimchi, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup chopped onion"
+        },
+        {
+          "tag": "li",
+          "text": "1-2 tablespoons vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "a pinch of sugar"
+        },
+        {
+          "tag": "li",
+          "text": "lettuce leaves"
+        },
+        {
+          "tag": "li",
+          "text": "cheddar cheese"
+        },
+        {
+          "tag": "li",
+          "text": "mustard"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Heat up a large grill or pan over medium high heat. Lower the heat to medium. Add the vegetable oil and cook the dogs until outside is crispy. Take out the dogs to a plate and set aside. Cook the buns, turning them with tongs until fluffy. Take the buns out and set aside."
+        },
+        {
+          "tag": "li",
+          "text": "Tilt the pan to collect the leftover oil and add kimchi. Stir-fry it for a few minutes. Add sugar and stir. Remove from the heat and add the chopped onion. Mix it well. The onion will be a little cooked from the heated kimchi."
+        },
+        {
+          "tag": "h3",
+          "text": "Serve:"
+        },
+        {
+          "tag": "p",
+          "text": "Put some lettuce, cooked kimchi onion mixture, and a dog in each bun and top with mustard and cheddar."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-vegane-zimtschnecke-airfryer",
+  "recipes": [
+    {
+      "name": "Schnelle Zimtschnecke aus dem Airfryer",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-vegane-zimtschnecke-airfryer",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-vegane-zimtschnecke-airfryer#recipe-319ef897-2e67-4c30-9b20-af1d5098f35c",
+      "authors": [
+        "Anna Germek"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Zimtschnecke",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "Für den Teig:",
+        "8 EL Weizenmehl (Type 505)",
+        "1 TL Backpulver (gehäuft)",
+        "4 TL Zucker",
+        "1 Prise Salz",
+        "1 EL neutrales Pflanzenöl",
+        "5 EL pflanzliche Milch",
+        "Für die Füllung:",
+        "2 TL pflanzliche Margarine (weich)",
+        "1 TL Zimt",
+        "3 TL brauner Zucker",
+        "Für die Glasur:",
+        "2 EL Puderzucker",
+        "0.5 TL pflanzliche Milch"
+      ],
+      "instructions": [
+        "In einer kleinen Schüssel Mehl, Backpulver, Zucker und Salz vermengen. Dann Öl und pflanzliche Milch dazugeben und zu einem glatten Teig verkneten.",
+        "Den Teig auf einer leicht bemehlten Fläche zu einer Wurst formen und diese dann zu einem langen schmalen, etwa 2–3 Zentimeter breiten Streifen ausrollen. So erhaltet ihr die Breite am einfachsten. Margarine mit Zimt und Zucker vermischen und auf dem Teig verstreichen.",
+        "Den Teig von der kurzen Seite her aufrollen, sodass eine dicke Schnecke entsteht.",
+        "Die Zimtschnecke in ein ofenfestes Förmchen (Durchmesser 9 Zentimeter) setzen.",
+        "Bei 170 °C 13 Minuten lang im Airfryer (oder bei 190 °C etwa 16 Minuten im Backofen) backen. Puderzucker mit pflanzlicher Milch verrühren und über die warme Zimtschnecke träufeln."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

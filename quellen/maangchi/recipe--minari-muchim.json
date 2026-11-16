@@ -1,0 +1,117 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/minari-muchim",
+  "recipes": [
+    {
+      "name": "Minari side dish (Minari-muchim: 미나리무침)",
+      "source_url": "https://www.maangchi.com/recipe/minari-muchim",
+      "recipe_id": "/recipe/minari-muchim#sso/recipe/93385",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "8 ounces trimmed, blanched, and washed minari",
+        "1½ teaspoons soy sauce",
+        "1 garlic clove, minced",
+        "1 green onion, chopped",
+        "2 teaspoons toasted sesame oil",
+        "2 teaspoons toasted sesame seeds, ground"
+      ],
+      "instructions": [
+        "Cut off the tips of the roots and discard.",
+        "Remove the loose leaves from the stems by raking your knife blade down them at an angle.",
+        "Bring a large pot of water to a boil. Add the minari and blanch 30 seconds to 1 minute. Take it out with tongs and transfer to a bowl.",
+        "Rinse the minari under cold running water. Rinse and drain a couple of times to clean and stop it from cooking.",
+        "Squeeze out excess water.",
+        "Cut the minari into small pieces.",
+        "Combine the minari, soy sauce, garlic, green onion, sesame oil, and sesame seeds in a bowl. Mix it altogether by hand and transfer to a serving plate or bowl.",
+        "Serve with rice."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "8 ounces trimmed, blanched, and washed minari"
+        },
+        {
+          "tag": "li",
+          "text": "1½ teaspoons soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 garlic clove, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 green onion, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons toasted sesame seeds, ground"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Trim, blanch, and wash minari:"
+        },
+        {
+          "tag": "li",
+          "text": "Cut off the tips of the roots and discard."
+        },
+        {
+          "tag": "li",
+          "text": "Remove the loose leaves from the stems by raking your knife blade down them at an angle."
+        },
+        {
+          "tag": "li",
+          "text": "Bring a large pot of water to a boil. Add the minari and blanch 30 seconds to 1 minute. Take it out with tongs and transfer to a bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Rinse the minari under cold running water. Rinse and drain a couple of times to clean and stop it from cooking."
+        },
+        {
+          "tag": "li",
+          "text": "Squeeze out excess water."
+        },
+        {
+          "tag": "h3",
+          "text": "Make minari-muchim:"
+        },
+        {
+          "tag": "li",
+          "text": "Cut the minari into small pieces."
+        },
+        {
+          "tag": "li",
+          "text": "Combine the minari, soy sauce, garlic, green onion, sesame oil, and sesame seeds in a bowl. Mix it altogether by hand and transfer to a serving plate or bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Serve with rice."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

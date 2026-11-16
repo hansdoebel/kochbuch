@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.recipetineats.com/enchilada-sauce/",
+  "recipes": [
+    {
+      "name": "Enchilada Sauce - Classic",
+      "source_url": "https://www.recipetineats.com/enchilada-sauce/",
+      "recipe_id": "https://www.recipetineats.com/enchilada-sauce/#recipe",
+      "authors": [
+        "Nagi | RecipeTin Eats"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "3",
+        "3 1/2 - 4 cups"
+      ],
+      "prep_time": "PT3M",
+      "cook_time": "PT12M",
+      "total_time": "PT15M",
+      "ingredients": [
+        "1/4 cup vegetable oil",
+        "1/4 cup flour (all purpose / plain)",
+        "700 g / 24oz tomato passata (1 bottle) or 16 oz (2 cans) US tomato sauce",
+        "1 1/2 cups chicken broth, low sodium (or vegetable broth, or water + bouillon cube)",
+        "1 tbsp dried oregano",
+        "2 tsp cumin",
+        "2 tsp paprika",
+        "1 tsp garlic powder",
+        "1 tsp onion powder",
+        "1 tbsp brown sugar",
+        "Salt and pepper to taste",
+        "Optional extras: cayenne pepper (for spiciness), ground chipotle"
+      ],
+      "instructions": [
+        "Heat oil in a saucepan over medium heat.",
+        "Add flour and whisk until well combined, about 1 minute.",
+        "Add remaining ingredients except salt and pepper, whisk, bring to boil, then reduce to simmer.",
+        "Simmer for 10 minutes or so, until thickened, whisking occasionally.",
+        "Season with salt and pepper.",
+        "This can be stored for up to 1 week in the refrigerator in an airtight container. It also freezes well."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: This recipe is not made with what America called Chili Powder which is a mix of spices, not just chili. Because American Chili Powder differs from brand to brand and is not available all over the world, this recipe is made from scratch, essentially making a DIY American Chili Powder."
+  ]
+}

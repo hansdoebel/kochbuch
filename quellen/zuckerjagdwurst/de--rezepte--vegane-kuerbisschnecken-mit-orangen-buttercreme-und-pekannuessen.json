@@ -1,0 +1,71 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kuerbisschnecken-mit-orangen-buttercreme-und-pekannuessen",
+  "recipes": [
+    {
+      "name": "Vegane Kürbisschnecken mit Orangen-Buttercreme und Pekannüssen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kuerbisschnecken-mit-orangen-buttercreme-und-pekannuessen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kuerbisschnecken-mit-orangen-buttercreme-und-pekannuessen#recipe-75a44cfa-6706-5752-bcf5-ce4364aafe18",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "10-12 Kürbisschnecken",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT235M",
+      "ingredients": [
+        "Für den Teig:",
+        "300 g Hokkaidokürbis (für 200 g Kürbispüree)",
+        "100 ml warmes Wasser",
+        "150 ml warme pflanzliche Milch",
+        "1 Würfel (42 g) frische Hefe",
+        "3 EL brauner Zucker",
+        "600 g Mehl",
+        "1 TL Salz",
+        "50 g vegane Butter (z.B. Vioblock von Violife)",
+        "Für die Füllung:",
+        "100 g Vollrohrzucker",
+        "3 EL Pumpkin Spice",
+        "1 Prise Salz",
+        "125 g vegane Butter auf Raumtemperatur (z.B. Vioblock von Violife)",
+        "50 g Pekannüsse",
+        "Für die Orangen-Buttercreme:",
+        "100 g vegane Butter auf Raumtemperatur (z.B. Vioblock von Violife)",
+        "150 g Puderzucker",
+        "0.25 TL Vanilleextrakt",
+        "0.5 Orange (Abrieb)",
+        "1 EL Orangensaft",
+        "1 Prise Salz",
+        "Außerdem:",
+        "Pekannüsse zum Garnieren"
+      ],
+      "instructions": [
+        "Kürbispüree:",
+        "Den Hokkaidokürbis schälen, entkernen und in kleine Stücke schneiden. Entweder in einem Topf mit etwas Wasser garen oder in einem Sieb über köchelndem Wasser dampfgaren, bis der Kürbis weich ist. Anschließend gründlich pürieren, 200 g abwiegen und das Püree abkühlen lassen.",
+        "Teig:",
+        "Warmes Wasser und pflanzliche Milch in eine große Schüssel geben. Frische Hefe mit den Händen zerbröseln und gemeinsam mit einem kleinen Teil vom braunen Zucker einrühren. Die Mischung ca. 10 Minuten stehen lassen, bis sich kleine Bläschen an der Oberfläche bilden.",
+        "In der Zwischenzeit vegane Butter schmelzen und abkühlen lassen, bis sie maximal handwarm ist. Die geschmolzene vegane Butter und das Kürbispüree zur Hefemischung geben und gut vermengen. Mehl mit Salz und dem restlichen braunen Zucker verrühren und die Mischung nach und nach zur Hefemischung geben und gut vermengen. Den Teig ca. 5-10 Minuten zu einem geschmeidigen Teig kneten – entweder per Hand oder mit der Küchenmaschine. Nach Bedarf mehr Mehl dazugeben, falls er zu klebrig ist.",
+        "Den Teig zu einer Kugel formen und in eine leicht eingeölte Schüssel geben. Mit einem sauberen Küchentuch abgedeckt an einem warmen Ort ca. 1-2 Stunden gehen lassen, bis sich das Teigvolumen verdoppelt hat. Wer den Teig vorbereiten will, kann ihn auch abgedeckt über Nacht im Kühlschrank gehen lassen.",
+        "Füllen und backen:",
+        "Für die Füllung Vollrohrzucker, Pumpkin Spice und eine Prise Salz vermengen. Die Pekannüsse hacken.",
+        "Wenn der Teig aufgegangen ist, die Arbeitsfläche mit Mehl bestäuben und den Teig darauf zu einem großen Rechteck ausrollen, das ca. 1 cm dick und ca. 30x50 cm breit ist.",
+        "Die vegane Butter auf dem Teig verstreichen und mit der Zuckermischung und gehackten Pekannüssen bestreuen. Dabei zu allen Seiten einen Rand von etwa 1-2 cm lassen. Nun den Teig von der längeren Seite aus eng zusammenrollen.",
+        "Die Teigrolle in 10-12 gleich große Stücken teilen. Das geht entweder mit einem Messer oder mit einem Küchengarn, das ihr unter den Teig schiebt und dann die Garnenden über dem Teig jeweils in die entgegengesetze Richtung zieht.",
+        "Die Kürbisschnecken in eine eingefettete Backform legen und erneut ca. 30 Minuten gehen lassen.",
+        "In der Zwischenzeit den Backofen auf 180°C (Umluft) vorheizen und die Kürbisschnecken ca. 20-25 Minuten backen, bis sie goldbraun sind. Danach aus dem Ofen nehmen und abkühlen lassen.",
+        "Orangen-Buttercreme:",
+        "Während die Kürbisschnecken backen und abkühlen, die Orangen-Buttercreme vorbereiten. Vegane Butter auf Raumtemperatur mit Puderzucker aufschlagen, bis die Mischung cremig ist. Dann Vanilleextrakt, Orangenabrieb, Orangensaft und Salz dazugeben und vermengen. Nach Wunsch mehr Puderzucker dazugeben, wenn die vegane Buttercreme fester und süßer werden soll.",
+        "Servieren:",
+        "Pekannüsse in einer fettfreien Pfanne rösten. Dann aus der Pfanne nehmen und grob hacken.",
+        "Die vegane Buttercreme auf den abgekühlten Kürbisschnecken verteilen und mit den gehackten Pekannüssen bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

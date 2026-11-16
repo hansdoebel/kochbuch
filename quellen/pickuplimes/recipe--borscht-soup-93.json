@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/borscht-soup-93",
+  "recipes": [
+    {
+      "name": "Borscht Soup",
+      "source_url": "https://www.pickuplimes.com/recipe/borscht-soup-93",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT15M",
+      "cook_time": "PT25M",
+      "total_time": "PT40M",
+      "ingredients": [
+        "½ apple",
+        "3 medium beet",
+        "1 medium onion",
+        "1 medium carrot",
+        "1 red bell pepper",
+        "1 celery rib",
+        "1 cup shredded red cabbage",
+        "1 Tbsp vegetable oil",
+        "3 garlic clove",
+        "4 cup vegetable broth",
+        "3 Tbsp fresh dill",
+        "2 Tbsp tomato paste",
+        "2 bay leaf",
+        "1 Tbsp pickle juice",
+        "2 tsp ground coriander",
+        "1 pinch salt",
+        "1 pinch ground black pepper"
+      ],
+      "instructions": [
+        "Shred the apple and all the veggies using the shredding disk of a food processor, or using a box grater.",
+        "Drizzle the oil in a large pot over medium-high heat. When hot, add the garlic and all the shredded vegetables. Cook until soft, about 5 minutes.",
+        "Add all the remaining ingredients. Stir and cook, partially covered, at a simmer until the beets are soft, about 15 to 20 minutes.",
+        "Remove the bay leaves.",
+        "Serve and top with desired garnishes. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Can substitute every 4 cups of vegetable stock with 2 vegetable bouillon cubes plus 4 cups (1 L) water. † Can substitute 1 Tbsp of dried dill for every 3 Tbsp of fresh dill.",
+    "Storage Store in an airtight container in the fridge for up to 3 days, or in the freezer for up to 1 month."
+  ]
+}

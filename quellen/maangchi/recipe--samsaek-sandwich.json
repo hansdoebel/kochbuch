@@ -1,0 +1,173 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/samsaek-sandwich",
+  "recipes": [
+    {
+      "name": "Three color sandwich (Samsaek sandwich: 삼색 샌드위치)",
+      "source_url": "https://www.maangchi.com/recipe/samsaek-sandwich",
+      "recipe_id": "/recipe/samsaek-sandwich#sso/recipe/74353",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 english cucumber, chopped (about 2 cups)",
+        "½ teaspoon kosher salt",
+        "2-3 tablespoons mayonnaise",
+        "¼ teaspoon ground black pepper",
+        "4 hard-boiled eggs, with the whites removed",
+        "2 to 3 tablespoons mayonnaise",
+        "1 tablespoon yellow mustard",
+        "4 slices of cooked ham, pat dried and chopped",
+        "2 to 3 tablespoons mayonaise"
+      ],
+      "instructions": [
+        "For the green filling, mix the cucumber and salt together in a small bowl and let it sit for 10 to 15 minutes, until they sweat.",
+        "Squeeze out any excess water with cotton cloth from the cucumber.",
+        "Put the squeezed cucumber back into the bowl, and mix with the pepper and mayonnaise.",
+        "For the yellow filling, break the yolks with a spoon in a bowl and mix in all the ingredients.",
+        "For the red filling, mix all the ingredients in a small bowl.",
+        "Lay 3 slices of bread on your cutting board, side by side.",
+        "Divide the egg mixture into 3 portions and spread a portion on each slice.",
+        "Add a slice of bread on top to each.",
+        "Divide the cucumber mixture into 3 portions and spread a portion on each slice again. Add three more slices of bread.",
+        "Divide the ham mixture into 3 portions and spread a portion on each slice.",
+        "Add three more final slices of bread, to make a sandwich stack.",
+        "Gently press each stack with your hands and cut off the bread edges. Cut each sandwich in half to make a total of 6 sandwich pieces.",
+        "Serve on a plate or pack it in a lunchbox for later. Be sure to save the leftover edges, and eat them as-is or bake them for 10 minutes at 350° Fahrenheit until they are lightly crispy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "12 slices of white milk bread, or white bread"
+        },
+        {
+          "tag": "h3",
+          "text": "The green filling:"
+        },
+        {
+          "tag": "li",
+          "text": "1 english cucumber, chopped (about 2 cups)"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "2-3 tablespoons mayonnaise"
+        },
+        {
+          "tag": "li",
+          "text": "¼ teaspoon ground black pepper"
+        },
+        {
+          "tag": "h3",
+          "text": "The yellow filling:"
+        },
+        {
+          "tag": "li",
+          "text": "4 hard-boiled eggs, with the whites removed"
+        },
+        {
+          "tag": "li",
+          "text": "2 to 3 tablespoons mayonnaise"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon yellow mustard"
+        },
+        {
+          "tag": "h3",
+          "text": "The red filling:"
+        },
+        {
+          "tag": "li",
+          "text": "4 slices of cooked ham, pat dried and chopped"
+        },
+        {
+          "tag": "li",
+          "text": "2 to 3 tablespoons mayonaise"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Make fillings:"
+        },
+        {
+          "tag": "li",
+          "text": "For the green filling, mix the cucumber and salt together in a small bowl and let it sit for 10 to 15 minutes, until they sweat."
+        },
+        {
+          "tag": "li",
+          "text": "Squeeze out any excess water with cotton cloth from the cucumber."
+        },
+        {
+          "tag": "li",
+          "text": "Put the squeezed cucumber back into the bowl, and mix with the pepper and mayonnaise."
+        },
+        {
+          "tag": "li",
+          "text": "For the yellow filling, break the yolks with a spoon in a bowl and mix in all the ingredients."
+        },
+        {
+          "tag": "li",
+          "text": "For the red filling, mix all the ingredients in a small bowl."
+        },
+        {
+          "tag": "h3",
+          "text": "Build sandwiches:"
+        },
+        {
+          "tag": "li",
+          "text": "Lay 3 slices of bread on your cutting board, side by side."
+        },
+        {
+          "tag": "li",
+          "text": "Divide the egg mixture into 3 portions and spread a portion on each slice."
+        },
+        {
+          "tag": "li",
+          "text": "Add a slice of bread on top to each."
+        },
+        {
+          "tag": "li",
+          "text": "Divide the cucumber mixture into 3 portions and spread a portion on each slice again. Add three more slices of bread."
+        },
+        {
+          "tag": "li",
+          "text": "Divide the ham mixture into 3 portions and spread a portion on each slice."
+        },
+        {
+          "tag": "li",
+          "text": "Add three more final slices of bread, to make a sandwich stack."
+        },
+        {
+          "tag": "li",
+          "text": "Gently press each stack with your hands and cut off the bread edges. Cut each sandwich in half to make a total of 6 sandwich pieces."
+        },
+        {
+          "tag": "li",
+          "text": "Serve on a plate or pack it in a lunchbox for later. Be sure to save the leftover edges, and eat them as-is or bake them for 10 minutes at 350° Fahrenheit until they are lightly crispy."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kuerbis-pasta-tomate-feta",
+  "recipes": [
+    {
+      "name": "Vegane Kürbis-Pasta mit Tomate & Feta",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kuerbis-pasta-tomate-feta",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kuerbis-pasta-tomate-feta#recipe-3e0d7801-ded8-5f57-9917-22d7ca8bf78d",
+      "authors": [
+        "Gesine Fiedler"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "1 Hokkaido Kürbis (ca. 740g)",
+        "2 Zwiebeln",
+        "3 Knoblauchzehen",
+        "500 g Cocktailtomaten",
+        "2 EL Ahornsirup",
+        "2 TL Pumpkin Spice Gewürz (z. B. von Tante Fine)",
+        "100 g getrocknete Tomaten in Öl",
+        "50 g Kapern",
+        "200 g veganer Feta",
+        "500 g Spaghetti",
+        "50 g Kürbiskerne",
+        "Salz",
+        "Pfeffer",
+        "Olivenöl"
+      ],
+      "instructions": [
+        "Ofen auf 200 °C (Ober-/Unterhitze) vorheizen. Kürbis entkernen und in 1 Zentimeter große Würfel schneiden. Zwiebeln schälen und in feine Halbringe schneiden. Knoblauch in dünne Scheiben schneiden.",
+        "Kürbis, Zwiebelringe und Knoblauch zusammen mit den Tomaten auf ein Blech geben und mit Ahornsirup, etwas Olivenöl, Salz, Pfeffer und dem Pumpkin Spice Gewürz bestreuen. Mit den Händen oder einem Löffel gut durchmischen. Das Blech in den Ofen schieben und für 25 Minuten backen.",
+        "Die getrockneten Tomaten in feine Streifen schneiden, Kapern abtropfen lassen, veganen Feta in kleine Würfel schneiden.",
+        "Pasta nach Packungsanleitung zubereiten und beim Abgießen 200 Milliliter Pastawasser auffangen. Kürbiskerne in einer Pfanne ohne Öl rösten.",
+        "Ein Viertel der Kürbismischung aus dem Ofen zusammen mit dem Pastawasser pürieren. Die Kürbiscreme mit der gekochten Pasta vermengen. Die restliche Kürbismischung vom Blech mit den getrockneten Tomaten, Kapern und veganem Feta mischen, dann zur Pasta geben und unterheben. Pasta auf Teller verteilen und mit gerösteten Kürbiskernen servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

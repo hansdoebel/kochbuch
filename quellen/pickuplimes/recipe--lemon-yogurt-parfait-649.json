@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/lemon-yogurt-parfait-649",
+  "recipes": [
+    {
+      "name": "Lemon Yogurt Parfait",
+      "source_url": "https://www.pickuplimes.com/recipe/lemon-yogurt-parfait-649",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 servings",
+      "prep_time": "PT04M",
+      "cook_time": "",
+      "total_time": "PT04M",
+      "ingredients": [
+        "¼ cup unsweetened soy Greek-style yogurt",
+        "1 Tbsp cashew butter",
+        "½ tsp maple syrup",
+        "¼ tsp lemon zest",
+        "⅛ tsp pure vanilla extract",
+        "1 digestive cookie",
+        "¼ cup fresh strawberries"
+      ],
+      "instructions": [
+        "In a small bowl, combine the yogurt, cashew butter, maple syrup, lemon zest, and vanilla extract.",
+        "Crumble half the digestive biscuit into the bottom of a cup, top with half of the yogurt mixture, crumble the other half of the biscuit over that, then finish with the remaining yogurt.",
+        "Add the fruit and you're good to go!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage The flavoured yogurt can be stored in an airtight container in the fridge for up to 3 days. The prepared parfait is best enjoyed immediately."
+  ]
+}

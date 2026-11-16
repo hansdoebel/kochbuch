@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.recipetineats.com/iceberg-lettuce-wedges-with-ranch-dressing/",
+  "recipes": [
+    {
+      "name": "Iceberg Lettuce Wedges with Ranch Dressing",
+      "source_url": "https://www.recipetineats.com/iceberg-lettuce-wedges-with-ranch-dressing/",
+      "recipe_id": "https://www.recipetineats.com/iceberg-lettuce-wedges-with-ranch-dressing/#recipe",
+      "authors": [
+        "Nagi | RecipeTin Eats"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "4",
+        "4 -6"
+      ],
+      "prep_time": "PT10M",
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "1/2 cup buttermilk",
+        "1/4 cup sour cream",
+        "1/4 cup whole egg mayonnaise ((if using normal, omit the lemon juice))",
+        "2 tsp fresh lemon juice",
+        "1 tsp garlic powder",
+        "1 1/2 tsp dried dill",
+        "2 tbsp fresh chives (, finely chopped)",
+        "1/2 tsp table salt",
+        "Black pepper",
+        "1 iceberg lettuce (, cut into 6 - 8 wedges)",
+        "Chives (, finely chopped (optional))"
+      ],
+      "instructions": [
+        "Combine the Ranch Dressing ingredients in a bowl and whisk until smooth.",
+        "Transfer to a jug and refrigerate until required.",
+        "To serve, place the iceberg wedges onto a plate with the dressing on the side."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

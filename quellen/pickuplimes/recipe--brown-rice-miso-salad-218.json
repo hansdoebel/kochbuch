@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/brown-rice-miso-salad-218",
+  "recipes": [
+    {
+      "name": "Brown Rice Miso Salad",
+      "source_url": "https://www.pickuplimes.com/recipe/brown-rice-miso-salad-218",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT20M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "1 cup brown rice",
+        "2¼ cup water",
+        "1 vegetable bouillon cube",
+        "½ lime",
+        "1 Tbsp olive oil",
+        "2 tsp red miso paste",
+        "1 tsp toasted sesame oil",
+        "1 tsp grated fresh ginger",
+        "1 tsp reduced-sodium soy sauce",
+        "1 tsp rice vinegar",
+        "½ tsp onion powder",
+        "1 pinch ground black pepper",
+        "3.527 oz sugar snap peas",
+        "2 bell pepper",
+        "½ small red onion"
+      ],
+      "instructions": [
+        "Drain the soaked brown rice and add to a medium pot over high heat. Add the water and crush in the bouillon cube.",
+        "Bring to a boil, then reduce to a simmer and partially cover with a lid. Cook for 20 minutes, or until the rice is tender. Then remove from the heat, cover, and allow to sit for a couple minutes.",
+        "Meanwhile, add all the dressing ingredients to a bowl and whisk until smooth.",
+        "Add the cooked rice and vegetables into a large bowl, drizzle over the dressing, and toss until coated. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † If not soaking overnight, cook in more water and cook for 45 minutes. Read the package instructions for the exact preparation method.",
+    "Storage The combined salad is best enjoyed immediately. Store the salad and dressing separately in airtight container s in the fridge for up to 3 days."
+  ]
+}

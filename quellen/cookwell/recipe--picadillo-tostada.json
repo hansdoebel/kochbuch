@@ -1,0 +1,50 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/picadillo-tostada",
+  "recipes": [
+    {
+      "name": "Picadillo Tostada",
+      "source_url": "https://app.cookwell.com/recipe/picadillo-tostada",
+      "recipe_id": "https://app.cookwell.com/recipe/picadillo-tostada",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4-6 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT35M",
+      "ingredients": [
+        "Ground beef, 450 g",
+        "Whole peeled tomatoes, 400 g",
+        "Potatoes, 350 g",
+        "Garlic, 2 cloves",
+        "White onions, 1/4",
+        "Smoked Paprika, a sprinkle",
+        "Ancho chili powder, a sprinkle",
+        "Ground cinnamon, a sprinkle",
+        "Hot Sauce, to taste",
+        "Salt, to taste",
+        "Cooking oil, as needed",
+        "Tostadas, 4-6",
+        "Lettuce",
+        "Tomatoes",
+        "Pickled onions",
+        "Queso Fresco",
+        "Crema"
+      ],
+      "instructions": [
+        "Dice the potatoes into fairly small pieces by cutting them into planks, then strips, and finally cutting those across into cubes. Toss the diced potatoes into a pot, set them on a stove over high heat, and cover them with water. Lastly, add a generous sprinkle of salt. Once the potatoes are cooked through and tender, strain them. They should be done in about 10-15 minutes, but you can test them with a knife, which should poke through with little resistance.",
+        "While the potatoes are boiling, prepare the beef. Heat a stainless steel pan with a little oil over high heat. Add ground beef to the pan, press it down, and let it sear undisturbed until it starts browning. As it cooks, prep or gather any other ingredients. After 5 minutes, flip the beef and sear for 2 more minutes, breaking it up some. Transfer the cooked beef to a bowl but keep any rendered fat in the pan.",
+        "In the same pan you used to brown the beef (there should be enough fat, but add a drizzle of oil if necessary) add the onion and garlic mixture and let those sauté for a minute or two until fragrant. Add the paprika, chili powder, and cinnamon. Next, add in the whole peeled tomatoes and mash them with a potato masher to create a sauce-like consistency. Once the sauce has formed, add the browned beef back in, and use the potato masher to turn it into small, pebbly bits.",
+        "Add the cooked and drained potatoes to the sauce mixture and mix together before adjusting the final seasoning and texture. Add salt to taste, and optionally a squirt of hot sauce for acidity and spice. Add more of the other seasonings if desired. To make it more saucy, add a splash of water. To make it thicker, let it cook down a bit longer. For tostadas, thicker is usually better. Take a tostada and add a thick layer of warm picadillo as the base. Top with your choice of crema or sour cream, lettuce, tomatoes, pickled onions, and queso fresco. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

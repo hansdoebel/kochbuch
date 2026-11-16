@@ -1,0 +1,108 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/miyeok-julgi-bokkeum",
+  "recipes": [
+    {
+      "name": "Sautéed sea plant (Miyeokjulgi-bokkeum)",
+      "source_url": "https://www.maangchi.com/recipe/miyeok-julgi-bokkeum",
+      "recipe_id": "/recipe/miyeok-julgi-bokkeum#sso/recipe/6794",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Miyeok stems (1 pound package), onion, garlic, corn syrup (or sugar, honey), soy sauce, onion, toasted sesame oil, roasted toasted sesame seeds, and artificial crabmeat (optional)."
+      ],
+      "instructions": [
+        "Open a package of miyeok julgi (1 pound) with scissors. Rinse it in cold water a couple of times until all the salt is gone. Soak it in cold water for 10 minutes.",
+        "Boil about 8 cups of water in a pot.",
+        "Drain the miyeok julgi and put them into a pot of boiling water.",
+        "Blanch them for 20 seconds.",
+        "Rinse in cold water, strain, cut them into bite size pieces, and set aside.",
+        "Mince 2 cloves of garlic and slice half of a medium-sized onion. Set them aside.",
+        "Split 3 sticks of crabmeat lengthwise into threads with your fingers. Cut them into bite size pieces and set aside. *tip: sometimes, if some miyeok julgi is not shredded thinly, split thinly with your fingers",
+        "Heat up a pan over medium high heat. Add some vegetable oil.",
+        "Add the minced garlic and sliced onion. Stir it with a wooden spoon for 10 seconds, and then add miyeok julgi.",
+        "Keep stirring for about 3 minutes.",
+        "Add 1 tbs soy sauce, 2 ts corn syrup (mulyeot), and the crabmeat threads. Sautée another minute.",
+        "Turn the heat off and add 2 ts of toasted sesame oil."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Miyeok stems (1 pound package), onion, garlic, corn syrup (or sugar, honey), soy sauce, onion, toasted sesame oil, roasted toasted sesame seeds, and artificial crabmeat (optional)."
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Open a package of miyeok julgi (1 pound) with scissors. Rinse it in cold water a couple of times until all the salt is gone. Soak it in cold water for 10 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Boil about 8 cups of water in a pot."
+        },
+        {
+          "tag": "li",
+          "text": "Drain the miyeok julgi and put them into a pot of boiling water."
+        },
+        {
+          "tag": "li",
+          "text": "Blanch them for 20 seconds."
+        },
+        {
+          "tag": "li",
+          "text": "Rinse in cold water, strain, cut them into bite size pieces, and set aside."
+        },
+        {
+          "tag": "li",
+          "text": "Mince 2 cloves of garlic and slice half of a medium-sized onion. Set them aside."
+        },
+        {
+          "tag": "li",
+          "text": "Split 3 sticks of crabmeat lengthwise into threads with your fingers. Cut them into bite size pieces and set aside. *tip: sometimes, if some miyeok julgi is not shredded thinly, split thinly with your fingers"
+        },
+        {
+          "tag": "li",
+          "text": "Heat up a pan over medium high heat. Add some vegetable oil."
+        },
+        {
+          "tag": "li",
+          "text": "Add the minced garlic and sliced onion. Stir it with a wooden spoon for 10 seconds, and then add miyeok julgi."
+        },
+        {
+          "tag": "li",
+          "text": "Keep stirring for about 3 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Add 1 tbs soy sauce, 2 ts corn syrup (mulyeot), and the crabmeat threads. Sautée another minute."
+        },
+        {
+          "tag": "li",
+          "text": "Turn the heat off and add 2 ts of toasted sesame oil."
+        },
+        {
+          "tag": "p",
+          "text": "Transfer to a serving plate and sprinkle some sesame seeds on top."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

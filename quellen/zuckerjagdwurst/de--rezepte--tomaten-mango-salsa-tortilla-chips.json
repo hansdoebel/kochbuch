@@ -1,0 +1,73 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tomaten-mango-salsa-tortilla-chips",
+  "recipes": [
+    {
+      "name": "Habanero-Tomatensalsa",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tomaten-mango-salsa-tortilla-chips",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/tomaten-mango-salsa-tortilla-chips#recipe-22ff0a41-d748-5d94-9a8b-53027858ace5",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "400 g Roma-Tomaten",
+        "2 Habanero Chili",
+        "1 Zwiebel",
+        "20 g Koriander",
+        "2 Knoblauchzehen",
+        "0.5 Limette (Saft)",
+        "Salz",
+        "Pfeffer",
+        "Pflanzenöl zum Braten",
+        "Tortillas zum Servieren"
+      ],
+      "instructions": [
+        "Habanero halbieren und die Kerne mitsamt den „Trennwänden“, an denen sie hängen, herausschneiden. Dabei könnt ihr je nach eurem Sicherheitsgefühl auch Küchenhandschuhe tragen (sollten euch aber in jedem Fall nicht danach in die Augen greifen). Zwiebel schälen und halbieren und Knoblauch schälen.",
+        "Etwas Pflanzenöl in einer Pfanne erhitzen und die großen Stücken Habanero, Zwiebel, Knoblauchzehe und Tomaten im Ganzen über mittlerer Hitze ca. 5 Minuten anbraten, damit sie schon einige dunklere Stellen bekommen. Anschließend abkühlen lassen.",
+        "Den gesamten Inhalt der Pfanne in einen Zerkleinerer werfen. Koriander und Limettensaft dazugeben und nun alles mit der Pulsfunktion so lang mixen, bis ihr eine fein-stückige, saftige Salsa, aber keinen komplett flüssigen Saft habt. Mit Salz und Pfeffer abschmecken und mit Tortillas servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Mango-Avocado-Salsa",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tomaten-mango-salsa-tortilla-chips",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/tomaten-mango-salsa-tortilla-chips#recipe-7923da5c-fb4f-514a-aa9b-1e574dbe867b",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "1 kleine Mango",
+        "1 Avocado",
+        "1 kleine rote Zwiebel",
+        "0.5 Gurke",
+        "10 g Koriander",
+        "0.5 Limette (Saft)",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Mango, Avocado und rote Zwiebel schälen und in feine Würfel schneiden. Gurke halbieren, die flüssigen Kerne auslöffeln und den Rest ebenfalls fein würfeln. Koriander fein hacken.",
+        "Alles gemeinsam in eine Schüssel geben und mit Limettensaft, Salz und Pfeffer abschmecken. Wer mag, kann noch mehr Limettensaft dazugeben. Gut verrühren und entweder direkt servieren oder im Kühlschrank in einem geschlossenen Behälter 2-3 Tage lagern."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

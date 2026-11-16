@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/greek-seasoning-mix-1952",
+  "recipes": [
+    {
+      "name": "Greek Seasoning Mix",
+      "source_url": "https://www.pickuplimes.com/recipe/greek-seasoning-mix-1952",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "2 Tbsp dried oregano",
+        "1 Tbsp dried mint leaves",
+        "1 Tbsp garlic powder",
+        "1 Tbsp onion powder",
+        "1 Tbsp dried basil",
+        "1 Tbsp dried parsley",
+        "2 tsp sweet paprika powder",
+        "1 tsp dried dill",
+        "1 tsp ground black pepper"
+      ],
+      "instructions": [
+        "Simply mix all the ingredients in a small jar. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in a well-sealed jar away from direct sunlight for up to 6 months."
+  ]
+}

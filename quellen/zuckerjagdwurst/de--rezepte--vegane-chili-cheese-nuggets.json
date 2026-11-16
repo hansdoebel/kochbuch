@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-chili-cheese-nuggets",
+  "recipes": [
+    {
+      "name": "Vegane Chili Cheese Nuggets",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-chili-cheese-nuggets",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-chili-cheese-nuggets#recipe-054e78b6-4b47-538e-a8ee-25d0985f93d0",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 25 Nuggets",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "Für die Füllung:",
+        "100 g Cashewnüsse (über Nacht eingeweicht)",
+        "400 g festkochende Kartoffeln",
+        "1 Möhre",
+        "1 Zwiebel",
+        "75 g Jalapeños aus dem Glas (oder 1 frische Jalapeño)",
+        "60 g Tapiokastärke",
+        "35 g Hefeflocken",
+        "1 TL Knoblauchpulver",
+        "0.25 TL Kurkuma",
+        "0.5 TL Senf",
+        "1 EL Apfelessig",
+        "Salz",
+        "Pfeffer",
+        "Zum Panieren:",
+        "50 g Mehl",
+        "100 ml pflanzliche Milch",
+        "100 g Semmelbrösel (oder Panko)",
+        "0.5 TL Paprikapulver",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "1 l Pflanzenöl zum Frittieren"
+      ],
+      "instructions": [
+        "Cashewkerne am besten über Nacht, jedoch mind. 30 Minuten in Wasser einweichen.",
+        "Kartoffeln, Möhre und Zwiebel schälen und in gleich große Stücke schneiden, damit sie gleichmäßig garen. Das Gemüse in einen Topf geben, mit Wasser bedecken und aufkochen lassen. Ca. 15 Minuten köcheln lassen, oder solange, bis das Gemüse weich ist.",
+        "In der Zwischenzeit die frische Jalapeño entkernen und fein würfeln. Falls Jalapeños aus dem Glas verwendet werden, diese ebenfalls fein würfeln.",
+        "Das gekochte Gemüse mit der Hälfte der Jalapeños, den eingeweichten Cashewkernen, Tapiokastärke, Hefeflocken, Knoblauchpulver, Kurkuma, Senf und Apfelessig zu einer glatten Masse pürieren und mit Salz und Pfeffer abschmecken.",
+        "Die Mischung in einen Topf geben und erhitzen, bis sie Fäden zieht und sich vom Rand löst. Anschließend die restlichen Jalapeños unterrühren. Die Mischung in Silikonformen füllen und mind. 1 Stunde einfrieren.",
+        "In der Zwischenzeit drei Schüssel zum Panieren vorbereiten. Mehl mit einer guten Prise Salz und Pfeffer in einer Schüssel vermischen. Pflanzliche Milch in eine zweite und Semmelbrösel und Paprikapulver in die dritte Schüssel geben. Die gefrorenen Nuggets aus den Formen drücken und zuerst im Mehl wenden, dann in die pflanzliche Milch tunken und zum Schluss mit Semmelbröseln ummanteln.",
+        "Pflanzenöl in einem Topf auf 160-180°C erhitzen. Ihr könnt zum Test auch das Ende eines Holzspießes ins Öl halten – sobald sich Bläschen um den Spieß bilden, ist das Öl heiß genug. Die panierten Chili Cheese Nuggets portionsweise im heißen Fett goldbraun ausbacken. Danach auf Küchenpapier abtropfen lassen und direkt servieren!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

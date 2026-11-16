@@ -1,0 +1,36 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vegan-ranch-dip-6",
+  "recipes": [
+    {
+      "name": "Vegan Ranch Dip",
+      "source_url": "https://www.pickuplimes.com/recipe/vegan-ranch-dip-6",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "24 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "1 cup vegan mayonnaise",
+        "2 Tbsp ranch spice mix",
+        "¼ cup unsweetened soy milk",
+        "½ lemon"
+      ],
+      "instructions": [
+        "Mix all the ingredients together in a bowl. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Can be stored in an airtight container in the fridge for up to 3 days."
+  ]
+}

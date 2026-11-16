@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mousse-au-chocolat-aus-nur-2-zutaten",
+  "recipes": [
+    {
+      "name": "Vegane Mousse au Chocolat (aus nur 2 Zutaten) mit Orangen-Vanille-Soße",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mousse-au-chocolat-aus-nur-2-zutaten",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mousse-au-chocolat-aus-nur-2-zutaten#recipe-27a08eb2-b3f7-54bd-b4da-14aa89031933",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "30 Minuten (+ 1 Stunde Kühlzeit)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Für die vegane Mousse au Chocolat:",
+        "200 g vegane Zartbitterschokolade",
+        "200 ml vegane Sahne zum Aufschlagen",
+        "Agavendicksaft (optional)",
+        "Salz (optional)",
+        "Für die Orangensoße",
+        "250 ml Orangensaft",
+        "1 Vanilleschote",
+        "2 TL Speisestärke",
+        "1 Prise Salz",
+        "Zum Servieren:",
+        "gehobelte Mandeln"
+      ],
+      "instructions": [
+        "Für die Schokoladenmousse die dunkle Schokolade im Wasserbad schmelzen. Währenddessen eine Schüssel oder einen Topf mit Eiswürfeln und kaltem Wasser füllen und darin ein hohes Gefäß platzieren.",
+        "Die Sahne in das hohe Gefäß füllen und langsam aufschlagen. Die geschmolzene Schokolade nach und nach hinzugeben. Beim Pürieren möglichst viel Luft einarbeiten. Sobald die Mousse fluffig und luftig aussieht, aus dem Eiswürfelbad nehmen, je nach Geschmack mit Agavendicksaft und einer Prise Salz abschmecken und im Kühlschrank ruhen lassen.",
+        "Für die Orangensoße Orangensaft aufkochen. Die Vanilleschote längs halbieren und das Vanillemark auskratzen. Vanillemark und -schote zum Orangensaft geben und für 10 Minuten einkochen. Die Vanilleschote im Anschluss herausnehmen. Nun Speisestärke mit etwas Wasser verrühren und unter Rühren hineingießen. Sobald die Orangen-Vanille-Soße andickt, mit einer Prise Salz abschmecken.",
+        "Die gehobelten Mandeln in einer Pfanne ohne Öl rösten. Die Mousse au Chocolat auf einem Teller servieren und mit Orangen-Vanille-Soße und Mandelblättchen dekorieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/curry-powder-2202",
+  "recipes": [
+    {
+      "name": "Curry Powder",
+      "source_url": "https://www.pickuplimes.com/recipe/curry-powder-2202",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT03M",
+      "total_time": "PT13M",
+      "ingredients": [
+        "2 Tbsp coriander seeds",
+        "2 Tbsp cumin seeds",
+        "2 Tbsp dried curry leaves",
+        "1 tsp fennel seeds",
+        "1 tsp brown mustard seeds",
+        "1 tsp fenugreek seeds",
+        "½ tsp whole peppercorns",
+        "1½ Tbsp ground turmeric",
+        "½ Tbsp ground ginger"
+      ],
+      "instructions": [
+        "Add all the ingredients (except the turmeric and ginger) to a medium pan over medium heat. Cook until the spices become aromatic, about 2 to 3 minutes. Set aside to cool.",
+        "When cool, grind the spices into a fine powder using a grinder.",
+        "Mix in the turmeric and ginger, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container or jar, in a cool, dark cupboard, for up to 6 months."
+  ]
+}

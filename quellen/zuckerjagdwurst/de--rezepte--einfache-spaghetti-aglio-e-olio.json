@@ -1,0 +1,71 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/einfache-spaghetti-aglio-e-olio",
+  "recipes": [
+    {
+      "name": "Einfache Spaghetti Aglio e Olio",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/einfache-spaghetti-aglio-e-olio",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/einfache-spaghetti-aglio-e-olio#recipe-9486f47b-a184-504b-8bcb-2abcf3fb8514",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "300 g Spaghetti (optional: glutenfrei)",
+        "viel Olivenöl",
+        "3 Knoblauchzehen",
+        "1 Zitrone",
+        "1 kleine rote Chilischote",
+        "5 g frische Petersilie",
+        "250 g Cocktailtomaten",
+        "veganer Parmesan",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Die Pasta nach Packungsanleitung zubereiten und danach abgießen.",
+        "In der Zwischenzeit Knoblauchzehen schälen und in Scheiben schneiden. Zitrone und Chili gut waschen und ebenfalls in Scheiben schneiden. Petersilie fein hacken und Tomaten waschen und halbieren.",
+        "Den Boden einer Pfanne mit ausreichend Olivenöl bedecken und erhitzen. Knoblauch und Chili hinzugeben und für 3–4 Minuten darin braten.",
+        "Petersilie, Tomaten und Zitronenscheiben dazugeben und weitere 1–2 Minuten darin braten. Nun die Pasta hinzugeben und darin schwenken. Mit Salz und Pfeffer abschmecken und mit veganem Parmesan servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Veganer Parmesan",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/einfache-spaghetti-aglio-e-olio",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/einfache-spaghetti-aglio-e-olio#recipe-7cc00455-45ac-5abf-ad76-298521fc2022",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "150 g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "100 g Cashewkerne",
+        "50 g gehackte Mandeln",
+        "3 EL Hefeflocken",
+        "1 TL Salz",
+        "0.5 TL Knoblauchpulver"
+      ],
+      "instructions": [
+        "Alle Zutaten in einen Mixer geben und verarbeiten, bis eine fein gemahlene Mischung entsteht. Wenn dennoch ein paar größere Stücken übrig bleiben, ist das gar nicht schlimm.",
+        "Wenn du den Parmesan nicht sofort verwendet, solltest du ihn in einem Einweckglas aufbewahren. Danach kannst ihn über deine Pasta streuen oder für ein Pesto verwenden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

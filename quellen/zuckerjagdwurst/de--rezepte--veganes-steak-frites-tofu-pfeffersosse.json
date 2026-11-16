@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-steak-frites-tofu-pfeffersosse",
+  "recipes": [
+    {
+      "name": "Steak frites aus Tofu in Pfeffersoße",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-steak-frites-tofu-pfeffersosse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-steak-frites-tofu-pfeffersosse#recipe-addc1710-4f4b-58eb-8365-4973b9f508a8",
+      "authors": [
+        "Anna Germek"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für das Tofu-Steak:",
+        "2 EL vegane Butter",
+        "2 Blöcke Tofu (à 200 g)",
+        "1 EL frischer oder getrockneter Thymian",
+        "1 TL edelsüßes Paprikapulver",
+        "1 EL Pfeffer-Gewürzmischung (z. B. Pepper Rub von LEBENSBAUM)",
+        "1 TL Salz",
+        "Für die Soße:",
+        "2 Schalotten",
+        "1 TL vegane Butter",
+        "2 TL grüne eingelegte Pfefferkörner",
+        "1 TL Pfeffer-Gewürzmischung (z. B. Pepper Rub von LEBENSBAUM)",
+        "3 EL Weißweinessig",
+        "1 TL Sojasoße",
+        "200 ml Gemüsebrühe",
+        "100 ml vegane Sahne",
+        "1 TL Senf",
+        "Salz",
+        "Außerdem:",
+        "450 g (glutenfreie) TK-Pommes",
+        "0.5 TL Salz",
+        "0.5 TL edelsüßes Paprikapulver",
+        "30 g Petersilie"
+      ],
+      "instructions": [
+        "Vegane Butter zerlassen, den Tofu darin anbraten und mit Thymian, Paprikapulver, Pfeffer-Gewürzmischung und Salz würzen. Etwa 10 Minuten von allen Seiten anbraten und immer wieder mit der Gewürz-Butter übergießen.",
+        "Tiefkühl-Pommes nach Packungsanweisung im Ofen oder Airfryer zubereiten, danach mit Salz und Paprikapulver würzen. Die Petersilie grob hacken.",
+        "Die Tofu-Steaks aus der Pfanne holen. Schalotten klein würfeln, dann in derselben Pfanne in veganer Butter glasig braten. Grünen Pfeffer und Pfeffer-Gewürzmischung dazugeben, mit Weißweinessig und Sojasoße ablöschen und reduzieren lassen.",
+        "Gemüsebrühe, vegane Sahne und Senf hinzugeben und gegebenenfalls mit Salz abschmecken.",
+        "Die Tofu-Steaks in Streifen schneiden und mit Pommes, Soße und gehackter Petersilie servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

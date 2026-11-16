@@ -1,0 +1,39 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/cubano-sandwich-framework",
+  "recipes": [
+    {
+      "name": "Cubano Sandwich",
+      "source_url": "https://app.cookwell.com/recipe/cubano-sandwich-framework",
+      "recipe_id": "https://app.cookwell.com/recipe/cubano-sandwich-framework",
+      "authors": [
+        "Cook Well Official"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 sandwich",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Cubano roll, 1",
+        "Butter, for toasting",
+        "Swiss, 2 slices",
+        "Braised pork, 113 g",
+        "Ham, 2-4 slices",
+        "Pickles, 4 planks",
+        "Mustard, to taste"
+      ],
+      "instructions": [
+        "Braise some pork if you don’t have any leftover. If you do have some leftover, go ahead and pull it out and slice it very thin or shred it. Gather any remaining ingredients. Slice the Cubano bread.",
+        "Set a pan or griddle over medium heat. Butter the outsides of the bread, add mustard to the insides, and then layer the remaining sandwich components and close. Be generous with the mustard and pickles. Their acidity balances the fatty pork and unctuous melty cheese.",
+        "Cook and press the sandwich on the pan, flipping occasionally until both sides are golden brown, the inside ingredients are warmed through, and the cheese has fully melted. Alternatively, use a panini press if you have one. Slice on a diagonal and enjoy warm."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

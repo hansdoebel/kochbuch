@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-handbrot",
+  "recipes": [
+    {
+      "name": "Veganes Handbrot mit Schinken und Käse",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-handbrot",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-handbrot#recipe-470e6487-c1ea-5386-bbd8-5fe142cd96b0",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Handbrote",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT105M",
+      "ingredients": [
+        "Für den Hefeteig:",
+        "1 Würfel (42 g) frische Hefe",
+        "1 EL Zucker",
+        "300 ml warmes Wasser",
+        "500 g Weizenmehl (Typ 405)",
+        "1 TL Salz",
+        "neutrales Pflanzenöl zum Einfetten",
+        "Für die Füllung:",
+        "300 g pflanzlicher Streukäse",
+        "1 EL Pflanzenöl",
+        "2 EL Wasser",
+        "150 g (1 Packung) vegane Bacon Bits (z. B. von GREENFORCE)",
+        "neutrales Pflanzenöl zum Braten",
+        "Zum Servieren:",
+        "veganer Naturjoghurt oder Crème fraîche",
+        "vegane Bacon Bits (z. B. von GREENFORCE)",
+        "Schnittlauch"
+      ],
+      "instructions": [
+        "Hefe und Zucker in einer großen Schüssel mit warmem Wasser verrühren und 10 Minuten stehen lassen, bis sich Bläschen auf der Oberfläche bilden. Mehl und Salz dazugeben und ordentlich durchkneten, bis ein glatter, weicher Teig entsteht. Sobald er sich vom Rand ablöst, aus der Schüssel nehmen, die Arbeitsfläche bemehlen und den Teig 5 Minuten mit den Händen kneten.",
+        "Die Schüssel mit etwas Öl einfetten, den Teig hineinlegen und die Schüssel mit einem feuchten, sauberen Geschirrtuch bedecken. Den Teig mindestens eine Stunde an einem warmen Ort gehen lassen, bis er sich im Volumen verdoppelt hat.",
+        "In der Zwischenzeit den pflanzlichen Streukäse mit Öl und Wasser vermengen. Die veganen Bacon Bits nach Packungsanleitung zubereiten.",
+        "Den Backofen auf 200 °C (Umluft) vorheizen. Sobald sich der Teig im Volumen verdoppelt hat, aus der Schüssel nehmen und auf eine mit Mehl bestäubte Arbeitsfläche geben. Den Teig zunächst halbieren und jede Teighälfte zu einem länglichen Rechteck ausrollen. Jeweils die Hälfte des pflanzlichen Käses und der veganen Bacon Bits in vier Portionen auf dem Teig verteilen.",
+        "Zum Falten zuerst die zwei äußeren kurzen Kanten nach innen über die Füllung legen und danach auch die beiden langen Seiten vorsichtig über die Füllung legen, sodass sie verschlossen ist. Die gefüllte Teigrolle auf die andere Seite drehen, damit die „Teignaht“ unten ist.",
+        "Mit dem Stiel eines Holzlöffels die Handbrot-Rolle leicht eindrücken, sodass vier gleich große Handbrote entstehen. Die vier Handbrote mit einem Messer voneinander trennen. Mit den restlichen Zutaten genauso vorgehen. Ein paar der Bacon Bits zur Seite legen für das Topping.",
+        "Die Handbrote auf ein mit Backpapier belegtes Backblech legen und bei 200 °C (Umluft) mindestens 15 Minuten backen. Das Handbrot direkt aus dem Ofen mit einem Klecks veganem Naturjoghurt oder Crème fraîche, fein geschnittenem Schnittlauch und veganen Bacon Bits toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

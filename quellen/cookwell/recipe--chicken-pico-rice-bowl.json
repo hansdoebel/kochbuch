@@ -1,0 +1,49 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/chicken-pico-rice-bowl",
+  "recipes": [
+    {
+      "name": "Chicken & Pico Rice Bowl",
+      "source_url": "https://app.cookwell.com/recipe/chicken-pico-rice-bowl",
+      "recipe_id": "https://app.cookwell.com/recipe/chicken-pico-rice-bowl",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1-2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Chicken Thighs, 2",
+        "Salt, 2 g",
+        "Granulated garlic, 2 g",
+        "Onions, 1/2",
+        "Bell peppers, 1/2",
+        "Neutral oil, 10 g",
+        "Roma tomatoes, 3 parts",
+        "Onions, 1 part",
+        "Jalapeños, 1",
+        "Cilantro, a handful",
+        "Lime juice, to taste",
+        "Salt, to taste",
+        "Mexican rice",
+        "Black Beans",
+        "Low-fat sour cream",
+        "Lime wedges"
+      ],
+      "instructions": [
+        "Dice the tomato, onion, and jalapeño, then chop the cilantro. Combine everything in a bowl with a pinch of salt and a generous squeeze of lime juice. Taste and adjust until balanced. Set aside while you prepare the rest of the bowl.",
+        "Slice the chicken thighs into strips. Heat a large pan or skillet over high heat, and add a drizzle of oil to coat the cooking surface Add the chicken to an even layer to sear, then season with salt and the granulated garlic. When the chicken begins to brown on the bottom, flip or toss the pieces to redistribute.",
+        "Add the chopped peppers and onions and continue searing until the chicken is cooked through and the vegetables have picked up some color (light charring is desirable). Remove from the heat.",
+        "Warm cooked rice and beans, and divide between serving bowls. Top the rice with the chicken and vegetable mixture, and garnish with the pico de gallo, sour cream, and a squeeze of lime."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

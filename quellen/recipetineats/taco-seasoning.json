@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.recipetineats.com/taco-seasoning/",
+  "recipes": [
+    {
+      "name": "Taco Seasoning",
+      "source_url": "https://www.recipetineats.com/taco-seasoning/",
+      "recipe_id": "https://www.recipetineats.com/taco-seasoning/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "4"
+      ],
+      "prep_time": "PT5M",
+      "cook_time": null,
+      "total_time": "PT5M",
+      "ingredients": [
+        "1 tsp garlic powder",
+        "1 tsp onion powder",
+        "1 tsp dried oregano",
+        "2 tsp cumin powder",
+        "2 tsp paprika",
+        "1/4 tsp chilli powder ((adjust spiciness to taste))",
+        "1 tsp salt",
+        "1/4 tsp black pepper"
+      ],
+      "instructions": [
+        "Combine ingredients.",
+        "Store in an airtight container.",
+        "Makes 2.5 tablespoons. Combine with 1lbs/500g mince meat, 1/2 cup water, 1 diced onion and 2 tablespoons of tomato paste."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. If you are in the US, do not use what you know as Chili Powder. That is a spice blend, not pure ground chilies. If you can’t find pure ground chili, substitute with cayenne pepper. I like to make this Taco Seasoning with pure ground chili so I can control the flavour consistency – US Chili Powder is not available around the world and also even from brand to brand, the flavour differs. Using pure spice ingredients allows for better consistency."
+  ]
+}

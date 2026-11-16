@@ -1,0 +1,36 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-parmesan",
+  "recipes": [
+    {
+      "name": "Veganer Parmesan",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-parmesan",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-parmesan#recipe-7cc00455-45ac-5abf-ad76-298521fc2022",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "150 g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "100 g Cashewkerne",
+        "50 g gehackte Mandeln",
+        "3 EL Hefeflocken",
+        "1 TL Salz",
+        "0.5 TL Knoblauchpulver"
+      ],
+      "instructions": [
+        "Alle Zutaten in einen Mixer geben und verarbeiten, bis eine fein gemahlene Mischung entsteht. Wenn dennoch ein paar größere Stücken übrig bleiben, ist das gar nicht schlimm.",
+        "Wenn du den Parmesan nicht sofort verwendet, solltest du ihn in einem Einweckglas aufbewahren. Danach kannst ihn über deine Pasta streuen oder für ein Pesto verwenden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

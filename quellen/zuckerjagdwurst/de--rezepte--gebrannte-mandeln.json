@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gebrannte-mandeln",
+  "recipes": [
+    {
+      "name": "Gebrannte Mandeln (und viele andere Nüsse)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gebrannte-mandeln",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gebrannte-mandeln#recipe-ea8c6d2a-22d2-5de4-aac5-f9cdde865094",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 300 g gebrannte Mandeln",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "150 g weißer Zucker",
+        "1 EL Kokosblütenzucker",
+        "1 TL gemahlener Zimt",
+        "0.5 TL gemahlener Kardamom",
+        "1 Prise Salz",
+        "80 ml Wasser",
+        "200 g Mandeln (oder andere Nüsse)"
+      ],
+      "instructions": [
+        "Zucker, Kokosblütenzucker, gemahlenen Zimt, Kardamom, Salz und Wasser in eine große, tiefe Pfanne geben und unter Rühren erhitzen, bis sich der Zucker vollständig aufgelöst hat.",
+        "Mandeln (oder andere Nüsse) dazugeben und direkt verrühren, damit sie vom Zuckersirup rundum ummantelt werden.",
+        "Unter Rühren und über mittlerer Hitze erwärmen, bis die Zuckermischung verkocht ist, die Nüsse eine knusprige „Zuckerhaut“ bekommen und matt werden. Anschließend die Temperatur leicht erhöhen und die Mandeln weiter erhitzen, bis sich die Zuckerhaut löst und die Mandeln tatsächlich karamellisieren und glänzen.",
+        "Die Nüsse auf ein mit Backpapier ausgelegtes Backblech geben, mit zwei Gabeln etwas voneinander lösen und dort trocknen und abkühlen lassen. In einem luftdichten Behälter halten sie sich mehrere Wochen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

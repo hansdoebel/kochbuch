@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pfifferling-lauch-quiche",
+  "recipes": [
+    {
+      "name": "Vegane Pfifferling-Lauch-Quiche",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pfifferling-lauch-quiche",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pfifferling-lauch-quiche#recipe-fbac0d52-51a4-5b57-9611-a22c935619fa",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "1 Packung (1 Blatt) veganer Fertig-Mürbeteig",
+        "300 g Pfifferlinge",
+        "200 g Lauch",
+        "1 Knoblauchzehe",
+        "400 g Seidentofu",
+        "100 ml pflanzliche Sahne",
+        "3 EL Hefeflocken",
+        "2 EL Speisestärke",
+        "2 EL Kichererbsenmehl",
+        "0.5 TL Kala Namak",
+        "0.5 TL Kurkuma",
+        "1 TL Muskat",
+        "Petersilie zum Servieren",
+        "vegane Butter zum Einfetten",
+        "Pflanzenöl zum Braten",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Pfifferlinge und Lauch putzen. Lauch in Ringe schneiden und die Pfifferlinge klein schneiden. Knoblauch schälen und fein hacken.",
+        "Etwas Öl erhitzen und die Pfifferlinge ca. 5 Minuten über mittlerer Hitze anbraten. Lauch und Knoblauch dazugeben und weitere 2 Minuten braten und mit Salz und Pfeffer würzen.",
+        "Für den „flüssigen“ Teil der Quiche Seidentofu, pflanzliche Sahne, Hefeflocken, Speisestärke, Kichererbsenmehl, Kala Namak, Kurkuma und Muskat mit einem Pürierstab vermengen. Anschließend abschmecken.",
+        "Die Quicheform mit etwas veganer Butter einfetten und falls gewünscht mit etwas Mehl ausklopfen. Den Mürbeteig ausrollen und vorsichtig in die Form legen, sodass der Teig übersteht. Die Pfifferlinge mit Lauch und die Seidentofu-Mischung in die Form geben und vermengen.",
+        "Die Quiche im vorgeheizten Backofen bei 190°C ca. 40 Minuten backen, oder bis der Teig goldbraun und die Füllung fest ist. Zum Servieren mit gehackter Petersilie bestreuen und die Quiche ca. 5 Minuten vor dem Anschneiden stehen lassen, damit sie anzieht."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

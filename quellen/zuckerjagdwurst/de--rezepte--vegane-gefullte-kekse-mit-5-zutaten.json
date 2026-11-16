@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gefullte-kekse-mit-5-zutaten",
+  "recipes": [
+    {
+      "name": "Vegane gefüllte Kekse (mit 5 Zutaten) Rezept",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gefullte-kekse-mit-5-zutaten",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gefullte-kekse-mit-5-zutaten#recipe-a7b92360-1480-5f9e-bf19-5cbfd1c85301",
+      "authors": [
+        "Ronja Gramse"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "10 Kekse",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT170M",
+      "ingredients": [
+        "200 g gemahlene Mandeln",
+        "120 g Zucker",
+        "120 g kalte, vegane Butter",
+        "1 TL Vanilleextrakt",
+        "1 Prise Salz",
+        "100 g Nussmus eurer Wahl"
+      ],
+      "instructions": [
+        "Für die Füllung zehn Vertiefungen einer kleinen Silikoneiswürfel- oder Silikonpralinenform mit Nussmus befüllen. Anschließend ca. 2-3 Stunden einfrieren, bis das Nussmus nicht mehr flüssig ist. Euer Nussmus muss nicht ganz fest werden, sollte aber nicht mehr flüssig sein, um euch das Befüllen der Kekse zu erleichtern.",
+        "Tipp: Wählt am besten ein Nussmus, das nicht zu flüssig ist. Wenn euer Teig zu fettig oder weich ist, könnt ihr etwas Mehl oder mehr Mandeln dazugeben.",
+        "Den Ofen auf 180°C (Ober-/Unterhitze) vorheizen. Gemahlene Mandeln, Zucker, vegane Butter, Vanilleextrakt und Salz in eine Schüssel geben und mit den Händen verkneten, bis sich ein Teig bildet. Wenn ihr möchtet, könnt ihr einen Teil der Mandeln durch Mehl ersetzen, dann ist der Teig weniger fettig.",
+        "Den Teig in zehn Portionen (à 45 Gramm) teilen und jeden Teig zu einer Scheibe formen. Die gefrorenen Nussmusstücke in der Mitte platzieren und den Teig um die Füllung legen und zu einer Kugel formen. Die Teigkugeln mit ausreichend Abstand zueinander auf einem mit Backpapier ausgelegtes Backblech verteilen.",
+        "Die Kekse bei 180°C (Ober-/Unterhitze) ca. 12 Minuten backen. Es ist normal, dass die Kekse am Ende der Backzeit noch weich sind. Aus dem Ofen nehmen und mit einem Pfannenwender vorsichtig flach drücken. Nach dem Abkühlen in einer verschlossenen Dose aufbewahren oder direkt vernaschen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

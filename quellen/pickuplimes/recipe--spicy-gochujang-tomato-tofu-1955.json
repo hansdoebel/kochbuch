@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/spicy-gochujang-tomato-tofu-1955",
+  "recipes": [
+    {
+      "name": "Spicy Gochujang Tomato Tofu",
+      "source_url": "https://www.pickuplimes.com/recipe/spicy-gochujang-tomato-tofu-1955",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT14M",
+      "cook_time": "PT16M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "1 cup long-grain white rice",
+        "1 Tbsp vegetable oil",
+        "11.287 oz firm tofu",
+        "¼ cup gochujang",
+        "5 garlic clove",
+        "3 Tbsp reduced-sodium soy sauce",
+        "2 Tbsp light brown sugar",
+        "3½ cup cherry tomatoes"
+      ],
+      "instructions": [
+        "Cook the rice according to the package instructions.",
+        "Meanwhile, heat the oil in a sauté pan over medium-high heat and cook the tofu until golden on all sides, about 10 minutes.",
+        "Meanwhile, mix the gochujang, garlic, soy sauce, and sugar in a bowl. Set aside.",
+        "When the tofu is golden, transfer it to a plate. Add the tomatoes to the now-empty pan, and cook for 3 minutes.",
+        "Add the sauce and cook for an additional 3 minutes.",
+        "Stir in the tofu, then serve alongside the warm rice. Garnish as desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Gochujang is a Korean fermented red chili paste with a sweet, savoury, and spicy flavour. It can be found in Asian grocery stores or well-stocked supermarkets.",
+    "Storage Store leftovers in an airtight container in the fridge for up to 2 days."
+  ]
+}

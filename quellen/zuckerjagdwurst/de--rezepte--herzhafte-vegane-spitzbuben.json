@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/herzhafte-vegane-spitzbuben",
+  "recipes": [
+    {
+      "name": "Herzhafte vegane Spitzbuben",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/herzhafte-vegane-spitzbuben",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/herzhafte-vegane-spitzbuben#recipe-17bb61cd-a790-57e7-983e-76721e05531b",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 25 Kekse",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT87M",
+      "ingredients": [
+        "Für den Teig:",
+        "250 g Weizenmehl (Type 405)",
+        "50 g gemahlene Mandeln",
+        "1 TL Knoblauchpulver",
+        "1 TL Zwiebelpulver",
+        "0.5 TL Chilipulver",
+        "1 TL Salz",
+        "50 g veganer Parmesan",
+        "200 g vegane Butter (kalt)",
+        "kaltes Wasser nach Bedarf",
+        "Für die Basilikum-Creme:",
+        "25 g Mandeln",
+        "10 g Hefeflocken",
+        "20 g frischer Basilikum",
+        "1 EL Olivenöl",
+        "Wasser nach Bedarf",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "240 g rotes veganes Pesto"
+      ],
+      "instructions": [
+        "Zu Beginn Mehl, gemahlene Mandeln, Knoblauch-, Zwiebel- und Chilipulver zusammen mit Salz in eine Schüssel geben und kurz vermischen. Den veganen Parmesan reiben, die kalte vegane Butter in kleine Stücke schneiden und ebenfalls in die Schüssel geben. Etwas Eiswasser (oder sehr kaltes Wasser) dazugeben und kneten, bis ein geschmeidiger Teig entsteht. Hierbei solltet ihr schnell sein, damit die vegane Butter nicht zu weich wird. Den Teig abgedeckt mindestens 30 Minuten in den Kühlschrank stellen.",
+        "Für die Creme Mandeln, Hefeflocken, frischen Basilikum, Olivenöl, Salz und Pfeffer mit einem Handmixer zu einer glatten Masse pürieren. Wenn die Masse zu fest ist, so lange Wasser hinzugeben, bis eine cremige, nicht zu flüssige Konsistenz entsteht. Das Topping ebenfalls in den Kühlschrank stellen.",
+        "Den Backofen auf 180°C (Umluft) vorheizen. Den Teig auf einer bemehlten Fläche ca. 3 mm dick ausrollen und Kreise ausstechen. Bei der Hälfte der Kreise nochmals einen kleinen Kreis ausstechen, sodass ein „Teigring“ entsteht. Am Ende sollten es gleich viele Kreise wie Ringe sein.",
+        "Die ausgestochenen Kekse bei 180°C (Umluft) ca. 12 Minuten backen, bis sie leicht gebräunt sind. Anschließend aus dem Ofen nehmen und abkühlen lassen.",
+        "Jeweils einen großen Teelöffel Pesto auf die abgekühlten Keks-Kreise geben und die Keks-Ringe darüberlegen. Nachdem alle Kekse gefüllt sind, mit der Basilikum-Creme toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

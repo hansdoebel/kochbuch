@@ -1,0 +1,167 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/dubu-jogaetguk",
+  "recipes": [
+    {
+      "name": "Tofu soup with clams (Dubu-jogaetguk: 두부조갯국)",
+      "source_url": "https://www.maangchi.com/recipe/dubu-jogaetguk",
+      "recipe_id": "/recipe/dubu-jogaetguk#sso/recipe/99928",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "2 servings",
+      "prep_time": "P0DT0H4M0S",
+      "cook_time": "P0DT0H14M0S",
+      "total_time": "P0DT0H18M0S",
+      "ingredients": [
+        "2 teaspoons toasted sesame oil",
+        "4 garlic cloves, minced",
+        "½ of medium sized onion (about 70 grams), chopped",
+        "2 cups anchovy kelp stock (or chicken, beef, vegetable stock)",
+        "1 cup frozen or fresh clam meat, rinsed and drained",
+        "1 package of soft or medium tofu (14 ounces), crushed",
+        "3 to 4 green onions, cut into 1 inch long",
+        "1 tablespoon fish sauce (or salt to your taste)",
+        "2 tablespoons toasted sesame seeds (see how to toast your own sesame seeds), ground",
+        "¼ teaspoon ground black pepper",
+        "4 cups of water",
+        "6 large dried anchovies, guts and heads removed",
+        "6 x 6-inch size piece of dried kelp"
+      ],
+      "instructions": [
+        "In a pan, combine the water, cleaned dried anchovies, and dried kelp. Cook over medium-high heat for 20 minutes. You will end up with approximately 3 cups of flavorful stock.",
+        "Heat up a heavy medium pan. Add sesame oil, garlic, and onion. Sauté the garlic and onion with a wooden spoon for a few minutes, until the onion becomes slightly translucent. Pour in the stock and bring it to a rolling boil over medium-high heat, which should take about 5 to 6 minutes. Now add the clam meat, crushed tofu, and green onions to the boiling stock. Cover and let the soup cook for another 5 minutes.",
+        "Remove from the heat and add fish sauce (or salt to your taste). Give the soup a gentle stir to incorporate the flavors and then ladle the soup into two large bowls. Sprinkle ground sesame seeds on top of each bowl for added flavor and garnish. Serve the delicious soup with rice, kimchi, and any other desired side dishes."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "for 2 servings"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "4 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "½ of medium sized onion (about 70 grams), chopped"
+        },
+        {
+          "tag": "li",
+          "text": "2 cups anchovy kelp stock (or chicken, beef, vegetable stock)"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup frozen or fresh clam meat, rinsed and drained"
+        },
+        {
+          "tag": "li",
+          "text": "1 package of soft or medium tofu (14 ounces), crushed"
+        },
+        {
+          "tag": "li",
+          "text": "3 to 4 green onions, cut into 1 inch long"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon fish sauce (or salt to your taste)"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons toasted sesame seeds (see how to toast your own sesame seeds), ground"
+        },
+        {
+          "tag": "li",
+          "text": "¼ teaspoon ground black pepper"
+        },
+        {
+          "tag": "h3",
+          "text": "For the simple anchovy kelp stock:"
+        },
+        {
+          "tag": "li",
+          "text": "4 cups of water"
+        },
+        {
+          "tag": "li",
+          "text": "6 large dried anchovies, guts and heads removed"
+        },
+        {
+          "tag": "li",
+          "text": "6 x 6-inch size piece of dried kelp"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Make anchovy kelp stock"
+        },
+        {
+          "tag": "li",
+          "text": "In a pan, combine the water, cleaned dried anchovies, and dried kelp."
+        },
+        {
+          "tag": "li",
+          "text": "Cook over medium-high heat for 20 minutes. You will end up with approximately 3 cups of flavorful stock."
+        },
+        {
+          "tag": "h3",
+          "text": "Make dubu-jogaetguk"
+        },
+        {
+          "tag": "li",
+          "text": "Heat up a heavy medium pan. Add sesame oil, garlic, and onion."
+        },
+        {
+          "tag": "li",
+          "text": "Sauté the garlic and onion with a wooden spoon for a few minutes, until the onion becomes slightly translucent."
+        },
+        {
+          "tag": "li",
+          "text": "Pour in the stock and bring it to a rolling boil over medium-high heat, which should take about 5 to 6 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Now add the clam meat, crushed tofu, and green onions to the boiling stock. Cover and let the soup cook for another 5 minutes."
+        },
+        {
+          "tag": "h3",
+          "text": "Finish and serve"
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and add fish sauce (or salt to your taste)."
+        },
+        {
+          "tag": "li",
+          "text": "Give the soup a gentle stir to incorporate the flavors and then ladle the soup into two large bowls."
+        },
+        {
+          "tag": "li",
+          "text": "Sprinkle ground sesame seeds on top of each bowl for added flavor and garnish."
+        },
+        {
+          "tag": "li",
+          "text": "Serve the delicious soup with rice, kimchi, and any other desired side dishes."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

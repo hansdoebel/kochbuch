@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-lasagne-suppe",
+  "recipes": [
+    {
+      "name": "Vegane Lasagnesuppe",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-lasagne-suppe",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-lasagne-suppe#recipe-84e52a68-1e38-5c31-9b7f-f52b467bc033",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4-6 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT55M",
+      "ingredients": [
+        "8 trockene Lasagneblätter",
+        "500 g veganer Hackersatz (falls trockenes Sojagranulat verwendet wird, nur 250 g)",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "2 Möhren",
+        "1 Selleriestange",
+        "1 EL Sojasauce",
+        "4 EL Tomatenmark",
+        "1 EL Ahornsirup",
+        "2 TL getrocknetes Basilikum",
+        "2 TL getrockneter Oregano",
+        "2 TL Cayennepfeffer",
+        "1 TL Paprikapulver",
+        "100 ml veganer Rotwein",
+        "800 g gestückelte Tomaten aus der Dose",
+        "1 Liter Gemüsebrühe",
+        "15 g frischer Basilikum",
+        "Pflanzenöl zum Braten",
+        "Salz",
+        "Pfeffer",
+        "veganer Parmesan und Joghurt zum Servieren"
+      ],
+      "instructions": [
+        "Zwiebel und Knoblauch schälen und hacken. Möhren und Selleriestange fein würfeln. Falls ihr getrocknetes Granulat verwendet, solltet ihr es an dieser Stelle schon einweichen, wie auf der Packung angegeben.",
+        "Zuerst werden das pflanzliche Hack und die Zwiebeln parallel angebraten. Pflanzenöl in einer Pfanne über mittlerer Hitze erwärmen und den pflanzlichen Hackersatz ca. 5 Minuten scharf anbraten, bis er gut gebräunt ist. Sojasauce dazugeben und noch weitere 2-3 Minuten anbraten. Danach die Hitze ausschalten.",
+        "Parallel dazu etwas Pflanzenöl in einem großen Topf erhitzen und die Zwiebelwürfel auf kleiner Hitze 3-4 Minuten anschwitzen, bis sie glasig sind. Danach den Knoblauch dazugeben und eine weitere Minute anbraten. Tomatenmark und Ahornsirup dazugeben und ca. 3 Minuten leicht anbraten, sodass das Tomatenmark dunkler wird.",
+        "Möhren, Sellerie, getrockneten Oregano, Basilikum, Cayennepfeffer und Paprikapulver dazugeben und alles zusammen ca. 4-5 Minuten anbraten.",
+        "Mit veganem Rotwein ablöschen und anschließend Dosentomaten, Gemüsebrühe und den gebratenen Hackersatz dazugeben. Alles einmal aufkochen lassen und 15 – 20 Minuten köcheln lassen.",
+        "Die trockenen Lasagneblätter grob auseinanderbrechen und zusammen mit frischem Basilikum in die Suppe geben. Die Suppe auf mittlerer Stufe weiterköcheln lassen, bis die Lasagneblätter gar sind, das dauert nur ca. 5 Minuten. Die Suppe noch einmal abschmecken.",
+        "Die Suppe mit einem Klecks pflanzlichem Joghurt servieren und mit veganem Parmesan und frischem Basilikum servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

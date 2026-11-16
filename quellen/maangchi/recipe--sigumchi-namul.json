@@ -1,0 +1,109 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/sigumchi-namul",
+  "recipes": [
+    {
+      "name": "Spinach side dish (Sigeumchi-namul)",
+      "source_url": "https://www.maangchi.com/recipe/sigumchi-namul",
+      "recipe_id": "/recipe/sigumchi-namul#sso/recipe/103",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "8 ounces spinach, cleaned and washed",
+        "1 garlic clove, minced",
+        "1 green onion, chopped",
+        "1½ teaspoon soy sauce",
+        "1½ teaspoon toasted sesame oil",
+        "2 teaspoon toasted sesame seeds",
+        "silgochu (Korean dried shredded red pepper), optional"
+      ],
+      "instructions": [
+        "Boil 8 to 10 cups of water in a large pot.",
+        "Blanch the spinach for 30 seconds to 1 minute with lid off, stirring with a wooden spoon.",
+        "Strain the spinach and rinse in cold water a couple of times to remove any residual dirt.",
+        "Squeeze out excess water and cut a few times into bite size pieces.",
+        "Mix the spinach with garlic, green onion, soy sauce, toasted sesame oil, and sesame seeds in a mixing bowl by hand.",
+        "Transfer to a bowl or plate and garnish with silgochu, if used.",
+        "Serve with rice."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "8 ounces spinach, cleaned and washed"
+        },
+        {
+          "tag": "li",
+          "text": "1 garlic clove, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 green onion, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1½ teaspoon soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1½ teaspoon toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoon toasted sesame seeds"
+        },
+        {
+          "tag": "li",
+          "text": "silgochu (Korean dried shredded red pepper), optional"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Boil 8 to 10 cups of water in a large pot."
+        },
+        {
+          "tag": "li",
+          "text": "Blanch the spinach for 30 seconds to 1 minute with lid off, stirring with a wooden spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Strain the spinach and rinse in cold water a couple of times to remove any residual dirt."
+        },
+        {
+          "tag": "li",
+          "text": "Squeeze out excess water and cut a few times into bite size pieces."
+        },
+        {
+          "tag": "li",
+          "text": "Mix the spinach with garlic, green onion, soy sauce, toasted sesame oil, and sesame seeds in a mixing bowl by hand."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer to a bowl or plate and garnish with silgochu, if used."
+        },
+        {
+          "tag": "li",
+          "text": "Serve with rice."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

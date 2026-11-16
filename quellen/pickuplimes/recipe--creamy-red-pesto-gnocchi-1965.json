@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/creamy-red-pesto-gnocchi-1965",
+  "recipes": [
+    {
+      "name": "Creamy Red Pesto Gnocchi",
+      "source_url": "https://www.pickuplimes.com/recipe/creamy-red-pesto-gnocchi-1965",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT15M",
+      "total_time": "PT25M",
+      "ingredients": [
+        "½ Tbsp vegetable oil",
+        "1 medium shallot",
+        "2 garlic clove",
+        "1⅔ cup canned whole peeled tomatoes",
+        "3 Tbsp vegan red pesto",
+        "⅓ cup plain vegan cream cheese",
+        "¼ tsp salt",
+        "⅛ tsp ground black pepper",
+        "½ lemon",
+        "5½ cup vegan gnocchi",
+        "½ Tbsp vegetable oil"
+      ],
+      "instructions": [
+        "Add the oil, shallots and garlic to a medium pot, and cook until lightly golden.",
+        "Add the tomatoes and pesto, and cook for 5 to 8 minutes.",
+        "Meanwhile, cook the gnocchi according to the package instructions. For us this took 2 minutes. Then drain.",
+        "Heat some oil a sauté pan over medium-high heat. Add the drained gnocchi to the pan and cook until lightly golden on the outside. Cook in batches if necessary to not over-crowd the pan.",
+        "Returning to the sauce, add in the cream cheese, salt, and pepper. Use an immersion blender to blend until smooth*.",
+        "Transfer the tomato sauce to the sauté pan containing the gnocchi. Squeeze over the lemon juice, and stir to coat.",
+        "Plate, garnish as desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * Alternatively, blend in a standing blender.",
+    "Storage The gnocchi is best enjoyed freshly made. Store leftovers in an airtight container in the fridge for up to 1 day - any longer and the gnocchi tends to become overly firm. Ideally, reheat in a pan with a splash of water to loosen the sauce and gnocchi up."
+  ]
+}

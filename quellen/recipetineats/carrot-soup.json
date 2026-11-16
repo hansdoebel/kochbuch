@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.recipetineats.com/carrot-soup/",
+  "recipes": [
+    {
+      "name": "Creamy Carrot Soup",
+      "source_url": "https://www.recipetineats.com/carrot-soup/",
+      "recipe_id": "https://www.recipetineats.com/carrot-soup/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "4"
+      ],
+      "prep_time": "PT10M",
+      "cook_time": "PT30M",
+      "total_time": "PT40M",
+      "ingredients": [
+        "1 tbsp olive oil or butter",
+        "4 slices streaky bacon ((~120g/4oz))",
+        "1 onion (, chopped)",
+        "2 garlic cloves (, minced)",
+        "5 large carrots (, cut into 1.5 cm / 3/5\" chunks)",
+        "1 litre / 1 quart vegetable or chicken broth ((4 cups))",
+        "1/2 cup / 125 ml cream",
+        "3/4 cup / 185ml milk ((any fat %))",
+        "Salt and pepper",
+        "Fresh thyme or chopped parsley",
+        "Cream (, for swirling)",
+        "Crusty bread"
+      ],
+      "instructions": [
+        "Heat oil in a large pot over medium high heat. Add bacon and cook until golden. Remove from pot, cool then chop.",
+        "Add onion and garlic into the bacon drippings. Cook for 2 minutes until onion is translucent but not browned.",
+        "Add carrots and stir well to coat the carrot in the oil.",
+        "Add broth, then stir. Cover with lid, adjust heat so it is simmering energetically (about medium). Cook for 20 - 25 minutes until carrot is very soft.",
+        "Remove lid, turn heat off. Use a stick blender to puree the carrot (or cool slightly and do in blender).",
+        "Add cream, milk, salt and pepper to taste. Stir. Adjust thickness with milk (or water), if desired.",
+        "Ladle soup into bowls. Garnish with swirls of cream, bacon and parsley or thyme if desired. Serve with crusty bread."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. If you skip the bacon , I would suggest adding something else to compensate for loss of flavour. Suggestions: 1 tsp of ground coriander or other spice of choice (stir into soup) or 2 tsp finely chopped ginger (saute with onion and garlic). 2. Nutrition per serving, assuming 4 servings. If you skip the bacon, it reduces to 200 calories. If you also skip the cream, it reduces to 99 calories."
+  ]
+}

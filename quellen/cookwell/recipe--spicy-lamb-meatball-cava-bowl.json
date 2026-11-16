@@ -1,0 +1,55 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/spicy-lamb-meatball-cava-bowl",
+  "recipes": [
+    {
+      "name": "Spicy Lamb Meatball Cava Bowl",
+      "source_url": "https://app.cookwell.com/recipe/spicy-lamb-meatball-cava-bowl",
+      "recipe_id": "https://app.cookwell.com/recipe/spicy-lamb-meatball-cava-bowl",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Ground lamb , 450 g",
+        "Harissa paste, 20 g",
+        "Salt, 4 g",
+        "Cumin, 3 g",
+        "Smoked Paprika, 2 g",
+        "Garlic Powder, 2 g",
+        "MSG, 1 g",
+        "Yogurt, 100 g",
+        "Extra Virgin Olive Oil, 15 g",
+        "Dill, 10 g",
+        "Cucumbers, 1/2",
+        "Garlic, 1 clove",
+        "Lemon juice, a squeeze",
+        "Avocados",
+        "Hummus",
+        "Feta, crumbled",
+        "Cucumbers, diced",
+        "Pickled onions",
+        "Leafy greens",
+        "Lentils, cooked",
+        "Tomatoes, diced"
+      ],
+      "instructions": [
+        "If using dried lentils, rinse them thoroughly and bring them to a gentle simmer in lightly salted water. Cook until tender but not mushy, then drain and set aside to cool. While the lentils cook, make the meatballs & prep any remaining components: Chop the cucumber, tomato, and kale. Slice the avocado and crumble the feta so it’s ready for plating. This can all be done in advance to save time.",
+        "Add the ground lamb, harissa paste, salt, cumin, smoked paprika, garlic powder, and MSG to a large bowl. Use your hands to mix until the meat becomes tacky and cohesive—stop as soon as it sticks lightly to your fingers. To check seasoning, microwave a tiny piece of the mixture. Adjust as needed before forming. Shape the mixture into golf ball–sized meatballs, pressing firmly so they hold together without any binders. Preheat a pan or skillet over medium-high heat.",
+        "Once the pan is hot, place the meatballs in a single layer, leaving space between them. Let them sear undisturbed until a deep crust forms, then rotate every few minutes to brown all sides evenly. Adjust the heat as necessary to avoid scorching while still maintaining strong browning. When the meatballs reach an internal temperature of 140°F/60°C, remove them from the heat to keep them juicy and tender. Because these meatballs contain no breadcrumbs, avoiding overcooking is key. Alternatively, you could broil or roast these in a hot oven for a more hands off method.",
+        "Whisk together the yogurt, diced cucumber, garlic, olive oil, lemon, and dried dill until smooth. If you prefer a thinner dressing, loosen it with a splash of water. Taste and adjust as needed with extra lemon, dill, or other ingredients.",
+        "In a serving bowl, spoon in a layer of cooked (or reheated) black lentils. Add the greens mix, cucumber, tomato, and avocado. Nestle in a few warm lamb meatballs, then add dollops of hummus and spoonfuls of dill dressing. Finish with crumbled feta and pickled onions for tang."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

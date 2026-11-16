@@ -1,0 +1,68 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-lachs-im-blaetterteig",
+  "recipes": [
+    {
+      "name": "Veganer Lachs im Blätterteig",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-lachs-im-blaetterteig",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-lachs-im-blaetterteig#recipe-913c0b81-9385-5dec-a2d0-95fedb88ead2",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Blätterteigrolle",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT75M",
+      "ingredients": [
+        "Für den Spinat:",
+        "400 g Spinat (tiefgefroren)",
+        "1 Zwiebel",
+        "Pflanzenöl",
+        "Muskat",
+        "Salz",
+        "Pfeffer",
+        "Für den „Lachs“:",
+        "400 g Tofu",
+        "200 ml Gurkenwasser (aus einem Glas Gewürzgurken)",
+        "200 ml Wasser",
+        "1 Noriblatt",
+        "1 EL helle Misopaste",
+        "4 EL Sojasoße",
+        "1 EL Essig",
+        "2 TL Zwiebelpulver",
+        "2 TL Knoblauchpulver",
+        "1–2 Tropfen rote Lebensmittelfarbe (oder 1–2 EL Rote-Bete-Saft)",
+        "1 Zwiebel",
+        "Für den Dip:",
+        "100 g vegane Crème fraîche",
+        "100 g veganer Joghurt (ungesüßt)",
+        "10 g frischer Dill",
+        "0.5 Zitrone (Saft)",
+        "Salz",
+        "Pfeffer",
+        "Ansonsten:",
+        "1 veganer Blätterteig",
+        "10 ml vegane Kochsahne",
+        "1 Messerspitze Kurkuma",
+        "Sesam (hell und dunkel)"
+      ],
+      "instructions": [
+        "Spinat auftauen lassen. Zwiebel schälen und fein würfeln. In einem Topf Öl erhitzen, Zwiebelwürfel anbraten und den Spinat kurz mit anschwitzen. Mit Muskat, Salz und Pfeffer würzen. Anschließend komplett abtropfen und auskühlen lassen.",
+        "Mit einem scharfen Messer die Tofublocks zu Filets zurechtschneiden. Diese dafür an der Oberseite diagonal im Abstand von 1–2 Millimeter einschneiden, um möglichst nah an die Struktur von Lachs heranzukommen.",
+        "Gurkenwasser, Wasser, Noriblatt, Misopaste, Sojasoße, Essig, Zwiebel- und Knoblauchpulver in ein hohes Gefäß geben und mit einem Standmixer einige Minuten gut mixen, bis das Noriblatt fein gestückelt ist. Lebensmittelfarbe oder Rote-Bete-Saft hinzugeben, bis die Marinade hellrot ist.",
+        "Die Marinade in einen kleinen Topf geben und erhitzen. Eine Zwiebel achteln und ebenfalls in den Topf geben. Die Lachsfilets hineinlegen und circa 10 Minuten auf mittlerer Stufe köcheln. Dabei darauf achten, dass die Marinade auch zwischen die Einschnitte der Filets gelangt.",
+        "Den Backofen auf 200 °C (Umluft) vorheizen. Den Blätterteig ausrollen, die Hälfte des Spinats darauf verteilen, die Lachsfilets darauf legen und mit dem restlichen Spinat toppen, sodass der Tofu komplett mit Spinat umwickelt ist. Den Blätterteig falten und die „Naht“ nach unten drehen. Die Oberseite mit einem scharfen Messer einritzen. Sahne mit Kurkuma vermischen und mit einem Pinsel auf der Rolle verstreichen.",
+        "Die Blätterteigrolle bei 200 °C (Umluft) circa 20–25 Minuten backen, bis sie schön gebräunt ist. Nach der Hälfte der Zeit hellen und dunklen Sesam auf der Rolle verteilen.",
+        "In der Zwischenzeit den Dip aus Crème fraîche, Joghurt, gehacktem Dill, Zitronensaft, Salz und Pfeffer anrühren.",
+        "Den Lachs im Blätterteig mit Zitronenscheiben und Dill-Creme servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

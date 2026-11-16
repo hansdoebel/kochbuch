@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-franzbroetchen",
+  "recipes": [
+    {
+      "name": "Vegane Franzbrötchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-franzbroetchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-franzbroetchen#recipe-855163d7-032f-5794-aebd-757aee457288",
+      "authors": [
+        "Anneke Schügner"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 vegane Franzbrötchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT215M",
+      "ingredients": [
+        "Für den Hefeteig:",
+        "1 Würfel (42 g) frische Hefe",
+        "1 EL brauner Zucker",
+        "375 ml warmes Wasser",
+        "40 g Kokosnussöl",
+        "600 g Weizenmehl Type 405",
+        "1 TL Salz",
+        "250 g kalte vegane Butter",
+        "Für die Füllung:",
+        "3 EL Zimt",
+        "100-150 g brauner Zucker",
+        "5 EL vegane Butter"
+      ],
+      "instructions": [
+        "Für den Hefeteig in einer Schüssel die zerbröselte Hefe, mit dem braunen Zucker und dem lauwarmen Wasser mischen. Das Wasser sollte nicht zu heiß sein (nur lauwarm!). Die Mischung für 10 Minuten stehen lassen. Die Hefe sollte quellen und an die Wasseroberfläche aufsteigen.",
+        "Das Kokosnussöl erhitzen bis es flüssig wird. Es sollte aber ebenfalls nicht zu heiß sein. Dazugeben, genauso wie das Salz. Nun nach und nach 400 g Mehl unterkneten. Der Teig darf noch sehr klebrig sein.",
+        "Die Schüssel anschließend mit einem feuchten Tuch abdecken und an einem warmen Ort für eine Stunde gehen lassen. Nach einer Stunde, sollte der Teig gut aufgegangen sein und auf der Oberfläche des Teigs sollten viele Blasen zu sehen sein.",
+        "Nun nochmals 200 g Mehl hinzugeben und unterkneten. Jetzt solltet ihr auch eine Kugel formen können. Eine weitere Stunde gehen lassen.",
+        "Die kühlschrank-kalte, vegane Butter zwischen zwei Bögen Backpapier auf 20 x 25 cm ausrollen.",
+        "Den fertigen Hefeteig auf 30 x 25 cm ausrollen. Die ausgerollte Butter so auf dem Hefeteig platzieren, dass die 25 cm langen Kanten aufeinander liegen. Den ausgerollten Teig wie einen Brief falten. Hierzu von der schmalen Seite aus das nicht mit Butter bedeckte Drittel zur Mitte hin einschlagen. Dann das Drittel von der anderen Schmalseite darüber falten, sodass nun drei Teigschichten übereinander liegen. Den gefalteten Teig auf 30 x 50 cm ausrollen und erneut wie einen Brief falten und für 20 Minuten in den Kühlschrank legen.",
+        "In der Zwischenzeit die vegane Butter für die Füllung schmelzen.",
+        "Den Teig auf 60 x 40 cm ausrollen und mit der geschmolzenen Butter bestreichen und großzügig mit Zimt und Zucker bestreuen.",
+        "Den Teig anschließend an der langen Seite aufrollen und mit einem scharfen Messer in ca. 4-5 cm breite Stücke teilen.",
+        "Die Teiglinge mit dem Stiel eines Kochlöffels in der Mitte sanft eindrücken und erneut 20 Minuten gehen lassen. In der Zwischenzeit den Ofen auf 180°C (Umluft) vorheizen. Nach der Gehzeit die Teiglinge mit einem Pfannenwender platt drücken.",
+        "Die Franzbrötchen mit ausreichend Abstand für ca. 20-25 Minuten backen. In einem luftdichten Behälter halten sich die Franzbrötchen für ungefähr drei Tage."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

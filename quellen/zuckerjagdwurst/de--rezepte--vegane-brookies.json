@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-brookies",
+  "recipes": [
+    {
+      "name": "Vegane Brookies",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-brookies",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-brookies#recipe-421088d4-68d4-5723-bd0d-8be1df7ef998",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "9–12 Portionen (20 x 25 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "Für den Brownieteig:",
+        "200 g Weizenmehl (Type 405) oder Dinkelmehl (Type 603)",
+        "200 g Zucker",
+        "8 g Vanillezucker",
+        "50 g Kakaopulver",
+        "200 g Zartbitterschokolade",
+        "100 g Apfelmus",
+        "100 ml neutrales Pflanzenöl",
+        "200 ml pflanzliche Milch",
+        "Für den Cookie-Teig:",
+        "200 g Weizenmehl (Type 405) oder Dinkelmehl (Type 603)",
+        "80 g Zucker",
+        "125 g vegane Butter",
+        "8 g Vanillezucker",
+        "1 TL Backpulver",
+        "1 Prise Salz",
+        "2 EL Apfelmus",
+        "150 g Zartbitter-Schokoladentropfen"
+      ],
+      "instructions": [
+        "Für den Brownie-Teig Weizenmehl, Zucker, Vanillezucker und Kakaopulver in einer Schüssel vermischen. Die Zartbitterschokolade im Wasserbad schmelzen.",
+        "Anschließend die geschmolzene Schokolade, Apfelmus, Pflanzenöl und pflanzliche Milch zu den trockenen Zutaten geben, gut unterrühren und in eine eingefettete Form (20 x 25 cm) geben.",
+        "Den Backofen auf 180 °C (Umluft) vorheizen. Für den Cookie-Teig Weizenmehl, Zucker, vegane Butter, Vanillezucker, Backpulver, Salz und Apfelmus in einer Schüssel vermengen, bis sich eine große Kugel formen lässt. Die Schokotropfen ebenfalls untermischen.",
+        "Den Cookie-Teig auf dem Brownie-Teig „in Fetzen“ verteilen und für 30 Minuten im Ofen auf mittlerer Schiene backen. Nach 30 Minuten den Ofen ausschalten und den Brookie im Ofen bei geschlossener Tür abkühlen lassen. Sobald die Brookies abgekühlt sind in Stücke schneiden und servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

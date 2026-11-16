@@ -1,0 +1,38 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/toasted-seasoned-breadcrumbs-648",
+  "recipes": [
+    {
+      "name": "Toasted Seasoned Bread Crumbs",
+      "source_url": "https://www.pickuplimes.com/recipe/toasted-seasoned-breadcrumbs-648",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT02M",
+      "cook_time": "PT05M",
+      "total_time": "PT07M",
+      "ingredients": [
+        "1 Tbsp olive oil",
+        "½ cup panko bread crumbs",
+        "2 tsp Italian seasoning",
+        "⅛ tsp salt"
+      ],
+      "instructions": [
+        "Heat the oil in a medium pan over medium-high heat. Add the panko, spice mix, and salt.",
+        "Stir frequently for 4 to 5 minutes, or until the bread crumbs are golden.",
+        "Allow to cool completely before storing. Enjoy on your favourite pasta, soups, salads, or casseroles!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Keep in an airtight container at room temperature for up to 2 weeks."
+  ]
+}

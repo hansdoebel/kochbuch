@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/walnusskuchen-mit-walnussfrosting",
+  "recipes": [
+    {
+      "name": "Walnusskuchen mit Walnussfrosting",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/walnusskuchen-mit-walnussfrosting",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/walnusskuchen-mit-walnussfrosting#recipe-27b87fec-d96c-5850-bd78-81d827c9a3e7",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "Für den Kuchen",
+        "300 g Mehl",
+        "200 g brauner Zucker",
+        "100 g gemahlene Walnüsse",
+        "50 g gehackte Walnüsse",
+        "1 EL Backpulver",
+        "3 EL Walnussmus (z.B. von Keimling)",
+        "1 EL Apfelessig",
+        "300 ml Hafermilch",
+        "2 EL Agavendicksaft (z.B. von Keimling)",
+        "Frosting",
+        "125 g Walnussmus",
+        "75 g Kokosöl",
+        "1 TL Vanilleextrakt",
+        "2 EL Agavendicksaft",
+        "100 g Puderzucker",
+        "1 TL - EL Hafermilch"
+      ],
+      "instructions": [
+        "Mehl, braunen Zucker, gemahlene Walnüsse und Backpulver in einer Schüssel verrühren.",
+        "Apfelessig, Walnussmus und Hafermilch dazugeben und zu einem glatten Teig vermengen, das geht am besten mit einer Küchenmaschine oder einem Handrührgerät. Zum Schluss gehackte Walnüsse unter den Teig heben.",
+        "Backofen auf 175°C vorheizen. Eure Kastenform mit veganer Butter einfetten und mit Mehl ausklopfen. Den Teig hineinfüllen und den Kuchen ca. 45 Minuten backen. Testet den Kuchen am besten mit einem Holzspieß, den ihr schräg in den Teig stecht: Wenn kein Teig daran kleben bleibt, ist der Kuchen fertig gebacken. Anschließend den Kuchen erst in der Form kurz abkühlen lassen und dann stürzen und auf einem Kuchengitter komplett auskühlen.",
+        "In der Zwischenzeit Walnussbutter, Kokosnussöl, Agavendicksaft und Vanilleextrakt in einer Schüssel schlagen, bis die Mischung cremig und vermengt ist. Etwas Salz dazugeben und Puderzucker hineinsieben und weiterschlagen, bis alles cremig und vermengt ist. Wenn euch die Mischung zu trocken ist, gebt ein kleines bisschen Hafermilch dazu, es reichen aber wahrscheinlich schon 1 TL - 1 EL.",
+        "Das Walnusstopping auf den Kuchen geben und servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

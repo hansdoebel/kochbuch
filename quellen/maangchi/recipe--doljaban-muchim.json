@@ -1,0 +1,77 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/doljaban-muchim",
+  "recipes": [
+    {
+      "name": "Seasoned seaweed (Doljaban-muchim)",
+      "source_url": "https://www.maangchi.com/recipe/doljaban-muchim",
+      "recipe_id": "/recipe/doljaban-muchim#sso/recipe/16008",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Doljaban, garlic, green onions, soy sauce, sugar, toasted sesame oil, sesame seeds."
+      ],
+      "instructions": [
+        "Measure 100 grams of doljaban from the package.",
+        "Tear or crush the doljaban into small pieces with both hands and place it in the seasoning sauce in the bowl.",
+        "Mix it well until moisture is absorbed.",
+        "Sprinkle 2-3 tbs roasted sesame seeds and mix it together.",
+        "Serve with rice, kimchi, soup, and a few more side dishes."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Doljaban, garlic, green onions, soy sauce, sugar, toasted sesame oil, sesame seeds."
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "p",
+          "text": "In a large mixing bowl, add 3 cloves of minced garlic, 3 chopped green onions, 3 tbs soy sauce, ⅓ cup water, 1 tbs sugar or honey, 3 tbs toasted sesame oil, and mix well with a wooden spoon"
+        },
+        {
+          "tag": "li",
+          "text": "Measure 100 grams of doljaban from the package."
+        },
+        {
+          "tag": "li",
+          "text": "Tear or crush the doljaban into small pieces with both hands and place it in the seasoning sauce in the bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Mix it well until moisture is absorbed."
+        },
+        {
+          "tag": "li",
+          "text": "Sprinkle 2-3 tbs roasted sesame seeds and mix it together."
+        },
+        {
+          "tag": "li",
+          "text": "Serve with rice, kimchi, soup, and a few more side dishes."
+        },
+        {
+          "tag": "p",
+          "text": "You can keep it in the fridge up to 1 week."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

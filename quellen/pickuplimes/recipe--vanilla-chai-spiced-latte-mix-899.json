@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vanilla-chai-spiced-latte-mix-899",
+  "recipes": [
+    {
+      "name": "Vanilla Chai Spiced Latte Mix",
+      "source_url": "https://www.pickuplimes.com/recipe/vanilla-chai-spiced-latte-mix-899",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "20 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "⅔ cup granulated sugar",
+        "⅓ cup vanilla sugar",
+        "½ cup instant coffee granules",
+        "1 Tbsp ground cinnamon",
+        "1 tsp ground ginger",
+        "½ tsp ground cardamom",
+        "¼ tsp ground cloves"
+      ],
+      "instructions": [
+        "Mix all the ingredients together.",
+        "When you're ready to make a latte, add 1 Tbsp of the mix to a cup.",
+        "Then add 1 cup (240 mL) of hot barista oat milk or any plant-based milk of your choosing.",
+        "Top with whipped cream, foam, or a sprinkle of cinnamon, if desired. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Vanilla sugar is granulated sugar infused with vanilla beans, commonly used in European kitchens. It can easily be substituted with regular granulated sugar and a splash of vanilla extract.",
+    "Storage Store sealed in a well-sealed jar in a cool and dry place for up to 6 months."
+  ]
+}

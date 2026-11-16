@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-chicken-sandwich-mit-gurke-minz-salat",
+  "recipes": [
+    {
+      "name": "Veganes „Chicken“-Sandwich mit Gurke-Minz-Salat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-chicken-sandwich-mit-gurke-minz-salat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-chicken-sandwich-mit-gurke-minz-salat#recipe-e940dea8-3f90-58cf-ad5d-6a3caa14fa11",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 große Sandwiches",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für das vegane „Chicken“:",
+        "50 g Hafer Flakes (z. B. von barnhouse)",
+        "50 g pflanzlicher Natur-Joghurt",
+        "200 g veganer Hähnchen-Ersatz",
+        "Muskat",
+        "edelsüßes Paprikapulver",
+        "Salz",
+        "Pfeffer",
+        "Für den Gurke-Minz-Salat:",
+        "1 Gurke",
+        "0.5 rote Zwiebel",
+        "15 g Minze",
+        "50 ml Olivenöl",
+        "Zitronensaft",
+        "Salz",
+        "Pfeffer",
+        "Für die vegane Joghurtcreme:",
+        "10 g Minze",
+        "10 g Basilikum",
+        "200 g pflanzlicher Natur-Joghurt",
+        "Zitronensaft",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "50 g Kopfsalat",
+        "4 Radieschen",
+        "2 Baguettes",
+        "100 g getrocknete Tomaten"
+      ],
+      "instructions": [
+        "Den Ofen auf 200°C Ober- und Unterhitze vorheizen und ein Backblech mit Backpapier belegen.",
+        "Für das vegane \"Chicken\" die Hafer Flakes in einen verschließbaren Beutel geben und mit einem Nudelholz darüber rollen, sodass diese deutlich feiner werden. Die Flakes in eine Schüssel oder einen tiefen Teller geben.",
+        "Den pflanzlichen Natur-Joghurt ebenfalls in einen tiefen Teller geben und kräftig mit Muskat, Paprikapulver, Salz und Pfeffer würzen. Das vegane Hähnchen erst in die pflanzliche Joghurt-Mischung dippen und dann in den zerkleinerten Hafer Flakes wenden, bis sie rundum bedeckt sind. Die panierten Stückchen auf dem Backblech verteilen und ca. 10-15 Minuten bei 200°C backen.",
+        "In der Zwischenzeit den Gurke-Minz-Salat vorbereiten. Die Gurke waschen und in feine Scheiben schneiden. Rote Zwiebel schälen, halbieren und in dünne Scheiben schneiden und Minzblätter waschen und fein hacken. Gurke, Zwiebel, Minze und Olivenöl in eine Schüssel geben und vermengen. Mit Zitronensaft, Salz und Pfeffer abschmecken.",
+        "Für die vegane Joghurtcreme Minzblätter vom Stiel zupfen und zusammen mit Basilikum waschen. Beides zusammen mit pflanzlichem Natur-Joghurt pürieren und ebenfalls mit Zitronensaft, Salz und Pfeffer abschmecken.",
+        "Den Kopfsalat und die Radieschen waschen und klein schneiden. Die Baguettes aufschneiden, mit der veganen Joghurtcreme bestreichen und mit Salat, getrockneten Tomaten, dem knusprigen veganen Hühnchen, Gurke-Minz-Salat und Radieschen belegen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

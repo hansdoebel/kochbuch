@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-cashew-gemuese-pfanne-mit-reis",
+  "recipes": [
+    {
+      "name": "Schnelle Cashew-Gemüse-Pfanne mit Reis",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-cashew-gemuese-pfanne-mit-reis",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-cashew-gemuese-pfanne-mit-reis#recipe-49b7561a-4a7b-54d5-9214-0e002a49b1d1",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Gemüsepfanne:",
+        "400 g Brokkoli",
+        "1 Paprika",
+        "1 Pak Choi",
+        "1 rote Zwiebel",
+        "200 g Cashewkerne",
+        "Pflanzenöl zum Braten",
+        "Für die Soße:",
+        "35 g Ingwer",
+        "2 Knoblauchzehen",
+        "1 rote Chilischote",
+        "75 ml Sojasoße",
+        "2 EL Agavendicksaft",
+        "2 EL Reisessig (oder Apfelessig)",
+        "75 ml Wasser",
+        "1 EL Speisestärke",
+        "Außerdem:",
+        "250 g Basmatireis",
+        "1 Frühlingszwiebel",
+        "3 EL heller Sesam"
+      ],
+      "instructions": [
+        "Den Basmatireis nach Packungsanleitung zubereiten. Meist kocht man ihn ca. 20 Minuten in der doppelten Menge gesalzenem Wasser, bis das Wasser vom Reis komplett aufgesogen ist. Wenn er noch zu bissfest ist, noch etwas mehr Wasser dazugeben.",
+        "Brokkoli, Paprika und Pak Choi waschen. Brokkoli in Röschen und Paprika in Streifen schneiden. Pak Choi klein schneiden. Zwiebel schälen, halbieren und in Scheiben schneiden.",
+        "Pflanzenöl in einer Pfanne erhitzen und den Brokkoli bei mittlerer Hitze ca. 5 Minuten anbraten. Danach Paprika, Zwiebel und Cashewkerne hinzugeben und weitere ca. 8-10 Minuten anbraten, bis das Gemüse leicht gebräunt ist. Erst kurz vor Schluss Pak Choi dazugeben.",
+        "Während das Gemüse anbrät, die Soße vorbereiten. Ingwer und Knoblauch schälen und fein hacken. Die rote Chilischote entkernen und in dünne Ringe schneiden. Ingwer, Knoblauch, Chilischote, Sojasoße, Agavendicksaft und Reisessig in einer Schüssel verrühren. Das Wasser mit der Speisestärke in einer separaten Schüssel verrühren und ebenfalls hinzugeben.",
+        "Wenn das Gemüse weicher geworden ist, aber noch Biss hat, die Soße in die Pfanne geben (kurz vorher nochmal umrühren, denn die Speisestärke setzt sich gerne ab) und ca. 2-3 Minuten erwärmen. Die Pfanne vom Herd nehmen und die Cashew-Gemüse-Pfanne mit gekochtem Reis servieren. Zum Servieren eine Frühlingszwiebel in dünne Ringe schneiden und gemeinsam mit Sesam über das fertige Gericht streuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

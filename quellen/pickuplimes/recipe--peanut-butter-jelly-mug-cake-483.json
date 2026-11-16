@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/peanut-butter-jelly-mug-cake-483",
+  "recipes": [
+    {
+      "name": "Peanut Butter & Jelly Mug Cake",
+      "source_url": "https://www.pickuplimes.com/recipe/peanut-butter-jelly-mug-cake-483",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT02M",
+      "total_time": "PT07M",
+      "ingredients": [
+        "2 Tbsp all-purpose flour",
+        "¼ tsp baking powder",
+        "1 pinch salt",
+        "2 Tbsp natural peanut butter",
+        "1½ Tbsp unsweetened soy milk",
+        "1 Tbsp maple syrup",
+        "½ tsp pure vanilla extract",
+        "2 Tbsp berry chia jam"
+      ],
+      "instructions": [
+        "In a large microwavable mug, mix together the flour, baking powder, and salt. Then add the peanut butter, milk, maple syrup, and vanilla extract. Mix until just combined. Be careful not to over-mix.",
+        "Add the jam, and gently swirl it into the batter. Microwave on high (800 - 900 W) for 2 minutes, or until a toothpick inserted into the centre comes out clean*.",
+        "Let the mug cake cool slightly, add your desired toppings, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * The cooking time may vary depending on your microwave and settings. If uncooked after 2 minutes, microwave at 15-seconds intervals until done.",
+    "Storage This dessert is best enjoyed immediately."
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/crunchy-sesame-snaps-456",
+  "recipes": [
+    {
+      "name": "Crunchy Sesame Snaps",
+      "source_url": "https://www.pickuplimes.com/recipe/crunchy-sesame-snaps-456",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "20 bite-sized snaps",
+      "prep_time": "PT07M",
+      "cook_time": "PT20M",
+      "total_time": "PT27M",
+      "ingredients": [
+        "½ cup raw sesame seeds",
+        "¼ cup raw pumpkin seeds",
+        "2 Tbsp maple syrup",
+        "1½ Tbsp coconut sugar",
+        "½ Tbsp refined coconut oil"
+      ],
+      "instructions": [
+        "Line a baking tray and preheat the oven to 300°F (150°C)*.",
+        "Add all of the ingredients to a medium bowl. Mix well, then transfer the mixture to the baking tray.",
+        "Add another piece of parchment paper on top and roll it flat using a rolling pin. Use your fingers or the back of a spoon to tuck in the sides to create a rectangular shape.",
+        "Remove the top parchment paper, and bake in the middle rack of the oven for 18 to 20 minutes, or until lightly golden. When removed from the oven, let it cool completely. It will continue to harden as it cools. When cooled, slice the sesame slab into bite-sized squares. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Refined coconut oil is coconut oil that doesn't smell or taste like coconuts. If you prefer a distinct coconut taste, use unrefined coconut oil instead. * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Store in an airtight container on the counter for up to 3 days. Store in the fridge for up to 1 week. Store in the freezer for up to 2 months."
+  ]
+}

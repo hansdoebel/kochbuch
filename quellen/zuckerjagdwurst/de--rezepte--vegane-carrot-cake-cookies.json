@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-carrot-cake-cookies",
+  "recipes": [
+    {
+      "name": "Carrot Cake Cookies",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-carrot-cake-cookies",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-carrot-cake-cookies#recipe-c83c6d42-5455-518b-a1a1-1ac1fb8faf2b",
+      "authors": [
+        "Anneke Schügner"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Cookies",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "Für die Cookies:",
+        "200 g Karotten",
+        "250 g Mehl (Type 405)",
+        "100 g brauner Zucker",
+        "150 g gehackte Mandeln",
+        "0.5 TL gemahlene Muskatnuss",
+        "1 TL Zimt",
+        "8 g Vanillezucker",
+        "8 g Backpulver",
+        "200 g pflanzlicher Natur-Joghurt",
+        "125 g vegane Butter (Raumtemperatur)",
+        "0.5 Limette (Abrieb)",
+        "Für das Frosting:",
+        "100 g Puderzucker",
+        "50 g veganer Frischkäse",
+        "0.25 Limette (Abrieb)",
+        "Außerdem:",
+        "Pistazien"
+      ],
+      "instructions": [
+        "Ofen auf 180 °C (Umluft) vorheizen. Die Möhren waschen und mit einer Reibe grob raspeln. Anschließend in einer großen Schüssel Mehl, braunen Zucker, gehackte Mandeln, Muskatnuss, Zimt, Vanillezucker und Backpulver vermengen. Anschließend den veganen Joghurt, die weiche vegane Butter und die Limettenzeste hinzufügen und gut vermengen. Zuletzt die geraspelten Karotten unterheben.",
+        "Den Teig mit einem Eisportionierer zu Kugeln formen und auf einem mit Backpapier ausgelegten Backblech mit ausreichend Abstand verteilen. Im vorgeheizten Ofen bei 180 °C (Umluft) für 20 Minuten backen.",
+        "In der Zwischenzeit das Frosting zubereiten. Dafür Puderzucker mit veganem Frischkäse und Limettenabrieb vermengen. Kaltstellen bis die Cookies fertig gebacken und abgekühlt sind.",
+        "Die abgekühlten Cookies mit dem Frosting verzieren und mit gehackten Pistazien dekorieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

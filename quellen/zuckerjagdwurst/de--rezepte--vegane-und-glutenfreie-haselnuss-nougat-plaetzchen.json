@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-und-glutenfreie-haselnuss-nougat-plaetzchen",
+  "recipes": [
+    {
+      "name": "Vegane und glutenfreie Haselnuss-Nougat-Plätzchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-und-glutenfreie-haselnuss-nougat-plaetzchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-und-glutenfreie-haselnuss-nougat-plaetzchen#recipe-5ba6be6b-afe4-5750-8019-71cb8568f15f",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "circa 25 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT105M",
+      "ingredients": [
+        "Für den Keksteig:",
+        "200 g glutenfreies Mehl (z. B. Mix – Kuchen und Kekse von Schär)",
+        "50 g Zucker",
+        "40 g gemahlene Haselnüsse",
+        "8 g (1.5 TL) Vanillezucker",
+        "1 Prise Salz",
+        "125 g vegane Margarine",
+        "Für den Nussmantel:",
+        "100 g Haselnüsse",
+        "Für die Nougat-Füllung:",
+        "200 g veganes Backnougat",
+        "50 g Zartbitterschokolade",
+        "Meersalzflocken (optional)"
+      ],
+      "instructions": [
+        "Für den Teig Mehl, Zucker, gemahlene Haselnüsse, Vanillezucker und Salz in einer großen Schüssel vermengen. Vegane Margarine dazugeben und alles zu einem glatten Teig verkneten. Den Teig zu einer langen, dicken Rolle formen und mindestens 1 Stunde im Kühlschrank ruhen lassen.",
+        "In der Zwischenzeit die Haselnüsse für den Nussmantel klein hacken und optional kurz durchsieben, damit ihr wirklich nur die kleinen Stückchen übrig habt.",
+        "Backofen auf 180 °C (Ober-/Unterhitze) vorheizen. Die gekühlte Teigrolle aus dem Kühlschrank nehmen und in circa 1 Zentimeter dicke Scheiben schneiden. Diese jeweils zu kleinen Kugeln formen, dann in den gehackten Haselnüssen wenden und auf ein mit Backpapier ausgelegtes Backblech legen – dabei zwischen den Teigkugeln etwas Abstand lassen. Mit dem Daumen eine Mulde in der Mitte formen.",
+        "Die Plätzchen bei 180 °C (Ober-/Unterhitze) 12–15 Minuten backen, bis sie an den Rändern leicht bräunen. Aus dem Ofen nehmen und auf einem Gitter abkühlen lassen. Vorher nochmal vorsichtig die Mulde in der Mitte flacher drücken.",
+        "In der Zwischenzeit Nougat und Zartbitterschokolade über einem Wasserbad schmelzen und die Mischung etwas abkühlen lassen. Mit einem Spritzbeutel oder einem Löffel in die Plätzchenmulden füllen und optional mit einer Prise Meersalzflocken bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

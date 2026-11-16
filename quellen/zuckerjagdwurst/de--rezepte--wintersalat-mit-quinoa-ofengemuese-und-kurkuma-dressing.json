@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/wintersalat-mit-quinoa-ofengemuese-und-kurkuma-dressing",
+  "recipes": [
+    {
+      "name": "Wintersalat mit Couscous, Quinoa, Ofengemüse und Kurkuma-Dressing",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/wintersalat-mit-quinoa-ofengemuese-und-kurkuma-dressing",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/wintersalat-mit-quinoa-ofengemuese-und-kurkuma-dressing#recipe-8de381bf-f142-52b9-8a11-4d78e8e2ce95",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "50 g Couscous",
+        "50 g roter Quinoa",
+        "200 g Pastinake",
+        "2 Möhre",
+        "1 TL getrockneter Rosmarin",
+        "0.5 TL Kreuzkümmel",
+        "0.5 TL getrockneter Thymian",
+        "150 g rote Bete",
+        "1 Granatapfel",
+        "1 Orange",
+        "1 Apfel",
+        "1 rote Zwiebel",
+        "50 g Feldsalat",
+        "50 g Pistazien",
+        "Salz",
+        "Für das Dressing:",
+        "6 EL Olivenöl",
+        "1.5 TL Kurkuma",
+        "0.5 TL Sumach",
+        "2 TL Zitronensaft",
+        "1.5 TL Senf",
+        "3 TL Ahornsirup",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Couscous mit einer Prise Salz in eine Schüssel geben und mit kochendem Wasser bedecken, bis ca. 1 cm mehr Wasser über dem Couscous ist. Abdecken und ca. 5 Minuten quellen lassen. Danach den Couscous mit einer Gabel auflockern und abkühlen lassen.",
+        "Parallel dazu Quinoa unter Wasser abspülen und mit der doppelten Menge Wasser in einen Topf geben. Leicht salzen und alles einmal aufkochen lassen. Danach mit Deckel ca. 15 Minuten über mittlerer Hitze köcheln lassen. Danach abkühlen lassen.",
+        "Den Backofen auf 200°C vorheizen. Während Couscous und Quinoa kochen, Pastinake und rote Bete schälen und genau wie die Möhre in mundgerechte kleine Stücke schneiden. Möhren und Pastinaken auf eine Hälfte eines Backblechs und rote Bete auf die andere Hälfte des Backblechs geben. Alles mit Olivenöl beträufeln und mit Salz und Pfeffer würzen. Zusätzlich den Möhre-Pastinaken-Mix mit getrocknetem Rosmarin und Kreuzkümmel würzen und den getrockneten Thymian an die rote Bete geben. Das Gemüse ca. 20 Minuten im Backofen rösten.",
+        "In dieser Zeit den Granatapfel entkernen. Die Orange und den Apfel klein schneiden, die rote Zwiebel fein würfeln und den Feldsalat vorbereiten. Pistazien in einer fettfreien Pfanne anrösten.",
+        "Für das Dressing Olivenöl, Kurkuma, Sumach, Zitronensaft, Senf und Ahornsirup verrühren und mit Salz und Pfeffer abschmecken.",
+        "Zum Servieren Couscous, Quinoa, das Ofengemüse und alle frischen Zutaten in einer großen Schüssel mit dem Dressing vermengen. Die gerösteten Pistazien darüber streuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

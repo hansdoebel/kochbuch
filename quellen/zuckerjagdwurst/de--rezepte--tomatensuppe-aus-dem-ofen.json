@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tomatensuppe-aus-dem-ofen",
+  "recipes": [
+    {
+      "name": "Tomatensuppe aus dem Ofen mit knusprigen Kräuter-Croûtons",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tomatensuppe-aus-dem-ofen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/tomatensuppe-aus-dem-ofen#recipe-b7f89e79-436b-54cb-a185-ae50e1aab9c4",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "1 kg Tomaten",
+        "2 Zwiebeln",
+        "3 Knoblauchzehen",
+        "3 EL Olivenöl",
+        "20 g Basilikum",
+        "200 ml Gemüsebrühe",
+        "1 TL Misopaste (optional)",
+        "Salz",
+        "Pfeffer",
+        "Basilikum zum Servieren",
+        "Basilikumöl zum Servieren",
+        "pflanzliche Sahne zum Servieren",
+        "Für die Croûtons:",
+        "4 Scheiben Weißbrot",
+        "2 EL Olivenöl",
+        "1 EL getrockneter Oregano",
+        "1 TL getrockneter Basilikum",
+        "Salz"
+      ],
+      "instructions": [
+        "Den Backofen auf 180°C vorheizen. Tomaten waschen und je nach Größe entweder halbieren oder vierteln. Zwiebel schälen und vierteln, die Knoblauchzehen schälen und halbieren.",
+        "Alles zusammen auf einem Backblech verteilen, mit Olivenöl beträufeln und mit Salz und Pfeffer würzen. Alles vermengen und bei 180°C ca. 30 Minuten rösten.",
+        "In der Zwischenzeit Weißbrot in Würfel schneiden und auf einem zweiten Backblech verteilen. Die Brotwürfel ebenfalls mit Olivenöl beträufeln und mit Oregano, Basilikum und Salz bestreuen. Alles gut vermengen und bei den letzten 15 Minuten mit in den Backofen schieben, bis sie knusprig sind.",
+        "Die Rösttomaten mit der Zwiebel und dem Knoblauch in einen großen Topf umfüllen, frischen Basilikum, Gemüsebrühe und Misopaste dazugeben und alles gut durchpürieren. Nach Wunsch könnt ihr auch mehr Flüssigkeit dazugeben. Mit Salz und Pfeffer abschmecken.",
+        "Die Tomatensuppe mit knusprigen Croûtons, ein bisschen Basilikum-Olivenöl, pflanzlicher Sahne und frischen Pfeffer servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

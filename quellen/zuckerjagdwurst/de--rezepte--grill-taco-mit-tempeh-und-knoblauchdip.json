@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/grill-taco-mit-tempeh-und-knoblauchdip",
+  "recipes": [
+    {
+      "name": "Grill-Tacos mit Tempeh & Knoblauchdip",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/grill-taco-mit-tempeh-und-knoblauchdip",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/grill-taco-mit-tempeh-und-knoblauchdip#recipe-31887837-2d31-54aa-a588-60e0053d2de1",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "6 weiche Tacos",
+        "0.25 Paprika",
+        "0.25 Zucchini",
+        "0.25 Aubergine",
+        "6-12 Balsamico-Zwiebeln",
+        "100 g schwarze Oliven",
+        "200 g Tempeh Natur",
+        "100 g Ajvar",
+        "Knoblauchsoße",
+        "200 g Sojajoghurt",
+        "2 Knoblauchzehen",
+        "5 g frische Petersilie",
+        "Salz & Pfeffer"
+      ],
+      "instructions": [
+        "Den Grill falls notwendig vorbereiten und erhitzen.",
+        "Den Tempeh in Scheiben schneiden und das Gemüse waschen und in mundgerechte Stücken schneiden.",
+        "Das Gemüse in einer Schüssel mit etwas Olivenöl, Salz und Pfeffer würzen.",
+        "Den Tempeh und das Gemüse auf den Grill legen und von beiden Seiten grillen.",
+        "Für den Knoblauchdip die Petersilie waschen und fein hacken. Die Knoblauchzehen schälen.",
+        "In einer kleinen Schüssel den Sojajoghurt mit der Petersilie vermischen und die Knoblauchzehen mithilfe einer Knoblauchpresse hinzugeben. Mit Salz und Pfeffer abschmecken.",
+        "Die Tacos mit Ajvar bestreichen, mit Tempeh und dem gegrillten Gemüse belegen und mit dem Knoblauchdip, den Oliven und den Balsamico Zwiebeln belegen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

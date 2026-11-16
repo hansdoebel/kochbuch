@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/spaghettini-in-veganer-brauner-butter-mit-mandel-gremolata",
+  "recipes": [
+    {
+      "name": "Spaghettini in veganer brauner Butter mit Mandel-Gremolata",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/spaghettini-in-veganer-brauner-butter-mit-mandel-gremolata",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/spaghettini-in-veganer-brauner-butter-mit-mandel-gremolata#recipe-0ace42ed-7465-5f86-a06f-605bf0640638",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Für die Pasta:",
+        "300 g Dinkel-Spaghettini (z. B. von DINKEL MAX)",
+        "Für die Mandel-Gremolata:",
+        "60 g Mandeln",
+        "30 g Petersilie",
+        "0.5 Zitrone (Abrieb und Saft)",
+        "Salz",
+        "Pfeffer",
+        "Für die vegane braune Butter:",
+        "150 g vegane Butter",
+        "1 Zwiebel",
+        "3 Knoblauchzehen",
+        "50 g dunkles Mandelmus",
+        "0.5 TL Chiliflocken",
+        "0.5 Zitrone (Saft)",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Für die Gremolata Mandeln in einer fettfreien Pfanne rösten, bis sie leicht gebräunt sind. Danach aus der Pfanne nehmen und fein hacken. Petersilie waschen und ebenfalls fein hacken. Mandeln, Petersilie und Zitronenabrieb in einer kleinen Schüssel vermengen. Mit Salz, Pfeffer und Zitronensaft abschmecken und beiseitestellen.",
+        "Gesalzenes Wasser in einem Topf zum Kochen bringen und die Dinkelnudeln darin nach Packungsanleitung kochen. Vor dem Abgießen etwas vom Nudelwasser auffangen und beiseitestellen.",
+        "Für die Soße Zwiebel schälen und ganz fein würfeln. Knoblauchzehen schälen und in dünne Scheiben schneiden.",
+        "125 g der Butter in einer Pfanne bei kleiner Hitze schmelzen. Zwiebeln, Knoblauch und Chiliflocken hinzugeben und ca. 5-10 Minuten darin anschwitzen, bis die vegane Butter gebräunt ist. Danach das dunkle Mandelmus und Zitronensaft hinzugeben und gut verrühren. Die vegane Buttersoße nochmal aufköcheln lassen. Kurz vor dem Servieren vom Herd nehmen und die restlichen 25 g Butter für die Cremigkeit hinzugeben und schmelzen lassen.",
+        "Die Dinkel-Spaghettini direkt in der braunen Butter schwenken. Dabei etwas vom Kochwasser der Nudeln dazugeben, bis eine sämige Soße entsteht. Die Pasta mit Gremolata bestreuen und servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

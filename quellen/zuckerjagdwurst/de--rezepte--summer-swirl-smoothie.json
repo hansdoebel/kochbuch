@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/summer-swirl-smoothie",
+  "recipes": [
+    {
+      "name": "Summer Swirl Smoothie",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/summer-swirl-smoothie",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/summer-swirl-smoothie#recipe-e7a09668-9a85-5885-92f4-0da67172a796",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Smoothies",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT135M",
+      "ingredients": [
+        "FÜR GEFRORENE BEEREN",
+        "100 g Blaubeeren",
+        "3 EL pflanzlicher Joghurt",
+        "FÜR JOGHURTSCHICHT",
+        "500 ml pflanzlicher Joghurt",
+        "1 TL Ahornsirup",
+        "1 Limette (Abrieb)",
+        "5 g Vanilleextrakt",
+        "FÜR BEERENSCHICHT",
+        "250 g gefrorene Waldbeere",
+        "200 ml Wasser",
+        "1 EL Ahornsirup"
+      ],
+      "instructions": [
+        "Für die Frozen Yoghurt Berrys bereitet ihr am besten schon mal einen flachen Teller vor, auf den ihr Backpapier legt. Füllt den pflanzlichen Joghurt in eine kleine Schale und tunkt die Blaubeeren kurz hinein, bis sie vollständig ummantelt sind. Anschließend auf den Teller mit Backpapier legen. Der Teller geht für circa 2 Stunden ab in den Gefrierschrank. Je nach Power eures Gefrierschranks kann die Zeit auch variieren.",
+        "Für die erste Schicht püriert ihr den pflanzlichen Joghurt mit Vanilleextrakt und Agavendicksaft. In ein Gefäß umfüllen und in den Kühlschrank stellen. Für die zweite Schicht püriert ihr Waldbeeren mit Wasser und Ahornsirup. Ebenfalls in ein Gefäß füllen und in den Kühlschrank stellen.",
+        "Wenn eure Frozen Yoghurt Berrys gefroren sind, nehmt ihr euch ein Glas, gebt die helle Smoothie-Schicht hinein und die Waldbeerschicht darauf. Mit einem langen Löffel oder dem Griff einer Gabel einmal vorsichtig verrühren, um beide Schichten zu verbinden. So kommt der Swirl in den Summer Smoothie! Die Frozen Yoghurt Berrys auf dem Smoothie verteilen und Prost!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

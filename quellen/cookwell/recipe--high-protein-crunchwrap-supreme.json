@@ -1,0 +1,52 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/high-protein-crunchwrap-supreme",
+  "recipes": [
+    {
+      "name": "High Protein Crunchwrap Supreme",
+      "source_url": "https://app.cookwell.com/recipe/high-protein-crunchwrap-supreme",
+      "recipe_id": "https://app.cookwell.com/recipe/high-protein-crunchwrap-supreme",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4-5 Crunchwraps",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "93/7 ground beef, 450 g",
+        "Salt, 4 g",
+        "Homemade taco seasoning, 15 g",
+        "Tomato Paste, 10 g",
+        "Cornstarch slurry, a spoonful",
+        "Low-fat sour cream, 2 parts",
+        "Mayonnaise, 1 part",
+        "Hot Sauce, a spoonful",
+        "Dried dill, a spoonful",
+        "Onion Powder, a sprinkle",
+        "Chili Powder, a sprinkle",
+        "Pickle juice, a splash",
+        "high protein tortilla wrap, 4-5",
+        "Tostadas, 4-5",
+        "Cheddar",
+        "Lettuce",
+        "Tomatoes",
+        "Red Onions"
+      ],
+      "instructions": [
+        "Preheat a skillet over medium-high heat. Press the ground meat into an even layer across the cooking surface so it can sear undisturbed on one side. When the meat is beginning to brown on the bottom, sprinkle with salt and taco seasoning, then begin flipping & mixing the meat to distribute the seasoning.",
+        "Add a squirt or spoonful of tomato paste. Using a potato masher, smash the beef up into small pebble-like bits. Once everything is cooked through and browned, add the cornstarch slurry, and continue cooking until well combined and the juices have formed a sauce that clings to the beef. Set aside or store for later use.",
+        "Mix together the sour cream, mayo, chipotle hot sauce, dried spices, and splash of pickle juice until well combined. Adjust with more seasonings, hot sauce, or liquid until it reaches your desired taste and texture.",
+        "Lay down a high-protein flour tortilla. Add about 20 g of grated cheese and 100 g of the cooked beef in the center. Add a drizzle of sauce, then layer on a tostada, lettuce, tomato, onion, and more sauce, if desired. Working in a circular pattern, fold the flour tortilla towards the center to enclose the fillings.",
+        "Place the folded side face down in a hot pan or griddle and crisp the bottom of the crunchwrap to seal, then flip and crisp the top until golden browned. Repeat with remaining crunchwraps. Cut in half and enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

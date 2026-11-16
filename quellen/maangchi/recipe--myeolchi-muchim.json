@@ -1,0 +1,99 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/myeolchi-muchim",
+  "recipes": [
+    {
+      "name": "Seasoned dried anchovies (Myeolchi-muchim)",
+      "source_url": "https://www.maangchi.com/recipe/myeolchi-muchim",
+      "recipe_id": "/recipe/myeolchi-muchim#sso/recipe/34519",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "½ cup tiny dried anchovies",
+        "1 teaspoon Korean hot pepper flakes (gochugaru)",
+        "1 teaspoon soy sauce",
+        "1 teaspoon white or cider vinegar",
+        "1 teaspoon rice syrup or corn syrup",
+        "1 clove garlic, minced",
+        "1 green onion, chopped",
+        "1 tablespoon toasted sesame seeds",
+        "1 tablespoon toasted sesame oil"
+      ],
+      "instructions": [
+        "Combine hot pepper flakes, soy sauce, vinegar, rice syrup, garlic, green onion, sesame seeds, and 2 teaspoons toasted sesame oil in a mixing bowl. Mix well with a spoon.",
+        "Add the dried anchovies and mix well. Transfer to a serving plate or bowl. Sprinkle some chopped green onion over top and add 1 teaspoon of toasted sesame oil.",
+        "Serve as a side dish for rice or with beer."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup tiny dried anchovies"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon Korean hot pepper flakes (gochugaru)"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon white or cider vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon rice syrup or corn syrup"
+        },
+        {
+          "tag": "li",
+          "text": "1 clove garlic, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 green onion, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame seeds"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame oil"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Combine hot pepper flakes, soy sauce, vinegar, rice syrup, garlic, green onion, sesame seeds, and 2 teaspoons toasted sesame oil in a mixing bowl. Mix well with a spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Add the dried anchovies and mix well. Transfer to a serving plate or bowl. Sprinkle some chopped green onion over top and add 1 teaspoon of toasted sesame oil."
+        },
+        {
+          "tag": "li",
+          "text": "Serve as a side dish for rice or with beer."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

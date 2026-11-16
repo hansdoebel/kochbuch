@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kartoffel-lauch-gratin",
+  "recipes": [
+    {
+      "name": "Veganes Kartoffel-Lauch-Gratin",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kartoffel-lauch-gratin",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kartoffel-lauch-gratin#recipe-85e88b9c-04a4-5475-a004-01b4243877e0",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "1 kg Kartoffeln (vorwiegend festkochend)",
+        "ca. 350 g Lauch",
+        "2 Knoblauchzehen",
+        "1 TL getrockneter Thymian",
+        "1 TL getrockneter Rosmarin",
+        "250 ml pflanzliche Milch",
+        "250 ml pflanzliche Sahne (aufgeteilt)",
+        "1 EL Speisestärke",
+        "2 EL Wasser",
+        "2 EL Hefeflocken",
+        "50 g veganer Parmesan (optional)",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "neutrales Pflanzenöl zum Braten",
+        "Schnittlauch zum Servieren"
+      ],
+      "instructions": [
+        "Die Kartoffeln nach Belieben schälen oder nicht. Danach in dünne Scheiben schneiden. Den Lauch gründlich reinigen und ebenfalls in Scheiben schneiden. Knoblauch schälen und in dünne Scheiben schneiden.",
+        "Pflanzenöl in einer ofenfesten Pfanne erhitzen und zuerst den geschnittenen Lauch und Knoblauch darin mit getrocknetem Thymian und Rosmarin 3–4 Minuten anbraten. Pflanzliche Milch und 200 Milliliter der pflanzlichen Sahne dazugeben und aufkochen lassen. In der Zwischenzeit Speisestärke und Wasser gründlich verrühren. Die Stärkemischung zur Pfanne geben und dabei ständig Rühren. Alles zusammen 3–4 Minuten köcheln lassen, bis die Soße andickt. Zwei Drittel der Kartoffelscheiben und Hefeflocken dazugeben und vermengen. Die Kartoffelmischung mit Salz, Pfeffer und Muskat abschmecken.",
+        "Den Backofen auf 180 °C (Ober-/Unterhitze) vorheizen. Die restlichen Kartoffelscheiben dekorativ auf der bisherigen Kartoffel-Soßen-Schicht verteilen. Mit etwas Pflanzenöl und der restlichen veganen Sahne bestreichen und nach Wunsch mit veganem Parmesan bestreuen.",
+        "Tipp: Wenn ihr keine ofenfeste Pfanne verwendet habt, gebt ihr die Mischung einfach in eine eingefettete Auflaufform.",
+        "Das Kartoffelgratin bei 180 °C (Ober-/Unterhitze) circa 30 Minuten backen, bis die Kartoffelscheiben weich sind. Den Auflauf mit frisch gehacktem Schnittlauch bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,46 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/jalapeno-chopped-cheese-w-lime-crema",
+  "recipes": [
+    {
+      "name": "Jalapeno Chopped Cheese w/ Lime Crema",
+      "source_url": "https://app.cookwell.com/recipe/jalapeno-chopped-cheese-w-lime-crema",
+      "recipe_id": "https://app.cookwell.com/recipe/jalapeno-chopped-cheese-w-lime-crema",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "Makes 1 hoagie",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "Ground beef, 180 g",
+        "Salt, a sprinkle",
+        "MSG, a sprinkle",
+        "Onions, 1/4",
+        "Pickled jalapeños, a handful",
+        "Low-fat American cheese, 1 slice",
+        "Cheddar, a handful",
+        "Mayonnaise, 1 part",
+        "Low-fat sour cream, 1 part",
+        "Lime juice, 1/2 part",
+        "Hoagie rolls, 1",
+        "Lettuce",
+        "Tomatoes"
+      ],
+      "instructions": [
+        "Mix together all lime crema sauce components in a bowl. Taste and adjust with more seasoning or lime juice as needed.",
+        "Next, set a pan or griddle over medium heat and add the ground beef. Sprinkle a bit of salt on top and add an optional pinch of MSG for extra flavor. Sear the beef for 1-2 minutes to get some color. Then, add the onions on top of the beef and start breaking everything up with a spatula. After 2 more minutes or when the beef and onions are mostly browned, add the cheese and jalapeño over top.",
+        "While the beef finishes cooking, slice open your hoagie roll and spread some of the lime crema sauce onto the interior of the bread. Place the bread on top of the meat and cheese to let everything steam, melt, and crisp up for a minute. Then, using a spatula to keep everything together, flip the sandwich over so that the roll is on the bottom and the meat and cheese are on top.",
+        "To finish, top the beef and cheese mixture with some shredded lettuce. Then, add a few slices of seasoned tomatoes on top. There will be some leftover sauce. Optionally, add another dollop of sauce to the sandwich for lubrication. Transfer the roll to a sheet of aluminum foil and parchment paper and wrap everything up tightly. This will steam a bit and transform it into a true bodega experience. Slice open the sandwich and enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

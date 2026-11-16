@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.recipetineats.com/cosmopolitan-cocktails/",
+  "recipes": [
+    {
+      "name": "Cosmopolitan Cocktails",
+      "source_url": "https://www.recipetineats.com/cosmopolitan-cocktails/",
+      "recipe_id": "https://www.recipetineats.com/cosmopolitan-cocktails/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "1",
+        "1 drink"
+      ],
+      "prep_time": "PT5M",
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "60ml/ 2 oz Vodka ((Note 1))",
+        "30ml/ 1 oz Cointreu",
+        "90ml/ 3 oz cranberry juice (, sweet (not unsweetened, Note 2))",
+        "2 tsp lime juice (, fresh)",
+        "Ice",
+        "Orange peel (, optional garnish)"
+      ],
+      "instructions": [
+        "Fill cocktail shaker with ice.",
+        "Add vodka, cointreau, cranberry juice and lime. Shake vigorously 10 times.",
+        "Strain into chilled martini glass. Garnish with orange peel."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. Vodka – there’s a decent slug of vodka in Cosmos so be sure to use a decent vodka. Absolut is my mid-shelf vodka of choice. I reserve top shelf (expensive) vodka for drinking straight! 2. Cointreau is a sweet orange flavoured liquor, called triple sec . If you can’t find Cointreau, another brand will be fine. 3. Cranberry juice – don’t get “diet” unsweetened cranberry juice, you’ll find the drink too potent! Need the sugar in the cranberry juice. If you accidentally got unsweetened, make a simple syrup with equal parts white sugar and hot water*, dissolve sugar, chill, then add to your drink to take the sour edge off. * In the event of a cocktail emergency (I get it!), speed things up as follows: 2 parts white sugar, 1 part boiling water, mix to dissolve, then add 1 part ice for rapid chill. 4. Nutrition per drink."
+  ]
+}

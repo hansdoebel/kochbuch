@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gefuellte-pfirsich-cupcakes",
+  "recipes": [
+    {
+      "name": "Vegane, Gefüllte Pfirsich Cupcakes",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gefuellte-pfirsich-cupcakes",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gefuellte-pfirsich-cupcakes#recipe-827ebf3e-276b-5c6c-b0e3-0ccac275b105",
+      "authors": [
+        "Isa Zucker & Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "9 Cupcakes",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "Teig",
+        "250 g Mehl",
+        "2 EL Speisestärke",
+        "50 g gemahlene Mandeln",
+        "200 g Zucker",
+        "1 Päckchen Backpulver",
+        "1 Päckchen Vanillezucker",
+        "200 ml Mandelmilch",
+        "50 ml Rapsöl",
+        "50 ml Sprudelwasser",
+        "1 Limette (Saft)",
+        "5 g Vanilleextrakt",
+        "Sahnecreme",
+        "200 ml Schlagfix Schlagcreme",
+        "5 g Vanilleextrakt",
+        "Füllung",
+        "3 Pfirsiche",
+        "3 EL Aprikosen-Pfirsich-Marmelade (oder ähnliche Sorte)",
+        "Zur Garnierung",
+        "2 Pfirsiche",
+        "Limettenabrieb"
+      ],
+      "instructions": [
+        "Vorbereitung",
+        "Alle trockenen Zutaten in eine große Schüssel geben und verrühren. Nun nach und nach die Mandelmilch, das Sprudelwasser, Limettensaft das Öl hinzugeben. Alles gut verrühren.",
+        "Eine Muffinform (9-10 Mulden werden benötigt) gut einfetten und mit Mehl ausklopfen. Den Teig gleichmäßig auf die Formen verteilen und diese zu ca. 3/4 füllen. Bei 180°C ca. 25 Min backen oder bis diese sich golden färben und den Stäbchentest bestehen.",
+        "In der Zeit die Sahne mit dem Sahnesteif und dem Vanilleextrakt ca. 3-4 Minuten aufschlagen. In einen Spritzbeutel füllen und im Kühlschrank bis zum Serieder kalt stellen. Für die Füllung die Pfirsiche gut waschen, das Fleisch vom Stein entfernen und in kleine Stücken schneiden. In einem kleinen Schälchen mit dem Aprikosen-Pfirsich-Marmelade verrühren.",
+        "Servieren",
+        "Die Pfirsiche waschen, das Fleisch vom Stein entfernen und in Scheiben schneiden.",
+        "Mit einem Teelöffel ein kleine Vertiefung in die Muffins geben und 1 TL der Pfirsichfüllung hineingeben. Die Sahne auf den Muffins verteilen. Mit den Pfirsichscheiben garnieren und frischen Limettenabrieb darüber geben."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kaesebaellchen-auf-einem-apfel-cranberry-salat",
+  "recipes": [
+    {
+      "name": "Spinatsalat mit Apfel-Senf-Vinaigrette und veganen Nuss-Käsebällchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kaesebaellchen-auf-einem-apfel-cranberry-salat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kaesebaellchen-auf-einem-apfel-cranberry-salat#recipe-fc4f3832-b147-5637-8830-5fd4980ced26",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Für die Nuss-Käsebällchen:",
+        "150 g Cashewnüsse",
+        "1 TL getrockneter Thymian (oder frischer Thymian)",
+        "2 EL Zitronensaft",
+        "3 EL Hefeflocken",
+        "15 g Kokosöl",
+        "2 TL weiße Misopaste",
+        "1 Knoblauchzehe",
+        "75 g Pekannüsse",
+        "Wasser",
+        "Salz",
+        "Für den Spinatsalat:",
+        "150 g Babyspinat",
+        "1 Apfel",
+        "75 g Walnüsse",
+        "50 g getrocknete Cranberrys",
+        "50 ml naturtrüber Apfelsaft",
+        "2 EL Apfelessig",
+        "3 EL Olivenöl",
+        "1–2 EL Senf",
+        "1 TL Agavendicksaft oder Zucker",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Die Cashewnüsse in einen Topf geben und mit Wasser bedecken. Bei mittlerer Hitze circa 10 Minuten köcheln lassen, bis sie deutlich weicher geworden sind. Danach abgießen und kalt abspülen.",
+        "Die eingeweichten Cashewnüsse zusammen mit Thymian, Zitronensaft, Hefeflocken, Kokosöl, Misopaste und einer geschälten Knoblauchzehe in ein hohes Gefäß geben und mit dem Pürierstab oder einem Mixer cremig pürieren – die Masse kann gern auch etwas stückiger bleiben und muss nicht glatt püriert werden. Bei Bedarf etwas Wasser dazugeben. Mit Salz abschmecken.",
+        "Die Pekannüsse sehr fein hacken. Die Nussmischung mit den Händen zu kleinen Kugeln formen und in den gehackten Pekannüssen rollen, bis sie rundum bedeckt sind. Sollte die Nussmischung zu weich sein, ein paar Minuten in den Kühlschrank stellen. Die fertigen Nuss-Käsebällchen anschließend bis zum Servieren kühl stellen.",
+        "Den Babyspinat waschen und trocken schütteln. Den Apfel entkernen und in Würfel schneiden. Walnüsse grob hacken und in einer fettfreien Pfanne 3–4 Minuten rösten. Die getrockneten Cranberrys ebenfalls hacken.",
+        "Für das Dressing Apfelsaft, Apfelessig, Olivenöl, Senf und Agavendicksaft in ein Schraubglas geben und kräftig schütteln, bis sich alles verbunden hat. Mit Salz und Pfeffer abschmecken.",
+        "Den Spinat mit den Apfelstückchen, Walnüssen und getrockneten Cranberrys auf einer Salatplatte anrichten und das Dressing darüber verteilen. Zum Schluss die Nuss-Käsebällchen auf dem Salat verteilen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vegan-chocolate-fudge-723",
+  "recipes": [
+    {
+      "name": "Vegan Chocolate Fudge",
+      "source_url": "https://www.pickuplimes.com/recipe/vegan-chocolate-fudge-723",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "16 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT05M",
+      "total_time": "PT02H10M",
+      "ingredients": [
+        "10.582 oz dairy-free dark chocolate",
+        "1⅓ cup sweetened condensed coconut milk",
+        "1 tsp pure vanilla extract"
+      ],
+      "instructions": [
+        "Fill a saucepan with 2 cm of water, and bring to a gentle boil. Place a heat-safe bowl on top of the pan to create a 'double boiler'. Place the chocolate in the bowl and stir often. The heat from the bowl will melt the chocolate.",
+        "Once the chocolate has melted, turn off the heat and stir the condensed coconut milk and vanilla into the chocolate.",
+        "Line a 6 x 6 inch (16 x 16 cm) square baking dish with parchment paper and transfer the mixture to the dish. Sprinkle flaked sea salt on top if desired. Place in the freezer for at least 2 hours to harden.",
+        "To make cutting easier, try running your knife under hot water before cutting the fudge. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We use 50 - 60% cocoa chocolate for a balanced sweetness. Darker varieties (70%+) can make the result too bitter.",
+    "Storage Store in an airtight container in the freezer for up to 2 months. For the best texture, we recommend eating the fudge when it's just come out of the freezer."
+  ]
+}

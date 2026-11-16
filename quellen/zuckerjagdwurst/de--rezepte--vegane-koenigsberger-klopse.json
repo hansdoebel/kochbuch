@@ -1,0 +1,68 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-koenigsberger-klopse",
+  "recipes": [
+    {
+      "name": "Vegane Königsberger Klopse",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-koenigsberger-klopse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-koenigsberger-klopse#recipe-fedd8361-9eda-5a0e-a549-420f601d32e6",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "Für die Klopse:",
+        "1 altbackenes Brötchen",
+        "1 weiße Zwiebel",
+        "400 g Naturtofu",
+        "200 g Räuchertofu",
+        "10 g glatte Petersilie",
+        "2 EL Senf",
+        "3 EL Paniermehl",
+        "3 EL Sojamehl",
+        "6 EL Sojamilch",
+        "1 TL Salz",
+        "Für die Brühe:",
+        "1 Zwiebel",
+        "1.5 l Gemüsebrühe",
+        "2 Lorbeerblätter",
+        "4 Pimentkörner",
+        "4 Pfefferkörner",
+        "4 Nelken",
+        "Für die Soße:",
+        "3 EL vegane Butter",
+        "2 EL Mehl",
+        "50 ml Weißwein",
+        "350 ml Gemüsebrühe",
+        "100 ml vegane Kochsahne",
+        "3 EL Kapern",
+        "3 EL Kapernwasser aus dem Kapern-Glas",
+        "Zitronensaft",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "Außerdem:",
+        "1 kg festkochende Kartoffeln",
+        "glatte Petersilie"
+      ],
+      "instructions": [
+        "Das Brötchen mit warmem Wasser übergießen und 5 Minuten einweichen lassen. Danach gut ausdrücken, zerrupfen und in eine große Schüssel geben.",
+        "Zwiebel fein würfeln und Tofu zerbröseln. Petersilie fein hacken und zusammen mit Senf, Paniermehl, Sojamehl und -milch und Salz zum Brötchen geben und alles mit den Händen vermengen, bis sich eine große Kugel formen lässt. Die Masse 1 Stunde in den Kühlschrank stellen.",
+        "Kartoffeln schälen, halbieren und in einen Topf geben. Mit kaltem Wasser bedecken, salzen und einmal aufkochen lassen. Danach bei mittlerer Hitze circa 20 Minuten kochen lassen, bis sie gar sind. Anschließend abgießen.",
+        "Für die Soße in einem kleinen Topf vegane Butter schmelzen. Das Mehl einrühren, sodass sich keine Klumpen bilden. Mit Weißwein ablöschen. Anschließend Gemüsebrühe, Sahne, Kapern und Kapernwasser dazugeben und circa 5 Minuten bei mittlerer Hitze köcheln, bis die Soße die gewünschte Konsistenz erreicht. Mit Zitronensaft, Salz, Pfeffer und Muskat abschmecken.",
+        "Für die Brühe Zwiebel schälen, achteln und in einen großen Topf zusammen mit Gemüsebrühe, Lorbeerblättern, Piment, Pfefferkörnern und Nelken geben und zum Kochen bringen. In der Zwischenzeit aus jeweils 1–2 Esslöffeln der Klopsmasse mit den Händen feste, kleine Kugeln formen. Sobald die Brühe kocht, Hitze runterdrehen, sodass das Wasser nicht mehr sprudelt. Die Klopse nacheinander vorsichtig hineingeben und 7 Minuten garen. Die Klopse sollten dabei nebeneinander und nicht übereinander liegen. Sobald sie fertig sind, mit einer Siebkelle herausholen.",
+        "Petersilie ­­fein hacken. Kapernsoße auf Tellern verteilen, Königsberger Klopse und Kartoffeln draufgeben und mit Petersilie toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

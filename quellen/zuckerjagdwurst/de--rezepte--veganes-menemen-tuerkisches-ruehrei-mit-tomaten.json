@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-menemen-tuerkisches-ruehrei-mit-tomaten",
+  "recipes": [
+    {
+      "name": "Veganes Menemen (Türkisches Rührei mit Tomaten)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-menemen-tuerkisches-ruehrei-mit-tomaten",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-menemen-tuerkisches-ruehrei-mit-tomaten#recipe-c62c2816-9697-5b81-8f09-28827e3ad0f6",
+      "authors": [
+        "Anna Germek"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "1 große Zwiebel",
+        "2 Knoblauchzehen",
+        "5 türkische grüne Spitzpaprika",
+        "2 EL Tomatenmark",
+        "2 Dosen (800 g) ganze Tomaten oder 8 frische Tomaten (je nach Saison)",
+        "2 TL edelsüßes Paprikapulver",
+        "1 TL Chilipulver (optional, falls die Paprikas nicht scharf sind)",
+        "1 TL Agavendicksaft",
+        "200 g weicher Naturtofu (z. B. aus dem Asiamarkt)",
+        "Kala Namak (optional)",
+        "Petersilie",
+        "Fladenbrot",
+        "Olivenöl zum Braten",
+        "vegane Butter zum Braten",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Die Zwiebel und den Knoblauch klein und die Paprika in mundgerechte Stücke schneiden.",
+        "In ordentlich Olivenöl und veganer Butter zuerst die Zwiebel- und die Paprikastückchen anbraten, bis beides gebräunt ist. Dann den Knoblauch dazugeben und alles zusammen bei mittlerer Hitze 5–10 Minuten weiterbraten. Schon jetzt mit etwas Salz und Pfeffer würzen.",
+        "Das Tomatenmark dazugeben und circa 3 Minuten mit anbraten. Dazu kommen die Dosentomaten und alles wird mit Paprikapulver, Chilipulver (optional) und etwas Agavendicksaft gewürzt und abgeschmeckt. Abgedeckt erneut 5–10 Minuten einkochen lassen und währenddessen die Tomaten etwas kleindrücken.",
+        "Zum Schluss den Tofu in Stücke zupfen und verteilen, leicht verrühren und mit einer Prise Kala Namak würzen. Serviert wird alles mit gehackter Petersilie und Fladenbrot."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

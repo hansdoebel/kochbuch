@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/karamellisierte-lauch-pasta",
+  "recipes": [
+    {
+      "name": "Karamellisierte Lauch-Pasta",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/karamellisierte-lauch-pasta",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/karamellisierte-lauch-pasta#recipe-22c870b6-dcaf-50e5-b206-e8bff47498ec",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Soße:",
+        "2 EL vegane Butter",
+        "400 g Lauch (2–3 Stangen)",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "2 EL Zucker",
+        "100 ml vegane Kochsahne",
+        "100 ml Kochwasser der Nudeln",
+        "1 Zitrone",
+        "2 EL Hefeflocken",
+        "Muskat",
+        "Salz",
+        "Pfeffer",
+        "Für die Toppings:",
+        "60 g vegane Speckwürfel",
+        "5 EL Panko",
+        "neutrales Pflanzenöl",
+        "Außerdem:",
+        "250 g kurze Pasta"
+      ],
+      "instructions": [
+        "Lauch waschen und in dünne Ringe schneiden und Zwiebel und Knoblauch fein würfeln. Vegane Butter in einer großen Pfanne oder einem Topf schmelzen und Lauch sowie Zwiebel darin bei mittlerer Hitze anbraten. Eine ordentliche Prise Salz hinzugeben, damit der Lauch Flüssigkeit verliert und schön weich wird. Das Ganze etwa 10–15 Minuten braten, bis das Volumen des Lauchs auf die Hälfte geschrumpft ist und er eine goldbraune Farbe hat.",
+        "Gegen Ende den Knoblauch hinzufügen und kurz mitbraten. Anschließend den Zucker darüberstreuen und karamellisieren lassen. Die Hitze am besten reduzieren, damit nichts verbrennt.",
+        "Während der Lauch karamellisiert, die Pasta in einem großen Topf mit gesalzenem Wasser nach Packungsanweisung al dente kochen. Vor dem Abgießen 100 Milliliter Kochwasser auffangen – das kommt später zur Soße.",
+        "In einer kleinen Pfanne Pflanzenöl erhitzen und die veganen Speckwürfel knusprig braten. Anschließend in derselben Pfanne das Panko goldbraun rösten.",
+        "Die karamellisierte Lauch-Zwiebel-Mischung mit pflanzlicher Sahne und Pasta-Kochwasser aufgießen und mit frischem Zitronensaft, Hefeflocken, Muskat, Salz und Pfeffer abschmecken.",
+        "Die abgegossene Pasta direkt in die Pfanne oder den Topf zur Soße geben und alles gut vermengen. Nochmals abschmecken und mit den knusprigen veganen Speckwürfeln und dem gerösteten Panko toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

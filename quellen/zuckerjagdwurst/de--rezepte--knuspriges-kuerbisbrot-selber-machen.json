@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/knuspriges-kuerbisbrot-selber-machen",
+  "recipes": [
+    {
+      "name": "Knuspriges Kürbis-Sauerteigbrot",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/knuspriges-kuerbisbrot-selber-machen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/knuspriges-kuerbisbrot-selber-machen#recipe-e0aaf273-8f8b-5c10-9538-d6861cca8653",
+      "authors": [
+        "Gesine Fiedler"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Brot",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT1440M",
+      "ingredients": [
+        "Für den Sauerteig:",
+        "75 g Sauerteig-Starter (selbst angesetzt oder flüssiger aus dem Biomarkt)",
+        "75 g Dinkelmehl (Type 630)",
+        "75 g lauwarmes Wasser",
+        "Für den Brotteig:",
+        "500 ml Wasser",
+        "200 g Kürbiskerne",
+        "300 g Hokkaido Kürbis",
+        "500 g Dinkelmehl (Type 630)",
+        "150 ml lauwarmes Wasser",
+        "15 g Salz",
+        "3 TL Pumpkin Spice",
+        "neutrales Pflanzenöl",
+        "Außerdem:",
+        "1 Stange Zimt",
+        "1 Rasierklinge",
+        "2 m Schnur aus Naturmaterialien"
+      ],
+      "instructions": [
+        "Für den Sauerteig den Sauerteigstarter, Dinkelmehl und Wasser in einer Schüssel glattrühren und für mindestens fünf Stunden offen stehen lassen, bis der Teig Blasen schlägt und sein Volumen verdoppelt hat.",
+        "500 Milliliter Wasser aufkochen und die Kürbiskerne damit übergießen. Ofen auf 180 °C (Ober-/Unterhitze) vorheizen.",
+        "Kürbis in 1 Zentimeter große Würfel schneiden, mit ein wenig pflanzlichem Öl einpinseln und auf ein Backblech mit Backpapier legen. 15 Minuten im Ofen garen. Sobald er weich ist, aus dem Ofen nehmen, in eine Schüssel geben und mit einer Gabel zerdrücken und abkühlen lassen.",
+        "Für den Brotteig Dinkelmehl, 150 Milliliter lauwarmes Wasser, Sauerteig und Kürbispüree in eine große Schüssel geben und acht Minuten lang kräftig mit den Händen durchkneten. Den Teig zu einer Kugel formen und in der Schüssel, abgedeckt mit einem feuchten Geschirrtuch, 30 Minuten ruhen lassen.",
+        "Die Kürbiskerne abgießen und gut abtropfen lassen. Salz, Pumpkin Spice und die eingeweichten Kürbiskerne zum Teig geben und für eine Minute unterkneten. Den Teig wieder zu einer runden Kugel formen, mit dem feuchten Tuch abdecken und für mindestens drei, aber idealerweise fünf Stunden bei Raumtemperatur ruhen lassen. Nach der Hälfte der Ruhezeit den Teig einmal rundherum straff falten: Dabei den Teig am Rand greifen, nach außen ziehen und dann nach innen legen. Diesen Vorgang einmal rundherum machen, bis sich wieder eine straffe Kugel gebildet hat.",
+        "Eine Schüssel mit einem sauberen Geschirrtuch auslegen und mit Mehl bestäuben. Nach der Ruhezeit den Teig nochmals durch das Falten zu einer straffen Kugel formen und mit dem Schluss nach oben in die vorbereitete Schüssel legen. Mit einem feuchten Tuch oder etwas Klarsichtfolie locker abdecken (es muss noch Luft zum Atmen an den Teig kommen) und die Schüssel über Nacht mindestens 8 oder besser 12 Stunden in den Kühlschrank stellen.",
+        "Am nächsten Morgen den Ofen auf 250 °C (Ober-/Unterhitze) vorheizen. Dabei einen großen Bräter, Kochtopf oder gusseisernen Topf mit Deckel vorheizen. Erst wenn der Ofen heiß ist, den Brotteig aus dem Kühlschrank nehmen (er darf nicht zu lange bei Raumtemperatur auf das Backen warten). Vier Schnüre auf 50 Zentimeter Länge zuschneiden und mittig zu einem Achter-Kreuz zusammenbinden. Das Kreuz ausgebreitet auf einen Bogen Backpapier legen, dann den Teig vorsichtig aus der Schüssel auf das Kreuz gleiten lassen, die Zimtstange mittig in den Teig stecken und die jeweils gegenüberliegenden Schnurenden an der Zimtstange so zusammenbinden, dass der Teig leicht gequetscht wird – aber nur leicht! Dann mit einer scharfen Rasierklinge Muster in den Teig ritzen.",
+        "Das Brot mithilfe des Backpapiers in den vorgeheizten Topf setzen und den Deckel auflegen, circa 25 Minuten bei 250 °C (Ober-/Unterhitze) backen. Dann den Deckel abnehmen, sodass der Dampf entweichen kann und das Brot unabgedeckt in 30 Minuten fertig backen. Um zu testen, ob es durchgebacken ist, das Brot aus dem Topf nehmen und in die Mitte des Bodens klopfen. Wenn es sich hohl anhört, ist es fertig. Das Brot auf ein Gitter legen, die Schnüre entfernen und abkühlen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

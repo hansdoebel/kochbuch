@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-selbstgemachter-schnittkaese",
+  "recipes": [
+    {
+      "name": "Selbstgemachter veganer Schnittkäse",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-selbstgemachter-schnittkaese",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-selbstgemachter-schnittkaese#recipe-73ca6e41-d020-5671-8ba3-dda0a9ecccc9",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "etwa 800 g veganer Schnittkäse",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Für die Käsemasse:",
+        "1 Zwiebel",
+        "150 g Cashewkerne (über Nacht eingeweicht)",
+        "500 ml Wasser",
+        "50 g Kokosöl",
+        "1 TL (10 g) helle Misopaste",
+        "30 g Hefeflocken",
+        "1 TL Knoblauchpulver",
+        "0.5 TL Kurkuma",
+        "0.5 TL Salz",
+        "Pfeffer",
+        "Pflanzenöl zum Einfetten",
+        "Zum Andicken:",
+        "3 TL (10 g) Agar-Agar",
+        "250 ml Wasser"
+      ],
+      "instructions": [
+        "Zwiebel schälen und halbieren. Gemeinsam mit Cashewkernen, Wasser, Kokosöl, heller Misopaste, Hefeflocken, Knoblauchpulver, Kurkuma, Salz und Pfeffer in einen Mixer geben und mind. 2 Minuten cremig mixen.",
+        "Zum Andicken Agar-Agar und Wasser in einem Topf verrühren und aufkochen lassen, dabei ständig mit einem Schneebesen verrühren. Die Mischung mind. 2 Minuten köcheln lassen und danach zur Cashewmischung in den Mixer geben. Nochmals ca. 30 Sekunden mixen.",
+        "Eine Form (aus Plastik oder Silikon) mit etwas Pflanzenöl einreiben. Die Cashewmasse in die vorbereitete Form gießen und abkühlen lassen. Vor dem Anschneiden am besten über Nacht im Kühlschrank ruhen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

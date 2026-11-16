@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-maqluba",
+  "recipes": [
+    {
+      "name": "Veganes Maqluba (Arabischer Reis-Gemüse-Kuchen)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-maqluba",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-maqluba#recipe-f9f0d017-ba0d-545a-b01e-f36a4d67c046",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4–6 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Für das Maqluba:",
+        "1 Aubergine",
+        "250 g Pilze",
+        "300 g Blumenkohl",
+        "4 große Tomaten",
+        "2 Zwiebeln",
+        "1-2 TL Baharat pro Gemüsesorte (z. B. von Lebensbaum)",
+        "1 TL Chilipulver",
+        "300 g Reis",
+        "3 EL Tomatenmark",
+        "3 Knoblauchzehen",
+        "400 ml Wasser (aufgeteilt)",
+        "neutrales Pflanzenöl zum Braten",
+        "Salz",
+        "Für das Topping:",
+        "15 g frische Petersilie",
+        "30 g blanchierte Mandeln",
+        "400 g veganer Quark",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Auberginen in mundgerechte Stücke schneiden, in eine Schüssel geben, mit etwas Salz bestreuen und circa 10 Minuten stehen lassen. Danach das ausgetretene Wasser weggießen. In der Zwischenzeit Pilze vierteln und Blumenkohl in kleine Röschen teilen. Tomaten in Scheiben und Zwiebeln halbieren und in Scheibenschneiden.",
+        "Aubergine, Pilze, Blumenkohl und Zwiebeln einzeln, nacheinander in einer Pfanne mit jeweils einem Esslöffel Öl kurz anschwitzen. Mit Salz und Baharat würzen und in eine Schüssel geben.",
+        "Reis gut waschen, bis das Wasser klar ist. Öl in die Pfanne geben und den Reis darin kurz anschwitzen. Tomatenmark dazugeben und kurz mit anrösten. Nach und nach circa 200 Milliliter Wasser zugeben, einköcheln lassen, zwei Teelöffel Baharat und geriebenen Knoblauch dazugeben. Sobald das Wasser weg ist, mit dem Schichten des Gemüses beginnen.",
+        "Zuerst Pilze gleichmäßig auf dem Boden eines Topfes verteilen, anschließend Zwiebeln, dann Auberginen, Blumenkohl und Tomatenscheiben darauf verteilen.",
+        "Tipp: Die Tomaten ganz an den Topfrand drücken, damit sie nach dem Stürzen außen sichtbar sind.",
+        "Zum Schluss den Reis auf dem Gemüse verteilen, glattstreichen und fest andrücken. Die restlichen 200 Milliliter Wasser in den Topf geben. Mit geschlossenem Deckel auf kleiner Hitze 45 Minuten köcheln lassen. Zwischendurch 2–3 Mal kurz den Deckel anheben, um den Dampf entweichen zu lassen.",
+        "Den Herd ausschalten und den Topf vor dem Stürzen weitere 10 Minuten zum Anziehen stehen lassen.",
+        "In der Zwischenzeit Petersilie hacken und beiseitelegen. Blanchierte Mandeln hacken und in einer ölfreien Pfanne rösten. Quark mit Salz und Pfeffer abschmecken.",
+        "Das Maqluba auf eine Platte stürzen, mit gehackter Petersilie und Mandeln dekorieren und mit veganem Quark servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vanilla-chia-pudding-with-mixed-fruit-289",
+  "recipes": [
+    {
+      "name": "Vanilla Chia Pudding with Mixed Fruit",
+      "source_url": "https://www.pickuplimes.com/recipe/vanilla-chia-pudding-with-mixed-fruit-289",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT08H05M",
+      "ingredients": [
+        "1 cup unsweetened soy milk",
+        "3 Tbsp whole chia seeds",
+        "½ mango",
+        "½ cup fresh strawberries",
+        "½ Tbsp maple syrup",
+        "½ tsp pure vanilla extract",
+        "¼ cup vegan granola"
+      ],
+      "instructions": [
+        "In a large bowl or jar, combine the milk, chia seeds, mango, strawberries, maple syrup, and vanilla extract. Let sit for 5 to 10 minutes and then stir to redistribute the settled seeds.",
+        "Cover and chill in the fridge overnight.",
+        "Stir well before serving. Add some granola for crunch, or some more fresh fruit on top, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium .",
+    "Storage Store in the fridge for up to 3 days. Add the fruit and granola before serving."
+  ]
+}

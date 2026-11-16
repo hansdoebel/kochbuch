@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/tropical-coconut-popsicles-154",
+  "recipes": [
+    {
+      "name": "Tropical Coconut Popsicles",
+      "source_url": "https://www.pickuplimes.com/recipe/tropical-coconut-popsicles-154",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 popsicles",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT06H10M",
+      "ingredients": [
+        "1⅔ cup canned full-fat coconut milk",
+        "½ cup pineapple juice",
+        "½ lime",
+        "3 Tbsp agave syrup",
+        "¾ cup frozen raspberries"
+      ],
+      "instructions": [
+        "Add the coconut milk, pineapple juice, lime juice, and syrup to a pitcher. Mix.",
+        "Pour this mixture into popsicle moulds until each well is about 80% full*. Place the mould into the freezer for 1 to 2 hours.",
+        "Meanwhile, heat the frozen berries with the syrup in a saucepan until fully thawed. Mash slightly to release some of the juices. Alternatively, thaw in the microwave. Set aside to cool.",
+        "After the 1 to 2 hours is up, remove the mold from the freezer and spoon the raspberry mixture onto the popsicles.",
+        "Use a popsicle stick to gently push the raspberries into the popsicle to create a swirl pattern. Then position the sticks in the center of the mould and return to the freezer*. Let freeze completely.",
+        "When you want to remove a popsicle, run the bottom of the mould under hot water to help release the popsicle. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * If you don't have a popsicle mould, use an ice cube tray to make mini popsicles. * Tip: if the popsicle is too soft to hold the stick, return it to the freezer for 10 to 15 minutes more before trying again.",
+    "Storage Store in the freezer for up to 1 month."
+  ]
+}

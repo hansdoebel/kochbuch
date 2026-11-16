@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-french-toast-arme-ritter",
+  "recipes": [
+    {
+      "name": "Vegane French Toasts",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-french-toast-arme-ritter",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-french-toast-arme-ritter#recipe-cf91fd40-5fb8-507d-894d-9f791b6bfc66",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die French Toasts:",
+        "8 Weißbrotscheiben",
+        "250 ml pflanzliche Milch",
+        "70 g Weizenmehl",
+        "3 EL Agavendicksaft/Ahornsirup",
+        "5 g Vanillepaste",
+        "1 TL Zimt",
+        "Salz",
+        "vegane Butter + Pflanzenöl zum Anbraten",
+        "Für die Toppings:",
+        "frisches Obst und Beeren",
+        "Nussmus oder Schokolade",
+        "Mix aus gerösteten Nüssen",
+        "optional: Kala Namak",
+        "Für die Limettensahne:",
+        "100 ml vegane Sahne zum Aufschlagen",
+        "1 TL Sahnesteif",
+        "1 TL Vanillezucker",
+        "3 EL veganer Quark",
+        "0.5 Limette (Abrieb)"
+      ],
+      "instructions": [
+        "Zuerst die Toppings vorbereiten: Dafür Obst und Beeren waschen und gegebenenfalls entkernen und klein schneiden. Für die Limettensahne die vegane Schlagsahne mit Sahnesteif und Vanillezucker aufschlagen und veganen Quark und Limettenabrieb unterrühren.",
+        "Für die French Toasts pflanzliche Milch, Mehl, Agavendicksaft, Vanillepaste, Zimt und eine Prise Salz in einem tiefen Teller vermengen. In einer Pfanne vegane Butter und einen kleinen Schuss Öl gemeinsam erhitzen. Die Weißbrotscheiben in der Mischung wenden und direkt in die Pfanne geben. Von beiden Seiten goldbraun anbraten.",
+        "Die French Toasts mit den Beeren, Obst, der geschlagenen Sahne und gerösteten Nüssen servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

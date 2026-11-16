@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/refreshing-melon-cucumber-soda-21",
+  "recipes": [
+    {
+      "name": "Refreshing Melon Cucumber Soda",
+      "source_url": "https://www.pickuplimes.com/recipe/refreshing-melon-cucumber-soda-21",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT10M",
+      "ingredients": [
+        "½ honeydew melon",
+        "2 lime",
+        "½ Tbsp grated fresh ginger",
+        "2 cup crushed ice",
+        "¼ cucumber",
+        "1½ cup carbonated water",
+        "½ Tbsp agave syrup",
+        "½ lime",
+        "2 Tbsp granulated sugar"
+      ],
+      "instructions": [
+        "Add the melon, lime juice, and ginger to a blenderand blend until smooth.",
+        "To create an optional decorative rim, run a lime wedge around the rims of your serving glasses. Pour some sugar on a small plate and dip the edge of the glass in the sugar.",
+        "Divide the ice between the glasses. Top with cucumber slices. Pour over two parts blended melon mixture to one part carbonated water. Add agave syrup to taste, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Best if enjoyed immediately."
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nacho-taco-bowl",
+  "recipes": [
+    {
+      "name": "Vegane Nacho Taco Bowl mit Käsedip",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nacho-taco-bowl",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nacho-taco-bowl#recipe-f56fbfec-33be-5533-9cc2-cb5ec3569481",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "5 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "5 weiche Tacos",
+        "250 g veganes Hack",
+        "1 Zwiebel",
+        "1 Dose Kidneybohnen",
+        "3 EL Barbeque-Sauce",
+        "200 g veganen Käse",
+        "2 Handvoll Nachos",
+        "1 Portion veganen Queso Dip",
+        "Olivenöl",
+        "Sojasauce",
+        "Jalapeno-Scheiben (optional)",
+        "Salz, Pfeffer, Paprikapulver"
+      ],
+      "instructions": [
+        "Zunächst geht es an die Vorbereitung: Die Zwiebel schälen und fein würfeln. In einer großen Pfanne mit etwas Öl die Zwiebeln zunächst glasig braten und danach das vegane Hackfleisch dazugeben und knusprig braten. Nach etwa 3-4 Minuten einen Schuss Sojasauce dazugeben und am Ende noch etwas Pfeffer dazugeben.",
+        "1 Dose Kidneybohnen abrtopfen lassen und in einem Saucentopf mit der Barbecue-Sauce erwärmen.",
+        "Die Queso-Sauce nach Rezept (Rezept auf dem Blog) zubereiten und nochmal in einem kleinen Topf erwärmen.",
+        "Und dann geht's auch schon los! In einer Auflaufform platziert ihr eure weichen Tacos und füllt sie danach mit zerkrümelten Nachos, der Hackfleisch-Zwiebel-Mischung, Kidneybohnen und veganem Käse.",
+        "Danach wandert die Auflaufform für etwa 10 Minuten bei 180 Grad in den Ofen.",
+        "Zum Schluss warmen, veganen Queso Dip, Jalapeno-Scheiben und Paprikapulver darübergeben."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Veganer Queso Dip",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nacho-taco-bowl",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nacho-taco-bowl#recipe-56b6a83b-c9ae-51a1-8243-66317c2ea556",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 große Schüssel",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "400 g Kartoffeln",
+        "1 große Möhre",
+        "1 Zwiebel",
+        "60 g Cashewkerne Natur (eingeweicht über Nacht, oder mindestens in warmen Wasser für 30 Minuten)",
+        "30 g Hefeflocken",
+        "50 ml pflanzliche Milch",
+        "0.5 TL Knoblauchpulver",
+        "0.5 TL Zwiebelpulver",
+        "3 EL Jalapenosaft + 5 Jalapenos (eingelegt aus dem Glas)",
+        "1 EL Zitronensaft",
+        "Salz & Pfeffer",
+        "Cayennepfeffer"
+      ],
+      "instructions": [
+        "Nehmt euer Gemüse. Schält Kartoffeln, Möhren und Zwiebeln und schneidet sie in etwa gleich große Stücken. Gebt die Stücke in einen Topf, bedeckt das ganze mit leicht gesalzenem Wasser. Lasst alles köcheln, bis das Gemüse weich ist. Gemüse abtropfen und die Kochflüssigkeit dabei auffangen.",
+        "In einen Mixer werft ihr euer weiches Gemüse, die eingeweichten Cashews, 5 Jalapeno-Ringe und Hefeflocken und füllt mit ca. 100 ml der Kochflüssigkeit, Sojamilch und Jalapeno-Saft auf. Mixer anschalten und alles gut pürieren lassen, bis es cremig ist.",
+        "Jetzt geht es ans Abschmecken mit Knoblauch- und Zwiebelpulver, Zitronensaft, Salz, Pfeffer und Cayenne.",
+        "Wem das ganze noch nicht \"käsig\" genug schmeckt, der würzt mit etwas mehr Hefeflocken nach. Unbedingt warm servieren!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,37 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/blood-red-green-juice-287",
+  "recipes": [
+    {
+      "name": "Blood Red Green Juice",
+      "source_url": "https://www.pickuplimes.com/recipe/blood-red-green-juice-287",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT10M",
+      "ingredients": [
+        "3 medium beet",
+        "2 grapefruit",
+        "1 cup fresh parsley",
+        "1 cup spinach",
+        "2 celery rib"
+      ],
+      "instructions": [
+        "Place the ingredients one by one through a juicer. Serve fresh and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage This juice is best enjoyed immediately."
+  ]
+}

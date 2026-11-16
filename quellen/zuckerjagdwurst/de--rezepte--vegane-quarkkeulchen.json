@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-quarkkeulchen",
+  "recipes": [
+    {
+      "name": "Vegane Quarkkeulchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-quarkkeulchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-quarkkeulchen#recipe-9cd8b34e-a3ef-507e-a1e8-39cb2db53a96",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "7-8 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "200 g mehlig kochende Kartoffeln",
+        "200 g veganer Quark",
+        "2 EL Zucker",
+        "0.5 TL Vanillezucker",
+        "2 EL Sojamehl",
+        "2 EL Wasser",
+        "175 g Mehl",
+        "Zucker und Zimt zum Servieren",
+        "Apfelmus zum Servieren"
+      ],
+      "instructions": [
+        "Kartoffeln mit Schale in einen Topf geben, mit kaltem Wasser bedecken, salzen und aufkochen lassen. Die Temperatur auf mittlere Stufe reduzieren und die Kartoffeln ca. 20 Minuten kochen, bis sie weich sind. Abgießen, kurz abkühlen lassen, bis ihr sie anfassen könnt. Dann schälen und durch eine Kartoffelpresse drücken oder stampfen, bis keine großen Stücken mehr übrig sind.",
+        "Gestampfte Kartoffeln, veganen Quark, Zucker und Vanillezucker in eine Schüssel geben und verrühren. Sojamehl und Wasser anrühren und dazugeben. Zum Schluss so viel Mehl wie nötig dazugeben, bis der Teig nicht mehr klebt. Er muss sich nicht unbedingt mit den Händen formen lassen, aber er sollte sich schon vom Rand der Schüssel lösen.",
+        "Pflanzenöl in einer Pfanne erwärmen und den Teig portionsweise in das heiße Fett geben. Am besten nehmt ihr 2 EL Teig pro Quarkkeulchen, gebt es in eine Pfanne und drückt sie flach – das funktioniert mit dem Löffel oder einem Pfannenwender. Bestäubt beides am besten mit Mehl, damit der Teig nicht daran kleben bleibt. Die Quarkkeulchen sollten nicht zu dick sein, damit der Teig am Ende auch wirklich durchgebacken ist. Ich würde euch empfehlen, ein Test-Quarkkeulchen zu braten, damit ihr die perfekte Dicke, Größe und Temperatur für euren Herd und eure Pfanne findet. Quarkkeulchen von beiden Seiten goldbraun ausbacken und nach Bedarf die Hitze anpassen.",
+        "Die fertigen Quarkkeulchen ganz nach Geschmack mit Zucker und Zimt bestreuen und mit Apfelmus oder auch Marmelade servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

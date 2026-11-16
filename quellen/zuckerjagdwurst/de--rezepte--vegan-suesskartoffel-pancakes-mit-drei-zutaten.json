@@ -1,0 +1,38 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegan-suesskartoffel-pancakes-mit-drei-zutaten",
+  "recipes": [
+    {
+      "name": "Vegane Süßkartoffel-Pancakes mit 3 Zutaten",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegan-suesskartoffel-pancakes-mit-drei-zutaten",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegan-suesskartoffel-pancakes-mit-drei-zutaten#recipe-a54d5eab-2d50-583a-a97d-2e8e93c390e9",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Pancakes",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "225 g Süßkartoffel",
+        "3 EL Apfelmus",
+        "80 g Reismehl",
+        "Salz",
+        "Pflanzenöl zum Braten"
+      ],
+      "instructions": [
+        "Süßkartoffel schälen, in Stücke schneiden und in einen Topf geben. Mit Wasser bedecken, salzen und ca. 20 Minuten kochen, oder bis die Süßkartoffelstückchen weich sind. Anschließend abgießen, stampfen und abkühlen lassen.",
+        "Süßkartoffel-Stampf mit Apfelmus und Reismehl vermengen und etwas Salz dazugeben. Der Teig wird nicht dickflüssig sein, sondern lässt sich am Ende sogar ganz gut mit den Händen zu dickeren Pancakes formen.",
+        "Pflanzenöl in einer Pfanne erhitzen und die Süßkartoffel-Pancakes von beiden Seiten ca. 4 – 5 Minuten anbraten, bis sie leicht geröstet sind.",
+        "Bei den Toppings könnt ihr euch nach Geschmack ausleben. Wir haben ein bisschen vegane Sourcream, Radieschen und Frühlingszwiebeln verwendet, aber ihr könnt sie auch süß servieren, zum Beispiel mit Kokoschips, Bananenscheiben und Ahornsirup!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

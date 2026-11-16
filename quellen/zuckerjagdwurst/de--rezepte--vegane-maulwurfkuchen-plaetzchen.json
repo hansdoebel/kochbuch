@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-maulwurfkuchen-plaetzchen",
+  "recipes": [
+    {
+      "name": "Vegane Maulwurfkuchen-Plätzchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-maulwurfkuchen-plaetzchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-maulwurfkuchen-plaetzchen#recipe-7c5e88d6-760f-5086-91a8-ed00c26def2c",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "circa 20 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT100M",
+      "ingredients": [
+        "Für den Teig:",
+        "150 g Weizenmehl (Type 405)",
+        "50 g Zucker",
+        "1 Prise Salz",
+        "2 EL Backkakao",
+        "100 g kalte vegane Butter",
+        "kaltes Wasser (nach Bedarf)",
+        "Backkakao zum Bestäuben",
+        "Für die Füllung:",
+        "200 ml vegane Sahne zum Aufschlagen",
+        "16 g (2 EL) Sahnesteif",
+        "16 g (1.5 EL) Vanillezucker",
+        "100 g Zartbitterschokolade",
+        "1 Banane"
+      ],
+      "instructions": [
+        "Für den Teig zuerst Weizenmehl, Zucker, Salz und Backkakao in einer großen Schüssel vermischen. Die kalte vegane Butter in Stücken dazugeben und mit kalten Händen verkneten, bis ein geschmeidiger Teig entsteht. Danach circa 1 Stunde im Kühlschrank ruhen lassen.",
+        "Tipp: Die Zutaten erstmal ein paar Minuten verarbeiten und nicht direkt Wasser dazugeben. Nur wenn der Teig wirklich zu trocken bleibt und sich nicht verbindet, etwas kaltes Wasser hinzugeben.",
+        "Für die Creme vegane Sahne mit Sahnesteif und Vanillezucker aufschlagen, bis sie steif ist. Zartbitterschokolade hacken und vorsichtig unterheben. Die geschlagene Sahne bis zur Verwendung im Kühlschrank kalt stellen.",
+        "Den Ofen auf 180 °C (Umluft) vorheizen. Den gekühlten Teig auf einer mit Backkakao bestäubten Arbeitsfläche ausrollen und 20 Kreise (Durchmesser 4 Zentimeter) ausstechen. Die Kekse auf ein mit Backpapier ausgelegtes Backblech legen. Den Rest des Teiges als ein großes Stück ausrollen, das so dick wie die Kekse ist. Die Form ist hier egal, weil der Teig nach dem Backen zerbröselt wird. Das Teigstück neben die Kekse aufs Backblech legen. Danach circa 10 Minuten backen und vollständig abkühlen lassen.",
+        "Nach dem Backen das große Stück vom Teig fein zerbröseln und beiseitelegen. Banane in Scheiben schneiden. Auf jeden Kekskreis eine Bananenscheibe legen. Die gekühlte Creme wie eine kleine Kuppel darüber verteilen, glattstreichen und mit den Keksbröseln bedecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

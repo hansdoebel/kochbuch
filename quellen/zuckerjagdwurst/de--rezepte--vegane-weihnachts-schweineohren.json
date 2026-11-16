@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-weihnachts-schweineohren",
+  "recipes": [
+    {
+      "name": "Vegane Weihnachts-Schweineohren",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-weihnachts-schweineohren",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-weihnachts-schweineohren#recipe-6558f867-e563-5d2d-8d43-5bdf11314bd8",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 20 Schweineohren",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "1 Scheibe Blätterteig (nicht tiefgefroren, sondern aus dem Kühlfach)",
+        "2 EL vegane Butter (geschmolzen)",
+        "2 EL brauner Zucker (oder Kokoszucker)",
+        "5 EL gemahlene Haselnüsse",
+        "3 EL gemahlener Zimt, Kardamom, Muskat, Lebkuchengewürz, oder eine Mischung aus allem",
+        "1 TL Kokosöl",
+        "50 g Zartbitterschokolade",
+        "Streusel zum Dekorieren"
+      ],
+      "instructions": [
+        "Blätterteig aus dem Kühlschrank nehmen und ca. 10 Minuten ruhen lassen.",
+        "Backofen auf 200°C vorheizen. Einen Teil des braunen Zuckers auf einer Arbeitsfläche verteilen und den Blätterteig darauf leicht ausrollen, damit der Zucker am Boden des Teigs kleben bleibt. Die Oberseite des Teigs mit geschmolzener veganer Butter bestreichen und mit dem restlichen Zucker, Gewürzen und gemahlenen Nüssen bestreuen.",
+        "Den Teig von den beiden langen Seiten aus jeweils zur Mitte aufrollen, damit sie sich dort treffen. Die Teigrolle anschließend in Scheiben schneiden und diese mit der offenen Seite nach oben auf ein mit Backapier ausgelegtes Backblech legen.",
+        "Bei 200°C ca. 15-20 Minuten goldbraun backen. Anschließend auf einem Gitter komplett abkühlen lassen.",
+        "In der Zwischenzeit Kokosöl und Zartbitterschokolade in einem Wasserbad schmelzen. Die veganen Schweineohren in der geschmolzenen Schokolade tunken und mit Streuseln dekorieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

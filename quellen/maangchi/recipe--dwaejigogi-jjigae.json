@@ -1,0 +1,154 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/dwaejigogi-jjigae",
+  "recipes": [
+    {
+      "name": "Spicy pork stew (Dwaejigogi-jjigae)",
+      "source_url": "https://www.maangchi.com/recipe/dwaejigogi-jjigae",
+      "recipe_id": "/recipe/dwaejigogi-jjigae#sso/recipe/78559",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "7 cloves garlic, minced",
+        "1 teaspoon peeled ginger, minced",
+        "¼ cup hot pepper paste (gochujang)",
+        "1 tablespoon hot pepper flakes (gochugaru)",
+        "2 teaspoons toasted sesame oil",
+        "½ teaspoon ground black pepper",
+        "1 pound pork belly (or pork shoulder, or some tender cuts of beef or chicken), cut into ¼ inch thick bite size pieces",
+        "8 ounces peeled onion, cut into chunks",
+        "1 medium size peeled potato (4 ounces), cut into chunks",
+        "3 green onions, sliced",
+        "1 green chili pepper, sliced",
+        "½ package of tofu (about 8 ounces), cut into 1/2 inch cubes",
+        "3½ cup water",
+        "1 tablespoon fish sauce",
+        "1 teaspoon kosher salt"
+      ],
+      "instructions": [
+        "Combine the garlic, ginger, hot pepper paste, hot pepper flakes, toasted sesame oil, and ground black pepper in a bowl. Mix well and set aside.",
+        "Add onion, potato, and pork to a medium-sized pot. Mix in the seasoning paste by hand (you can wear disposable kitchen gloves if you want). Let it sit for 10 to 30 minutes.",
+        "Add the water, fish sauce, and salt. Stir well with a spoon and cover. Cook for 25 minutes over medium hight heat, until the pork is fully cooked and the broth is tasty.",
+        "Stir the stew with a spoon a few times and add tofu, green onion, and green chili pepper. Cover and cook for another 5 to 10 minutes. Remove from the heat."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 4"
+        },
+        {
+          "tag": "h3",
+          "text": "For the seasoning paste:"
+        },
+        {
+          "tag": "li",
+          "text": "7 cloves garlic, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon peeled ginger, minced"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup hot pepper paste (gochujang)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon hot pepper flakes (gochugaru)"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon ground black pepper"
+        },
+        {
+          "tag": "h3",
+          "text": "For the stew:"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound pork belly (or pork shoulder, or some tender cuts of beef or chicken), cut into ¼ inch thick bite size pieces"
+        },
+        {
+          "tag": "li",
+          "text": "8 ounces peeled onion, cut into chunks"
+        },
+        {
+          "tag": "li",
+          "text": "1 medium size peeled potato (4 ounces), cut into chunks"
+        },
+        {
+          "tag": "li",
+          "text": "3 green onions, sliced"
+        },
+        {
+          "tag": "li",
+          "text": "1 green chili pepper, sliced"
+        },
+        {
+          "tag": "li",
+          "text": "½ package of tofu (about 8 ounces), cut into 1/2 inch cubes"
+        },
+        {
+          "tag": "li",
+          "text": "3½ cup water"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon fish sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon kosher salt"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Combine the garlic, ginger, hot pepper paste, hot pepper flakes, toasted sesame oil, and ground black pepper in a bowl. Mix well and set aside."
+        },
+        {
+          "tag": "li",
+          "text": "Add onion, potato, and pork to a medium-sized pot. Mix in the seasoning paste by hand (you can wear disposable kitchen gloves if you want). Let it sit for 10 to 30 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Add the water, fish sauce, and salt. Stir well with a spoon and cover. Cook for 25 minutes over medium hight heat, until the pork is fully cooked and the broth is tasty."
+        },
+        {
+          "tag": "li",
+          "text": "Stir the stew with a spoon a few times and add tofu, green onion, and green chili pepper. Cover and cook for another 5 to 10 minutes. Remove from the heat."
+        },
+        {
+          "tag": "h3",
+          "text": "Serve:"
+        },
+        {
+          "tag": "p",
+          "text": "Ladle some to individual bowls and serve with rice."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

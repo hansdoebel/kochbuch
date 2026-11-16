@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/sweet-spicy-golden-smoothie-bowl-497",
+  "recipes": [
+    {
+      "name": "Sweet & Spicy Golden Smoothie Bowl",
+      "source_url": "https://www.pickuplimes.com/recipe/sweet-spicy-golden-smoothie-bowl-497",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "2 cup frozen pineapple chunks",
+        "1 frozen banana",
+        "1 cup unsweetened soy yogurt",
+        "1 Tbsp ground flaxseeds",
+        "½ Tbsp fresh ginger",
+        "½ tsp ground turmeric",
+        "¼ tsp cayenne pepper",
+        "1 pinch ground black pepper"
+      ],
+      "instructions": [
+        "In a high-speed blender, add all the ingredients and blend on high until smooth.",
+        "Transfer into bowls and top with granola and fresh fruits. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based yogurt that is fortified with calcium .",
+    "Storage Smoothies are best enjoyed immediately."
+  ]
+}

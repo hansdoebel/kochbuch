@@ -1,0 +1,125 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/oksusu-ppang",
+  "recipes": [
+    {
+      "name": "Cornbread",
+      "source_url": "https://www.maangchi.com/recipe/oksusu-ppang",
+      "recipe_id": "/recipe/oksusu-ppang#sso/recipe/59046",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "4 to 6 servings",
+      "prep_time": null,
+      "cook_time": "P0DT0H30M0S",
+      "total_time": "P0DT0H60M0S",
+      "ingredients": [
+        "2 cups (280 grams) cornmeal (Indian Head works best)",
+        "2 tablespoons white sugar",
+        "½ teaspoon kosher salt",
+        "1 large egg",
+        "1 tablespoon vegetable oil",
+        "1½ cup milk",
+        "2 teaspoons baking powder",
+        "1 tablespoon butter, softened at room temperature"
+      ],
+      "instructions": [
+        "Combine the cornmeal, sugar, kosher salt, egg, vegetable oil, and milk in a bowl and mix well. Let it sit for 20 minutes.",
+        "Preheat the oven to 400°F (about 200°C).",
+        "Add the baking powder to the batter and mix well. Brush the butter all over the bottom and sides of an 8 x 8 inch square baking pan.",
+        "Bake for 30 minutes.",
+        "Insert a toothpick into the center of the bread. It should come out clean. You can bake for a few minutes longer to brown the top.",
+        "Remove from the oven. Turn the pan upside down and let the cornbread fall onto your cutting board. Let cool for a few minutes. Cut into bite-size pieces and serve."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 4 to 6"
+        },
+        {
+          "tag": "p",
+          "text": "Total time: about 1 hour, including 20 minutes for soaking the cornmeal and 30 minutes for baking."
+        },
+        {
+          "tag": "li",
+          "text": "2 cups (280 grams) cornmeal (Indian Head works best)"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons white sugar"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 large egg"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "1½ cup milk"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons baking powder"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon butter, softened at room temperature"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Combine the cornmeal, sugar, kosher salt, egg, vegetable oil, and milk in a bowl and mix well. Let it sit for 20 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Pre-heat the oven 400 degrees F (about 200 degrees C)."
+        },
+        {
+          "tag": "li",
+          "text": "Add the baking powder to the batter and mix well. Brush the butter all over the bottom and the sides of baking pan (8 x 8 inch square)."
+        },
+        {
+          "tag": "li",
+          "text": "Bake for 30 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Check to see if it’s fully cooked by inserting a toothpick into the center of the bread. It should come out clean. You can cook a few minutes longer to brown the top of the bread."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the oven. Turn the pan upside down and let the cornbread fall onto your cutting board. Let cool for a few minutes. Cut into bite size pieces and serve."
+        },
+        {
+          "tag": "h3",
+          "text": "Freezing and reheating"
+        },
+        {
+          "tag": "p",
+          "text": "I freeze leftover cornbread in individual portions. Wrap each portion in plastic wrap, then place the wrapped portions in a zip-top freezer bag. When you want to eat some, remove the wrapping and reheat it in the microwave directly from frozen, without thawing. The fluffiness and moisture will be revived."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

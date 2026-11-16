@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-french-toast-sticks-mit-erdnussbutter-und-marmelade",
+  "recipes": [
+    {
+      "name": "Vegane French Toast Sticks mit Erdnussbutter und Marmelade",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-french-toast-sticks-mit-erdnussbutter-und-marmelade",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-french-toast-sticks-mit-erdnussbutter-und-marmelade#recipe-bcd31bb0-844f-5796-ad44-476bc82a49bc",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Toast Sticks:",
+        "8 Weißbrotscheiben (altbacken)",
+        "ca. 4 EL Erdnussbutter",
+        "ca. 4 EL Marmelade",
+        "Für den cremigen Mix:",
+        "125 ml pflanzliche Milch",
+        "2 EL Kichererbsenmehl (oder Sojamehl)",
+        "1 EL Agavendicksaft (oder Ahornsirup)",
+        "5 g Vanillepaste",
+        "Salz",
+        "Für Zucker-Zimt-Mix:",
+        "5 EL Zucker",
+        "1 TL Zimt",
+        "1 Prise Salz",
+        "Außerdem:",
+        "vegane Butter oder Pflanzenöl zum Anbraten",
+        "frische Beeren zum Servieren",
+        "vegane Schlagsahne zum Servieren"
+      ],
+      "instructions": [
+        "Nach Wunsch die Ränder vom altbackenen Weißbrot abschneiden. Die Hälfte der Brotscheiben mit Erdnussbutter und Marmelade beschmieren. Die restlichen Brotscheiben darauflegen, sodass der Belag zur Füllung zwischen zwei Scheiben wird. Nun jeden Toast dritteln, sodass breite Streifen entstehen. Die Toaststreifen beiseitestellen.",
+        "Für den cremigen Mix pflanzliche Milch, Kichererbsenmehl, Agavendicksaft, Vanillepaste und eine Prise Salz in einem tiefen Teller verrühren.",
+        "Für den Zucker-Zimt-Mix Zucker, Zimt und eine Prise Salz vermengen und beiseitestellen.",
+        "Vegane Butter oder Pflanzenöl in einer beschichteten Pfanne erhitzen. Die Brote nur kurz in der cremigen Mischung wenden und dann sofort in die Pfanne legen. Zunächst bei mittlerer Hitze 4–5 Minuten von jeder Seite goldbraun anbraten. Pluspunkte gibt es, wenn ihr auch die Randseiten kurz anbratet, sodass der Toast wirklich rundum goldbraun wird.",
+        "Die French Toast Sticks aus der Pfanne nehmen und im Zucker-Zimt-Mix",
+        "wenden. Mit frischen Beeren und veganer Schlagsahne servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

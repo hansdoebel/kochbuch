@@ -1,0 +1,133 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/kkongchi-jorim",
+  "recipes": [
+    {
+      "name": "Braised Saury (Kkongchi-jorim)",
+      "source_url": "https://www.maangchi.com/recipe/kkongchi-jorim",
+      "recipe_id": "/recipe/kkongchi-jorim#sso/recipe/24520",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "a can of saury",
+        "1 cup’s worth Korean radish (or daikon) peeled and sliced thinly (⅛ inch thick, about 8-10 discs)",
+        "1 medium sized onion, sliced (1 cup’s worth)",
+        "2 TBS soy sauce",
+        "2 TBS Korean hot pepper flakes (gochugaru)",
+        "1 TBS hot pepper paste",
+        "3 cloves of garlic, minced",
+        "1 ts of minced ginger",
+        "1 ts of sugar",
+        "1 green chili pepper and 1 red chili pepper, chopped",
+        "2 stalks of green onions, chopped"
+      ],
+      "instructions": [
+        "Make a seasoning paste by combining soy sauce, hot pepper flakes, hot pepper paste, garlic, ginger, sugar, and ¼ cup of water in a small bowl.",
+        "Add radish slices to the bottom of a non-stick shallow pot. Add the onion, the canned saury and the liquid in the can, too. Spoon the seasoning paste to the top of the saury.",
+        "Bring to a boil with the lid closed over medium high heat for about 8 minutes.",
+        "Turn down the heat very low and cook for another 12-15 minutes.",
+        "Open the lid and scoop some broth from the bottom of the pot to the top of the fish so the seasoning paste is mixed well with the broth.",
+        "Add green onion and chili peppers and cook 2 more minutes.",
+        "Serve with rice"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "for 4 servings total cooking time: 25 -30 minutes"
+        },
+        {
+          "tag": "li",
+          "text": "a can of saury"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup’s worth Korean radish (or daikon) peeled and sliced thinly (⅛ inch thick, about 8-10 discs)"
+        },
+        {
+          "tag": "li",
+          "text": "1 medium sized onion, sliced (1 cup’s worth)"
+        },
+        {
+          "tag": "li",
+          "text": "2 TBS soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "2 TBS Korean hot pepper flakes (gochugaru)"
+        },
+        {
+          "tag": "li",
+          "text": "1 TBS hot pepper paste"
+        },
+        {
+          "tag": "li",
+          "text": "3 cloves of garlic, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 ts of minced ginger"
+        },
+        {
+          "tag": "li",
+          "text": "1 ts of sugar"
+        },
+        {
+          "tag": "li",
+          "text": "1 green chili pepper and 1 red chili pepper, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "2 stalks of green onions, chopped"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Make a seasoning paste by combining soy sauce, hot pepper flakes, hot pepper paste, garlic, ginger, sugar, and ¼ cup of water in a small bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Add radish slices to the bottom of a non-stick shallow pot. Add the onion, the canned saury and the liquid in the can, too. Spoon the seasoning paste to the top of the saury."
+        },
+        {
+          "tag": "li",
+          "text": "Bring to a boil with the lid closed over medium high heat for about 8 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Turn down the heat very low and cook for another 12-15 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Open the lid and scoop some broth from the bottom of the pot to the top of the fish so the seasoning paste is mixed well with the broth."
+        },
+        {
+          "tag": "li",
+          "text": "Add green onion and chili peppers and cook 2 more minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Serve with rice"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,3448 @@
+{
+  "publisher": "Cook Well",
+  "sitemap_url": "https://app.cookwell.com/sitemap.xml",
+  "scraped_at": "2026-11-16T22:46:02.045497+00:00",
+  "scope": "Öffentliche Rezeptkarten aus Sitemap bzw. vollständigem Rezeptindex; kein Paywall-/Buchinhalt.",
+  "page_count": 626,
+  "recipe_count": 308,
+  "pages": [
+    {
+      "url": "https://app.cookwell.com/recipe/15-minute-triple-smash-burger-with-bacon",
+      "status": "recipe",
+      "file": "recipe--15-minute-triple-smash-burger-with-bacon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/18-minute-burrito",
+      "status": "recipe",
+      "file": "recipe--18-minute-burrito.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/20-min-chicken-shawarma-wrap",
+      "status": "recipe",
+      "file": "recipe--20-min-chicken-shawarma-wrap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/20-min-chicken-yellow-rice",
+      "status": "recipe",
+      "file": "recipe--20-min-chicken-yellow-rice.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/22-minute-katsu-sandwich",
+      "status": "recipe",
+      "file": "recipe--22-minute-katsu-sandwich.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/23-minute-chicken-strips",
+      "status": "recipe",
+      "file": "recipe--23-minute-chicken-strips.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/500-calorie-burger",
+      "status": "recipe",
+      "file": "recipe--500-calorie-burger.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/a-higher-protein-cheesy-gordita-crunch",
+      "status": "recipe",
+      "file": "recipe--a-higher-protein-cheesy-gordita-crunch.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/aglio-e-olio-pasta",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/aioli",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/al-pastor-tacos",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/alfredo-style-pasta",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/all-purpose-noodle-stir-fry-sauce",
+      "status": "recipe",
+      "file": "recipe--all-purpose-noodle-stir-fry-sauce.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/aloo-gobi",
+      "status": "recipe",
+      "file": "recipe--aloo-gobi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/american-fried-chicken",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/american-style-omelets",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/anything-you-have-pesto",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/arancini",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/arroz-con-leche",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/arroz-con-pollo",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/asparagus-spears",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/avocado-toast",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/baba-ganoush",
+      "status": "recipe",
+      "file": "recipe--baba-ganoush.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/bacon-egg-and-cheese-bagel",
+      "status": "recipe",
+      "file": "recipe--bacon-egg-and-cheese-bagel.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/baked-ziti",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/banana-pudding",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/banh-mi",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/banh-mi-rice-bowl",
+      "status": "recipe",
+      "file": "recipe--banh-mi-rice-bowl.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/barbacoa",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/basic-risotto-with-parmesan",
+      "status": "recipe",
+      "file": "recipe--basic-risotto-with-parmesan.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/bean-and-cheese-tostada",
+      "status": "recipe",
+      "file": "recipe--bean-and-cheese-tostada.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/beef-broccoli",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/beef-rendang",
+      "status": "recipe",
+      "file": "recipe--beef-rendang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/beef-stroganoff",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/beef-yellow-rice-bowl",
+      "status": "recipe",
+      "file": "recipe--beef-yellow-rice-bowl.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/beefy-hummus-taco",
+      "status": "recipe",
+      "file": "recipe--beefy-hummus-taco.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/beer-and-vodka-batter-chicken-nuggets",
+      "status": "recipe",
+      "file": "recipe--beer-and-vodka-batter-chicken-nuggets.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/beer-battered-fish",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/beer-battered-fish-sandwich",
+      "status": "recipe",
+      "file": "recipe--beer-battered-fish-sandwich.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/belish-pagach",
+      "status": "recipe",
+      "file": "recipe--belish-pagach.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/bento-box-lunches",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/biang-biang-noodles",
+      "status": "recipe",
+      "file": "recipe--biang-biang-noodles.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/bibimbap",
+      "status": "recipe",
+      "file": "recipe--bibimbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/bibimbap-bowls",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/birria-braised-meat",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/biscuits",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/bison-chopped-cheese-w-peppers",
+      "status": "recipe",
+      "file": "recipe--bison-chopped-cheese-w-peppers.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/black-bean-smash-burger",
+      "status": "recipe",
+      "file": "recipe--black-bean-smash-burger.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/black-pepper-crust-chicken-and-sandwich",
+      "status": "recipe",
+      "file": "recipe--black-pepper-crust-chicken-and-sandwich.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/blackened-chicken-with-green-goddess-dressing",
+      "status": "recipe",
+      "file": "recipe--blackened-chicken-with-green-goddess-dressing.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/blackened-chicken-wrap",
+      "status": "recipe",
+      "file": "recipe--blackened-chicken-wrap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/blackened-protein",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/blistered-shishito-peppers",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/blt",
+      "status": "recipe",
+      "file": "recipe--blt.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/bolognese-style-ragu",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/boozy-shallot-mashed-potatoes",
+      "status": "recipe",
+      "file": "recipe--boozy-shallot-mashed-potatoes.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/braised-beef-frito-pie",
+      "status": "recipe",
+      "file": "recipe--braised-beef-frito-pie.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/braised-beef-tacos",
+      "status": "recipe",
+      "file": "recipe--braised-beef-tacos.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/braised-venison-bowl",
+      "status": "recipe",
+      "file": "recipe--braised-venison-bowl.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/braising-bitter-greens",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/breaded-cutlets",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/breakfast-burritos",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/breakfast-egg-casserole",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/breakfast-sandwich",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/breakfast-smash-burger",
+      "status": "recipe",
+      "file": "recipe--breakfast-smash-burger.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/breakfast-tacos",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/brioche-burger-buns",
+      "status": "recipe",
+      "file": "recipe--brioche-burger-buns.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/buffalo-chicken-baked-potato",
+      "status": "recipe",
+      "file": "recipe--buffalo-chicken-baked-potato.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/bulgogi-beef-tacos",
+      "status": "recipe",
+      "file": "recipe--bulgogi-beef-tacos.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/butter-chicken-wrap-placeholder",
+      "status": "recipe",
+      "file": "recipe--butter-chicken-wrap-placeholder.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cacio-e-pepe-the-easy-way",
+      "status": "recipe",
+      "file": "recipe--cacio-e-pepe-the-easy-way.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/caesar-dressing",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/caesar-salad",
+      "status": "recipe",
+      "file": "recipe--caesar-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cajun-spice-mix",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/caldo",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/california-burrito",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cantonese-black-pepper-beef",
+      "status": "recipe",
+      "file": "recipe--cantonese-black-pepper-beef.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/carbonara",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/carbonnade-flamande",
+      "status": "recipe",
+      "file": "recipe--carbonnade-flamande.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/carne",
+      "status": "recipe",
+      "file": "recipe--carne.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/carne-asada-style-marinade",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/carne-guisada",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cauliflower-fried-rice",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/ceviche",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chana-masala-chickpea-curry",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chapli-kebab",
+      "status": "recipe",
+      "file": "recipe--chapli-kebab.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cheesesteaks",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cheesy-and-garlicky-roasted-broccoli",
+      "status": "recipe",
+      "file": "recipe--cheesy-and-garlicky-roasted-broccoli.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cheesy-baked-rice-casserole",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cheesy-chorizo-breakfast-burrito",
+      "status": "recipe",
+      "file": "recipe--cheesy-chorizo-breakfast-burrito.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cheesy-chorizo-pasta",
+      "status": "recipe",
+      "file": "recipe--cheesy-chorizo-pasta.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cheesy-gordita-crunch",
+      "status": "recipe",
+      "file": "recipe--cheesy-gordita-crunch.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chick-fil-a-style-grilled-chicken-deluxe-sandwich",
+      "status": "recipe",
+      "file": "recipe--chick-fil-a-style-grilled-chicken-deluxe-sandwich.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chick-fil-a-waffle-fries",
+      "status": "recipe",
+      "file": "recipe--chick-fil-a-waffle-fries.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-and-ginger-stir-fry",
+      "status": "recipe",
+      "file": "recipe--chicken-and-ginger-stir-fry.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-biryani",
+      "status": "recipe",
+      "file": "recipe--chicken-biryani.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-cheddar-flatbread",
+      "status": "recipe",
+      "file": "recipe--chicken-cheddar-flatbread.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-chilaquiles-verdes",
+      "status": "recipe",
+      "file": "recipe--chicken-chilaquiles-verdes.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-cutlets",
+      "status": "recipe",
+      "file": "recipe--chicken-cutlets.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-dinner-plate",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-fajita-bowl",
+      "status": "recipe",
+      "file": "recipe--chicken-fajita-bowl.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-fried-steak",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-hummus-wrap",
+      "status": "recipe",
+      "file": "recipe--chicken-hummus-wrap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-kati-rolls",
+      "status": "recipe",
+      "file": "recipe--chicken-kati-rolls.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-massaman-curry",
+      "status": "recipe",
+      "file": "recipe--chicken-massaman-curry.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-milanesa-torta",
+      "status": "recipe",
+      "file": "recipe--chicken-milanesa-torta.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-mozzarella-and-roasted-pepper-pasta",
+      "status": "recipe",
+      "file": "recipe--chicken-mozzarella-and-roasted-pepper-pasta.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-mozzarella-hoagie",
+      "status": "recipe",
+      "file": "recipe--chicken-mozzarella-hoagie.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-noodle-soup",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-pad-see-ew",
+      "status": "recipe",
+      "file": "recipe--chicken-pad-see-ew.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-parmesan",
+      "status": "recipe",
+      "file": "recipe--chicken-parmesan.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-pico-rice-bowl",
+      "status": "recipe",
+      "file": "recipe--chicken-pico-rice-bowl.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-pita-with-roasted-pepper-sauce",
+      "status": "recipe",
+      "file": "recipe--chicken-pita-with-roasted-pepper-sauce.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-posole-verde",
+      "status": "recipe",
+      "file": "recipe--chicken-posole-verde.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-salad",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-sausage-scarpariello",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-shoyu-ramen",
+      "status": "recipe",
+      "file": "recipe--chicken-shoyu-ramen.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-spiedies-hoagie",
+      "status": "recipe",
+      "file": "recipe--chicken-spiedies-hoagie.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-tinga-quesadilla",
+      "status": "recipe",
+      "file": "recipe--chicken-tinga-quesadilla.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chicken-with-rosemary-garlic-pan-sauce",
+      "status": "recipe",
+      "file": "recipe--chicken-with-rosemary-garlic-pan-sauce.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chilaquiles",
+      "status": "recipe",
+      "file": "recipe--chilaquiles.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chili-cheese-baked-potato",
+      "status": "recipe",
+      "file": "recipe--chili-cheese-baked-potato.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chili-oil-beef-noodles",
+      "status": "recipe",
+      "file": "recipe--chili-oil-beef-noodles.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chili-oil-noodles",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chimichurri",
+      "status": "recipe",
+      "file": "recipe--chimichurri.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chimichurri-sandwich",
+      "status": "recipe",
+      "file": "recipe--chimichurri-sandwich.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chinese-five-spice-blend",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chipotle-chicken-thighs",
+      "status": "recipe",
+      "file": "recipe--chipotle-chicken-thighs.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chipotle-s-pollo-asado-burrito",
+      "status": "recipe",
+      "file": "recipe--chipotle-s-pollo-asado-burrito.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chipotle-shrimp-tacos",
+      "status": "recipe",
+      "file": "recipe--chipotle-shrimp-tacos.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chop-salads",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chopped-cheese",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chowder",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/chutney",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cilantro-avocado-pasta-salad",
+      "status": "recipe",
+      "file": "recipe--cilantro-avocado-pasta-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cilantro-lime-rice",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/classic-french-omelette",
+      "status": "recipe",
+      "file": "recipe--classic-french-omelette.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/classic-mac-cheese",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/classic-shrimp-lo-mein",
+      "status": "recipe",
+      "file": "recipe--classic-shrimp-lo-mein.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/club-sandwich",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/coaked-oats",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/coconut-rice",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cold-sesame-oil-noodles",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/coleslaw",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/colombian-style-shredded-chicken-arepa",
+      "status": "recipe",
+      "file": "recipe--colombian-style-shredded-chicken-arepa.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/compound-butter",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/congee",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/congee-with-crispy-chili-pork",
+      "status": "recipe",
+      "file": "recipe--congee-with-crispy-chili-pork.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cookie-dough",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cooking-outside",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cornbread",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cornish-pasties",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/costra-tacos",
+      "status": "recipe",
+      "file": "recipe--costra-tacos.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cream-cheese-bacon-and-tomato-breakfast-sandwich",
+      "status": "recipe",
+      "file": "recipe--cream-cheese-bacon-and-tomato-breakfast-sandwich.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/creamy-buffalo-sauce",
+      "status": "recipe",
+      "file": "recipe--creamy-buffalo-sauce.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/creamy-mashed-potatoes",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/creamy-potato-kale-sausage-soup",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/creamy-salad-dressing",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/crepes",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/crispy-buffalo-chicken-pizza",
+      "status": "recipe",
+      "file": "recipe--crispy-buffalo-chicken-pizza.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/crispy-chili-beef",
+      "status": "recipe",
+      "file": "recipe--crispy-chili-beef.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/crispy-ish-sweet-potato-fries",
+      "status": "recipe",
+      "file": "recipe--crispy-ish-sweet-potato-fries.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/crispy-oven-fries",
+      "status": "recipe",
+      "file": "recipe--crispy-oven-fries.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/crispy-oven-roasted-buffalo-chicken",
+      "status": "recipe",
+      "file": "recipe--crispy-oven-roasted-buffalo-chicken.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/crispy-pork-belly",
+      "status": "recipe",
+      "file": "recipe--crispy-pork-belly.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/crispy-skinned-fish",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/crispy-tofu-salad-with-miso-ginger-mustard-dressing",
+      "status": "recipe",
+      "file": "recipe--crispy-tofu-salad-with-miso-ginger-mustard-dressing.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/crispy-wings",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/croque-madame",
+      "status": "recipe",
+      "file": "recipe--croque-madame.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/crumpets",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/crusted-fish",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/crying-tiger-steak",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cubano-sandwich-framework",
+      "status": "recipe",
+      "file": "recipe--cubano-sandwich-framework.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cucumber-salad",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cumin-beef-and-hummus-pita",
+      "status": "recipe",
+      "file": "recipe--cumin-beef-and-hummus-pita.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cumin-garlic-pinto-beans",
+      "status": "recipe",
+      "file": "recipe--cumin-garlic-pinto-beans.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cumin-lamb-burger",
+      "status": "recipe",
+      "file": "recipe--cumin-lamb-burger.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/cured-egg-yolks",
+      "status": "recipe",
+      "file": "recipe--cured-egg-yolks.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/curry-fried-chicken-sandwich",
+      "status": "recipe",
+      "file": "recipe--curry-fried-chicken-sandwich.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/curtido",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/custard-cream-pies",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/custard-ice-cream-base",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/dan-dan-noodles",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/danbing",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/deli-style-pasta-salad",
+      "status": "recipe",
+      "file": "recipe--deli-style-pasta-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/detroit-style-pan-pizza",
+      "status": "recipe",
+      "file": "recipe--detroit-style-pan-pizza.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/dinner-rolls-gram-s-buns",
+      "status": "recipe",
+      "file": "recipe--dinner-rolls-gram-s-buns.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/doener-kebab",
+      "status": "recipe",
+      "file": "recipe--doener-kebab.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/donburi-rice-bowls-brothy",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/double-steak-chipotle-bowl-homemade",
+      "status": "recipe",
+      "file": "recipe--double-steak-chipotle-bowl-homemade.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/dutch-baby",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/easter-pie",
+      "status": "recipe",
+      "file": "recipe--easter-pie.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/egg-drop-soup",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/egg-rolls",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/egg-salad",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/eggnog",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/eggplant-parmesan",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/eggs-benedict-variations",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/eggs-royale",
+      "status": "recipe",
+      "file": "recipe--eggs-royale.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/empanadas",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/emulsified-vinaigrette",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/enchiladas-rojas",
+      "status": "recipe",
+      "file": "recipe--enchiladas-rojas.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/enfrijoladas-1",
+      "status": "recipe",
+      "file": "recipe--enfrijoladas-1.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/english-muffins",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/escabeche",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/esquites-mexican-street-corn",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/fall-salad",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/farro-salad",
+      "status": "incomplete",
+      "file": "recipe--farro-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/fattoush",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/feijoada",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/fiery-carbonara",
+      "status": "recipe",
+      "file": "recipe--fiery-carbonara.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/figgy-pudding",
+      "status": "recipe",
+      "file": "recipe--figgy-pudding.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/filipino-eggplant-omelet",
+      "status": "recipe",
+      "file": "recipe--filipino-eggplant-omelet.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/flaky-flatbread-parathas",
+      "status": "recipe",
+      "file": "recipe--flaky-flatbread-parathas.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/floured-pan-fried-protein",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/focaccia",
+      "status": "recipe",
+      "file": "recipe--focaccia.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/four-ingredient-flour-tortillas",
+      "status": "recipe",
+      "file": "recipe--four-ingredient-flour-tortillas.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/french-dip",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/french-onion-soup",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/french-toast",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/fried-rice",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/frittata",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/fruit-cobbler",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/fruit-pie",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/fruit-salad",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/fry-sauce",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/full-english-breakfast",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/galette-complete",
+      "status": "recipe",
+      "file": "recipe--galette-complete.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/garam-masala-mix",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/garlic-shrimp",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/garlicky-italian-sausage-and-broccoli-pasta",
+      "status": "recipe",
+      "file": "recipe--garlicky-italian-sausage-and-broccoli-pasta.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/gazpacho",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/general-curry-framework-using-canned-paste",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/general-marinade-formula",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/giardiniera",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/gimbap",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/ginger-beef-and-broccoli",
+      "status": "recipe",
+      "file": "recipe--ginger-beef-and-broccoli.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/ginger-garlic-steak-and-rice",
+      "status": "recipe",
+      "file": "recipe--ginger-garlic-steak-and-rice.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/glazed-carrots",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/goat-breakfast-sandwich",
+      "status": "recipe",
+      "file": "recipe--goat-breakfast-sandwich.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/gochujang-beef-bowl",
+      "status": "recipe",
+      "file": "recipe--gochujang-beef-bowl.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/gochujang-chicken-stir-fry-bowl",
+      "status": "recipe",
+      "file": "recipe--gochujang-chicken-stir-fry-bowl.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/gochujang-steak-bowl",
+      "status": "recipe",
+      "file": "recipe--gochujang-steak-bowl.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/gorditas",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/grain-bowl",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/gram-s-breaded-pork-chops",
+      "status": "recipe",
+      "file": "recipe--gram-s-breaded-pork-chops.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/gram-s-stuffing",
+      "status": "recipe",
+      "file": "recipe--gram-s-stuffing.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/green-chile-chicken-enchiladas",
+      "status": "recipe",
+      "file": "recipe--green-chile-chicken-enchiladas.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/green-chile-chicken-white-cheddar-mac-and-cheese",
+      "status": "recipe",
+      "file": "recipe--green-chile-chicken-white-cheddar-mac-and-cheese.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/green-goddess-ranch",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/green-pea-pesto",
+      "status": "recipe",
+      "file": "recipe--green-pea-pesto.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/grilled-chicken-cava-bowl",
+      "status": "recipe",
+      "file": "recipe--grilled-chicken-cava-bowl.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/grilled-chicken-flatbread",
+      "status": "recipe",
+      "file": "recipe--grilled-chicken-flatbread.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/grilled-chicken-salad",
+      "status": "recipe",
+      "file": "recipe--grilled-chicken-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/grilled-vegetables",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/grilled-zucchini-summer-squash",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/ground-beef-taco-night",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/ground-chicken-and-crispy-potato-bowl",
+      "status": "recipe",
+      "file": "recipe--ground-chicken-and-crispy-potato-bowl.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/guacamole",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/gumbo",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/gyro-style-wrap",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/harissa-spiced-lamb-kebabs",
+      "status": "recipe",
+      "file": "recipe--harissa-spiced-lamb-kebabs.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/hatch-chile-smashburger",
+      "status": "recipe",
+      "file": "recipe--hatch-chile-smashburger.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/healthier-white-cheddar-mac-and-cheese",
+      "status": "recipe",
+      "file": "recipe--healthier-white-cheddar-mac-and-cheese.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/healthy-ish-rotisserie-chicken-nachos",
+      "status": "recipe",
+      "file": "recipe--healthy-ish-rotisserie-chicken-nachos.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/high-protein-3-cheese-pizza",
+      "status": "recipe",
+      "file": "recipe--high-protein-3-cheese-pizza.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/high-protein-baked-chicken-ziti",
+      "status": "recipe",
+      "file": "recipe--high-protein-baked-chicken-ziti.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/high-protein-baked-potato",
+      "status": "recipe",
+      "file": "recipe--high-protein-baked-potato.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/high-protein-beef-bowl",
+      "status": "recipe",
+      "file": "recipe--high-protein-beef-bowl.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/high-protein-chicken-guacamole-bowl",
+      "status": "recipe",
+      "file": "recipe--high-protein-chicken-guacamole-bowl.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/high-protein-crunchwrap-supreme",
+      "status": "recipe",
+      "file": "recipe--high-protein-crunchwrap-supreme.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/high-protein-dipping-tacos",
+      "status": "recipe",
+      "file": "recipe--high-protein-dipping-tacos.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/high-protein-gochujang-noodles",
+      "status": "recipe",
+      "file": "recipe--high-protein-gochujang-noodles.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/high-protein-harissa-spiced-wrap",
+      "status": "recipe",
+      "file": "recipe--high-protein-harissa-spiced-wrap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/high-protein-kofta-beef-bowl",
+      "status": "recipe",
+      "file": "recipe--high-protein-kofta-beef-bowl.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/high-protein-loaded-baked-potatoes",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/high-protein-salad",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/high-protein-turkey-sausage-egg-and-cheese-english-muffin",
+      "status": "recipe",
+      "file": "recipe--high-protein-turkey-sausage-egg-and-cheese-english-muffin.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/high-protein-za-atar-chicken-hummus-wrap",
+      "status": "recipe",
+      "file": "recipe--high-protein-za-atar-chicken-hummus-wrap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/higher-protein-chicken-enchiladas-verdes",
+      "status": "recipe",
+      "file": "recipe--higher-protein-chicken-enchiladas-verdes.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/higher-protein-chicken-lo-mein",
+      "status": "recipe",
+      "file": "recipe--higher-protein-chicken-lo-mein.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/higher-protein-king-ranch-casserole",
+      "status": "recipe",
+      "file": "recipe--higher-protein-king-ranch-casserole.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/hoagie-rolls",
+      "status": "recipe",
+      "file": "recipe--hoagie-rolls.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/hollandaise-sauce",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/home-friendly-general-tso-s-air-fried-or-deep-fried",
+      "status": "recipe",
+      "file": "recipe--home-friendly-general-tso-s-air-fried-or-deep-fried.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/homemade-bbq-sauce",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/homemade-beans",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/homemade-big-mac",
+      "status": "recipe",
+      "file": "recipe--homemade-big-mac.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/homemade-caramel-sauce",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/homemade-chile-crisp",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/homemade-chorizo-choripan-sandwich",
+      "status": "recipe",
+      "file": "recipe--homemade-chorizo-choripan-sandwich.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/homemade-corn-tortillas",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/homemade-cured-bacon",
+      "status": "recipe",
+      "file": "recipe--homemade-cured-bacon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/homemade-everything-bagel-seasoning",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/homemade-granola",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/homemade-jam-or-compote",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/homemade-mayonnaise",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/homemade-mcdonald-s-french-fries",
+      "status": "recipe",
+      "file": "recipe--homemade-mcdonald-s-french-fries.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/homemade-pho",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/homemade-pico-de-gallo",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/homemade-ribs",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/homemade-smoothies",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/homemade-stock-broth",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/homemade-sushi-rolls",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/homemade-whataburger",
+      "status": "recipe",
+      "file": "recipe--homemade-whataburger.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/homemade-zaatar",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/honey-chipotle-glazed-chicken-kebabs",
+      "status": "recipe",
+      "file": "recipe--honey-chipotle-glazed-chicken-kebabs.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/honey-lemon-goat-cheese-brussel-sprout-salad",
+      "status": "recipe",
+      "file": "recipe--honey-lemon-goat-cheese-brussel-sprout-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/hosting-rice-noodle-bowls",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/hot-and-sweet-chicken-banh-mi",
+      "status": "recipe",
+      "file": "recipe--hot-and-sweet-chicken-banh-mi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/hot-honey-buffalo-grilled-chicken-sandwich",
+      "status": "recipe",
+      "file": "recipe--hot-honey-buffalo-grilled-chicken-sandwich.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/huevos-rancheros",
+      "status": "recipe",
+      "file": "recipe--huevos-rancheros.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/hummus",
+      "status": "recipe",
+      "file": "recipe--hummus.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/in-n-out-double-double-and-animal-style-fries",
+      "status": "recipe",
+      "file": "recipe--in-n-out-double-double-and-animal-style-fries.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/irish-indian-shepherds-pie",
+      "status": "recipe",
+      "file": "recipe--irish-indian-shepherds-pie.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/italian-beef",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/italian-chicken-pasta-salad",
+      "status": "recipe",
+      "file": "recipe--italian-chicken-pasta-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/italian-chopped-cheese-w-calabrian-mayo",
+      "status": "recipe",
+      "file": "recipe--italian-chopped-cheese-w-calabrian-mayo.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/italian-sub",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/jalapeno-chopped-cheese-w-lime-crema",
+      "status": "recipe",
+      "file": "recipe--jalapeno-chopped-cheese-w-lime-crema.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/jalapeno-ranch-salad-w-adobo-chicken",
+      "status": "recipe",
+      "file": "recipe--jalapeno-ranch-salad-w-adobo-chicken.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/jamaican-beef-patty",
+      "status": "recipe",
+      "file": "recipe--jamaican-beef-patty.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/jamaican-jerk",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/jamaican-jerk-chicken-stew",
+      "status": "recipe",
+      "file": "recipe--jamaican-jerk-chicken-stew.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/jamaican-oxtail-stew",
+      "status": "recipe",
+      "file": "recipe--jamaican-oxtail-stew.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/jambalaya",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/japanese-curry",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/jollof-rice",
+      "status": "recipe",
+      "file": "recipe--jollof-rice.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/kalbi-short-ribs-1",
+      "status": "recipe",
+      "file": "recipe--kalbi-short-ribs-1.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/karaage-japanese-fried-chicken",
+      "status": "recipe",
+      "file": "recipe--karaage-japanese-fried-chicken.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/katsu-style-cutlet",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/keema-matar",
+      "status": "recipe",
+      "file": "recipe--keema-matar.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/kettle-cooked-chips",
+      "status": "recipe",
+      "file": "recipe--kettle-cooked-chips.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/key-lime-pie",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/khao-soi",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/kimchi",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/kofta-kebab-meat",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/korean-fried-chicken",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/lahmacun",
+      "status": "recipe",
+      "file": "recipe--lahmacun.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/lamb-kofta",
+      "status": "recipe",
+      "file": "recipe--lamb-kofta.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/lamb-pita-pocket",
+      "status": "recipe",
+      "file": "recipe--lamb-pita-pocket.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/lamb-pita-smash-burger",
+      "status": "recipe",
+      "file": "recipe--lamb-pita-smash-burger.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/larb-minced-meat-salad",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/latkes-framework",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/leftover-braised-meat-banh-mi",
+      "status": "recipe",
+      "file": "recipe--leftover-braised-meat-banh-mi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/leftover-focaccia-pizza",
+      "status": "recipe",
+      "file": "recipe--leftover-focaccia-pizza.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/leftover-focaccia-turkey-pesto-sandwich",
+      "status": "recipe",
+      "file": "recipe--leftover-focaccia-turkey-pesto-sandwich.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/lemonade-limeade",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/lemongrass-chicken-banh-mi",
+      "status": "recipe",
+      "file": "recipe--lemongrass-chicken-banh-mi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/lemongrass-shrimp-boil",
+      "status": "recipe",
+      "file": "recipe--lemongrass-shrimp-boil.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/lentils",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/lettuce-wraps",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/lo-mein",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/loaded-chipotle-chicken-snack-wrap",
+      "status": "recipe",
+      "file": "recipe--loaded-chipotle-chicken-snack-wrap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/lobster-shrimp-rolls",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/low-calorie-smash-burger",
+      "status": "recipe",
+      "file": "recipe--low-calorie-smash-burger.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/lower-calorie-butter-chicken",
+      "status": "recipe",
+      "file": "recipe--lower-calorie-butter-chicken.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/lower-calorie-shrimp-fried-rice",
+      "status": "recipe",
+      "file": "recipe--lower-calorie-shrimp-fried-rice.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/lu-rou-fan",
+      "status": "recipe",
+      "file": "recipe--lu-rou-fan.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/lumpia",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/make-ahead-carnitas",
+      "status": "recipe",
+      "file": "recipe--make-ahead-carnitas.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/make-ahead-mcdonald-s-style-hash-browns",
+      "status": "recipe",
+      "file": "recipe--make-ahead-mcdonald-s-style-hash-browns.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/mangu-and-los-tres-golpes",
+      "status": "recipe",
+      "file": "recipe--mangu-and-los-tres-golpes.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/mapo-tofu",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/marcella-hazan-s-3-ingredient-tomato-sauce",
+      "status": "recipe",
+      "file": "recipe--marcella-hazan-s-3-ingredient-tomato-sauce.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/marinara-sauce",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/mary-me-cream-sauce",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/mayo-based-dressing",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/mayo-marinated-protein",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/mayo-spatchcock-turkey",
+      "status": "recipe",
+      "file": "recipe--mayo-spatchcock-turkey.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/mcdonald-s-snack-wrap",
+      "status": "recipe",
+      "file": "recipe--mcdonald-s-snack-wrap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/meat-pies",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/meatball-base",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/meatball-sub",
+      "status": "recipe",
+      "file": "recipe--meatball-sub.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/meatball-subs",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/meatloaf",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/mediterranean-bento-box-lunch",
+      "status": "recipe",
+      "file": "recipe--mediterranean-bento-box-lunch.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/menemen",
+      "status": "recipe",
+      "file": "recipe--menemen.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/mexican-red-rice",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/mezze-platter-dinner-party",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/migas-scramble",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/milanesa",
+      "status": "recipe",
+      "file": "recipe--milanesa.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/minestrone-soup",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/miso",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/miso-marinated-fish",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/multipurpose-flatbread-dough",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/multipurpose-lean-dough",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/mushroom-pad-see-ew",
+      "status": "recipe",
+      "file": "recipe--mushroom-pad-see-ew.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/mushroom-risotto",
+      "status": "recipe",
+      "file": "recipe--mushroom-risotto.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/nacho-bar",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/new-york-style-bagels",
+      "status": "recipe",
+      "file": "recipe--new-york-style-bagels.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/nicoise-style-salad",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/no-grocery-run-ground-meat-rice-bowl",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/noodle-stir-fry",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/nuoc-cham",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/nyc-square-pie-with-vodka-sauce-and-cupping-pepperoni",
+      "status": "recipe",
+      "file": "recipe--nyc-square-pie-with-vodka-sauce-and-cupping-pepperoni.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/oklahoma-shallot-burger",
+      "status": "recipe",
+      "file": "recipe--oklahoma-shallot-burger.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/okonomiyaki-cabbage-pancake",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/one-pot-pasta",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/onigiri",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/oregano-crusted-chicken-thighs",
+      "status": "recipe",
+      "file": "recipe--oregano-crusted-chicken-thighs.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/orzo-salad",
+      "status": "recipe",
+      "file": "recipe--orzo-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/overnight-oats",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pad-kra-pao-thai-holy-basil-stir-fry",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pad-see-ew",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pad-thai",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pakistani-chicken-karahi",
+      "status": "recipe",
+      "file": "recipe--pakistani-chicken-karahi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pambazo",
+      "status": "recipe",
+      "file": "recipe--pambazo.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pan-sauces",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pancakes",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/panko-fish-tacos",
+      "status": "recipe",
+      "file": "recipe--panko-fish-tacos.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/panzanella",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/panzanella-italian-bread-salad",
+      "status": "recipe",
+      "file": "recipe--panzanella-italian-bread-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/parchment-steamed-protein-vegetables-en-papillote",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pasta-alla-checca",
+      "status": "recipe",
+      "file": "recipe--pasta-alla-checca.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pasta-alla-genovese-1",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pasta-puttanesc",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/patty-melt",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/peanut-banana-cocoa-crunch-bowl",
+      "status": "recipe",
+      "file": "recipe--peanut-banana-cocoa-crunch-bowl.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pecan-pie",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/perfect-scrambled-eggs",
+      "status": "recipe",
+      "file": "recipe--perfect-scrambled-eggs.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pesto-pasta-salad",
+      "status": "recipe",
+      "file": "recipe--pesto-pasta-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pesto-slaw-chicken-cutlet-sandwich",
+      "status": "recipe",
+      "file": "recipe--pesto-slaw-chicken-cutlet-sandwich.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/philadelphia-ice-cream-base",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/picadillo-tostada",
+      "status": "recipe",
+      "file": "recipe--picadillo-tostada.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/piccata",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pickled-onions",
+      "status": "recipe",
+      "file": "recipe--pickled-onions.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pico-de-gallo",
+      "status": "recipe",
+      "file": "recipe--pico-de-gallo.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pide-turkish-bread",
+      "status": "recipe",
+      "file": "recipe--pide-turkish-bread.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pie-dough",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pierogi",
+      "status": "recipe",
+      "file": "recipe--pierogi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pita-pizza",
+      "status": "recipe",
+      "file": "recipe--pita-pizza.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pita-pizzas",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/poached-chicken-and-rice",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/poached-eggs",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/poblano-and-chicken-quesadilla",
+      "status": "recipe",
+      "file": "recipe--poblano-and-chicken-quesadilla.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/poblano-con-queso-taco",
+      "status": "recipe",
+      "file": "recipe--poblano-con-queso-taco.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pork-and-cabbage-gyoza",
+      "status": "recipe",
+      "file": "recipe--pork-and-cabbage-gyoza.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pork-chop-plate",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pot-pie",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/potato-croquettes",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/potato-salad",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pozole-rojo",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pozole-verde",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/protein-oat-balls",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/protein-vegetable-stir-fry",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pulled-pork",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pulled-pork-slaw-baked-potato",
+      "status": "recipe",
+      "file": "recipe--pulled-pork-slaw-baked-potato.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pumpkin-sweet-potato-pie",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/pupusas",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/queso",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/quick-dirty-shakshuka",
+      "status": "recipe",
+      "file": "recipe--quick-dirty-shakshuka.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/quick-pickles",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/raita",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/ranch",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/ratatoullie",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/red-wine-braised-beef-cottage-pie",
+      "status": "recipe",
+      "file": "recipe--red-wine-braised-beef-cottage-pie.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/red-wine-braised-short-ribs",
+      "status": "recipe",
+      "file": "recipe--red-wine-braised-short-ribs.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/refried-beans",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/refried-black-beans-with-crispy-garlic-chips",
+      "status": "recipe",
+      "file": "recipe--refried-black-beans-with-crispy-garlic-chips.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/restaurant-style-butter-chicken",
+      "status": "recipe",
+      "file": "recipe--restaurant-style-butter-chicken.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/restaurant-style-chicken-fried-rice",
+      "status": "recipe",
+      "file": "recipe--restaurant-style-chicken-fried-rice.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/rice",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/ricotta-pasta-sauce-with-peas-and-bacon",
+      "status": "recipe",
+      "file": "recipe--ricotta-pasta-sauce-with-peas-and-bacon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/risotto",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/risotto-milanese",
+      "status": "recipe",
+      "file": "recipe--risotto-milanese.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/roasted-chicken",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/roasted-green-hot-sauce",
+      "status": "recipe",
+      "file": "recipe--roasted-green-hot-sauce.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/roasted-peppers",
+      "status": "recipe",
+      "file": "recipe--roasted-peppers.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/roasted-winter-squash",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/rogan-josh",
+      "status": "recipe",
+      "file": "recipe--rogan-josh.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/romesco-sauce",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/ropa",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/rosemary-roasted-carrots",
+      "status": "recipe",
+      "file": "recipe--rosemary-roasted-carrots.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/roti-chapati",
+      "status": "recipe",
+      "file": "recipe--roti-chapati.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/rustic-mashed-potatoes",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/saag-paneer",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/saffron-rice",
+      "status": "recipe",
+      "file": "recipe--saffron-rice.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/salmon-edamame-poke-bowl",
+      "status": "recipe",
+      "file": "recipe--salmon-edamame-poke-bowl.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/salmon-lox-and-cream-cheese-bagel",
+      "status": "recipe",
+      "file": "recipe--salmon-lox-and-cream-cheese-bagel.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/salmon-plate",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/salmon-temaki-bento-box",
+      "status": "recipe",
+      "file": "recipe--salmon-temaki-bento-box.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/salsa-roja",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/salsa-verde",
+      "status": "recipe",
+      "file": "recipe--salsa-verde.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/salsa-verde-tomatillo",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/sandwich-baguettes",
+      "status": "recipe",
+      "file": "recipe--sandwich-baguettes.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/sandwich-bread-white-bread-cinnamon-swirl-everything-bagel",
+      "status": "recipe",
+      "file": "recipe--sandwich-bread-white-bread-cinnamon-swirl-everything-bagel.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/satay-skewers",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/satisfying-side-salad",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/sauerkraut",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/sausage-and-cream-pasta",
+      "status": "recipe",
+      "file": "recipe--sausage-and-cream-pasta.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/sausage-gravy-and-biscuits",
+      "status": "recipe",
+      "file": "recipe--sausage-gravy-and-biscuits.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/sausage-rolls",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/sausage-sourdough-breakfast-casserole",
+      "status": "recipe",
+      "file": "recipe--sausage-sourdough-breakfast-casserole.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/sauteed-greens",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/scallion-noodles",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/scallion-pancakes",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/schnitzel",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/seafood-paella",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/seasoned-rice-spiced-ground-meat-bowls",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/shakshuka",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/shawarma-spice-mix",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/shawarma-style-wraps",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/sheet-tray-roasted-vegetables",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/shepherds-pie",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/shokupan-japanese-milk-bread-loaf",
+      "status": "recipe",
+      "file": "recipe--shokupan-japanese-milk-bread-loaf.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/shredded-chicken",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/shrimp-scampi",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/shrimp-scampi-spaghetti",
+      "status": "recipe",
+      "file": "recipe--shrimp-scampi-spaghetti.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/simple-syrup",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/simple-tiramisu",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/smashed-italian-sausage-hoagie",
+      "status": "recipe",
+      "file": "recipe--smashed-italian-sausage-hoagie.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/smashed-potatoes",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/smoked-chuck-roast",
+      "status": "recipe",
+      "file": "recipe--smoked-chuck-roast.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/snack-wraps",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/som-tum",
+      "status": "recipe",
+      "file": "recipe--som-tum.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/sopes",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/southern-style-grits",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/southwest-chicken-grain-bowl",
+      "status": "recipe",
+      "file": "recipe--southwest-chicken-grain-bowl.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/southwestern-brussel-sprout-salad",
+      "status": "recipe",
+      "file": "recipe--southwestern-brussel-sprout-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/southwestern-corn-black-bean-salad",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/spaghetti-meatballs",
+      "status": "recipe",
+      "file": "recipe--spaghetti-meatballs.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/spatchcocked-chicken-turkey",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/spiced-bison-meatball-and-rice-bowl",
+      "status": "recipe",
+      "file": "recipe--spiced-bison-meatball-and-rice-bowl.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/spiced-lamb-wrap",
+      "status": "recipe",
+      "file": "recipe--spiced-lamb-wrap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/spicy-bacon-egg-and-cheese-sandwich",
+      "status": "recipe",
+      "file": "recipe--spicy-bacon-egg-and-cheese-sandwich.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/spicy-beef-lo-mein",
+      "status": "recipe",
+      "file": "recipe--spicy-beef-lo-mein.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/spicy-chicken-and-brussels-caesar-wrap",
+      "status": "recipe",
+      "file": "recipe--spicy-chicken-and-brussels-caesar-wrap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/spicy-chicken-hoagie",
+      "status": "recipe",
+      "file": "recipe--spicy-chicken-hoagie.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/spicy-chicken-tenders-popeye-s-style",
+      "status": "recipe",
+      "file": "recipe--spicy-chicken-tenders-popeye-s-style.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/spicy-cumin-lamb-wrap",
+      "status": "recipe",
+      "file": "recipe--spicy-cumin-lamb-wrap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/spicy-garlic-noodles",
+      "status": "recipe",
+      "file": "recipe--spicy-garlic-noodles.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/spicy-italian-chicken-sandwich",
+      "status": "recipe",
+      "file": "recipe--spicy-italian-chicken-sandwich.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/spicy-lamb-meatball-cava-bowl",
+      "status": "recipe",
+      "file": "recipe--spicy-lamb-meatball-cava-bowl.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/spicy-popcorn-chicken",
+      "status": "recipe",
+      "file": "recipe--spicy-popcorn-chicken.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/spicy-salmon-rice-bowl-with-cucumber-salad",
+      "status": "recipe",
+      "file": "recipe--spicy-salmon-rice-bowl-with-cucumber-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/spinach-carbonara",
+      "status": "recipe",
+      "file": "recipe--spinach-carbonara.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/spring-rolls",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/steak-and-corn-tostada",
+      "status": "recipe",
+      "file": "recipe--steak-and-corn-tostada.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/steak-and-rosemary-garlic-frites-sandwich",
+      "status": "recipe",
+      "file": "recipe--steak-and-rosemary-garlic-frites-sandwich.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/steak-dinner",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/steak-fajita-tacos",
+      "status": "recipe",
+      "file": "recipe--steak-fajita-tacos.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/steak-lettuce-wraps",
+      "status": "recipe",
+      "file": "recipe--steak-lettuce-wraps.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/steak-mushroom-and-asparagus-bowl",
+      "status": "recipe",
+      "file": "recipe--steak-mushroom-and-asparagus-bowl.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/steak-with-red-wine-pan-sauce",
+      "status": "recipe",
+      "file": "recipe--steak-with-red-wine-pan-sauce.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/steamed-mussels",
+      "status": "recipe",
+      "file": "recipe--steamed-mussels.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/steamed-mussels-and-clams",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/stir-fried-cabbage",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/stir-fried-green-beans",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/stir-fried-ground-meat-rice-bowl",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/stir-fry-sauce",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/stovetop-mac-cheese-no-roux",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/street-cart-chicken-and-yellow-rice",
+      "status": "recipe",
+      "file": "recipe--street-cart-chicken-and-yellow-rice.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/street-tacos",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/stuffed-bell-peppers",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/stuffed-cabbage-rolls",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/stuffed-shells",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/succotash",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/sunday-braise",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/sunday-roasted-chicken",
+      "status": "recipe",
+      "file": "recipe--sunday-roasted-chicken.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/sweet-and-savory-kolaches",
+      "status": "recipe",
+      "file": "recipe--sweet-and-savory-kolaches.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/tabbouleh",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/taco-bell-s-crunchwrap-supreme-at-home",
+      "status": "recipe",
+      "file": "recipe--taco-bell-s-crunchwrap-supreme-at-home.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/taco-seasoning",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/tamales",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/taquitos",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/tempura",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/teriyaki-and-snap-pea-noodles",
+      "status": "recipe",
+      "file": "recipe--teriyaki-and-snap-pea-noodles.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/teriyaki-sauce",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/test",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/texas-style-chili-con-carne",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/thai-basil-beef-stir-fry",
+      "status": "recipe",
+      "file": "recipe--thai-basil-beef-stir-fry.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/thai-chile-pork-and-cabbage-stir-fry",
+      "status": "recipe",
+      "file": "recipe--thai-chile-pork-and-cabbage-stir-fry.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/thai-green-curry",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/thai-red-curry",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/thai-sausage-stir-fry",
+      "status": "recipe",
+      "file": "recipe--thai-sausage-stir-fry.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/thanksgiving-gravy",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/thanksgiving-stuffing-dressing",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/the-20-minute-fried-chicken-sandwich",
+      "status": "recipe",
+      "file": "recipe--the-20-minute-fried-chicken-sandwich.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/the-christmas-crinkle-cookie",
+      "status": "recipe",
+      "file": "recipe--the-christmas-crinkle-cookie.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/the-og-chick-fil-a-sandwich",
+      "status": "recipe",
+      "file": "recipe--the-og-chick-fil-a-sandwich.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/the-philly-cheesesteak-whiz-wit",
+      "status": "recipe",
+      "file": "recipe--the-philly-cheesesteak-whiz-wit.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/the-philly-roast-pork-sandwich",
+      "status": "recipe",
+      "file": "recipe--the-philly-roast-pork-sandwich.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/three-cup-chicken",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/tinga-poblana",
+      "status": "recipe",
+      "file": "recipe--tinga-poblana.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/tinga-poblana-tostada",
+      "status": "recipe",
+      "file": "recipe--tinga-poblana-tostada.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/tom-kha-soup-1",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/tom-yum-soup",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/tomato-egg-stir-fry",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/tonkatsu",
+      "status": "recipe",
+      "file": "recipe--tonkatsu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/tortas",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/tortilla",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/tortilla-espa-ola",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/tostadas",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/touffe",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/ttebbokki",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/tteokbokki",
+      "status": "recipe",
+      "file": "recipe--tteokbokki.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/tuna-poke-bowl",
+      "status": "recipe",
+      "file": "recipe--tuna-poke-bowl.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/tuna-salad",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/two-ingredient-gnocchi-and-browned-butter-sauce",
+      "status": "recipe",
+      "file": "recipe--two-ingredient-gnocchi-and-browned-butter-sauce.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/tzatziki",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/upgraded-instant-ramen",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/valencian-style-paella",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/vegetable-soup",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/velveting-stir-fry-meat-marinade",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/vodka-pasta-sausage",
+      "status": "recipe",
+      "file": "recipe--vodka-pasta-sausage.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/vodka-sauce",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/waffles",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/weeknight-chicken-burrito",
+      "status": "recipe",
+      "file": "recipe--weeknight-chicken-burrito.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/weeknight-chili",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/weeknight-fajitas",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/weeknight-filipino-adobo-braise",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/weeknight-lasagna",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/weeknight-massaman-curry",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/weeknight-pan-pizza",
+      "status": "recipe",
+      "file": "recipe--weeknight-pan-pizza.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/weeknight-poke-bowl",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/weeknight-ragu",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/welsh-rarebit",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/whipped-feta-or-ricotta",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/white-chicken-chili",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/whole-wheat-pasta-with-italian-sausage-and-broccolini",
+      "status": "recipe",
+      "file": "recipe--whole-wheat-pasta-with-italian-sausage-and-broccolini.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/yellow-rice",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/yogurt-bowl",
+      "status": "restricted",
+      "reason": "Quellkarte als nicht frei zugänglich ausgezeichnet; keine Rezeptdaten gespeichert."
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/za-atar-chicken-and-rice-bowl-with-pomegranate-seeds",
+      "status": "recipe",
+      "file": "recipe--za-atar-chicken-and-rice-bowl-with-pomegranate-seeds.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/za-atar-kebab-yellow-rice-baladi-salad",
+      "status": "recipe",
+      "file": "recipe--za-atar-kebab-yellow-rice-baladi-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://app.cookwell.com/recipe/za-atar-marinated-pasta-and-chicken-salad",
+      "status": "recipe",
+      "file": "recipe--za-atar-marinated-pasta-and-chicken-salad.json",
+      "recipe_count": 1
+    }
+  ]
+}

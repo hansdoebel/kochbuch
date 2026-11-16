@@ -1,0 +1,45 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/ginger-beef-and-broccoli",
+  "recipes": [
+    {
+      "name": "Ginger Beef & Broccoli",
+      "source_url": "https://app.cookwell.com/recipe/ginger-beef-and-broccoli",
+      "recipe_id": "https://app.cookwell.com/recipe/ginger-beef-and-broccoli",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT2H15M",
+      "ingredients": [
+        "Steak of choice, 450 g",
+        "Garlic, 2 cloves",
+        "Broccoli, 1 head",
+        "Fresh ginger, 1 inch knob",
+        "Salt, a sprinkle",
+        "Cooking oil, two spoonfuls",
+        "Thai chili flakes",
+        "Soy Sauce",
+        "White rice",
+        "Pickled onions",
+        "Black sesame seeds",
+        "Thai chili flakes"
+      ],
+      "instructions": [
+        "Place the steak in the freezer for 1-2 hours before cooking. Meanwhile, cook some rice now if you don’t have any leftover.",
+        "Once the steak has firmed up in the freezer, slice it as thin as possible and place it in a bowl. Grate the garlic cloves and ginger using a grater. Add them to the bowl with chili flakes, a splash of soy sauce, and half of the oil. Mix everything together with your hands. Chop the broccoli into pieces for stir-frying.",
+        "Pour the remaining oil into a wok and set it over high heat. Once it starts to smoke, add the seasoned beef and stir-fry for 1-2 minutes until cooked through. Remove and set aside. Add a little soy sauce and water to the wok. Scrape the fond from the bottom of the pan, then add the broccoli. Let it cook until the water evaporates, then set aside. The broccoli should still be slightly crunchy.",
+        "To serve, place rice on the plate and sprinkle with sesame seeds. Add the broccoli, then the beef, some pickled onions, and finally another sprinkle of chili flakes. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

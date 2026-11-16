@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/focaccia-caponata-sandwich",
+  "recipes": [
+    {
+      "name": "Focaccia Caponata Sandwich",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/focaccia-caponata-sandwich",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/focaccia-caponata-sandwich#recipe-1c8477cb-d2ec-588e-8b01-193044b82b5a",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Sandwiches",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "4 Focaccia",
+        "1 kleine Aubergine",
+        "1 kleine Zucchini",
+        "2 Tomaten",
+        "1 Knoblauchzehe",
+        "1 Zwiebel",
+        "50 g Pinienkerne",
+        "10 g frischer Oregano",
+        "20 g frischer Basilikum",
+        "100 g Oliven (entkernt, egal ob grün oder schwarz)",
+        "150 g Tomatenmark",
+        "2 EL Rotweinessig",
+        "50 ml Wasser",
+        "Pflanzenöl zum Braten",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Aubergine und Zucchini in Scheiben schneiden. Die Zwiebel in feine Würfel schneiden und Knoblauch fein hacken. Tomaten in Scheiben schneiden. Kräuterblätter vom Stiel zupfen und grob hacken. Oliven klein schneiden.",
+        "Aubergine- und Zucchinischeiben in einer großen Pfanne mit pflanzlichem Öl von beiden Seiten anbraten. Immer nur so viel nehmen, dass sie ausreichend Platz haben und nicht übereinander liegen. Aus der Pfanne nehmen, auf Küchenpapier abfetten und mit Salz und Pfeffer würzen. Mit den restlichen Gemüsescheiben wiederholen.",
+        "Parallel in einer zweiten Pfanne erneut Pflanzenöl erhitzen und Knoblauch und Zwiebelwürfel ca. 2 -3 Minuten anbraten, bis die Zwiebeln glasig sind. Tomatenmark, Rotweinessig und Wasser dazugeben und vermengen. Die Hälfte der geschnittene Oliven und gehackte Kräuter dazugeben. Mit Salz und Pfeffer abschmecken und weitere ca. 5 Min. köcheln.",
+        "Die Hälfte der Focacciascheiben mit der Tomatenmischung bestreichen, mit Zucchini- und Auberginenscheiben belegen. Frische Tomatenscheiben, sowie Pinienkerne und restliche Oliven und frischen Basilikum darauf verteilen. Die restlichen Focacciascheiben ebenfalls mit der Tomatenmischung bestreichen und darauflegen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,37 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mayonnaise",
+  "recipes": [
+    {
+      "name": "Vegane Mayonnaise",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mayonnaise",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mayonnaise#recipe-75e05f11-c0b4-53c6-90fa-f02ef687bc3b",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "350 ml",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "100 ml Sojamilch",
+        "200-250 ml Rapsöl oder Sonnenblumenöl",
+        "1 TL Zitronensaft",
+        "1/2 TL Senf",
+        "Salz"
+      ],
+      "instructions": [
+        "Pflanzliche Milch, Senf und Zitronensaft in ein hohes Gefäß geben und für 30 Sekunden pürieren.",
+        "Nach und nach das Öl hinzugeben, bis die Masse andickt und fester wird. Durchgängig und auf höchster Stufe pürieren.",
+        "Zum Schluss mit Salz abschmecken - fertig!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

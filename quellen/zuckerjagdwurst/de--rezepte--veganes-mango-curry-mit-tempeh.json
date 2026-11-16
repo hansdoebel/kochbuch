@@ -1,0 +1,69 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-mango-curry-mit-tempeh",
+  "recipes": [
+    {
+      "name": "Veganes Mango-Curry mit Tempeh",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-mango-curry-mit-tempeh",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-mango-curry-mit-tempeh#recipe-c5cc39c1-46b5-5386-816f-3cfa3f63a01f",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für den Tempeh:",
+        "400 g Tempeh Natur (z. B. von [tempehmanufaktur](www.tempehmanufaktur.net))",
+        "3 EL neutrales Pflanzenöl",
+        "3 EL glutenfreie Sojasoße",
+        "0.5 Limette (Saft)",
+        "2 TL Garam Masala",
+        "1 TL Currypulver",
+        "1 TL gemahlener Kreuzkümmel",
+        "1 TL geräuchertes Paprikapulver",
+        "1 Knoblauchzehe",
+        "10 g Ingwer",
+        "Für die Mango-Soße:",
+        "1 rote Zwiebel",
+        "2 TL rote Currypaste",
+        "0.5 kleine rote Chili",
+        "1 TL Kurkuma",
+        "1 Mango oder 300 g TK-Mango",
+        "400 g Kokosmilch",
+        "200 ml Wasser",
+        "2 EL Agavendicksaft",
+        "0.5 Limette (Saft)",
+        "2–3 EL veganer Naturjoghurt",
+        "neutrales Pflanzenöl zum Anbraten",
+        "Salz",
+        "Pfeffer",
+        "Für Beilage und Toppings:",
+        "300 g Jasminreis",
+        "1 Mango",
+        "Koriander",
+        "Mandelscheiben",
+        "veganer Naturjoghurt",
+        "Limetten"
+      ],
+      "instructions": [
+        "Den Jasminreis nach Packungsanweisung garen. Den Tempeh in Dreiecke schneiden.",
+        "Für die Marinade Knoblauch und Ingwer fein würfeln. Pflanzenöl, Sojasoße, Limettensaft, Garam Masala, Currypulver, Kreuzkümmel, Paprikapulver, Knoblauch und Ingwer verrühren. Den Tempeh darin wenden und mindestens 10 Minuten ziehen lassen.",
+        "Die Zwiebel grob würfeln. Die Mango für die Soße schälen, das Fruchtfleisch vom Stein schneiden und in grobe Stücke teilen. Die Chili in feine Ringe schneiden.",
+        "Etwas Pflanzenöl in einer großen Pfanne erhitzen. Den Tempeh samt Marinade bei mittlerer Hitze rundum 5–7 Minuten goldbraun anbraten und anschließend aus der Pfanne nehmen.",
+        "In derselben Pfanne die Zwiebel glasig braten. Currypaste, Chili und Kurkuma dazugeben und 1 bis 2 Minuten rösten. Mit Kokosmilch und Wasser ablöschen und alles 5 Minuten sanft köcheln lassen. Wenn ihr TK-Mango verwendet, diese jetzt schon dazugeben. Frische Mango erst nach dem Kochen hinzufügen und nur weitere 2 Minuten köcheln lassen, bis sie weich ist.",
+        "Die Soße zu einer glatten, sämigen Soße pürieren und mit Agavendicksaft, Limettensaft, veganem Naturjoghurt, Salz und Pfeffer abschmecken. Den Tempeh wieder hinzufügen und 2 bis 3 Minuten in der Soße ziehen lassen.",
+        "Die zweite Mango schälen und in dünne Spalten oder kleine Würfel schneiden. Koriander waschen, trocken schütteln und die Blätter vom Strunk zupfen.",
+        "Reis in Schalen füllen, Mango-Curry mit Tempeh daraufgeben und mit frischer Mango, Koriander, Mandelscheiben und veganem Naturjoghurt toppen. Mit Limettenspalten servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

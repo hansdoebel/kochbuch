@@ -1,0 +1,103 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/mulhoe",
+  "recipes": [
+    {
+      "name": "Mulhoe (Spicy raw fish soup)",
+      "source_url": "https://www.maangchi.com/recipe/mulhoe",
+      "recipe_id": "/recipe/mulhoe#sso/recipe/12422",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 pound of fresh fish (or frozen sashimi grade fish), hot pepper paste, Korean hot pepper flakes (gochugaru), sugar, kosher salt, vinegar, onion, garlic, lettuce, tomato, green chili peppers, roasted sesame seeds, toasted sesame oil, water, and thin noodles."
+      ],
+      "instructions": [
+        "Slice 1 pound of fresh fish into thin strips ¼ inch wide and 2½ inch long (about 0.5 cm wide and 6 cm long) and keep it in the refrigerator.",
+        "Put 10 cups of water into a large pot. Bring to a boil over high heat.",
+        "When the water boils 15-20 minutes later, add 200 grams of thin noodles (somyeon). Stir with a wooden spoon to prevent the noodles from sticking to each other.",
+        "Cook the noodles with the lid closed for a few minutes.",
+        "Taste a sample. The noodle shouldn’t have anything hard inside, but it shouldn’t be mushy.",
+        "When the noodles are finished, drain and rinse them in cold water a couple of times until they’re cold and a little chewy. Drain them and set aside.",
+        "In a bowl, mix 4-5 cloves minced garlic, ¼ cup hot pepper paste, 2 tbs hot pepper flakes, 2 tbs sugar, 1 tbs kosher salt, ¼ cup vinegar, 2 tbs toasted sesame oil, and 2 tbs roasted sesame seeds powder. Mix with a spoon.",
+        "Thinly slice ½ cup’s worth of onion and ¼ cup’s worth of carrot. Slice 1 tomato, chop 3-4 green chili peppers and 2 cups’ worth of chopped lettuce, and add to the broth.",
+        "Add 2 cups of ice cold water. Mix well then set aside. *tip: If you want to add ice cubes, use 1 cup of water and 1 cup of ice cubes.",
+        "Add fish strips to the broth and mix well.",
+        "Serve with the cooked noodles."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients (for 4 servings)"
+        },
+        {
+          "tag": "p",
+          "text": "1 pound of fresh fish (or frozen sashimi grade fish), hot pepper paste, Korean hot pepper flakes (gochugaru), sugar, kosher salt, vinegar, onion, garlic, lettuce, tomato, green chili peppers, roasted sesame seeds, toasted sesame oil, water, and thin noodles."
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Slice 1 pound of fresh fish into thin strips ¼ inch wide and 2½ inch long (about 0.5 cm wide and 6 cm long) and keep it in the refrigerator."
+        },
+        {
+          "tag": "li",
+          "text": "Put 10 cups of water into a large pot. Bring to a boil over high heat."
+        },
+        {
+          "tag": "li",
+          "text": "When the water boils 15-20 minutes later, add 200 grams of thin noodles (somyeon). Stir with a wooden spoon to prevent the noodles from sticking to each other."
+        },
+        {
+          "tag": "li",
+          "text": "Cook the noodles with the lid closed for a few minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Taste a sample. The noodle shouldn’t have anything hard inside, but it shouldn’t be mushy."
+        },
+        {
+          "tag": "li",
+          "text": "When the noodles are finished, drain and rinse them in cold water a couple of times until they’re cold and a little chewy. Drain them and set aside."
+        },
+        {
+          "tag": "h3",
+          "text": "Make the cold broth:"
+        },
+        {
+          "tag": "li",
+          "text": "In a bowl, mix 4-5 cloves minced garlic, ¼ cup hot pepper paste, 2 tbs hot pepper flakes, 2 tbs sugar, 1 tbs kosher salt, ¼ cup vinegar, 2 tbs toasted sesame oil, and 2 tbs roasted sesame seeds powder. Mix with a spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Thinly slice ½ cup’s worth of onion and ¼ cup’s worth of carrot. Slice 1 tomato, chop 3-4 green chili peppers and 2 cups’ worth of chopped lettuce, and add to the broth."
+        },
+        {
+          "tag": "li",
+          "text": "Add 2 cups of ice cold water. Mix well then set aside. *tip: If you want to add ice cubes, use 1 cup of water and 1 cup of ice cubes."
+        },
+        {
+          "tag": "li",
+          "text": "Add fish strips to the broth and mix well."
+        },
+        {
+          "tag": "li",
+          "text": "Serve with the cooked noodles."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

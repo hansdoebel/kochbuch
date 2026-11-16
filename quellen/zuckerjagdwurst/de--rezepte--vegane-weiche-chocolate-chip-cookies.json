@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-weiche-chocolate-chip-cookies",
+  "recipes": [
+    {
+      "name": "Vegane Chocolate Chip Cookies",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-weiche-chocolate-chip-cookies",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-weiche-chocolate-chip-cookies#recipe-bb3259e0-f785-57a2-b0ad-29b8e81cb49a",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "18 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "200 g Weizenmehl (Type 405) oder Dinkelmehl (Type 630)",
+        "90 g Zucker",
+        "125 g vegane Butter",
+        "8 g (1.5 TL) Vanillezucker",
+        "5 g (1 TL) Backpulver",
+        "2 EL Apfelmus",
+        "150 g Schokodrops (backstabil)",
+        "1 Prise Salz"
+      ],
+      "instructions": [
+        "In einer großen Schüssel Mehl, Zucker, vegane Butter, Salz, Vanillezucker, Backpulver und Apfelmus miteinander vermengen. Die Schokodrops nun ebenfalls untermischen.",
+        "Den Backofen auf 180 °C (Umluft) vorheizen. Aus dem Teig 18 Kugeln à 40 g formen und auf zwei Backblechen mit etwas Abstand je neun Kugeln verteilen.",
+        "Die Kekse 12 Minuten backen. Wenn ihr sie aus dem Ofen nehmt, sollten sie nicht knusprig, sondern noch sehr weich sein. Nach Wunsch mit einem Pfannenwender etwas plattdrücken. Die Kekse auf dem Backblech etwa 10 Minuten abkühlen lassen und erst dann vorsichtig herunternehmen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

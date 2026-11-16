@@ -1,0 +1,163 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/bulgogi-jeongol",
+  "recipes": [
+    {
+      "name": "Bulgogi stew (Bulgogi-jeongol)",
+      "source_url": "https://www.maangchi.com/recipe/bulgogi-jeongol",
+      "recipe_id": "/recipe/bulgogi-jeongol#sso/recipe/93",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "2",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "8 ounces beef tenderloin, sliced very thinly",
+        "2 tablespoons soy sauce",
+        "3 garlic cloves, minced",
+        "1 tablespoon sugar",
+        "¼ teaspoon ground black pepper",
+        "2 teaspoons toasted sesame oil",
+        "4 leaves of napa cabbage, cut into bite size pieces",
+        "8-12 assorted mushrooms, sliced",
+        "1 small carrot, sliced thinly",
+        "7-8 green onion, cut into 3 inch long",
+        "2 teaspoons fish sauce (or salt to your taste)",
+        "2½ cups to 3 cups chicken or beef broth, or homemade anchovy kelp stock",
+        "A fistful of chrysanthemum greens",
+        "Eggs, optional"
+      ],
+      "instructions": [
+        "In a medium bowl, combine beef, soy sauce, garlic, sugar, black pepper, sesame oil, and 2 tablespoons water.",
+        "Mix well by hand and set aside.",
+        "In a shallow pot, place the cabbage in the center, then arrange all the vegetables, mushrooms, and tofu nicely around the pot. Put the marinated bulgogi on top in the center.",
+        "Pour in 2½ to 3 cups of chicken broth and bring it to a boil over medium-high heat with the lid off for about 7 minutes. (If you want to cook it right at the table, set a portable butane burner on the table and boil it there.)",
+        "Use tongs to spread out the bulgogi so it cooks evenly. Season with fish sauce, cover, and cook for about 2 minutes.",
+        "Remove the lid, add the chrysanthemum greens in the center, turn off the heat, and serve immediately."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "h3",
+          "text": "For bulgogi"
+        },
+        {
+          "tag": "li",
+          "text": "8 ounces beef tenderloin, sliced very thinly"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "3 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon sugar"
+        },
+        {
+          "tag": "li",
+          "text": "¼ teaspoon ground black pepper"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons toasted sesame oil"
+        },
+        {
+          "tag": "h3",
+          "text": "For vegetables, mushrooms, and tofu"
+        },
+        {
+          "tag": "li",
+          "text": "4 leaves of napa cabbage, cut into bite size pieces"
+        },
+        {
+          "tag": "li",
+          "text": "8-12 assorted mushrooms, sliced"
+        },
+        {
+          "tag": "li",
+          "text": "1 small carrot, sliced thinly"
+        },
+        {
+          "tag": "li",
+          "text": "7-8 green onion, cut into 3 inch long"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons fish sauce (or salt to your taste)"
+        },
+        {
+          "tag": "li",
+          "text": "2½ cups to 3 cups chicken or beef broth, or homemade anchovy kelp stock"
+        },
+        {
+          "tag": "li",
+          "text": "A fistful of chrysanthemum greens"
+        },
+        {
+          "tag": "li",
+          "text": "Eggs, optional"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Description"
+        },
+        {
+          "tag": "h3",
+          "text": "Marinate sliced beef:"
+        },
+        {
+          "tag": "li",
+          "text": "In a medium bowl, combine beef, soy sauce, garlic, sugar, black pepper, sesame oil, and 2 tablespoons water."
+        },
+        {
+          "tag": "li",
+          "text": "Mix well by hand and set aside."
+        },
+        {
+          "tag": "h3",
+          "text": "Arrange the ingredients:"
+        },
+        {
+          "tag": "li",
+          "text": "In a shallow pot, place the cabbage in the center, then arrange all the vegetables, mushrooms, and tofu nicely around the pot. Put the marinated bulgogi on top in the center."
+        },
+        {
+          "tag": "li",
+          "text": "Pour in 2½ to 3 cups of chicken broth and bring it to a boil over medium-high heat with the lid off for about 7 minutes. (If you want to cook it right at the table, set a portable butane burner on the table and boil it there.)"
+        },
+        {
+          "tag": "h3",
+          "text": "Finish it off"
+        },
+        {
+          "tag": "li",
+          "text": "Use tongs to spread out the bulgogi so it cooks evenly. Season with fish sauce, cover, and cook for about 2 minutes."
+        },
+        {
+          "tag": "p",
+          "text": "(If you’d like to add eggs, crack one or two over top and cook for another 1 to 2 minutes.)"
+        },
+        {
+          "tag": "li",
+          "text": "Remove the lid, add the chrysanthemum greens in the center, turn off the heat, and serve immediately."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

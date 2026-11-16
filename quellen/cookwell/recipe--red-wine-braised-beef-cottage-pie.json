@@ -1,0 +1,56 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/red-wine-braised-beef-cottage-pie",
+  "recipes": [
+    {
+      "name": "Red Wine Braised Beef Cottage Pie",
+      "source_url": "https://app.cookwell.com/recipe/red-wine-braised-beef-cottage-pie",
+      "recipe_id": "https://app.cookwell.com/recipe/red-wine-braised-beef-cottage-pie",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "6-8 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT6H",
+      "ingredients": [
+        "Chuck roast, 900 g",
+        "Salt, 9 g",
+        "Neutral oil, 30 g",
+        "Onions, 1/2",
+        "Garlic, 3-4",
+        "Tomato Paste, 30 g",
+        "Red wine, 500 g",
+        "Beef broth, 500 g",
+        "Fresh thyme, small bundle",
+        "Bay Leaves, 2",
+        "Cornstarch slurry, as needed",
+        "Carrots, 400 g",
+        "Frozen peas, 200 g",
+        "Yukon gold potatoes, 1200 g",
+        "Milk, 100 g",
+        "Butter, 15 g",
+        "Parmesan, 25 g",
+        "Nutmeg, to taste",
+        "Salt, to taste",
+        "Parsley, for garnish"
+      ],
+      "instructions": [
+        "Cut the chuck roast into large, bite-sized cubes and season generously with salt. Heat a large Dutch oven over high heat with a generous drizzle of oil. Once hot, add the beef in a single layer and let it sear undisturbed until deeply browned on at least one side. Transfer the browned beef to a baking sheet or plate and set aside.",
+        "Reduce the heat and add the diced onion and crushed garlic to the same Dutch oven. Sauté for a few minutes, stirring and scraping up the browned bits from the bottom, until the onion begins to soften. Add the tomato paste and stir it into the aromatics. Let it fry briefly before pouring in the red wine and beef broth to deglaze. Return the browned beef and any accumulated juices to the pot. Add the bay leaves and fresh thyme. Bring everything to a gentle simmer, then cover with the lid slightly cracked.",
+        "Transfer the Dutch oven to a 300°F (150°C) oven and braise for about 3 hours. Check the beef. The liquid should have reduced considerably and the meat should be approaching tender, but not completely falling apart. Remove the bay leaves and thyme. Add the chopped carrots, stirring them into the braising liquid. Return the pot to the oven and braise for about 1 hour longer, or until the beef is completely tender and the carrots are cooked through but still have some texture.",
+        "While the braise finishes, peel the potatoes and cut them into similarly sized pieces. Add them to a pot, cover with water, and season generously with salt. Bring to a boil and simmer until completely tender, about 10–15 minutes depending on their size. Drain well, then mash with the milk, butter, parmesan, and a small grating of nutmeg until creamy. Taste and adjust the seasoning or texture as needed.",
+        "Remove the finished braise from the oven. If a significant layer of rendered fat has collected on the surface, skim off the excess with a spoon or briefly lay a paper towel across the surface to absorb it. Taste the filling and adjust the salt as needed. Mix together a cornstarch slurry and stir it into the simmering braising liquid a little at a time until the sauce thickens enough to coat the beef and vegetables.",
+        "Transfer the braised beef, carrots, and thickened sauce to a casserole dish, spreading everything into an even layer. Scatter the frozen peas over the filling. Spoon the mashed potatoes over the top and gently spread them into an even layer. Finish with an additional layer of grated Parmesan. At this point, bake the casserole immediately or cover and refrigerate until you're ready to eat.",
+        "Heat the oven to 350°F (175°C). Bake the casserole for about 30 minutes, or until the filling is bubbling around the edges and the center is heated through. Switch the oven to high broil for the final few minutes. Broil until the Parmesan is browned and the ridges and edges of the potatoes are crisp. Let the casserole rest briefly before scooping into bowls or onto plates. Finish with chopped fresh parsley if desired."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vegan-green-pesto-381",
+  "recipes": [
+    {
+      "name": "Vegan Green Pesto",
+      "source_url": "https://www.pickuplimes.com/recipe/vegan-green-pesto-381",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT10M",
+      "total_time": "PT15M",
+      "ingredients": [
+        "½ cup raw walnuts",
+        "½ cup raw pine nuts",
+        "1½ cup fresh basil leaves",
+        "1 cup arugula",
+        "⅓ cup nutritional yeast flakes",
+        "¼ cup olive oil",
+        "¼ cup water",
+        "2 garlic clove",
+        "1 lemon",
+        "¼ tsp ground black pepper",
+        "¼ tsp flaky sea salt"
+      ],
+      "instructions": [
+        "Heat a small pan over medium-high heat, and toast the walnuts and pine nuts until fragrant for 3 to 5 minutes, stirring continuously. Transfer to a food processor.",
+        "To the same food processor, add the basil, arugula, nutritional yeast, oil, water, garlic, lemon juice, pepper, and salt. Blend on high speed until smooth.",
+        "Spread onto toasted bread or serve with crackers. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 4 days."
+  ]
+}

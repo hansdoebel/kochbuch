@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/roasted-potatoes-144",
+  "recipes": [
+    {
+      "name": "Roasted Potato Wedges",
+      "source_url": "https://www.pickuplimes.com/recipe/roasted-potatoes-144",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT08M",
+      "cook_time": "PT35M",
+      "total_time": "PT43M",
+      "ingredients": [
+        "4 medium potato",
+        "1 Tbsp vegetable oil",
+        "¾ tsp sweet paprika powder",
+        "½ tsp onion powder",
+        "½ tsp garlic powder",
+        "½ tsp salt",
+        "1 pinch ground black pepper"
+      ],
+      "instructions": [
+        "Line two baking trays and preheat the oven to 350°F (180°C)*.",
+        "Cut the potatoes in half lengthwise, then cut into wedges about ½ inch (1 cm) thick. Transfer to a large bowl.",
+        "Drizzle with the oil, paprika, onion powder, garlic powder, salt, and pepper and mix to coat.",
+        "Spread the potatoes out over the baking trays.",
+        "Bake in the centre rack of the oven for 25 to 35 minutes, or until golden, stopping to give the potatoes a flip once halfway.",
+        "Serve with your favourite dip(s). Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

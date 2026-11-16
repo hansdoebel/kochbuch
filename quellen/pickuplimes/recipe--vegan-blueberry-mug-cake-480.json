@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vegan-blueberry-mug-cake-480",
+  "recipes": [
+    {
+      "name": "Blueberry Mug Cake",
+      "source_url": "https://www.pickuplimes.com/recipe/vegan-blueberry-mug-cake-480",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT02M",
+      "total_time": "PT07M",
+      "ingredients": [
+        "3 Tbsp all-purpose flour",
+        "1½ Tbsp granulated sugar",
+        "¼ tsp baking powder",
+        "⅛ tsp ground cinnamon",
+        "1 pinch salt",
+        "3 Tbsp unsweetened soy milk",
+        "1 Tbsp vegetable oil",
+        "¼ tsp pure vanilla extract",
+        "3 Tbsp fresh blueberries"
+      ],
+      "instructions": [
+        "In a microwave-safe mug, mix the flour, sugar, baking powder, cinnamon, and salt.",
+        "Add the milk, oil, and vanilla extract. Mix until just combined. Be careful not to over-mix. Then gently fold in the blueberries.",
+        "Microwave on high (800 - 900 W) for 2 minutes, or until a toothpick inserted into the centre comes out clean*. If the cake isn't cooked through yet, place it back in the microwave at intervals of 15 seconds. Take care when removing it from the microwave, the mug might be hot.",
+        "Let the mug cake cool slightly, add your desired toppings, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * If preferred, use an oven-safe baking dish and bake in the oven at 350°F (180°C) for 15 to 25 minutes, or until a toothpick inserted into the centre comes out clean.",
+    "Storage Best if enjoyed immediately. Transfer to an airtight container and store in the fridge for up to 1 day."
+  ]
+}

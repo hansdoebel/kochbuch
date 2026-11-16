@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-koefte-auf-weissem-bohnenpueree",
+  "recipes": [
+    {
+      "name": "Vegane Köfte auf weißem Bohnenpüree",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-koefte-auf-weissem-bohnenpueree",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-koefte-auf-weissem-bohnenpueree#recipe-2f432f58-fdcd-597a-8a00-5b339ef02cd4",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für das Bohnenpüree:",
+        "350 g weiße Bohnen (aus der Dose)",
+        "1 weiße Zwiebel",
+        "2 Knoblauchzehe",
+        "2 EL vegane Butter",
+        "10 g frischer Thymian",
+        "2 TL Korianderpulver",
+        "2 TL Kreuzkümmel",
+        "0.5 Zitrone (Saft)",
+        "Salz",
+        "Pfeffer",
+        "Für das Topping:",
+        "30 g Pinienkerne",
+        "10 g frische Minze",
+        "0.5 Granatapfel",
+        "2 EL Olivenöl",
+        "0.5 Zitrone (Abrieb)",
+        "Chiliflocken",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "vegane Köfte (z. B. von GREENFORCE)",
+        "Fladenbrot",
+        "Olivenöl"
+      ],
+      "instructions": [
+        "Bohnen in einem Sieb abtropfen lassen und abwaschen. Die Flüssigkeit aus der Dose (das Aquafaba) unbedingt auffangen.",
+        "Zwiebel und Knoblauch schälen und in grobe Stücke schneiden. In einer Pfanne vegane Butter schmelzen und Zwiebel und Knoblauch darin anschwitzen, bis die Zwiebeln glasig sind.",
+        "Thymianblätter abzupfen und zusammen mit Bohnen, Knoblauch, Zwiebeln, Korianderpulver, Kreuzkümmel, Zitronensaft, Salz und Pfeffer in einem Standmixer zu einer cremigen Masse mixen. Püree mit Zitronensaft, Salz und Pfeffer abschmecken. Für mehr Cremigkeit kann noch etwas vom Aquafaba dazugegeben werden.",
+        "Tipp: Wenn ihr keinen Standmixer habt, verwendet einfach einen Handmixer.",
+        "Für das Topping Pinienkerne in einer fettfreien Pfanne rösten. Minze waschen und kleinschneiden. Granatapfel entkernen. Alle drei Komponenten zusammen mit Olivenöl, Zitronenabrieb, Chiliflocken, Salz und Pfeffer in eine Schüssel geben und verrühren.",
+        "Die veganen Köfte nach Packungsanleitung zubereiten.",
+        "Das Bohnenpüree auf einer großen Platte verstreichen. Die veganen Köfte darauf platzieren und mit dem Granatapfel-Pinienkernen-Topping dekorieren. Etwas Olivenöl drüber drizzeln.",
+        "Tipp: Das Fladenbrot kann circa 5 Minuten im Ofen bei 150 °C (Ober- und Unterhitze) aufgebacken werden, damit es warm und leicht kross wird."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

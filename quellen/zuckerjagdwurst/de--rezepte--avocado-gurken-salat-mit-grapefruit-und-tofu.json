@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/avocado-gurken-salat-mit-grapefruit-und-tofu",
+  "recipes": [
+    {
+      "name": "Avocado-Gurken-Salat mit Grapefruit und Tofu",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/avocado-gurken-salat-mit-grapefruit-und-tofu",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/avocado-gurken-salat-mit-grapefruit-und-tofu#recipe-7989949b-4a57-552b-9759-6676bd066ac4",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "3-4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für den Salat:",
+        "4 Avocados",
+        "1 Gurke",
+        "1 Grapefruit",
+        "350 g gebackener Tofu",
+        "1 TL Sojasoße",
+        "geröstetes Sesamöl zum Braten",
+        "Für das Dressing:",
+        "1 Avocado",
+        "1 Knoblauchzehe",
+        "10 g Dill",
+        "2 EL Olivenöl",
+        "1 Limette (Saft und Abrieb)",
+        "Wasser",
+        "Salz",
+        "Pfeffer",
+        "Zucker",
+        "Muskat",
+        "Zum Servieren:",
+        "ca. 50 g Haselnüsse",
+        "frischer Dill",
+        "Chili Crisp (optional)",
+        "frisches Brot"
+      ],
+      "instructions": [
+        "Avocados und Gurke in mundgerechte Stücke schneiden. Die Grapefruit schälen und danach filetieren oder in kleine Stücke schneiden. Alles zusammen auf einer Servierplatte anrichten.",
+        "Den gebackenen Tofu zunächst in breite Scheiben und danach in kleinere Stücke schneiden. Geröstetes Sesamöl in einer Pfanne bei mittlerer Hitze erwärmen und den Tofu von beiden Seiten goldbraun anbraten. Zum Schluss Sojasoße dazugeben und den Tofu kurz darin schwenken.",
+        "Parallel dazu Haselnüsse zum Servieren in einer fettfreien Pfanne anrösten. Danach aus der Pfanne nehmen und grob hacken.",
+        "Für das Dressing das Fruchtfleisch der Avocado mit einer geschälten Knoblauchzehe, frischem Dill und Olivenöl pürieren. Anschließend den Saft und Abrieb einer Limette dazugeben und so viel Wasser wie nötig dazu geben, bis ein cremiges Dressing entsteht. Zum Schluss mit Salz, Pfeffer, Zucker und Muskat abschmecken.",
+        "Den gebackenen Tofu auf dem Avocado-Gurken-Salat verteilen und alles mit den gerösteten Haselnüssen und noch mehr Dill bestreuen. Wer es scharf mag, kann den Salat auch mit etwas Chili Crisp toppen und mit frischem Brot servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

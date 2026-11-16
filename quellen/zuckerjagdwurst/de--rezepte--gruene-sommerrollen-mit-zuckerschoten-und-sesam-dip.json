@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gruene-sommerrollen-mit-zuckerschoten-und-sesam-dip",
+  "recipes": [
+    {
+      "name": "Grüne Sommerrollen mit Zuckerschoten und Sesam-Dip",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gruene-sommerrollen-mit-zuckerschoten-und-sesam-dip",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gruene-sommerrollen-mit-zuckerschoten-und-sesam-dip#recipe-8e90f1dc-b685-5bc7-9bd3-402765eaf373",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 10 Sommerrollen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Sommerrollen:",
+        "200 g Zuckerschoten",
+        "1 Gurke",
+        "ca. 15 g Minze",
+        "ca. 30 g Koriander",
+        "300 g frittierter Tofu (oder anderer fester Tofu)",
+        "100 g dünne Reisnudeln",
+        "ca. 30 g Sprossen",
+        "10 Salatblätter (optional)",
+        "10 Blätter Reispapier",
+        "Für den Sesam-Dip:",
+        "100 g Tahin",
+        "2 EL Sojasoße (oder Tamari für eine glutenfreie Option)",
+        "1 EL Reisessig",
+        "1 Limette (Saft und Abrieb)",
+        "1 TL Agavendicksaft",
+        "1 kleine Knoblauchzehe"
+      ],
+      "instructions": [
+        "Zuerst alle Zutaten vorbereiten und vorschneiden – am besten auf gleiche Länge, damit euch das Rollen später leichter fällt. Die Enden der Zuckerschoten falls nötig abschneiden und eventuelle zähe Fäden entfernen. Die Gurke in dünne Streifen schneiden. Die Minzblätter von den Zweigen zupfen oder Koriander waschen. Den Tofu in längliche Stücke schneiden und die Reisnudeln nach Packungsanweisung kochen.",
+        "Für den Dip Tahin, Sojasoße, Reisessig, Limettensaft und -abrieb und Agavendicksaft verrühren. Eine Knoblauchzehe schälen und dazu reiben. Den Dip abschmecken und gegebenenfalls etwas mehr der Zutaten dazugeben.",
+        "Ein Blatt Reispapier wenige Sekunden komplett in warmes Wasser tunken und danach auf eine saubere Arbeitsfläche legen. Die Zutaten für die Füllung in der Mitte des unteren Drittels des Papiers übereinanderlegen. Die linke und rechte Seite des Reispapiers vorsichtig über die Füllung legen und danach eng von von unten nach oben einrollen. Die restlichen Rollen auf die gleiche Weise vorbereiten.",
+        "Tipp: Wenn euch das Rollen im Reispapier zu schwierig scheint, rollt zuerst alle Zutaten in ein Salatblatt ein. Danach legt ihr die Salatrolle auf das eingeweichte Reispapier und rollt es wie oben beschrieben ein.",
+        "Die grünen Sommerrollen mit dem Sesam-Dip servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

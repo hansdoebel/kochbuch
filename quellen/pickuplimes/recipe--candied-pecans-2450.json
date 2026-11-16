@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/candied-pecans-2450",
+  "recipes": [
+    {
+      "name": "Candied Pecans",
+      "source_url": "https://www.pickuplimes.com/recipe/candied-pecans-2450",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT05M",
+      "total_time": "PT25M",
+      "ingredients": [
+        "⅓ cup light brown sugar",
+        "1½ Tbsp water",
+        "¼ tsp salt",
+        "¼ tsp pure vanilla extract",
+        "2 cup raw pecans"
+      ],
+      "instructions": [
+        "Line a baking tray with parchment paper. Set aside.",
+        "In a heavy-bottomed saucepan, combine the sugar, water, salt, and vanilla.",
+        "Cook at medium-high heat, until the sugar melts and boils rapidly, about 2 to 3 minutes.",
+        "Add the pecans and stir to coat.",
+        "Immediately transfer them to the prepared lined tray, spreading them out as much as possible.",
+        "Let them cool down completely before transferring them to a container. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Keep in an airtight container at room temperature for up to 1 month."
+  ]
+}

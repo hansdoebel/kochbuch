@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-funnel-cakes",
+  "recipes": [
+    {
+      "name": "Vegane Funnel Cakes",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-funnel-cakes",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-funnel-cakes#recipe-a733bcde-94e8-5177-9908-c56fafa40e66",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "5 Funnel Cakes",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für den Teig:",
+        "300 g Weizenmehl",
+        "60 g Zucker",
+        "1 Prise Salz",
+        "8 g Backpulver",
+        "8 g Vanillezucker",
+        "60 ml Pflanzenöl (z. B. Byodo Back-Öl Exquisit)",
+        "450 ml pflanzliche Milch",
+        "Außerdem:",
+        "0.75 l Pflanzenöl zum Frittieren (z. B. Byodo Bratöl Klassik)",
+        "Puderzucker zum Bestäuben",
+        "Beerensoße zum Servieren"
+      ],
+      "instructions": [
+        "Weizenmehl, Zucker, Salz, Backpulver und Vanillezucker in einer Schüssel miteinander vermischen. Back-Öl und pflanzliche Milch hinzugeben und zu einem glatten Teig verrühren. Den Teig in einen Spritzbeutel oder ein kleines Kännchen füllen.",
+        "Pflanzenöl in einer tiefen Pfanne oder einem Topf zum Frittieren erhitzen. Das Öl sollte ca. 180°C heiß sein. Ob das Öl schon heiß genug ist, könnt ihr testen, indem ihr einen Holzstab in das Öl haltet. Wenn sich kleine Blasen am Stab bilden, ist das Öl heiß genug.",
+        "Den Teig nun kreisförmig im Öl verteilen – entweder direkt durch den Spritzbeutel oder indem ihr den Teig aus einem Kännchen oder durch einen Trichter gießt. Spitzbeutel, Kännchen oder Trichter dafür jedoch nicht direkt ins Öl, sondern ca. 2-3 cm über dem heißen Öl halten. Die Funnel Cakes ca. 2 Minuten von jeder Seite frittieren, bis sie goldbraun sind. Danach aus dem heißen Öl nehmen und direkt auf Küchenpapier abtropfen lassen. Beim ersten Funnel Cake testen, ob er wirklich durch geworden ist, damit ihr die Zeit gegebenenfalls anpassen könnt. Mit dem restlichen Teig genauso vorgehen – wir haben etwa fünf Portionen ausbacken können.",
+        "Die Funnel Cakes noch warm mit Puderzucker bestreuen und nach Wunsch mit Beerensoße servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

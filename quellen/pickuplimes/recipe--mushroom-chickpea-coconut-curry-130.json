@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/mushroom-chickpea-coconut-curry-130",
+  "recipes": [
+    {
+      "name": "Mushroom & Chickpea Coconut Curry",
+      "source_url": "https://www.pickuplimes.com/recipe/mushroom-chickpea-coconut-curry-130",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT15M",
+      "total_time": "PT25M",
+      "ingredients": [
+        "1 cup red rice",
+        "2 tsp vegetable oil",
+        "1 medium onion",
+        "3 garlic clove",
+        "1 Tbsp grated fresh ginger",
+        "2 cup cooked chickpeas",
+        "6.173 oz button mushrooms",
+        "1 Tbsp curry powder",
+        "½ tsp sweet paprika powder",
+        "1⅔ cup canned full-fat coconut milk",
+        "1 bell pepper",
+        "1 pinch salt",
+        "1 pinch ground black pepper",
+        "4 cup spinach",
+        "1¼ cup cherry tomatoes",
+        "½ lemon"
+      ],
+      "instructions": [
+        "Cook the rice according to the package instructions.",
+        "Meanwhile, heat the oil in a large pot over high heat. Cook the onion, garlic, and ginger for 3 minutes. Add splashes of water as needed to deglaze the pot.",
+        "Add the chickpeas and mushrooms to the pot and cook for 5 minutes.",
+        "Add the curry and paprika powder and sauté for one minute longer.",
+        "Add the coconut milk, bell pepper, salt, and pepper and cook for another 5 minutes.",
+        "Add the spinach and tomatoes at the end, and stir. When the spinach has wilted, remove from heat.",
+        "Serve the curry with the rice, squeeze over some lemon, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

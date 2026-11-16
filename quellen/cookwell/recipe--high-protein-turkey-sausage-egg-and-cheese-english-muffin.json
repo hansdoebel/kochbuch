@@ -1,0 +1,46 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/high-protein-turkey-sausage-egg-and-cheese-english-muffin",
+  "recipes": [
+    {
+      "name": "High Protein Turkey Sausage, Egg & Cheese English Muffin",
+      "source_url": "https://app.cookwell.com/recipe/high-protein-turkey-sausage-egg-and-cheese-english-muffin",
+      "recipe_id": "https://app.cookwell.com/recipe/high-protein-turkey-sausage-egg-and-cheese-english-muffin",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Ground turkey, 225 g",
+        "Salt, a sprinkle",
+        "Garlic, 1 clove",
+        "Dried sage, a sprinkle",
+        "Whole cloves, 1",
+        "Dried thyme, a sprinkle",
+        "Fennel Seeds, a sprinkle",
+        "Black Pepper, a sprinkle",
+        "Maple syrup, a drizzle",
+        "English Muffins, 2",
+        "Eggs, 2",
+        "American Cheese, 1 slice",
+        "Ketchup"
+      ],
+      "instructions": [
+        "Add the sausage seasonings to the ground turkey: grated or ground clove, grated garlic, sage, thyme, fennel seeds, black pepper, and a sprinkle of salt. Lightly mix to combine.",
+        "Form the turkey sausage into two balls which we will be smashing in the skillet. To cook, set a skillet over medium-high heat and add a drizzle of oil to the spatula. Once ripping hot, drop the sausage balls in and let sear for just 20 seconds before flipping over and smashing down to the size of a patty. Let those sear on each side so a crust can develop. Once the sausages are mostly cooked, drizzle them with maple syrup. This adds a hint of sweetness and helps caramelize the edges.",
+        "Gently scramble 2 eggs until they're slightly underdone. Shape the eggs into two portions and sprinkle black pepper on top before removing them from the heat.",
+        "Toast each side of an English muffin to your liking. To assemble the sandwiches, drizzle a bit of ketchup to the bottom before adding the sausage patties, followed by the egg, and finally half a slice of cheese. Place these under the broiler for 30 seconds until the cheese melts. Add the top slice of the English muffin, close, and enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

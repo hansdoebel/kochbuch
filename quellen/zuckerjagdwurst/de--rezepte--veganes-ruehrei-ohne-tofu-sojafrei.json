@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-ruehrei-ohne-tofu-sojafrei",
+  "recipes": [
+    {
+      "name": "Veganes Rührei ohne Tofu (sojafrei)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-ruehrei-ohne-tofu-sojafrei",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-ruehrei-ohne-tofu-sojafrei#recipe-ccea944a-9ee9-5d70-ab07-33321e41f24b",
+      "authors": [
+        "Nele Riese"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT750M",
+      "ingredients": [
+        "Für das vegane Rührei:",
+        "200 g geschälte und halbierte gelbe Mungbohnen",
+        "200 ml Hafermilch",
+        "100 ml Sprudelwasser",
+        "3 EL Hefeflocken",
+        "1 TL Backpulver",
+        "0.5 TL Kurkuma (für die Farbe)",
+        "Salz",
+        "Pfeffer",
+        "1 EL vegane Butter",
+        "1 Zwiebel",
+        "1 TL Kala Namak (nach dem Braten dazugeben)",
+        "Außerdem:",
+        "frisches Brot",
+        "Avocado",
+        "Tomate"
+      ],
+      "instructions": [
+        "Mungobohnen gut waschen und über Nacht einweichen.",
+        "Am nächsten Tag: Die eingeweichten Bohnen mit Hafermilch, Sprudelwasser, Backpulver und Hefeflocken in einen Mixer geben und gut pürieren. Mit Salz, Pfeffer und Kurkuma würzen. Die Konsistenz sollte etwas dicker als Pfannkuchenteig sein.",
+        "Zwiebeln in kleine Würfel schneiden. In einer Pfanne vegane Butter erhitzen und die Zwiebeln darin glasig anbraten.",
+        "Die Masse aus dem Mixer in die heiße Pfanne geben. Auf mittlere Stufe kurz anbacken lassen und dann umrühren. Diesen Vorgang wiederholen, bis das vegane Rührei die gewünschte Konsistenz hat. Dabei darauf achten, dass die Bohnenmasse nochmal etwas „nachbackt“, nehmt es daher lieber etwas früher vom Herd, damit das vegane Ei nicht zu trocken wird und fluffig bleibt.",
+        "Das vegane Rührei nach dem Braten mit Kala Namak würzen und beispielsweise mit Brot, Avocado und Tomate servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

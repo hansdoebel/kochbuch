@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-nudelsalat-mit-mayo-dressing",
+  "recipes": [
+    {
+      "name": "Veganer Nudelsalat mit Mayo-Dressing",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-nudelsalat-mit-mayo-dressing",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-nudelsalat-mit-mayo-dressing#recipe-ce89a9f9-b93d-56e2-9f4a-aa18045d5ea1",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Für das Mayo-Dressing:",
+        "175 g vegane Mayonnaise",
+        "100 g vegane Crème fraîche oder veganer Naturjoghurt",
+        "2 TL Senf",
+        "5 EL Gurkenwasser (aus dem Glas)",
+        "Salz",
+        "Pfeffer",
+        "Für den Nudelsalat:",
+        "300 g kurze Nudeln",
+        "175 g vegane Schinkenwurst",
+        "200 g TK-Erbsen",
+        "15 g Kräuter (Dill, Petersilie, Schnittlauch)",
+        "100 g Gewürzgurken",
+        "100 g Mais",
+        "1 rote Paprika",
+        "1 rote Zwiebel",
+        "Zum Servieren:",
+        "150 g vegane Frikadellen (z. B. VeggieMix Frikadelle von Bauck Mühle)",
+        "Senf",
+        "Baguette"
+      ],
+      "instructions": [
+        "Gesalzenes Wasser in einem Topf zum Kochen bringen und Nudeln nach Packungsanweisung al dente kochen. Danach abgießen und abkühlen lassen.",
+        "TK-Erbsen ebenfalls in kochendes Wasser geben und circa 2 Minuten garen. Die Erbsen direkt mit kaltem Wasser abschrecken, damit sie ihre leuchtende Farbe behalten.",
+        "Vegane Schinkenwurst, Gewürzgurken, rote Paprika und rote Zwiebel ggf. schälen, entkernen und würfeln. Kräuter waschen und fein schneiden. Mais abgießen und gut abtropfen lassen.",
+        "Für das Mayo-Dressing vegane Mayonnaise, vegane Crème fraîche, Senf und Gurkenwasser in einer großen Schüssel verrühren, bis ein glattes Dressing entsteht. Mit Salz und Pfeffer abschmecken.",
+        "Nudeln, Erbsen, vegane Schinkenwurst, Gewürzgurken, Mais, Paprika, rote Zwiebel und Kräuter mit dem Dressing vermischen und abschmecken. Den Salat mindestens 60 Minuten, besser über Nacht, im Kühlschrank ziehen lassen.",
+        "Zum Servieren vegane Frikadellen nach Packungsanweisung zubereiten. Baguette in Scheiben schneiden und mit Nudelsalat, veganen Frikadellen und Senf servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

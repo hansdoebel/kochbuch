@@ -1,0 +1,73 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kuerbislasagne",
+  "recipes": [
+    {
+      "name": "Vegane Kürbislasagne",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kuerbislasagne",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kuerbislasagne#recipe-9543cbdc-f859-5888-98a5-7308ec7f2dcf",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT95M",
+      "ingredients": [
+        "Für die Gemüse- und Käseschicht:",
+        "1 EDEKA Bio Hokkaidokürbis",
+        "100 g EDEKA Bio Blattspinat",
+        "EDEKA Lasagneplatten",
+        "150 g veganer geriebener Käse",
+        "2 EL Öl",
+        "2 EL Wasser",
+        "Für die Tomatensauce:",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "4 EL Tomatenmark",
+        "1 EL EDEKA Bio Agavendicksaft",
+        "0.5 TL getrocknetes Basilikum",
+        "0.5 TL getrockneter Oregano",
+        "0.25 TL Cayennepfeffer",
+        "0.5 TL Paprikapulver",
+        "50 ml veganer Rotwein",
+        "500 g stückige Tomaten aus der Dose",
+        "Pflanzenöl zum Braten",
+        "Salz",
+        "Pfeffer",
+        "Für die Béchamelsauce:",
+        "3 EL pflanzliche Butter",
+        "3 EL Weizenmehl",
+        "250 ml pflanzliche Milch",
+        "1 EL Hefeflocken",
+        "Salz",
+        "Pfeffer",
+        "Muskat"
+      ],
+      "instructions": [
+        "Gemüse",
+        "Den Hokkaidokürbis waschen, halbieren, entkernen und die Enden entfernen. Den Kürbis in etwa 0,5 - 1 cm dicke Scheiben schneiden.",
+        "Den Blattspinat waschen und in einem Sieb abtropfen lassen.",
+        "Tomatensauce",
+        "Zwiebel und Knoblauch schälen und fein würfeln. Pflanzliches Öl in einer Pfanne bei mittlerer Hitze erwärmen. Zwiebel und Knoblauch ca. 4-5 Minuten anschwitzen. Danach Tomatenmark und Agavendicksaft dazugeben und ca. 3 Minuten anschwitzen lassen. Nun getrocknetes Basilikum, Oregano, Cayennepfeffer und Paprikapulver dazugeben und diese ebenfalls 1 Minuten anschwitzen.",
+        "Mit Rotwein ablöschen und ca. 5 Minuten einköcheln lassen, bevor ihr die stückigen Tomaten dazugebt. Die Tomatensauce mit Salz und Pfeffer abschmecken und die Soße auf kleiner Hitze köcheln lassen, bis die Béchamelsauce fertig ist.",
+        "Béchamelsauce",
+        "Für die Béchamelsauce vegane Butter in einem kleinen Topf schmelzen lassen und Mehl gründlich einrühren. Ca. 1 Minute bei kleiner Hitze anschwitzen.",
+        "Danach die pflanzliche Milch langsam dazugeben und immer schön rühren, damit sich keine Klumpen bilden. Mit Hefeflocken, Salz und Pfeffer abschmecken. Falls die Béchamelsauce zu dick wird, etwas mehr pflanzliche Milch dazugeben.",
+        "Schichten",
+        "Den Backofen auf 180°C vorheizen. Eine Auflaufform mit veganer Butter oder Öl einfetten.",
+        "Beginnt mit einer dünnen Schicht Béchamelsauce und legt dann trockene Lasagneplatten darüber. Darauf folgt eine Schicht Tomatensauce, frischer Spinat, Kürbisscheiben und wieder Béchamelsauce.",
+        "Jetzt wieder Lasagneplatten, Tomatensauce, Spinat, Kürbis und Béchamelsauce darüber verteilen und den Schritt wiederholen, bis alle Zutaten aufgebraucht sind. Die letzte Schicht sollte Béchamelsauce sein, auf der ihr noch dekorativ ein paar Scheiben Kürbis platzieren könnt.",
+        "Den veganen Streukäse in einer kleinen Schüssel mit Öl und Wasser vermischen und auf die Béchamelsauce streuen.",
+        "Die Lasagne bei 180°C ca. 40 Minuten backen, oder bis die Lasagneplatten gar sind. Danach aus dem Backofen nehmen und die Lasagne vor dem Anschneiden noch ca. 10 Minuten stehen und anziehen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

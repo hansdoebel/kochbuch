@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-grillwuerstchen-ohne-soja",
+  "recipes": [
+    {
+      "name": "Vegane Grillwürstchen ohne Soja",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-grillwuerstchen-ohne-soja",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-grillwuerstchen-ohne-soja#recipe-453dbe5b-787f-5827-9383-4f81409d69ba",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "25 Würstchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT200M",
+      "ingredients": [
+        "500 g Seitanfix",
+        "2 TL Knoblauchpulver",
+        "3 TL Zwiebelpulver",
+        "4 TL Paprikapulver",
+        "1 TL weißer oder brauner Zucker",
+        "3 EL Hefeflocken",
+        "1 TL Salz",
+        "1/2 TL Pfeffer",
+        "4 EL Senf",
+        "8 EL Öl",
+        "optional: 6 EL Sojasauce",
+        "8 EL Tomatenmark",
+        "500 ml Wasser (+ 6 weitere EL Wasser, falls keine Sojasauce genommen)",
+        "Alufolie"
+      ],
+      "instructions": [
+        "Alle trockenen Zutaten in einer Schüssel vermischen: Seitanfix, Knoblauchpulver, Zwiebelpulver, Paprikapulver, Zucker, Hefeflocken, Salz & Pfeffer.",
+        "In einer kleineren Schüssel alle feuchten Zutaten vermischen: Senf, Öl, Sojasauce, Tomatenmark und Wasser.",
+        "Nun die feuchten Zutaten zu den trockenen geben und gut mit den Händen kneten.",
+        "Mit den Händen Würstchen formen und in Aluminiumfolie, wie kleine Bonbons, einwickeln.",
+        "Bei 180°C 40 Minuten im Backofen backen. Nun sind die Würstchen bereit weiterverwendet zu werden. Du kannst sie nun grillen oder in einer Pfanne braten."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/superseed-nut-butter-652",
+  "recipes": [
+    {
+      "name": "Super Seed Nut Butter",
+      "source_url": "https://www.pickuplimes.com/recipe/superseed-nut-butter-652",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "24 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "1½ cup natural peanut butter",
+        "2 Tbsp roasted pumpkin seeds",
+        "2 Tbsp roasted sunflower seeds",
+        "1 Tbsp whole chia seeds",
+        "1 Tbsp hemp seeds",
+        "1 Tbsp toasted sesame seeds",
+        "1 Tbsp ground flaxseeds"
+      ],
+      "instructions": [
+        "To a mason jar, add the peanut butter and all the seeds.",
+        "Mix to evenly distribute, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in a cool, dry place for up to 2 months. If possible, it's best to store this in the fridge, where it can last for up to 3 months."
+  ]
+}

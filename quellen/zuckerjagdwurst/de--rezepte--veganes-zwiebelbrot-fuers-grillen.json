@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-zwiebelbrot-fuers-grillen",
+  "recipes": [
+    {
+      "name": "Veganes Zwiebelbrot",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-zwiebelbrot-fuers-grillen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-zwiebelbrot-fuers-grillen#recipe-ad88d5d6-c75b-52e6-b2c0-c921a69a8a2f",
+      "authors": [
+        "Ronja Gramse"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Brote",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT140M",
+      "ingredients": [
+        "200 ml Pflanzenmilch (lauwarm)",
+        "30 g frische Hefe",
+        "2 TL Zucker",
+        "500 g Dinkelmehl Typ 630",
+        "1 TL Salz",
+        "80 g vegane Butter (Zimmertemperatur)",
+        "1 TL italienische Kräuter (getrocknet)",
+        "0.5 TL Cayennepfeffer",
+        "0.5 TL edelsüßes Paprikapulver",
+        "2 EL Apfelessig",
+        "3 EL Hefeflocken",
+        "3 TL Zwiebelpulver",
+        "50 g Röstzwiebeln",
+        "3 frische Zwiebeln",
+        "100 g veganer Speck oder Räuchertofu",
+        "Pflanzenöl zum Anbraten"
+      ],
+      "instructions": [
+        "Für den Teig lauwarme Pflanzenmilch in eine Schüssel gießen und die Hefe hineinbröseln. Zucker hinzugeben und die Mischung ca. 10 Minuten stehen lassen, bis sich kleine Bläschen an der Oberfläche der Flüssigkeit bilden. Währenddessen in einer großen Schüssel Mehl, Salz, getrocknete Kräuter, Cayennepfeffer, Apfelessig, Hefeflocken, Zwiebelpulver und Röstzwiebeln vermischen. Die frischen Zwiebeln schälen, würfeln und ebenfalls dazugeben.",
+        "Die Hefemischung und weiche, vegane Butter zum Mehl geben und alle Zutaten zu einem glatten, geschmeidigen Teig kneten. Den Teig abgedeckt in einer leicht geölten Schüssel ca. eine Stunde an einem warmen Ort gehen lassen, bis sich das Volumen verdoppelt hat.",
+        "In der Zwischenzeit Pflanzenöl in einer Pfanne erhitzen und den veganen Speck darin anbraten, bis er knusprig ist.",
+        "Tipp: Wer keinen veganen Speck findet, kann stattdessen Räuchertofu würfeln und anbraten.",
+        "Wenn der Teig ausreichend gegangen ist, den veganen Speck hinzugeben und nochmal kurz durchkneten. Anschließend den Teig zu zwei länglichen Brotlaiben formen und auf ein mit Backpapier ausgelegtes Backblech legen. Mit einem Messer mehrmals einritzen und nochmal ca. 30 Minuten gehen lassen. Anschließend bei 200°C (Umluft) ca. 30 Minuten im Ofen backen, bis die Brote goldbraun sind."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

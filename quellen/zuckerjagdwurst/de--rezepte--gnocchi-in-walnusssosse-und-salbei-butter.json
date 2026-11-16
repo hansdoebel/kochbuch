@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gnocchi-in-walnusssosse-und-salbei-butter",
+  "recipes": [
+    {
+      "name": "Gnocchi in Walnusssoße und Salbei-Butter",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gnocchi-in-walnusssosse-und-salbei-butter",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gnocchi-in-walnusssosse-und-salbei-butter#recipe-b807b34e-b2bd-515b-9561-12c2b2ff6d36",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "500 g Kartoffeln (mehligkochend)",
+        "75 g Spinat",
+        "1 Schalotte",
+        "250 g Mehl",
+        "3 EL pflanzliche Butter",
+        "1 Knoblauchzehe",
+        "ca. 10 Salbeiblätter",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "gehackte Walnüsse zum Servieren",
+        "Für die Walnusssoße:",
+        "150 g Walnüsse",
+        "50 ml pflanzliche Milch",
+        "100 ml pflanzliche Sahne",
+        "1 Knoblauchzehe",
+        "1 Prise Zimt",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Walnüsse ca. 30 Min. in warmem Wasser einweichen lassen. Anschließend in einen Standmixer geben zusammen mit pflanzlicher Milch und Sahne, sowie Knoblauch. Püriert das ganze so lang, bis eine cremige Soße entsteht. Wenn sie euch noch zu dickflüssig ist, könnt ihr noch mehr Milch oder Sahne dazugeben. Mit Salz, Pfeffer und Zimt abschmecken. Die Soße könnt ihr später zum Servieren in einem Topf nochmal erwärmen.",
+        "Kartoffeln schälen, in gleichgroße Stücke schneiden und in einen Topf geben. Mit Wasser auffüllen, bis die Kartoffeln bedeckt sind und salzen. Anschließend das Wasser zum Kochen bringen, danach die Temperatur reduzieren und die Kartoffeln weich kochen, so dass ihr easy mit einer Gabel hineinpiksen könnt. Das Wasser abgießen und die Kartoffeln zu Püree stampfen. Mit Salz, Pfeffer und Muskat abschmecken. Halbiert euer Kartoffelpüree und teilt es auf zwei Schüsseln auf.",
+        "Schalotte würfeln und in einer Pfanne mit etwas Öl ca. 2-3 Minuten anschwitzen. Anschließend zusammen mit Spinat in ein Standgefäß geben und pürieren. Die Spinatmischung gebt ihr zu einer Kartoffelpüree-Hälfte und vermengt das ganze zu einem schön grünen Teig.",
+        "Nun teilt ihr das Mehl gleichmäßig auf die Kartoffelpüree-Hälften auf und verknetet beide zu einem Teig. Es kann sein, dass ihr etwas mehr oder weniger Teig braucht, er sollte nicht mehr an euren Händen kleben und es sollte möglich sein, jeden Teig zu dünnen Rollen zu formen. Diese schneidet ihr in etwa 2-cm breite Stücke. Um die typische Gnocchi-Form zu erhalten, müsst ihr jedes Stückchen nur noch vorsichtig über die Rückseite einer Gabel rollen. Wenn euer Teig noch zu klebrig ist, gebt ihr noch etwas mehr Mehl dazu.",
+        "In einem großen Topf bringt ihr gesalzenes Wasser zum Kochen. Nun gebt ihr die Gnocchi nach und nach dazu. Nehmt nicht alle auf einmal, damit sie genug Platz im Topf haben, sondern macht das ganze lieber portionsweise. Sobald die Gnocchi oben schwimmen, könnt ihr sie mit einer Schöpfkelle herausfischen und auf einem Teller beiseitestellen.",
+        "Alle Gnocchi fertig gekocht? Dann schneidet eine Knoblauchzehe in Scheiben und zerlasst pflanzliche Butter in einer großen Pfanne. Gebt die Knoblauchscheiben und ca. 5 Salbeiblätter dazu, und bratet nach und nach eure Gnocchi über mittlerer Hitze an. Das dauert pro Portion auch nur 2-3 Min. bis sie leicht geröstet sind. So geht ihr mit allen Gnocchi vor und könnt zwischendurch immer wieder neue Salbeiblätter dazugeben und die alten herausfischen.",
+        "Serviert eure Gnocchi mit gehackten Walnüssen und der aufgewärmten Walnusssoße."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

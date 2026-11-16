@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/fruehstueck-tacos-mit-veganem-omelett",
+  "recipes": [
+    {
+      "name": "Frühstück-Tacos mit veganem Omelett",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/fruehstueck-tacos-mit-veganem-omelett",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/fruehstueck-tacos-mit-veganem-omelett#recipe-e3258a60-eda4-59a7-abd5-da28cb4882e5",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "3 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "3 weiche Tacos",
+        "2 Tomaten",
+        "1 Avocado",
+        "kleiner Bund Koriander",
+        "Salz&Pfeffer",
+        "Öl",
+        "3 EL Zitronensaft",
+        "veganes Omelett",
+        "175 g fester Tofu",
+        "90 ml pflanzliche Milch",
+        "1 EL Kichererbsenmehl",
+        "1/2 TL Kala Namak",
+        "1 TL Kurkuma",
+        "1 EL Speisestärke",
+        "1 EL Hefeflocken",
+        "1/2 Zwiebel",
+        "Salz & Pfeffer",
+        "Cayennepfeffer"
+      ],
+      "instructions": [
+        "Alle Zutaten für das Omelett bis auf die Zwiebel in ein hohes Gefäß geben und gut pürieren.",
+        "Die Zwiebel schälen und in kleine Würfel schneiden. Die Zwiebelstücken unter den Omelett-Teig rühren.",
+        "Eine kleine Pfanne mit Öl erhitzen. Anschließend den Omelett-Teig hineingeben und 3-4 Minuten braten.",
+        "Avocado in Stücke schneiden, mit etwas Pfeffer, Öl und Zitronensaft vorwürzen.",
+        "Die Tomaten waschen, ebenfalls in Stücken schneiden und mit dem Koriander in einer Schüssel verrühren. Abschmecken und würzen!",
+        "Tacos erwärmen und füllen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

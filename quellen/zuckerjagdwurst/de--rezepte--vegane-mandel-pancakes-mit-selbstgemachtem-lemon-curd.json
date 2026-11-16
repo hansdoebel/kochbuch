@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mandel-pancakes-mit-selbstgemachtem-lemon-curd",
+  "recipes": [
+    {
+      "name": "Vegane Mandel-Pancakes mit selbstgemachtem Lemon Curd",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mandel-pancakes-mit-selbstgemachtem-lemon-curd",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mandel-pancakes-mit-selbstgemachtem-lemon-curd#recipe-6319799c-af9a-5309-b59c-f7b4cbb41b04",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Pfannkuchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT80M",
+      "ingredients": [
+        "Für den Lemon Curd:",
+        "150 ml pflanzliche Milch",
+        "200 ml Zitronensaft",
+        "100 g Zucker",
+        "125 g vegane Butter",
+        "1 Prise Salz",
+        "2 Zitronen (Abrieb)",
+        "3 EL Speisestärke",
+        "1 Prise gemahlene Kurkuma (optional)",
+        "Für die Mandel-Pancakes:",
+        "75 ml pflanzliche Milch",
+        "2 TL Zitronensaft",
+        "40 g Weizenmehl Type 405, 550 oder Dinkelmehl Type 603",
+        "40 g gemahlene Mandeln",
+        "1 EL Zucker",
+        "5 g (1 TL) Vanillezucker",
+        "2.5 g (0.5 TL) Backpulver",
+        "1 Prise Salz",
+        "vegane Butter oder Pflanzenöl zum Braten",
+        "Zum Servieren:",
+        "geröstete gehobelte Mandeln"
+      ],
+      "instructions": [
+        "Für den Lemon Curd 125 ml von der pflanzlichen Milch, Zitronensaft, Zucker, vegane Butter und Salz in einen kleinen Topf geben und bei kleiner Hitze und unter Rühren erwärmen, bis die vegane Butter geschmolzen ist.",
+        "Zitronenabrieb dazugeben und einrühren. Wer eine kräftigere gelbe Farbe möchte, kann etwas Kurkuma dazugeben. Anschließend bei kleiner Hitze ca. 2-3 Min. köcheln lassen.",
+        "Speisestärke in der restlichen pflanzlichen Milch einrühren und in den Topf geben und direkt verrühren, damit sich keine Klümpchen bilden. Unter Rühren einköcheln lassen, bis die gewünschte Konsistenz erreicht ist. Anschließend abkühlen lassen und in ein luftdichtes Gefäß umfüllen. So hält sich der vegane Lemon Curd ca. 1-2 Wochen im Kühlschrank.",
+        "Tipp: Wenn ihr lieber flüssigen Lemon Curd (z. B. als Topping für Desserts und Kuchen) wollt, reicht auch weniger Speisestärke. Beachtet auch, dass der Lemon Curd beim Abkühlen noch etwas fester wird.",
+        "Für die Pancakes zuerst die vegane Buttermilch vorbereiten. Dazu den Zitronensaft zur pflanzlichen Milch geben und mind. 10 Minuten stehen lassen.",
+        "In einer Schüssel Mehl mit gemahlenen Mandeln, Zucker, Vanillezucker, Backpulver und einer Prise Salz vermischen. Nun die vegane Buttermilch vorsichtig unter die trockenen Zutaten geben. Nur kurz verrühren, es dürfen noch Mehlklümpchen zu sehen sein. So werden die Pancakes schön locker.",
+        "Eine Pfanne bei mittlerer Hitze erwärmen. Vegane Butter oder Pflanzenöl in die Pfanne geben und die Pancakes darin ausbacken, sodass sie von beiden Seiten goldbraun sind.",
+        "Die Pancakes mit veganem Lemon Curd und gerösteten gehobelten Mandeln servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,82 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/warme-pesto-oliven-schnecken",
+  "recipes": [
+    {
+      "name": "Vegane Zimtschnecken (neues Rezept 2025)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/warme-pesto-oliven-schnecken",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/warme-pesto-oliven-schnecken#recipe-86d5e315-bbdc-51fc-ae07-21abe8e70c6e",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Für den Hefeteig:",
+        "250 g pflanzliche Milch",
+        "10 g frische Hefe",
+        "500 g Weizenmehl (Type 550)",
+        "100 g Zucker",
+        "8 g Salz",
+        "100 g vegane Butter",
+        "Für die Füllung:",
+        "150 g vegane Butter (weich)",
+        "100 g brauner Zucker",
+        "4 EL Zimt",
+        "Salz",
+        "Ansonsten:",
+        "100 g pflanzliche Milch zum Bestreichen"
+      ],
+      "instructions": [
+        "Für den Hefeteig die pflanzliche Milch lauwarm erwärmen, einen Esslöffel Zucker einrühren und die Hefe darin auflösen. Die Mischung für 15 Minuten stehen lassen, bis sie sichtbar Blasen schlägt.",
+        "Mehl, restlichen Zucker, Salz und die Hefemilch in einer großen Schüssel acht Minuten lang zu einem glatten Teig verkneten. Dann zu einer runden Kugel formen, in die Schüssel legen, mit einem feuchten Tuch abdecken und für 30 Minuten bei Raumtemperatur ruhen lassen. Die vegane Butter würfeln und 5 Minuten lang unter den Teig kneten, bis er wieder ganz glatt und weich ist. Die Teigkugel erneut abdecken und für weitere 90 Minuten ruhen lassen.",
+        "Für die Füllung vegane Butter mit braunem Zucker, Zimt und Salz glattrühren.",
+        "Den Ofen auf 180 °C (Ober-/Unterhitze) vorheizen und eine rechteckige Auflaufform einfetten. Den Hefeteig auf die bemehlte Arbeitsfläche geben, circa 5 Millimeter dick zu einem Rechteck ausrollen, die Füllung auf den Teig geben und vorsichtig gleichmäßig verteilen. Dann den Teil von der längeren Seite her aufrollen und in 12 gleich dicke Scheiben schneiden.",
+        "Die Schnecken mit etwas Abstand zueinander in die Form legen, die Form nochmals mit einem feuchten Tuch abdecken und für 30 Minuten ruhen lassen. Dann dünn mit pflanzlicher Milch bestreichen und für circa 20 Minuten bei 180 °C (Ober-/Unterhitze) backen.",
+        "Nach dem Backen noch heiß mit etwas pflanzlicher Milch bestreichen und abkühlen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Warme Pesto-Oliven-Schnecken",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/warme-pesto-oliven-schnecken",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/warme-pesto-oliven-schnecken#recipe-569d3ca6-6654-5718-a1a8-5a38f35971ab",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8-10 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "1 Hefeteig (Rezept auf dem Blog)",
+        "FÜR DAS TOPPING",
+        "100 g schwarze Oliven",
+        "100 g getrocknete Tomaten in Öl",
+        "50 g Pinienkerne",
+        "150 g veganes Pesto eurer Wahl"
+      ],
+      "instructions": [
+        "Zuerst den Hefeteig herstellen, aber ihr könnt statt 1 TL Salz gern 2 TL Salz verwenden für dieses Rezept.",
+        "Während der Hefeteig ein zweites Mal ruht und aufgeht, schwarze Oliven in Ringe schneiden und die getrockneten Tomaten hacken. Pinienkerne in einer fettfreien Pfanne anrösten.",
+        "Den Hefeteig zu einem großen Rechteck mit ca. 0.5-cm Dicke ausrollen. Den Teig mit einem Pesto eurer Wahl bestreichen und die Oliven, getrocknete Tomaten und Pinienkerne darauf verteilen.",
+        "Den Teig von der langen Seite aus gleichmäßig, aber eng zu einer langen Rolle aufrollen. In ca. 8-10 gleich breite Stücke schneiden.",
+        "Eine Backform leicht mit Öl einfetten und die Pesto-Schnecken in die Backform legen, so dass die Füllung nach oben zeigt. Noch einmal ca. 30 Minuten an einem warmen Ort ruhen lassen.",
+        "Den Backofen auf 180°C vorheizen. Die Pesto-Schnecken ca. 25-30 Minuten backen, bis sie goldbraun sind. Am besten noch warm genießen und mit einem Dip eurer Wahl servieren, z.B. ein veganer Ranch-Dip, oder auch Tomatendip."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

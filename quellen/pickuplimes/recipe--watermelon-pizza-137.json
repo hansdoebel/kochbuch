@@ -1,0 +1,38 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/watermelon-pizza-137",
+  "recipes": [
+    {
+      "name": "Watermelon Pizza",
+      "source_url": "https://www.pickuplimes.com/recipe/watermelon-pizza-137",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "18 slices",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "½ watermelon",
+        "1½ cup unsweetened coconut yogurt",
+        "1 cup fresh mixed berries"
+      ],
+      "instructions": [
+        "Wash the watermelon and cut into 1 inch (2 cm) thick rounds.",
+        "Top each round with a couple of scoops of yogurt, and spread it so that it almost reaches the rind.",
+        "Cut into slices and top with fruits and other desired toppings. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based yogurt that is fortified with calcium .",
+    "Storage Best if enjoyed immediately. Pre-made watermelons can be stored in airtight container s in the fridge for up to 1 day."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/cashew-butter-465",
+  "recipes": [
+    {
+      "name": "Cashew Butter",
+      "source_url": "https://www.pickuplimes.com/recipe/cashew-butter-465",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "24 servings",
+      "prep_time": "PT07M",
+      "cook_time": "PT11M",
+      "total_time": "PT18M",
+      "ingredients": [
+        "3 cup raw cashews"
+      ],
+      "instructions": [
+        "Preheat the oven to 400°F (200°C)*. Spread the cashews in a single layer over a baking tray. Roast in the oven on the centre rack for 9 to 11 minutes, or until the cashews are a golden colour. Stir once or twice while roasting.",
+        "Transfer the roasted nuts to a high-powered food processor (ideally 900W or more) and blend on high for 5 to 7 minutes, or until smooth**.",
+        "Transfer to a mason jar and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection). ** If your food processor isn't very powerful, blend for an additional 5 minutes to achieve the desired consistency. You can also add a bit of neutral-tasting oil to help the process along. Using a blender is not advised.",
+    "Storage Store it in a cool, dry, and dark place for up to 1 month, or in the fridge for up to 3 months."
+  ]
+}

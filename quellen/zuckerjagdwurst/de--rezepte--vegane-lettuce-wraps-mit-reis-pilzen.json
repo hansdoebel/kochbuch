@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-lettuce-wraps-mit-reis-pilzen",
+  "recipes": [
+    {
+      "name": "Vegane Lettuce Wraps mit Reis & Pilzen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-lettuce-wraps-mit-reis-pilzen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-lettuce-wraps-mit-reis-pilzen#recipe-2f1396a0-c603-5479-a234-448805a59ff6",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "10 - 12 Wraps",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "1 Romana Salatherz",
+        "100 g Reis",
+        "100 g Rotkraut",
+        "1 Frühlingszwiebel",
+        "1 frische Chili",
+        "1 Limette",
+        "Pilze",
+        "2 Knoblauchzehen",
+        "20 g frischer Ingwer",
+        "200 g Champignons",
+        "100 g Walnüsse",
+        "3-4 EL pflanzliches Öl",
+        "Salz&Pfeffer",
+        "2 EL Agavendicksaft",
+        "3 EL Sojasauce",
+        "3 EL Hoisin Sauce",
+        "1 EL Reisessig",
+        "2 EL Sriracha"
+      ],
+      "instructions": [
+        "Den Reis nach Packungsanleitung zubereiten.",
+        "Pilze",
+        "Die Knoblauchzehen und den Ingwer schälen und fein hacken.",
+        "Die Champignons mit einem feuchten Tuch reinigen, die Stiele etwas entfernen und ebenfalls klein schneiden. Die Walnüsse fein hacken.",
+        "Eine große Pfanne auf mittlerer Stufe mit pflanzlichem Öl erhitzen und den Knoblauch und Ingwer für 1 Minute darin anschwitzen. Dann die Pilze und die Walnüsse hinzugeben und für 5-10 Minuten anbraten, bis die Pilze zusammengeschrumpft und schön braun sind. Gut salzen und pfeffern.",
+        "Agavendicksaft, Sojasauce, Hoisin Sauce, Reisessig und Sriracha hinzugeben und unterrühren. Abschmecken und vom Herd nehmen.",
+        "Wraps",
+        "Die Salatblätter vom Strunk lösen, waschen und zur Seite legen.",
+        "Die äußeren Schichten vom Rotkraut entfernen (da diese oft ledrig sind), waschen und in feine Streifen schneiden.",
+        "Die Frühlingszwiebel und Chili waschen und in Ringe schneiden.",
+        "Die Salatblätter mit Reis, den Pilzen und Rotkraut füllen und mit Chili, Frühlingszwiebeln und frischen Limetten servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

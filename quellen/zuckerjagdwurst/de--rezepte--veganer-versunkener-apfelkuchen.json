@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-versunkener-apfelkuchen",
+  "recipes": [
+    {
+      "name": "Veganer versunkener Apfelkuchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-versunkener-apfelkuchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-versunkener-apfelkuchen#recipe-ecc15a65-3c42-5357-9766-6848cb95d8e9",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (12 Stücke)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "5 kleine Äpfel (oder 2-3 große Äpfel)",
+        "50 g Aprikosenmarmelade oder Quittengelee",
+        "1 EL vegane Butter (zum Einfetten)",
+        "1 EL Mehl (zum Einfetten)",
+        "Teig",
+        "200 g Vollkornmehl",
+        "150 g Zucker",
+        "130 g Speisestärke",
+        "8 g Backpulver",
+        "0.5 TL Ingwerpulver",
+        "1 Prise Muskatpulver",
+        "2 EL Zimt",
+        "200 g vegane Butter",
+        "200 g Apfelmus"
+      ],
+      "instructions": [
+        "In einer großen Schüssel Vollkornmehl, Zucker, Speisestärke, Backpulver, Ingwerpulver, Muskat und Zimt vermischen.",
+        "Das Apfelmus und die vegane Butter hinzugeben und zu einem homogenen Teig vermischen.",
+        "Den Ofen auf 200°C Umluft vorheizen.",
+        "Eine Kuchenform (22 cm Durchmesser) mit veganer Butter einfetten und etwas Mehl ausklopfen und den Teig hineinfüllen.",
+        "Die Äpfel schälen, halbieren und das Kerngehäuse entfernen. Die Äpfel an der äußeren Seite (Wölbung) fächerähnlich einschneiden.",
+        "Die halbierten Äpfel gut in den Teig drücken (die Fächer schauen nach oben).",
+        "Den Kuchen bei 190°C Umluft auf mittlerer Schiene für etwa 45-60 Minuten backen. Wenn der Kuchen zu dunkel wird, mit Alufolie abdecken.",
+        "Den Kuchen etwa 5 Minuten abkühlen lassen und im Anschluss mit Aprikosenmarmelade oder Quittengelee bestreichen.",
+        "Kurz vor dem Servieren mit etwas Puderzucker bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

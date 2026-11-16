@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-spekulatiuskuchen-mit-gekochten-zimt-birnen",
+  "recipes": [
+    {
+      "name": "Veganer Spekulatiuskuchen mit Birnen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-spekulatiuskuchen-mit-gekochten-zimt-birnen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-spekulatiuskuchen-mit-gekochten-zimt-birnen#recipe-4561ce03-6a2d-56da-9761-c5406aa91643",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Spekulatiuskuchen",
+        "340 g Mehl",
+        "100 g vegane Spekulatiuskekse",
+        "300 g Zucker",
+        "15 g Backpulver",
+        "15 g Spekulatiusgewürz",
+        "250 g vegane Butter",
+        "200 g Apfelmuß",
+        "240 ml vegane Milch",
+        "Zusätzlich",
+        "3 Birnen",
+        "2 EL Quittengelee"
+      ],
+      "instructions": [
+        "Die Spekulatiuskekse zu Mehl verarbeiten. Dafür die Kekse in einem Mixer auf höchster Stufe zerkleinern (oder in einer Tüte mit dem Nudelholz).",
+        "Für den Kuchenteig nun alle trockenen Zutaten in einer Schüssel mischen.",
+        "Die vegane Butter in kleine Stücken schneiden, in den Teig geben und unterkneten.",
+        "Die Milch und das Apfelmus nach und nach hinzugeben und zu einem Teig verarbeiten.",
+        "Eine Kuchenform mit veganer Butter einfetten. 1 EL Mehl hinzugeben und die Form damit ausklopfen. Den Teig in die Kuchenform füllen.",
+        "Die Birnen schälen und in die Mitte des Teiges setzen.",
+        "Den Kuchen bei 180°C 50-60 Minuten backen oder bis er goldbraun ist und den Stäbchentest besteht. Den Kuchen nach dem Backen mit Quittengelee bestreichen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

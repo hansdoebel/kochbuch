@@ -1,0 +1,162 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/dububuchim-yangnyeomjang",
+  "recipes": [
+    {
+      "name": "Pan fried tofu with spicy sauce (Dububuchim-yangnyeomjang)",
+      "source_url": "https://www.maangchi.com/recipe/dububuchim-yangnyeomjang",
+      "recipe_id": "/recipe/dububuchim-yangnyeomjang#sso/recipe/3532",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "Serves 3 to 4",
+      "prep_time": "P0DT0H8M0S",
+      "cook_time": "P0DT0H10M0S",
+      "total_time": "P0DT0H18M0S",
+      "ingredients": [
+        "1 block of tofu (about 400 grams)",
+        "3 tablespoons vegetable oil",
+        "2 tablespoons soy sauce",
+        "2 teaspoons gochu-garu (Korean hot pepper flakes)",
+        "1 garlic clove, minced",
+        "2 tablespoons finely chopped onion",
+        "2 green onions, chopped",
+        "2 tablespoons toasted sesame oil",
+        "½ teaspoon sugar (optional)",
+        "1 tablespoons toasted sesame seeds"
+      ],
+      "instructions": [
+        "In a bowl, combine the soy sauce, gochu-garu, minced garlic, chopped onion, chopped green onion, sesame oil, and sugar (if using). Mix well and set aside.",
+        "Cut the tofu into 8 equal pieces, each about 1/4 inch thick. Pat each piece of tofu dry with a cotton cloth or paper towels.",
+        "Heat the vegetable oil in a skillet over medium-high heat. Add the tofu pieces one by one to the skillet. Be sure not to crowd them so they don't stick to each other. Turn down the heat to medium and cook for about 5 minutes, until the bottom turns crunchy and golden brown. Flip the tofu pieces with a spatula and cook for another 5 minutes until both sides are light golden brown and crunchy.",
+        "Transfer the cooked tofu to a serving plate. Drizzle the seasoning sauce evenly over each piece of tofu. Sprinkle with toasted sesame seeds and some additional chopped green onion. Serve with rice as a side dish.",
+        "You can refrigerate the tofu for up to 4 to 5 days. It does not need to be reheated when served cold."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 3 to 4"
+        },
+        {
+          "tag": "li",
+          "text": "1 block of tofu (about 400 grams)"
+        },
+        {
+          "tag": "li",
+          "text": "3 tablespoons vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons gochu-garu (Korean hot pepper flakes)"
+        },
+        {
+          "tag": "li",
+          "text": "1 garlic clove, minced"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons finely chopped onion"
+        },
+        {
+          "tag": "li",
+          "text": "2 green onions, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon sugar (optional)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoons toasted sesame seeds"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the Sauce:"
+        },
+        {
+          "tag": "p",
+          "text": "In a bowl, combine the soy sauce, gochu-garu, minced garlic, chopped onion, chopped green onion, sesame oil, and sugar (if using). Mix well and set aside."
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the Tofu:"
+        },
+        {
+          "tag": "li",
+          "text": "Cut the tofu into 8 equal pieces, each about ¼ inch thick."
+        },
+        {
+          "tag": "li",
+          "text": "Pat each piece of tofu dry with a cotton cloth or paper towels."
+        },
+        {
+          "tag": "h3",
+          "text": "Cook the Tofu:"
+        },
+        {
+          "tag": "li",
+          "text": "Heat the vegetable oil in a skillet over medium-high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Add the tofu pieces one by one to the skillet. Be sure not to crowd them, so they don’t stick to each other. Turn down the heat to medium and cook for about 5 minutes, until the bottom turns crunchy and golden brown."
+        },
+        {
+          "tag": "li",
+          "text": "Flip the tofu pieces with a spatula and cook for another 5 minutes until both sides are light golden brown and crunchy."
+        },
+        {
+          "tag": "h3",
+          "text": "Serve:"
+        },
+        {
+          "tag": "li",
+          "text": "Transfer the cooked tofu to a serving plate."
+        },
+        {
+          "tag": "li",
+          "text": "Drizzle the seasoning sauce evenly over each piece of tofu."
+        },
+        {
+          "tag": "li",
+          "text": "Sprinkle with toasted sesame seeds and some additional chopped green onion."
+        },
+        {
+          "tag": "li",
+          "text": "Serve with rice as a side dish."
+        },
+        {
+          "tag": "h3",
+          "text": "Storage:"
+        },
+        {
+          "tag": "p",
+          "text": "You can refrigerate the tofu for up to 4 to 5 days. It does not need to be reheated when served cold."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

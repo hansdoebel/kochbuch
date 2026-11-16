@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-himbeer-joghurt-toertchen-ohne-backen",
+  "recipes": [
+    {
+      "name": "Vegane Himbeer-Joghurt-Törtchen ohne Backen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-himbeer-joghurt-toertchen-ohne-backen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-himbeer-joghurt-toertchen-ohne-backen#recipe-df165745-b501-5f53-9ff7-cb5197e6484f",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Törtchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT160M",
+      "ingredients": [
+        "FÜR DEN BODEN:",
+        "20 Datteln",
+        "100 g Mandeln",
+        "100 g Kürbiskerne",
+        "2 EL Kokosöl",
+        "0.5 TL Salz",
+        "FÜR DIE FÜLLUNG:",
+        "800 g Mandeljoghurt",
+        "20 g Agar-Agar",
+        "200 ml Mandelmilch",
+        "1 Zitrone (Abrieb)",
+        "5 EL Ahornsirup",
+        "FÜR DIE BEERENSOSSE:",
+        "300 g Himbeeren",
+        "1 Vanilleschote",
+        "5 Datteln",
+        "Wasser",
+        "AUSSERDEM:",
+        "Himbeeren zum Servieren",
+        "Mandeln zum Servieren"
+      ],
+      "instructions": [
+        "Datteln, Mandeln, Kürbiskerne und Kokosöl in einen Zerkleinerer geben und gut vermengen. Je nachdem wie gut eurer Zerkleinerer ist, wird die Masse feiner oder ein bisschen grober, aber beides ist total fein für dieses Rezept. Nehmt euch eure Förmchen (wir hatten Dessertringe) und gebt ca. 1 EL der Masse als Boden in den Ring und drückt den Teig etwas fest. Danach geht's ab in den Kühlschrank damit.",
+        "Agar-Agar und Mandelmilch verrühren und in einem kleinen Stieltopf aufkochen lassen. Pflanzlichen Joghurt in eine Schüssel geben und die warme Mischung aus dem Topf dazugeben und beides pürieren, damit keine Klümpchen entstehen. Zitronenabrieb und Ahornsirup unterrühren und damit abschmecken. Wer mag, gibt also ein bisschen mehr davon dazu. Auf die Förmchen aufteilen und ca. 2 Std. zurück in den Kühlschrank stellen, oder bis die Creme fest wird.",
+        "Für die Beerensoße Datteln, Himbeeren und das Mark einer Vanilleschote pürieren. Nach Bedarf Wasser dazugeben, bis eine cremige Soße entsteht. Wenn die Törtchen fest sind, aus der Form nehmen und die Soße daraufgeben. Mit frischen Himbeeren und ein paar gehackten Mandeln garnieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

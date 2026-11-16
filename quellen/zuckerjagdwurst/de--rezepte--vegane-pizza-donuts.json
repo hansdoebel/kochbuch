@@ -1,0 +1,65 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pizza-donuts",
+  "recipes": [
+    {
+      "name": "Vegane Pizza Donuts",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pizza-donuts",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pizza-donuts#recipe-504958e6-a8f9-50c7-b934-58d956ba324a",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 6 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Für den Teig:",
+        "250 g Mehl",
+        "1 TL Trockenhefe",
+        "1 TL Salz",
+        "150 ml Wasser",
+        "1 EL Olivenöl",
+        "Toppings (für je zwei Pizza-Donuts)",
+        "Für das Tofu-Lauch-Topping:",
+        "6 EL vegane Crème fraîche",
+        "50 g veganer Streukäse",
+        "150 g Räuchertofu",
+        "2 Frühlingszwiebeln",
+        "Salz",
+        "Pfeffer",
+        "Für das Grünkohl-„Feta”-Topping:",
+        "6 EL passierte oder stückige Tomaten",
+        "1 TL getrockneter Oregano",
+        "50 g veganer Streukäse",
+        "50 g veganer Feta",
+        "50 g frischer Grünkohl",
+        "0.5 rote Zwiebel",
+        "Salz",
+        "Pfeffer",
+        "Für das Tomate-„Salami”-Topping:",
+        "6 EL passierte oder stückige Tomaten",
+        "1 TL getrockneter Oregano",
+        "50 g veganer Streukäse",
+        "0.5 Paprika",
+        "1 vegane Snackwurst",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Mehl, Trockenhefe und Salz in einer großen Schüssel vermengen. Wasser und Olivenöl dazugeben und den Teig mind. 5 Minuten zu einem weichen und glatten Teig verkneten, am besten mit einer Küchenmaschine oder einem Handrührgerät. Den Teig in eine leicht eingeölte Schüssel geben und mit einem Geschirrtuch abdecken. Entweder mind. 30 Minuten an einem warmen Ort gehen lassen, bis sich das Teigvolumen in etwa verdoppelt hat oder über Nacht in den Kühlschrank stellen.",
+        "In der Zwischenzeit alle Toppings vorbereiten. Für die Tomatensoße die passierten oder stückigen Tomaten mit getrocknetem Oregano, Salz und Pfeffer abschmecken und nach Bedarf die stückigen Tomaten noch etwas kleiner schneiden. Den veganen Streukäse ebenfalls kleiner schneiden. Räuchertofu und Paprika fein würfeln. Frühlingszwiebel, rote Zwiebel und die vegane Snackwurst in Scheiben schneiden. Den veganen Feta mit den Händen zerbröseln. Die Grünkohlblätter vom Strunk schneiden und hacken.",
+        "Den Backofen auf 200 °C (Umluft) vorheizen und ein Backblech mit Backpapier auslegen. Die Arbeitsfläche leicht bemehlen und den Hefeteig darauf ca. 1 cm dick ausrollen. Anschließend Kreise ausstechen und aus diesen mittig ein weiteres kleines Loch ausstechen – die Größe der Pizza-Donuts ist dabei euch überlassen. Die Pizza-Donuts danach auf das vorbereitete Backblech legen.",
+        "Den Teig jeweils erst mit der Tomatensoße oder der veganen Crème fraîche bestreichen, den veganen Streukäse darauf verteilen und erst danach mit den restlichen Toppings belegen.",
+        "Bei 200 °C (Umluft) ca. 12-15 Minuten backen. Die Pizza-Donuts schmecken sowohl warm aus dem Ofen als auch kalt."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

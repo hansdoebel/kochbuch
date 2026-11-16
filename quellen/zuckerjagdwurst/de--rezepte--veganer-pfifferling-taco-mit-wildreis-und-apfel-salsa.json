@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-pfifferling-taco-mit-wildreis-und-apfel-salsa",
+  "recipes": [
+    {
+      "name": "Veganer Pfifferling Taco mit Wildreis & Apfel-Salsa",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-pfifferling-taco-mit-wildreis-und-apfel-salsa",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-pfifferling-taco-mit-wildreis-und-apfel-salsa#recipe-32dd888e-ffaa-5204-91e1-159342d3da56",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "6 weiche Tacos",
+        "300 g Pfifferlinge",
+        "3 Äpfel",
+        "1 kleine rote Zwiebel",
+        "1 Bund Petersilie",
+        "1 Tasse Wildreis",
+        "250 g pflanzlicher Quark (oder pflanzlicher Joghurt)",
+        "1 Limette",
+        "Salz, Pfeffer, Zimt"
+      ],
+      "instructions": [
+        "Nehmt euch einen Topf und füllt eine Tasse Wildreis und zwei Tassen leicht gesalzenes Wasser hinein und lasst das ganze kurz aufkochen und danach köcheln. Wenn das Wasser komplett vom Reis aufgesogen wurde, sollte der Reis gar sein. Wildreis ist bissfester als Basmatireis & Co. Sollte er aber noch zu hart sein, gießt ihr einfach etwas mehr Wasser dazu und lasst alles wieder einköcheln.",
+        "Die Pfifferlinge putzen (nicht waschen) und in einer Pfanne mit veganer Butter anbraten. Erst danach salzen und pfeffern, wenn sie schon weich sind.",
+        "Für die Salsa schneidet ihr eure Äpfel in kleine Würfel. Schält und würfelt die Zwiebel ebenfalls fein und hackt ein halbes Bund Petersilie. Verrührt alles zusammen in einer Schale und schmeckt mit Salz, Pfeffer, einer Prise Zimt und etwas Limettensaft ab.",
+        "Das andere halbe Bund Petersilie könnt ihr ebenfalls hacken und zur Seite legen.",
+        "Für den Dip verrührt ihr den pflanzlichen Quark (oder - Joghurt) mit etwas Salz, Pfeffer und dem Saft einer halben Limette.",
+        "Danach geht es ans Anrichten. Auf euren Taco kommt eine kleine Schicht Dip, danach der Wildreis, Pfifferlinge, etwas Petersilie und die Apfel-Salsa."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

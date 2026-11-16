@@ -1,0 +1,86 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-hot-dogs-mit-gegrillter-ananas",
+  "recipes": [
+    {
+      "name": "Vegane Hot Dogs mit Ananassalsa",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-hot-dogs-mit-gegrillter-ananas",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-hot-dogs-mit-gegrillter-ananas#recipe-e6ef1a9a-7093-5aec-8d34-496ea4cd8deb",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Hot Dogs",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Hot Dogs:",
+        "8 Hot Dog Brötchen",
+        "8 vegane Würstchen",
+        "50 g vegane Riffle Chips",
+        "Für die Salsa:",
+        "0.5 Ananas",
+        "1 rote Zwiebel",
+        "10 g Koriander",
+        "3-5 Jalapeño-Scheiben aus dem Glas",
+        "Salz",
+        "Für die Sriracha-Mayo:",
+        "250 g vegane Mayonnaise",
+        "4-5 EL Sriracha"
+      ],
+      "instructions": [
+        "Für die Salsa die Ananas schälen, den Strunk entfernen und das Fruchtfleisch fein würfeln. Die rote Zwiebel ebenfalls fein würfeln und den Koriander fein hacken. Je nach Schärfewunsch 3-5 Jalapeño-Scheiben aus dem Glas zerkleinern und hinzugeben. Mit Salz abschmecken und beiseitestellen.",
+        "Für die Sriracha-Mayo die vegane Mayo mit Sriracha verrühren und auch hier je nach Geschmack mehr oder weniger Sriracha verwenden.",
+        "Die veganen Würstchen und Brötchen erwärmen und die Riffle Chips etwas zerkleinern. Jeweils ein veganes Würstchen in ein Brötchen legen, mit den Riffle Chips und der Ananassalsa belegen und der Sriracha-Mayo toppen. Am besten sofort servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Ananas-Jalapeño-Margarita",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-hot-dogs-mit-gegrillter-ananas",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-hot-dogs-mit-gegrillter-ananas#recipe-9dd31c8f-b444-5c8f-b032-63e54ab909a7",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Cocktails",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Mit Alkohol:",
+        "280 ml Ananassaft",
+        "180 ml Blanco Tequila",
+        "80 ml frischer Limettensaft",
+        "80 ml Agavendicksaft",
+        "4-6 Jalapeño-Scheiben aus dem Glas",
+        "Ohne Alkohol:",
+        "200 ml Ananassaft",
+        "160 ml Kokoswasser",
+        "80 ml frischer Limettensaft",
+        "80 ml Agavendicksaft",
+        "4-6 Jalapeño-Scheiben aus dem Glas",
+        "240 ml Tonic Water",
+        "Außerdem:",
+        "1-2 Limetten",
+        "Eiswürfel"
+      ],
+      "instructions": [
+        "Das Rauchsalz in eine flache Schüssel oder einen Teller geben. Die Gläser am Rand vorsichtig an einem Stück Limette befeuchten. Dabei wirklich nur die oberste Kante mit Saft benetzen. Das Glas mit der Öffnung nach unten halten und die befeuchtete Stelle in das Rauchsalz dippen.",
+        "Alle Zutaten, bis auf das Eis (und bei der alkoholfreien Variante das Tonic), in einen Standmixer geben und auf hoher Stufe vermengen, damit die Jalapeños schön kleingeschnitten werden. Drei Eiswürfel dazugeben und nochmal alles auf hoher Stufe (Crush Ice) ca. 10 Sekunden blenden.",
+        "Tipp: Ihr wollt nur einen Hauch von Schärfe? Dann am besten beim Einschenken den Cocktail durch ein kleines Sieb (oder Teesieb) laufen lassen. Damit verhindert ihr, dass kleine Jalapeño Stück in euren Cocktail gelangen.",
+        "Die Gläser mit Eiswürfeln füllen und den Cocktail dazu geben. Bei der alkoholfreien Variante zusätzlich mit Tonic auffüllen und gut umrühren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

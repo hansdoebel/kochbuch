@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-obazda",
+  "recipes": [
+    {
+      "name": "Veganer Obazda",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-obazda",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-obazda#recipe-a599fd8b-eaf2-52cb-9936-31c63d634f93",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "250 g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "Für den Obazda:",
+        "125 g veganer Camembert",
+        "1 TL edelsüßes Paprikapulver",
+        "0.5 TL gemahlener Kümmel",
+        "0.5 TL Salz",
+        "100 g veganer Frischkäse",
+        "30 g vegane Butter (zimmerwarm)",
+        "Pfeffer",
+        "Außerdem:",
+        "1 rote Zwiebel",
+        "30 g Schnittlauch",
+        "Kümmelsamen"
+      ],
+      "instructions": [
+        "Veganen Camembert in kleine Stücke schneiden und in eine Schüssel geben. Paprikapulver, Kümmel, Salz und Pfeffer dazugeben und alles gut verrühren. Den veganen Frischkäse zusammen mit der zimmerweichen Butter dazugeben, alles verrühren und abschmecken.",
+        "Zwiebel und Schnittlauch in Ringe schneiden und den Obazda mit Zwiebel, Schnittlauch und Kümmelsamen toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

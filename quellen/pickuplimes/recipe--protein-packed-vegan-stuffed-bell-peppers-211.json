@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/protein-packed-vegan-stuffed-bell-peppers-211",
+  "recipes": [
+    {
+      "name": "Protein-Packed Stuffed Bell Peppers",
+      "source_url": "https://www.pickuplimes.com/recipe/protein-packed-vegan-stuffed-bell-peppers-211",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT01H10M",
+      "total_time": "PT01H20M",
+      "ingredients": [
+        "⅔ cup dry split mung beans",
+        "⅔ cup quick-cooking brown rice",
+        "1 medium onion",
+        "3 garlic clove",
+        "½ cup green olives",
+        "6 bell pepper",
+        "½ Tbsp olive oil",
+        "1 tsp ground cumin",
+        "1 tsp Italian seasoning",
+        "½ tsp ground turmeric",
+        "⅛ tsp salt",
+        "1 pinch ground black pepper",
+        "1½ cup veggie ground",
+        "1½ cup tomato-based pasta sauce",
+        "1 avocado"
+      ],
+      "instructions": [
+        "Cook the mung beans and rice according to the package instructions. For us, it took roughly 30 minutes*. When cooked, drain.",
+        "Meanwhile, prep the onion, garlic, and olives.",
+        "Cut the bell peppers in half lengthwise and discard the seeds. Don't remove the stem, as it helps to hold the filling in place.",
+        "Line a baking tray and preheat the oven to 350°F (180°C)*.",
+        "Heat the oil in a large pan over medium-high heat. Cook the onion until lightly golden.",
+        "Then add the garlic and spices. Cook for another 1 to 2 minutes, stirring throughout.",
+        "Then add the veggie ground, pasta sauce, olive, and cooked mung beans and rice. Stir to combine.",
+        "Divide the filling between the bell pepper halves. Bake uncovered on the middle rack of the oven for 35 to 40 minutes, or until the bell peppers are cooked to your liking.",
+        "Serve with avocado slices. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † This plant-based product has a dry texture and resembles already-cooked ground meat. * Speed this recipe up by using canned beans or leftover rice. * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Store in an airtight container in the fridge for up to 4 days."
+  ]
+}

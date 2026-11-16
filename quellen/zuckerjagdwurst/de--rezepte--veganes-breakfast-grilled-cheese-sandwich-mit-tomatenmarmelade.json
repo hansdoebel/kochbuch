@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-breakfast-grilled-cheese-sandwich-mit-tomatenmarmelade",
+  "recipes": [
+    {
+      "name": "Veganes Frühstücks-Grilled-Cheese mit Tomatenmarmelade",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-breakfast-grilled-cheese-sandwich-mit-tomatenmarmelade",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-breakfast-grilled-cheese-sandwich-mit-tomatenmarmelade#recipe-7ffa45b4-4d9a-52cb-96f9-e6b173811563",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Sandwiches",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für das vegane Grilled Cheese:",
+        "4 Scheiben Weißbrot",
+        "8 Scheiben veganer Käse",
+        "vegane Butter zum Bestreichen",
+        "Für die Tomatenmarmelade:",
+        "250 g Kirschtomaten",
+        "60 g Rohrohrzucker",
+        "1 EL Apfelessig",
+        "1 Prise Cayennepfeffer",
+        "Zitronenabrieb",
+        "Salz",
+        "Pfeffer",
+        "Für das vegane Omelett:",
+        "100 g fester Tofu",
+        "75 ml pflanzliche Milch",
+        "1 EL Kichererbsenmehl",
+        "0.5 TL Kala Namak",
+        "0.5 TL Kurkuma",
+        "1 EL Speisestärke",
+        "1 EL Hefeflocken",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Für die Marmelade Kirschtomaten vierteln und zusammen mit Rohrohrzucker, Apfelessig, Cayennepfeffer, Salz und Pfeffer in einen Topf geben. Einmal aufkochen lassen, dann mind. 30 Minuten bei mittlerer Hitze köcheln lassen, bis die Mischung Marmeladenkonsistenz hat. Ihr merkt, dass es fertig ist, wenn ihr mit einem Kochlöffel durchgeht und die Flüssigkeit nicht wieder zusammenfließt. Die Tomatenmarmelade mit Zitronenabrieb, Salz, Pfeffer und Cayennepfeffer abschmecken, dann in sterile Gläser füllen und abkühlen lassen.",
+        "Für das vegane Omelett Tofu grob zerbröseln und zusammen mit pflanzlicher Milch, Kichererbsenmehl, Kala Namak, Kurkuma, Speisestärke und Hefeflocken in ein hohes Gefäß geben und gut pürieren. Mit Salz und Pfeffer abschmecken.",
+        "Pflanzenöl in einer kleinen Pfanne erhitzen und den veganen Tofu-Teig hineingeben. Ca. 5 Minuten pro Seite ausbacken, bis er von beiden Seiten gebräunt ist. Wenn euch das vegane Omelett beim Wenden zerbricht, ist das gar kein Problem.",
+        "Jede Scheibe Weißbrot von beiden Seiten mit ca. 1 TL veganer Butter bestreichen. Eine",
+        "Brotscheibe mit Tomatenmarmelade bestreichen, dann zwei Scheiben veganen Käse darauf legen, die Hälfte vom veganen Omelett und erneut zwei Scheiben veganen Käse. Mit einer zweiten Scheibe Weißbrot bedecken. Das zweite Sandwich genauso belegen.",
+        "Eine (Grill-) Pfanne bei kleiner Hitze erwärmen und die Sandwiches in die Pfanne legen. Einen Deckel über die Pfanne legen und die Sandwiches ca. 5 Minuten bei kleiner Hitze anbraten. Schaut unbedingt immer mal auf die Unterseite vom Sandwich, damit es nicht anbrennt.",
+        "Sobald der vegane Käse schmilzt, den Deckel weglegen, die Sandwiches wenden und von der zweiten Seite anbraten. Die veganen Grilled Cheese mit der restlichen Tomatenmarmelade servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

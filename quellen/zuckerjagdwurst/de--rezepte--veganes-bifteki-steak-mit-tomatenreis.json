@@ -1,0 +1,65 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-bifteki-steak-mit-tomatenreis",
+  "recipes": [
+    {
+      "name": "Veganes Bifteki-Steak mit Tomatenreis",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-bifteki-steak-mit-tomatenreis",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-bifteki-steak-mit-tomatenreis#recipe-7f3bc7d5-45bb-5c39-9616-4dc7c210bae8",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT75M",
+      "ingredients": [
+        "Für den Tomatenreis:",
+        "1 Zwiebel",
+        "2 Knoblauchzehen",
+        "100 g frische Tomaten",
+        "2 EL Olivenöl",
+        "3 TL Paprikapulver",
+        "3 TL Gyros-Gewürz",
+        "3 EL Tomatenmark",
+        "1 EL Zucker",
+        "200 g Basmatireis",
+        "300 g passierte Tomaten",
+        "300 ml Wasser",
+        "Salz",
+        "Für das vegane Bifteki Steak:",
+        "500 g veganes Hack (z. B. von GREENFORCE)",
+        "150 g Mandelfeta",
+        "50 g Paniermehl",
+        "3 Knoblauchzehen",
+        "1 Zwiebel",
+        "2 TL Pfeffer",
+        "3 TL Oregano",
+        "3 TL Thymian",
+        "2 TL gemahlener Kreuzkümmel",
+        "2 TL gemahlener Koriander",
+        "2 TL Salz",
+        "Außerdem:",
+        "veganer Zaziki-Dip (z. B. von GREENFORCE)",
+        "optional: Beilagensalat",
+        "optional: Petersilie",
+        "optional: Zitronen"
+      ],
+      "instructions": [
+        "Tipp: Wir haben in unserem Rezept das vegane Hack von GREENFORCE verwendet, welches mit Wasser angemischt wird und dann im Kühlschrank 30 Minuten quellt. Diesen Schritt solltet ihr also auch als Erstes machen! Auch den veganen Zaziki-Dip von GREENFORCE haben wir direkt am Anfang zubereitet.",
+        "Den Reis in einem Sieb gut waschen. Zwiebel und Knoblauch schälen und fein würfeln. Die Tomaten in kleine Stücke schneiden. In einem mittelgroßen Topf das Öl erhitzen und Zwiebel, Knoblauch, Paprikapulver und Gyros-Gewürz darin anschwitzen. Das Tomatenmark, die frischen Tomaten und den Reis hinzugeben und nochmal 3–4 Minuten mitbraten. Nun mit passierten Tomaten und Wasser ablöschen und kurz aufkochen. Den Reis etwa 30 Minuten auf mittlerer Hitze köcheln lassen, bis er bissfest ist. Zum Schluss mit Salz und Zucker abschmecken.",
+        "Während der Reis kocht, bereiten wir das Bifteki zu. Dafür Zwiebel und Knoblauch schälen und fein würfeln und in einer Schüssel mit dem Hack vermengen. Paniermehl, Pfeffer, Oregano, Thymian, gemahlenen Kreuzkümmel, gemahlenen Koriander und Salz hinzugeben und die Masse gut vermengen.",
+        "Den Mandelfeta in vier Stifte schneiden. Aus der Hackmischung vier längliche Ovale formen, die Mandelfetastifte mittig platzieren und die Hackmischung nun darum schließen, sodass ein gefülltes längliches Steak entsteht. Eine Pfanne mit Pflanzenöl erhitzen und die Steaks von beiden Seiten scharf anbraten.",
+        "Den Tomatenreis mit den veganen Bifteki-Steaks, veganem Zaziki-Dip und optional einem Beilagensalat, frischer Petersilie und Zitronenspalten servieren.",
+        "Tipp: Wer den Tomatenreis als Halbkugeln servieren will, der ölt eine kleine runde Schüssel ein, füllt sie mit dem Tomatenreis und stürzt diese direkt auf dem Servierteller."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

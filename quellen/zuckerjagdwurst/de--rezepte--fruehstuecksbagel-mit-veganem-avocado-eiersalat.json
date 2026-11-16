@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/fruehstuecksbagel-mit-veganem-avocado-eiersalat",
+  "recipes": [
+    {
+      "name": "Frühstücksbagel mit veganem Avocado-„Eiersalat“",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/fruehstuecksbagel-mit-veganem-avocado-eiersalat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/fruehstuecksbagel-mit-veganem-avocado-eiersalat#recipe-02921b90-b8b3-5d43-860c-47c71bab9a77",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Bagel",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "2 Bagel",
+        "1 Avocado",
+        "200 g Naturtofu",
+        "1 TL gemahlene Kurkuma",
+        "2 EL Senf",
+        "0.5 EL Zitronensaft",
+        "0.5 TL Kala Namak Salz",
+        "Kresse zum Belegen",
+        "Sprossen zum Belegen",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Die Hälfte des Tofus in kleine Würfel schneiden und in einer Schüssel mit Kurkuma verrühren, damit die Tofuwürfel eine gelb-orange Farbe annehmen.",
+        "Den restlichen Tofu mit der Hand zerbröseln und die Avocado halbieren, entkernen und das Fruchtfleisch mit einer Gabel zerdrücken.",
+        "Kurkuma-Tofu-Würfel, zerbröselten Tofu, Senf, Zitronensaft und Kala Namak in einer Schüssel verrühren. Zerdrückte Avocado dazugeben und vermengen. Kräftig mit Salz und Pfeffer abschmecken, wer mag kann jetzt auch noch mehr Kala Namak dazugeben.",
+        "Bagel halbieren, toasten und mit dem Avocado-„Eiersalat“, sowie Kresse und Sprossen belegen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

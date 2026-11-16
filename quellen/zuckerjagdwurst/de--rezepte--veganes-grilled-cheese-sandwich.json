@@ -1,0 +1,35 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-grilled-cheese-sandwich",
+  "recipes": [
+    {
+      "name": "Veganes Grilled Cheese Sandwich",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-grilled-cheese-sandwich",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-grilled-cheese-sandwich#recipe-30c02f5b-2b3d-5665-b80f-290496f5ba24",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "8 Scheiben Weißbrot",
+        "8–16 Scheiben veganer Käse",
+        "8 TL vegane Butter"
+      ],
+      "instructions": [
+        "Jede Scheibe Weißbrot von beiden Seiten mit veganer Butter bestreichen. Die Hälfte der Brotscheiben mit 1–2 Scheiben veganem Käse belegen und eine weitere Brotscheibe darauflegen.",
+        "Eine (Grill-)Pfanne bei kleiner bis mittlerer Hitze erwärmen und die Sandwiches hineinlegen. Anschließend einen Deckel auf die Pfanne legen und die Sandwiches ca. 5 Minuten anbraten, bis der Käse schmilzt.",
+        "Danach den Deckel von der Pfanne nehmen und die Sandwiches von beiden Seiten weiterbraten, bis sie goldbraun sind."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

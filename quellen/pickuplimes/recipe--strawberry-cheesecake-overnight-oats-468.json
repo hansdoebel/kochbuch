@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/strawberry-cheesecake-overnight-oats-468",
+  "recipes": [
+    {
+      "name": "Strawberry Cheesecake Overnight Oats",
+      "source_url": "https://www.pickuplimes.com/recipe/strawberry-cheesecake-overnight-oats-468",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 servings",
+      "prep_time": "PT08M",
+      "cook_time": "PT02M",
+      "total_time": "PT06H10M",
+      "ingredients": [
+        "⅓ cup frozen strawberries",
+        "½ cup rolled oats",
+        "½ cup unsweetened soy milk",
+        "2 Tbsp cashew butter",
+        "1 lemon",
+        "1 Tbsp maple syrup",
+        "1 Tbsp ground flaxseeds",
+        "½ tsp pure vanilla extract",
+        "⅓ cup unsweetened coconut yogurt"
+      ],
+      "instructions": [
+        "In a small bowl, microwave the strawberries on high for 1 to 2 minutes, until thawed*. Mash with a fork and let cool slightly.",
+        "In a medium bowl, combine the oats, milk, cashew butter, lemon juice, maple syrup, flaxseeds, and vanilla.",
+        "Spoon the thawed berry mixture into the bottom of a mason jar or airtight container, then spoon the oat mixture on top. Seal and refrigerate overnight.",
+        "The next morning, top with yogurt and any other desired toppings. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium . * Alternatively, the strawberries can be thawed on the stove.",
+    "Storage The oats can be stored in a mason jar or airtight container in the fridge for up to 2 days."
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/crispy-buffalo-chicken-pizza",
+  "recipes": [
+    {
+      "name": "Crispy Buffalo Chicken Pizza",
+      "source_url": "https://app.cookwell.com/recipe/crispy-buffalo-chicken-pizza",
+      "recipe_id": "https://app.cookwell.com/recipe/crispy-buffalo-chicken-pizza",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "12\" pizza",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT2H30M",
+      "ingredients": [
+        "Bread flour, 300 g",
+        "Water, 210 g",
+        "Instant yeast, 6 g",
+        "Salt, 6 g",
+        "Neutral oil, 10 g",
+        "Chicken Breasts, 175 g",
+        "Salt, a sprinkle",
+        "Neutral oil, a drizzle",
+        "Sour Cream, 120 g",
+        "Mayonnaise, 40 g",
+        "Blue Cheese, 30 g",
+        "Black Pepper, ~10 cranks",
+        "Dried dill, a spoonful",
+        "Water, as needed",
+        "Lemon juice, to taste",
+        "Salt, to taste",
+        "Low-moisture mozzarella, 75 g",
+        "Monterrey jack cheese, 75 g",
+        "Shallots, 1",
+        "Buffalo Sauce, ~60 g"
+      ],
+      "instructions": [
+        "Add flour, yeast, salt, and oil to a bowl. Mix until evenly combined. Pour in the water and knead until a smooth dough forms, by hand or in about 5 minutes if using a stand mixer & dough hook. Shape into a taut ball, cover, and let rise until doubled, about 60 minutes. Transfer to an oiled 12x12 pan, gently stretch, then let rest another 45–60 minutes to relax. Don’t force the dough to the edges early—it will naturally spread as it relaxes. While this happens, you can prep the remaining components.",
+        "Thinly slice the chicken breast across the grain. Season lightly with salt, then sear in a hot pan with a small amount of oil until just cooked through. Transfer to a bowl and set aside. Preheat the oven to 400°F/205°.",
+        "Combine sour cream, mayo, blue cheese, pepper, dill, and a splash of water. Mix until smooth and pourable, then adjust with lemon juice and salt to taste.",
+        "Press the dough fully into the pan. Spread buffalo sauce edge to edge, then evenly distribute the chicken. Top with cheese, making sure some reaches the edges for crisping. Add shallots and a light drizzle of more buffalo sauce.",
+        "Bake at 400°F/205°C for about 15 minutes, then increase to 450°F/230°C and continue baking until the edges are crispy and the bottom is browned, about 20–25 minutes total. Remove from the pan and slice into squares. Optionally garnish with more dill and serve with the blue cheese sauce on the side."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

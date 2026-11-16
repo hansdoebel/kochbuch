@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pasteis-de-nata",
+  "recipes": [
+    {
+      "name": "Vegane Pastéis de Nata",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pasteis-de-nata",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pasteis-de-nata#recipe-1f12cca8-fc04-5261-b328-bb0e33d7237d",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "500 ml Hafermilch (z.B. von Voelkel)",
+        "40 g Speisestärke",
+        "40 g Zucker",
+        "1 Vanilleschote",
+        "1 Prise Kurkuma",
+        "1 Rolle Blätterteig",
+        "1-2 EL gemahlener Zimt",
+        "1-2 EL vegane Butter (zum Einfetten)",
+        "1-2 EL Puderzucker (zum Dekorieren)"
+      ],
+      "instructions": [
+        "Die Vanilleschote halbieren und das Mark mit dem Messerrücken herauskratzen.",
+        "In einen Topf die Hafermilch, den Zucker, das Kurkuma, das Vanillemark und die Vanilleschote geben und aufkochen lassen. Dabei ständig rühren.",
+        "In einer kleinen Schüssel die Stärke mit etwas Hafermilch aus dem Topf glatt rühren.",
+        "Nachdem die Hafermilch kurz aufgekocht ist, den Topf vom Herd nehmen, die Vanilleschote aus dem Topf herausnehmen und den Stärkemix unterrühren.",
+        "Die Hafermilch wieder erhitzen und etwa 1 Minuten köcheln lassen. Dabei ständig rühren. Den Topf im Anschluss wieder vom Herd nehmen und für mindestens eine Stunde abkühlen lassen.",
+        "Den Ofen auf 200°C Umluft vorheizen. Eine Muffinform mit veganer Butter einfetten.",
+        "Den Blätterteig zu einer langen Rolle aufrollen und in 12 gleich große Stücken teilen. Die Mini-Schnecken in die Mulden der Muffinform legen und mit den Fingern andrücken, sodass die Mulden komplett mit Teig ausgefüllt sind.",
+        "Eine großzügige Prise Zimt in jeder Mulde verteilen.",
+        "Den Pudding nun auf die 12 Mulden verteilen (nur zu 3/4 füllen) und die Natas bei 200°C Umluft auf mittlerer Schiene für 20 Minuten backen. Im Anschluss den Ofen auf Oberhitze bzw. die Grillfunktion schalten und bei 220°C die Natas so lange weiter backen, bis die typischen braunen Flecken auf den Natas entstehen (dauert etwa 5-10 Minuten).",
+        "Die veganen Pastéis de Nata aus dem Ofen nehmen, etwa 10 Minuten auskühlen lassen und am besten lauwarm essen und mit etwas Puderzucker dekorieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

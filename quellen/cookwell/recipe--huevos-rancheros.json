@@ -1,0 +1,52 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/huevos-rancheros",
+  "recipes": [
+    {
+      "name": "Huevos Rancheros",
+      "source_url": "https://app.cookwell.com/recipe/huevos-rancheros",
+      "recipe_id": "https://app.cookwell.com/recipe/huevos-rancheros",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4-6 tostadas",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "Corn tortillas, 4-6",
+        "Eggs, 4-6",
+        "Neutral oil",
+        "Cilantro",
+        "Cotija cheese",
+        "Pickled onions",
+        "Plum tomatoes, ~ 4",
+        "Serrano peppers, 1",
+        "Garlic, 1 clove",
+        "Neutral oil, a spoonful",
+        "White onions, 1/8",
+        "Salt, to taste",
+        "Lime juice, a splash",
+        "Pinto Beans, 1 28 oz can",
+        "Neutral oil, a spoonful",
+        "Cumin seeds, a spoonful",
+        "Garlic, 2 cloves",
+        "Salt, to taste"
+      ],
+      "instructions": [
+        "Turn your oven on broil. Cut the tomatoes in half and place cut side down on a baking sheet along with the serrano peppers and garlic clove. Slide the baking sheet of ingredients under the broiler until the tomatoes are browning and slightly charred. If you would rather have a slightly fresher salsa without these charred and smokey flavors, you can omit the broiling step and add the ingredients straight to a blender: Transfer the tomatoes, chiles, and garlic to a blender or food processor and pulse until smooth but still slightly chunky. Set a pan over medium-low heat and add the oil. Add the onion and saute until translucent. Turn the heat to medium and add the blended mixture along with a sprinkle of salt. Cook while stirring for about 5 minutes until the sauce has reduced. Taste it! Add salt and lime juice as needed. Store in an airtight mason jar in the fridge until ready to use. The sauce can also be canned or frozen for longer preservation.",
+        "Open the can of pintos and drain off most of the water. Set a pan over medium heat and add the oil. Once hot add the cumin seeds and garlic cloves to bloom until fragrant but not burning. Add the pinto beans and a large pinch of salt. Bring to a simmer while stirring for a couple of minutes. Using a fork or potato mash, partially mash the beans to your desired consistency. Turn off the heat and reserve. Any extra can be stored in the fridge.",
+        "Set a pan over medium-high heat and add a thin layer of oil to coat the bottom of the pan. Once hot, lightly fry the corn tortillas until crisp. Drain on a paper towel. For a lower-calorie option, spritz the tortillas with baking spray and toast under the broiler or in an air fryer.",
+        "In the same pan and oil, fry the eggs sunny side up (optionally basting the whites with oil to make them extra crispy). For a lower-calorie option, poach the eggs in water, or use a nonstick pan and baking spray to fry them.",
+        "Reheat the reserved beans and salsa ranchera in the microwave or a pan until warmed through. On each tostada, add a layer of the warmed beans. Add a fried egg over each, then spoon the warmed salsa over the whites. Top with some crumbling cheese and cilantro. Serve with additional beans on the side if you would like. To enjoy, slice the yolk open and devour."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

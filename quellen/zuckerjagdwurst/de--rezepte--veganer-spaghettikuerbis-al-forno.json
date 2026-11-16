@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-spaghettikuerbis-al-forno",
+  "recipes": [
+    {
+      "name": "Veganer Spaghettikürbis al Forno",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-spaghettikuerbis-al-forno",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-spaghettikuerbis-al-forno#recipe-b82a2135-bf58-57eb-b063-2190884459fd",
+      "authors": [
+        "Anneke Schügner"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "1 mittelgroßer Spaghettikürbis (ca. 1 kg)",
+        "1 große Zwiebel",
+        "2 Knoblauchzehen",
+        "300 g veganes, frisches Hack",
+        "100 g Tomatenmark",
+        "250 ml Gemüsebrühe",
+        "150 ml veganer Weißwein",
+        "250 ml pflanzliche Kochsahne",
+        "1 TL getrockneter Majoran",
+        "2 TL getrockneter Basilikum",
+        "2 TL getrockneter Oregano",
+        "1 TL gemahlener Rosmarin",
+        "250 g Cherrytomaten",
+        "100 g veganer Schinken in Scheiben",
+        "200 g Tiefgekühlte Erbsen",
+        "100 g veganer Käse",
+        "Olivenöl zum Braten",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Den Spaghettikürbis waschen und mehrmals mit einer Gabel einstechen. Den Kürbis in einem Topf mit reichlich Wasser auf mittlerer Hitze für ca. 40 Minuten kochen.",
+        "Tipp: Sollte das Gewicht eures Kürbis stark abweichen, die Kochzeit entsprechend anpassen. Ist euer Kürbis gar, solltet ihr ihn mit einer Gabel leicht einstechen können.",
+        "In der Zwischenzeit Zwiebel würfeln und Knoblauch fein hacken. Beides in einer großen Pfanne mit reichlich Öl anschwitzen, bis die Zwiebeln glasig sind. Anschließend veganes Hack und Tomatenmark hinzugeben und für weitere 7-10 Minuten anbraten. Mit Gemüsebrühe, Weißwein und pflanzlicher Sahne ablöschen und mit Majoran, Basilikum, Oregano und Rosmarin abschmecken. Die Soße für weitere 10 Minuten köcheln lassen.",
+        "Ofen auf 180°C (Umluft) vorheizen. Den Kürbis abgießen und etwas abkühlen lassen. Anschließend halbieren und mit einer Gabel das faserige Fruchtfleisch herauslösen. Die Schale des Kürbis aufbewahren.",
+        "Die Cherrytomaten halbieren und den veganen Schinken in feine Streifen schneiden. In einer Schüssel Kürbisfleisch, Soße, Cherrytomaten, Erbsen und veganen Schinken miteinander vermengen und mit Salz und Pfeffer würzen. Den Mix in die ausgehöhlten Schalen des Kürbis geben. Damit der vegane Käse besser schmilzt, mit ein wenig Pflanzenöl vermengen und danach auf die gefüllten Kürbishälften streuen. Bei 180°C (Umluft) für ca. 18-20 Minuten backen, bis der vegane Käse schmilzt und leicht gebräunt ist."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

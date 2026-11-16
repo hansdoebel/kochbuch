@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-palak-paneer",
+  "recipes": [
+    {
+      "name": "Veganes Palak Paneer",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-palak-paneer",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-palak-paneer#recipe-82b76e81-db0e-5d3a-81ae-6792d9efc1ba",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "400 g Basmatireis",
+        "600 g Naturtofu",
+        "1 Zwiebel",
+        "25 g Ingwer",
+        "2 Knoblauchzehen",
+        "0.5 grüne Chilischote",
+        "500 g frischer Babyspinat",
+        "2 EL Hefeflocken",
+        "2 TL Garam Masala",
+        "1 TL gemahlener Kreuzkümmel",
+        "2 EL Currypulver",
+        "1 TL edelsüßes Paprikapulver",
+        "150 ml passierte Tomaten",
+        "1 EL Agavendicksaft",
+        "ca. 100 ml Kokosmilch (aus der Dose)",
+        "2 EL Cashewmus (optional)",
+        "1 Zitrone (Saft)",
+        "Kokosnussöl zum Braten",
+        "Salz"
+      ],
+      "instructions": [
+        "Zunächst den Reis nach Packungsanleitung im Topf oder mit dem Reiskocher zubereiten und anschließend warm halten.",
+        "Den Naturtofu mit dem Messer oder den Händen in grobe Stücke zerteilen. Zwiebel, Ingwer und Knoblauch schälen und fein würfeln. Die grüne Chili waschen, entkernen und ebenfalls fein schneiden.",
+        "Wasser in einem Topf zum Kochen bringen. Den Babyspinat falls nötig waschen und portionsweise 1–2 Minuten ins heiße Wasser legen, bis er zusammenfällt. Danach aus dem Wasser nehmen und mit eiskaltem Wasser abspülen. Den blanchierten Blattspinat anschließend glatt pürieren. Dabei so viel Wasser wie nötig dazugeben.",
+        "Den Naturtofu mit Hefeflocken vermengen, so dass er damit fast komplett ummantelt ist. Kokosöl in einer großen Pfanne schmelzen lassen und die Tofustückchen anbraten, bis sie kross und goldbraun sind. Danach aus der Pfanne nehmen und beiseitelegen.",
+        "Danach erneut etwas Kokosöl in der Pfanne erhitzen und Zwiebel, Ingwer, Knoblauch, grüne Chili, Garam Masala, Kreuzkümmel, Curry- und Paprikapulver und Salz darin 3–4 Minuten anbraten, bis die Zwiebelwürfel glasig sind.",
+        "Passierte Tomaten, etwas Agavendicksaft, Kokosmilch, optional Cashewmus und den pürierten Spinat hinzugeben, verrühren und 5–10 Minuten köcheln lassen. Mit Zitronensaft und, falls gewünscht, mehr Gewürzen abschmecken. Danach den Tofu dazugeben und vermengen.",
+        "Tipp: Wir geben das Cashewmus gern zum Curry, weil es eine nussige Cremigkeit mit sich bringt. Es ist aber optional und eher eine (sehr) leckere Special Zutat für dieses Rezept.",
+        "Das Spinatcurry mit gekochtem Reis servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tagliatelle-blumenkohl-bolognese",
+  "recipes": [
+    {
+      "name": "Tagliatelle mit Blumenkohl-Tomaten-Sauce",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tagliatelle-blumenkohl-bolognese",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/tagliatelle-blumenkohl-bolognese#recipe-ecf1dd5b-068b-5808-9c19-03b1398a3d53",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "400 g Tagliatelle",
+        "500 g Blumenkohl",
+        "2 Zwiebeln",
+        "2 Knoblauchzehen",
+        "1 Möhre",
+        "4 EL Tomatenmark",
+        "1 TL getrockneter Basilikum",
+        "1 TL getrockneter Oregano",
+        "0.5 TL Chiliflocken",
+        "3 EL veganer Rotwein",
+        "400 g gehackte Tomaten aus der Dose",
+        "1 TL Ahornsirup",
+        "Pflanzenöl zum Braten",
+        "veganer Parmesan zum Servieren",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Zwiebeln und Knoblauch schälen und fein hacken. Den Blumenkohl mit einem Zerkleinerer oder dem guten alten Messer klein schneiden, bis er ungefähr so klein wie Reiskörner ist. Die Möhre fein würfeln.",
+        "Etwas Pflanzenöl in eine große Pfanne geben, erhitzen und darin erst die Zwiebeln anschwitzen, bis sie glasig sind. Knoblauch dazugeben und ca. 1 Minute anbraten. Dann Tomatenmark, getrockneten Basilikum, Oregano und Chiliflocken dazugeben und alles ca. 2-3 Minuten anbraten, bis sich das Tomatenmark etwas dunkler färbt. Den zerkleinerten Blumenkohl und die Möhre dazugeben, mit Salz und Pfeffer würzen und ca. 5 Minuten anbraten.",
+        "Alles mit vegane, Rotwein ablöschen und die gehackten Tomaten und Ahornsirup dazugeben. Mit geschlossenem Deckel ca. 20 Minuten über mittlerer Hitze köcheln lassen, dann den Deckel abnehmen und weitere ca. 10 Minuten köcheln. Die Soße mit Salz und Pfeffer abschmecken.",
+        "Während die Soße kocht, Nudeln in kochendem gesalzenem Wasser nach Packungsangabe kochen. Vor dem Abgießen eine große Tasse vom Nudelwasser abschöpfen. Die Nudeln abgießen und direkt zur Soße geben und gut durchschwenken. So viel Nudelwasser dazugeben, bis die Blumenkohl-Tomaten-Soße cremig ist. Wer will, serviert das ganze mit veganem Parmesan."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

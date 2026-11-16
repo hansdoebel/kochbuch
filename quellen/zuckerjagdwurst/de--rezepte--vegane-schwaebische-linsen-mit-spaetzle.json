@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schwaebische-linsen-mit-spaetzle",
+  "recipes": [
+    {
+      "name": "Vegane (schwäbische) saure Linsen mit Spätzle",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schwaebische-linsen-mit-spaetzle",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schwaebische-linsen-mit-spaetzle#recipe-c1d2fdda-6a64-5719-b389-575c03347935",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Linsen:",
+        "400 g Tellerlinsen",
+        "2 Zwiebeln",
+        "4 EL Weizenmehl",
+        "500 ml Gemüsebrühe (Delikatessbrühe)",
+        "veganer Rotweinessig",
+        "Pflanzenöl zum Braten",
+        "Salz",
+        "Außerdem:",
+        "4 vegane Würstchen",
+        "800 g vegane Spätzle",
+        "frische Petersilie zum Servieren"
+      ],
+      "instructions": [
+        "Die Tellerlinsen nach Packungsanleitung (ca. 20-30 Minuten) abkochen. Sobald die Tellerlinsen weich sind, abgießen und in einem Sieb auffangen.",
+        "In der Zwischenzeit Zwiebeln schälen und fein würfeln. Den Boden eines Topfs mit Pflanzenöl bedecken und die Zwiebeln darin anschwitzen, bis sie glasig sind. Mehl hinzugeben und mit einem Schneebesen gut einrühren, sodass keine Klumpen entstehen. 2-3 Minuten „einbrennen“ lassen, bis sich das Mehl dunkel färbt.",
+        "Nun die Mehlschwitze mit Gemüsebrühe ablöschen (dabei ständig mit einem Schneebesen rühren) und die gekochten Tellerlinsen am Ende hinzugeben. Mit Salz und Rotweinessig abschmecken. Es sollte schön sauer schmecken – startet also mit ein paar Esslöffeln Essig und tastet euch langsam heran. Die veganen Würstchen dazuzugeben und ca. 5 Minuten auf kleiner Flamme erwärmen.",
+        "In der Zwischenzeit die veganen Spätzle nach Packungsanleitung abkochen. Die Linsen mit veganen Würstchen, Spätzle und frischer Petersilie servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

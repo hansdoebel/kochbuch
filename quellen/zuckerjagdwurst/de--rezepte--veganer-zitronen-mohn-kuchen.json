@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zitronen-mohn-kuchen",
+  "recipes": [
+    {
+      "name": "Veganer Zitronen-Mohn-Kuchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zitronen-mohn-kuchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zitronen-mohn-kuchen#recipe-b5f197a4-8a91-58c5-bf1b-2e8a4754bffa",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kastenform (31 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT80M",
+      "ingredients": [
+        "Für den Teig:",
+        "450 g Weizenmehl (Type 405)",
+        "16 g (1.5 EL) Backpulver",
+        "8 g (1.5 TL) Vanillezucker",
+        "0.5 TL Salz",
+        "3 Zitronen (Abrieb und Saft)",
+        "200 g Zucker",
+        "200 g pflanzliche Margarine",
+        "200 ml pflanzliche Milch",
+        "100 ml Sprudelwasser",
+        "4 EL Mohnsamen",
+        "Für die Glasur:",
+        "250 g Puderzucker",
+        "ca. 3 EL Zitronensaft (oder Wasser)",
+        "Außerdem:",
+        "Mehl zum Bestäuben",
+        "pflanzliche Margarine zum Einfetten"
+      ],
+      "instructions": [
+        "Den Ofen auf 200 °C (Ober-/Unterhitze) vorheizen. In einer großen Schüssel zunächst Mehl, Backpulver, Vanillezucker, Salz und den Abrieb einer Zitrone verrühren.",
+        "In einer weiteren Schüssel Margarine und Zucker miteinander aufschlagen. Die Margarine-Zucker-Mischung zur Mehlmischung geben und beides kurz vermengen.",
+        "Anschließend pflanzliche Milch, Sprudelwasser und circa 60 Milliliter vom Saft der Zitronen dazugeben. Den Rest vom Zitronensaft beiseitestellen – ihn brauchen wir erst nach dem Backen. Alles gründlich, aber schnell verrühren und nicht zu lange überrühren. Zum Schluss Mohnsamen nur kurz unterrühren.",
+        "Eine Kuchenform mit Margarine einfetten und mit ein bisschen Mehl bestäuben, damit der Kuchen nicht darin kleben bleibt. Den Teig in die Form füllen und bei 200 °C (Ober-/Unterhitze) circa 60 Minuten backen. Nach 15 Minuten Backzeit vorsichtig mit einem Messer den Teig auf der Oberseite längs einschneiden. So könnt ihr garantieren, dass der Teig nicht irgendwo beim Backen reißt, sondern mittig. Nach dem Rausnehmen die Kuchenoberseite mehrmals mit einer Gabel einstechen und mit Zitronensaft bestreichen.",
+        "Tipp: Vor dem Rausnehmen die Stäbchenprobe machen: einen Holzspieß schräg in den Kuchen stechen und wieder herausziehen. Wenn kein Teig dran kleben bleibt, ist der Kuchen fertig. Anschließend auskühlen lassen, bevor er aus der Form genommen wird.",
+        "Für die Glasur Puderzucker mit so viel Wasser (oder Zitronensaft) verrühren, bis ein dicker Zuckerguss entsteht. Wenn der Kuchen komplett ausgekühlt ist, den Zuckerguss darauf verteilen und noch kurz trocknen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

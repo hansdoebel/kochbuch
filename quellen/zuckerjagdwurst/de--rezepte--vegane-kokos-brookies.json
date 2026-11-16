@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kokos-brookies",
+  "recipes": [
+    {
+      "name": "Vegane Kokos-Brookies",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kokos-brookies",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kokos-brookies#recipe-7a541521-8abb-538c-856a-2934193808b4",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Backform (20 x 25 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für den Brownieteig:",
+        "200 g Weizenmehl (Type 405) oder Dinkelmehl (Type 603)",
+        "150 g Zucker",
+        "50 g Kakaopulver",
+        "200 g Zartbitterschokolade",
+        "100 g Apfelmus",
+        "100 ml neutrales Pflanzenöl",
+        "200 ml Reis Drink mit Kokos (z. B. von Natumi)",
+        "Für den Kokoskeksteig:",
+        "200 g Weizenmehl (Type 405) oder Dinkelmehl (Type 603)",
+        "150 g Kokosraspeln",
+        "100 g Zucker",
+        "1 TL Backpulver",
+        "1 Prise Salz",
+        "80 ml Kokosöl",
+        "80 ml Reis Drink mit Kokos (z. B. von Natumi)",
+        "1 TL Vanilleextrakt",
+        "Außerdem:",
+        "vegane Butter zum Einfetten der Backform"
+      ],
+      "instructions": [
+        "Für den Brownieteig Weizenmehl, Zucker und Kakaopulver in einer Schüssel vermischen. Die Zartbitterschokolade im Wasserbad schmelzen. Die geschmolzene Schokolade, Apfelmus, Pflanzenöl und Reis Drink zu den trockenen Zutaten geben, gut unterrühren und in einer eingefetteten Form (20 x 25 Zentimeter) glattstreichen.",
+        "Den Backofen auf 180 °C (Umluft) vorheizen. Für den Keksteig Mehl, Kokosraspel, Zucker, Backpulver und Salz in einer großen Schüssel vermischen. Geschmolzenes Kokosöl, Reis Drink und Vanilleextrakt dazugeben und zu einem Teig kneten.",
+        "Den Keksteig auf dem Brownieteig verteilen und 30 Minuten bei 180 °C (Umluft) im Ofen backen. Nach 15–20 Minuten abdecken, damit der Teig nicht zu dunkel wird. Sobald die Brookies komplett abgekühlt sind, in Stücke schneiden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

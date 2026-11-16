@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-french-toast-waffeln",
+  "recipes": [
+    {
+      "name": "Vegane French Toast Waffeln",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-french-toast-waffeln",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-french-toast-waffeln#recipe-81fe9b23-8a9f-5d7b-a683-0e0f12d89b32",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "5 French Toasts",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "250 ml pflanzliche Milch",
+        "2 EL Mehl",
+        "2 TL Agavendicksaft",
+        "1 TL Zimt",
+        "1 TL Vanille Extrakt",
+        "2 EL Öl",
+        "5 Toastbrote",
+        "TOPPINGS",
+        "Sahne, Früchte, Schokolade, Zimt+Zucker, Erdnussbutter.."
+      ],
+      "instructions": [
+        "Verrührt in einer Schüssel Milch, Mehl, Agavensyrup, Vanille Extrakt, Öl und Zimt miteinander.",
+        "Das Waffeleisen erhitzen und mit Öl bestreichen.",
+        "Toastbrot in Milchmix tunken und im Waffeleisen braun backen.",
+        "Danach toppen mit Früchten, Sahne, Erdnussbutter .."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/radieschensalat-mit-fenchel-und-rettich",
+  "recipes": [
+    {
+      "name": "Radieschensalat mit Fenchel & Rettich",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/radieschensalat-mit-fenchel-und-rettich",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/radieschensalat-mit-fenchel-und-rettich#recipe-d55f197f-baa7-5502-a506-724bb770f7c5",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 große Schüssel",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "1 Rettich",
+        "1 Bund Radieschen",
+        "1 Fenchel",
+        "1 Bund Schnittlauch",
+        "FÜR DAS DRESSING",
+        "3 EL Olivenöl",
+        "2 EL Zitronensaft",
+        "1 EL Apfelessig",
+        "1 TL süßer Senf",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Schneidet euer Gemüse zunächst klein: Die Radieschen in dünne Scheiben, den Fenchel in dünne Streifen und den Rettich könnt ihr mit einem Sparschäler in lange, dünne Scheiben schneiden. Alternativ geht's natürlich auch mit dem Messer. Und wer heute ganz verrückt drauf ist, darf auch alles würfeln.",
+        "Den Schnittlauch in kleinste Ringe schneiden.",
+        "Verrührt Rettich, Radieschen und Fenchel in einer großen Schüssel miteinander.",
+        "Rührt alle Zutaten für das Dressing zusammen, schmeckt mit Salz und Pfeffer ab und gießt das Dressing anschließend über den Salat. Zum Schluss noch den Schnittlauch dazugeben und alles gut umrühren. Schon ist der Salat fertig!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-griesskuchen-mit-blaubeeren",
+  "recipes": [
+    {
+      "name": "Veganer Grießkuchen mit Blaubeeren",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-griesskuchen-mit-blaubeeren",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-griesskuchen-mit-blaubeeren#recipe-eb7e9a0b-6f6f-5860-b310-9d5b6a9a6766",
+      "authors": [
+        "Team"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Springform (Ø 24 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT80M",
+      "ingredients": [
+        "600 ml pflanzliche Milch",
+        "120 g vegane Butter",
+        "150 g Zucker",
+        "8 g (1.5 TL) Vanillezucker",
+        "1 Prise Salz",
+        "300 g Weichweizengrieß (oder Dinkelgrieß)",
+        "100 g gehackte Mandeln",
+        "200 g veganer Quark",
+        "100 g gemahlene Mandeln",
+        "16 g (1.5 EL) Backpulver",
+        "0.5 Zitrone (Abrieb)",
+        "300 g Blaubeeren",
+        "Puderzucker",
+        "Wasser"
+      ],
+      "instructions": [
+        "Pflanzliche Milch, vegane Butter, Zucker, Vanillezucker und Salz in einen Topf geben und erhitzen, bis die vegane Butter geschmolzen ist.",
+        "Die Mischung aufkochen lassen. Danach den Weichweizengrieß dazugeben, den Topf vom Herd nehmen und circa 5 Minuten ziehen und quellen lassen.",
+        "Die gehackten Mandeln in einer fettfreien Pfanne rösen. Veganen Quark, gemahlene und geröstete gehackte Mandeln, Backpulver und Zitronenabrieb in einer separaten Schüssel vermengen und die Mischung anschließend unter den Grieß rühren.",
+        "Den Ofen auf 180 °C (Umluft) vorheizen. Den Teig in eine gefettete und bemehlte Springform geben, mit Blaubeeren toppen und circa 60 Minuten backen.",
+        "Den Kuchen nach dem Backen abkühlen lassen. Puderzucker mit etwas Wasser verrühren, bis ein dicker Zuckerguss entsteht. Den Guss auf dem abgekühlten Kuchen verteilen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,46 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/honey-chipotle-glazed-chicken-kebabs",
+  "recipes": [
+    {
+      "name": "Honey Chipotle Glazed Chicken Kebabs",
+      "source_url": "https://app.cookwell.com/recipe/honey-chipotle-glazed-chicken-kebabs",
+      "recipe_id": "https://app.cookwell.com/recipe/honey-chipotle-glazed-chicken-kebabs",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT1H30M",
+      "ingredients": [
+        "Salt, 11 g",
+        "Chicken Thighs, 4",
+        "Chipotles in Adobo, 50 g",
+        "Honey, 50 g",
+        "Water, 50 g",
+        "Lime juice, 1 lime",
+        "Garlic, 1 clove",
+        "Mexican oregano, a sprinkle",
+        "Flour tortillas",
+        "Sour Cream",
+        "Tomatoes",
+        "Lettuce",
+        "Pickled onions"
+      ],
+      "instructions": [
+        "Salt the chicken thighs and place them on a baking sheet. Set in the fridge, and let dry brine for 1 hour or up to 24 hours overnight. Meanwhile, prep the honey chipotle sauce.",
+        "Chop or blend the chipotles in adobo until mostly smooth. To a saucepan, add chipotles in adobo, honey, lime juice, water, Mexican oregano, and grated garlic. Place pan over medium heat and bring to a simmer while stirring. Let simmer for one minute then transfer to a container. This will be used to baste the chicken kebabs at the end of grilling. Any extra stores in the fridge for 1-2 weeks.",
+        "Cut the salted chicken thighs into thin slices, and slide them onto a metal skewer. To cook, set a griddle pan down on high heat and add some oil. Once the pan is hot place down the chicken skewers to sear. Keep rotating the chicken until all the sides are crispy and golden brown. Once the chicken is cooked through, turn the heat to low and drizzle over the honey chipotle sauce with a spoon or brush. Keep rotating the skewers and adding more \"tare\" until all the chicken is coated. Make sure to not leave the chicken on the heat for too long because the sauce could burn.",
+        "Take the cooked chicken off the heat and add even more of the sauce over the top. Serve on a flour tortilla with toppings of choice, roll it up and enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

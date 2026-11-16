@@ -1,0 +1,54 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/chicken-tinga-quesadilla",
+  "recipes": [
+    {
+      "name": "Chicken Tinga Quesadilla",
+      "source_url": "https://app.cookwell.com/recipe/chicken-tinga-quesadilla",
+      "recipe_id": "https://app.cookwell.com/recipe/chicken-tinga-quesadilla",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4-8 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "Whole peeled tomatoes, 800 g",
+        "Chipotles in Adobo, 2-3",
+        "Garlic, 2 cloves",
+        "Onions, 1/4",
+        "Bay Leaves, 1",
+        "Dried oregano, a sprinkle",
+        "Sugar, to taste",
+        "Salt, to taste",
+        "Cooking oil, a drizzle",
+        "Chicken Breasts, 2",
+        "Salt",
+        "Cooking oil, a drizzle",
+        "Corn tortillas",
+        "Cheese",
+        "Lettuce",
+        "Tomatoes",
+        "Pickled onions",
+        "Sour Cream",
+        "Poblano hot sauce",
+        "Lime juice"
+      ],
+      "instructions": [
+        "Add all tinga poblana sauce ingredients except for the oil, garlic, and bay leaf to a blender. Puree until smooth.",
+        "Over medium-high heat, add a layer of oil and the garlic and bay leaf to a pan. Let that sizzle for 20 seconds before pouring in the sauce. Simmer for 5 minutes or until slightly thickened.",
+        "Meanwhile, sprinkle each chicken piece with salt. Heat a pan over medium high and add a drizzle of oil. Grill or sear in the chicken pan until just cooked through. Shred the chicken with a fork, hands, or stand mixer until pulled into pieces. Set aside.",
+        "Toss in the shredded chicken to the sauce. Mix that up until incorporated. You want the flavor to develop, so turn the heat down to a simmer and stir frequently. Reduce until thickened, about 10 more minutes.",
+        "Add a tortilla with a layer of grated cheese to a pan over medium heat. As the cheese begins to melt, fill it with a portion of chicken tinga and toppings of choice. Fold the tortilla over to enclose. Flip and continue cooking until both sides are browned, and the cheese has melted. To make the dipping sauce, mix together sour cream with a hot sauce of choice and lime juice to taste. Add the hot sauce and citrus little by little, until you’ve reached your ideal flavor. Enjoy with quesadilla."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

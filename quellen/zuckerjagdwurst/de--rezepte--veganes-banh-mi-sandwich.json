@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-banh-mi-sandwich",
+  "recipes": [
+    {
+      "name": "Veganes Bánh mì Sandwich",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-banh-mi-sandwich",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-banh-mi-sandwich#recipe-0dba3763-65d0-54fd-86d5-dc686b62e082",
+      "authors": [
+        "Team"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "3 Sandwiches",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Für das eingelegte Gemüse:",
+        "2 Karotten",
+        "200 g Rettich",
+        "1 TL Salz",
+        "1 TL Zucker",
+        "100 g Zucker",
+        "200 ml Weißweinessig",
+        "200 ml Wasser",
+        "Für den Tofu:",
+        "400 g gebackener/frittierter Tofu",
+        "2 Knoblauchzehen",
+        "20 g Ingwer",
+        "1 Zitronengrasstange",
+        "4 EL Olivenöl",
+        "4 EL Sojasoße",
+        "0.5 Limette (Saft)",
+        "4 TL Reisessig",
+        "2 EL Ahornsirup",
+        "Außerdem:",
+        "1 frisches Baguette",
+        "3 EL vegane Butter",
+        "3 EL vegane Mayonnaise",
+        "30 g Koriander",
+        "0.5 Gurke",
+        "Sriracha zum Servieren",
+        "1 Jalapeño (optional)"
+      ],
+      "instructions": [
+        "Karotten und Rettich schälen und in dünne Stifte schneiden. In einer Schüssel mit je 1 TL Salz und Zucker bestreuen und die Gemüsestreifen circa 5 Minuten damit massieren, bis sie weich werden. Anschließend die ausgetretene Flüssigkeit abgießen und nochmal alles mit klarem Wasser abspülen. Die weichen Gemüsestreifen in ein Glas geben.",
+        "Weißweinessig, Wasser und Zucker in einem kleinen Topf erwärmen, bis sich der Zucker aufgelöst hat. Die Mischung in das Glas über die Gemüsestreifen geben und mindestens 1 Stunde einziehen lassen, am besten aber über Nacht.",
+        "Frittierten Tofu in breite Streifen schneiden. Knoblauchzehen, Ingwer und Zitronengrasstange fein hacken und zusammen mit den anderen Zutaten für die Marinade in einer Schüssel zusammenrühren und die Tofuscheiben darin mindestens 1 Stunde marinieren.",
+        "Gurke und Jalapeños in Scheiben schneiden. Den Ofen auf 150 °C (Ober- und Unterhitze) vorheizen. Das Baguette dritteln und circa 5 Minuten backen, bis es warm und knusprig ist. Den Tofu zusammen mit der Marinade auf mittlerer Stufe circa 5 Minuten in einer Pfanne köcheln lassen, bis sich der Tofu vollgesogen hat und weicher geworden ist.",
+        "Zum Anrichten die Baguettes längs halbieren und danach beide Seiten zuerst mit Butter und anschließend mit Mayonnaise bestreichen und mit Koriander, Gurkenscheiben, Tofu, eingelegten Gemüsestreifen und je nach Geschmack mit ein paar Jalapenoscheiben belegen. Wer mag, kann zusätzlich Sriracha darübergeben."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

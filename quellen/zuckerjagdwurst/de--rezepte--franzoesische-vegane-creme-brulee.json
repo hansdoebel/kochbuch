@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/franzoesische-vegane-creme-brulee",
+  "recipes": [
+    {
+      "name": "Simple, vegane Crème Brûlée",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/franzoesische-vegane-creme-brulee",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/franzoesische-vegane-creme-brulee#recipe-ddc34603-a7a2-50f3-a68d-42ec72eb7217",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "30 Minuten (+ 2 Stunden Kühlzeit)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT150M",
+      "ingredients": [
+        "Für die Crème Brûlée:",
+        "400 g Seidentofu",
+        "100 ml vegane Sahne zum Aufschlagen",
+        "100 g brauner Zucker",
+        "2 EL Hefeflocken",
+        "1 Vanilleschote",
+        "3 EL Speisestärke",
+        "2 EL Wasser",
+        "1 Prise Salz",
+        "1 Prise Kurkuma",
+        "1 Prise Kala Namak",
+        "3–4 EL weißer Zucker",
+        "Zum Servieren:",
+        "frische Minze"
+      ],
+      "instructions": [
+        "Seidentofu, vegane Sahne, braunen Zucker, Hefeflocken und das Mark einer Vanilleschote in einem Topf vermischen und unter ständigem Rühren erhitzen. Stärke mit Wasser glatt rühren und unter Rühren hinzugeben. Die Mischung kurz aufkochen lassen, bis sie andickt.",
+        "Die Crème mit Salz, Kurkuma und Kala Namak abschmecken und etwa 5 Minuten leicht köcheln lassen, bis die Konsistenz fast puddingartig ist. Die Masse im Anschluss in vier hitzebeständige Förmchen geben und bei Raumtemperatur abkühlen lassen.",
+        "Nachdem die Masse komplett abgekühlt ist, mindestens 2–3 Stunden (oder über Nacht) im Kühlschrank aufbewahren.",
+        "Erst kurz vor dem Servieren etwa 1 Esslöffel weißen Zucker in jede Form geben und gleichmäßig verteilen, sodass eine ebenmäßige Zuckerschicht auf der Crème entsteht. Die Zuckerschicht mit einem Butangasbrenner flambieren, bis sich eine braune Karamellschicht bildet. Direkt servieren und optional mit frischer Minze toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

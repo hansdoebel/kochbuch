@@ -1,0 +1,62 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-poutine",
+  "recipes": [
+    {
+      "name": "Vegane Poutine",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-poutine",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-poutine#recipe-e047c8bd-dec9-5ce0-b62f-608607112f70",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für die Kartoffelspalten:",
+        "1 kg Kartoffeln (vorwiegend festkochend)",
+        "2 EL Olivenöl",
+        "Salz",
+        "Pfeffer",
+        "Für die schnelle braune Soße:",
+        "2 Zwiebeln",
+        "2 EL vegane Butter",
+        "0.5 TL getrockneter Thymian",
+        "1 TL Tomatenmark",
+        "1 TL Senf",
+        "2 EL Mehl",
+        "200 ml Gemüsebrühe",
+        "1 TL Sojasoße",
+        "veganer Rotwein (optional)",
+        "Salz",
+        "Pfeffer",
+        "Für den Cashew-Ricotta:",
+        "125 g Cashews (mind. 30 Minuten, am besten über Nacht in Wasser eingelegt)",
+        "50 ml Wasser",
+        "2 EL Hefeflocken",
+        "1 Knoblauchzehe",
+        "0.5 TL getrockneter Oregano",
+        "Zitronensaft",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "Petersilie zum Servieren"
+      ],
+      "instructions": [
+        "Den Backofen auf 200°C vorheizen. Kartoffeln waschen, nach Bedarf schälen und in Wedges schneiden. Die Kartoffelspalten auf einem mit Backpapier belegten Backblech verteilen, mit Olivenöl einreiben und mit Salz und Pfeffer würzen. Ca. 20-25 Minuten backen, oder bis sie goldbraun und knusprig sind.",
+        "In der Zwischenzeit Zwiebeln für die Soße schälen und fein würfeln. Vegane Butter in einem kleinen Topf schmelzen und die Zwiebelwürfel zusammen mit getrocknetem Thymian anschwitzen, bis die Zwiebelwürfel glasig sind. Tomatenmark und Senf dazugeben und ca. 2-3 Minuten bei mittlerer Hitze anrösten, bis das Tomatenmark etwas dunkler wird. Mit Mehl bestäuben und die Gemüsebrühe einrühren. Sojasoße und nach Wunsch einen guten Schuss veganen Rotwein dazugeben. Die Soße mit Salz und Pfeffer abschmecken und einköcheln lassen, bis die Kartoffeln fertig sind.",
+        "Für den Cashew-Ricotta eingeweichte Cashewkerne, Wasser und Hefeflocken in einen Zerkleinerer geben oder mit einem Pürierstab zu einer cremigen Masse verarbeiten. Die Knoblauchzehe frisch dazu reiben und den Ricotta mit getrocknetem Oregano, Zitronensaft, Salz und Pfeffer abschmecken. Nach Bedarf mehr Hefeflocken dazugeben.",
+        "Tipp: Wenn der Cashew-Ricotta zu fest wird, einfach noch mehr Wasser dazugeben.",
+        "Die knusprigen Kartoffelspalten direkt aus dem Ofen auf einer großen Platte verteilen, mit Bratensoße übergießen und den Cashew-Ricotta in kleinen Klecksen darüber geben. Das Ganze zum Schluss mit gehackter Petersilie bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

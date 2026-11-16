@@ -1,0 +1,40 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/tteokbokki",
+  "recipes": [
+    {
+      "name": "Tteokbokki",
+      "source_url": "https://app.cookwell.com/recipe/tteokbokki",
+      "recipe_id": "https://app.cookwell.com/recipe/tteokbokki",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1-2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "Gochujang, 100 g",
+        "Sugar, 10 g",
+        "Gochugaru, 5 g",
+        "Water, 700 g",
+        "Kombu, 20 g",
+        "Bonito Flakes, 5 g",
+        "Rice cakes, 400 g",
+        "Scallions",
+        "Sesame Seeds"
+      ],
+      "instructions": [
+        "Set a pan or pot over medium heat along with the water and kombu. Heat uncovered just until it starts to simmer, 10-12 minutes. While the broth is coming to a simmer, make the sauce. Mix the gochujang, gochugaru, and sugar in a bowl. Set aside. For less spice, use less gochugaru. Take the pan off the heat and stir in the bonito flakes. Let them steep for 3 minutes, then strain the dashi broth into a container, and return it to the pan.",
+        "Bring the broth to a simmer. Add the hot pepper paste (the mixed sauce) and rice cakes. Cook while stirring occasionally until the sauce becomes thick and the rice cakes are soft to the bite while still chewy, about 10 minutes. To serve, set in a bowl or plate and top with the scallions and sesame seeds. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

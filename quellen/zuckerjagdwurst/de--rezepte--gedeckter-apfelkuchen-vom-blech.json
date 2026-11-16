@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gedeckter-apfelkuchen-vom-blech",
+  "recipes": [
+    {
+      "name": "Gedeckter Apfelkuchen vom Blech",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gedeckter-apfelkuchen-vom-blech",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gedeckter-apfelkuchen-vom-blech#recipe-569a068a-e125-52bf-888d-d394b8458161",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (21 x 25 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Für den Mürbeteig:",
+        "500 g Weizenmehl (Type 405)",
+        "5 EL Zucker",
+        "1 Prise Salz",
+        "250 g kalte vegane Butter",
+        "ca. 100 ml kaltes Wasser",
+        "Für die Füllung:",
+        "1 kg Äpfel",
+        "700 g Apfelmus",
+        "2 EL Rosinen",
+        "0.5 TL Zimt",
+        "Für die Zuckerschicht:",
+        "200 g Puderzucker",
+        "ca. 3 EL Zitronensaft oder Wasser"
+      ],
+      "instructions": [
+        "Weizenmehl, Zucker und Salz vermengen. Kalte vegane Butter in Flocken darübergeben und mit kalten Händen in die Mehlmischung einarbeiten, bis eine fein-krümelige Mischung entsteht. Das kalte Wasser dazugeben und verkneten, bis ihr einen geschmeidigen Teig habt. Nach Bedarf mehr oder weniger Wasser verwenden. Der Teig sollte jedoch am Ende nicht kleben. Den Mürbeteig mindestens 30 Minuten im Kühlschrank ruhen lassen.",
+        "In der Zwischenzeit Äpfel schälen, entkernen und in kleine Würfel schneiden. Apfelmus und die geschnittenen Äpfel in einen Topf geben und ca. 15 Minuten bei mittlerer Hitze köcheln lassen, bis die Apfelstückchen weich sind. Rosinen und Zimt dazugeben und weitere 5 Minuten köcheln lassen. Die Füllung danach etwas abkühlen lassen.",
+        "Den Backofen auf 180 °C (Umluft) vorheizen. Zwei Drittel des Teigs direkt auf Backpapier zu einem Rechteck ausrollen. Es sollte so groß sein, dass es den Boden und den Rand der Backform bedeckt. Das Backpapier mitsamt des Teigs vorsichtig in die Backform legen, leicht andrücken und die Apfelfüllung darauf verteilen. Zum Schluss den restlichen Mürbeteig ausrollen, bis er über die Füllung passt. Den Teig über die Apfelfüllung legen und andrücken, damit sich Teigrand und Teigdeckel verbinden.",
+        "Den gedeckten Apfelkuchen bei 180 °C ca. 25 Minuten backen, oder bis der Teig oben goldbraun ist. Aus dem Ofen nehmen und entweder komplett abkühlen lassen oder nur soweit abkühlen, bis er noch lauwarm ist.",
+        "Für die Glasur Puderzucker nach und nach mit Wasser oder Zitronensaft verrühren, bis ein dickflüssiger Zuckerguss entsteht. Die Glasur auf der Oberseite des Kuchens verstreichen und kurz trocknen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

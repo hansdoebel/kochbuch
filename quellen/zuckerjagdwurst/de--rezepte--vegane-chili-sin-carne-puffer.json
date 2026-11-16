@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-chili-sin-carne-puffer",
+  "recipes": [
+    {
+      "name": "Vegane Chili-sin-Carne-Puffer",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-chili-sin-carne-puffer",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-chili-sin-carne-puffer#recipe-56588086-8bb7-4e40-ba5f-7300dd9da7b6",
+      "authors": [
+        "Anna Germek"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Puffer",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für die Puffer:",
+        "400 g festkochende Kartoffeln",
+        "1 kleine Zwiebel",
+        "2 Knoblauchzehen",
+        "400 g schwarze Bohnen aus der Dose",
+        "330 g Mais aus der Dose",
+        "250 g veganes Hack (frisch)",
+        "60 g Weizenmehl",
+        "40 g Speisestärke",
+        "2 EL Chili-Aufstrich (z. B. Bohne-Chili von Tartex )",
+        "1 EL geräuchertes Paprikapulver",
+        "1 EL gemahlener Kreuzkümmel",
+        "0.5 TL Chiliflocken",
+        "Öl zum Braten",
+        "Salz",
+        "Pfeffer",
+        "Für den Limetten-Dip:",
+        "300 g Crème fraîche",
+        "0.5 Limette (Saft)",
+        "frischer Koriander",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Kartoffeln raspeln, dann salzen und beiseite stellen. In der Zwischenzeit Zwiebel und Knoblauch fein hacken. Schwarze Bohnen und Mais aus der Dose gut abtropfen lassen.",
+        "Bohnen in eine Schüssel geben und mit einer Gabel grob zerdrücken. Veganes Hack, Mais, Zwiebel, Knoblauch, Weizenmehl, Speisestärke und Chili-Aufstrich dazugeben. Die überschüssige Flüssigkeit der Kartoffeln nun gut ausdrücken und die Raspeln in die Schüssel geben. Geräuchertes Paprikapulver, Kreuzkümmel und Chiliflocken hinzufügen, mit Salz und Pfeffer würzen und alles gut verkneten, bis eine formbare Masse entsteht.",
+        "Etwas Öl in einer großen Pfanne bei mittlerer Hitze erhitzen. Puffer portionsweise hineingeben, plattdrücken und von jeder Seite circa 5 Minuten braten, bis sie goldbraun und knusprig sind.",
+        "In der Zwischenzeit für den Dip vegane Crème fraîche mit dem Saft von 0.5 Limette und gehacktem Koriander glatt rühren und mit Salz und Pfeffer abschmecken.",
+        "Puffer warm mit dem Limetten-Dip servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

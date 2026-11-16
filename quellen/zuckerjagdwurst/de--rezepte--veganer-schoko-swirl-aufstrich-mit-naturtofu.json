@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schoko-swirl-aufstrich-mit-naturtofu",
+  "recipes": [
+    {
+      "name": "Veganer Schoko Swirl Aufstrich (mit Naturtofu)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schoko-swirl-aufstrich-mit-naturtofu",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schoko-swirl-aufstrich-mit-naturtofu#recipe-68c56e02-2f03-5ca0-8e00-f220007adc64",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 550 g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die dunkle Creme:",
+        "100 g vegane Zartbitterschokolade",
+        "85 g Naturtofu (z. B. von Taifun Tofu)",
+        "70 ml vegane Sahne zum Aufschlagen",
+        "Für die helle Creme:",
+        "150 g vegane weiße Schokolade",
+        "100 g Naturtofu (z. B. von Taifun Tofu)",
+        "40 ml vegane Sahne zum Aufschlagen"
+      ],
+      "instructions": [
+        "Für die dunkle Creme vegane Zartbitterschokolade in einem Wasserbad schmelzen. In einem hohen Gefäß oder einem Mixer Naturtofu, geschmolzene Schokolade und vegane Sahne pürieren, bis eine glatte Masse entsteht.",
+        "Für die helle Creme vegane weiße Schokolade in einem Wasserbad schmelzen. In einem hohen Gefäß oder einem Mixer Naturtofu, geschmolzene Schokolade und vegane Sahne pürieren, bis eine glatte Masse entsteht.",
+        "Beide Cremes in einen Spritzbeutel geben (ggf. vorher nochmal kalt stellen) und in ein verschließbares Glas füllen. Dabei swirlen, damit der typische Look entsteht. Im Kühlschrank aufbewahren und circa 30 Minuten vor dem Servieren aus dem Kühlschrank nehmen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

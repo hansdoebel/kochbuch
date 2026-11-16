@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-flatbread-pizza-mit-feigen-und-balsamico-zwiebeln",
+  "recipes": [
+    {
+      "name": "Vegane Flatbread Pizza mit Feigen und Balsamico-Zwiebeln",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-flatbread-pizza-mit-feigen-und-balsamico-zwiebeln",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-flatbread-pizza-mit-feigen-und-balsamico-zwiebeln#recipe-5e5987b4-702e-5229-89af-1645831bce54",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6-8 Mini-Pizzen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT85M",
+      "ingredients": [
+        "Für den Teig:",
+        "250 g Mehl",
+        "1 TL Trockenhefe",
+        "1 TL Salz",
+        "1 EL getrockneter Rosmarin",
+        "150 ml Wasser",
+        "1 EL Olivenöl",
+        "Für die Balsamicozwiebeln:",
+        "4 Zwiebeln",
+        "2 EL Pflanzenöl",
+        "3 EL dunkler Balsamicoessig",
+        "3 EL Wasser",
+        "Salz",
+        "Pfeffer",
+        "Für das Topping:",
+        "4 Feigen",
+        "100 g veganer Frischkäse",
+        "100 g veganer Feta",
+        "50 g Haselnüsse",
+        "50 g Rucola",
+        "Ahornsirup zum Servieren"
+      ],
+      "instructions": [
+        "In einer Schüssel Mehl, Trockenhefe, getrockneten Rosmarin und Salz vermengen. Wasser und Olivenöl dazugeben und den Teig zu einem glatten Teig verkneten, entweder mit einer Küchenmaschine oder einem Handrührgerät. Der Teig wird noch etwas klebrig sein.",
+        "Eine Arbeitsfläche mit etwas Mehl bestäuben und den Teig darauf weitere 5 Minuten mit den Händen kneten und dabei so viel Mehl wie nötig einarbeiten, bis der Teig nicht mehr klebt. Den Teig in eine leicht eingeölte Schüssel geben, mit einem Geschirrtuch abdecken und ca. 30 Minuten an einem warmen Ort gehen lassen, oder bis sich das Teigvolumen in etwa verdoppelt hat.",
+        "In der Zwischenzeit Zwiebeln schälen, halbieren und in Scheiben schneiden. Pflanzenöl in einer Pfanne erhitzen und die Zwiebeln salzen und bei kleiner Hitze ca. 10 Minuten anschwitzen, bis sie glasig sind. Regelmäßig rühren, damit sie nicht anbrennen. Balsamicoessig und Wasser dazugeben und weitere ca. 10 Minuten über kleiner Hitze anbraten. Die Balsamicozwiebeln danach vom Herd nehmen und mit Salz und Pfeffer abschmecken.",
+        "Backofen auf 220°C vorheizen und ein mit Backpapier ausgelegtes Backblech im Ofen erwärmen. Eure Arbeitsfläche leicht bemehlen und den Teig darauf zu einer dicken Rolle formen und in 6-8 Portionen aufteilen. Jede von ihnen mit den Händen zu kleinen Pizzen formen.",
+        "Feigen in Scheiben schneiden. Jede Pizza mehrmals mit einer Gabel einstechen, dann mit veganem Frischkäse bestreichen und mit Feigen und Balsamicozwiebeln belegen.",
+        "Die Mini-Pizzen vorsichtig auf das heiße Backblech legen und bei 220°C ca. 8 Minuten backen. In der Zwischenzeit Haselnüsse in einer Pfanne rösten und danach grob hacken.",
+        "Die Flatbread Pizzen aus dem Ofen nehmen und Rucola, veganen Fetakäse und geröstete Haselnüsse darauf verteilen. Zum Schluss mit etwas Ahornsirup beträufeln."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

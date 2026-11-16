@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/avocado-hummus-87",
+  "recipes": [
+    {
+      "name": "Avocado Hummus",
+      "source_url": "https://www.pickuplimes.com/recipe/avocado-hummus-87",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "1 avocado",
+        "1¼ cup cooked chickpeas",
+        "2 Tbsp tahini",
+        "1 Tbsp olive oil",
+        "2 garlic clove",
+        "½ lemon",
+        "¼ tsp salt"
+      ],
+      "instructions": [
+        "Add all the hummus ingredients to a food processor and blend until smooth.",
+        "Top with optional garnish, and serve."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Best if enjoyed fresh. Can keep in an airtight container in the fridge for up to 2 days."
+  ]
+}

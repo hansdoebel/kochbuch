@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-hefezopf-mit-nussfuellung",
+  "recipes": [
+    {
+      "name": "Veganer Hefezopf mit Nussfüllung",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-hefezopf-mit-nussfuellung",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-hefezopf-mit-nussfuellung#recipe-c0738245-2150-5288-afc8-3e1a756304b1",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Hefezöpfe",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT150M",
+      "ingredients": [
+        "Für den Hefeteig:",
+        "250 ml pflanzliche Milch",
+        "500 g Weizenmehl (Type 405)",
+        "60 g Zucker",
+        "20 g frische Hefe",
+        "75 g vegane Butter",
+        "1 Prise Salz",
+        "Für die Nuss-Füllung:",
+        "75 ml pflanzliche Milch",
+        "100 g brauner Zucker",
+        "1 TL Zimt",
+        "200 g gehackte Haselnüsse",
+        "50 g gemahlene Haselnüsse",
+        "0.5 Zitrone",
+        "Zum Bestreichen:",
+        "4 EL pflanzliche Milch",
+        "1 EL Agavendicksaft",
+        "Für den Zuckerguss:",
+        "100 g Puderzucker",
+        "2 EL pflanzliche Milch"
+      ],
+      "instructions": [
+        "Die pflanzliche Milch erhitzen, bis sie lauwarm ist. Das Mehl in eine große Schüssel geben und den Zucker, die lauwarme Milch und die zerbröselte Hefe hinzugeben. Etwas vermengen und stehen lassen.",
+        "In der Zwischenzeit die vegane Butter schmelzen und auf lauwarme Temperatur abkühlen lassen.",
+        "Die geschmolzene vegane Butter und Salz mit in die Schüssel geben und durchkneten. Den Teig eine Stunde an einem warmen Ort gehen lassen.",
+        "Für die Füllung pflanzliche Milch in einem kleinen Topf erhitzen und Zucker und Zimt einrühren. Vom Herd nehmen und die gehackten und gemahlenen Haselnüsse sowie den Abrieb der Zitrone unterrühren.",
+        "Den Hefeteig in vier teilen und jede der Teigkugeln nach und nach zu einem großen Oval ausrollen. Die Füllung auf den vier Ovalen gleichmäßig verstreichen. Jedes Oval nun von der längeren Seite aufrollen, sodass eine lange Rolle entsteht.",
+        "Jede Rolle längs mit einem scharfen Messer halbieren und nach oben aufklappen, sodass alle Schichten nach oben zeigen. Die zwei entstandenen Teigstränge umeinanderlegen und zu einem Kreis formen. Die Enden gut miteinander verbinden. Mit jedem Teig so vorgehen und die vier Hefezöpfe nochmals 30 Minuten gehen lassen, bevor sie gebacken werden.",
+        "Den Ofen auf 180 °C (Umluft) vorheizen. Pflanzliche Milch und Agavendicksaft vermengen und die Hefezöpfe damit bestreichen. Die Hefezöpfe bei 180 °C (Umluft) auf mittlerer Stufe ca. 20 Minuten backen.",
+        "Für den Zuckerguss pflanzliche Milch mit Puderzucker verrühren und auf den abgekühlten Hefezöpfen verteilen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

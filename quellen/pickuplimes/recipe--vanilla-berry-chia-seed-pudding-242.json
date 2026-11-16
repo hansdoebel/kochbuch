@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vanilla-berry-chia-seed-pudding-242",
+  "recipes": [
+    {
+      "name": "Vanilla Berry Chia Seed Pudding",
+      "source_url": "https://www.pickuplimes.com/recipe/vanilla-berry-chia-seed-pudding-242",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 servings",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT08H10M",
+      "ingredients": [
+        "1 cup unsweetened soy milk",
+        "3 Tbsp whole chia seeds",
+        "1 Tbsp maple syrup",
+        "¼ tsp pure vanilla extract",
+        "⅛ tsp ground cinnamon",
+        "⅓ cup frozen mixed berries",
+        "¼ cup unsweetened soy yogurt",
+        "3 Tbsp vegan granola",
+        "¼ cup fresh mixed berries"
+      ],
+      "instructions": [
+        "Mix together the chia pudding ingredients in a bowl or cup. Let it sit for 8 minutes.",
+        "Meanwhile, in a microwave-safe bowl, heat the frozen fruit at 600W for 1 to 2 minutes, or until fully thawed. Alternatively, thaw on the stove. Let it cool, then store away in an airtight container in the fridge until ready to use.",
+        "Returning to the chia mixture, stir again to redistribute the settled seeds. Then cover and refrigerate overnight to allow the chia seeds to gel.",
+        "When ready to serve, give it one more stir. Add desired toppings, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium .",
+    "Storage Store in an airtight container or mason jar in the fridge for up to 3 days."
+  ]
+}

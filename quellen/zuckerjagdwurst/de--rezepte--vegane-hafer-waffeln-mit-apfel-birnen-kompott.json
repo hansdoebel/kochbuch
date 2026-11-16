@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-hafer-waffeln-mit-apfel-birnen-kompott",
+  "recipes": [
+    {
+      "name": "Vegane Hafer-Waffeln mit Apfel-Birnen-Kompott",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-hafer-waffeln-mit-apfel-birnen-kompott",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-hafer-waffeln-mit-apfel-birnen-kompott#recipe-e28e0980-20b0-5694-a0bd-314e96cd9748",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 große Waffeln",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "2 EL pflanzliches Öl (zum Bestreichen des Waffeleisens)",
+        "Hafer-Waffeln",
+        "200 g Kölln Instant Flocken",
+        "100 g Mehl",
+        "3 g Backpulver",
+        "50 g brauner Zucker",
+        "230 ml Kölln Haferdrink",
+        "20 ml neutrales Pflanzenöl",
+        "50 ml kohlensäurehaltiges Wasser",
+        "Prise Salz",
+        "Apfel-Birnen-Kompott",
+        "1 Apfel",
+        "1 Birne",
+        "50 ml Wasser",
+        "0.5 Zitrone",
+        "1 Zimtstange",
+        "Toppings",
+        "100 g pflanzlicher Joghurt (Natur)",
+        "50 g Mandelscheiben"
+      ],
+      "instructions": [
+        "Hafer-Waffeln",
+        "Alle Zutaten für die Waffeln in eine Schüssel geben und verrühren.",
+        "Ein Waffeleisen vorheizen und mit pflanzlichem Öl bestreichen.",
+        "Den Teig nach und nach zu Waffeln verarbeiten.",
+        "Apfel-Birnen-Kompott",
+        "Apfel und Birne waschen, entkernen, klein schneiden und in einen Topf geben.",
+        "Den Saft einer halben Zitrone auspressen und mit dem Wasser und der Zimtstange in den Topf geben.",
+        "Für 10 Minuten köcheln lassen, bis ihr das Obst mit der Gabel zerdrücken könnt.",
+        "Die Waffeln mit dem Apfel-Birnen-Kompott, pflanzlichem Joghurt und Mandelscheiben servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

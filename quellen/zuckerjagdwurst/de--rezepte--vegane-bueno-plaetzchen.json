@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-bueno-plaetzchen",
+  "recipes": [
+    {
+      "name": "Vegane Bueno Plätzchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-bueno-plaetzchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-bueno-plaetzchen#recipe-0e8b55f6-44f9-57de-9097-e1f26ed028cb",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "circa 25 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT105M",
+      "ingredients": [
+        "Für den Teig:",
+        "200 g Weizenmehl (Type 405)",
+        "1 TL Backkakao",
+        "50 g Zucker",
+        "50 g gemahlene Haselnüsse",
+        "8 g (1.5 TL) Vanillezucker",
+        "1 Prise Salz",
+        "125 g vegane Margarine",
+        "Für die Haselnussfüllung:",
+        "75 g vegane weiße Schokolade",
+        "100 g Haselnussmus",
+        "1 Prise Salz",
+        "Für die Schokodekoration:",
+        "100 g Zartbitterschokolade"
+      ],
+      "instructions": [
+        "Für den Teig Mehl, Backkakao, Zucker, gemahlene Haselnüsse, Vanillezucker und Salz in einer großen Schüssel vermischen. Vegane Margarine dazugeben und alles zu einem geschmeidigen Teig vermengen. Den Teig zu einer langen, dicke Rolle formen und mindestens 1 Stunde im Kühlschrank ruhen lassen.",
+        "Den Backofen auf 180 °C (Umluft) vorheizen. Die gekühlte Teigrolle aus dem Kühlschrank nehmen und in circa 1 Zentimeter dicke Scheiben schneiden. Diese jeweils zu kleinen Kugeln formen und auf ein mit Backpapier belegtes Backblech legen – dabei etwas Abstand zwischen den Teigkugeln lassen. Für die Mulden entweder einen Kochlöffelstiel, euren Daumen oder amerikanische Messlöffel vorsichtig in die Mitte drücken.",
+        "Die Plätzchen bei 180 °C (Umluft) 12–15 Minuten backen, bis sie an den Rändern leicht braun werden. Danach aus dem Ofen nehmen und auf einem Gitter abkühlen lassen. Die Mulde in der Mitte nochmal vorsichtig flacher drücken.",
+        "Während die Plätzchen abkühlen, für die Füllung vegane weiße Schokolade über einem Wasserbad schmelzen und zusammen mit dem Haselnussmus und einer Prise Salz in einer Schüssel verrühren. Die Füllung in die Mulden der abgekühlten Plätzchen geben und circa 5 Minuten in den Kühlschrank stellen, damit die Creme fester wird.",
+        "Zartbitterschokolade schmelzen und etwas abkühlen lassen. Entweder in eine Spritztüte geben oder mit einem Löffel die typischen Schokostreifen vom Kidner bueno auf die abgekühlten Plätzchen träufeln und kurz trocknen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gazpacho-pasta",
+  "recipes": [
+    {
+      "name": "Gazpacho Pasta",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gazpacho-pasta",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gazpacho-pasta#recipe-54519265-724f-5094-9d63-1a76468a2cd8",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "Für die Gazpacho:",
+        "500 g Pflaumentomaten",
+        "1 grüne Paprika",
+        "1 kleine rote Zwiebel",
+        "2 Knoblauchzehen",
+        "1 EL Rotweinessig",
+        "0.5 TL Chiliflocken",
+        "3 EL Olivenöl",
+        "2 EL Hefeflocken",
+        "1 EL Semmelbrösel",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "500 g Pasta eurer Wahl",
+        "250 g Kirschtomaten",
+        "20 g Basilikum",
+        "50 g schwarze Oliven",
+        "100 g Pinienkerne",
+        "Salz"
+      ],
+      "instructions": [
+        "Für die Gazpacho Pflaumentomaten halbieren, das weiche Innere herausschneiden oder drücken. Grüne Paprika entkernen und klein schneiden, rote Zwiebel schälen und vierteln und Knoblauchzehen schälen.",
+        "Alles in einen Zerkleinerer geben, zusammen mit Rotweinessig, Chiliflocken, Olivenöl, Hefeflocken und Semmelbröseln. Mit der Pulsefunktion die Mischung zerkleinern, bis sie noch stückig ist, also nicht glatt pürieren. Mit Salz und Pfeffer abschmecken.",
+        "Gesalzenes Wasser in einem großen Topf zum Kochen bringen und die Pasta nach Packungsanleitung al dente kochen. Vor dem Abgießen aber ca. 200 ml vom Kochwasser abschöpfen und beiseitestellen.",
+        "Während die Nudeln kochen, Kirschtomaten vierteln oder halbieren. Schwarze Oliven falls nötig entkernen und grob hacken. Basilikumblätter grob zerrupfen und die Stiele fein hacken. Pinienkerne in einer fettfreien Pfanne anrösten, bis sie gebräunt sind.",
+        "Gazpacho, sowie Kirschtomaten, Oliven, gehackte Stiele vom Basilikum, etwa die Hälfte der Basilikumblätter und die gekochte Pasta in eine große Schüssel geben. Alles gut vermengen und so viel Kochwasser wie nötig dazugeben, bis eine sämige Soße an den Nudeln haftet. Mit gerösteten Pinienkernen und restlichen Basilikumblättern bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

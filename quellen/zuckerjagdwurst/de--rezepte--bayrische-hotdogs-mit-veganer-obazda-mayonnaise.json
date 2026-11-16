@@ -1,0 +1,71 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/bayrische-hotdogs-mit-veganer-obazda-mayonnaise",
+  "recipes": [
+    {
+      "name": "Bayrische Hot Dogs mit veganer Obazda-Mayonnaise",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/bayrische-hotdogs-mit-veganer-obazda-mayonnaise",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/bayrische-hotdogs-mit-veganer-obazda-mayonnaise#recipe-e5dc49f3-488c-517b-a3ac-a2a136295d77",
+      "authors": [
+        "Sarah Kuhardt"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Hot Dogs",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für die Hot Dogs:",
+        "6 Laugenstangen",
+        "6 vegane Würstchen (das Rezept zum Selbermachen gibt’s hier)",
+        "Röstzwiebeln",
+        "Kresse",
+        "Für die eingelegten Radieschen:",
+        "1 Bund Radieschen",
+        "150 ml Kräuteressig",
+        "150 ml Wasser",
+        "5 EL Zucker",
+        "1 EL Senfkörner",
+        "1 TL Salz",
+        "1 TL Pfefferkörner",
+        "1 TL getrocknete Kräuter nach Wahl",
+        "frischer Dill",
+        "Für den Rotkrautsalat:",
+        "200 g Rotkohl",
+        "1 Apfel",
+        "1 Zwiebel",
+        "20 g Sonnenblumenkerne",
+        "2 EL Sonnenblumenöl",
+        "1 EL Essig",
+        "2 EL Agavendicksaft",
+        "1 TL Senf",
+        "Salz",
+        "Pfeffer",
+        "Für die vegane Obazda-Mayonnaise:",
+        "80 g veganer Camembert",
+        "100 g veganer Frischkäse",
+        "125 g vegane Mayonnaise",
+        "2 EL Hefeflocken",
+        "1 EL Paprikapulver edelsüß",
+        "1 TL Kümmelsamen",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Die Radieschen waschen, in dünne Scheiben schneiden und in ein Weckglas füllen, sodass möglichst kaum Zwischenraum bleibt. Essig, Wasser, Zucker, Senf- und Pfefferkörner, Kräuter und Salz in einem Topf aufkochen lassen. Die Mischung noch warm über die Radieschen geben, bis alle bedeckt sind. Die im Topf gebliebenen Gewürze darauf verteilen und das Glas sofort verschließen. Die Radieschen nun für mindestens 24 Stunden durchziehen lassen.",
+        "Tipp: Wer nicht so viel Zeit hat und die Radieschen spontan verwenden möchte, lässt sie einfach so lang wie möglich durchziehen.",
+        "Für den Rotkrautsalat den Rotkohl in Streifen schneiden und die Sonnenblumenkerne in einer fettfreien Pfanne rösten. Apfel und Zwiebel in Würfel schneiden und in einer Pfanne 2-3 Minuten anbraten bis die Äpfel leicht weich geworden sind.",
+        "Für das Dressing Öl, Essig, Agavendicksaft und Senf verrühren und mit Salz und Pfeffer abschmecken. Das Dressing mitsamt dem Rotkraut, den Sonnenblumenkernen und dem Apfeln-Zwiebel-Mix vermengen.",
+        "Die Laugenstangen nach Packungsanleitung im Ofen backen und die veganen Würstchen in einer Pfanne goldbraun braten.",
+        "In der Zwischenzeit für die vegane Obazda-Mayonnaise veganen Camembert, Frischkäse, Mayonnaise, Hefeflocken, Paprikapulver und Kümmel in ein Gefäß geben und pürieren. Mit Salz und Pfeffer abschmecken.",
+        "Die Laugenstangen fast ganz aufschneiden und in der Reihenfolge eurer Wahl mit der veganen Camembert-Mayo, dem Rotkrautsalat, eingelegten Radieschen und den veganen Würstchen befüllen. Am Ende mit Röstzwiebeln und Kresse toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

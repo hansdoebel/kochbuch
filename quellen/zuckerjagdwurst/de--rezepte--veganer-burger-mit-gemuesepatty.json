@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-burger-mit-gemuesepatty",
+  "recipes": [
+    {
+      "name": "Veganer Burger mit Gemüsepatty",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-burger-mit-gemuesepatty",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-burger-mit-gemuesepatty#recipe-5a6d3f6d-6762-5bfa-8538-9e0409fa01c6",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Burger",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "4 Burgerbrötchen",
+        "4 Gewürzgurken",
+        "4 Scheiben veganer Scheibenkäse",
+        "0.5 Blattsalat",
+        "Für die Pattys",
+        "200 g getrocknete Mungbohnen (mind. 4 Stunden in Wasser eingeweicht)",
+        "100 g Kichererbsen (aus der Dose)",
+        "2 Kartoffeln (ca. 300 g)",
+        "1 kleine Karotte (ca. 100 g)",
+        "1 Knoblauchzehe",
+        "1 Zwiebel",
+        "50 g Walnüsse",
+        "Für die Soße",
+        "3 EL vegane Mayonnaise",
+        "1 EL Senf",
+        "1 EL Ketchup",
+        "2 EL Gurkenrelish",
+        "Salz",
+        "Pfeffer",
+        "Karamellisierte Zwiebeln",
+        "4 Zwiebeln (ca. 250 g)",
+        "2 EL vegane Butter"
+      ],
+      "instructions": [
+        "Zwiebeln schälen und in Streifen schneiden. Vegane Butter in einer großen Pfanne schmelzen lassen und die Zwiebelstreifen dazugeben und salzen. Ca. 30 Min. anbraten und die Zwiebeln immer wieder verrühren, bis sie gleichmäßig dunkel gebräunt sind. Nach Bedarf alle 10 Minuten etwas Wasser dazugeben.",
+        "Eingeweichte Mungbohnen abspülen und in einen Topf mit Wasser geben. Ca. 20 Min. köcheln lassen und danach abgießen. Kartoffeln und Karotten schälen, klein schneiden und ebenfalls in einem Topf mit Wasser kochen, bis sie weich sind, das sollte ca. 15 Min. dauern. Danach abgießen.",
+        "In der Zwischenzeit Zwiebeln und Knoblauch schälen und fein hacken. Walnüsse hacken.",
+        "Gekochte Kartoffeln, Karotten, Kichererbsen und die Hälfte der Mungbohnen in eine große Schüssel geben und grob stampfen, das ganze darf nicht zu fein werden, sondern lieber stückig und klebrig sein. Anschließend Zwiebeln, Knoblauch, Walnüsse und die restlichen Mungbohnen dazugeben und vermengen. Kräftig mit Salz und Pfeffer abschmecken.",
+        "Die Masse könnt ihr nun zu Pattys formen, sie sollten am besten nicht zu groß oder zu dick sein, messt den Durchmesser am besten mit eurem Burgerbrötchen ab. Pflanzenöl in einer großen Pfanne erhitzen und die Pattys von beiden Seiten goldbraun anbraten.",
+        "Für eure Burgersoße vermengt ihr vegane Mayo, Senf, Ketchup und Gurkenrelish in einer Schüssel und schmeckt das ganze mit Salz und Pfeffer ab.",
+        "Nun könnt ihr eure Burgerbrötchen toasten, mit der Soße bestreichen und mit Blattsalat, Gemüsepatty, veganem Käse, karamellisierten Zwiebeln und Gewürzgurken belegen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

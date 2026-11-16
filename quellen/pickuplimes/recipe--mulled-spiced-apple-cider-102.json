@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/mulled-spiced-apple-cider-102",
+  "recipes": [
+    {
+      "name": "Mulled Spiced Apple Cider",
+      "source_url": "https://www.pickuplimes.com/recipe/mulled-spiced-apple-cider-102",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT25M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "8 cup apple cider",
+        "1 orange",
+        "6 cardamom pod",
+        "4 cinnamon stick",
+        "3 whole clove",
+        "½ cup fresh cranberries",
+        "1 Tbsp fresh ginger"
+      ],
+      "instructions": [
+        "Place all of the ingredients in a large pot and bring to a boil.",
+        "Reduce the heat to a simmer, partially cover, and let the flavours infuse for 20 to 30 minutes.",
+        "Serve warm. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Apple cider does not refer to the alcoholic beverage, but rather, the unfiltered (cloudy) non-alcoholic beverage made from 100% apples.",
+    "Storage Best to enjoy immediately. Can be made ahead of time and reheated on the stove. Store in the fridge for up to 1 day."
+  ]
+}

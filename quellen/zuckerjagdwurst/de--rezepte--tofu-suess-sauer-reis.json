@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tofu-suess-sauer-reis",
+  "recipes": [
+    {
+      "name": "Tofu süß-sauer mit Reis",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tofu-suess-sauer-reis",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/tofu-suess-sauer-reis#recipe-daf8c84b-0a5c-5e4d-8390-5cae1e938dc6",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "400 g Tofu",
+        "2 EL Speisestärke",
+        "2 Paprikaschoten",
+        "150 g Zucchini",
+        "2 Zwiebeln",
+        "2 Frühlingszwiebeln",
+        "250 g Reis",
+        "375 ml Wasser",
+        "0.5 TL Sojasauce",
+        "Sesamöl zum Braten",
+        "Sesam zum Servieren",
+        "Cashewnüsse zum Servieren",
+        "Salz",
+        "Pfeffer",
+        "Für die Soße:",
+        "100 ml Apfelessig",
+        "4 EL Orangensaft",
+        "50 g brauner Zucker",
+        "2 EL Tomatenmark",
+        "2 TL Sojasauce",
+        "15 g Ingwer",
+        "1 TL Chiliflocken",
+        "1.5 EL Wasser",
+        "1.5 EL Speisestärke"
+      ],
+      "instructions": [
+        "Tofu rundum mit Küchenpapier trocken tupfen und danach in größere Würfel schneiden. In eine Schüssel mit Speisestärke geben und alles gut durchschwenken, bis die Tofuwürfel rundum ummantelt sind. Das funktioniert auch toll in einer verschließbaren Schüssel: beides reingeben, Deckel drauf und gut durchschütteln.",
+        "Paprika und Zucchini in mundgerechte Stücke schneiden. Zwiebel klein schneiden und die Frühlingszwiebeln in feine Ringe schneiden. Den Reis erst unter fließendem Wasser abspülen und danach mit ca. 375 ml Wasser in einen Topf geben, leicht salzen und einmal aufkochen lassen. Danach mit Deckel ca. 15 Minuten kochen lassen, bis der Reis gar ist.",
+        "Während der Reis kocht, Sesamöl in einer Pfanne erhitzen und zuerst den Tofu ca. 5 Minuten rundum anbraten, bis er gebräunt ist. Mit Sojasauce würzen und noch weitere 2-3 Minuten anbraten. Danach aus der Pfanne nehmen.",
+        "Nun die Zwiebel in die Pfanne geben und ca. 2-3 Minuten anschwitzen, bis sie glasig wird. Paprika und die Zucchini dazugeben, mit Salz und Pfeffer würzen und alles ca. 8-10 Minuten anbraten, bis das Gemüse weich, aber noch leicht knackig ist.",
+        "Parallel dazu ein paar Cashewkerne in einer fettfreien Pfanne rösten. Danach aus der Pfanne nehmen und klein hacken fürs Servieren später.",
+        "In der Zwischenzeit die Soße vorbereiten: Apfelessig, Orangensaft, braunen Zucker, Tomatenmark und Sojasauce verrühren. Frischen Ingwer direkt in die Schüssel reiben und Chiliflocken dazugeben. Alles gut verrühren. Wasser mit Stärke separat anrühren und dann ebenfalls zur Soße geben.",
+        "Tofu und die Soße zum Gemüse in die Pfanne geben und alles gut durchschwenken und wenige Minuten einköcheln lassen, bis die Soße dicker wird. Erneut abschmecken.",
+        "Tofu süß-sauer mit Reis servieren und zum Schluss mit Frühlingszwiebeln, Sesam und gerösteten Cashewkernen bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

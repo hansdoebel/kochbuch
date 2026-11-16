@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schokoladen-babka",
+  "recipes": [
+    {
+      "name": "Veganer Schokoladen-Babka",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schokoladen-babka",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schokoladen-babka#recipe-d540450d-a03a-58c3-9fa4-d210637e4dd8",
+      "authors": [
+        "Team"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kastenform (30 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT200M",
+      "ingredients": [
+        "Für den Hefeteig:",
+        "250 ml pflanzliche Milch, lauwarm",
+        "50 ml Wasser",
+        "10 g Hefe",
+        "1 TL Zucker",
+        "500 g Mehl",
+        "1 Prise Salz",
+        "150 g vegane Butter, weich",
+        "Für die Füllung:",
+        "200 g vegane Schokocreme",
+        "100 g Nussmischung",
+        "Außerdem:",
+        "3 EL pflanzliche Milch zum Bestreichen",
+        "30 ml pflanzliche Milch",
+        "2 TL Agavendicksaft"
+      ],
+      "instructions": [
+        "Lauwarme pflanzliche Milch und Wasser mit zerbröckelter Hefe und Zucker in eine Schüssel geben, glatt rühren und 5–10 Minuten stehen lassen, bis sich kleine Bläschen bilden. Mehl, Salz und weiche vegane Butter hinzugeben und alles 8 Minuten lang zu einem geschmeidigen Teig kneten. Den Teig abgedeckt mit einem Geschirrtuch circa 1,5 Stunden an einem warmen Ort ruhen lassen.",
+        "Den Teig aus der Schüssel auf die bemehlte Arbeitsfläche geben und zu einem Rechteck ausrollen, dann die vegane Schokocreme darauf verstreichen, dabei aber etwas Platz zum Rand lassen. Die Nüsse grob hacken und auf der Creme verteilen. Den Teig von der langen Seite her fest aufrollen und die Rolle längs mit einem scharfen Sägemesser halbieren, sodass die Füllung sichtbar wird. Die beiden Stränge zur Seite drehen und abwechselnd übereinanderlegen. Den Zopf in die Kastenform legen und circa 30 Minuten ruhen lassen. Den Backofen auf 180 °C (Ober-/Unterhitze) in der Zwischenzeit vorheizen und eine Kastenform (circa 30 Zentimeter) einfetten und bemehlen. Die Teigoberfläche mit etwas pflanzlicher Milch einpinseln. Die restliche pflanzliche Milch (30 Milliliter) mit dem Agavendicksaft glatt rühren und beiseitestellen.",
+        "Den Babka bei 180° (Ober-/Unterhitze) circa 30 Minuten backen, dabei alle 10 Minuten mit der Milch-Agavendicksaft-Mischung bestreichen, damit er nicht zu dunkel wird (dabei versuchen so schnell wie möglich zu sein, damit der Ofen nicht zu lange aufsteht!)."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-wareniki",
+  "recipes": [
+    {
+      "name": "Vegane Wareniki mit Kartoffel-Käse-Füllung",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-wareniki",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-wareniki#recipe-0a0ce29e-d21e-5879-a7d8-e0ef750f840b",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen (á 10 Wareniki)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für den Teig:",
+        "250 g Weizenmehl Typ 405",
+        "0.5 TL Salz",
+        "1 EL Pflanzenöl",
+        "100 - 150 ml Wasser",
+        "Für die Füllung:",
+        "250 g mehligkochende Kartoffeln",
+        "1 Zwiebel",
+        "3 g Petersilie",
+        "3 g Dill",
+        "50 g veganer Streukäse",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "Außerdem:",
+        "Pflanzenöl",
+        "100 g Räuchertofu",
+        "vegane Crème Fraîche",
+        "Dill",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "In einer Schüssel Mehl, Salz und Öl vermischen. Nach und nach Wasser hinzugeben, bis ein geschmeidiger Teig entsteht. Den Teig abgedeckt für 30 Minuten bei Zimmertemperatur ruhen lassen.",
+        "Einen Topf mit gesalzenem Wasser zum Kochen bringen. Kartoffeln schälen, in gleichgroße Stücke schneiden und im gesalzenen Wasser kochen, bis sie weich sind.",
+        "Für die Füllung Zwiebel schälen und fein würfeln. In einer Pfanne mit veganer Butter anschwitzen, bis sie glasig sind. Die Kräuter fein hacken. In einer Schüssel Kartoffeln zerdrücken und mit den Zwiebel, Kräutern und veganem Streukäse vermengen. Mit Salz, Pfeffer und Muskat abschmecken.",
+        "Den Teig auf einer bemehlten Fläche zu einer Teigrolle mit etwa 2 cm Durchmesser rollen und in 20 gleichgroße Teile schneiden. Jedes Stück nun zu einer dünnen Scheibe ausrollen. 1 EL der Füllung mittig auf jeder Teigscheibe platzieren und den Rand mit etwas Wasser befeuchten. Danach die eine Teighälfte auf die andere klappen, sodass ein Halbkreis entsteht und fest zudrücken (ggf. mit einer Gabel den Teig etwas eindrücken).",
+        "Erneut einen Topf mit gesalzenem Wasser erhitzen und die Wareniki auf mittlerer Hitze 3-5 Minuten köcheln lassen, bis sie zur Wasseroberfläche aufsteigen. Die Wareniki aus dem Wasser nehmen und abtropfen lassen.",
+        "Den Räuchertofu in kleine Würfel schneiden und in einer Pfanne mit Öl knusprig anbraten. Die Wareniki mit veganer Crème Fraîche, Räuchertofu, Dill und Pfeffer servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

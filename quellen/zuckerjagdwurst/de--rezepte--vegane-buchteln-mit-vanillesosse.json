@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-buchteln-mit-vanillesosse",
+  "recipes": [
+    {
+      "name": "Vegane Buchteln mit Vanillesoße",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-buchteln-mit-vanillesosse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-buchteln-mit-vanillesosse#recipe-4cba51be-a6c0-5dbc-a982-7be9bb7c7d35",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Buchteln",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT215M",
+      "ingredients": [
+        "Für den Teig:",
+        "200 g pflanzliche Milch",
+        "20 g frische Hefe",
+        "500 g Weizenmehl (Type 405)",
+        "100 g Zucker",
+        "50 g vegane Butter (Zimmertemperatur)",
+        "8 g Salz",
+        "Für die Füllung:",
+        "300 g Marmelade (z. B. Aprikose, Himbeere oder Waldfrucht ) oder Schokocreme",
+        "Zum Bestreichen:",
+        "50 g vegane Butter (geschmolzen)",
+        "50 g vegane Kochsahne",
+        "Für die Vanillesoße:",
+        "250 ml pflanzlicher Vanille-Drink",
+        "15 g Speisestärke",
+        "25 ml Agavendicksaft",
+        "optional: 1 Prise Kurkuma",
+        "optional: 1 TL Vanille-Paste"
+      ],
+      "instructions": [
+        "Für den Teig pflanzliche Milch erwärmen, bis sie lauwarm ist. Die Hefe darin auflösen. Mehl, Zucker, weiche vegane Butter und Salz dazugeben und alles circa 8 Minuten lang zu einem glatten Teig verkneten. Den Teig zu einer glatten Kugel formen und abgedeckt in einer Schüssel circa 2 Stunden bei Zimmertemperatur ruhen lassen, bis sich das Teigvolumen verdoppelt hat.",
+        "Den Teig nach der Ruhezeit auf einer bemehlten Arbeitsfläche zu einer dicken, gleichmäßigen Wurst rollen. Diese in zwölf gleich große Portionen schneiden. Jede Portion zu einer Kugel rollen und diese erneut abgedeckt circa 30 Minuten ruhen lassen.",
+        "Den Ofen auf 180 °C (Ober-/Unterhitze) vorheizen. Die Teigkugeln zu handtellergroßen Fladen flachdrücken und jeweils einen Teelöffel Marmelade in die Mitte eines Fladens geben. Den Teig vorsichtig über der Marmelade zusammendrücken. Die Beutelchen mit dem Verschluss nach unten",
+        "in eine mit Backpapier ausgelegte Form legen. Dabei etwas Abstand zwischen ihnen lassen. Erneut circa 30 Minuten ruhen lassen.",
+        "In der Zwischenzeit die Vanillesoße zubereiten. Dafür den pflanzlichen Vanille-Drink in einem kleinen Topf erhitzen. Die Speisestärke mit ein paar Esslöffeln des Drinks in einer kleinen Schüssel glatt rühren und mit in den Topf geben. Den Agavendicksaft unterrühren und unter ständigem Rühren aufkochen lassen, bis die Soße andickt. Nach etwa 3-4 Minuten vom Herd nehmen. Optional mit Vanille abschmecken und etwas Kurkuma gelber färben.",
+        "Die Teigoberfläche der Buchteln mit flüssiger veganer Butter einpinseln und circa 20 Minuten bei 180 °C (Ober-/Unterhitze) backen, bis sie goldbraun und merklich aufgegangen sind.",
+        "Die Buchteln direkt nach dem Backen mit veganer Sahne bestreichen und etwas abkühlen lassen. Mit Puderzucker bestäuben und mit Vanillesoße servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

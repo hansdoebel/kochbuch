@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/balsamic-basil-bruschetta-244",
+  "recipes": [
+    {
+      "name": "Balsamic & Basil Bruschetta",
+      "source_url": "https://www.pickuplimes.com/recipe/balsamic-basil-bruschetta-244",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT12M",
+      "cook_time": "",
+      "total_time": "PT12M",
+      "ingredients": [
+        "7 medium tomato",
+        "½ small red onion",
+        "⅓ cup fresh basil leaves",
+        "2 garlic clove",
+        "1 Tbsp balsamic vinegar",
+        "1 tsp extra-virgin olive oil",
+        "½ tsp garlic powder",
+        "¼ tsp salt",
+        "⅛ tsp ground black pepper",
+        "1 medium baguette"
+      ],
+      "instructions": [
+        "Add all of the ingredients to a medium bowl and gently toss until combined.",
+        "Although the dish can be enjoyed immediately, it’s best to cover the tomatoes and let them sit in the fridge for at least 2 hours to allow the flavours to meld, if possible.",
+        "Serve fresh on toasted bread, or even toast together with the bread in the oven for a warm bruschetta. Garnish with fresh basil if desired. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Best to enjoy the same day it's made. Store in an airtight container in the fridge for up to 1 day."
+  ]
+}

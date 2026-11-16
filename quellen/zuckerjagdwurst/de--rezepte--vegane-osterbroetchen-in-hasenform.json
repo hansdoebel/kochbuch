@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-osterbroetchen-in-hasenform",
+  "recipes": [
+    {
+      "name": "Vegane Osterbrötchen in Hasenform",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-osterbroetchen-in-hasenform",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-osterbroetchen-in-hasenform#recipe-45af60e2-3db2-5b6b-b2b6-1b5afcd4471e",
+      "authors": [
+        "Rahel Würsching"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Brötchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "Für den Hefeteig:",
+        "300 g Mehl Type 405",
+        "40 g brauner Zucker",
+        "7 g Trockenhefe",
+        "200 ml lauwarme pflanzliche Milch",
+        "35 g vegane Butter",
+        "1 TL Salz",
+        "Außerdem:",
+        "vegane Kochsahne",
+        "vegane Erdbeermarmelade",
+        "vegane Aprikosenmarmelade",
+        "vegane Sahne zum Aufschlagen"
+      ],
+      "instructions": [
+        "Für den Hefeteig Mehl, braunen Zucker und Trockenhefe in eine Schüssel geben und verrühren. Die lauwarme pflanzliche Milch dazugeben, nur lose vermengen und mind. 10 Minuten stehen lassen. Die vegane Butter bei kleiner Hitze schmelzen und abkühlen lassen, bis sie lauwarm ist.",
+        "Mit einem Rührgerät die Zutaten in der Schüssel kneten, bis ein glatter Teig entsteht. Die lauwarme vegane Butter und das Salz hinzugeben und ca. 10 Minuten weiter kneten, bis der Teig geschmeidig ist. Mit einem feuchten Geschirrtuch abdecken und mind. 1 Stunde an einem warmen Ort gehen lassen, bis sich das Teigvolumen verdoppelt hat.",
+        "Den gegangenen Teig in 8 gleich große Portionen teilen. Für die Hasenbrötchen wie folgt vorgehen: jedes Teigstück mit den Händen in die Länge rollen, sodass eine Hefeteig-Schlange entsteht. Davon ca. 2 cm abschneiden und zu einer Kugel rollen. Das wird später das Hasenschwänzchen. Die restliche Teigschlange auf ein Blech mit Backpapier platzieren. Beide Enden nehmen und zweimal miteinander verschlingen. So entstehen kleine Hasenkörper und -ohren. Das Hasenschwänzchen in die Mitte des Körpers legen.",
+        "Die Hasen noch einmal mind. 30 Minuten ruhen lassen. In der Zwischenzeit den Backofen auf 200°C Ober- Unterhitze vorheizen. Die Brötchen mit veganer Kochsahne bestreichen und ca. 15-20 Minuten backen, bis sie braun sind. Die Backzeit kann je nach Backofen variieren.",
+        "Die fertigen Hasenbrötchen z. B. mit Marmelade und veganer Schlagsahne servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

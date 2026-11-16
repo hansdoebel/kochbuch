@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/sweet-potato-zucchini-soup-285",
+  "recipes": [
+    {
+      "name": "Sweet Potato & Zucchini Soup",
+      "source_url": "https://www.pickuplimes.com/recipe/sweet-potato-zucchini-soup-285",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT15M",
+      "cook_time": "PT20M",
+      "total_time": "PT35M",
+      "ingredients": [
+        "1 Tbsp olive oil",
+        "1 medium onion",
+        "1 medium leek",
+        "2 garlic clove",
+        "5 cup vegetable broth",
+        "1 medium zucchini",
+        "1 medium carrot",
+        "1 medium potato",
+        "1 large sweet potato",
+        "½ tsp dried rosemary",
+        "½ tsp dried basil",
+        "½ tsp curry powder",
+        "⅛ tsp ground black pepper"
+      ],
+      "instructions": [
+        "Heat the oil in a large pot over high heat. When hot, add the onion, leek, and garlic. Cook for 5 minutes.",
+        "Add the remaining ingredients. Cook at a simmer partially covered for 15 minutes, or until the potatoes are cooked.",
+        "Using an immersion blender, blend some of the soup but allow some chunks to remain. Alternatively, use a standing blender, in which case blending about half of the soup is recommended.",
+        "Taste test, adding more seasoning as desired. Plate, garnish, and serve while hot. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 4 days, or in the freezer for up to 2 months."
+  ]
+}

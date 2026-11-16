@@ -1,0 +1,36 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/2-minute-chocolate-almond-spread-139",
+  "recipes": [
+    {
+      "name": "2-Minute Chocolate Nut Spread",
+      "source_url": "https://www.pickuplimes.com/recipe/2-minute-chocolate-almond-spread-139",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT03M",
+      "cook_time": "",
+      "total_time": "PT03M",
+      "ingredients": [
+        "½ cup almond butter",
+        "2 Tbsp Dutch-process cocoa powder",
+        "2 Tbsp maple syrup",
+        "2 Tbsp unsweetened soy milk"
+      ],
+      "instructions": [
+        "Mix all the ingredients in a small bowl, and enjoy as a spread on toast, or as a dip for fresh fruit."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to one week."
+  ]
+}

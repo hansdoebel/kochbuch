@@ -1,0 +1,84 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-suesse-pancake-tacos",
+  "recipes": [
+    {
+      "name": "Vegane Bananen-Pancakes mit Blaubeersoße",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-suesse-pancake-tacos",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-suesse-pancake-tacos#recipe-5e000eb7-d19b-5ff0-af94-a0d00db800c5",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 kleine oder 4 große Pancakes",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Bananen-Pancakes:",
+        "1 Banane (am besten schon ein paar Tage alt oder leicht braun)",
+        "100 g Mehl",
+        "1 TL Backpulver",
+        "30 g Zucker",
+        "1 Prise Salz",
+        "100 ml pflanzliche Milch",
+        "Pflanzenöl zum Braten (z. B. Sonnenblumen- oder Rapsöl)",
+        "gehackte Haselnüsse zum Servieren",
+        "Für die Blaubeersoße:",
+        "150 g Blaubeeren",
+        "10 g Speisestärke",
+        "80 ml Wasser",
+        "15 g Zucker"
+      ],
+      "instructions": [
+        "Blaubeersoße:",
+        "Blaubeeren waschen und in einen kleinen Topf geben. Speisestärke mit Wasser glatt rühren und die Mischung zusammen mit dem Zucker ebenfalls in den Topf geben.",
+        "Die Mischung einmal aufkochen lassen und ca. 5 Minuten köcheln lassen, bis sie nach und nach andickt. Die Blaubeeren dabei leicht mit einer Gabel oder einem Kochlöffel zerdrücken.",
+        "Die Blaubeersoße nach Wunsch pürieren und beiseitestellen, bis die Pancakes fertig sind. Nach Wunsch kurz vor dem Servieren noch mal erwärmen.",
+        "Bananen-Pancakes:",
+        "Banane schälen, in eine Schüssel geben und mit einer Gabel zerdrücken, bis ein Mus entsteht.",
+        "Mehl, Backpulver, Zucker und Salz in einer Schüssel vermischen. Pflanzliche Milch und das Bananenmus hinzugeben und zu einem dickflüssigen Teig vermengen. Den Teig ca. 10 Minuten ruhen lassen.",
+        "Etwas Pflanzenöl in einer beschichteten Pfanne bei mittlerer Hitze erwärmen und die Pancakes darin nacheinander ausbacken. Sobald sich kleine Blasen bilden, die Pancakes wenden, sodass sie von beiden Seiten goldbraun sind. Die Pancakes mit Blaubeersoße und gehackten Haselnüssen servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Vegane, süße Pancake Tacos",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-suesse-pancake-tacos",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-suesse-pancake-tacos#recipe-2870160c-e995-50d6-bb6b-4fa6e0940f45",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Pancake Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "1 Portion vegane Bananen Pancakes (Rezept auf dem Blog)",
+        "3 EL vegane Schokocreme",
+        "200 ml vegane Sahne zum Aufschlagen",
+        "2 Pck. Vanillezucker",
+        "2 Pck. Sahnesteif",
+        "1/2 Tafel Schokolade",
+        "1 Banane",
+        "Beeren"
+      ],
+      "instructions": [
+        "Die Sahne in ein hohes Gefäß füllen, Vanillezucker und Sahnesteif dazugeben und pürieren bis die Masse stockt.",
+        "Die Schokolade in einem Wasserbad erwärmen bis sie flüßig ist.",
+        "Die Pancakes mit der veganen Schokocreme bestreichen.",
+        "Mit Beeren und/oder Banane füllen und mit Sahne und flüßigen Schokolade toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

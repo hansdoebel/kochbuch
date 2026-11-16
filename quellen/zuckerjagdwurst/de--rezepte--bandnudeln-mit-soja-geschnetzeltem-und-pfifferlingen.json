@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/bandnudeln-mit-soja-geschnetzeltem-und-pfifferlingen",
+  "recipes": [
+    {
+      "name": "Bandnudeln mit Soja-Geschnetzeltem und Pfifferlingen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/bandnudeln-mit-soja-geschnetzeltem-und-pfifferlingen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/bandnudeln-mit-soja-geschnetzeltem-und-pfifferlingen#recipe-6c73d5d6-786b-5bad-9ca6-0590edbe4088",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für die Soße:",
+        "200 g Soja-Schnetzel (z. B. von Veganz)",
+        "1000 ml Gemüsebrühe",
+        "2.5 EL Senf",
+        "300 g Pfifferlinge",
+        "30 g glatte Petersilie",
+        "1 Zwiebel",
+        "2 Knoblauchzehen",
+        "100 ml veganer Weißwein",
+        "400 ml vegane Kochsahne",
+        "1 Zitrone (Saft)",
+        "50 g Hefeflocken",
+        "1 EL Wacholderbeeren",
+        "1.5 TL gemahlener Piment",
+        "1 TL Korianderpulver",
+        "1 TL Chiliflocken",
+        "Olivenöl zum Braten",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "400 g Bandnudeln"
+      ],
+      "instructions": [
+        "Gemüsebrühe in einem Topf erhitzen. Soja-Schnetzel dazugeben und kurz aufkochen lassen und danach ca. 10-15 Minuten bei mittlerer Hitze köcheln und ziehen lassen. Danach gründlich ausdrücken, aber die Gemüsebrühe aufheben und beiseitestellen. Die Soja-Schnetzel anschließend in eine Schüssel geben, pfeffern und mit Senf vermengen, bis alle Schnetzel damit bedeckt sind.",
+        "Während die Soja-Schnetzel köcheln, Pfifferlinge putzen und Petersilie waschen und fein hacken. Zwiebel und Knoblauchzehen schälen und ebenfalls klein schneiden.",
+        "Olivenöl in einer großen Pfanne bei mittlerer Hitzen erwärmen und die Zwiebel darin glasig dünsten. Anschließend die Soja-Schnetzel hinzugeben und ca. 5-10 Minuten scharf anbraten, bis sie braun werden. Pfifferlinge und Knoblauch hinzugeben und weitere 5 Minuten anbraten.",
+        "In der Zwischenzeit einen Topf mit gesalzenem Wasser aufsetzen und die Bandnudeln darin nach Packungsanleitung al dente kochen.",
+        "Anschließend die Pilze und Soja-Schnetzel mit veganem Weißwein und veganer Kochsahne ablöschen. Zitronensaft, Hefeflocken, Wacholderbeeren, gemahlenen Piment, Koriander und Chiliflocken hinzugeben und weitere 5 Minuten auf niedriger Stufe köcheln lassen. Gegebenenfalls die aufgefangene Gemüsebrühe hinzugeben, falls euch das Geschnetzelte zu dickflüssig ist.",
+        "Kurz vor dem Servieren die Hälfte der gehackten Petersilie unterrühren. Den Rest zum Dekorieren aufheben. Die Wacholderbeeren vor dem Servieren herausnehmen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

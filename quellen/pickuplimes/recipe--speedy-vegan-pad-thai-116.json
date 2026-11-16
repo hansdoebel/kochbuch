@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/speedy-vegan-pad-thai-116",
+  "recipes": [
+    {
+      "name": "Vegan Pad Thai",
+      "source_url": "https://www.pickuplimes.com/recipe/speedy-vegan-pad-thai-116",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT15M",
+      "cook_time": "PT15M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "2 Tbsp vegetable oil",
+        "15.873 oz firm tofu",
+        "5.291 oz brown rice noodles",
+        "1 Tbsp vegetable oil",
+        "6 garlic clove",
+        "2 medium shallot",
+        "2 stalk green onion",
+        "1 fresh red chili",
+        "1½ Tbsp pickled radish",
+        "1 medium carrot",
+        "1 red bell pepper",
+        "1 cup shredded green cabbage",
+        "¼ cup reduced-sodium soy sauce",
+        "3 Tbsp tamarind paste",
+        "2 Tbsp granulated sugar",
+        "1 Tbsp rice vinegar",
+        "1 Tbsp sriracha",
+        "½ lime",
+        "1 cup fresh bean sprouts"
+      ],
+      "instructions": [
+        "Heat the oil in a large pan over high heat. When hot, add the tofu and cook until lightly crispy on all sides, about 8 minutes. Then transfer to a bowl.",
+        "Add the rice noodles to a large bowl and cover with boiling water. Let sit to soften, and drain when 1 to 2 minutes before al dente. Rinse under cold water.",
+        "Heat the oil in a sauté pan over medium-high heat. When hot, add the garlic, shallots, green onions, chili, and pickled radish. Cook for 5 to 8 minutes.",
+        "Then add the carrot, bell pepper, and cabbage and cook for 5 more minutes.",
+        "Add the soy sauce, tamarind paste, sugar, vinegar, sriracha, and lime juice. Stir.",
+        "Add the rice noodles to the pan, and toss to combine. Cook until everything is warmed through and the noodles are fully cooked.",
+        "Add the bean sprouts and tofu to the pan, and toss to coat.",
+        "Serve while hot, top with desired garnishes, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

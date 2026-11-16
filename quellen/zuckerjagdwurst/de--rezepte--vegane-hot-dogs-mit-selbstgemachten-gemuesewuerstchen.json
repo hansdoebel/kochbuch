@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-hot-dogs-mit-selbstgemachten-gemuesewuerstchen",
+  "recipes": [
+    {
+      "name": "Vegane Hot Dogs mit selbstgemachten Gemüsewürstchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-hot-dogs-mit-selbstgemachten-gemuesewuerstchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-hot-dogs-mit-selbstgemachten-gemuesewuerstchen#recipe-9ac40447-ccb3-568f-aef5-c1ed7d1c83ab",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "10-12 Hot Dogs",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "10-12 Hot Dog Brötchen",
+        "Toppings",
+        "Ketchup",
+        "Senf",
+        "Röstzwiebeln",
+        "saure Gurkenscheiben",
+        "Selbstgemachte Gemüsewürstchen",
+        "100 g rote Linsen (gekocht)",
+        "50 g bunter Quinoa (gekocht)",
+        "50 g Karotte",
+        "50 g Grünkohl oder Wirsing",
+        "200 g Kichererbsen (aus der Dose)",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "1 EL Senf",
+        "1 EL Tomatenmark",
+        "Salz&Pfeffer",
+        "35 g Paniermehl",
+        "75 g Kichererbsenmehl"
+      ],
+      "instructions": [
+        "Quinoa und Linsen abkochen (nach Packungsanleitung) und gut abtropfen lassen.",
+        "Grünkohl (oder Wirsing) waschen, die Karotte schälen und beides sehr fein schneiden. Zwiebel und Knoblauch ebenfalls schälen und fein schneiden.",
+        "Quinoa, Linsen, Grünkohl, Karotten, Zwiebel, Knoblauch und Kichererbsen in eine Schüssel geben und den Senf, das Tomatenmark, Salz und Pfeffer hinzugeben und gut vermengen.",
+        "Mit einem Pürierstab die Masse etwas „anpürieren“ (etwa 1/3), sodass sich die Masse gut formen lässt.",
+        "Das Paniermehl und das Kichererbsenmehl unterkneten und 10-12 Würstchen daraus formen und auf einem Teller oder Brett platzieren. Wenn die Masse zu stückig ist, mehr pürieren. Wenn die Masse zu klebrig ist, mehr Kichererbsenmehl und Paniermehl hinzugeben.",
+        "Nach dem Formen die Würstchen mindestens für 30 Minuten im Kühlschrank aufbewahren, sodass sie sich festigen.",
+        "Im Anschluss eine Pfanne mit etwas Öl erhitzen und die Würstchen darin für etwa 8-10 Minuten anbraten. Nach dem Anbraten die Würstchen am besten direkt in der Pfanne ruhen lassen für etwa 5-10 Minuten. So halten sie besser!",
+        "Die Hot Dog Brötchen im Ofen nach Packungsanleitung erwärmen und die Würstchen darin servieren. Mit Ketchup, Senf, sauren Gurkenscheiben und Röstzwiebeln servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schokoladen-tacos-mit-nice-cream-and-kiwi",
+  "recipes": [
+    {
+      "name": "Vegane Schokoladen-Tacos mit Nice Cream",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schokoladen-tacos-mit-nice-cream-and-kiwi",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/schokoladen-tacos-mit-nice-cream-and-kiwi#recipe-142fd647-fc83-5156-83b0-19feb3aa8476",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 - 10 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT240M",
+      "ingredients": [
+        "FÜR DEN TEIG",
+        "100 g Mehl",
+        "50 g Puderzucker",
+        "1 TL feine Speisestärke",
+        "4 TL Kakao",
+        "1 Prise Salz",
+        "1 EL Öl",
+        "150 ml pflanzliche Milch",
+        "vegane Butter zum Anbraten",
+        "FÜR DIE NICE CREAM",
+        "2 gefrorene Bananen (am Vortag)",
+        "1 TL Vanillearoma (optional)",
+        "TOPPING",
+        "2 Kiwi",
+        "100 g gehackte Haselnüsse",
+        "200 g Schokolade zum Schmelzen",
+        "vegane Schlagsahne (optional)"
+      ],
+      "instructions": [
+        "Für den Teig alle trockenen Zutaten in einer Schüssel miteinander verrühren. Danach flüssige Zutaten (also Öl und pflanzliche Milch) unterrühren, bis euer Teig glatt und cremig ist. In einer kleinen Pfanne etwa 1 TL vegane Butter erhitzen und mit einer Kelle einen kreisrunden Klecks in die Pfanne geben. Den Schokoladen-Taco je 2-3 Minuten von beiden Seiten anbraten. Mit dem restlichen Teig wiederholen, bis ihr etwa 8 Tacos herausbekommen habt.",
+        "Nun könnt ihr schon mal eure Toppings vorbereiten: Kiwi in kleine Stücke schneiden und Schokolade entweder über dem Wasserbad oder in der Mikrowelle schmelzen. Die vegane Schlagsahne aufschlagen.",
+        "Für die Nice Cream solltet ihr einen Tag vorab bereits 2 Bananen schälen, in Stücke schneiden und einfrieren. Diese gefrorenen Bananenstücke kommen jetzt nur noch in einen Standmixer und werden so lang gemixt, bis sie eine cremige Eiskonsistenz haben. Wer den puren Geschmack von Banane nicht mag, kann auch noch etwas Vanillearoma hinzugeben und alles nochmal verrühren.",
+        "Gebt die gehackten Haselnüsse auf einen Teller. Füllt die Hälfte der geschmolzenen Schokolade in eine kleine, aber tiefe Schüssel und die andere Hälfte in eine Spritztüte. Dippt die Ränder eurer Tacos in die Schüssel mit geschmolzener Schokolade und wendet sie danach sofort auf dem Teller mit gehackten Haselnüssen, damit diese an der noch flüssigen Schokolade kleben bleiben.",
+        "Füllt Nice Cream in die Mitte der Tacos und klappt danach die Seiten der Tacos leicht nach oben, damit sie am Eis kleben bleiben. Streicht die Eiscreme glatt. Mit Kiwi und veganer Schlagsahne dekorieren.",
+        "Die Spritztüte mit Schokolade ganz leicht anschneiden und eure Tacos beträufeln."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

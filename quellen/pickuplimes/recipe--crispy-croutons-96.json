@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/crispy-croutons-96",
+  "recipes": [
+    {
+      "name": "Homemade Crunchy Croutons",
+      "source_url": "https://www.pickuplimes.com/recipe/crispy-croutons-96",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT05M",
+      "total_time": "PT10M",
+      "ingredients": [
+        "4 slice whole wheat bread",
+        "2 Tbsp olive oil",
+        "1 garlic clove",
+        "2 tsp Italian seasoning",
+        "1 tsp garlic powder",
+        "1 tsp onion powder",
+        "½ tsp sweet paprika powder",
+        "⅛ tsp salt",
+        "1 pinch ground black pepper"
+      ],
+      "instructions": [
+        "Slice or tear the bread into 1 cm cubes.",
+        "Add the bread, oil, garlic, herbs and spices to a large bowl and toss to combine.",
+        "For the pan-fried version: heat a bit more oil in a large pan over high heat. Add the coated bread and stir often, cooking for 5 minutes or until golden and crispy.",
+        "For the oven-baked version: preheat the oven to 400°F (200°C)*. Spread the coated bread onto a lined baking tray and bake for 7 to 10 minutes, mixing once halfway. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Keep in an airtight container on the counter for up to 2 days."
+  ]
+}

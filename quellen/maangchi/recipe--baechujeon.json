@@ -1,0 +1,178 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/baechujeon",
+  "recipes": [
+    {
+      "name": "Cabbage pancake (Baechujeon: 배추전)",
+      "source_url": "https://www.maangchi.com/recipe/baechujeon",
+      "recipe_id": "/recipe/baechujeon#sso/recipe/89586",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "8 ounces napa cabbage leaves (4 to 5 leaves), washed, pat dried, with a few slits at the bottom so they lay flat",
+        "vegetable oil for cooking",
+        "1 cup stock (vegetable stock, anchovy-kelp stock, or chicken broth)",
+        "½ teaspoon kosher salt",
+        "⅔ cup all purpose-flour",
+        "1 egg",
+        "2 tablespoons soy sauce",
+        "½ teaspoon gochu-garu (Korean hot pepper flakes)",
+        "1 tablespoon white vinegar",
+        "1 green onion, chopped",
+        "1 teaspoon toasted sesame seeds"
+      ],
+      "instructions": [
+        "Combine the soy sauce, gochu-garu, vinegar, green onion, and sesame seeds in a small bowl.",
+        "Mix well and set aside.",
+        "Combine the stock, salt, flour, and the egg in a large bowl. Mix together well.",
+        "Heat up some vegetable oil in a large skillet over medium high heat. Swirl to coat evenly.",
+        "Dip a cabbage leaf into the batter, making sure to coat the whole leaf. Place it in the skillet.",
+        "Repeat with another leaf.",
+        "With a spatula, press down on the slitted white parts of the leaves for about 10 seconds to flatten them out. Cook until lightly crisped on the bottom, about 2 minutes.",
+        "Flip and add more oil if necessary. Cook another 2 minutes, until the other side is lightly crisp, too.",
+        "Flip and cook for another 1 to 2 minutes, until both sides are crisp but not brown.",
+        "Transfer to a plate and serve right away with the dipping sauce. Work in batches with the rest of cabbage and the batter.",
+        "Cut the pancake into bite size pieces with kitchen scissors.",
+        "Add some dipping sauce and eat."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 2"
+        },
+        {
+          "tag": "li",
+          "text": "8 ounces napa cabbage leaves (4 to 5 leaves), washed, pat dried, with a few slits at the bottom so they lay flat"
+        },
+        {
+          "tag": "li",
+          "text": "vegetable oil for cooking"
+        },
+        {
+          "tag": "h3",
+          "text": "For batter:"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup stock (vegetable stock, anchovy-kelp stock, or chicken broth)"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "⅔ cup all purpose-flour"
+        },
+        {
+          "tag": "li",
+          "text": "1 egg"
+        },
+        {
+          "tag": "h3",
+          "text": "For sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon gochu-garu (Korean hot pepper flakes)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon white vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "1 green onion, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon toasted sesame seeds"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Make the sauce"
+        },
+        {
+          "tag": "li",
+          "text": "Combine the soy sauce, gochu-garu, vinegar, green onion, and sesame seeds in a small bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Mix well and set aside."
+        },
+        {
+          "tag": "h3",
+          "text": "Make the batter and fry the cabbage leaves"
+        },
+        {
+          "tag": "li",
+          "text": "Combine the stock, salt, flour, and the egg in a large bowl. Mix together well."
+        },
+        {
+          "tag": "li",
+          "text": "Heat up some vegetable oil in a large skillet over medium high heat. Swirl to coat evenly."
+        },
+        {
+          "tag": "li",
+          "text": "Dip a cabbage leaf into the batter, making sure to coat the whole leaf. Place it in the skillet."
+        },
+        {
+          "tag": "li",
+          "text": "Repeat with another leaf."
+        },
+        {
+          "tag": "li",
+          "text": "With a spatula, press down on the slitted white parts of the leaves for about 10 seconds to flatten them out. Cook until lightly crisped on the bottom, about 2 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Flip and add more oil if necessary. Cook another 2 minutes, until the other side is lightly crisp, too."
+        },
+        {
+          "tag": "li",
+          "text": "Flip and cook for another 1 to 2 minutes, until both sides are crisp but not brown."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer to a plate and serve right away with the dipping sauce. Work in batches with the rest of cabbage and the batter."
+        },
+        {
+          "tag": "h3",
+          "text": "How to eat:"
+        },
+        {
+          "tag": "li",
+          "text": "Cut the pancake into bite size pieces with kitchen scissors."
+        },
+        {
+          "tag": "li",
+          "text": "Add some dipping sauce and eat."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

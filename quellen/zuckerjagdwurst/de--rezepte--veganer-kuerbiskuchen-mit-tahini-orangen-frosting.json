@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kuerbiskuchen-mit-tahini-orangen-frosting",
+  "recipes": [
+    {
+      "name": "Veganer Kürbiskuchen mit Tahini-Orangen-Frosting",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kuerbiskuchen-mit-tahini-orangen-frosting",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kuerbiskuchen-mit-tahini-orangen-frosting#recipe-3a9c6cd1-7273-590e-8254-901376dd909a",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Stücke",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "1 EL pflanzliche Butter (zum Einfetten)",
+        "1 EL Weizenmehl (zum Ausklopfen)",
+        "Teig",
+        "250 g Hokkaidokürbis",
+        "400 ml pflanzliche Milch",
+        "1 EL Apfelessig",
+        "370 g Weizenmehl",
+        "200 g brauner Zucker",
+        "1 TL Zimt",
+        "0.5 TL Muskat",
+        "15 g Bio Weinstein Backpulver (z.B. von RUF)",
+        "Prise Salz",
+        "100 g Kokosnussöl (geschmolzen)",
+        "Frosting",
+        "100 g pflanzliche Butter",
+        "50 Tahin",
+        "50 g Puderzucker",
+        "5 g Bio-Orangenschale (z.B. von RUF)",
+        "Deko",
+        "heller & dunkler Sesam",
+        "Schale einer Orange"
+      ],
+      "instructions": [
+        "Einen kleinen Topf mit Wasser zum Kochen bringen.",
+        "Den Kürbis waschen und 250 g in kleine Stücken schneiden. Etwa 10 Minuten köcheln, bis die Kürbisstücken weich sind. Anschließend pürieren.",
+        "In einer kleinen Schüssel die pflanzliche Milch mit dem Apfelessig verrühren und 10 Minuten bei Seite stellen.",
+        "Den Backofen auf 180°C Umluft vorheizen.",
+        "In einer großen Schüssel Mehl, braunen Zucker, Zimt, Muskat, Bio Weinstein Backpulver und eine Prise Salz vermischen.",
+        "Das Kokosöl schmilzen und mit 200 g vom Kürbispüree und der pflanzlichen Milch zu den trockenen Zutaten geben und verrühren.",
+        "Eine Kastenform (11x25 cm) mit pflanzlicher Butter einfetten und mit Mehl ausklopfen. Den Teig hineinfüllen und für etwa 60 Minuten bei 180°C Umluft auf mittlerer Stufe backen.",
+        "Frosting",
+        "Für das Frosting die Butter mit einem Mixer aufschlagen. Nun nach und nach das Tahini, den Puderzucker und die Bio-Orangenschale hinzugeben.",
+        "Den Kuchen nach dem Backen abkühlen lassen und anschließend mit dem Frosting, hellen und dunklen Sesam und Orangenschale dekorieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/caramel-shards-1001",
+  "recipes": [
+    {
+      "name": "Caramel Shards",
+      "source_url": "https://www.pickuplimes.com/recipe/caramel-shards-1001",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "10 servings",
+      "prep_time": "",
+      "cook_time": "PT15M",
+      "total_time": "PT20M",
+      "ingredients": [
+        "1 cup granulated sugar",
+        "6 Tbsp water"
+      ],
+      "instructions": [
+        "Line a baking tray with parchment paper. In a heavy-bottomed saucepan over medium heat, combine the sugar and water*.",
+        "Avoid mixing with spoons or utensils as this can cause sugar crystals to form. If the mixture needs it, swirl the pan to help dissolve the sugar.",
+        "When the sugar is dissolved, turn the heat to medium-high and allow the mixture to bubble until it starts to turn golden, about 10 to 15 minutes.",
+        "Watch the sugar closely to avoid burning, as caramelization happens quickly. When caramelized to your liking, carefully pour the liquid sugar onto the prepared baking tray**.",
+        "Tilt the tray to spread the sugar out if desired for thinner shards.",
+        "Once completely cooled, use the back of a spoon to tap the caramel and break it into shards. For finer caramel dust, you can use a rolling pin to crush the caramel or place the pieces in a food processor and pulse a few times. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * A heavy-bottomed pan is thicker at the base, meaning it can distribute heat better than a thinner pan. As a result, the sugar will melt more evenly and is less likely to burn. ** Be extremely careful with this, as the melted sugar is incredibly hot.",
+    "Storage Store in an airtight container at room temperature for up to 1 month."
+  ]
+}

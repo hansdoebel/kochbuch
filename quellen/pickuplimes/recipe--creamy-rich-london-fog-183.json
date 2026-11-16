@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/creamy-rich-london-fog-183",
+  "recipes": [
+    {
+      "name": "Creamy & Rich London Fog",
+      "source_url": "https://www.pickuplimes.com/recipe/creamy-rich-london-fog-183",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT02M",
+      "cook_time": "PT05M",
+      "total_time": "PT07M",
+      "ingredients": [
+        "2 cup unsweetened soy milk",
+        "2 tsp loose-leaf Earl Grey tea",
+        "1 tsp maple syrup",
+        "2 cinnamon stick",
+        "½ tsp pure vanilla extract"
+      ],
+      "instructions": [
+        "In a saucepan over medium heat, combine the milk, tea, maple syrup, and cinnamon. Whisk continuously until the milk starts to simmer, then stir in the vanilla and remove from the heat.",
+        "Cover and allow to steep for 1 to 2 minutes further for a stronger tea flavour. Then strain the tea into mugs and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium .",
+    "Storage Best if enjoyed immediately."
+  ]
+}

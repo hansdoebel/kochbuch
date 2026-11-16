@@ -1,0 +1,38 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-smores-tacos",
+  "recipes": [
+    {
+      "name": "Vegane Smores Tacos",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-smores-tacos",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-smores-tacos#recipe-95554f0c-1e2c-56eb-849a-7dd3a0a25c90",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "3 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "3 Soft Tacos",
+        "5 vegane Butterkekse",
+        "10 Marshmallows",
+        "1/2 Tafel vegane Schokolade",
+        "optional: Sahne, Beeren ..."
+      ],
+      "instructions": [
+        "Gebt eure drei Tacos in eine ofentaugliche Form.",
+        "Verteilt Schokolade, Kekse und Marshmallows gleichmäßig auf den Tacos.",
+        "Nun bei 180°C die Tacos für fünf Minuten in den Ofen schieben und warten, bis die Schokolade leicht schmilzt und die Marshmallows leicht braun werden.",
+        "Nun die Tacos aus dem Ofen nehmen und direkt essen. Wer will, kann noch mit Sahne und Beeren toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

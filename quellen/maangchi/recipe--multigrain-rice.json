@@ -1,0 +1,103 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/multigrain-rice",
+  "recipes": [
+    {
+      "name": "Multigrain Rice (Japgokbap)",
+      "source_url": "https://www.maangchi.com/recipe/multigrain-rice",
+      "recipe_id": "/recipe/multigrain-rice#sso/recipe/61816",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "4 servings",
+      "prep_time": "P0DT0H4M0S",
+      "cook_time": "P0DT0H22M0S",
+      "total_time": "P0DT3H0M0S",
+      "ingredients": [
+        "1 cup short grain rice",
+        "½ cup brown sweet rice",
+        "½ cup barley",
+        "2 tablespoons black sweet rice",
+        "¼ cup frozen or fresh green peas (optional)",
+        "2½ cups water, plus more for rinsing"
+      ],
+      "instructions": [
+        "Combine short grain rice, brown sweet rice, barley, and black sweet rice in a heavy pot. Add cold water, stir, and drain. Scrub and rub the grains by hand and rinse a couple of times until the water runs pretty clear. Drain, leaving the grains generously wet. Add 2½ cups water and the optional green peas. Cover and soak for 2 to 2½ hours. Rinsing takes 3–4 minutes.",
+        "Cook over medium high heat for 7 to 10 minutes until the surface bubbles vigorously. Stir with a rice scoop, scraping the bottom and turning the rice over. Cover, reduce the heat to low, and simmer for 10 to 12 minutes until the grains are fluffy and fully cooked. Taste to check that no grains are hard inside. Fluff and serve hot. Keep leftovers in a container in the fridge and finish within three days. Reheat in the microwave or steam in a steamer basket over simmering water."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "4 servings"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup short grain rice"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup brown sweet rice"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup barley"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons black sweet rice"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup frozen or fresh green peas (optional)"
+        },
+        {
+          "tag": "li",
+          "text": "2½ cups water, plus more for rinsing"
+        },
+        {
+          "tag": "p",
+          "text": "DirectionsPreparation (rinsing): 3–4 minutesSoaking: 2–2½ hoursCooking: 17–22 minutesTotal time: About 2½ to 3 hours"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Combine short grain rice, brown sweet rice, barley, and black sweet rice in a heavy pot. Add some cold water and stir it around. Tilt the pot and pour out the water, then scrub and rub the grains by hand to remove excess starch."
+        },
+        {
+          "tag": "li",
+          "text": "Fill the pot with water again, stir, scrub, and pour out the water again. Repeat a couple of times until the water runs pretty clear."
+        },
+        {
+          "tag": "li",
+          "text": "Do a final drain of the water, leaving the grains generously wet."
+        },
+        {
+          "tag": "li",
+          "text": "Add 2½ cups water and green peas (if using). Cover and let it soak for 2 to 2½ hours."
+        },
+        {
+          "tag": "li",
+          "text": "Cook over medium high heat for 7 to 10 minutes until the surface bubbles vigorously. Stir the rice with a rice scoop, scraping the bottom and turning over."
+        },
+        {
+          "tag": "li",
+          "text": "Cover and lower the heat to low and simmer for 10 to 12 minutes until all the grains turn fluffy and fully cooked. Taste a sample to check the texture. The grains of rice should be soft and fluffy with nothing hard inside at all, but be careful not to cook them too much and make them mushy."
+        },
+        {
+          "tag": "li",
+          "text": "Fluff the japgokbap with your rice scoop and serve hot. Keep any leftovers in a container in the fridge. The rice should be finished in three days and you can revive it by reheating it in the microwave or steaming in a steamer basket over a pot of simmering water."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

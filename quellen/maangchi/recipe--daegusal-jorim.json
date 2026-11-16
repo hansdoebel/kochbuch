@@ -1,0 +1,153 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/daegusal-jorim",
+  "recipes": [
+    {
+      "name": "Spicy cod fillets (Daegusal-jorim: 대구살조림)",
+      "source_url": "https://www.maangchi.com/recipe/daegusal-jorim",
+      "recipe_id": "/recipe/daegusal-jorim#sso/recipe/96222",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "Serves 2 to 4",
+      "prep_time": "P0DT0H5M0S",
+      "cook_time": "P0DT0H13M0S",
+      "total_time": "P0DT0H18M0S",
+      "ingredients": [
+        "1 pound frozen cod fillets, thawed and cut into about 2½ inch pieces",
+        "½ teaspoon kosher salt",
+        "¼ teaspoon ground black (or white) pepper",
+        "2 tablespoons potato starch (or plain wheat flour)",
+        "1 medium onion, sliced",
+        "2 garlic cloves",
+        "1 tablespoon soy sauce",
+        "2 teaspoons gochu-garu (Korean hot pepper flakes)",
+        "a palm-sized piece of dried kelp",
+        "1 green onion, chopped",
+        "1 green chili pepper, sliced",
+        "1 plus ¼ cup water"
+      ],
+      "instructions": [
+        "Add 1 cup water. Cook over medium high heat for about 3 minutes until it starts boiling.",
+        "Reduce the heat to medium. Stir. Add the cod pieces on top, side by side. Cover and cook for 5 minutes over medium heat.",
+        "Uncover and use a spoon to flip over each piece of the cod. Add the rest of the ¼ cup of water to the pan.",
+        "Add green onion and green chili pepper. Cover and cook another 5 minutes over medium heat.",
+        "Open the lid and scoop some liquid from the bottom of the pan and spoon it over top.",
+        "Remove from the heat and serve right away with rice and other side dishes."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 2 to 4"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound frozen cod fillets, thawed and cut into about 2½ inch pieces"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "¼ teaspoon ground black (or white) pepper"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons potato starch (or plain wheat flour)"
+        },
+        {
+          "tag": "li",
+          "text": "1 medium onion, sliced"
+        },
+        {
+          "tag": "li",
+          "text": "2 garlic cloves"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons gochu-garu (Korean hot pepper flakes)"
+        },
+        {
+          "tag": "li",
+          "text": "a palm-sized piece of dried kelp"
+        },
+        {
+          "tag": "li",
+          "text": "1 green onion, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 green chili pepper, sliced"
+        },
+        {
+          "tag": "li",
+          "text": "1 plus ¼ cup water"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "In a bowl, season the cod evenly with salt and ground black pepper. Let it sit for 30 minutes in the fridge. Pat dry with a paper towel to remove excess water."
+        },
+        {
+          "tag": "li",
+          "text": "Coat the cod pieces with the potato starch."
+        },
+        {
+          "tag": "li",
+          "text": "Evenly spread the onion and garlic in the bottom of a small pan."
+        },
+        {
+          "tag": "li",
+          "text": "Cut the dried kelp into 6 pieces and add it to the pan."
+        },
+        {
+          "tag": "li",
+          "text": "Add soy sauce and sprinkle the gochu-garu over the onion."
+        },
+        {
+          "tag": "li",
+          "text": "Add 1 cup water. Cook over medium high heat for about 3 minutes until it starts boiling."
+        },
+        {
+          "tag": "li",
+          "text": "Reduce the heat to medium. Stir. Add the cod pieces on top, side by side. Cover and cook for 5 minutes over medium heat."
+        },
+        {
+          "tag": "li",
+          "text": "Uncover and use a spoon to flip over each piece of the cod. Add the rest of the ¼ cup of water to the pan."
+        },
+        {
+          "tag": "li",
+          "text": "Add green onion and green chili pepper. Cover and cook another 5 minutes over medium heat."
+        },
+        {
+          "tag": "li",
+          "text": "Open the lid and scoop some liquid from the bottom of the pan and spoon it over top."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and serve right away with rice and other side dishes."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

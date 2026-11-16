@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gnocchi-all-arrabbiata",
+  "recipes": [
+    {
+      "name": "Gnocchi all'arrabbiata",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gnocchi-all-arrabbiata",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gnocchi-all-arrabbiata#recipe-695f656c-091e-56a0-8a65-34c671659474",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "350 g vegane Gnocchi",
+        "1 Zwiebel",
+        "2 Knoblauchzehen",
+        "3 EL Olivenöl",
+        "1 EL Chiliflocken",
+        "400 g gehackte Tomaten aus der Dose",
+        "1 TL Rotweinessig",
+        "2 EL Tomatenmark",
+        "1 TL Zucker",
+        "Basilikum zum Servieren",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Zwiebel und Knoblauch schälen und fein würfeln. Öl in einer großen Pfanne erhitzen und zunächst Knoblauch und die Chiliflocken auf kleiner Hitze ca. 2-3 Minuten aromatisieren lassen.",
+        "Zwiebelwürfel dazugeben und ca. 3 Minuten anschwitzen, bis sie glasig sind. Nun das Tomatenmark dazugeben und ca. 2-3 Minuten anbraten, bis es etwas dunkler wird.",
+        "Gehackte Tomaten aus der Dose und Rotweinessig hinzugeben. Mit Salz, Zucker und Pfeffer würzen und die Soße ca. 30 Minuten auf kleiner Hitze köcheln lassen.",
+        "Ca. 10 Minuten bevor die Soße fertig ist, gesalzenes Wasser in einem großen Topf zum Kochen bringen und die Gnocchi nach Packungsanleitung kochen.",
+        "Sobald die Gnocchi an der Oberfläche schwimme, direkt mit einem Löffel aufnehmen und in die Soße transportieren. Dabei darf gern auch ein bisschen vom Kochwasser zur Soße kommen - durch das stärkehaltige Wasser bindet die Soße und wird toll sämig.",
+        "Sobald alle Gnocchi in der Soße sind, alles vermengen und bei Bedarf noch etwas Kochwasser dazugeben, bis die Gnocchi von der Arrabbiata ummantelt sind. Mit Basilikum und nach Geschmack veganem Parmesan servieren!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

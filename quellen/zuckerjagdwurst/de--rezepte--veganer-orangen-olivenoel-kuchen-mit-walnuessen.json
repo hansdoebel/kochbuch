@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-orangen-olivenoel-kuchen-mit-walnuessen",
+  "recipes": [
+    {
+      "name": "Veganer Orangen-Olivenöl-Kuchen mit Walnüssen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-orangen-olivenoel-kuchen-mit-walnuessen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-orangen-olivenoel-kuchen-mit-walnuessen#recipe-7fe67a0f-946a-58ff-ae9a-b1570f67faab",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kastenform (11x25 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT80M",
+      "ingredients": [
+        "Für den Teig:",
+        "400 g Mehl",
+        "150 g Zucker",
+        "1 TL Backpulver",
+        "1 Prise Salz",
+        "150 ml Olivenöl",
+        "200 ml pflanzliche Milch",
+        "1 Orange (Saft)",
+        "0.5 TL Vanilleextrakt",
+        "100 g Walnüsse",
+        "Für die Glasur:",
+        "75 g Puderzucker",
+        "Orangensaft",
+        "Orangenabrieb",
+        "Außerdem:",
+        "Pflanzenöl oder vegane Butter zum Einfetten",
+        "Mehl zum Ausklopfen der Backform"
+      ],
+      "instructions": [
+        "Den Backofen auf 180°C Umluft vorheizen. Walnüsse hacken und beiseitelegen.",
+        "Zunächst Mehl, Zucker, Backpulver und Salz in einer großen Schüssel mischen. Olivenöl, pflanzliche Milch, den Saft einer Orange und Vanilleextrakt in einem Messbecher verrühren und danach zu den trockenen Zutaten geben. Alle Zutaten vorsichtig zu einem glatten, dickflüssigen Teig vermengen – benutzt aber nicht das Handrührgerät dazu, weil ihr den Teig nicht übermischen solltet, sondern gerade nur so, bis kein trockenes Mehl mehr zu sehen ist. Zum Schluss die gehackten Walnüsse untermengen.",
+        "Eine Kastenform fetten und mit Mehl ausklopfen. Den Teig in die Backform füllen, glatt streichen und bei 180°C ca. 50-60 Minuten backen, oder bis ihr einen Holzspieß hineinstecken könnt und an ihm kein Teig mehr kleben bleibt.",
+        "Den Kuchen abkühlen lassen – am besten erst 10-15 Minuten in der Form, danach stürzen und auf einem Kuchengitter komplett abkühlen lassen. Für die Glasur Puderzucker mit so viel Orangensaft verrühren, bis ihr einen Zuckerguss in eurer gewünschten Konsistenz habt (manche mögen ihn eher dickflüssiger, andere dünnflüssiger). Den Abrieb einer halben oder ganzen Orange dazugeben und verrühren. Die Glasur über dem Kuchen verteilen und trocknen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

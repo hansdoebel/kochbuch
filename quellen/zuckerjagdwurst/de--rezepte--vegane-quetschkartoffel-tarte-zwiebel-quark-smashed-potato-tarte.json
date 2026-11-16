@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-quetschkartoffel-tarte-zwiebel-quark-smashed-potato-tarte",
+  "recipes": [
+    {
+      "name": "Vegane Quetschkartoffel-Tarte mit Zwiebel-Quark-Füllung (Smashed Potato Onion Tarte)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-quetschkartoffel-tarte-zwiebel-quark-smashed-potato-tarte",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-quetschkartoffel-tarte-zwiebel-quark-smashed-potato-tarte#recipe-00e404f9-904d-5fb2-91fc-a4941ee18de1",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Tarte (circa 27 cm Durchmesser)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "1.25 kg festkochende Kartoffeln",
+        "3 Zwiebeln",
+        "400 g veganer Quark",
+        "300 g vegane Crème fraîche",
+        "3 EL Speisestärke",
+        "2 EL Kichererbsenmehl",
+        "150 g veganer Streukäse",
+        "60 g vegane Speckwürfel (oder Räuchertofu)",
+        "10 g Schnittlauch",
+        "Salz",
+        "Pfeffer",
+        "Olivenöl"
+      ],
+      "instructions": [
+        "Die Kartoffeln in einen Topf geben, mit kaltem Wasser bedecken, salzen und aufkochen lassen. Danach bei mittlerer Hitze circa 20 Minuten kochen lassen, bis sie gar sind.",
+        "In der Zwischenzeit Zwiebeln schälen, halbieren und in Ringe schneiden. Veganen Quark mit veganer Crème fraîche, Speisestärke und Kichererbsenmehl verrühren. Die geschnittenen Zwiebeln untermengen und mit Salz und Pfeffer würzen.",
+        "Den Ofen auf 200 °C (Umluft) vorheizen. Die gekochten Kartoffeln abgießen und etwas ausdampfen lassen. Danach in eine eingefettete Tarteform geben und zerdrücken, sodass Boden und Rand mit den zerdrückten Kartoffeln bedeckt sind – das funktioniert zum Beispiel mit einem kleinen Topf oder einem kleinen Messbecher.",
+        "Die Tarte bei 200 °C (Umluft) circa 10 Minuten vorbacken.",
+        "Anschließend die Tarte vorsichtig aus dem Ofen nehmen und die vegane Zwiebel-Quark-Füllung auf die Kartoffeln geben. Den veganen Streukäse mit ein wenig Olivenöl vermengen. Die Tarte zuerst mit veganen Speckwürfeln und danach mit veganem Käse bestreuen.",
+        "Bei 200 °C (Umluft) weitere 20 Minuten backen. Danach abkühlen lassen und mit Schnittlauch bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

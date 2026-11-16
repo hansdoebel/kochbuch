@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/sommer-taco-mit-pfirsich-salsa",
+  "recipes": [
+    {
+      "name": "Sommer-Taco mit Pfirsich-Salsa",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/sommer-taco-mit-pfirsich-salsa",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/sommer-taco-mit-pfirsich-salsa#recipe-3934de7f-94fa-5a39-a410-c4ec9acb0edc",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "6 weiche Tacos",
+        "1 Handvoll Sojaschnetzel",
+        "Gemüsebrühe",
+        "Senf",
+        "Olivenöl",
+        "Sojasauce",
+        "Salz&Pfeffer",
+        "FÜR DIE SALSA",
+        "3 Pfirsiche",
+        "1/2 Gurke",
+        "1/2 rote Zwiebel",
+        "1 Handvoll Koriander",
+        "FÜR DAS SPICY PESTO",
+        "2 Jalapeno-Scheiben",
+        "1 Bund Petersilie",
+        "50 g Pinienkerne",
+        "etwas Olivenöl",
+        "Salz&Pfeffer"
+      ],
+      "instructions": [
+        "Nehmt eine Schüssel, legt eure harten Sojaschnetzel rein und begießt sie mit heißer Gemüsebrühe, bis sie darin schwimmen. Lasst sie solang einweichen, bis sie weich sind, das dauert etwa 10-15 Minuten. Danach das Wasser gut ausdrücken und die Schnetzel mit Salz und Pfeffer vorwürzen.",
+        "In einer Pfanne Öl erhitzen, die Sojaschnetzel von beiden Seiten mit einem Schuss Sojasauce knusprig braten.",
+        "Für eure Salsa würfelt ihr Pfirsiche, Gurke und die rote Zwiebel klein. Hackt Koriander und vermischt alles gut.",
+        "Für das Pesto püriert ihr alle Zutaten zu einer cremigen Masse und schmeckt mit Salz und Pfeffer ab.",
+        "Jetzt wird der Taco belegt. Erst Pesto darauf streichen, die Salsa und Sojaschnetzel darauf packen und mit Pesto toppen. Natürlich könnt ihr auch noch mehr Jalapeno-Scheiben dazugeben, wenn es euch noch nicht scharf genug ist."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

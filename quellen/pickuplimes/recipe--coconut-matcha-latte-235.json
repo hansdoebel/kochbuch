@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/coconut-matcha-latte-235",
+  "recipes": [
+    {
+      "name": "Coconut Matcha Latte",
+      "source_url": "https://www.pickuplimes.com/recipe/coconut-matcha-latte-235",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT03M",
+      "cook_time": "PT03M",
+      "total_time": "PT06M",
+      "ingredients": [
+        "4 Medjool date",
+        "1½ cup canned light coconut milk",
+        "½ cup unsweetened soy milk",
+        "1 tsp matcha powder"
+      ],
+      "instructions": [
+        "Add all of the ingredients to a high-speed blender and blend until smooth*.",
+        "Transfer the mixture to a saucepan over medium-high heat and stir continuously.",
+        "When hot, but not boiling, remove from heat and pour into your desired cups**. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium . * Note the dates are used to provide natural sweetness, but they also add a slight graininess to the drink. For a smoother texture, add maple syrup instead, and simply add all the ingredients straight into the saucepan . ** Boiling matcha can cause it to taste bitter.",
+    "Storage Best to enjoy this drink immediately."
+  ]
+}

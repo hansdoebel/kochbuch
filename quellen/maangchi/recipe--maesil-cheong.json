@@ -1,0 +1,119 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/maesil-cheong",
+  "recipes": [
+    {
+      "name": "Green plum extract (Maesil-cheong)",
+      "source_url": "https://www.maangchi.com/recipe/maesil-cheong",
+      "recipe_id": "/recipe/maesil-cheong#sso/recipe/68016",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1½ pounds maesil (green plums)",
+        "1½ pounds white sugar",
+        "4 bottles of soju",
+        "½ cup gochujang"
+      ],
+      "instructions": [
+        "Remove all the stem ends from the maesil, and throw out any that are brown or blemished.",
+        "Wash and dry well. Save half a cup of sugar for later, and mix the rest with the maesil, in a bowl. Add to a 7 cup glass jar.",
+        "Let sit for 6 days, and then mix it well by turning it upside down a few times. Let it sit in a cool dry place for 94 days more, for a grand total of 100 days since you started.",
+        "Separate the maesil from the extract using a strainer. Put the extract in a jar and store it in the fridge.",
+        "Put the leftover maesil in a jar with 4 bottles of soju. Let it sit for 3 months.",
+        "Separate the maesil from the maesilju using a strainer. Put the maesilju in a jar and store it in the fridge.",
+        "Pit the leftover maesil and cut up the remainder into small pieces.",
+        "Add ½ cup gochujang and mix well. Store in the fridge and serve as a side dish with rice."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "1½ pounds maesil (green plums)"
+        },
+        {
+          "tag": "li",
+          "text": "1½ pounds white sugar"
+        },
+        {
+          "tag": "li",
+          "text": "4 bottles of soju"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup gochujang"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare maesil"
+        },
+        {
+          "tag": "li",
+          "text": "Remove all the stem ends from the maesil, and throw out any that are brown or blemished."
+        },
+        {
+          "tag": "li",
+          "text": "Wash and dry well. Save half a cup of sugar for later, and mix the rest with the maesil, in a bowl. Add to a 7 cup glass jar."
+        },
+        {
+          "tag": "li",
+          "text": "Let sit for 6 days, and then mix it well by turning it upside down a few times. Let it sit in a cool dry place for 94 days more, for a grand total of 100 days since you started."
+        },
+        {
+          "tag": "h3",
+          "text": "100 days later"
+        },
+        {
+          "tag": "li",
+          "text": "Separate the maesil from the extract using a strainer. Put the extract in a jar and store it in the fridge."
+        },
+        {
+          "tag": "h2",
+          "text": "Make maesilju (Maesil liquor)"
+        },
+        {
+          "tag": "li",
+          "text": "Put the leftover maesil in a jar with 4 bottles of soju. Let it sit for 3 months."
+        },
+        {
+          "tag": "h3",
+          "text": "3 months later"
+        },
+        {
+          "tag": "li",
+          "text": "Separate the maesil from the maesilju using a strainer. Put the maesilju in a jar and store it in the fridge."
+        },
+        {
+          "tag": "h2",
+          "text": "Make maesil-jangajji (Maesil pickles)"
+        },
+        {
+          "tag": "li",
+          "text": "Pit the leftover maesil and cut up the remainder into small pieces."
+        },
+        {
+          "tag": "li",
+          "text": "Add ½ cup gochujang and mix well. Store in the fridge and serve as a side dish with rice."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

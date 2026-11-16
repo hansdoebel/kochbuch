@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/fluffy-vegan-pancakes-841",
+  "recipes": [
+    {
+      "name": "Fluffy Vegan Pancakes",
+      "source_url": "https://www.pickuplimes.com/recipe/fluffy-vegan-pancakes-841",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT20M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "1½ cup all-purpose flour",
+        "1 Tbsp baking powder",
+        "2 Tbsp granulated sugar",
+        "¼ tsp salt",
+        "1⅓ cup unsweetened soy milk",
+        "1 Tbsp apple cider vinegar",
+        "2 tsp pure vanilla extract",
+        "1 Tbsp vegetable oil",
+        "1 cup fresh mixed berries"
+      ],
+      "instructions": [
+        "Place a sieve over a large bowl and sift in the flour and baking powder. Then, add the sugar and salt. Mix well.",
+        "Add the milk, vinegar, and vanilla and mix until just combined. Make sure to not overmix, it’s okay if a few lumps remain. Let the batter rest for 3 minutes.",
+        "Heat a non-stick crêpe pan over medium-high heat. Add oil as needed, and pour on ¼ cup of the pancake batter for each pancake.",
+        "Cook for 1 to 2 minutes, or until the top is bubbly and the bottom is golden. Then flip and cook the other side until golden. Continue with the remaining batter.",
+        "Serve with jam, maple syrup, and fruit if desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We recommend either soy or pea milk for this recipe as the high protein content is what curdles to create vegan buttermilk.",
+    "Storage The pancakes are best when enjoyed immediately. Store leftovers in an airtight container in the fridge for up to 3 days. To freeze, let the pancakes cool completely then freeze in a single layer on a baking sheet. When frozen, transfer to an airtight container. Store in the freezer for up to 2 months. Reheat on the stove or in a toaster when ready to enjoy."
+  ]
+}

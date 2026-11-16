@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/pumpkin-spice-latte-1185",
+  "recipes": [
+    {
+      "name": "Pumpkin Spice Latte",
+      "source_url": "https://www.pickuplimes.com/recipe/pumpkin-spice-latte-1185",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT05M",
+      "total_time": "PT10M",
+      "ingredients": [
+        "2 cup barista oat milk",
+        "2 Tbsp canned pumpkin purée",
+        "2 Tbsp granulated sugar",
+        "½ tsp pumpkin spice mix",
+        "⅔ cup brewed espresso",
+        "1 tsp pure vanilla extract"
+      ],
+      "instructions": [
+        "In a saucepan over medium-high heat, combine the milk, pumpkin purée, sugar, and pumpkin spice mix. Stir until heated through.",
+        "Pour the espresso into your desired cups.",
+        "Stir vanilla into the milk and divide between your cups.",
+        "Top with some foamed milk or whipped cream if desired and a sprinkle of cinnamon. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage The latte is best when enjoyed immediately."
+  ]
+}

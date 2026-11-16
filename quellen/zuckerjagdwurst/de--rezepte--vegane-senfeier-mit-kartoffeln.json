@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-senfeier-mit-kartoffeln",
+  "recipes": [
+    {
+      "name": "Vegane Senfeier mit Kartoffeln",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-senfeier-mit-kartoffeln",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-senfeier-mit-kartoffeln#recipe-a56562f0-a2d7-527c-85ee-6afae22577c9",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT105M",
+      "ingredients": [
+        "Für die veganen Eier:",
+        "250 g Seidentofu",
+        "4 EL vegane Kochsahne",
+        "25 g Reismehl",
+        "8 g Agar Agar (100 %)",
+        "1 TL Kurkuma",
+        "1 EL kaltgepresstes Rapsöl",
+        "Kala Namak",
+        "Salz",
+        "Pfeffer",
+        "Für die Senfsoße:",
+        "2 EL vegane Butter",
+        "2 EL Mehl",
+        "150 ml Gemüsebrühe",
+        "250 ml vegane Kochsahne",
+        "3 EL Senf",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "1 kg festkochende Kartoffeln",
+        "Petersilie"
+      ],
+      "instructions": [
+        "Für die veganen Eier Seidentofu mit veganer Sahne, Reismehl und Agar Agar glattpürieren. Den Mix kräftig mit Salz und Pfeffer würzen und 5 Minuten ruhen lassen. Danach zwei Esslöffel der Mischung beiseitestellen. Die restliche Mischung in einen Topf geben und 2–3 Minuten köcheln lassen, bis sie eine dickflüssige Konsistenz bekommt und Bläschen schlägt. Vom Herd nehmen, mit etwas Kala Namak würzen und direkt in circa 8 große, halbrunde Formen füllen. Danach circa 60 Minuten kalt stellen.",
+        "Kartoffeln ggf. schälen, nach Wunsch kleiner schneiden und in einem Topf mit kaltem Wasser bedecken und salzen. Circa 20 Minuten kochen, bis die Kartoffeln gar sind. Die gekühlten Seidentofu-Eier aus dem Kühlschrank nehmen, damit sie wieder auf Raumtemperatur kommen.",
+        "Für die Senfsoße vegane Butter in einem kleinen Topf schmelzen. Mehl einrühren und 1 Minute erhitzen. Dann Gemüsebrühe und vegane Sahne gründlich einrühren, damit sich keine Klümpchen bilden. Senf dazugeben und die Soße mit Salz und Pfeffer abschmecken.",
+        "Mit einem kleinen Löffel in jedes Seidentofu-Ei eine kleine Mulde für das „Eigelb“ formen. Den ausgelöffelten Seidentofu-Mix zur bereits beiseitegestellten Mischung geben und mit Kurkuma und Rapsöl nochmal glattpürieren. Mit Salz, Pfeffer und Kala Namak abschmecken und die gelbe Mischung in die Mulden füllen.",
+        "Die Eier danach entweder 2 Minuten dämpfen, damit sie wärmer und wieder weicher werden oder in der Mikrowelle erwärmen.",
+        "Die veganen Eier mit Kartoffeln, Senfsoße und Petersilie servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

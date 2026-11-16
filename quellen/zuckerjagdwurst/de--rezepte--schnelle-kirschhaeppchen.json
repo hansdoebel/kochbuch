@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-kirschhaeppchen",
+  "recipes": [
+    {
+      "name": "Schnelle vegane Kirschhäppchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-kirschhaeppchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-kirschhaeppchen#recipe-1348762c-f64f-5158-9dd6-e2351e3c663b",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "32 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT72M",
+      "ingredients": [
+        "Für die Häppchen:",
+        "375 g veganer Blätterteig",
+        "50 g gehobelte Mandeln",
+        "100 g frische Kirschen",
+        "50 g Blaubeeren",
+        "pflanzliche Milch",
+        "Kirschmarmelade (optional)",
+        "Für die Creme:",
+        "100 ml vegane Sahne zum Aufschlagen",
+        "1 TL (8 g) Vanillezucker",
+        "1 TL (8 g) Sahnesteif",
+        "150 g veganer Frischkäse (Natur)",
+        "0.5 TL gemahlene Vanille",
+        "Puderzucker",
+        "Zitronenabrieb"
+      ],
+      "instructions": [
+        "Den Ofen auf 180°C (Umluft) vorheizen. Den Blätterteig in 4x8 cm große Streifen schneiden und auf einem mit Backpapier ausgelegten Backblech platzieren. Die Blätterteig-Streifen mit pflanzlicher Milch bestreichen und mit gehobelten Mandeln belegen.",
+        "Die Blätterteigstreifen ca. 10-12 Minuten backen, bis sie goldbraun sind.",
+        "In der Zwischenzeit die Kirschen entkernen und vierteln bzw. achteln und die Blaubeeren in feine Spalten schneiden.",
+        "Für die Creme vegane Sahne mit Vanillezucker und Sahnesteif aufschlagen und mit veganem Frischkäse vermengen. Mit gemahlener Vanille, Puderzucker und Zitronenabrieb abschmecken und die Creme in einem Spritzbeutel kaltstellen.",
+        "Sobald die Blätterteig-Streifen abgekühlt sind, optional mit Kirschmarmelade bestreichen und die Creme danach schlangenförmig aufspritzen. Mit Kirschen und Blaubeeren dekorieren und am besten sofort servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

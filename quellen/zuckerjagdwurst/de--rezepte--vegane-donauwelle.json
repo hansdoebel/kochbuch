@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-donauwelle",
+  "recipes": [
+    {
+      "name": "Vegane Donauwelle",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-donauwelle",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-donauwelle#recipe-d1e5c118-2a0f-509d-91d6-04c5db81a75f",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT240M",
+      "ingredients": [
+        "Für den hellen & dunklen Teig:",
+        "450 g Mehl",
+        "340 g Zucker",
+        "500 ml Sprudelwasser",
+        "100 ml pflanzliches Öl (Raps- oder Sonnenblumenöl)",
+        "1 Pck Backpulver",
+        "2 Pck Vanillezucker",
+        "20 g Kakaopulver",
+        "1 EL Sojamilch",
+        "300 g Schattenmorellen",
+        "Für die Buttercreme:",
+        "2 Pck (ca. 80 g) Vanille-Puddingpulver",
+        "80 g Zucker",
+        "1 l Sojamilch",
+        "250 g pflanzliche Butter",
+        "Für die Schokoladenschicht:",
+        "200 g Zartbitterschokolade",
+        "2 EL Kokosöl"
+      ],
+      "instructions": [
+        "Zutaten für den Teig bereitlegen: Mehl, Zucker, Backpulver und Vanillezucker verrühren. Sprudelwasser und pflanzliches Öl dazugeben und in einer großen Schüssel verrühren.",
+        "Eine Backform mit den Maßen 28x28 cm einfetten und mit Mehl ausklopfen. Zwei Drittel des Teiges hineinfüllen.",
+        "In den restlichen Teig in der Schüssel Kakaopulver und die Sojamilch rühren. Den Schokoladenteig nun auf den hellen gleichmäßig Teig gießen.",
+        "Die Schattenmorellen in ein Sieb geben und etwas abtropfen lassen. Anschließend vollständig auf dem Schokoladenteig verteilen.",
+        "Bei 180°C (Umluft) für 60 Minuten backen und anschließend komplett abkühlen lassen.",
+        "Das Puddingpulver nach Packungsanweisung zubereiten. Komplett abkühlen lassen.",
+        "Tipp: Wenn ihr den Pudding mit Frischhaltefolie so abdeckt, dass die Folie den Pudding berührt, bildet sich keine Puddinghaut.",
+        "Die vegane Butter mit einem Rührgerät fluffig schlagen. Das kann circa 10 Minuten dauern. Den kalten Pudding gegebenenfalls pürieren und nach und nach dazugeben und zu einer Creme vermengen. Die Puddingcreme auf dem erkalteten Kuchen verteilen und wieder kalt stellen.",
+        "Für die Schokoladenschicht die Zartbitterschokolade in einem Wasserbad erhitzen und das Kokosöl dazugeben. Auf Raumtemperatur abkühlen lassen und die geschmolzene Schokolade gleichmäßig auf dem Kuchen verteilen. Mindestens 2 Stunden vor dem Servieren kalt stellen.",
+        "Tipp: Für das Wellenmuster könnt ihr eine Kuchenkarte oder ein Brotmesser vermenden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

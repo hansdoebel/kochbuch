@@ -1,0 +1,163 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/ppang",
+  "recipes": [
+    {
+      "name": "Fluffy white bread (ppang) 빵",
+      "source_url": "https://www.maangchi.com/recipe/ppang",
+      "recipe_id": "/recipe/ppang#sso/recipe/92642",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "Two loaves of bread",
+      "prep_time": "P0DT3H25M0S",
+      "cook_time": "P0DT0H30M0S",
+      "total_time": "P0DT4H45M0S",
+      "ingredients": [
+        "¼ cup unsalted butter",
+        "1½ cup cold milk (whole or skim milk)",
+        "¼ cup sugar",
+        "1 package of instant or active dry yeast (2¼ teaspoons)",
+        "1½ teaspoons kosher salt",
+        "2 eggs",
+        "4 cups all purpose wheat flour (or bread flour) plus for more for dusting (here’s the brand I like to use)"
+      ],
+      "instructions": [
+        "Melt the butter in a large pot over medium heat. Remove from the heat and add the milk and sugar. Stir well until the sugar has dissolved.",
+        "Add the yeast and let stand for 5 to 10 minutes until everything is foamy.",
+        "Add the salt and the eggs. Mix well with a whisk, until the mixture is smooth and even.",
+        "Add the flour and mix with a wooden spoon until the dough comes together. Knead the dough by hand for about 4 to 5 minutes until smooth and elastic.",
+        "Cover and let it rise for 2 hours at room temperature until double in size.",
+        "Transfer the dough to a floured work surface and divide into 2 equal pieces.",
+        "Knead each piece to remove air bubbles and shape into a ball.",
+        "Flatten one of the dough balls with your hands or with a rolling pin into roughly a 7” x 6” rectangle. Roll it up to a log and place into a greased loaf pan. I use my 2 non-stick 8½” x 4½” x 2¾” loaf pans, which don’t need grease.",
+        "Do the same thing with the other dough ball.",
+        "Allow the dough to rise for 1 hour, or until it rises 1 inch above the top of the loaf pans.",
+        "Preheat the oven to 350° F. Bake the bread for about 25 to 30 minutes on the middle rack until light brown.",
+        "Remove from the heat and enjoy!",
+        "Store the bread in a plastic bags or airtight containers in the fridge up to 1 week, or freeze up to a month."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Makes 2 loaves of bread."
+        },
+        {
+          "tag": "p",
+          "text": "I use these nonstick baking pans, and this is the flour I like to use."
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup unsalted butter"
+        },
+        {
+          "tag": "li",
+          "text": "1½ cup cold milk (whole or skim milk)"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup sugar"
+        },
+        {
+          "tag": "li",
+          "text": "1 package of instant or active dry yeast (2¼ teaspoons)"
+        },
+        {
+          "tag": "li",
+          "text": "1½ teaspoons kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "2 eggs"
+        },
+        {
+          "tag": "li",
+          "text": "4 cups all purpose wheat flour (or bread flour) plus for more for dusting (here’s the brand I like to use)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Make dough:"
+        },
+        {
+          "tag": "li",
+          "text": "Melt the butter in a large pot over medium heat. Remove from the heat and add the milk and sugar. Stir well until the sugar has dissolved."
+        },
+        {
+          "tag": "li",
+          "text": "Add the yeast and let stand for 5 to 10 minutes until everything is foamy."
+        },
+        {
+          "tag": "li",
+          "text": "Add the salt and the eggs. Mix well with a whisk, until the mixture is smooth and even."
+        },
+        {
+          "tag": "li",
+          "text": "Add the flour and mix with a wooden spoon until the dough comes together. Knead the dough by hand for about 4 to 5 minutes until smooth and elastic."
+        },
+        {
+          "tag": "li",
+          "text": "Cover and let it rise for 2 hours at room temperature until double in size."
+        },
+        {
+          "tag": "h3",
+          "text": "Shaping:"
+        },
+        {
+          "tag": "li",
+          "text": "Transfer the dough to a floured work surface and divide into 2 equal pieces."
+        },
+        {
+          "tag": "li",
+          "text": "Knead each piece to remove air bubbles and shape into a ball."
+        },
+        {
+          "tag": "li",
+          "text": "Flatten one of the dough balls with your hands or with a rolling pin into roughly a 7” x 6” rectangle. Roll it up to a log and place into a greased loaf pan. I use my 2 non-stick 8½” x 4½” x 2¾” loaf pans, which don’t need grease."
+        },
+        {
+          "tag": "li",
+          "text": "Do the same thing with the other dough ball."
+        },
+        {
+          "tag": "li",
+          "text": "Allow the dough to rise for 1 hour, or until it rises 1 inch above the top of the loaf pans."
+        },
+        {
+          "tag": "h3",
+          "text": "Baking:"
+        },
+        {
+          "tag": "li",
+          "text": "Preheat the oven to 350° F. Bake the bread for about 25 to 30 minutes on the middle rack until light brown."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and enjoy!"
+        },
+        {
+          "tag": "h3",
+          "text": "How to store bread:"
+        },
+        {
+          "tag": "li",
+          "text": "Store the bread in a plastic bags or airtight containers in the fridge up to 1 week, or freeze up to a month."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

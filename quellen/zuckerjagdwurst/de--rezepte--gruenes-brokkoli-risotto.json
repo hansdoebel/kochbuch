@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gruenes-brokkoli-risotto",
+  "recipes": [
+    {
+      "name": "Grünes Brokkoli-Risotto",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gruenes-brokkoli-risotto",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gruenes-brokkoli-risotto#recipe-c86d9397-1809-5410-b43f-ce87e5220387",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "250 g Risottoreis",
+        "5 EL vegane Butter",
+        "3 Schalotten",
+        "1 Knoblauchzehe",
+        "200 ml veganer Weißwein",
+        "500 ml Gemüsebrühe",
+        "50 g Brokkoliröschen",
+        "Salz",
+        "Pfeffer",
+        "Grünes Brokkoli-Pesto",
+        "200 g Brokkoli (roh oder blanchiert)",
+        "25 g Petersilie",
+        "25 g Basilikum",
+        "30 g Pinienkerne",
+        "30 g Walnüsse",
+        "3 EL veganer Parmesan",
+        "1 TL weiße Misopaste",
+        "2 Knoblauchzehen",
+        "200 ml Olivenöl",
+        "1/2 Zitrone (Saft)",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Brokkoli, Petersilie, Basilikum, Pinienkerne, Walnüsse, Misopaste, Knoblauchzehen, veganen Parmesan oder Hefeflocken, Olivenöl und Zitronensaft in einen Zerkleinerer geben, kräftig mit Salz und Pfeffer würzen und zu einem cremigen Pesto vermengen. Nach Geschmack nachwürzen.",
+        "Schalotten und Knoblauch schälen und fein würfeln. Vegane Butter in einem großen Topf zerlassen und die Schalotten und den Knoblauch darin ca. 4-5 Minuten anschwitzen.",
+        "Den Risotto-Reis dazugeben und auf niedriger Flamme mit anschwitzen, bis der Reis leicht glasig wird, das dauert etwa 5-7 Minuten. Den Reis immer wieder verrühren, damit er nicht anröstet.",
+        "Mit veganem Weißwein ablöschen und auf mittlerer Hitze köcheln lassen, bis der Weißwein komplett vom Reis aufgesogen wurde.",
+        "Jetzt Gemüsebrühe nach und nach hinzugeben. Gebt nur so viel dazu, bis der Reis bedeckt ist und wartet ab, bis die Flüssigkeit aufgesorgen wurde, bevor ihr mehr Brühe dazugebt. So oft wiederholen, bis die Gemüsebrühe aufgebraucht und der Risottoreis gar, aber noch leicht bissfest ist, das dauert ca. 20 Minuten.",
+        "In der Zwischenzeit restliche Brokkoliröschen in einer Pfanne mit Pflanzenöl scharf anbraten und mit Salz und Pfeffer würzen.",
+        "Wenn das Risotto fertig ist, vom Herd nehmen und 4 gehäufte Esslöffel Pesto unterrühren. Nach Geschmack noch mehr veganen Parmesan und vegane Butter unterrühren und nochmals mit Salz und Pfeffer abschmecken. Den Risotto mit gebratenen Brokkoliröschen servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

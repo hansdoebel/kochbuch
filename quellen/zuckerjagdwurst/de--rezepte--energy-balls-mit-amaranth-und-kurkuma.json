@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/energy-balls-mit-amaranth-und-kurkuma",
+  "recipes": [
+    {
+      "name": "Energy Balls",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/energy-balls-mit-amaranth-und-kurkuma",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/energy-balls-mit-amaranth-und-kurkuma#recipe-780bfd9e-55a7-5e56-80b9-22b9c6581977",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "15 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "100 g Datteln",
+        "50 g Amaranth (gepufft)",
+        "20 g Cocoa Nibs",
+        "20 g Haselnüsse",
+        "2 EL Kakaopulver",
+        "1 EL Kokosöl",
+        "1 EL gemahlene Mandeln",
+        "1 EL Reissirup",
+        "1 TL Kurkuma",
+        "1 Prise Salz",
+        "½ TL Zitronenabrieb"
+      ],
+      "instructions": [
+        "Datteln, Amaranth, Cocoa Nibs und Haselnüsse in einen Zerkleinerer geben und ca. 2 - 3 Minuten zerkleinern, bis eine stückige klebrige Masse entsteht.",
+        "Kakaopulver, Kokosöl, gemahlene Mandeln, Reissirup, Kurkuma, Salz und Zitronenabrieb dazugeben und nochmal ca. 1 - 2 Minuten vermengen, bis eine einheitliche Masse entsteht.",
+        "Nun könnt ihr die Masse zu kleinen Bällchen formen und nach Belieben auch noch in Kakaopulver, Kokosraspeln oder gehackten/gemahlenen Nüssen wälzen. Im Kühlschrank lagern."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

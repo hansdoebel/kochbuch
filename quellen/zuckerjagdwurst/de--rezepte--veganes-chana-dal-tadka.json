@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-chana-dal-tadka",
+  "recipes": [
+    {
+      "name": "Veganes Chana Dal Tadka",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-chana-dal-tadka",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-chana-dal-tadka#recipe-3d59f786-0af5-5b69-95e4-d81cdd182c17",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Personen (ohne Reis) oder 4 Personen (mit Reis)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für das Dal:",
+        "200 g geschälte, halbierte Kichererbsen (Chana Dal)",
+        "1 Liter Wasser",
+        "1 TL Kurkuma",
+        "Salz",
+        "Für das Tadka:",
+        "3 Knoblauchzehen",
+        "20 g Ingwer",
+        "1 kleine Zwiebel",
+        "1 Tomate",
+        "1 grüne Chili",
+        "3 EL Kokosöl",
+        "1 EL Erdnussöl (oder Sonnenblumenöl)",
+        "1 EL Kreuzkümmelsamen",
+        "1 TL gemahlener Koriander",
+        "0.5 TL Kurkuma",
+        "1 Lorbeerblatt",
+        "1 TL getrocknete Chiliflocken",
+        "Salz",
+        "Zum Servieren:",
+        "Koriander",
+        "Reis"
+      ],
+      "instructions": [
+        "Die trockenen Kichererbsen in ein feines Sieb geben und unter Wasser abspülen, bis das Wasser klar ist. Danach mit frischem Wasser, Kurkuma und einer Prise Salz in einen Topf geben. Das Wasser einmal aufkochen lassen, dann die Temperatur reduzieren und das Chana Dal mit halb aufgesetztem Deckel ca. 30-40 Minuten köcheln lassen, bis die Kichererbsen weich sind. Mir kocht das Wasser stets über, wenn ich den Deckel komplett schließe, daher lege ich ihn nur noch so halb auf den Topf. Das kann dafür sorgen, dass etwas zu viel vom Wasser verdampft, gebt zur Not also erneut Wasser dazu, wenn das Dal zu trocken werden sollte.",
+        "In der Zwischenzeit das Tadka zubereiten. Knoblauchzehen schälen und in dünne Scheiben schneiden. Ingwer (gern auch ungeschält) reiben. Zwiebel schälen und fein würfeln, die Tomate ebenfalls klein schneiden (das flüssige Innere dabei unbedingt behalten). Die grüne Chili entkernen und fein hacken. Wer nicht gern scharf ist, kann die grüne Chili aber auch weglassen.",
+        "Kokosöl und Erdnussöl in einem kleinen Topf oder einer tiefen Pfanne erhitzen, bis es heiß ist. Zuerst die ganzen Kreuzkümmelsamen dazugeben und ca. 30 Sekunden anrösten, bis sie förmlich durchs Öl springen. Danach die geschnittene Zwiebel, geriebenen Ingwer, Chili und Knoblauchscheiben dazugeben und gemeinsam ca. 4-5 Minuten anschwitzen, bis der Knoblauch leicht gebräunt ist. Nun die Tomate, gemahlenen Koriander, Kurkuma, eine Prise Salz und das Lorbeerblatt dazugeben und alles zusammen weitere 4-5 Minuten erhitzen. Zum Schluss die getrockneten Chiliflocken dazugeben und das Tadka nur noch 1 Minute auf dem Herd lassen. Anschließend die Hitze ausschalten und warten, bis das Chana Dal fertig gekocht ist.",
+        "Sobald die Kichererbsen weich sind, mit einem Stampfer oder einem Kochlöffel teilweise zerdrücken, damit das Dal richtig schön cremig wird. Den Großteil vom Tadka zum Dal geben und vorsichtig unterrühren, ihr müsst es aber nicht komplett vermengen.",
+        "Das Dal in Schüsseln oder tiefen Tellern servieren und noch etwas vom restlichen Tadka und gehackten frischen Koriander darüber verteilen. Wer mag, kann dazu Reis essen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

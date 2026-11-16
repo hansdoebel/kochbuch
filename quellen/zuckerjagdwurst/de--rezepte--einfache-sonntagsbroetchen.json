@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/einfache-sonntagsbroetchen",
+  "recipes": [
+    {
+      "name": "Einfache Sonntagsbrötchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/einfache-sonntagsbroetchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/einfache-sonntagsbroetchen#recipe-9eb20917-d50a-51ea-b895-8a140fd0af06",
+      "authors": [
+        "Nele Riese"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Brötchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT545M",
+      "ingredients": [
+        "Für die Brötchen:",
+        "10 g frische Hefe",
+        "350 g lauwarmes Wasser",
+        "1 TL Zucker",
+        "370 g Weizenmehl (Type 550)",
+        "100 g Weizenvollkornmehl",
+        "10 g Salz",
+        "1-2 EL Olivenöl",
+        "Außerdem:",
+        "Kürbiskerne (optional)",
+        "Sonnenblumenkerne (optional)",
+        "Walnüsse (optional)"
+      ],
+      "instructions": [
+        "Hefe mit den Fingern zerbröseln und zusammen mit Zucker und lauwarmem Wasser in eine Schüssel geben, verrühren und kurz stehen lassen.",
+        "Weizenmehl, Weizenvollkornmehl und Salz dazugeben und alles mit einem Löffel zu einem Teig verrühren.",
+        "Eine Dose oder Auflaufform mit etwas Olivenöl einpinseln und den Teig hineingeben und gleichmäßig verteilen. Mit Frischhaltefolie bedecken und 8-12 Stunden im Kühlschrank gehen lassen.",
+        "Am nächsten Morgen den Teig herausholen und auf eine bemehlte Arbeitsfläche legen. Mit der Rückseite eines Messers oder einer Teigkarte den Teig in 8 Teile teilen. Eine Portion Teig etwas plattdrücken, optional Nüsse oder Kerne darauf verteilen und die gegenüberliegenden Ecken in der Mitte übereinanderlegen und anschließend auf ein Backpapier legen. Optional erneut Kerne darauf verteilen.",
+        "Sobald alle Brötchen geformt sind, den Backofen mit Blech auf 240 °C (Ober-/Unterhitze) vorheizen. (So haben die Brötchen noch kurz Zeit zu gehen.) Eine ofenfeste Schale mit Wasser vorbereiten.",
+        "Sobald der Ofen heiß ist, die Teiglinge samt Backpapier auf das heiße Blech legen. Die ofenfeste Schale mit Wasser auf den Boden des Ofens stellen, etwas Wasser in den heißen Ofen kippen, sodass etwas Dampf entsteht, Ofentür schnell schließen und die Brötchen circa 25 Minuten backen, bis sie goldbraun sind."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

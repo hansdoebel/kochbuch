@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-yogurette",
+  "recipes": [
+    {
+      "name": "Vegane Yogurette",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-yogurette",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-yogurette#recipe-9ed6c4ca-a990-5059-ad64-303005f78b76",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "10 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "200 g Zartbitterschokolade",
+        "5 TL Kokosöl",
+        "100 g vegane weiße Schokolade",
+        "2 EL Kakaobutter",
+        "2.5 EL Mandelgrieß",
+        "2-3 TL Erdbeermarmelade",
+        "10 g gefriergetrocknete Erdbeerstücke"
+      ],
+      "instructions": [
+        "Zartbitterschokolade in kleine Stücke schneiden und zusammen mit dem Kokosöl über einem Wasserbad schmelzen. Die Schokolade sollte sehr dünnflüssig sein, damit der Schokoladenmantel nicht zu dick wird.",
+        "Etwa drei Viertel der Zartbitterschokolade auf eure Form verteilen, damit die Ränder damit bedeckt sind. Anschließend die Form umdrehen, damit die überflüssige Schokolade herauslaufen kann. Diese könnt ihr auch auffangen und später für die obere Schicht verwenden. Die Form ins Gefrierfach stellen.",
+        "Gefriergetrocknete Erdbeerstücke klein hacken und beiseitestellen. Vegane weiße Schokolade in kleine Stücke schneiden und und zusammen mit der Kakaobutter ebenfalls über dem Wasserbad schmelzen. Die Erdbeermarmelade dazugeben und verrühren. Anschließend die Schüssel vom Herd nehmen und das Mandelmehl und die gefriergetrockneten Erdbeerstücke unterheben. Nach Geschmack auch mehr Erdbeermarmelade dazugeben.",
+        "Die Form aus dem Gefrierschrank nehmen und die Füllung in die Formen geben. Erneut ca. 10 Min. in den Kühlschrank stellen und in der Zwischenzeit falls nötig die Zartbitterschokolade erneut schmelzen. Eine dünne Schokoladenschicht auf den Riegeln verteilen und im Kühlschrank oder Gefrierschrank abkühlen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

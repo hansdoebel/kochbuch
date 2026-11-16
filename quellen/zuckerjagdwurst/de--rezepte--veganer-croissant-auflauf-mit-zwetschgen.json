@@ -1,0 +1,38 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-croissant-auflauf-mit-zwetschgen",
+  "recipes": [
+    {
+      "name": "Veganer Croissant-Auflauf mit Zwetschgen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-croissant-auflauf-mit-zwetschgen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-croissant-auflauf-mit-zwetschgen#recipe-6ea9aec5-97ca-5abd-9f3e-305429b4ef7e",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "500 g veganer Croissant-Fertigteig",
+        "150 g Pflaumenmus",
+        "150 g Zwetschgen / Pflaumen",
+        "20 g Mandelstifte",
+        "neutrales Pflanzenöl zum Einfetten"
+      ],
+      "instructions": [
+        "Den Ofen auf 180 °C (Umluft) vorheizen. Den veganen Croissant-Teig aus der Packung nehmen und an den Markierungen zurechtschneiden. Mit Pflaumenmus bestreichen, von der breiten Seite beginnend eng aufrollen und zu Croissants formen.",
+        "Eine gusseiserne Pfanne (Ø 25 cm) mit Pflanzenöl ausstreichen und die Croissants nebeneinander auffächern. Die Pfanne in den Ofen stellen und bei 180 °C ca. 5 Minuten backen, bis sie leicht aufgegangen sind.",
+        "In der Zwischenzeit Zwetschgen entkernen und in Würfel schneiden.",
+        "Die Auflaufform kurz aus dem Ofen nehmen, Zwetschgenwürfel und gestiftelte Mandeln über den Croissants verteilen und nochmals ca. 5 Minuten backen. Danach den Auflauf mit Alufolie abdecken, damit er nicht zu dunkel wird, und weitere 15-20 Minuten backen, bis die Croissants durchgebacken sind. Den Auflauf aus dem Ofen nehmen und noch warm servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

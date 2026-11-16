@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-stollen-cake-pops",
+  "recipes": [
+    {
+      "name": "Vegane & glutenfreie Stollen Cake Pops",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-stollen-cake-pops",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-stollen-cake-pops#recipe-aba50d60-6f15-528d-bf8f-30d02252164e",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Cake Pops (+60 minutes waiting time)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "250 g veganer und glutenfreier Stollen (z.B. Böcker Stollen)",
+        "2 EL pflanzliche Milch",
+        "Zusätzliches",
+        "200 g dunkle Schokolade",
+        "12 Cake Pop Stiele",
+        "50 g gehackte Pistazien / Nüsse"
+      ],
+      "instructions": [
+        "Die dunkle Schokolade in einem Wasserbald schmelzen.",
+        "Nebenbei den veganen Stollen mit den Händen zerbröseln und die pflanzliche Milch hinzugeben und gut unterkneten.",
+        "12 Bällchen aus der Masse formen. 12 Stiele etwa 1 cm tief in die flüßige Schokolade tunken und in die Bällchen drücken. So halten die Stiele besser.",
+        "Die Bällchen für 30-60 Minuten in den Gefrierschank stellen. Der Kühlschrank ist im äußersten Notfall auch in Ordnung.",
+        "Falls notwendig die Schokolade nochmal erwärmen und die Cake Pops vorsichtig mit der Schokolade ummanteln.",
+        "Die Cake Pops 5 Minuten abtropfen lassen und im Anschluss mit gehackten Pistazien oder Nüssen dekorieren.",
+        "Die Cake Pops in einem Glas oder Pappkarton (die Cake Pops durch die Pappwand drücken) platzieren und trocknen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

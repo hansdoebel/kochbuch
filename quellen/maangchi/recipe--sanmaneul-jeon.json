@@ -1,0 +1,156 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/sanmaneul-jeon",
+  "recipes": [
+    {
+      "name": "Ramp pancakes (Sanmaneul-jeon)",
+      "source_url": "https://www.maangchi.com/recipe/sanmaneul-jeon",
+      "recipe_id": "/recipe/sanmaneul-jeon#sso/recipe/36053",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 ounces (about 25 grams) ramps, rinsed and pat-dried",
+        "½ cup broccoli flowers or edible flowers (optional)",
+        "1 cup chicken broth",
+        "¾ cup all purpose flour",
+        "½ teaspoon kosher salt",
+        "vegetable oil",
+        "2 tablespoons soy sauce",
+        "1 tablespoon white vinegar",
+        "1 teaspoon sugar",
+        "¼ cup worth onion, cut into small chunks",
+        "1 jalapeño pepper, chopped",
+        "1 teaspoon toasted sesame seeds"
+      ],
+      "instructions": [
+        "Combine soy sauce, vinegar, sugar in a small bowl. Mix well.",
+        "Add onion, pepper, and sesame seeds and mix altogether. Set aside.",
+        "Combine flour, chicken broth, and salt in a bowl. Mix it well until there are no lumps.",
+        "Heat up a pan over medium high heat. Drizzle about 2 tablespoons vegetable oil into the pan and and swirl it around to spread. Lower the heat to medium.",
+        "Pour 2/3 of the batter into the pan and spread it to a large, thin 12 inch pancake.",
+        "Lay the ramps on the batter one by one.",
+        "Drizzle the leftover third of the batter over the ramps. Add broccoli flowers over top. Let it cook for a few minutes until the bottom turns crispy. You should be able to hear a crispy sound when you shake the pan. Flip it over or turn it over with a spatula.",
+        "Add more vegetable oil on the edge of the pan. Lift the pancake so that the oil reaches the center of the pancake. Press it down with the spatula and let it cook for another 3 to 4 minutes until crispy.",
+        "Transfer to a large plate and serve hot with the pickle sauce."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "1 ounces (about 25 grams) ramps, rinsed and pat-dried"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup broccoli flowers or edible flowers (optional)"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup chicken broth"
+        },
+        {
+          "tag": "li",
+          "text": "¾ cup all purpose flour"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "vegetable oil"
+        },
+        {
+          "tag": "h3",
+          "text": "For the pickle sauce (optional but recommended!):"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon white vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon sugar"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup worth onion, cut into small chunks"
+        },
+        {
+          "tag": "li",
+          "text": "1 jalapeño pepper, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon toasted sesame seeds"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Make the pickle sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "Combine soy sauce, vinegar, sugar in a small bowl. Mix well."
+        },
+        {
+          "tag": "li",
+          "text": "Add onion, pepper, and sesame seeds and mix altogether. Set aside."
+        },
+        {
+          "tag": "h3",
+          "text": "Make the pancakes:"
+        },
+        {
+          "tag": "li",
+          "text": "Combine flour, chicken broth, and salt in a bowl. Mix it well until there are no lumps."
+        },
+        {
+          "tag": "li",
+          "text": "Heat up a pan over medium high heat. Drizzle about 2 tablespoons vegetable oil into the pan and and swirl it around to spread. Lower the heat to medium."
+        },
+        {
+          "tag": "li",
+          "text": "Pour 2/3 of the batter into the pan and spread it to a large, thin 12 inch pancake."
+        },
+        {
+          "tag": "li",
+          "text": "Lay the ramps on the batter one by one."
+        },
+        {
+          "tag": "li",
+          "text": "Drizzle the leftover third of the batter over the ramps. Add broccoli flowers over top. Let it cook for a few minutes until the bottom turns crispy. You should be able to hear a crispy sound when you shake the pan. Flip it over or turn it over with a spatula."
+        },
+        {
+          "tag": "li",
+          "text": "Add more vegetable oil on the edge of the pan. Lift the pancake so that the oil reaches the center of the pancake. Press it down with the spatula and let it cook for another 3 to 4 minutes until crispy."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer to a large plate and serve hot with the pickle sauce."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/erbsensuppe-mit-veganen-wuerstchen-5-zutaten",
+  "recipes": [
+    {
+      "name": "Erbsensuppe mit veganen Würstchen (mit 5 Zutaten)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/erbsensuppe-mit-veganen-wuerstchen-5-zutaten",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/erbsensuppe-mit-veganen-wuerstchen-5-zutaten#recipe-01ad15af-091c-5d6c-a4d3-5806fa84a4fb",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen (oder 4 kleine Portionen)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "2 Zwiebeln",
+        "450 g Tiefkühl-Erbsen",
+        "300 ml Gemüsebrühe",
+        "150 g vegane Crème fraîche",
+        "150 g vegane Wiener Würstchen",
+        "Pflanzenöl",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Die Zwiebeln schälen, grob zerkleinern und in einem Topf mit Pflanzenöl anschwitzen, bis sie glasig sind. Die tiefgekühlten Erbsen hinzugeben und ca. 3-4 Minuten mitbraten.",
+        "Die Erbsen mit Gemüsebrühe ablöschen und ca. 5 Minuten kochen, bis sie weich sind. Die Suppe pürieren und vegane Crème fraîche unterrühren. Mit Salz und Pfeffer abschmecken.",
+        "Die veganen Würstchen in Scheiben schneiden und ca. 3-4 Minuten in der Suppe erwärmen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

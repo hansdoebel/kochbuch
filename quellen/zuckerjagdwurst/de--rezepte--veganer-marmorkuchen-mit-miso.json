@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-marmorkuchen-mit-miso",
+  "recipes": [
+    {
+      "name": "Veganer Marmorkuchen mit Miso",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-marmorkuchen-mit-miso",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-marmorkuchen-mit-miso#recipe-57b9c8cf-8747-5583-ac3a-2e3543b6f26f",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (26 x 11 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT105M",
+      "ingredients": [
+        "Für den Grundteig:",
+        "400 g Weizenmehl (Type 405)",
+        "10 g Speisestärke",
+        "200 g Zucker",
+        "16 g Backpulver",
+        "8 g Vanillezucker",
+        "0.5 TL Salz",
+        "150 ml pflanzliche Milch",
+        "100 ml frisch aufgebrühter Lupinenkaffee (z. B. von Loffee)",
+        "40 g Apfelmus",
+        "250 ml neutrales Pflanzenöl",
+        "Für den mitteldunklen Teig:",
+        "2 EL Lupinenkaffeepulver",
+        "1 EL helle Misopaste",
+        "Für den dunklen Teig:",
+        "1 EL Backkakao",
+        "1 EL helle Misopaste",
+        "Für die Tahin-Sahne:",
+        "200 ml vegane Sahne zum Aufschlagen",
+        "8 g Sahnesteif",
+        "8 g Vanillezucker",
+        "2 EL Tahin",
+        "Für das Topping:",
+        "weißer Sesam"
+      ],
+      "instructions": [
+        "Lupinenkaffee frisch aufbrühen und kurz abkühlen lassen. Mehl, Speisestärke, Zucker, Backpulver, Vanillezucker und Salz in einer großen Schüssel vermengen.",
+        "Pflanzliche Milch, abgekühlten Lupinenkaffee, Apfelmus und neutrales Öl ebenfalls hinzugeben und zu einem glatten Teig verrühren.",
+        "Den Teig in drei gleiche Portionen (je circa 360–380 Gramm) aufteilen. Eine Portion so lassen, wie sie ist. In die zweite Schüssel Lupinenkaffeepulver und helle Misopaste einrühren (mitteldunkler Teig). In die dritte Portion Backkakao und helle Misopaste einrühren (dunkler Teig).",
+        "Eine Kastenform (26 x 11 Zentimeter) einfetten und den Ofen auf 180 °C (Umluft) vorheizen. Zuerst den dunklen Teig gleichmäßig in die Form geben und glatt streichen. Anschließend den mitteldunklen Teig vorsichtig darüber verteilen und ebenfalls glatt streichen. Zum Schluss den hellen Teig als oberste Schicht einfüllen und glatt streichen.",
+        "Den Kuchen circa 60 Minuten backen, Stäbchenprobe machen und bei Bedarf nach 45 Minuten mit Alufolie abdecken. Vollständig abkühlen lassen.",
+        "In der Zwischenzeit die vegane Sahne mit Sahnesteif und Vanillezucker aufschlagen und den Tahin unterheben. Die Sahne bis zum Servieren kaltstellen.",
+        "In einer Pfanne ohne Öl Sesam rösten, bis er goldbraun wird. Den Kuchen in Scheiben schneiden und mit Sesam-Sahne und geröstetem Sesam servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

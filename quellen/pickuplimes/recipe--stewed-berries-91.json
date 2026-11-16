@@ -1,0 +1,35 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/stewed-berries-91",
+  "recipes": [
+    {
+      "name": "Stewed Berries",
+      "source_url": "https://www.pickuplimes.com/recipe/stewed-berries-91",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "½ cup frozen raspberries",
+        "½ cup frozen blueberries"
+      ],
+      "instructions": [
+        "Stovetop directions: place the frozen fruit in a saucepan over medium heat, stirring occasionally. The fruits will begin to thaw and release their juices. When heated through, remove from the heat.",
+        "Microwave directions: in a microwave-safe bowl, heat the frozen fruit at 600W for 1 minute, then stir. Return to the microwave and continue at 30-second increments. If desired, mash with a fork so more juices seep out but some chunks remain. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 1 day."
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gefuellte-pizzarolle-stromboli-mit-veganer-salami-und-pfefferonen",
+  "recipes": [
+    {
+      "name": "Gefüllte Pizzarolle (aka Stromboli) mit veganer Salami und Pfefferonen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gefuellte-pizzarolle-stromboli-mit-veganer-salami-und-pfefferonen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gefuellte-pizzarolle-stromboli-mit-veganer-salami-und-pfefferonen#recipe-9c97854f-1591-5435-9a9b-f1c3a57d4a93",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen (als Snack)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Für den Teig:",
+        "250 g Weizenmehl (Type 405)",
+        "1 TL Trockenhefe",
+        "1 TL Salz",
+        "150 ml Wasser",
+        "1 EL Olivenöl",
+        "Für die Füllung:",
+        "1 Packung vegane Salami Chorizo-Style von Billie Green (7 Scheiben)",
+        "50–75 g veganer Reibekäse",
+        "8 Scheiben veganer Scheibenkäse",
+        "3 Pfefferonen",
+        "Für die Knoblauchbutter:",
+        "75 g vegane Butter (zimmerwarm)",
+        "2 Knoblauchzehen",
+        "Salz",
+        "Für den Marinara-Dip:",
+        "1 Zwiebel",
+        "2 EL Olivenöl oder vegane Butter",
+        "400 g stückige Tomaten aus der Dose",
+        "Salz",
+        "Pfeffer",
+        "Zucker",
+        "frischer oder getrockneter Basilikum",
+        "Außerdem:",
+        "getrockneter Oregano"
+      ],
+      "instructions": [
+        "Zunächst den Hefeteig zubereiten: Dafür Mehl, Trockenhefe und Salz in einer großen Schüssel vermengen. Wasser und Olivenöl dazugeben und den Teig mindestens 5 Minuten zu einem weichen und glatten Teig verkneten – am besten mit einer Küchenmaschine oder einem Handrührgerät. Den Teig in eine leicht eingeölte Schüssel geben und mit einem feuchten Geschirrtuch abdecken. Entweder mindestens 30 Minuten an einem warmen Ort gehen lassen, bis sich das Teigvolumen in etwa verdoppelt hat, oder über Nacht in den Kühlschrank stellen.",
+        "In der Zwischenzeit eine Zwiebel fein würfeln und in Olivenöl anschwitzen. Die stückigen Tomaten aus der Dose dazugeben und mit Salz, Pfeffer und Zucker abschmecken. Danach einköcheln lassen, bis die Pizzarolle fertig ist. Zum Schluss gehackten Basilikum dazugeben.",
+        "Die zimmerwarme vegane Butter mit gehacktem Knoblauch und etwas Salz vermengen. Den Ofen auf 200 °C (Umluft) vorheizen.",
+        "Den Hefeteig zu einem Rechteck (circa 25 x 35 Zentimeter) ausrollen. Danach zwei Drittel von der Knoblauchbutter auf dem Hefeteig verstreichen. Den Hefeteig mit veganen Salami- und Käsescheiben sowie Streukäse und Pfefferonen belegen, aber nach oben hin 2–3 Zentimeter vom Rand freilassen.",
+        "Den Teig von der langen Seite ohne Rand eng aufrollen und gut verschließen. Danach mit der restlichen Knoblauchbutter bestreichen und mit getrocknetem Oregano bestreuen. Die Rolle oben mehrmals einschneiden.",
+        "Die Pizzarolle bei 200 °C (Umluft) 25–30 Minuten backen, bis sie goldbraun ist. Mit Dip servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

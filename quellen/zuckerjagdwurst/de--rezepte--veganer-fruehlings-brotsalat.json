@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-fruehlings-brotsalat",
+  "recipes": [
+    {
+      "name": "Veganer Frühlings-Brotsalat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-fruehlings-brotsalat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-fruehlings-brotsalat#recipe-19b19e82-8c8b-5249-b494-c31c7e4a4baf",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Für den Salat:",
+        "125 g Rucola",
+        "100 g Oliven (Abtropfgewicht)",
+        "150 g getrocknete Tomaten (Abtropfgewicht)",
+        "1 rote Zwiebel",
+        "200 g grüne und rote Trauben",
+        "150 g veganer Fetakäse (Abtropfgewicht, optional)",
+        "50 g Pinienkerne",
+        "5 g Basilikum",
+        "Für die Brotwürfel:",
+        "1 Ciabatta (oder Baguette)",
+        "50 - 100 ml mildes Olivenöl (z.B. von Byodo)",
+        "1 Knoblauchzehe",
+        "Für das Dressing:",
+        "25 ml Apfel Balsam (z.B. von Byodo)",
+        "75 ml mildes Olivenöl (z.B. von Byodo)",
+        "5 g Agavendicksaft",
+        "1 Prise Kräutersalz (z.B. von Byodo)",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Zuerst bereiten wir alle Zutaten für den Salat vor: Rucola waschen, Oliven und getrocknete Tomaten zerkleinern, Zwiebel schälen, halbieren und in Scheiben schneiden und Trauben waschen und halbieren. Alle Zutaten in eine Schüssel geben und vermengen. Optional: veganen Fetakäse zerbröseln.",
+        "Für das Dressing Apfel Balsam, mildes Olivenöl, Agavendicksaft, Kräutersalz und Pfeffer in einer kleinen Schüssel vermischen und kurz pürieren. So verbinden sich die Zutaten zu einem cremigen Dressing.",
+        "Für die Brotwürfel das Brot in mundgerechte Würfel schneiden. Pinienkerne in einer Pfanne ohne Öl rösten und im Anschluss in eine kleine Schüssel geben. Die Pfanne wieder auf den Herd stellen und auf mittlerer Stufe mit mildem Olivenöl erhitzen. Die Brotwürfel darin für 4-5 Minuten von allen Seiten kross anbraten. Nach 3-4 Minuten eine Knoblauchzehe mithilfe einer Knoblauchpresse hinzugeben. Der Knoblauch sollte nicht länger als 2 Minuten mitangebraten werden, sonst wird er bitter. Nach Bedarf mehr Olivenöl dazugeben. Sobald die Brotwürfel von allen Seiten schön kross sind, vom Herd nehmen.",
+        "Das Dressing zum Salat geben und gut vermischen. Mit frischen Basilikumblättern, Pinienkernen, Brotwürfeln und optional dem veganen Fetakäse servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

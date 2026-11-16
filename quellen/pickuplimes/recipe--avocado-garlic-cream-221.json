@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/avocado-garlic-cream-221",
+  "recipes": [
+    {
+      "name": "Avocado Garlic Cream",
+      "source_url": "https://www.pickuplimes.com/recipe/avocado-garlic-cream-221",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "2 avocado",
+        "2 garlic clove",
+        "2 tsp sriracha",
+        "¼ tsp onion powder",
+        "1 lime",
+        "1 pinch salt"
+      ],
+      "instructions": [
+        "Add all the ingredients to a small food processor* and blend until creamy. Enjoy with nourish bowls, in wraps, in sandwiches, or as a dip!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * Alternatively, mash the avocados, crush the garlic, and mix the ingredients in a bowl.",
+    "Storage Best to enjoy this sauce as soon as it's made."
+  ]
+}

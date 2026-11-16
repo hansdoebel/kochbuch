@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/seaweed-baked-fries-with-hoisin-mayo-sriracha-mayo-66",
+  "recipes": [
+    {
+      "name": "Seaweed Baked Fries with Hoisin Mayo & Sriracha Mayo",
+      "source_url": "https://www.pickuplimes.com/recipe/seaweed-baked-fries-with-hoisin-mayo-sriracha-mayo-66",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT45M",
+      "total_time": "PT55M",
+      "ingredients": [
+        "3 medium potato",
+        "2 nori seaweed sheet",
+        "1 Tbsp vegetable oil",
+        "1 tsp onion powder",
+        "¼ tsp salt",
+        "¼ tsp ground black pepper",
+        "⅛ tsp cayenne pepper",
+        "3 Tbsp vegan mayonnaise",
+        "1 Tbsp hoisin sauce",
+        "3 Tbsp vegan mayonnaise",
+        "1 Tbsp sriracha"
+      ],
+      "instructions": [
+        "Cut the potatoes into strips, about ½ inch (1½ cm) thick*. Try to cut the fries in similar thicknesses, so they cook evenly.",
+        "Line two baking trays and preheat the oven to 400°F (200°C)**.",
+        "Optionally, for crunchier fries, soak them in cold water for 10 minutes to remove excess starch. Drain, then dry well using a clean kitchen cloth.",
+        "Transfer to the baking trays, and toss with the remaining fry ingredients. Leave as much room as possible between the potatoes on the tray***.",
+        "Bake for 40 to 45 minutes, or until golden and crispy. Stop to give them a gentle flip once halfway.",
+        "Meanwhile, combine the hoisin mayo ingredients in a small bowl.",
+        "To make the Sriracha mayo, combine vegan mayo with the hot sauce in another small bowl.",
+        "When the potatoes are done, sprinkle with a dash more salt, transfer to a plate, and serve with the dipping sauces. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Yukon Gold or Russet potatoes work especially well for baking. * If desired, keep the skin on the potatoes for extra crispiness and fibre. ** We used top and bottom heating (not fan-assisted/convection). *** If over-crowded, the steam doesn't allow the fries to crisp.",
+    "Storage Best enjoyed immediately. Store in an airtight container in the fridge for up to 2 days, then re-heat in the oven to retain crispiness."
+  ]
+}

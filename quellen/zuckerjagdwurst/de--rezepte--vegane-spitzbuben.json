@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-spitzbuben",
+  "recipes": [
+    {
+      "name": "Vegane Spitzbuben",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-spitzbuben",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-spitzbuben#recipe-43e0194d-49b5-543e-bb60-2387938b1be2",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "25 Plätzchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "250 g Weizenmehl (Typ 405)",
+        "50 g gemahlene Mandeln",
+        "200 g pflanzliche Butter",
+        "100 g Zucker",
+        "Prise Salz",
+        "kaltes Wasser nach Bedarf",
+        "150 g Himbeergelee (ohne Kerne oder Stückchen)",
+        "50 g Puderzucker"
+      ],
+      "instructions": [
+        "Weizenmehl, gemahlene Mandeln, Salz und Zucker in einer großen Schüssel vermischen, die kalte vegane Butter in Flocken darübergeben und mit kalten Händen verkneten. Danach etwas Eiswasser (oder sehr kaltes Wasser) dazugeben und kneten, bis ein geschmeidiger Teig entsteht. Diesen dann in Frischhaltefolie einpacken und mindestens 30 Minuten im Kühlschrank kühlen.",
+        "Auf einer bemehlten Unterfläche den Teig 2 Millimeter dick ausrollen und Kreise ausstechen. Bei der Hälfte der Kreise nochmals einen kleinen Kreis ausstechen, sodass ihr einen „Ring“ erhaltet. Ihr solltet gleich viele Kreise und Ringe am Ende erhalten.",
+        "Kreise und Ringe auf ein Backblech mit Backpapier platzieren. Im vorgeheizten Ofen bei 180 °C (Umluft) 8–10 Minuten backen. Die Ausstecher komplett abkühlen lassen. In der Zeit das Himbeergelee in einem kleinen Topf aufkochen.",
+        "Die Kreise mit dem Himbeergelee bestreichen und einen kleinen Rand lassen. Einen Ring auf den Kreis setzen, etwas andrücken und mit Puderzucker bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

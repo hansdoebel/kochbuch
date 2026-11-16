@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-saltimbocca-alla-romana",
+  "recipes": [
+    {
+      "name": "Veganes Saltimbocca alla romana",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-saltimbocca-alla-romana",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-saltimbocca-alla-romana#recipe-71ad93f2-dd30-5650-ae13-5dc049d853a7",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Für das Saltimbocca:",
+        "4–8 Salbeiblätter",
+        "180 g (2) vegane (Chicken-)Filets",
+        "4 Scheiben veganer Schinken/Bacon (in Streifen)",
+        "2 EL vegane Butter",
+        "250 ml veganer Weißwein",
+        "1–2 TL Speisestärke",
+        "Zahnstocher",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "frisches (glutunfreies) Brot",
+        "Beilagensalat",
+        "Zitrone"
+      ],
+      "instructions": [
+        "Die Salbeiblätter waschen und danach gut trocknen.",
+        "Die veganen (Chicken-)Filets längs halbieren und mit einem Fleischklopfer flachklopfen. Jede Scheibe mit Salz und Pfeffer würzen und eine Scheibe veganen Bacon und ein Salbeiblatt mit 1–2 Zahnstochern an jedem Filet befestigen.",
+        "Eine Pfanne mit veganer Butter erhitzen und die Filets von beiden Seiten gut anbraten. Nach Wunsch können auch noch mehr Salbeiblätter mit in die Pfanne gegeben werden. Sobald der Bacon und das Fleisch knusprig sind, mit dem veganen Wein ablöschen.",
+        "Speisestärke mit etwas Weißwein oder Wasser glatt rühren und ebenfalls hinzugeben. Die Soße sollte jetzt etwas andicken. Nun abschmecken und mit Brot, einem Beilagensalat und ein paar Zitronenscheiben servieren.",
+        "Tipp: Je nachdem, was für einen Weißwein ihr verwendet, ist es notwendig, noch etwas Süße oder Säure hinzuzugeben. Schmeckt euer Weißwein eher säuerlich, kann z. B. eine Prise Zucker helfen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

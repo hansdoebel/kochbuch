@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.recipetineats.com/ranch-dressing/",
+  "recipes": [
+    {
+      "name": "Ranch Dressing",
+      "source_url": "https://www.recipetineats.com/ranch-dressing/",
+      "recipe_id": "https://www.recipetineats.com/ranch-dressing/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "1.5",
+        "1.5 cups"
+      ],
+      "prep_time": "PT10M",
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "1/2 cup buttermilk ((Note 1 for easy substitution))",
+        "1/2 cup mayonnaise (, either store-bought whole egg or homemade)",
+        "1/2 cup sour cream (, full fat)",
+        "1 tsp apple cider vinegar or lemon juice (, or other clear vinegar)",
+        "2 tbsp finely chopped chives (, or 1 tsp dried chives)",
+        "2 tbsp finely chopped parsley (, or 1/2 tsp dried parsley)",
+        "1 tsp dried dill (, or 1 1/2 tbsp finely chopped fresh dill)",
+        "1/2 tsp onion powder",
+        "1/2 tsp garlic powder (, or fresh garlic finely grated using a microplane)",
+        "1/2 tsp cooking salt / kosher salt",
+        "1/4 tsp black pepper"
+      ],
+      "instructions": [
+        "Whisk all ingredients together until the dressing is smooth. Leave in the fridge for 2 hours to let the flavours meld before using.",
+        "Use as a dressing or dip for everything from wings to chips, veggie sticks or even bread!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. Buttermilk – Substitute with a 1:2 mix of yogurt and regular milk which will be just about the same thickness and is very similar in flavour too. Though if you get a carton of buttermilk especially for this recipe, use leftovers for Choc Chip or Blueberry Muffins ! Leftovers will keep for up to 5 days though with each day, the fresh flavour of the herbs will fade. Nutrition per serving assuming 6 servings."
+  ]
+}

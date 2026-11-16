@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-macncheese-auflauf-mit-erbsen-und-speck",
+  "recipes": [
+    {
+      "name": "Veganer Mac'n'Cheese Auflauf mit Erbsen und Speck",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-macncheese-auflauf-mit-erbsen-und-speck",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-macncheese-auflauf-mit-erbsen-und-speck#recipe-0ce8122c-46fc-5ff9-ba38-73d56b6d6154",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für den Auflauf:",
+        "300 g Makkaroni",
+        "200 g Räuchertofu, vegane Fleischwurst oder vegane Speckwürfel",
+        "150 g tiefgekühlte Erbsen",
+        "Für die Soße:",
+        "400 g Kartoffeln",
+        "100 g Möhren",
+        "1 große Zwiebel",
+        "150 g Cashewnüsse",
+        "250 ml vegane Sahne",
+        "300 ml pflanzliche Milch",
+        "300 ml Wasser",
+        "5 EL Hefeflocken",
+        "2 TL Knoblauchpulver",
+        "0.5 TL Cayennepfeffer",
+        "1 TL Paprikapulver",
+        "Salz",
+        "Pfeffer",
+        "Für das Topping:",
+        "150 g veganer Streukäse",
+        "1 EL Olivenöl",
+        "50 g Panko (oder Semmelbrösel)"
+      ],
+      "instructions": [
+        "Kartoffeln, Möhre und Zwiebel schälen, in grobe Stücke schneiden und zusammen mit den Cashewkernen in einen Topf geben. Mit Wasser bedecken, gut salzen und bei mittlerer Hitze 15–20 Minuten kochen, bis das Gemüse gar ist. Anschließend abgießen.",
+        "Das gekochte Gemüse, vegane Sahne, pflanzliche Milch, Wasser und Hefeflocken zurück in den Topf geben und mit einem Pürierstab glatt pürieren. Die Soße mit Salz, Pfeffer, Knoblauchpulver, Cayennepfeffer und Paprikapulver abschmecken und unter Rühren einmal aufkochen lassen.",
+        "Sobald die Soße köchelt, die Nudeln direkt in die Soße geben und vermengen. Bei mittlerer Hitze und unter Rühren (sonst brennt die Soße unten an) köcheln lassen, bis die Nudeln kurz vor al dente sind, also circa 1–2 Minuten kürzer als auf der Packung angegeben. Zum Schluss die tiefgekühlten Erbsen und den veganen Schinken untermengen. Anschließend noch einmal abschmecken.",
+        "Den Ofen auf 200 °C (Umluft) vorheizen. Die Nudeln mitsamt der Soße in eine Auflaufform geben. Veganen Streukäse mit Öl und Panko vermengen und das Topping auf dem Auflauf verteilen. Anschließend circa 15 Minuten überbacken, bis die vegane Käseschicht zerlaufen, aber leicht knusprig und goldbraun ist."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

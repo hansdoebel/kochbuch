@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/thai-iced-bubble-tea-477",
+  "recipes": [
+    {
+      "name": "Thai Iced Bubble Tea",
+      "source_url": "https://www.pickuplimes.com/recipe/thai-iced-bubble-tea-477",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT07M",
+      "cook_time": "PT25M",
+      "total_time": "PT01H32M",
+      "ingredients": [
+        "1 cup water",
+        "1 Tbsp loose-leaf rooibos tea",
+        "1 Tbsp loose-leaf black tea",
+        "2 star anise",
+        "2 whole clove",
+        "2 cardamom pod",
+        "2 tsp pure vanilla extract",
+        "2 Tbsp boiling water",
+        "2 Tbsp light brown sugar",
+        "½ cup quick-cooking tapioca pearls",
+        "1 Tbsp sweetened condensed coconut milk",
+        "1½ cup ice cubes",
+        "2 cup unsweetened oat milk"
+      ],
+      "instructions": [
+        "In a saucepan, bring the water, tea leaves, anise, cloves, and cardamom to a boil.",
+        "Once boiling, remove from heat, cover, and let sit for an hour to steep.",
+        "Meanwhile, make a simple syrup by whisking together the water and brown sugar in a bowl until the sugar is dissolved.",
+        "In a large pot, cook the pearls according to package directions. For us, this took 5 minutes.",
+        "Strain the pearls, rinse under cold water to stop the cooking process, and transfer them to the syrup container.",
+        "Once the tea has steeped, place a sieve over a mason jar and strain the tea into the jar. Then add the vanilla extract and stir to combine.",
+        "To assemble, add some sweetened condensed milk to each cup. Then add the pearls, ice, milk, and tea concentrate. Stir, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We used quick-cooking boba, which cooks in 10 minutes.",
+    "Storage The prepared drink is best to enjoy immediately. The tea concentrate can be stored in the fridge for up to 1 week."
+  ]
+}

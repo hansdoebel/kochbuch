@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.recipetineats.com/fries-seasoning/",
+  "recipes": [
+    {
+      "name": "Fries Seasoning",
+      "source_url": "https://www.recipetineats.com/fries-seasoning/",
+      "recipe_id": "https://www.recipetineats.com/fries-seasoning/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "5",
+        "5 teaspoons"
+      ],
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 tsp table salt ((Note 1))",
+        "1 tsp onion powder ((or more garlic powder))",
+        "1 tsp garlic powder ((or more onion powder))",
+        "1 tsp paprika",
+        "1/4 tsp dried oregano",
+        "1/4 tsp dried parsley",
+        "1/4 tsp cayenne pepper (, optional)",
+        "1/4 tsp black pepper"
+      ],
+      "instructions": [
+        "Mix the ingredients together.",
+        "Sprinkle on fries to taste.",
+        "Store any leftovers in an airtight container or jar in the pantry. Also great on roast potatoes, vegetables and proteins (use for cooking or sprinkle as a finishing salt)."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. Salt type – I like using table salt as the grains are finer than cooking salt/kosher salt so it sticks better to things like fries. However, you can really use any salt type you want."
+  ]
+}

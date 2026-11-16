@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/agua-fresca-gurke-minze-inger-wassermelone",
+  "recipes": [
+    {
+      "name": "Agua Fresca mal zwei: Gurke und Wassermelone",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/agua-fresca-gurke-minze-inger-wassermelone",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/agua-fresca-gurke-minze-inger-wassermelone#recipe-5e89f4fc-a31a-5ffe-9a8e-854912b95627",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "jeweils 4 Gläser",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "Gurke-Ingwer-Minze",
+        "350 g Gurke",
+        "10 g Minze",
+        "15 g Ingwer",
+        "500 ml Wasser",
+        "2 Limetten (Saft)",
+        "2 TL Agavendicksaft (oder alternativen Zuckersirup)",
+        "Wassermelone",
+        "400 g Wassermelone",
+        "1 Apfel",
+        "500 ml Wasser",
+        "2 Limetten (Saft)"
+      ],
+      "instructions": [
+        "Gurke-Ingwer-Minze",
+        "Gurke in grobe Stücke schneiden, Minzblätter von den Stielen zupfen und den Ingwer schälen. Zusammen mit Wasser und Limettensaft in einen Standmixer geben und ca. 1 Minute mixen.",
+        "Nun könnt ihr euer Agua Fresca abschmecken. Beginnt mit 2 TL Agavendicksaft (oder einem anderen Zuckersirup eurer Wahl). Erneut ca. 30 Sekunden mixen und nach Bedarf noch mehr süßen.",
+        "Passiert die Mischung durch ein feines Sieb und fangt den Saft in einem Krug auf. Diesen könnt ihr nun kalt stellen und direkt oder später auf Eis servieren!",
+        "Wassermelone",
+        "Wassermelone schälen und in grobe Stücke schneiden. Die Kerne haben wir drin gelassen, weil unser Standmixer gut Power hat und wir den Mix sowieso nachher noch durch ein Sieb passieren. Apfel ebenfalls in Stücke schneiden.",
+        "Gebt Wassermelone, Apfel, Wasser und Limettensaft in einen Standmixer und mixt das ganze ca. 1 Minute durch. Für unseren Geschmack brauchte es keine zusätzliche Süße bei dieser Kombination, aber ganz nach eurem Geschmack könnt ihr natürlich auch hier etwas Agavendicksaft dazugeben.",
+        "Passiert die Mischung durch ein feines Sieb und fangt den Saft in einem Krug auf. Diesen könnt ihr nun kalt stellen und direkt oder später auf Eis servieren!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

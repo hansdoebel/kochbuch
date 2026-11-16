@@ -1,0 +1,68 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-tofu-lachs-gebratener-spargel-kartoffeln-dill-sahne-sosse",
+  "recipes": [
+    {
+      "name": "Veganer Tofu-Lachs mit gebratenem Spargel, Kartoffeln und Dill-Sahne-Soße",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-tofu-lachs-gebratener-spargel-kartoffeln-dill-sahne-sosse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-tofu-lachs-gebratener-spargel-kartoffeln-dill-sahne-sosse#recipe-db31ef77-a61d-5c11-a7fb-b367ca5ea6aa",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für den „Lachs“:",
+        "400 g Naturtofu",
+        "300 ml Gurkenwasser (aus einem Glas Gewürzgurken)",
+        "2 Noriblätter (aufgeteilt)",
+        "1 EL helle Misopaste",
+        "2 EL Sojasoße",
+        "1 TL Zwiebelpulver",
+        "1 TL Knoblauchpulver",
+        "2 EL Rote-Bete-Saft",
+        "Speisestärke",
+        "vegane Butter",
+        "Für den Spargel:",
+        "400 g grüner Spargel",
+        "1 Knoblauchzehe",
+        "Salz",
+        "Pfeffer",
+        "Zitronenabrieb",
+        "Öl zum Braten",
+        "Für die Dill-Sahne-Soße:",
+        "1 Schalotte",
+        "20 g Dill",
+        "250 ml vegane Sahne",
+        "1 TL Senf",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "Zitrone (Saft)",
+        "neutrales Pflanzenöl zum Braten",
+        "Zum Servieren:",
+        "500 g gekochte Kartoffeln",
+        "1 Zitrone"
+      ],
+      "instructions": [
+        "Jeden Tofublock zuerst in zwei Stücke halbieren. Danach optional mit einem Messer zurechtschneiden, um daraus Filets zu formen. Die Filets an der Oberseite diagonal im Abstand von 1–2 Millimetern tief einschneiden, aber nicht durchschneiden.",
+        "Für die Marinade Gurkenwasser, ein Noriblatt, Misopaste, Sojasoße, Zwiebel- und Knoblauchpulver in einen Standmixer geben und für einige Minuten gut pürieren, bis das Noriblatt fein gestückelt ist. Rote-Bete-Saft hinzugeben, bis die Marinade hellrot ist.",
+        "Die Lachsfilets in einen kleinen Topf legen und mit der Marinade übergießen. Circa 10 Minuten auf mittlerer Stufe köcheln. Dabei darauf achten, dass die Marinade auch zwischen die Einschnitte der Filets gelangt. Anschließend aus dem Tofu nehmen und kurz abtropfen lassen.",
+        "Parallel die Soße die Schalotte schälen und fein würfeln. Den Dill fein hacken. Die Schalottenwürfel in etwas Öl anschwitzen, bis sie glasig sind. Danach vegane Sahne und Senf dazugeben, gehackten Dill einrühren und die Soße mit Zitronensaft, Salz, Pfeffer und Muskat würzen. Vor dem Servieren nochmal erwärmen.",
+        "Kartoffeln nach Wunsch schälen, in einen Topf geben, mit Wasser bedecken, salzen und aufkochen lassen. Danach bei mittlerer Hitze circa 20 Minuten gar kochen.",
+        "Die Tofu-Filets nach dem kurzen Abtropfen entweder von unten in Speisestärke legen oder ein zugeschnittenes Noriblatt auf die Unterseite legen. Danach die Tofu-Filets in Pflanzenöl anbraten.",
+        "Parallel dazu die holzigen Enden vom grünen Spargel abbrechen oder schneiden. In einer zweiten Pfanne ebenfalls etwas Pflanzenöl erhitzen und die Spargelstangen rundherum anbraten, bis sie Röstspuren haben, aber noch nicht zu weich sind. Knoblauch fein würfeln, dazugeben und nur noch 1–2 Minuten mit anbraten. Danach mit Salz, Pfeffer und Zitronensaft würzen.",
+        "Die Tofu-Filets mit dem Spargel, den gekochten Kartoffeln, der Dill-Sahne-Soße und Zitronenscheiben oder -spalten servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

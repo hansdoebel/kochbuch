@@ -1,0 +1,74 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/mepssalgaru",
+  "recipes": [
+    {
+      "name": "Short grain rice flour (Mepssalgaru)",
+      "source_url": "https://www.maangchi.com/recipe/mepssalgaru",
+      "recipe_id": "/recipe/mepssalgaru#sso/recipe/26758",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 pound (about 2 cups) of short grain rice"
+      ],
+      "instructions": [
+        "Wash the rice. Put it in a bowl of water and scrub it by hand for a full 10 seconds. Rinse, stir, and drain. Repeat until the water drains clear.",
+        "Soak in clean water overnight, or for 8 to 12 hours.",
+        "Strain the rice. It should have expanded to about 3½ cups’ worth.",
+        "Grind the rice finely with a coffee grinder or food processor.",
+        "Sift the ground rice flour into a bowl. If any rice pieces are too big to sift, grind them again until they can be sifted.",
+        "You’ll end up with about 4 cups of rice flour. Use it right away, or put it in a plastic bag and in the freezer until you need it."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients (makes 4 cups of rice flour)"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound (about 2 cups) of short grain rice"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Wash the rice. Put it in a bowl of water and scrub it by hand for a full 10 seconds. Rinse, stir, and drain. Repeat until the water drains clear."
+        },
+        {
+          "tag": "li",
+          "text": "Soak in clean water overnight, or for 8 to 12 hours."
+        },
+        {
+          "tag": "li",
+          "text": "Strain the rice. It should have expanded to about 3½ cups’ worth."
+        },
+        {
+          "tag": "li",
+          "text": "Grind the rice finely with a coffee grinder or food processor."
+        },
+        {
+          "tag": "li",
+          "text": "Sift the ground rice flour into a bowl. If any rice pieces are too big to sift, grind them again until they can be sifted."
+        },
+        {
+          "tag": "li",
+          "text": "You’ll end up with about 4 cups of rice flour. Use it right away, or put it in a plastic bag and in the freezer until you need it."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/limetten-reis-tempeh-mango-avocado-salsa",
+  "recipes": [
+    {
+      "name": "Limettenreis mit Tempeh und Mango-Avocado-Salsa",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/limetten-reis-tempeh-mango-avocado-salsa",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/limetten-reis-tempeh-mango-avocado-salsa#recipe-0a27390c-031e-57f2-800e-a5f5501d8a06",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Für die Salsa:",
+        "1 Mango",
+        "1 Avocado",
+        "1 rote Zwiebel",
+        "0.5 Gurke",
+        "10 g Koriander",
+        "0.5 Limette (Saft)",
+        "Salz",
+        "Pfeffer",
+        "Für den Tempeh:",
+        "300 g Tempeh",
+        "1.5 TL Sojasauce",
+        "2 EL Wasser",
+        "1.5 EL Mandelmus (oder Erdnussbutter, Cashewmus, ...)",
+        "1.5 TL Limettensaft",
+        "Kokosöl zum Braten",
+        "Für den Reis:",
+        "300 g Reis",
+        "700 ml Wasser",
+        "5 g Koriander",
+        "5 g Minze",
+        "1 Limette (Abrieb)",
+        "Salz"
+      ],
+      "instructions": [
+        "Beginnt mit dem Reiskochen. Reis und Wasser in einen Topf geben und salzen. Einmal aufkochen lassen und anschließend abgedeckt ca. 20 Minuten köcheln lassen, bis das Wasser aufgesogen und der Reis gar ist. Anschließend vom Herd nehmen. Koriander und Minze fein hacken und zusammen mit dem Abrieb einer Limette unter den Reis geben.",
+        "Während der Reis kocht, Mango, Avocado und rote Zwiebel schälen und in feine Würfel schneiden. Gurke halbieren, die Kerne auslöffeln und das Fruchtfleisch fein würfeln. Koriander fein hacken.",
+        "Mango, Avocado, Zwiebel, Gurke und Koriander in einer Schüssel verrühren und mit Limettensaft, Salz und Pfeffer abschmecken.",
+        "Tempeh mit den Händen in mundgerechte Stücke brechen. Kokosöl in einer großen Pfanne erhitzen und den Tempeh darin ca. 7-8 Minuten kross anbraten. Nach Bedarf mehr Kokosöl dazugeben.",
+        "Währenddessen Mandelmus, Wasser, Limettensaft und Sojasauce in einer kleinen Schüssel anrühren. Die Mischung zum Tempeh geben und gut durchschwenken, bis er mit der Mandelmischung ummantelt ist. Noch ein paar Minuten einköcheln lassen.",
+        "Limettenreis mit Tempeh und Mango-Avocado-Salsa servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

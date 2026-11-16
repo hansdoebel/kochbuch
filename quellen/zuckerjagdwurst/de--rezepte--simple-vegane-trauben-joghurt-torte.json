@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/simple-vegane-trauben-joghurt-torte",
+  "recipes": [
+    {
+      "name": "Simple vegane Trauben-Joghurt-Torte",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/simple-vegane-trauben-joghurt-torte",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/simple-vegane-trauben-joghurt-torte#recipe-76061044-80fe-5534-8222-fd4ec154e272",
+      "authors": [
+        "Team"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (Tarteform Ø 28 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT100M",
+      "ingredients": [
+        "Für den Biskuitteig:",
+        "135 g Mehl",
+        "20 g gemahlene Haselnüsse",
+        "80 g Zucker",
+        "3 g (0.5 TL) Backpulver",
+        "4 g (0.5 TL) Vanillezucker",
+        "50 ml Sonnenblumenöl",
+        "150 ml Sprudelwasser",
+        "Für die vegane Joghurt-Sahne-Creme:",
+        "400 ml vegane Schlagsahne",
+        "16 g (2 EL) Sahnesteif",
+        "12 g (2 TL) Vanillezucker",
+        "250 g veganer Joghurt",
+        "1 Zitrone (Abrieb)",
+        "Außerdem:",
+        "vegane Butter zum Einfetten",
+        "Mehl zum Ausklopfen der Form",
+        "500 g kernlose grüne Weintrauben",
+        "gehackte Haselnüsse für die Dekoration"
+      ],
+      "instructions": [
+        "Den Backofen auf 180°C Umluft vorheizen. Für den Biskuit Mehl, gemahlene Haselnüsse, Zucker, Backpulver und Vanillezucker in einer großen Schüssel verrühren. Anschließend das Öl und das Sprudelwasser dazugeben und nur noch kurz unterrühren.",
+        "Eine Tarteform (oder Springform) mit veganer Butter einfetten und mit Mehl ausklopfen. Den Teig hineingeben und auf mittlerer Stufe im Ofen ca. 15-20 Minuten bei 180°C backen. Mit einem Holzstäbchen testen, ob der Teig durch ist. Je nach Farbe und Stäbchentest die Zeit verlängern oder verkürzen. Den Kuchen im Anschluss aus dem Ofen nehmen und komplett abkühlen lassen.",
+        "Wenn der Kuchen abgekühlt ist, für die Creme vegane Schlagsahne mit Sahnesteif und Vanillezucker in eine Schüssel geben und aufschlagen. Den veganen Joghurt und Zitronenabrieb unterheben. Die Creme abschmecken und nach Wunsch mehr Zucker oder Zitronenabrieb dazugeben.",
+        "Den abgekühlten Biskuitboden falls nötig oben begradigen und zurück in die Backform legen und den Ring wieder um die Backform legen. Die vegane Creme auf dem Boden verteilen und den Kuchen erst mal in den Kühlschrank stellen.",
+        "Weintrauben waschen, vom Stiel entfernen und nach Wunsch halbieren oder im Ganzen lassen. Die Trauben auf der Joghurt-Sahne-Creme verteilen und mit gehackten Haselnüssen bestreuen. Bis zum Servieren (am besten über Nacht) kaltstellen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

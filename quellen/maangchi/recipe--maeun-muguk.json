@@ -1,0 +1,83 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/maeun-muguk",
+  "recipes": [
+    {
+      "name": "Spicy radish and beef soup (Maeun muguk)",
+      "source_url": "https://www.maangchi.com/recipe/maeun-muguk",
+      "recipe_id": "/recipe/maeun-muguk#sso/recipe/20166",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Beef (brisket or skirt steak), white radish (or Korean radish or daikon), Korean hot pepper flakes (gochugaru), fish sauce, toasted sesame oil, garlic, green onions, ground black pepper, salt"
+      ],
+      "instructions": [
+        "Cut 250 grams of radish (about 2 cups) into pieces 1 inch x 1 inch and ⅛ inch thick (2.5 cm x 2.5 cm and 0.3 cm thick). Put into a pot.",
+        "Cut 250 grams of beef brisket into bite sized chunks and put it into the pot.",
+        "Add 1 tbs hot pepper flakes, 2 tbs fish sauce, 1 tbs toasted sesame oil, 1 ts kosher salt, 2 cloves of minced garlic. Mix it well with a spoon.",
+        "Add 5 cups of water. Bring to a boil over high or medium hight heat with the lid closed for about 20 minutes. *tip: when the soup starts boiling (After 10-13 minutes), skim off any fat or foam that floats to the surface of the soup",
+        "Lower the heat over medium heat and cook for another 30 minutes.",
+        "Chop 3 stalks of green onions and add it to the soup.",
+        "1 minute later, turn off the heat. The soup is done! Serve with rice."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Beef (brisket or skirt steak), white radish (or Korean radish or daikon), Korean hot pepper flakes (gochugaru), fish sauce, toasted sesame oil, garlic, green onions, ground black pepper, salt"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions (for 2 servings)"
+        },
+        {
+          "tag": "p",
+          "text": "Cooking time: 1 hour"
+        },
+        {
+          "tag": "li",
+          "text": "Cut 250 grams of radish (about 2 cups) into pieces 1 inch x 1 inch and ⅛ inch thick (2.5 cm x 2.5 cm and 0.3 cm thick). Put into a pot."
+        },
+        {
+          "tag": "li",
+          "text": "Cut 250 grams of beef brisket into bite sized chunks and put it into the pot."
+        },
+        {
+          "tag": "li",
+          "text": "Add 1 tbs hot pepper flakes, 2 tbs fish sauce, 1 tbs toasted sesame oil, 1 ts kosher salt, 2 cloves of minced garlic. Mix it well with a spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Add 5 cups of water. Bring to a boil over high or medium hight heat with the lid closed for about 20 minutes. *tip: when the soup starts boiling (After 10-13 minutes), skim off any fat or foam that floats to the surface of the soup"
+        },
+        {
+          "tag": "li",
+          "text": "Lower the heat over medium heat and cook for another 30 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Chop 3 stalks of green onions and add it to the soup."
+        },
+        {
+          "tag": "li",
+          "text": "1 minute later, turn off the heat. The soup is done! Serve with rice."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

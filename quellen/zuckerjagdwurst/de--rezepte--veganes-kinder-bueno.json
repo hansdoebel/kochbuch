@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kinder-bueno",
+  "recipes": [
+    {
+      "name": "Veganes Kinder Bueno",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kinder-bueno",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kinder-bueno#recipe-c4dbc55d-63e9-52c6-956f-1be8fbaa283e",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Riegel",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT130M",
+      "ingredients": [
+        "Für die Haselnussfüllung:",
+        "150 g vegane weiße Schokolade",
+        "220 g helles Haselnussmus",
+        "Prise Salz",
+        "Außerdem:",
+        "4 vegane Waffelplatten",
+        "200 g vegane Milchschokolade",
+        "100 g Zartbitterschokolade",
+        "1 EL Kokosöl (optional)"
+      ],
+      "instructions": [
+        "Zu Beginn die weiße Schokolade über einem Wasserbad oder in der Mikrowelle schmelzen und zusammen mit dem Haselnussmus und Salz in eine Schüssel geben, gut verrühren und beiseitestellen.",
+        "Anschließend die veganen Waffelplatten zurechtschneiden (Oberseite des Riegels: 13,5 cm × 4,5 cm / Boden des Riegels: 12,5 cm × 3,5 cm). Die Maße hängen hierbei von der Formgröße ab. Die größeren Waffelplatten kurz in eine Schale mit Wasser legen und im Anschluss vorsichtig mit einem Tuch abtrocknen, um das überschüssige Wasser aufzusaugen. Die nun formbaren Waffeln in die Form drücken und ca. 20 Minuten ins Gefrierfach stellen, bis sie komplett durchgefroren sind.",
+        "Tipp: Falls ihr eine Form habt, bei der ihr die Waffelplatten nicht formen müsst, könnt ihr diesen Schritt weglassen.",
+        "In der Zwischenzeit den Ofen auf 180 °C Umluft vorheizen. Die gefrorenen Waffeln aus der Form nehmen, auf ein Backblech mit Backpapier legen und die Waffeln bei 180 °C Umluft ca. 12–13 Minuten backen, bis sie leicht braun und knusprig sind. Die Bodenplatten des Riegels die letzten 5 Minuten der Backzeit in den Ofen dazulegen. Die Waffeln jeweils nach der Hälfte der Zeit wenden.",
+        "Sobald die Haselnussfüllung etwas fester geworden ist, die ausgekühlten Waffel-Oberseiten mit der Haselnuss-Creme befüllen. Anschließend die Waffel-Bodenplatte drauflegen und vorsichtig andrücken, sodass beide Waffelschichten durch die Haselnuss-Creme zusammenkleben.",
+        "Die vegane Milchschokolade über einem Wasserbad oder in der Mikrowelle schmelzen und optional Kokosöl hinzugeben. Die Riegel mit der Schokolade überziehen und im Kühlschrank trocknen lassen.",
+        "Währenddessen die vegane Zartbitterschokolade über einem Wasserbad oder in der Mikrowelle schmelzen. Sobald die Milchschokolade getrocknet ist, die Zartbitterschokolade mit einem Löffel in Streifen über dem Riegel verteilen und erneut im Kühlschrank trocknen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,121 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/patbap",
+  "recipes": [
+    {
+      "name": "Rice with red beans (Patbap: 팥밥)",
+      "source_url": "https://www.maangchi.com/recipe/patbap",
+      "recipe_id": "/recipe/patbap#sso/recipe/71584",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "½ cup red beans (Azuki beans)",
+        "2 cups short grain rice",
+        "½ teaspoon kosher salt"
+      ],
+      "instructions": [
+        "Rinse the beans in cold water and strain. Put in a heavy pot with 4 cups of water. Boil for 10 minutes over medium high heat. Then turn down the heat and cook for 50 minutes.",
+        "Strain the beans and reserve the red bean water to make rice with later. Let the water cool down thoroughly.",
+        "Put the rice into a heavy bottomed pot. Rinse in cold water and drain, then scrub the wet rice with your hand.",
+        "Rinse and drain a couple of times until the drained water is clear, then drain out the last of the water by tilting the pot as much as you can.",
+        "Add the cooled down red bean water. We need 2½ cups so if you don’t have enough make up the difference with clear water. Add the cooked red beans and salt. Let it soak for 30 minutes.",
+        "Boil for 10 minutes over medium high heat.",
+        "Open the lid and mix it up from top to bottom so everything is cooked evenly. Cover, turn down the heat to low, and simmer for 10 minutes."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients (4 servings)"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup red beans (Azuki beans)"
+        },
+        {
+          "tag": "li",
+          "text": "2 cups short grain rice"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon kosher salt"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the beans"
+        },
+        {
+          "tag": "li",
+          "text": "Rinse the beans in cold water and strain. Put in a heavy pot with 4 cups of water. Boil for 10 minutes over medium high heat. Then turn down the heat and cook for 50 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Strain the beans and reserve the red bean water to make rice with later. Let the water cool down thoroughly."
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the rice"
+        },
+        {
+          "tag": "li",
+          "text": "Put the rice into a heavy bottomed pot. Rinse in cold water and drain, then scrub the wet rice with your hand."
+        },
+        {
+          "tag": "li",
+          "text": "Rinse and drain a couple of times until the drained water is clear, then drain out the last of the water by tilting the pot as much as you can."
+        },
+        {
+          "tag": "li",
+          "text": "Add the cooled down red bean water. We need 2½ cups so if you don’t have enough make up the difference with clear water. Add the cooked red beans and salt. Let it soak for 30 minutes."
+        },
+        {
+          "tag": "h3",
+          "text": "Make patbap"
+        },
+        {
+          "tag": "li",
+          "text": "Boil for 10 minutes over medium high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Open the lid and mix it up from top to bottom so everything is cooked evenly. Cover, turn down the heat to low, and simmer for 10 minutes."
+        },
+        {
+          "tag": "h3",
+          "text": "Serve"
+        },
+        {
+          "tag": "p",
+          "text": "Remove from the heat and fluff up the rice with a rice scoop or spoon. Keep it covered until you serve. Serve with side dishes."
+        },
+        {
+          "tag": "p",
+          "text": "Doenjang-jjigae (fermented bean paste stew: 된장찌개)"
+        },
+        {
+          "tag": "p",
+          "text": "Mung bean sprout side dish (Sukju-namul: 숙주나물)"
+        },
+        {
+          "tag": "p",
+          "text": "Pan-fried meatball pancakes (wanjajeon: 완자전)"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

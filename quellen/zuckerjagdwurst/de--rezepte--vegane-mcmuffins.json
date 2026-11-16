@@ -1,0 +1,65 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mcmuffins",
+  "recipes": [
+    {
+      "name": "Vegane McMuffins",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mcmuffins",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mcmuffins#recipe-5bde139f-0a72-5940-97d4-446fb4be69f4",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Burger",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für den Reispapierbacon:",
+        "4 Blätter Reispapier",
+        "2 EL Sojasoße",
+        "0.5 EL Liquid Smoke",
+        "1 EL Ahornsirup",
+        "1 TL Senf",
+        "Pflanzenöl zum Braten",
+        "Für die veganen Ei-Pattys:",
+        "300 g Seidentofu",
+        "100 g Kichererbsenmehl",
+        "100 ml vegane Sahne",
+        "20 g Stärke",
+        "1 TL Kala Namak",
+        "Salz",
+        "Pfeffer",
+        "vegane Butter zum Braten",
+        "Für das vegane Eigelb:",
+        "1 EL Kichererbsenmehl",
+        "1 TL Kurkuma",
+        "Für die Burger:",
+        "4 englische Muffins",
+        "4 Scheiben veganer Käse",
+        "vegane Mayonnaise"
+      ],
+      "instructions": [
+        "Reispapierbacon",
+        "Den Backofen auf 180°C Ober-und Unterhitze vorheizen. Für die Marinade Sojasoße, Liquid Smoke, Ahornsirup und Senf verrühren und in eine flache Schale geben.",
+        "Eine große Schüssel mit Wasser vorbereiten, die größer ist als das Reispapier. Zunächst zwei Reispapierblätter einzeln jeweils 5 Sekunden in das Wasser legen und anschließend übereinander auf ein Schneidebrett legen. Mit einer Schere oder einem Messer in breite Streifen schneiden.",
+        "Die Streifen nur kurz durch die Marinade ziehen, damit sie von beiden Seiten ummantelt sind.",
+        "Die Reispapierstreifen auf ein mit Backpapier belegtes Blech legen und im Ofen bei 180°C ca. 7 Minuten backen – habt jedoch immer ein Auge auf die Streifen und nehmt sie aus dem Ofen, wenn sie noch nicht ganz fertig aussehen. An der Luft trocknen sie nämlich noch nach und werden sonst „zu hart“.",
+        "Vegane Ei-Pattys",
+        "Für die Basis der Pattys Seidentofu, Kichererbsenmehl, vegane Sahne, Stärke und Kala Namak in einem hohen Gefäß pürieren. Anschließend mit Salz und Pfeffer würzen.",
+        "Ca. 3 EL der Mischung abnehmen und in einer kleinen Schüssel mit dem restlichen Kichererbsenmehl und Kurkuma für das vegane „Eigelb“ verrühren.",
+        "Vier Dessertringe gut einfetten. Vegane Butter in einer beschichteten Pfanne schmelzen und die Ringe in die Pfanne stellen. Jeweils ein Viertel der Seidentofubasis in die Dessertringe geben und die Pattys über kleiner bis mittlerer Hitze anbraten. Bereits nach ca. 1 Minute einen Klecks der „Eigelbmischung“ auf die weiße Basis geben. Danach die Dessertringe mit einem Teller abdecken, damit sich der Seidentofu erst mal in Ruhe festigen kann.",
+        "Sobald die Unterseite gebräunt ist und die Seidentofumischung fest geworden ist, die Pattys aus dem Ring lösen – eventuell müsst ihr sie mit einem Messer vom Rand lösen. Anschließend vorsichtig wenden und von der anderen Seite ebenfalls bräunen. Die Pattys danach aus der Pfanne nehmen.",
+        "Belegen",
+        "Englische Muffins toasten und beide Seiten mit veganer Mayonnaise bestreichen. Jeweils eine Scheibe veganen Käse auf die Unterseiten der Brötchen legen und diese noch mal kurz in die Pfanne legen. Einen Deckel auf die Pfanne legen und die belegten Brötchenhälften bei kleiner Hitze erwärmen, bis der Käse beginnt, an den Rändern zu schmelzen.",
+        "Die Brötchenhälften auf einen Teller legen, den Reispapierbacon und die veganen Ei-Pattys und die Oberseite der Brötchen darauflegen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

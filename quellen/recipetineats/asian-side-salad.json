@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.recipetineats.com/asian-side-salad/",
+  "recipes": [
+    {
+      "name": "Asian Side Salad",
+      "source_url": "https://www.recipetineats.com/asian-side-salad/",
+      "recipe_id": "https://www.recipetineats.com/asian-side-salad/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "4"
+      ],
+      "prep_time": "PT10M",
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "1 tbsp soy sauce ((light or all purpose, not dark soy))",
+        "3 tbsp peanut oil ((or canola, vegetable or other neutral oil))",
+        "2 tbsp rice vinegar ((sub cider vinegar))",
+        "1 tsp sesame oil",
+        "1 tsp brown sugar",
+        "1 tsp ginger (, minced)",
+        "1 clove garlic (, minced)",
+        "120 g / 4oz mixed leafy salad greens",
+        "250 g / 8oz cherry tomatoes (, halved)",
+        "1/2 red onion (, finely sliced)",
+        "1/4 cup crispy fried shallots ((Note 1))"
+      ],
+      "instructions": [
+        "Shake Dressing ingredients in a jar.",
+        "Place Salad ingredients except fried shallots in a bowl. Drizzle with Dressing and toss.",
+        "Sprinkle with fried shallots and served immediately!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. Crispy fried shallot pieces – great garnish for Asian salads. Found in the Asian section of supermarket but cheaper at Asian stores! Substitute with roughly chopped nuts like cashews or almonds. 2. Nutrition per serving."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-teriyaki-mock-chicken-tacos",
+  "recipes": [
+    {
+      "name": "Vegane Teriyaki Mock Chicken Tacos",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-teriyaki-mock-chicken-tacos",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-teriyaki-mock-chicken-tacos#recipe-4dcf8d4e-a36b-5429-80b3-880edce8868f",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "1 Tasse Reis",
+        "1 Dose Mock Chicken",
+        "2 EL Zucker",
+        "1 daumengroßes Stück Ingwer",
+        "1 Knoblauchzehe",
+        "40 ml Sojasauce",
+        "40 ml Teryakisauce",
+        "2 EL Agavendicksaft",
+        "Öl",
+        "Frühlingszwiebeln",
+        "Cashewkerne",
+        "Sesam"
+      ],
+      "instructions": [
+        "Wir beginnen mit dem Reis. Dafür einfach in einem Topf 1 Tasse Reis mit 2 Tassen leicht gesalzenem Wasser auffüllen und gar kochen lassen. Danach etwas abkühlen.",
+        "In einer Pfanne 2 EL neutrales Öl erhitzen und die Mock-Chicken-Stücken kurz anbraten.",
+        "Ingwer und Knoblauch schälen und klein hacken. Zucker, Ingwer und Knoblauch mit in die Pfanne geben und 2-3 Minuten mitbraten lassen. Danach mit Sojasauce und Teriyakisauce ablöschen. Agavendicksaft dazugeben und alles einköcheln lassen, bis die Mock-Chicken-Stücken von einer zähflüssigen Sauce ummantelt werden.",
+        "Frühlingszwiebeln in feine Ringe schneiden.",
+        "Zum Anrichten nehmt ihr euch einen Taco, und belegt ihn mit Reis und Mock Chicken und streut Sesam, Cashewkerne und Frühlingszwiebeln darüber."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

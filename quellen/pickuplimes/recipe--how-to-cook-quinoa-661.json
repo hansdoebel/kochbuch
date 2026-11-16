@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/how-to-cook-quinoa-661",
+  "recipes": [
+    {
+      "name": "How to Cook Perfect Quinoa",
+      "source_url": "https://www.pickuplimes.com/recipe/how-to-cook-quinoa-661",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT03M",
+      "cook_time": "PT17M",
+      "total_time": "PT20M",
+      "ingredients": [
+        "½ cup quinoa",
+        "1 cup water",
+        "½ vegetable bouillon cube"
+      ],
+      "instructions": [
+        "Rinse the quinoa in a fine-mesh strainer over the sink.",
+        "Transfer the quinoa to a saucepan. Add the water and crumble in the bouillon cube.",
+        "Bring to a boil, reduce the heat to a gentle simmer, cover with a lid, and cook for 15 minutes. The quinoa should absorb all the water. If there is still some water, cook for an additional couple of minutes.",
+        "Remove from the heat and fluff the quinoa with a wooden spatula or fork.",
+        "Then cover again and let sit to steam for 2 to 3 minutes longer so the quinoa softens even more. This step is optional, but it can make the quinoa much more tender."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for 4 days."
+  ]
+}

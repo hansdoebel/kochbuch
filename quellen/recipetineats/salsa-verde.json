@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.recipetineats.com/salsa-verde/",
+  "recipes": [
+    {
+      "name": "Salsa Verde recipe",
+      "source_url": "https://www.recipetineats.com/salsa-verde/",
+      "recipe_id": "https://www.recipetineats.com/salsa-verde/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "1",
+        "1 cup"
+      ],
+      "prep_time": "PT10M",
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 cup green basil (, packed)",
+        "3/4 cup parsley (, flatleaf; packed)",
+        "1/2 cup mint leaves (, packed)",
+        "2 tbsp gherkins (, roughly chopped)",
+        "1/2 tbsp capers",
+        "1 tsp dijon mustard",
+        "1/2 tbsp red wine vinegar",
+        "4 tbsp extra virgin olive oil",
+        "1/4 tsp salt",
+        "1 ice cube - for loosening but keeps the mixture green.",
+        "1 - 2 anchovies",
+        "1/2 small garlic clove (, roughly chopped)",
+        "Substitute the basil and mint with more parsley"
+      ],
+      "instructions": [
+        "Blitz - Place all ingredients in a tall container and blitz into a fine puree (or to the texture you prefer) using a stick blender. You could also use a small food processor.",
+        "Serving: See in post for extensive list. Serve with steaks, chops or roasted lamb, beef, pork, chicken and seafood (especially great with fish!). It's also excellent with legumes, cooked vegetables and even eggs. You can also use it in the same ways as a tapenade or pesto: Spread on crostini, use in sandwiches, dress salads with it, toss with pasta!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: Storage – keep in an airtight container for 4 to 5 days in the fridge. It can also be frozen for 3 months. Nutrition – Calculated for one batch."
+  ]
+}

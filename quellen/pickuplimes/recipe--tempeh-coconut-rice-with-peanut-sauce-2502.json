@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/tempeh-coconut-rice-with-peanut-sauce-2502",
+  "recipes": [
+    {
+      "name": "Tempeh Coconut Rice with Peanut Sauce",
+      "source_url": "https://www.pickuplimes.com/recipe/tempeh-coconut-rice-with-peanut-sauce-2502",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT15M",
+      "cook_time": "PT25M",
+      "total_time": "PT40M",
+      "ingredients": [
+        "8.007 oz tempeh",
+        "2 Tbsp vegetable oil",
+        "1 Tbsp sambal oelek",
+        "¼ tsp fine sea salt",
+        "1 medium broccoli",
+        "1 Tbsp vegetable oil",
+        "1 cup long-grain white rice",
+        "1¼ cup water",
+        "⅓ cup unsweetened shredded coconut",
+        "½ cup natural peanut butter",
+        "¼ cup water",
+        "1 lime",
+        "1 garlic clove",
+        "2 Tbsp maple syrup",
+        "½ Tbsp sambal oelek",
+        "⅛ tsp fine sea salt",
+        "8.007 oz sugar snap peas",
+        "1 stalk green onion",
+        "¼ cup unsalted roasted peanuts"
+      ],
+      "instructions": [
+        "Preheat the oven to 400°F / 200°C*. Line a baking sheet with parchment paper.",
+        "Crumble the tempeh into small, bite-size pieces. The smaller the better. Transfer to a medium bowl and mix with the oil, sambal, and salt. Spread the seasoned tempeh over one-half of the baking sheet.",
+        "Toss the broccoli with the remaining oil and spread it on the other half of the baking sheet. Roast for 20 minutes, or until the broccoli has slightly browned and the tempeh is golden.",
+        "Meanwhile, rinse the rice. In a medium saucepan, combine the rice and water. Cover, bring to a gentle simmer, and cook over low heat until the water is absorbed, 12 to 15 minutes.",
+        "Once cooked, fluff the rice with a fork and gently mix in the toasted coconut. Keep covered until ready to serve.",
+        "In a small bowl, whisk together the peanut butter, water, lime juice, garlic, maple syrup, sambal, and salt until smooth**.",
+        "Bring a medium pot of water to a boil. Add the snap peas and cook until bright green and just tender, about 2 minutes. Immediately drain and rinse under cold water to stop the cooking.",
+        "Optionally, slice the snap peas in half lengthwise.",
+        "To serve, divide the coconut rice among bowls and top with the roasted tempeh, broccoli, and snap peas. Drizzle with the peanut sauce. If desired, garnish with green onions and peanuts. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection). ** The sauce may seem thin at first but will thicken as you stir. Add more water if you prefer a thinner consistency.",
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

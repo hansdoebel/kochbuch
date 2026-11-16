@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/kuerbis-linsen-suppe-mit-apfel-und-kraeuter-gremolata",
+  "recipes": [
+    {
+      "name": "Kürbis-Linsen-Suppe mit Apfel und Kräuter-Gremolata",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/kuerbis-linsen-suppe-mit-apfel-und-kraeuter-gremolata",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/kuerbis-linsen-suppe-mit-apfel-und-kraeuter-gremolata#recipe-986a6357-7d82-4009-a196-e6366b84acb3",
+      "authors": [
+        "Anna Germek"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "5 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "Für die Suppe:",
+        "1 große Zwiebel",
+        "2 Knoblauchzehen",
+        "1 daumenbreites Stück Ingwer",
+        "ca. 1 kg Hokkaidokürbis (ohne Kerne)",
+        "200 g Kartoffeln (bevorzugt mehligkochend)",
+        "1.5 Äpfel",
+        "150 g gelbe Linsen",
+        "100 g veganer Weißwein (oder 70 g Weißweinessig)",
+        "1 l Gemüsebrühe",
+        "Olivenöl zum Braten",
+        "Salz",
+        "Pfeffer",
+        "Für die Kräuter-Gremolata:",
+        "30 g Petersilie",
+        "30 g Kürbiskerne",
+        "1 Knoblauchzehe",
+        "0.5 Apfel",
+        "1 TL Chiliflocken",
+        "2 EL Olivenöl",
+        "1 Zitrone",
+        "Salz"
+      ],
+      "instructions": [
+        "Zwiebel, Knoblauch und Ingwer schälen und fein hacken. Kürbis waschen, entkernen und in grobe Würfel schneiden. Kartoffeln schälen und würfeln. Äpfel entkernen und grob würfeln. Linsen waschen.",
+        "Olivenöl in einem großen Topf erhitzen. Zwiebel, Knoblauch und Ingwer darin anschwitzen, bis sie glasig sind. Kürbis, Kartoffeln, Äpfel und Linsen hinzufügen und kurz mitdünsten. Mit veganem Weißwein ablöschen.",
+        "Alles mit Gemüsebrühe aufgießen, aufkochen lassen und anschließend bei mittlerer Hitze 20–25 Minuten köcheln lassen, bis alles gar ist.",
+        "Für die Kräuter-Gremolata in der Zwischenzeit die Petersilie fein und Kürbiskerne grob hacken. Knoblauch fein reiben, Apfel in kleine Würfel schneiden. Petersilie, Kürbiskerne, Knoblauch, Apfel, Chiliflocken, Olivenöl, Zitronenabrieb und Zitronensaft nach Geschmack in einer kleinen Schüssel vermengen und mit Salz abschmecken.",
+        "Die Suppe mit einem Pürierstab fein pürieren und mit Salz und Pfeffer abschmecken. Gegebenenfalls mit etwas Wasser verdünnen.",
+        "Die Suppe in Schalen anrichten und mit der Kräuter-Gremolata toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

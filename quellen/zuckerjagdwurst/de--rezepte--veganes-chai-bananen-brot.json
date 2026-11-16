@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-chai-bananen-brot",
+  "recipes": [
+    {
+      "name": "Veganes Chai Bananenbrot",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-chai-bananen-brot",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-chai-bananen-brot#recipe-fe5c66c4-dba4-54e4-8c3f-d45295b3d2bf",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kastenform (30 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "Für den Teig:",
+        "150 ml heißes Wasser",
+        "20 g Chai-Tee",
+        "300 g Mehl",
+        "200 g brauner Zucker",
+        "16 g (1.5 EL) Backpulver",
+        "8 g (1.5 TL) Vanillezucker",
+        "5 g (1 TL) Natron",
+        "1 TL Zimt",
+        "0.5 TL Muskat",
+        "1 Prise Salz",
+        "3 reife Bananen",
+        "100 ml Pflanzenöl",
+        "1 EL Apfelessig",
+        "100 ml pflanzliche Milch",
+        "50 g Walnüsse",
+        "50 g Mandeln",
+        "Zum Servieren:",
+        "Puderzucker",
+        "1-2 Bananen"
+      ],
+      "instructions": [
+        "Wir beginnen mit einem stark konzentrierten Tee, damit er in Ruhe durchziehen kann. Dafür euren Lieblings-Chai-Tee ca. 8-10 Minuten abgedeckt im heißen Wasser ziehen lassen.",
+        "In der Zwischenzeit den Ofen auf 170°C (Umluft) vorheizen und den Kuchenteig zubereiten . Mehl, braunen Zucker, Backpulver, Vanillezucker, Natron, Zimt, Muskat und Salz in einer Schüssel verrühren.",
+        "Die Bananen schälen und mit einer Gabel in einer zweiten Schüssel gut zerquetschen. Pflanzenöl, Apfelessig, pflanzliche Milch und den Chai-Tee dazugeben und gründlich vermengen.",
+        "Die trockenen Zutaten nach und nach zur Bananenmischung geben und vermengen. Zum Schluss Walnüsse und Mandeln hacken und unter den Teig heben.",
+        "Tipp: Ihr könnt den Kuchen natürlich auch nussfrei zubereiten und Mandeln und Walnüsse einfach weglassen.",
+        "Eine Kastenform einfetten, mehlen und den Teig hineingeben. Das Bananenbrot bei 170°C ca. 50 Minuten backen. Vor dem Rausholen unbedingt die Stäbchenprobe machen: ein Holzstäbchen quer in den Kuchen stechen und wieder herausziehen. Wenn keine Teigreste mehr am Stäbchen kleben bleiben, ist der Kuchen fertig.",
+        "Den Kuchen aus dem Ofen holen und komplett abkühlen lassen. Zum Servieren mit Puderzucker bestäuben und mit Bananenscheiben servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

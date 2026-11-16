@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-ofenkaese",
+  "recipes": [
+    {
+      "name": "Veganer Ofenkäse",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-ofenkaese",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-ofenkaese#recipe-50d3582c-c976-5d27-baef-560bb1d281db",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 veganer Ofenkäse (2 Portionen)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Für die Käsemasse:",
+        "150 g Cashewkerne",
+        "300 ml Wasser",
+        "1 EL Zitronensaft",
+        "1 EL (10 g) Misopaste",
+        "2 EL (15 g) Tapiokastärke",
+        "1 TL (5 g) Knoblauchpulver",
+        "1 TL (5 g) Zwiebelpulver",
+        "3 EL (20 g) Hefeflocken",
+        "3 Zweige Rosmarin",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "Obst (z. B. Weintrauben)",
+        "Gemüse (z. B. Gurke, Paprika und Karotten)",
+        "Brot (z. B. Baguette oder Ciabatta)",
+        "Nüsse (z. B. Walnüsse und Pistazien)"
+      ],
+      "instructions": [
+        "Eine kleine Kuchenform (Durchmesser 10-16 cm) oder eine kleine backofenfeste Form mit Backpapier auslegen. Die Cashewkerne mind. 30 Minuten in Wasser einweichen, danach abgießen.",
+        "Cashewkerne, frisches Wasser, Zitronensaft, Misopaste, Tapiokastärke, Knoblauch- und Zwiebelpulver, Hefeflocken, Salz und Pfeffer in einen Mixer geben und zu einer cremigen Masse mixen.",
+        "Den Backofen auf 200°C Umluft vorheizen. Die Cashewmasse in einen kleinen Topf füllen, einmal aufkochen lassen und mind. 2 Minuten bei mittlerer Hitze köcheln lassen. Erneut mit Salz, Pfeffer und optional anderen Gewürzen abschmecken.",
+        "Die Masse in die vorbereitete Form füllen und ein paar Zweige Rosmarin darauflegen. Im vorgeheizten Ofen auf mittlerer Schiene ca. 15 Minuten backen. Den Ofen danach auf Oberhitze (oder Grillfunktion) stellen und den veganen Ofenkäse ca. 3-5 Minuten von oben bräunen lassen.",
+        "In der Zwischenzeit euer Obst und Gemüse waschen und klein schneiden. Das Brot gegebenfalls aufbacken oder in einer Pfanne rösten. Den veganen Ofenkäse aus dem Ofen nehmen und mit den Beilagen eurer Wahl servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

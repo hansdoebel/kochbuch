@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-okroschka-kalte-russische-suppe",
+  "recipes": [
+    {
+      "name": "Vegane Okroschka (Kalte russische Suppe)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-okroschka-kalte-russische-suppe",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-okroschka-kalte-russische-suppe#recipe-5371800a-1aae-5518-a4e8-fab883ba025e",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "400 g festkochende Kartoffeln",
+        "1 Gurke",
+        "200 g Radieschen",
+        "3 Frühlingszwiebeln",
+        "10 g Schnittlauch",
+        "10 g Dill",
+        "10 g Petersilie",
+        "400 g veganer ungesüßter Joghurt",
+        "150 g vegane Crème fraîche",
+        "400 ml Sprudelwasser",
+        "1 TL Senf",
+        "Salz",
+        "Pfeffer",
+        "Kala Namak (optional)",
+        "Zitronensaft"
+      ],
+      "instructions": [
+        "Die Kartoffeln ungeschält in einen Topf geben, mit Wasser bedecken und salzen. Dann circa 10–20 Minuten kochen, bis sie gar sind. Anschließend abgießen und abkühlen lassen. Erst danach schälen und in kleine Stücke schneiden.",
+        "Während die Kartoffeln kochen, Gurke und Radieschen fein würfeln, Frühlingszwiebeln in feine Ringe schneiden und die frischen Kräuter hacken. Alles in einen Topf oder eine große Schüssel geben.",
+        "Veganen Joghurt und Crème fraîche, Sprudelwasser und Senf dazugeben und alles gut verrühren. Mit Salz, Pfeffer, Kala Namak und Zitronensaft abschmecken.",
+        "Die Suppe mehrere Stunden oder über Nacht in den Kühlschrank stellen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

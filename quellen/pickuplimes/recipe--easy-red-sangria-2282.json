@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/easy-red-sangria-2282",
+  "recipes": [
+    {
+      "name": "Easy Red Sangria",
+      "source_url": "https://www.pickuplimes.com/recipe/easy-red-sangria-2282",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT15M",
+      "cook_time": "",
+      "total_time": "PT25M",
+      "ingredients": [
+        "1 apple",
+        "½ orange",
+        "2 Tbsp light brown sugar",
+        "1 cinnamon stick",
+        "1 cup orange juice",
+        "2 cup ice cubes",
+        "2 cup alcohol-free red wine",
+        "1 cup carbonated water"
+      ],
+      "instructions": [
+        "Cut the apples and oranges into thin slices*.",
+        "Transfer to the serving jug and add the sugar.",
+        "Mull slightly with a wooden spatula or tamper.",
+        "Add the cinnamon stick.",
+        "Then add the orange juice and stir. Let sit at room temperature for at least 10 minutes, or in the fridge for 4 to 8 hours for a more fruity flavour**.",
+        "When ready to serve, add a generous amount of ice cubes and the wine.",
+        "Optionally, reduce the intensity of the drink and add some fizz by adding carbonated water.",
+        "To assemble, divide into glasses, garnish as desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Pinot Noir or other fruity, low-tannin red wines like Spanish Tempranillo or Garnacha work best, though any affordable wine will do. *If desired, reserve a few pieces for garnish. ** This makes sangria a great make-ahead recipe!",
+    "Storage The assembled red sangria is best enjoyed immediately. The muddled fruit mixture can be stored in the fridge for up to 1 day. Add the ice, wine, and carbonated water (if using) when ready to serve."
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-sachertorte",
+  "recipes": [
+    {
+      "name": "Vegane Sachertorte",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-sachertorte",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-sachertorte#recipe-07506735-e1b3-5023-a4e2-a148ebb8ea97",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Stücken",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "200 g Marillenmarmelade/Aprikosenkonfitüre (min. 45 % Aprikosenanteil)",
+        "Teig",
+        "250 g dunkle Schokolade (min. 35 % Kakaoanteil)",
+        "150 g vegane Butter",
+        "300 g Mehl",
+        "100 g Zucker",
+        "8 g Backpulver",
+        "4 g Natron",
+        "1 Vanilleschote",
+        "0.5 TL Salz",
+        "250 ml pflanzliche Milch",
+        "150 g Apfelmuß",
+        "Schokoladenguss",
+        "125 ml Wasser",
+        "200 g weißer Zucker",
+        "150 g dunkle Schokoladenkuvertüre (min. 55 % Kakaoanteil)"
+      ],
+      "instructions": [
+        "Teig",
+        "Die Schokolade gemeinsam mit der veganen Butter in einem Wasserbad schmelzen.",
+        "In einer großen Schüssel Mehl, Zucker, Backpulver, Natron und Salz vermischen.",
+        "Die pflanzliche Milch und das Apfelmus zur heißen Butter-Schokoladen-Mischung unterrühren.",
+        "Die Vanilleschote halbieren und das Vanillemark mit der Rückseite eines Messers herauskratzen. Das Vanillemark ebenfalls dazugeben.",
+        "Zum Schluss den Mehlmix zügig unter diese Mischung geben, dabei möglichst wenig rühren, gerade so lange bis ein glatter Teig entstanden ist!",
+        "Eine Kuchenform (22 cm Durchmesser) mit Backpapier auslegen, mit veganer Butter einfetten und den Teig hineinfüllen.",
+        "Den Backofen auf 180°C Umluft vorheizen und den Kuchen darin für 40 Minuten backen.",
+        "Den Kuchen im Anschluss komplett abkühlen lassen (am besten über Nacht) und mit einem Tortenschneider oder einem Kuchenmesser halbieren.",
+        "Die Oberfläche des unteren Bodens mit Aprikosenkonfitüre bestreichen und den oberen Boden wieder aufsetzen. Auch diesen mit Aprikosenkonfitüre bestreichen, sowie alle restlichen Seiten des Kuchens.",
+        "Schokoladenguss",
+        "In einem Topf das Wasser mit dem weißen Zucker vermischen und auf hoher Stufe für 5 Minuten kochen lassen.",
+        "Vom Herd nehmen und ca. 10 Minuten abkühlen lassen.",
+        "Die Schokoladenkuvertüre hacken und hinzugeben. Solange verrühren, bis die Schokolade komplett geschmolzen ist.",
+        "Die lauwarme Kuvertüre über den Kuchen gießen und abkühlen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

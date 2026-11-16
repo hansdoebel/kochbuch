@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gegrillter-chicoree-ceasar-salad",
+  "recipes": [
+    {
+      "name": "Gegrillter Chicoree Caesar Salad",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gegrillter-chicoree-ceasar-salad",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gegrillter-chicoree-ceasar-salad#recipe-fb0183fa-b2fe-56c0-b018-4a25a6a771de",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "Für den Salat",
+        "2 Chicorée",
+        "2 Römersalat",
+        "Für die Crôutons",
+        "1 helles Brötchen",
+        "1 EL Olivenöl",
+        "0.25 TL Knoblauchpulver",
+        "Salz",
+        "Pfeffer",
+        "Für das Dressing",
+        "50 g vegane Mayo",
+        "50 g veganer Naturjoghurt",
+        "2 EL Cashewmus",
+        "1 Knoblauchzehe",
+        "1 EL Zitronensaft",
+        "1 EL Apfelessig",
+        "1 EL Hefeflocken",
+        "1 EL Olivenöl",
+        "1 EL Senf",
+        "1 EL Kapern",
+        "1 EL Senfkörner",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren",
+        "veganer Parmesan am Stück"
+      ],
+      "instructions": [
+        "Für die Croûtons zuerst den Backofen auf 200 °C (Ober-/Unterhitze) vorheizen. Das helle Brötchen in kleine Stückchen schneiden oder reißen. Auf einem Backblech verteilen, mit Olivenöl beträufeln und mit Salz, Pfeffer und Knoblauchpulver würzen. Die Crôutons circa 10 Minuten backen, bis sie goldbraun und knusprig sind. Danach aus dem Ofen nehmen und abkühlen lassen.",
+        "In der Zwischenzeit für das Dressing vegane Mayo und Joghurt, Cashewmus, eine geriebene Knoblauchzehe, Zitronensaft, Apfelessig, Hefeflocken, Olivenöl, Senf, Kapern und Senfkörner verrühren. Mit Salz, Pfeffer und nach Wunsch mehr Zitronensaft oder Hefeflocken abschmecken.",
+        "Chicorée und Römersalat so halbieren, dass die Blätter noch zusammenhalten. In einer Grillpfanne mit etwas Öl circa 5 Minuten anbraten, bis die Salate Grillstreifen haben.",
+        "Zum Servieren das Dressing auf einer großen Platte verstreichen und die gegrillten Salate darauf verteilen. Mit den knusprigen Crôutons und frisch geriebenem veganem Parmesan bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

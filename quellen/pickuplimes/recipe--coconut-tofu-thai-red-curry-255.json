@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/coconut-tofu-thai-red-curry-255",
+  "recipes": [
+    {
+      "name": "Coconut & Tofu Thai Red Curry",
+      "source_url": "https://www.pickuplimes.com/recipe/coconut-tofu-thai-red-curry-255",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT30M",
+      "total_time": "PT40M",
+      "ingredients": [
+        "½ Tbsp vegetable oil",
+        "3 medium shallot",
+        "2 garlic clove",
+        "2 medium potato",
+        "3 Tbsp Thai red curry paste",
+        "¾ cup water",
+        "1⅓ cup long-grain white rice",
+        "12.346 oz pre-seasoned tofu strips",
+        "2 red bell pepper",
+        "1 small broccoli",
+        "1⅔ cup canned full-fat coconut milk",
+        "1 Tbsp reduced-sodium soy sauce",
+        "1 tsp sambal oelek",
+        "3 Tbsp unsalted roasted cashews"
+      ],
+      "instructions": [
+        "Heat the oil in a large pot over high heat. Cook the shallots for about 5 minutes, or until lightly golden. Add splashes of water as needed to de-glaze the pan.",
+        "Add the garlic and cook for another 2 minutes.",
+        "Add the potatoes and curry paste, and cook for 1 to 2 minutes.",
+        "Then add the water to the pot. Bring to a boil, then reduce to a simmer, and cover with a lid. Simmer for 15 minutes.",
+        "Meanwhile, cook the rice according to package directions.",
+        "Add the remaining ingredients to the pot and cook for about 6 to 8 minutes, or until the veggies are cooked to desired tenderness. Add more water if a thinner consistency is desired.",
+        "Serve with the rice, and top with cashews for crunch. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Pre-seasoned tofu strips can often be found alongside regular tofu at your local grocery store, and can come in a variety of flavours.",
+    "Storage Store the curry in an airtight container in the fridge for up to 3 days, or in the freezer for up to 2 months."
+  ]
+}

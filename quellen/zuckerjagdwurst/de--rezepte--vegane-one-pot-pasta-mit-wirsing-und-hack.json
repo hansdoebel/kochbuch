@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-one-pot-pasta-mit-wirsing-und-hack",
+  "recipes": [
+    {
+      "name": "Vegane One Pot Pasta mit Wirsing und „Hack“",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-one-pot-pasta-mit-wirsing-und-hack",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-one-pot-pasta-mit-wirsing-und-hack#recipe-db37479b-4ffd-5683-bb90-3e21288a625d",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "500 g Wirsing",
+        "1 rote Paprika",
+        "1 gelbe Paprika",
+        "500 g veganes frisches Hack",
+        "1 TL edelsüßes Paprikapulver",
+        "0.5 TL Muskat",
+        "3 EL Tomaten-Gemüse-Mark (z. B. von Byodo)",
+        "1 l Gemüsebrühe",
+        "250 ml passierte Tomaten",
+        "250 g helle Hörnchen (z. B. von Byodo)",
+        "2-3 EL Hefeflocken",
+        "300 g vegane Crème fraîche",
+        "Brat-Olive Mediterran (z. B. von Byodo)",
+        "Petersilie",
+        "Premium Meersalz (z. B. von Byodo)",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Zwiebel und Knoblauch schälen und fein würfeln. Wirsing in feine Streifen schneiden und beide Paprika würfeln.",
+        "Pflanzenöl in einem großen Topf bei mittlerer Hitze erwärmen. Zwiebelwürfel dazugeben und ca. 2-3 Minuten anschwitzen, bis sie glasig sind. Danach Knoblauch dazugeben und ca. 2 Minuten weiterbraten. Nun auch das vegane Hack, Paprikapulver, Muskat und Tomaten-Gemüse-Mark mit anbraten, bis alles gut gebräunt ist.",
+        "Die Paprikawürfel hinzugeben und kurz anbraten. Dann alles mit Gemüsebrühe und passierten Tomaten aufgießen, die Hörnchennudeln hinzugeben und kochen, bis die Nudeln al dente sind. Etwa 2-3 Minuten vor der angegebenen Kochzeit den Wirsing hinzugeben und unterrühren.",
+        "Zum Schluss mit Hefeflocken, Paprikapulver, Muskat, Salz und Pfeffer abschmecken und mit veganer Crême fraîche und frischer Petersilie servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

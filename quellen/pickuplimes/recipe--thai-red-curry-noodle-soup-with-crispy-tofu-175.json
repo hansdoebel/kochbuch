@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/thai-red-curry-noodle-soup-with-crispy-tofu-175",
+  "recipes": [
+    {
+      "name": "Thai Red Curry Noodle Soup with Crispy Tofu",
+      "source_url": "https://www.pickuplimes.com/recipe/thai-red-curry-noodle-soup-with-crispy-tofu-175",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT07M",
+      "cook_time": "PT08M",
+      "total_time": "PT15M",
+      "ingredients": [
+        "1 Tbsp vegetable oil",
+        "11.464 oz firm tofu",
+        "1 tsp vegetable oil",
+        "3 garlic clove",
+        "1 Tbsp grated fresh ginger",
+        "3 Tbsp Thai red curry paste",
+        "2½ cup vegetable broth",
+        "1⅔ cup canned full-fat coconut milk",
+        "2 Tbsp reduced-sodium soy sauce",
+        "2 tsp sambal oelek",
+        "1 red bell pepper",
+        "4.409 oz brown rice noodles",
+        "2 head baby bok choy"
+      ],
+      "instructions": [
+        "Heat the oil in a large pan over medium-high heat. Add the tofu and cook until golden on most sides, about 8 minutes, stirring occasionally.",
+        "Meanwhile, heat some more oil in a large pot over high heat. Add the garlic and ginger and cook for 2 minutes, stirring often.",
+        "Add the curry paste and cook for 1 more minute, stirring constantly.",
+        "Add the vegetable broth, coconut milk, soy sauce, sambal (if using), and bell pepper. Stir to combine, then partially cover and simmer for 5 minutes.",
+        "Add the noodles and bok choy and simmer for 3 minutes.**",
+        "Divide the soup among bowls. Top with the tofu and any desired toppings, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † If you're vegan, be sure to check the ingredient list of the curry paste to make sure it is free from fish sauce. ** If you don't have noodles that cook within 3 minutes, cook them in a separate saucepan first, then add them to the coconut broth at the end.",
+    "Storage This soup is best enjoyed immediately. Otherwise, store in an airtight container in the fridge for up to 2 days. Ideally, store the noodles, tofu, and broth separately, and combine only when ready to enjoy."
+  ]
+}

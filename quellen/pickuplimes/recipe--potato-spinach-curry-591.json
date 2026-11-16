@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/potato-spinach-curry-591",
+  "recipes": [
+    {
+      "name": "Potato & Spinach Curry",
+      "source_url": "https://www.pickuplimes.com/recipe/potato-spinach-curry-591",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT25M",
+      "total_time": "PT35M",
+      "ingredients": [
+        "1 Tbsp vegetable oil",
+        "1 medium onion",
+        "2 garlic clove",
+        "1½ vegetable bouillon cube",
+        "3 Tbsp roti masala spice mix",
+        "3 medium potato",
+        "1 medium carrot",
+        "1 cup cooked chickpeas",
+        "1 cup canned crushed tomatoes",
+        "1 cup water",
+        "1 cup canned full-fat coconut milk",
+        "2 cup spinach",
+        "1 cup frozen green peas",
+        "2 tsp vegetable oil",
+        "2 garlic clove",
+        "2 large soft flour tortilla"
+      ],
+      "instructions": [
+        "Heat the oil in a large pot over high heat. Cook the onion for 3 to 4 minutes. Then add the garlic and cook for another minute.",
+        "Then add the crushed bouillon cube and masala seasoning. Cook and stir continuously for 30 - 60 seconds to allow the spices to lightly toast.",
+        "Add the potatoes, carrots, chickpeas, tomatoes, and water. Bring to a boil.",
+        "Reduce the heat to a simmer, cover, and cook for 20 to 25 minutes, or until the potatoes are fully cooked through. Stir periodically.",
+        "To make the garlic tortilla, mix the oil and garlic in a small bowl. Brush the garlic oil on each side of the tortilla and toast in a large pan over medium-high heat for 1 to 2 minutes on each side, or until golden.",
+        "When the potatoes are cooked, add the coconut milk, spinach, and peas. Cook until heated through.",
+        "Serve the curry with the toasted garlic tortillas 'naans', or some rice if desired. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Our store-bought roti masala seasoning consists of ground coriander, turmeric, cumin, mustard, nigella, fenugreek, and pepper. If you don't have access to a similar spice blend, simply substitute out for an equal amount of curry powder. † Our large tortillas measure about 10 inches (25 cm) in diameter.",
+    "Storage The curry can be kept in an airtight container in the fridge for up to 3 days, or in the freezer for up to 1 month. The garlic tortilla is best when enjoyed immediately."
+  ]
+}

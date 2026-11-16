@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/muhammara-roasted-red-pepper-walnut-spread-264",
+  "recipes": [
+    {
+      "name": "Muhammara - Roasted Red Pepper & Walnut Spread",
+      "source_url": "https://www.pickuplimes.com/recipe/muhammara-roasted-red-pepper-walnut-spread-264",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT26M",
+      "total_time": "PT36M",
+      "ingredients": [
+        "2 red bell pepper",
+        "½ Tbsp olive oil",
+        "½ cup raw walnuts",
+        "⅔ cup bread crumbs",
+        "½ lemon",
+        "1 Tbsp pomegranate molasses",
+        "1 Tbsp olive oil",
+        "1 garlic clove",
+        "2 tsp agave syrup",
+        "1 tsp ground cumin",
+        "½ tsp salt",
+        "⅛ tsp cayenne pepper"
+      ],
+      "instructions": [
+        "Line a baking tray and preheat the oven to 450°F (230°C)*.",
+        "Add the bell peppers to the tray and brush over the oil. Roast for 20 minutes, flipping once halfway.",
+        "Then add the raw walnuts to the baking tray and continue to roast for another 5 to 6 minutes. Remove from the oven. Once cool enough to handle, pull the skin off of the bell peppers.",
+        "Place all the ingredients (except for the walnuts) in a food processor and blend until smooth. Then add the walnuts and blend only momentarily so the walnuts are coarsely chopped to give the dip some texture.",
+        "Taste test, add more seasoning if desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Speed it up by using jarred roasted bell peppers. * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Store in an airtight container in the fridge for up to 4 days."
+  ]
+}

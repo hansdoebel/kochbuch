@@ -1,0 +1,80 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-eggs-florentine",
+  "recipes": [
+    {
+      "name": "Vegane Eggs Florentine",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-eggs-florentine",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-eggs-florentine#recipe-ca8ad4cd-ccfe-5878-a5dc-221cf6295f4b",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "3 Toastbrötchen (z.B. unsere veganen English Muffins)",
+        "400 g frittierter Tofu",
+        "150 g frischen Spinat",
+        "2 Schalotten",
+        "1 Knoblauchzehen",
+        "vegane Butter zum Braten (z.B. Alsan)",
+        "Öl zum Braten",
+        "Kala Namak",
+        "Salz",
+        "weißer Pfeffer",
+        "Muskat",
+        "Schnittlauch oder Kresse zum Garnieren",
+        "vegane Sauce Hollandaise (Rezept siehe unten)"
+      ],
+      "instructions": [
+        "Vegane Sauce Hollandaise schon gemacht? Das Rezept findest du ansonsten weiter unten.",
+        "Spinat waschen, putzen und trocknen. Schalotten und Knoblauch schälen und fein würfeln. Vegane Butter in einer Pfanne schmelzen und Schalotte und Knoblauch anbraten, bis sie glasig sind. Frischen Spinat dazugeben und ca. 5 Min. weiter braten, bis er gerade damit beginnt zu zerfallen. Mit Salz, Pfeffer und Muskat abschmecken. Anschließend warm halten.",
+        "Frittierten Tofu in 6 gleich dicke Scheiben schneiden. Mit Kala Namak und Pfeffer rundum kräftig würzen. Öl in einer Pfanne erhitzen und den Tofu von beiden Seiten anbraten bis er leicht geröstet ist.",
+        "Englische Muffins halbieren und auf Wunsch toasten . Wer keine englischen Muffins hat, kann auch andere Toastbrötchen oder auch geröstetes Brot verwenden. Spinat auf jeder Hälfte verteilen, den gebackenen Tofu darauflegen, nach Geschmack nochmal mit etwas Kala Namak bestreuen und mit veganer Sauce Hollandaise übergießen. Mit gehacktem Schnittlauch und Kresse bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Vegane Sauce Hollandaise",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-eggs-florentine",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-eggs-florentine#recipe-edb22596-13cb-5a3e-9341-63ab366b3cc8",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen (ca. 280 ml)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "4 EL vegane Butter",
+        "2 EL Mehl",
+        "100 ml Gemüsebrühe",
+        "100 ml vegane Kochsahne",
+        "1 EL veganer Weißwein",
+        "1 TL Senf",
+        "1 TL Zitronensaft",
+        "Salz",
+        "weißer Pfeffer"
+      ],
+      "instructions": [
+        "2 Esslöffel vegane Butter in einem Topf schmelzen lassen und Mehl gründlich einrühren, damit nichts klumpt.",
+        "Mit Gemüsebrühe aufgießen und dabei immer schön weiterrühren. Das Ganze kurz und sanft aufkochen lassen, danach die Hitze herunterdrehen und kurz abkühlen lassen. Sojasahne, Weißwein, zwei Esslöffel vegane Butter, Senf und Zitronensaft dazugeben. Mit Salz und weißem Pfeffer abschmecken.",
+        "Tipp: Wenn sich eure Sauce Hollandaise trennt, dann wurde sie wahrscheinlich zu stark erhitzt. Oben im Text haben wir einige Tricks, wie sich die Soße ganz fix wieder verbindet.",
+        "Die Sauce Hollandaise nach Wunsch noch etwas eindicken lassen, bis die gewünschte Konsistenz erreicht ist. Nochmals abschmecken und direkt servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

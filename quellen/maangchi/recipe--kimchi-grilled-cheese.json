@@ -1,0 +1,97 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/kimchi-grilled-cheese",
+  "recipes": [
+    {
+      "name": "Kimchi grilled cheese (김치 그릴치즈)",
+      "source_url": "https://www.maangchi.com/recipe/kimchi-grilled-cheese",
+      "recipe_id": "/recipe/kimchi-grilled-cheese#sso/recipe/92730",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "1 serving",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "P0DT0H10M0S",
+      "ingredients": [
+        "2 slices of bread",
+        "1/2 cup shredded mozzarella cheese",
+        "1/4 cup fermented kimchi, squeezed and chopped",
+        "1 tablespoon unsalted butter"
+      ],
+      "instructions": [
+        "Heat up a large skillet over medium heat. Place the 2 slices of bread side by side, leaving an empty spot in the skillet for cooking kimchi.",
+        "Let it cook for 3 minutes and in the meantime add 1 teaspoon butter and the kimchi to the empty spot in the skillet. Stir the kimchi into the butter so it's cooked nicely.",
+        "Turn a slice of bread over and add the cheese to the hot, toasted side of the bread. Add the fried kimchi and then put the other slice of bread on top, with the hot, toasted side down. So now the cheese will be surrounded with hot kimchi and toasted bread, and the outside of the sandwich has the untoasted sides of the bread.",
+        "Cook for about 2 to 3 minutes, gently pressing down with a spatula, until the bottom of the sandwich turns golden brown.",
+        "Turn it over and melt the rest of the butter next to the sandwich in the skillet. Move the sandwich around in the butter with the spatula for about 1 minute.",
+        "Turn it over again and move the sandwich around in what's left of the melted butter. Remove from the heat and serve right away."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "(Serves 1)"
+        },
+        {
+          "tag": "p",
+          "text": "Total time: about 8 to 10 minutes, including preparation"
+        },
+        {
+          "tag": "li",
+          "text": "2 slices of bread"
+        },
+        {
+          "tag": "li",
+          "text": "1/2 cup shredded mozzarella cheese"
+        },
+        {
+          "tag": "li",
+          "text": "1/4 cup fermented kimchi, squeezed and chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon unsalted butter"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Heat up a large skillet over medium heat. Place the 2 slices of bread side by side, leaving an empty spot in the skillet for cooking kimchi."
+        },
+        {
+          "tag": "li",
+          "text": "Let it cook for 3 minutes and in the meantime add 1 teaspoon butter and the kimchi to the empty spot in the skillet. Stir the kimchi into the butter so it’s cooked nicely."
+        },
+        {
+          "tag": "li",
+          "text": "Turn a slice of bread over and add the cheese to the hot, toasted side of the bread. Add the fried kimchi and then put the other slice of bread on top, with the hot, toasted side down. So now the cheese will be surrounded with hot kimchi and toasted bread, and the outside of the sandwich has the untoasted sides of the bread."
+        },
+        {
+          "tag": "li",
+          "text": "Cook for about 2 to 3 minutes, gently pressing down with a spatula, until the bottom of the sandwich turns golden brown."
+        },
+        {
+          "tag": "li",
+          "text": "Turn it over and melt the rest of the butter next to the sandwich in the skillet. Move the sandwich around in the butter with the spatula for about 1 minute."
+        },
+        {
+          "tag": "li",
+          "text": "Turn it over again and move the sandwich around in what’s left of the melted butter. Remove from the heat and serve right away."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

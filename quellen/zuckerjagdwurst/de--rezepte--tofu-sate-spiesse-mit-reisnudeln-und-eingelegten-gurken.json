@@ -1,0 +1,71 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tofu-sate-spiesse-mit-reisnudeln-und-eingelegten-gurken",
+  "recipes": [
+    {
+      "name": "Tofu-Saté-Spieße mit Reisnudeln und eingelegten Gurken",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tofu-sate-spiesse-mit-reisnudeln-und-eingelegten-gurken",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/tofu-sate-spiesse-mit-reisnudeln-und-eingelegten-gurken#recipe-3da42e8b-0105-5d77-b8c6-b03fe84604f4",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für den Tofu:",
+        "400 g Tofu",
+        "3 EL Kokosmilch aus der Dose",
+        "2 EL Sojasoße",
+        "2 Knoblauchzehen",
+        "ca. 20 g frischer Ingwer",
+        "1 TL gemahlener Kreuzkümmel",
+        "1 TL gemahlener Koriander",
+        "0.5 TL gemahlene Kurkuma",
+        "0.5 TL Cayennepfeffer",
+        "0.5 TL edelsüßes Paprikapulver",
+        "1 TL Curry",
+        "1 TL Zucker",
+        "Salz",
+        "Pfeffer",
+        "Holz- oder Metallspieße",
+        "Pflanzenöl zum Braten",
+        "Für die Soße:",
+        "400 ml Kokosmilch aus der Dose",
+        "1 EL rote Thai Currypaste",
+        "4 EL stückige Erdnussbutter",
+        "2 EL Sojasoße (optional glutenfreie Sojasoße)",
+        "Agavendicksaft",
+        "Für die eingelegten Gurken:",
+        "1 Gurke",
+        "2 Schalotten",
+        "3 Thai Chilis",
+        "1 EL Agavendicksaft (oder Zucker)",
+        "1 Limette (Saft)",
+        "1 EL Reisessig",
+        "Salz",
+        "Zum Servieren:",
+        "Reisnudeln",
+        "Sesam",
+        "gehackte Erdnüsse",
+        "Limette"
+      ],
+      "instructions": [
+        "Zuerst die Gurken einlegen. Dafür die Gurke und Schalotten halbieren und in dünne Scheiben schneiden. Die Thai Chilis vorsichtig in dünne Scheiben schneiden. Alles zusammen in eine kleine Schüssel geben, zusammen mit Agavendicksaft, Limettensaft, Reisessig und Salz. Mit den Händen alles kurz massieren, damit sich alles gut vermengt und dann bis zum Servieren stehen lassen. Nach diesem Schritt die Hände gründlich waschen, damit ihr euch nicht aus Versehen Chili-Spuren in die Augen reibt.",
+        "Den Tofu in größere Würfel schneiden. In einer Schüssel Kokosmilch, Sojasoße, geriebenen Knoblauch und Ingwer und alle Gewürze zu einer dicken Soße verrühren. Die Tofuwürfel dazugeben und gut vermengen. Danach immer mehrere Tofuwürfel auf Spieße stechen. Die übrig gebliebene Würzsoße nicht wegwerfen.",
+        "Pflanzenöl in einer großen Pfanne erwärmen und die Tofu-Würfel von allen Seiten anbraten. Während des Bratens immer wieder mit der restlichen dicken Soße bestreichen.",
+        "Parallel dazu für die Soße Kokosmilch aus der Dose, rote Currypaste, stückige Erdnussbutter und Sojasoße in einem kleinen Topf verrühren und erwärmen. Mit Agavendicksaft abschmecken und alles bei kleiner Hitze köcheln lassen.",
+        "Die Reisnudeln nach Packungsanleitung zubereiten.",
+        "Die gekochten Reisnudeln direkt mit der Soße vermengen und auf den Serviertellern verteilen. Mit Sesam und gehackten Erdnüssen toppen und mit den Tofuspießen, eingelegten Gurken und ein paar extra Limettenspalten servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

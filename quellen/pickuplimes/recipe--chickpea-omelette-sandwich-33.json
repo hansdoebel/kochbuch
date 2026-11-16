@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/chickpea-omelette-sandwich-33",
+  "recipes": [
+    {
+      "name": "Chickpea Omelette Sandwich",
+      "source_url": "https://www.pickuplimes.com/recipe/chickpea-omelette-sandwich-33",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 sandwiches",
+      "prep_time": "PT15M",
+      "cook_time": "PT15M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "1 Tbsp ground flaxseeds",
+        "3 Tbsp water",
+        "½ cup chickpea flour",
+        "½ cup unsweetened soy milk",
+        "1 Tbsp nutritional yeast flakes",
+        "¼ tsp onion powder",
+        "¼ tsp garlic powder",
+        "¼ tsp kala namak",
+        "¼ tsp salt",
+        "⅛ tsp ground black pepper",
+        "½ red bell pepper",
+        "1 small red onion",
+        "1 Tbsp olive oil",
+        "6 slice whole wheat bread",
+        "3 Tbsp vegan mayonnaise",
+        "1 cup romaine lettuce",
+        "1 medium tomato",
+        "1 avocado"
+      ],
+      "instructions": [
+        "In a large bowl, mix together the ground flaxseeds and water. Set aside for 5 minutes to gel.",
+        "Add the remaining omelette ingredients, using only half of the bell pepper and onion. Reserve the other half for serving. Mix well.",
+        "Heat some oil in a large pan over medium-high heat. Add 2 tablespoons of the omelette mixture to the pan per omelette.",
+        "Once golden on the bottom, flip the omelettes and cook on the other side. Repeat until all the batter is used up.",
+        "Spread some mayo on each slice of bread. Top with the omelette, lettuce, tomato, avocado, and the remaining raw bell pepper and onion. Garnish as desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Kala namak, also known as Himalayan black salt, is a salt often used in South Asian cuisine. The sulphur compounds give the salt an egg-like smell and flavour, which makes it perfect to use in an omelette like this one.",
+    "Storage The omelette can be stored in an airtight container in the fridge for up to 3 days."
+  ]
+}

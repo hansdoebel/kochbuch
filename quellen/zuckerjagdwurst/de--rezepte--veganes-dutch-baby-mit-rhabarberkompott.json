@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-dutch-baby-mit-rhabarberkompott",
+  "recipes": [
+    {
+      "name": "Veganes Dutch Baby mit Rhabarberkompott",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-dutch-baby-mit-rhabarberkompott",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-dutch-baby-mit-rhabarberkompott#recipe-bf62543a-9b11-53fd-93d9-c36f03f31391",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Dutch Baby für 2 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Teig",
+        "125 g Mehl",
+        "7 g Backpulver",
+        "10 g Vanillezucker",
+        "25 g weißer Zucker",
+        "Prise Salz",
+        "1 TL Apfelessig",
+        "200 ml pflanzliche Milch",
+        "1 EL pflanzliche Butter",
+        "Rhabarberkompott",
+        "1 Stange frischer Rhabarber",
+        "1 Prise Kardamom",
+        "5 EL Wasser",
+        "2 EL weißer Zucker",
+        "1 TL Stärke (+ 2 EL Wasser)",
+        "1-2 EL Puderzucker"
+      ],
+      "instructions": [
+        "Den Ofen vorheizen auf 180°C Umluft und die gusseiserne Pfanne hineinstellen.",
+        "Alle Zutaten für den Teig in einer Schüssel oder in einem Mixer zu einem glatten Teig vermischen: Mehl, Backpulver, Vanillezucker, weißer Zucker, eine Prise Salz, Apfelessig und pflanzliche Milch.",
+        "Sobald die Pfanne im Ofen sehr heiß geworden ist, sie vorsichtig aus dem Ofen nehmen und 1 EL pflanzliche Butter hineingeben und schwenken. Die Pfanne sollte so heiß sein, dass die Butter zu blubbern anfängt und schnell zerfließt.",
+        "Sobald sich die Butter aufgelöst hat, den Teig in die Pfanne füllen und im Ofen für 20-30 Minuten backen.",
+        "In der Zwischenzeit den Rhabarber waschen und in 1 cm dicke Stücken schneiden.",
+        "In einem kleinen Topf den Rhabarber, den Zucker, Kardamom und das Wasser erhitzen.",
+        "In einer kleinen Schüssel die Speisestärke mit dem Wasser verrühren und mit in den Topf geben. Gut verrühren, kurz aufkochen lassen und nach etwa 5 Minuten bei Seite stellen.",
+        "Das Dutch Baby vorsichtig aus dem Ofen nehmen, in der Pfanne umdrehen (da die Unterseite die Knusprigere ist, zumindest bei einem Gasofen) und mit zwei Gabeln den Teig etwas zerreissen und aufklockern.",
+        "Mit Puderzucker bestreuen und direkt mit Rhabarberkompott servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-fluffiger-karottenkuchen-mit-frischkaesetopping",
+  "recipes": [
+    {
+      "name": "Veganer, fluffiger Karottenkuchen mit Frischkäse-Frosting",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-fluffiger-karottenkuchen-mit-frischkaesetopping",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-fluffiger-karottenkuchen-mit-frischkaesetopping#recipe-a956246e-d6f5-5bdd-a1b1-3f82e93f793a",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "9 Stücke",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Karottenkuchen",
+        "225 g Mehl",
+        "150 g Zucker",
+        "15 g Backpulver",
+        "8 g Vanillezucker",
+        "50 g geröstete & gehackte Haselnüsskerne",
+        "1 TL (4 g) Zimt",
+        "0.5 TL (2 g) Muskat gerieben",
+        "250 ml Sprudelwasser",
+        "50 ml pflanzliches Öl (Raps- oder Sonnenblumenöl)",
+        "80 g frische Karotten",
+        "1 EL pflanzliche Butter",
+        "2 EL Mehl",
+        "Frischkäsefrosting",
+        "100 g pflanzliche Butter (Zimmertemperatur)",
+        "150-250 g Puderzucker (oder mehr)",
+        "150 g pflanzlicher Frischkäse",
+        "1/2 Limette",
+        "Servieren",
+        "100 g gehackte Haselnüsse",
+        "1-2 TL Zimt"
+      ],
+      "instructions": [
+        "Teig",
+        "Alle trockenen Zutaten für den Karottenkuchen in einer großen Schüssel vermengen: Mehl, Zucker, Backpulver, Vanillezucker, gehackte Haselnusskerne, geriebene Muskatnuss und Zimtpulver.",
+        "4-5 Karotten waschen, die Enden entfernen und raspeln (am Ende solltet ihr etwa 80 g erhalten). Ebenfalls hinzugeben und unterrühren.",
+        "Das kohlensäurehaltige Wasser und das Öl dazugeben und zu einem glatten Teig verrühren.",
+        "Eine viereckige Form (20x15 cm) mit der veganen Butter einfetten und mit Mehl ausklopfen. Den Teig hineinfüllen. Im vorgeheizten Ofen bei 180°C für 60 Minuten backen auf mittlerer Stufe. Den Kuchen anschließend abkühlen lassen.",
+        "Frischkäsefrosting",
+        "Für das Frosting die pflanzliche Butter (Zimmertemperatur) mit einer Mixer oder in einer Küchemaschine für 2-3 Minuten aufschlagen. Den Puderzucker nach und nach hinzugeben, bis eine homogene Masse entsteht.",
+        "Nun den pflanzlichen Frischkäse, sowie den Saft einer halben Limette. Wenn das Frosting wie „geronnen“ aussieht, dann fehlt Puderzucker, also etwas trockenes. Solange Puderzucker hinzugeben, bis die Konsistenz stimmt!",
+        "Das Frosting kalt stellen, bis der Kuchen abgekühlt ist. Den Kuchen in 9 Stücken schneiden und mit dem Frosting, gehackten Haselnüssen einer Prise Zimt servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

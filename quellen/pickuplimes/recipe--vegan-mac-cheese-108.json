@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vegan-mac-cheese-108",
+  "recipes": [
+    {
+      "name": "Vegan Mac & 'Cheese'",
+      "source_url": "https://www.pickuplimes.com/recipe/vegan-mac-cheese-108",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "5 servings",
+      "prep_time": "PT15M",
+      "cook_time": "PT40M",
+      "total_time": "PT55M",
+      "ingredients": [
+        "½ cup raw cashews",
+        "8.818 oz medium potato",
+        "1 medium carrot",
+        "1 medium onion",
+        "3 garlic clove",
+        "1 cup unsweetened soy milk",
+        "⅓ cup nutritional yeast flakes",
+        "1 Tbsp apple cider vinegar",
+        "1 Tbsp Dijon mustard",
+        "1 tsp salt",
+        "½ tsp onion powder",
+        "1 pinch ground black pepper",
+        "3¼ cup macaroni pasta",
+        "1 medium broccoli",
+        "½ cup panko bread crumbs",
+        "1 Tbsp unsalted vegan butter",
+        "¼ tsp smoked paprika powder"
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F (200°C)*. Add the cashews to a bowl and cover with plenty of boiling water. Set aside.",
+        "Chop all the vegetables.",
+        "Add 1 inch (2 cm) of water to a large pot and bring to a simmer. Place the potatoes, carrots, onion, and garlic in a steamer basket, cover, and steam for 10 to 15 minutes until tender**. Then drain and add to a blender.",
+        "Add the drained cashews and all of the remaining 'cheese' sauce ingredients to the blender. Blend until smooth. Set aside.",
+        "Cook the pasta in a large pot of salted boiling water following the package instructions. Add the broccoli florets during the last 3 minutes of cooking. Drain once the pasta is al dente.",
+        "Meanwhile, mix the bread crumbs, melted butter, and smoked paprika powder in a small bowl.",
+        "Add the drained pasta, broccoli, and sauce to a large baking dish. Toss together.",
+        "Top with the bread crumbs and bake for 20 minutes, until the top is golden and crispy.",
+        "Garnish as desired and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium . * We used top and bottom heating (not fan-assisted/convection). ** If you don't have a steamer basket, simply cook in the simmering water.",
+    "Storage Store in an airtight container in the fridge for up to three days."
+  ]
+}

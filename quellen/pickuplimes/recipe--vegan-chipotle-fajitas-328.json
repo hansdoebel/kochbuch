@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vegan-chipotle-fajitas-328",
+  "recipes": [
+    {
+      "name": "Spicy Chipotle Fajitas",
+      "source_url": "https://www.pickuplimes.com/recipe/vegan-chipotle-fajitas-328",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT15M",
+      "total_time": "PT25M",
+      "ingredients": [
+        "1 Tbsp vegetable oil",
+        "1 medium onion",
+        "3 garlic clove",
+        "½ tsp salt",
+        "3 bell pepper",
+        "1½ cup mock chicken pieces",
+        "2 tsp ground cumin",
+        "1 tsp dried oregano",
+        "1 tsp sweet paprika powder",
+        "½ tsp chili powder",
+        "¼ tsp ground black pepper",
+        "12 small soft flour tortilla",
+        "3 Tbsp chipotle peppers in adobo sauce",
+        "1 avocado",
+        "⅔ cup salsa",
+        "½ cup shredded red cabbage",
+        "1 lime"
+      ],
+      "instructions": [
+        "Heat the oil in a sauté pan over medium-high heat. Add the onion, garlic, and salt, and cook for 4 to 5 minutes, or until golden.",
+        "Then add the bell peppers, mock \"chicken\", and spices. Cook for 5 minutes. Add a splash of water as needed to deglaze the pan.",
+        "Meanwhile, heat a separate large pan over medium-high heat. Toast a single tortilla at time, for a few seconds on each side, until golden.",
+        "Returning to the fajita mixture, add the chipotle sauce*. Cook for an extra 2 minutes.",
+        "Assemble the fajitas with the bell pepper mixture and your desired toppings. Squeeze some fresh lime juice over top, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We used all red bell peppers, though any colour will do. † We use pure ground chili powder made from dried chili peppers - not to be confused with the chili powder spice blend commonly found in the US, which often includes cumin, garlic powder, and other seasonings. For the intended heat and flavour, be sure to use pure chili powder. † Our small tortillas measure about 6 inches (15 cm) in diameter. * The chipotle sauce is spicy, so add less if you'd prefer less heat.",
+    "Storage Store the filling in an airtight container in the fridge for up to 4 days."
+  ]
+}

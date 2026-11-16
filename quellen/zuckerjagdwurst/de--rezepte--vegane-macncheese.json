@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-macncheese",
+  "recipes": [
+    {
+      "name": "Vegane Mac'n'Cheese",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-macncheese",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-macncheese#recipe-c187d5fa-7de1-5eb0-b899-6dec6ead4bbe",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für die Nudeln:",
+        "500 g kleine Hörnchennudeln",
+        "Salz",
+        "Für die Soße:",
+        "250 g Kartoffeln",
+        "1 kleine Möhre",
+        "1 Zwiebel",
+        "150 g Cashewnüsse (mind. 30 Min. eingeweicht)",
+        "60 ml vegane Sahne",
+        "3 EL Hefeflocken",
+        "1 EL helle Misopaste",
+        "200 ml Wasser",
+        "Salz",
+        "Pfeffer",
+        "Knoblauchpulver",
+        "Cayennepfeffer",
+        "Paprikapulver",
+        "Für das Topping:",
+        "2 EL Olivenöl",
+        "50 g Panko (oder Semmelbrösel)",
+        "2 Knoblauchzehen",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Kartoffeln, Möhre und Zwiebel in grobe Stücke schneiden und in einen Topf geben. Mit Wasser bedecken, salzen und bei mittlerer Hitze kochen, bis das Gemüse gar ist. Anschließend abgießen.",
+        "In der Zwischenzeit für das Topping Olivenöl in einer Pfanne erhitzen und Panko darin 4–5 Minuten goldbraun rösten. Knoblauch schälen und direkt in die Pfanne reiben oder fein hacken. 1–2 Minuten weiter anbraten. Danach die Pfanne vom Herd nehmen und das knusprige Topping mit Salz und Pfeffer abschmecken. Danach bis zum Servieren beiseitestellen.",
+        "Das gekochte Gemüse, Cashewnüsse, vegane Sahne, Hefeflocken, Misopaste und Wasser in einen Mixer geben oder mit einem Pürierstab zu einer cremigen Soße verarbeiten. Nach Wunsch noch mehr Wasser dazugeben, bis die gewünschte Konsistenz erreicht ist. Die Soße in einen Topf geben und mit Salz, Pfeffer, Knoblauchpulver, Cayennepfeffer und Paprikapulver abschmecken. Anschließend bei kleiner Hitze köcheln lassen, bis die Nudeln gar sind.",
+        "Gesalzenes Wasser in einem Topf zum Kochen bringen und die Nudeln nach Packungsanweisung al dente kochen. Vor dem Abgießen etwas vom Kochwasser auffangen und beiseitestellen.",
+        "Die gekochten Nudeln zur Soße geben und darin schwenken. Dabei so viel vom Kochwasser hinzugeben, bis eine sämige Soße entsteht.",
+        "Die veganen Mac'n'Cheese vor dem Servieren erneut abschmecken und mit dem knusprigen Topping bestreuen.",
+        "Tipp: Am besten verputzt ihr die Mac'n'Cheese direkt. Ansonsten beim Wieder-Aufwärmen noch ein bisschen Wasser dazu geben, damit das ganze wieder cremig, und nicht zu trocken wird."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

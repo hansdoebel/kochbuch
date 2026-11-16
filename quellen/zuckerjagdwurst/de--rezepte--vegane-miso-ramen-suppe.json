@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-miso-ramen-suppe",
+  "recipes": [
+    {
+      "name": "Vegane Instant Ramen Soup",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-miso-ramen-suppe",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-miso-ramen-suppe#recipe-29adb273-c64e-50ec-b7ea-ce9a73802809",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Person",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "150 g Ramen Noodles",
+        "1 Knoblauchzehe",
+        "10 g Ingwer",
+        "1 EL Sojasauce",
+        "1 TL Mirin",
+        "1 EL Sriracha",
+        "3 EL helle Misopaste",
+        "1 kleine Möhre",
+        "1 handvoll Sojasprossen",
+        "20 g frischer Spinat",
+        "1 Frühlingszwiebel",
+        "50 g Edamame",
+        "1/2 Noriblatt",
+        "Sesamöl"
+      ],
+      "instructions": [
+        "Ramennudeln in einem Topf oder einer Schüssel mit heißem Wasser übergießen und ca. 10 Minuten ziehen lassen (nicht ganz so lang, wie auf der Packung steht). Danach abgießen und mit etwas Sesamöl durchschwenken, damit sie nicht aneinanderkleben.",
+        "Möhre und Spinat in feine Streifen schneiden, Frühlingszwiebeln in feine Ringe schneiden. Edamame falls noch nicht gemacht abkochen und die Edamamebohnen herauspulen.",
+        "Knoblauch und Ingwer schälen und fein hacken. In einer kleinen Schüssel mit Misopaste, Mirin, Sojasauce und Sriracha verrühren. Die Würzmischung nach unten in euer Transportglas geben.",
+        "Die Ramennudeln, das kleingeschnittene Gemüse, Sojasprossen und zum Schluss ein fein geschnittenes halbes Noriblatt darüberstapeln. So könnt ihr das Ganze mit auf Arbeit nehmen.",
+        "Zum Servieren nur noch mit heißem Wasser auffüllen, ca. 5 Minuten stehen lassen und umrühren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

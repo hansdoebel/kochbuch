@@ -1,0 +1,161 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/kare-bokkeumbap",
+  "recipes": [
+    {
+      "name": "Korean style curry fried rice with chicken",
+      "source_url": "https://www.maangchi.com/recipe/kare-bokkeumbap",
+      "recipe_id": null,
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 pound chicken breast, cut into ½ inch cubes",
+        "2 garlic cloves, minced",
+        "about 2 tablespoons freshly squeezed lemon",
+        "¼ teaspoon kosher salt",
+        "a pinch of ground black pepper",
+        "3 tablespoons vegetable oil",
+        "½ of medium size onion (½ cup), chopped",
+        "8 ounces fermented kimchi, rinsed, squeezed, and chopped.",
+        "¼ cup peeled and chopped carrot",
+        "1 green bell pepper, cored and chopped",
+        "¼ cup Korean curry powder",
+        "2 bowls of cooked rice (about 3 cups)",
+        "2 over-easy eggs (optional)"
+      ],
+      "instructions": [
+        "Combine the chicken, garlic, lemon juice, salt, and pepper in a bowl and mix it well with a wooden spoon.",
+        "Heat up a large frying pan over medium hight heat.",
+        "Add the vegetable oil and onion and stir for about 1 to 2 minutes until the onion turns light brown.",
+        "Stir in the chicken and cook for about 3 minutes, until the chicken is no longer pink.",
+        "Add kimchi, carrot, and green bell pepper. Stir for 2 to 3 minutes until the chicken is fully cooked.",
+        "Add 2 bowls of rice (3 cups’ worth), stir it in and mix all together with the wooden spoon. Stir in the curry powder until everything is a well mixed, even yellow color with no rice lumps.",
+        "Remove from the heat. Transfer to 2 plates and top with an over-easy eggs on each (if you use). Or pack it in a lunchbox. It will still be delicious even hours later."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "h3",
+          "text": "For the chicken:"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound chicken breast, cut into ½ inch cubes"
+        },
+        {
+          "tag": "li",
+          "text": "2 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "about 2 tablespoons freshly squeezed lemon"
+        },
+        {
+          "tag": "li",
+          "text": "¼ teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "a pinch of ground black pepper"
+        },
+        {
+          "tag": "h3",
+          "text": "For the curry stir-fry:"
+        },
+        {
+          "tag": "li",
+          "text": "3 tablespoons vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "½ of medium size onion (½ cup), chopped"
+        },
+        {
+          "tag": "li",
+          "text": "8 ounces fermented kimchi, rinsed, squeezed, and chopped."
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup peeled and chopped carrot"
+        },
+        {
+          "tag": "li",
+          "text": "1 green bell pepper, cored and chopped"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup Korean curry powder"
+        },
+        {
+          "tag": "li",
+          "text": "2 bowls of cooked rice (about 3 cups)"
+        },
+        {
+          "tag": "li",
+          "text": "2 over-easy eggs (optional)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Marinate chicken:"
+        },
+        {
+          "tag": "li",
+          "text": "Combine the chicken, garlic, lemon juice, salt, and pepper in a bowl and mix it well with a wooden spoon."
+        },
+        {
+          "tag": "h3",
+          "text": "Make stir fry:"
+        },
+        {
+          "tag": "li",
+          "text": "Heat up a large frying pan over medium hight heat."
+        },
+        {
+          "tag": "li",
+          "text": "Add the vegetable oil and onion and stir for about 1 to 2 minutes until the onion turns light brown."
+        },
+        {
+          "tag": "li",
+          "text": "Stir in the chicken and cook for about 3 minutes, until the chicken is no longer pink."
+        },
+        {
+          "tag": "li",
+          "text": "Add kimchi, carrot, and green bell pepper. Stir for 2 to 3 minutes until the chicken is fully cooked."
+        },
+        {
+          "tag": "li",
+          "text": "Add 2 bowls of rice (3 cups’ worth), stir it in and mix all together with the wooden spoon. Stir in the curry powder until everything is a well mixed, even yellow color with no rice lumps."
+        },
+        {
+          "tag": "h3",
+          "text": "Serve:"
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat. Transfer to 2 plates and top with an over-easy eggs on each (if you use). Or pack it in a lunchbox. It will still be delicious even hours later."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [
+    "Kein Recipe-JSON-LD; sichtbare Rezeptkarte mit Originaltitel und sichtbarer Byline erfasst."
+  ],
+  "page_recipe_notes": []
+}

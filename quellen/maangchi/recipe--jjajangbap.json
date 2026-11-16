@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/jjajangbap",
+  "recipes": [
+    {
+      "name": "Jjajangbap (Blackbean sauce over rice: 짜장밥)",
+      "source_url": "https://www.maangchi.com/recipe/jjajangbap",
+      "recipe_id": "/recipe/jjajangbap#sso/recipe/99153",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "Serves 2 to 3",
+      "prep_time": "P0DT0H5M0S",
+      "cook_time": "P0DT0H20M0S",
+      "total_time": "P0DT0H25M0S",
+      "ingredients": [
+        "¼ cup chunjang (Korean black bean paste)",
+        "1 tablespoon cooking oil",
+        "8 ounces cabbage, washed and sliced",
+        "8 ounces onion (1 large onion), chopped coarsely",
+        "1 pound pork shoulder (or pork belly), cut into ½ inch cubes",
+        "1 tablespoon potato starch",
+        "1 teaspoon toasted sesame oil",
+        "Freshly made cooked rice (see how to make rice"
+      ],
+      "instructions": [
+        "Reduce the heat to medium and cook for 6 to 7 minutes.",
+        "Stir in the starch water. Drizzle the sesame oil over top and remove from the heat.",
+        "Put some hot rice on a plate or bowl and ladle the sauce on top. Serve by itself, or with kimchi."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

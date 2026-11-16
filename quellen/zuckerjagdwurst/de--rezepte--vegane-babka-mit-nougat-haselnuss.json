@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-babka-mit-nougat-haselnuss",
+  "recipes": [
+    {
+      "name": "Vegane Babka mit Nougat & Haselnuss",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-babka-mit-nougat-haselnuss",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-babka-mit-nougat-haselnuss#recipe-fcdf8921-3702-5287-9636-22a5deb7dde9",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Stücke",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT180M",
+      "ingredients": [
+        "1 EL pflanzliche Butter (zum Einfetten der Kastenform)",
+        "1 EL Mehl (zum Ausklopfen der Kastenform)",
+        "2 EL pflanzliche Milch (zum Einstreichen der Babka)",
+        "Hefeteig",
+        "125 ml pflanzliche Milch",
+        "35 g vegane Butter",
+        "250 g Mehl",
+        "20 g Hefe",
+        "30 g Zucker",
+        "1 Prise Salz",
+        "Füllung",
+        "160 g vegane Nougat-Schokolade (z.B. White Nougat Crisp von iChoc)",
+        "50 ml pflanzliche Milch",
+        "30 g pflanzliche Butter",
+        "25 g gehackte Haselnüsse"
+      ],
+      "instructions": [
+        "Die pflanzliche Milch in einem kleinen Topf erhitzen, bis diese warm ist. Die Butter hinzugeben, einrühren und vom Herd nehmen. Anschließend abkühlen lassen, bis die Milch nur noch lauwarm ist.",
+        "Das Mehl in eine große Schüssel geben und mit dem Zucker und Salz vermischen.",
+        "Die lauwarme Milch hinzugeben und die Hefe auf der warmen Milch zerbröseln und 10 Minuten ohne zu kneten ruhen lassen.",
+        "Nun den Teig gut kneten, zu einer Kugel formen und für 45 Minuten zugedeckt an einem warmen Ort gehen lassen.",
+        "10 Minuten vor Ende der Wartezeit die Füllung vorbereiten: Dafür die vegane Nougat-Schokolade in einem Wasserbad erhitzen.",
+        "Wenn die Schokolade geschmolzen ist die pflanzliche Milch, die pflanzliche Butter und die gehackten Haselnüsse hinzugeben und gut verrühren. Das ganze etwas abkühlen lassen, bis es etwas andickt.",
+        "Eine Kastenform mit pflanzlicher Butter einfetten und mit etwas Mehl ausklopfen.",
+        "Den Teig auf einem bemehlten Untergrund ausrollen und die Füllung darauf gleichmäßig verteilen.",
+        "Den Teig von der langen Seite aufrollen, die Enden gut schließen und anschließend um sich selber wickeln, als würde man ein Handtuch auswringen. Wenn die Füllung etwas ausläuft, ist das gar nicht schlimm. Damit die Babka nach dem Backen noch schön saftig ist, ist es wichtig, dass die Füllung nicht zu trocken ist.",
+        "Den Teig möglichst verdreht in die Kastenform legen und mit einem scharfen Messer den Teig etwas einschneiden, sodass die Schichten der Babka sichtbar werden.",
+        "Den Teig in der Form nochmals 30 Minuten gehen lassen.",
+        "Den Backofen auf 180°C Umluft vorheizen. Mit etwas pflanzlicher Milch bepinseln und für 50-60 Minuten bei 180°C Umluft auf mittlerer Schiene backen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

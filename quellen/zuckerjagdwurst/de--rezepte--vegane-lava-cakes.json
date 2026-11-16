@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-lava-cakes",
+  "recipes": [
+    {
+      "name": "Vegane Lava Cakes",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-lava-cakes",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-lava-cakes#recipe-b8967509-29b6-50c0-927c-5c7515c2f529",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Lava Cakes:",
+        "120 g vegane, dunkle Schokolade (z.B. Brasilien Feinbitter 70 % von Naturata)",
+        "45 ml Sonnenblumen- oder Rapsöl",
+        "160 ml pflanzliche Milch",
+        "100 g Weizenmehl Typ 405",
+        "50 g Zucker",
+        "15 g Kakaopulver",
+        "1 Prise Salz",
+        "Außerdem:",
+        "pflanzliche Butter/Öl zum Einfetten",
+        "Puderzucker oder Kakaopulver",
+        "Physalis"
+      ],
+      "instructions": [
+        "Den Ofen auf 200°C Umluft vorheizen und die Förmchen einer Muffinform mit etwas veganer Butter oder Öl einfetten.",
+        "80 g der Schokolade in einem Wasserbad erhitzen, bis sie geschmolzen ist. Die restliche Schokoladentafel in sechs Stücken teilen.",
+        "Das Öl und die pflanzliche Milch zu der geschmolzenen Schokolade hinzugeben und verrühren.",
+        "In einer Schüssel Mehl, Zucker, Kakaopulver und Salz miteinander vermischen und die flüssigen Zutaten hinzugeben, bis ein glatter Teig entsteht.",
+        "Die Muffinförmchen bis zur Hälfte mit Teig füllen. 1 Stück Schokolade in der Mitte platzieren und mit 1 EL Teig auffüllen. Die Lava Cakes 10 Minuten bei 200°C Umluft backen. Die Küchlein im Anschluss vorsichtig aus den Förmchen nehmen und mit etwas Puderzucker oder Kakaopulver und Physalis servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/suesse-und-herzhafte-gefuellte-croissants",
+  "recipes": [
+    {
+      "name": "Süße & Herzhafte Gefüllte Croissants",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/suesse-und-herzhafte-gefuellte-croissants",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/suesse-und-herzhafte-gefuellte-croissants#recipe-413a0d70-dae7-58f4-bae8-455f7d1d2add",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "10 gefüllte Croissants",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Fertiger Croissant- oder Blätterteig",
+        "FÜR DIE HERZHAFTE VARIANTE",
+        "1 Portion Veganer Rührtofu (Rezept auf dem Blog)",
+        "Tomate",
+        "Kresse",
+        "Veganer Frischkäse",
+        "FÜR DIE SÜSSE VARIANTE",
+        "Veganes Eis",
+        "Bunte Streusel"
+      ],
+      "instructions": [
+        "Den tiefgekühlten Croissant-Teig rauslegen und ein bisschen auftauen lassen. Er sollte nicht zu weich sein, aber sich gut rollen lassen.",
+        "Dreiecke aus dem Teig schneiden und die Croissants einrollen, danach im Ofen goldbraun backen lassen.",
+        "In der Zwischenzeit bereitet ihr euren veganen Rührtofu zu, wascht und schneidet eure Tomate in Scheiben und schneidet etwas Kresse ab.",
+        "Sobald die Croissants fertig sind, kühlt ihr sie etwas ab. Für die herzhafte Variante dürfen sie ruhig noch lauwarm sein, wenn ihr veganen Frischkäse draufstreicht und mit Rührtofu, Kresse und Tomatenscheiben belegt.",
+        "Für die süße Variante noch ein kleines Stück länger abkühlen lassen, damit euer Eis nicht gleich wegschmilzt. Danach Eis in das Croissant stopfen und mit bunten Streuseln garnieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

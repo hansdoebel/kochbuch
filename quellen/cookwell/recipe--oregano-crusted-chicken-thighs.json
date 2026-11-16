@@ -1,0 +1,36 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/oregano-crusted-chicken-thighs",
+  "recipes": [
+    {
+      "name": "Oregano Crusted Chicken Thighs",
+      "source_url": "https://app.cookwell.com/recipe/oregano-crusted-chicken-thighs",
+      "recipe_id": "https://app.cookwell.com/recipe/oregano-crusted-chicken-thighs",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1-2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Chicken Thighs, 2",
+        "Salt, 2 g",
+        "Dried oregano, enough to coat",
+        "Neutral oil, 10 g"
+      ],
+      "instructions": [
+        "Take each chicken thigh, trim off any excess fat, then thin as needed with a knife (butterfly or even out thick spots). Sprinkle with salt evenly on all sides, then add a generous coating of dried oregano. Press the chicken into the dried oregano until it clings to all sides in a uniform layer.",
+        "Preheat a pan or griddle over high heat, ideally making sure the surface temp of the pan reaches about 400°F/200°C. Add the oil and swirl to coat the pan evenly, then lay each seasoned chicken piece onto the hot cooking surface to sear. After a few minutes, the chicken will release from that side when it has browned and a crust has formed. Flip the chicken to finish cooking it through.",
+        "Keep an eye on the heat as the chicken sears and develops a crust on the second side. Some of the excess oregano will inevitably burn, but the seasoning on the meat should stay in good shape. When the second side releases and the chicken is fully cooked (thighs should reach at least 175°F/80°C), remove from the heat. Rest for a few minutes before slicing or storing in an airtight container."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

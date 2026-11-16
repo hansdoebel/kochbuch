@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pasta-mit-zitronensosse",
+  "recipes": [
+    {
+      "name": "Vegane Pasta mit Zitronensoße",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pasta-mit-zitronensosse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pasta-mit-zitronensosse#recipe-4d1ec7bf-24a0-5aba-aced-b21fdd98a7b0",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Für die Pasta:",
+        "250 g Fettuccine (oder eine andere Nudelsorte)",
+        "1 Zitrone",
+        "200 ml Gemüsebrühe",
+        "250 ml pflanzliche Sahne",
+        "2 EL Hefeflocken",
+        "3 EL Mandel- oder Cashewmus",
+        "Salz",
+        "Pfeffer",
+        "Für das Semmelbrösel-Topping:",
+        "2 Knoblauchzehen",
+        "- 2 EL Olivenöl",
+        "50 g Panko Paniermehl (oder Semmelbrösel)",
+        "Petersilie",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Zunächst das Semmelbrösel-Topping vorbereiten und dafür Knoblauch und Petersilie fein hacken. Olivenöl erhitzen und Panko darin ca. 4-5 Minuten goldbraun rösten. Den fein gehackten Knoblauch dazugeben und ca. 1-2 Minuten weiter anbraten. Danach die Pfanne vom Herd nehmen und die gehackte Petersilie untermengen. Das knusprige Topping mit Salz und Pfeffer abschmecken und beiseitestellen.",
+        "Die Schale der Zitrone abreiben und den Saft auspressen. Gemüsebrühe, pflanzliche Sahne und Zitronensaft in einen Topf geben und bei mittlerer Hitze ca. 15 Minuten köcheln lassen, bis die Soße fast um die Hälfte reduziert ist.",
+        "In der Zwischenzeit gesalzenes Wasser zum Kochen bringen und die Nudeln bis ca. 2 Minuten vor der angegebenen Garzeit kochen. Vor dem Abgießen eine Tasse vom Kochwasser abschöpfen und beiseitestellen.",
+        "Wenn die Soße eingeköchelt ist Hefeflocken, Mandel- oder Cashewmus und Zitronenabrieb einrühren und die Soße mit Salz und Pfeffer abschmecken. Nun die gekochten Nudeln direkt in die Soße geben und durchschwenken. Dabei nach und nach etwas vom Kochwasser dazugeben, bis eine sämige Soße entsteht.",
+        "Die Nudeln in Zitronensoße mit dem Semmelbröseltopping und einer guten Prise Pfeffer servieren. Wer mag, kann auch noch feine Zitronenzesten darüber verteilen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

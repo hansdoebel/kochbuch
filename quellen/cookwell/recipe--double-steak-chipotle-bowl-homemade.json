@@ -1,0 +1,65 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/double-steak-chipotle-bowl-homemade",
+  "recipes": [
+    {
+      "name": "Double Steak Chipotle Bowl",
+      "source_url": "https://app.cookwell.com/recipe/double-steak-chipotle-bowl-homemade",
+      "recipe_id": "https://app.cookwell.com/recipe/double-steak-chipotle-bowl-homemade",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "Makes 4 burrito bowls",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT1H",
+      "ingredients": [
+        "Chuck roast, ~900 g",
+        "Salt, a sprinkle",
+        "Cumin, a sprinkle",
+        "Paprika, a sprinkle",
+        "Lime juice, a spritz",
+        "Rice, 160 g",
+        "Water, 250 g",
+        "Chicken bouillon, 12 g",
+        "Cooking oil, 5 g",
+        "Garlic, 1-2 cloves",
+        "Serrano peppers, 1/2",
+        "Roma tomatoes, 1",
+        "Avocados, 1",
+        "Sour Cream, 150 g",
+        "Cilantro, a handful",
+        "Lime juice, a splash",
+        "Adobo Seasoning, a sprinkle",
+        "Corn, 2 ears",
+        "Cilantro, a handful",
+        "Shallots, 1/2",
+        "Lime juice, a splash",
+        "Salt, to taste",
+        "Black Beans, 400 g",
+        "Cooking oil, 5 g",
+        "Garlic, 1 clove",
+        "Serrano peppers, 1/2",
+        "Smoked Paprika, a sprinkle",
+        "Salt, to taste",
+        "Pepper Jack Cheese",
+        "Lettuce"
+      ],
+      "instructions": [
+        "Sear and season the steak: Add a portion of steak slices to a medium-high heat griddle. It should have enough fat on its own to render out and cook, but you can add a drizzle of oil if needed. Season with salt, cumin, and chili powder to your liking. it. Leave it on the griddle for 3-4 minutes or until it browns. Finish & adjust: Add a spritz of lime juice for acid. Taste and adjust with more lime, salt, or seasoning.",
+        "Toast the rice & aromatics: Heat a saucepan over medium heat. Add the oil, chicken bouillon, garlic, and serrano. Bloom for 30 seconds. Add the diced tomatoes and sauté for 1 minute. Add the rice and toast for 2 minutes until there are little char marks on the exterior of the grains or the rice smells toasty. Add the water to deglaze the pan, then bring the mixture to a boil for 2 mins. Reduce the heat to low. Simmer covered with a towel and lid for 25 minutes or until the moisture has been absorbed and the rice is cooked through.",
+        "Prep the corn: Remove the husks from 2 ears of corn and cook them on a griddle, grill, or gas flame over medium heat until charred. Meanwhile, prepared the other ingredients. Once the corn is toasted, sliced off the kernels. Mix the salsa: Add the corn, shallots, and cilantro stems to the container. Add salt and lime juice and shake together. Let it sit for a few minutes to marinate for better flavor until ready to serve.",
+        "In a pan, add the oil, serrano peppers, and garlic to bloom for two minutes. Pour in the entire container of black beans and let it simmer. Add salt and smoked paprika. Let it simmer for another 2 minutes to reduce excess liquid. When the beans are cooked to your liking, taste & adjust the seasoning (if needed), and then set aside.",
+        "To a blender or food processor, add the low-fat sour cream, ripe avocado, cilantro, adobo seasoning, and lime juice. Pulse to combine. Taste and adjust as needed.",
+        "To a warm bowl add heated beans, rice, and steak, followed by the corn salsa, crema, lettuce, and jack cheese. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

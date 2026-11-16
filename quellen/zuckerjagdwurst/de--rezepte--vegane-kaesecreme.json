@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kaesecreme",
+  "recipes": [
+    {
+      "name": "Vegane Käsecreme",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kaesecreme",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kaesecreme#recipe-b774e665-81d2-5801-895e-06e0e3a9162c",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "400 g Käsecreme",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "Für die Käsecreme:",
+        "250 ml Sojamilch",
+        "40 g Weizenmehl (Type 405)",
+        "100 ml neutrales Pflanzenöl (Sonnenblumen- oder Rapsöl)",
+        "5 EL Hefeflocken",
+        "1 TL Senf",
+        "1 Prise Kala Namak",
+        "1 Messerspitze Kurkuma",
+        "1 Prise Zucker",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "frischer Schnittlauch",
+        "Brot oder Brötchen",
+        "Salatgurke"
+      ],
+      "instructions": [
+        "Sojamilch, Mehl und neutrales Pflanzenöl in einem kleinen beschichteten Topf langsam zum Köcheln bringen und dabei ständig mit einem Schneebesen rühren, damit nichts anbrennt.",
+        "Hefeflocken, Senf, Kala Namak, Kurkuma und Zucker dazugeben. Sobald die Masse andickt vom Herd nehmen, mit Salz und Pfeffer abschmecken und abkühlen lassen. Wenn sich das Öl wieder von der Masse trennt, könnt ihr die Creme einfach pürieren, bis wieder eine cremige Masse entsteht.",
+        "Die Käsecreme auf Brot servieren, im Anschluss in einem luftdichten Behälter im Kühlschrank aufbewahren und innerhalb von 3–4 Tagen essen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

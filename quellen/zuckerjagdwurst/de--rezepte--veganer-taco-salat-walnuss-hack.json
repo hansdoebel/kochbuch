@@ -1,0 +1,97 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-taco-salat-walnuss-hack",
+  "recipes": [
+    {
+      "name": "Veganer Taco-Salat mit Walnuss-Hack",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-taco-salat-walnuss-hack",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-taco-salat-walnuss-hack#recipe-667d9337-ef58-5302-826d-2945742e1771",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für das Walnuss-Hack:",
+        "200 g EDEKA Bio Walnusskerne",
+        "1 Knoblauchzehe",
+        "1 Zwiebel",
+        "2 EL Sojasauce",
+        "2 EL Senf",
+        "3 EL EDEKA Sunny Tomato milde Salsa",
+        "2 EL Hefeflocken",
+        "2 TL Liquid Smoke",
+        "3 EL pflanzliches Öl",
+        "Salz",
+        "Pfeffer",
+        "Für den Salat:",
+        "200 g Tortilla Chips (Natural Salted)",
+        "200 g Mais aus der Dose",
+        "1 rote Zwiebel",
+        "2 Romana-Salatherzen",
+        "4 Pflaumentomaten",
+        "1 Frühlingszwiebeln",
+        "1 rote Chili",
+        "Für die Guacamole:",
+        "2 Avocados",
+        "1 rote Zwiebel",
+        "0.5 Limette",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "150 g vegane Sour Cream",
+        "245 ml EDEKA Sunny Tomato milde Salsa",
+        "Limetten zum Servieren",
+        "veganer Streukäse zum Servieren"
+      ],
+      "instructions": [
+        "Für das Walnuss-Hack die Walnüsse in eine Schüssel geben, mit Wasser übergießen und mind. 30 Minuten quellen lassen.",
+        "In der Zwischenzeit den Knoblauch und die Zwiebel schälen und beiseitestellen. Bis die Walnüsse weich genug sind, könnt ihr schon mal die restlichen Zutaten für den Salat vorbereiten: Mais abgießen, rote Zwiebel schälen und in Ringe schneiden, den Romanasalat und die Pflaumentomaten waschen und klein schneiden. Frühlingszwiebeln und Chili waschen und in feine Ringe schneiden.",
+        "Für die Guacamole die Avocados aufschneiden, jeweils den Kern entfernen und das Fruchtfleisch in einer Schüssel mit einer Gabel zerdrücken. Die rote Zwiebel schälen, fein würfeln und untermischen. Mit dem Saft einer halben Limette, Salz und Pfeffer abschmecken.",
+        "Zurück zum Walnuss-Hack: Die eingeweichten Walnüsse, Knoblauch, Zwiebel, Sojasauce, Senf, Salsa, Hefeflocken und Liquid Smoke in einen Mixer geben und mit Salz und Pfeffer würzen. So lange mixen, bis alles gut vermischt ist und euer Walnuss-Hack ähnlich wie „Beef“ aussieht.",
+        "Pflanzliches Öl in einer Pfanne erwärmen und die Walnussmischung 4-5 Minuten anbraten, bis es gut gebräunt ist.",
+        "Tortilla Chips in eine große Schüssel (oder auf eine große Servierplatte) geben. Romanasalat, Mais, Zwiebeln, Tomaten, Walnuss-Hack, Guacamole und vegane Sour Cream darauf verteilen. Zum Schluss mit Frühlingszwiebeln bestreuen und mit Limettenspalten und Salsa servieren. Nach Wunsch frische Chilis oder Streukäse darüberstreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Vegane Sour Cream",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-taco-salat-walnuss-hack",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-taco-salat-walnuss-hack#recipe-7fffae3a-0e69-5589-8dcf-265ab29f8842",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "250g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "200 g Sojaquark",
+        "150 g veganer Frischkäse",
+        "1 TL Knoblauchpulver",
+        "1 EL Apfelessig",
+        "1 Zitrone (Saft)",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Zitrone auspressen.",
+        "In einer Schüssel alle Zutaten verrühren, Zitronensaft dazurühren.",
+        "Mit Salz & Pfeffer abschmecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

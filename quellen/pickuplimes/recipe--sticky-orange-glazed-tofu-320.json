@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/sticky-orange-glazed-tofu-320",
+  "recipes": [
+    {
+      "name": "Spicy Orange Glazed Tofu",
+      "source_url": "https://www.pickuplimes.com/recipe/sticky-orange-glazed-tofu-320",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT32M",
+      "total_time": "PT42M",
+      "ingredients": [
+        "11.464 oz firm tofu",
+        "1 Tbsp olive oil",
+        "1 Tbsp cornstarch",
+        "½ tsp salt",
+        "⅔ cup medium-grain white rice",
+        "7.055 oz broccolini",
+        "1 red bell pepper",
+        "¾ cup orange juice",
+        "2 garlic clove",
+        "2 tsp sriracha",
+        "2 Tbsp reduced-sodium soy sauce",
+        "½ Tbsp grated fresh ginger",
+        "½ Tbsp rice vinegar",
+        "1 Tbsp cornstarch",
+        "½ Tbsp agave syrup"
+      ],
+      "instructions": [
+        "Preheat the oven to 400°F (200°C)*. Cut the pressed tofu into ½ inch (1 cm) cubes.",
+        "In a large bowl, gently mix together the tofu, oil, cornstarch, and salt.",
+        "Spread the tofu evenly over a parchment-lined baking tray and bake in the oven on the centre rack for 20 to 25 minutes, flipping the pieces halfway through baking.",
+        "Cook the rice according to the package instructions.",
+        "To a large pan, add the broccolini and bell pepper with a small splash of water. Cover and cook for 3 to 4 minutes or until softened slightly. Transfer to a plate and set aside.",
+        "Returning the now-empty pan to the stove, add the orange glaze ingredients**. Whisk. Once whisked, heat the sauce and let simmer for 5 to 7 minutes, stirring often until thickened.",
+        "Add the baked tofu cubes to the pan and stir to coat. Cook until most of the liquid has been absorbed by the tofu.",
+        "Serve with rice and veggies, garnish as desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection). ** The cornstarch must be added and stirred into cold liquids, otherwise, it will clump. Only heat the mixture once the cornstarch is mixed in well.",
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

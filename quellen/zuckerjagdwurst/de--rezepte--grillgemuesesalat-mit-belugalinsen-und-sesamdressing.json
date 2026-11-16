@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/grillgemuesesalat-mit-belugalinsen-und-sesamdressing",
+  "recipes": [
+    {
+      "name": "Grillgemüsesalat mit Belugalinsen und Sesamdressing",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/grillgemuesesalat-mit-belugalinsen-und-sesamdressing",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/grillgemuesesalat-mit-belugalinsen-und-sesamdressing#recipe-860ff20d-50f8-544b-8f80-df631bc34783",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "250 g Belugalinsen",
+        "500 ml Wasser",
+        "2 rote Zwiebeln",
+        "5 Kirschtomaten",
+        "1 rote Paprika",
+        "100 g Zuckerschoten",
+        "1 roter Mangold",
+        "10 Radieschen",
+        "2 Möhren",
+        "0.5 Zucchini",
+        "100 g Haselnüsse",
+        "20 g Petersilie",
+        "Olivenöl",
+        "Salz",
+        "Pfeffer",
+        "Für das Dressing",
+        "250 g pflanzlicher Joghurt",
+        "3 EL Tahini",
+        "0.5 TL Knoblauchpulver",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Belugalinsen und Wasser in einen Topf geben und aufkochen. Danach die Hitze herunterdrehen und mit Deckel ca. 20-25 Minuten köcheln lassen, das Wasser sollte dann komplett eingesogen sein. Die Linsen erst nach dem Kochen salzen, damit sie nicht auseinanderfallen.",
+        "Zwiebeln schälen und vierteln, Tomaten und Radieschen halbieren, Paprika in Streifen schneiden, Zuckerschoten ggf. putzen, Möhren längs halbieren, Zucchini in Scheiben schneiden. Das Gemüse in eine Schüssel geben, mit etwas Olivenöl beträufeln und mit Salz und Pfeffer würzen. In eingeölten Grillschalen oder direkt auf dem Rost von beiden Seiten grillen, bis das Gemüse weich ist, aber noch Biss hat und natürlich schöne Grillstreifen bekommt.",
+        "Haselnüsse und Petersilie hacken. Roten Mangold klein schneiden. Pflanzlichen Joghurt, Tahini und Knoblauchpulver fürs Dressing zusammenrühren und mit Salz und Pfeffer abschmecken.",
+        "Das Grillgemüse, die gekochten Belugalinsen, gehackte Petersilie, Haselnüsse und Mangold in einer großen Schüssel vermengen. Das Sesamdressing darüber verteilen und alles schnell aufessen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

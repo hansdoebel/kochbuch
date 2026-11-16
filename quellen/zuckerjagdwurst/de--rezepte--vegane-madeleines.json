@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-madeleines",
+  "recipes": [
+    {
+      "name": "Vegane Madeleines",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-madeleines",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-madeleines#recipe-b6503fdc-983f-5cbf-ac6c-1c6e011ce57c",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "20 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für den Teig:",
+        "150 g Weizenmehl Typ 405",
+        "75 g Zucker",
+        "8 g Backpulver",
+        "8 g Vanillezucker",
+        "1 Prise Salz",
+        "160 ml pflanzliche Milch",
+        "30 ml pflanzliche Butter oder Raps- oder Sonnenblumenöl",
+        "pflanzliche Butter oder Pflanzenöl zum Einfetten",
+        "Für den Geschmack:",
+        "1 ml Rumaroma (halbes Röhrchen)",
+        "ODER",
+        "1 ml Vanillearoma (halbes Röhrchen)",
+        "ODER",
+        "0.5-1 Zitrone (Abrieb)",
+        "Für die Dekoration:",
+        "Puderzucker",
+        "ODER",
+        "Zartbitterschokolade",
+        "Mandeln"
+      ],
+      "instructions": [
+        "Den Backofen auf 180°C Umluft vorheizen und die Backform für die Madeleines mit pflanzlicher Butter oder Pflanzenöl ausreiben.",
+        "Weizenmehl, Zucker, Backpulver, Vanillezucker und Salz in einer Schüssel vermischen. Die pflanzliche Milch und die geschmolzene vegane Butter (oder Pflanzenöl) unterrühren, bis ein glatter Teig entsteht.",
+        "Den Teig entweder so lassen, wie er ist, oder einen zusätzlichen Geschmack hinzugeben, z. B. Rumaroma, Vanillearoma oder frischen Zitronenabrieb.",
+        "Den Teig gleichmäßig auf die Madeleines-Formen aufteilen, sodass diese zu ca. 75% gefüllt sind. Die Madeleines bei 180°C ca. 10 Minuten backen und im Abschluss abkühlen lassen. Mit Puderzucker oder geschmolzener Schokolade und gehackten Mandeln dekorieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

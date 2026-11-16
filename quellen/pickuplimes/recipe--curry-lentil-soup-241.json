@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/curry-lentil-soup-241",
+  "recipes": [
+    {
+      "name": "Curry Lentil Soup",
+      "source_url": "https://www.pickuplimes.com/recipe/curry-lentil-soup-241",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT15M",
+      "cook_time": "PT25M",
+      "total_time": "PT40M",
+      "ingredients": [
+        "2 tsp olive oil",
+        "1 medium onion",
+        "2 garlic clove",
+        "1 tsp curry powder",
+        "1 tsp sweet paprika powder",
+        "½ tsp ground coriander",
+        "½ tsp garam masala",
+        "¼ tsp ground turmeric",
+        "3 medium potato",
+        "1 medium zucchini",
+        "1 medium carrot",
+        "1 cup dry red lentils",
+        "2 vegetable bouillon cube",
+        "4 cup water",
+        "½ lemon",
+        "1½ cup unsweetened soy yogurt",
+        "3 vegan naan"
+      ],
+      "instructions": [
+        "Heat the oil in a large pot over high heat. Cook the onion until golden, about 5 minutes. Add splashes of water as needed to deglaze the pan.",
+        "Then add garlic and the spices, and cook for another 2 minutes.",
+        "Add the remaining soup ingredients. Simmer, partially covered, for 15 minutes or until the lentils and potatoes are cooked.",
+        "Optionally, for a creamier texture, use an immersion blender to purée some of the soup. Then add the lemon juice.",
+        "Garnish as desired, serve hot and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 4 days. Store in the freezer for up to 2 months."
+  ]
+}

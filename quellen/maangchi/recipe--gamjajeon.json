@@ -1,0 +1,140 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/gamjajeon",
+  "recipes": [
+    {
+      "name": "Korean potato pancakes (Gamjajeon)",
+      "source_url": "https://www.maangchi.com/recipe/gamjajeon",
+      "recipe_id": "/recipe/gamjajeon#sso/recipe/28223",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 pound peeled potato",
+        "½ teaspoon kosher salt",
+        "¼ cup water",
+        "¼ cup chopped Asian chives",
+        "vegetable oil",
+        "red and yellow bell pepper, slice into 1 inch strips",
+        "2 tablespoons of soy sauce",
+        "1 tablespoon of white vinegar",
+        "a pinch of roasted sesame seeds"
+      ],
+      "instructions": [
+        "Cut the peeled potato into small chunks. Add to a food processor with the water, chopped chives, and salt. Blend well until it’s a creamy purée.",
+        "Put the purée into a strainer, with a bowl underneath to capture the liquid. Separate the solid from the liquid by gently pressing down with a spoon. Gather the liquid in the bowl underneath and wait for 1 minute for the starch to sink to the bottom of the bowl.",
+        "Pour out the water and keep the starch. Put it in a bowl with the strained purée and mix with a spoon.",
+        "Heat up a nonstick pan over high heat. Add a few drops of vegetable oil and then add some of the potato mix, spread nicely into 2 inch discs. Fill your pan with these discs.",
+        "Turn the discs over when they get brown on the bottom. Add the garnish strips and press them in with a spatula.",
+        "Cook for 1 minute until the bottom turns golden brown, then turn them over and cook for about 10 seconds, before they get brown. Transfer to a serving plate. Cook all the pancakes this way, until there are no more.",
+        "Make a dipping sauce in a small bowl by combining the soy sauce and vinegar and sprinkling sesame seeds over top.",
+        "Serve the pancakes hot with the dipping sauce."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound peeled potato"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup water"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup chopped Asian chives"
+        },
+        {
+          "tag": "li",
+          "text": "vegetable oil"
+        },
+        {
+          "tag": "h3",
+          "text": "For garnish"
+        },
+        {
+          "tag": "li",
+          "text": "red and yellow bell pepper, slice into 1 inch strips"
+        },
+        {
+          "tag": "h3",
+          "text": "For dipping sauce"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons of soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon of white vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "a pinch of roasted sesame seeds"
+        },
+        {
+          "tag": "h3",
+          "text": "Yield"
+        },
+        {
+          "tag": "p",
+          "text": "10 servings (10 small pancakes) if served as an appetizer, and if served as a snack."
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Cut the peeled potato into small chunks. Add to a food processor with the water, chopped chives, and salt. Blend well until it’s a creamy purée."
+        },
+        {
+          "tag": "li",
+          "text": "Put the purée into a strainer, with a bowl underneath to capture the liquid. Separate the solid from the liquid by gently pressing down with a spoon. Gather the liquid in the bowl underneath and wait for 1 minute for the starch to sink to the bottom of the bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Pour out the water and keep the starch. Put it in a bowl with the strained purée and mix with a spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Heat up a nonstick pan over high heat. Add a few drops of vegetable oil and then add some of the potato mix, spread nicely into 2 inch discs. Fill your pan with these discs."
+        },
+        {
+          "tag": "li",
+          "text": "Turn the discs over when they get brown on the bottom. Add the garnish strips and press them in with a spatula."
+        },
+        {
+          "tag": "li",
+          "text": "Cook for 1 minute until the bottom turns golden brown, then turn them over and cook for about 10 seconds, before they get brown. Transfer to a serving plate. Cook all the pancakes this way, until there are no more."
+        },
+        {
+          "tag": "li",
+          "text": "Make a dipping sauce in a small bowl by combining the soy sauce and vinegar and sprinkling sesame seeds over top."
+        },
+        {
+          "tag": "li",
+          "text": "Serve the pancakes hot with the dipping sauce."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

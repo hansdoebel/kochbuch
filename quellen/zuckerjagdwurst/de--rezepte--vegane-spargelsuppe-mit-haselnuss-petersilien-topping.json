@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-spargelsuppe-mit-haselnuss-petersilien-topping",
+  "recipes": [
+    {
+      "name": "Spargelsuppe mit Haselnuss-Petersilien-Topping",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-spargelsuppe-mit-haselnuss-petersilien-topping",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-spargelsuppe-mit-haselnuss-petersilien-topping#recipe-08e76783-b6a1-568a-b160-99d93f370104",
+      "authors": [
+        "Team"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für die Spargelsuppe:",
+        "1 kg weißer Spargel",
+        "0.5 TL Salz",
+        "50 g vegane Butter",
+        "50 g Mehl",
+        "150 ml vegane Kochsahne",
+        "2-3 EL Zitronensaft",
+        "150 ml veganer Weißwein",
+        "1 Prise Muskat",
+        "Salz",
+        "Pfeffer",
+        "Zucker",
+        "Gemüsebrühe (optional)",
+        "Für das Haselnuss-Petersilien-Topping:",
+        "20 g Petersilie",
+        "100 g geschälte Haselnüsse",
+        "100 ml Olivenöl",
+        "0.5 Knoblauchzehe",
+        "2 EL Zitronensaft",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Weißen Spargel waschen, schälen und die holzigen Enden vorsichtig abbrechen. Die Enden und Schalen in 2 l Wasser geben und mit einer Prise Salz und 1 TL Zucker für mindestens 25 Minuten köcheln lassen. Die geschälten Spargelstangen in etwa daumengroße Stücke schneiden und beiseitestellen.",
+        "In der Zwischenzeit bereiten wir das Haselnuss-Petersilien-Topping zu. Dafür die Petersilie grob hacken. Petersilie, Haselnüsse, Olivenöl, Knoblauch und Zitronensaft in einen Zerkleinerer oder Mixer geben und gut mixen. Mit Salz und Pfeffer abschmecken.",
+        "Anschließend Spargelschalen und -enden abgießen und das Spargelwasser auffangen. In dem aufgefangenen Spargelwasser nun die klein geschnittenen Spargelstangen für 15 Minuten kochen. Anschließend abgießen und das Wasser erneut auffangen. Die gekochten Spargelstücken beiseitestellen.",
+        "In einem großen Topf eine Mehlschwitze herstellen. Dafür die vegane Butter zerlassen und das Mehl unterrühren. Mit Weißwein ablöschen und nach und nach unter ständigem Rühren das Spargelwasser hinzugeben.",
+        "Mit Sahne, Zitronensaft, Zucker, Salz, Pfeffer und Muskat abschmecken und die gekochten Spargelstangen hinzugeben. Wer mag kann noch etwas Gemüsebrühe hinzugeben. Mit dem Haselnuss-Petersilien-Topping servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

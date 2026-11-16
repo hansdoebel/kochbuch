@@ -1,0 +1,140 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/buchu-kimchi",
+  "recipes": [
+    {
+      "name": "Asian chive kimchi (Buchu-kimchi: 부추김치)",
+      "source_url": "https://www.maangchi.com/recipe/buchu-kimchi",
+      "recipe_id": "/recipe/buchu-kimchi#sso/recipe/70522",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 pound buchu (Asian chives a.k.a garlic chives) washed and drained",
+        "½ cup fish sauce (or soy sauce for vegetarian version)",
+        "1 tablespoon sweet rice flour (or all purpose flour)",
+        "1 tablespoon sugar",
+        "½ cup Korean hot pepper flakes (gochu-garu)",
+        "½ of a medium-sized onion, sliced thinly (about ½ cup)",
+        "2 tablespoons toasted sesame seeds"
+      ],
+      "instructions": [
+        "Cut the buchu into 2½ inch long pieces and put them in a large bowl. Add the fish sauce and mix by hand to evenly spread the fish sauce in the pieces.",
+        "Let it sit for 30 minutes, turning it over every 5 minutes.",
+        "Mix sweet rice flour with 1 cup of water in a small pan. Cook over medium heat, stirring with a wooden spoon.",
+        "A few minutes later when it starts bubbling, add sugar and stir for another minute.",
+        "Remove from the heat and let it cool thoroughly.",
+        "Move the salty buchu into a strainer over a bowl so it captures any salty water drippings.",
+        "There will be some salty liquid left over in the bowl. Add the cooled porridge and hot pepper flakes. Mix it well with a wooden spoon.",
+        "Add onion, buchu, and the strained salty water drippings. Mix it all together gently. Sprinkle the sesame seeds.",
+        "You can serve it right away with rice, or put it in an airtight container to eat later.",
+        "If you want to ferment the kimchi, keep it at room temperature for a couple of days until it tastes a little sour, then put it in the fridge."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound buchu (Asian chives a.k.a garlic chives) washed and drained"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup fish sauce (or soy sauce for vegetarian version)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon sweet rice flour (or all purpose flour)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon sugar"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup Korean hot pepper flakes (gochu-garu)"
+        },
+        {
+          "tag": "li",
+          "text": "½ of a medium-sized onion, sliced thinly (about ½ cup)"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons toasted sesame seeds"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the chives:"
+        },
+        {
+          "tag": "li",
+          "text": "Cut the buchu into 2½ inch long pieces and put them in a large bowl. Add the fish sauce and mix by hand to evenly spread the fish sauce in the pieces."
+        },
+        {
+          "tag": "li",
+          "text": "Let it sit for 30 minutes, turning it over every 5 minutes."
+        },
+        {
+          "tag": "h3",
+          "text": "Make porridge:"
+        },
+        {
+          "tag": "li",
+          "text": "Mix sweet rice flour with 1 cup of water in a small pan. Cook over medium heat, stirring with a wooden spoon."
+        },
+        {
+          "tag": "li",
+          "text": "A few minutes later when it starts bubbling, add sugar and stir for another minute."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and let it cool thoroughly."
+        },
+        {
+          "tag": "h3",
+          "text": "Make kimchi:"
+        },
+        {
+          "tag": "li",
+          "text": "Move the salty buchu into a strainer over a bowl so it captures any salty water drippings."
+        },
+        {
+          "tag": "li",
+          "text": "There will be some salty liquid left over in the bowl. Add the cooled porridge and hot pepper flakes. Mix it well with a wooden spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Add onion, buchu, and the strained salty water drippings. Mix it all together gently. Sprinkle the sesame seeds."
+        },
+        {
+          "tag": "h3",
+          "text": "Serve:"
+        },
+        {
+          "tag": "li",
+          "text": "You can serve it right away with rice, or put it in an airtight container to eat later."
+        },
+        {
+          "tag": "li",
+          "text": "If you want to ferment the kimchi, keep it at room temperature for a couple of days until it tastes a little sour, then put it in the fridge."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

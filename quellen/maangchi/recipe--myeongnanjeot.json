@@ -1,0 +1,94 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/myeongnanjeot",
+  "recipes": [
+    {
+      "name": "Fermented pollock roe (Myeongnanjeot: 명란젓)",
+      "source_url": "https://www.maangchi.com/recipe/myeongnanjeot",
+      "recipe_id": "/recipe/myeongnanjeot#sso/recipe/83438",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "About 2½ cups (a little more than 1 pound)",
+      "prep_time": "P0DT0H20M0S",
+      "cook_time": null,
+      "total_time": "P21DT0H20M0S",
+      "ingredients": [
+        "1 pound frozen or fresh pollock roe (If frozen, thaw it out in the fridge)",
+        "2 tablespoons plus 1 teaspoon kosher salt",
+        "5 to 6 tablespoons gochugaru (Korean hot pepper flakes) for seasoning, plus 2 to 3 tablespoons for topping",
+        "3 tablespoons mirim",
+        "4 garlic cloves, minced",
+        "1 teaspoon peeled ginger, minced",
+        "Chopped green onion",
+        "Toasted sesame oil",
+        "Toasted sesame seeds"
+      ],
+      "instructions": [
+        "Combine 4 cups cold water and 1 tablespoon kosher salt in a bowl and stir until dissolved. Add the pollock roe and gently wash it by hand, then put it into a strainer. Gently rinse and drain a few more times until very clean. Pat dry with a kitchen towel or paper towels. Remove any stringy material and discard. If any roe sacs are too big, gently split them into smaller pieces with your hands.",
+        "Combine 1 tablespoon plus 1 teaspoon kosher salt, 5 to 6 tablespoons gochugaru (Korean hot pepper flakes), mirim, garlic, and ginger in a bowl and mix well with a spoon. Add the roe and gently mix to coat evenly. Transfer to a small earthenware or glass jar; this amount should fit into a 2½ cup jar. Spread 2 to 3 tablespoons gochugaru evenly over the top and gently press down with a spoon. Cover and refrigerate for 3 weeks to ferment.",
+        "Take 2 to 3 roe sacs out of the jar and slice them a few times on a cutting board. Put them in a small bowl or on a plate. Sprinkle with chopped green onion, toasted sesame oil, and toasted sesame seeds. Serve with rice, soup, and other side dishes."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Makes about 2½ cups (a little more than 1 pound) of myeongnanjeot:"
+        },
+        {
+          "tag": "p",
+          "text": "Preparation time: about 20 minutes to wash, season, and pack the roe into a jar, plus 3 weeks for fermentation in the refrigerator."
+        },
+        {
+          "tag": "li",
+          "text": "1 pound frozen or fresh pollock roe (If frozen, thaw it out in the fridge)"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons plus 1 teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "5 to 6 tablespoons gochugaru (Korean hot pepper flakes) for seasoning, plus 2 to 3 tablespoons for topping"
+        },
+        {
+          "tag": "li",
+          "text": "3 tablespoons mirim"
+        },
+        {
+          "tag": "li",
+          "text": "4 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon peeled ginger, minced"
+        },
+        {
+          "tag": "h3",
+          "text": "For serving"
+        },
+        {
+          "tag": "li",
+          "text": "Chopped green onion"
+        },
+        {
+          "tag": "li",
+          "text": "Toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "Toasted sesame seeds"
+        }
+      ],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

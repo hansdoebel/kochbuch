@@ -1,0 +1,48 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/fiery-carbonara",
+  "recipes": [
+    {
+      "name": "Fiery Carbonara",
+      "source_url": "https://app.cookwell.com/recipe/fiery-carbonara",
+      "recipe_id": "https://app.cookwell.com/recipe/fiery-carbonara",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1-2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Water, 150 g",
+        "Cornstarch, 10 g",
+        "Parmigiano Reggiano, 100 g",
+        "Olive Oil, 15 g",
+        "Harissa paste, 15 g",
+        "Egg Yolks, 4",
+        "Lemons, 1/2",
+        "Aleppo pepper, a sprinkle",
+        "Spaghetti, a serving",
+        "Pasta water, as needed",
+        "Olive Oil, a drizzle",
+        "Guanciale, a handful",
+        "Garlic, 2 cloves",
+        "Cayenne Pepper, a sprinkle",
+        "Parmigiano Reggiano"
+      ],
+      "instructions": [
+        "Make the stabilizing gel: add the cornstarch and water to a small saucepan. Mix together until dissolved. Turn the heat to low and while whisking, bring to just below a simmer. The starch should begin to thicken. Stir to ensure there are no clumps and then turn off the heat. Set aside. Combine the cheese, egg yolk, lemon juice, harissa paste, aleppo, and salt. Pour in the cornstarch gel and blend everything together to create a stable emulsion of the cheese, pepper, and gel. Give it a taste, and add a touch of salt if needed. Store in the fridge for up to 3-4 days.",
+        "Set a pot of water to boil along with a big pinch of salt. Add the pasta and bring to a boil. Cook until slightly underdone, 1-2 minutes less than the package says. Reserve some of the pasta water.",
+        "Cut guanciale into even-sized cubes and mince the garlic. Add oil to a pan, place in the guanciale cubes, and turn heat to medium-low. Slowly cook until the fat has rendered out and the guanciale is golden brown. Turn down the heat and add minced garlic and cayenne powder. Let cook together for 1-2 minutes then turn off the heat. Reserve a couple of spoonfuls of guanciale to use as a topping later. Add 2 or 3 heaping spoonfuls of the carbonara sauce to the guanciale pan. Mix together until smooth. Keep warm on a second burner.",
+        "In a new pan, add the drained pasta and a couple spoonfuls of the aromatic-infused sauce . Slowly bring up the temperature of the sauce while creaming (tossing) with the pasta. Be a little careful of the heat, but this can come to a light simmer without breaking. Serve the pasta and finish with any extra cooked sauce over the top. Add more grated parm and the reserved guanciale as a topping."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

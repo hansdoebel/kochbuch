@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-daenische-butterkekse",
+  "recipes": [
+    {
+      "name": "Vegane dänische Butterkekse",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-daenische-butterkekse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-daenische-butterkekse#recipe-93b9a3be-d319-5e56-9fef-a8f559f5a825",
+      "authors": [
+        "Anneke Schügner"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 30 Kekse",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "200 g vegane Butter (Zimmertemperatur)",
+        "130 g Puderzucker",
+        "1 EL Speisestärke",
+        "1 Prise Salz",
+        "2 EL kaltes Wasser",
+        "2 TL Vanillepaste",
+        "300 g Weizenmehl Type 405",
+        "brauner Zucker"
+      ],
+      "instructions": [
+        "Ofen auf 180°C (Umluft) vorheizen. Mit dem Handrührgerät vegane Butter und Puderzucker aufschlagen. Anschließend Stärke, Salz, Wasser und Vanillepaste hinzugeben und gut unterrühren. Nach und nach das Mehl hinzugeben und mit den Knethaken des Handrührgeräts zu einem festen, homogenen Teig verarbeiten.",
+        "Nun kann der Teig nach Belieben weiterverarbeitet werden:",
+        "Für die Kringel und Blüten: Den Teig in einen Spritzbeutel oder eine Gebäckpresse mit Sterntülle geben und den Teig zu Kringeln aufspritzen. Sollte der Teig zu fest sein, um ihn durch die Tülle zu pressen, etwas kaltes Wasser unterkneten. Für die Blüten den entsprechenden Aufsatz der Gebäckspritze verwenden. Auch hier gilt: Sollte der Teig zu fest für die Verarbeitung sein, etwas kaltes Wasser unterkneten.",
+        "Für die runden Ausstecher: Ca. 2 EL Mehl unter den Teig kneten, bis er merklich fester wird. Zu einem langen Zylinder mit ca. 3 cm Durchmesser formen. In Frischhaltefolie einwickeln und für ca. 30 Minuten in den Kühlschrank geben. Anschließend in ca. 0.5 cm starke Scheiben schneiden.",
+        "Für die Brezeln: Ca. 2 EL Mehl unter den Teig kneten, bis er merklich fester wird. Den Teig zu langen Schnüren ausrollen und Brezeln formen. Die Brezeln vor dem Backen in braunem Zucker wenden.",
+        "Die Plätzchen auf ein mit Backpapier ausgelegtes Backblech geben und im Ofen bei 180°C (Umluft) für 10-12 Minuten backen, bis die Kekse goldbraun sind."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

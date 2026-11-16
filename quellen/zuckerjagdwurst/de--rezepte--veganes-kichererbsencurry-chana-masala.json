@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kichererbsencurry-chana-masala",
+  "recipes": [
+    {
+      "name": "Veganes Kichererbsencurry (Chana Masala)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kichererbsencurry-chana-masala",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kichererbsencurry-chana-masala#recipe-ede4b364-ce72-5e59-991d-13ae02abb600",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "400 g Kichererbsen aus der Dose",
+        "2 Zwiebeln",
+        "25 g Ingwer",
+        "2 Knoblauchzehen",
+        "1 grüne Chili",
+        "800 g Dose ganze Tomaten",
+        "1 EL Kokosöl",
+        "1 TL Garam Masala",
+        "1 TL gemahlener Koriander",
+        "0.5 TL Kurkuma",
+        "0.25 TL Zimt",
+        "1 Lorbeerblatt",
+        "150 ml Gemüsebrühe (oder Wasser)",
+        "Salz",
+        "Pfeffer",
+        "Koriander zum Servieren",
+        "Reis zum Servieren",
+        "Limette zum Servieren"
+      ],
+      "instructions": [
+        "Kichererbsen abgießen. Zwiebeln, Ingwer und Knoblauch schälen und mit grüner Chili hacken. Das kann grob sein, da die Mischung später püriert wird. Die ganzen Dosentomaten abgießen, damit sie nicht verwässern und grob hacken. Die Soße der Dosentomaten aufheben und für ein anderes Gericht verwenden und zum Beispiel zu einer Tomatensuppe einkochen. Den Reis nach Packungsanleitung aufsetzen.",
+        "Kokosöl in einer Pfanne erhitzen und Zwiebeln ca. 3 Minuten über kleiner Hitze glasig anschwitzen. Ingwer, Knoblauch und grüne Chili dazugeben und ca. 1 Minute weiter anbraten. Nun die ganzen Dosentomaten dazugeben und mit Salz, Pfeffer, Garam Masala, Koriander, Kurkuma, Zimt und Lorbeerblatt würzen. Alles gemeinsam ca. 10 Min. über mittlerer Hitze anrösten.",
+        "Anschließend das Lorbeerblatt herausnehmen und Gemüsebrühe oder Wasser dazugeben. Die Mischung mit dem Pürierstab glatt mixen und zurück in die Pfanne geben. Nun die Kichererbsen dazugeben und ca. 10 Minuten köcheln lassen. Zum Schluss gehackten Koriander unterrühren und das Kichererbsen-Curry mit Reis und Limettenspalten servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

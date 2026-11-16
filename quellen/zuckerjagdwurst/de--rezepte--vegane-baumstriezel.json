@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-baumstriezel",
+  "recipes": [
+    {
+      "name": "Vegane Baumstriezel",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-baumstriezel",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-baumstriezel#recipe-e79773f7-94d0-570f-819f-a507672742ef",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Baumstriezel",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT180M",
+      "ingredients": [
+        "Für den Teig:",
+        "0.5 (21 g) Würfel frische Hefe",
+        "50 g brauner Zucker",
+        "190 ml pflanzliche Milch (lauwarm)",
+        "20 g Kokosnussöl",
+        "1 Prise Salz",
+        "8 g Vanillezucker",
+        "350 g Mehl",
+        "Mehl zum Ausrollen",
+        "Zum Bestreuen:",
+        "50 g vegane Butter",
+        "6 EL weißer Zucker",
+        "1-2 EL Zimt"
+      ],
+      "instructions": [
+        "Frische Hefe mit den Händen in eine Schüssel zerbröseln. Braunen Zucker und lauwarme (keine heiße!) pflanzlichen Milch dazugeben und vermengen. Die Mischung ca. 10 Minuten stehen lassen, damit die Hefe aufquellt.",
+        "Das Kokosnussöl erhitzen, bis es flüssig ist. Danach abkühlen lassen, bis es nur noch lauwarm ist. Das geschmolzene Kokosnussöl, Salz, Vanillezucker und Mehl in die Schüssel zur Hefemischung geben und alles zu einem geschmeidigen Teig vermengen. Die Schüssel mit einem feuchten Tuch abdecken und an einem warmen Ort ca. 1 Stunde gehen lassen, oder bis der Teig gut aufgegangen ist und auf der Oberfläche viele Blasen zu sehen sind.",
+        "Den Teig auf einer bemehlten Arbeitsfläche zu einem großen Rechteck ausrollen. Wenn der Teig noch zu klebrig dafür ist, einfach etwas mehr Mehl in den Teig einkneten. Den Teig mit einem Messer oder einem Pizzaschneider in 2-3 cm dicke Streifen schneiden.",
+        "Den Ofen auf 200°C Umluft vorheizen. Für das Topping vegane Butter in einem kleinen Topf schmelzen lassen. Zimt und Zucker in einer kleinen Schüssel vermengen.",
+        "Ein Nudelholz mit Alufolie umwickeln und auf einer Auflaufform ablegen, so dass nur die Enden des Nudelholzes aufliegen. Die Alufolie mit der geschmolzenen veganen Butter bestreichen. Nun die Teigstreifen eng um das Nudelholz wickeln und dabei etwa 5 cm Platz zu den Nudelholzenden lassen. Wenn ein Teigstreifen zu Ende ist, den nächsten direkt ansetzen und gut an den vorherigen Streifen andrücken, um sie zu verbinden. Wir haben 2-3 Streifen pro Nudelholz benötigt.",
+        "Wenn das komplette Nudelholz bedeckt ist (mit etwas Platz zu den Enden, um es auf der Auflaufform abzulegen), den Teig erneut mit veganer Butter bestreichen und mit dem Zimt-Zucker-Mix bestreuen.",
+        "Die Baumstriezel nun einzeln und nacheinander (immer noch auf der Auflaufform platziert) ca. 12-15 Minuten im Ofen backen (je nach Dicke eurer Streifen). Dabei das Nudelholz während des Backens 1-2 Mal drehen. Die Baumstriezel nach dem Backen ca. 5 Minuten auf dem Nudelholz abkühlen lassen und dann vorsichtig ablösen. Das Backen mit dem restlichen Teig wiederholen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

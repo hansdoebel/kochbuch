@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-tzatziki",
+  "recipes": [
+    {
+      "name": "Veganer Tzatziki",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-tzatziki",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-tzatziki#recipe-94105ba1-b42a-5c6b-8379-fc23e438427d",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "500 g Tzatziki",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "500 g Sojajoghurt (ungesüßt)",
+        "1/2 Gurke",
+        "2 Zehen Knoblauch",
+        "2 EL Olivenöl",
+        "1 EL Weinessig",
+        "Salz&Pfeffer",
+        "optional: frischer Dill"
+      ],
+      "instructions": [
+        "Die Gurke waschen und grob reiben. Nun die Raspeln in ein feines Sieb geben über eine Schüssel oder die Spüle hängen und austropfen lassen. 1 TL Salz hinzugeben, unterrühren und mindestens 20 Minuten stehen lassen. Anschließend mit einem Löffel die restliche Flüssigkeit ausdrücken.",
+        "Den veganen Joghurt in eine Schüssel geben. Die Knoblauchzehen schälen und mit der Knoblauchpresse zum Joghurt geben.",
+        "Olivenöl, Weinessig und die Gurkenraspeln ebenfalls unterrühren. Mir Salz und Pfeffer abschmecken.",
+        "Den Tzatziki mindeststens 90 Minuten im Kühlschrank stehen lassen. Vor dem Servieren nochmals abschmecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

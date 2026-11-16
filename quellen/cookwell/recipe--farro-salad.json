@@ -1,0 +1,46 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/farro-salad",
+  "recipes": [
+    {
+      "name": "Farro Salad",
+      "source_url": "https://app.cookwell.com/recipe/farro-salad",
+      "recipe_id": "https://app.cookwell.com/recipe/farro-salad",
+      "authors": [
+        "Cook Well Official"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Farro",
+        "Barley",
+        "Water",
+        "Cucumbers",
+        "Tomatoes",
+        "Red Onions",
+        "Parsley",
+        "Aleppo pepper",
+        "Sumac",
+        "Black Pepper",
+        "Salt",
+        "Olive Oil",
+        "Lemon juice",
+        "Vinegar",
+        "Dijon Mustard",
+        "Honey"
+      ],
+      "instructions": [],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": [
+        "instructions"
+      ]
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

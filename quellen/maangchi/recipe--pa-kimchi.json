@@ -1,0 +1,135 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/pa-kimchi",
+  "recipes": [
+    {
+      "name": "Green onion kimchi (Pa-kimchi: 파김치)",
+      "source_url": "https://www.maangchi.com/recipe/pa-kimchi",
+      "recipe_id": "/recipe/pa-kimchi#sso/recipe/93468",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "3 pounds green onions, roots trimmed",
+        "1 cup fish sauce",
+        "¼ cup glutinous rice flour (aka “sweet rice flour”)",
+        "2 tablespoons white or brown sugar",
+        "1½ cup gochugaru (Korean hot pepper flakes)"
+      ],
+      "instructions": [
+        "Cut off the roots of green onions. Remove any tough outer layers of green onions and discard. Cut them into halves crosswise. Wash the green onions in a couple changes of cold water. Drain and put them in a large bowl.",
+        "Mix with the fish sauce with both hands.",
+        "Let stand for 1 hour, turning over every 20 minutes to salt evenly.",
+        "Meanwhile, combine the glutinous rice flour and 3 cups water in a saucepan. Mix it well. Place over medium high heat and stir until the mixture begins to bubble, 4 to 5 minutes.",
+        "Add the sugar and stir for another minute, until the paste looks slightly translucent.",
+        "Remove from the heat and let cool thoroughly.",
+        "Transfer the salted green onions to a large bowl by hand and reserve the mixture of fish sauce.",
+        "Scrape the cooled porridge into the bowl with the fish sauce mixture. Add the hot pepper flakes and mix well with a wooden spoon. Let it sit for 30 minutes until the hot pepper flakes are soaked in the mixture and the paste thickens a little.",
+        "Add the green onions and gently toss and mix together by hand (wear disposable gloves if you like).",
+        "Transfer to an airtight container or a glass jar. Press down on the kimchi so it’s well packed and no air can get inside, then put the lid on the container.",
+        "You can serve the kimchi right away or let it ferment. It takes about 2 weeks to ferment in the refrigerator. For faster fermenting, leave it at room temperature for 5 to 7 days, depending on the warmth of your kitchen, until the kimchi tastes and smells sour. Once the kimchi is fermented, store it the refrigerator and enjoy it until it runs out. It goes well with fresh, warm rice!"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "3 pounds green onions, roots trimmed"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup fish sauce"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup glutinous rice flour (aka “sweet rice flour”)"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons white or brown sugar"
+        },
+        {
+          "tag": "li",
+          "text": "1½ cup gochugaru (Korean hot pepper flakes)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare onions"
+        },
+        {
+          "tag": "li",
+          "text": "Cut off the roots of green onions. Remove any tough outer layers of green onions and discard. Cut them into halves crosswise. Wash the green onions in a couple changes of cold water. Drain and put them in a large bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Mix with the fish sauce with both hands."
+        },
+        {
+          "tag": "li",
+          "text": "Let stand for 1 hour, turning over every 20 minutes to salt evenly."
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare paste"
+        },
+        {
+          "tag": "li",
+          "text": "Meanwhile, combine the glutinous rice flour and 3 cups water in a saucepan. Mix it well. Place over medium high heat and stir until the mixture begins to bubble, 4 to 5 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Add the sugar and stir for another minute, until the paste looks slightly translucent."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and let cool thoroughly."
+        },
+        {
+          "tag": "h3",
+          "text": "Make kimchi"
+        },
+        {
+          "tag": "li",
+          "text": "Transfer the salted green onions to a large bowl by hand and reserve the mixture of fish sauce."
+        },
+        {
+          "tag": "li",
+          "text": "Scrape the cooled porridge into the bowl with the fish sauce mixture. Add the hot pepper flakes and mix well with a wooden spoon. Let it sit for 30 minutes until the hot pepper flakes are soaked in the mixture and the paste thickens a little."
+        },
+        {
+          "tag": "li",
+          "text": "Add the green onions and gently toss and mix together by hand (wear disposable gloves if you like)."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer to an airtight container or a glass jar. Press down on the kimchi so it’s well packed and no air can get inside, then put the lid on the container."
+        },
+        {
+          "tag": "h3",
+          "text": "Serve and ferment"
+        },
+        {
+          "tag": "li",
+          "text": "You can serve the kimchi right away or let it ferment. It takes about 2 weeks to ferment in the refrigerator. For faster fermenting, leave it at room temperature for 5 to 7 days, depending on the warmth of your kitchen, until the kimchi tastes and smells sour. Once the kimchi is fermented, store it the refrigerator and enjoy it until it runs out. It goes well with fresh, warm rice!"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

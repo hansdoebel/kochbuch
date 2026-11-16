@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/grillbrote-mit-tomaten-paprika-aufstrich",
+  "recipes": [
+    {
+      "name": "Grillbrote mit Paprika-Tomaten-Aufstrich",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/grillbrote-mit-tomaten-paprika-aufstrich",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/grillbrote-mit-tomaten-paprika-aufstrich#recipe-83a0ca82-3a99-59c6-81cb-d0fff1e03e85",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 kleine Brote",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT105M",
+      "ingredients": [
+        "500 g Mehl",
+        "1 Würfel Hefe",
+        "250 ml lauwarmes Wasser",
+        "40 ml Olivenöl",
+        "2 TL Salz",
+        "1 TL Agavendicksaft",
+        "Für den Aufstrich",
+        "390 g Tomaten in Stücken, z.B. von Edeka",
+        "2 Knoblauchzehen",
+        "1 rote Paprika",
+        "1 Zwiebel",
+        "5 getrocknete Tomaten in Öl",
+        "1 TL Agavendicksaft",
+        "Chili",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Hefe im lauwarmen Wasser auflösen. In einer Schüssel Mehl und Salz vermengen. Die aufgelöste Hefe-Wasser-Mischung dazugeben und beginnen die Zutaten zu verkneten. Das könnt ihr am besten mit einer Küchenmaschine, einem Handrührgerät und zur Not auch mit euren Händen machen.",
+        "Wenn die Zutaten zusammenkommen, Olivenöl und Agavendicksaft dazugeben und zu einem glatten Teig kneten – das geht zum Schluss am allerbesten mit den Händen. Den Teig in eine leicht eingeölte Schüssel geben, mit einem Geschirrtuch abdecken und ca. 30 Minuten an einem warmen Ort gehen lassen.",
+        "In der Zwischenzeit könnt ihr den Aufstrich vorbereiten. Knoblauchzehen und Zwiebel schälen und fein hacken. Paprikaschote und getrocknete Tomaten in kleine Würfel schneiden. Pflanzenöl in einer Pfanne erhitzen. Zwiebeln und Knoblauch ca. 2-3 Minuten anschwitzen, danach Paprikawürfel und getrocknete Tomaten dazugeben und ca. 5 Minuten auf mittlerer Hitze anbraten. Die gestückelten Tomaten dazugeben und ca. 10 Minuten einköcheln lassen. Mit Agavendicksaft, Salz, Pfeffer und Chilipulver würzen und abschmecken. Danach den Aufstrich kühl lagern.",
+        "Eure Arbeitsfläche leicht bemehlen und den Teig darauf nochmal verkneten. Anschließend in 8 gleich große Portionen teilen und zu Brotfladen formen. Diese legt ihr auf ein leicht gefettetes Backblech, deckt das ganze mit einem Geschirrtuch ab und lasst sie nochmal ca. 30 Minuten gehen.",
+        "Die Brotfladen mit Olivenöl bepinseln und ab auf den warmen Grill und von beiden Seiten ca. 5 Minuten grillen, und bis ein paar Grillstreifen zu sehen sind.",
+        "Die Grillbrote mit Tomatenaufstrich bestreichen und mit Rucola belegen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

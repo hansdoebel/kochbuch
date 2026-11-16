@@ -1,0 +1,66 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/jangjorim",
+  "recipes": [
+    {
+      "name": "Braised beef in soy sauce",
+      "source_url": "https://www.maangchi.com/recipe/jangjorim",
+      "recipe_id": "/recipe/jangjorim#sso/recipe/96914",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "8 servings",
+      "prep_time": "P0DT0H10M0S",
+      "cook_time": "P0DT0H118M0S",
+      "total_time": null,
+      "ingredients": [
+        "1 pound beef flank steak (or beef brisket, beef eye round, shank meat, or any beef with a grain), cut along the grain into 2½ x 1½ x ¼ inch pieces",
+        "water",
+        "½ cup soy sauce",
+        "12 garlic cloves",
+        "1 medium onion (about 6-7 ounces)",
+        "2 green chili peppers (serrano peppers, jalapeño peppers, or mild shishito peppers), cut into ½ inch pieces"
+      ],
+      "instructions": [
+        "Remove the pot from the heat and let it cool down until you can handle the beef with your hands.",
+        "Take out the beef and tear it into thin strips. Put it into a serving bowl and add some garlic and green chili pepper, along with some of the braising liquid. Refrigerate the leftovers in an airtight container for up to 1 week."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound beef flank steak (or beef brisket, beef eye round, shank meat, or any beef with a grain), cut along the grain into 2½ x 1½ x ¼ inch pieces"
+        },
+        {
+          "tag": "li",
+          "text": "water"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "12 garlic cloves"
+        },
+        {
+          "tag": "li",
+          "text": "1 medium onion (about 6-7 ounces)"
+        },
+        {
+          "tag": "li",
+          "text": "2 green chili peppers (serrano peppers, jalapeño peppers, or mild shishito peppers), cut into ½ inch pieces"
+        }
+      ],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-manakish-mit-zatar",
+  "recipes": [
+    {
+      "name": "Vegane Manakish mit Zatar",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-manakish-mit-zatar",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-manakish-mit-zatar#recipe-cb05b13f-0a90-5b74-960d-9c798761a1d2",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Für den Hefeteig:",
+        "150 ml warmes Wasser",
+        "4 g Trockhefe",
+        "1 TL Zucker",
+        "250 g Mehl Type 550",
+        "1 TL Salz",
+        "2 EL Olivenöl",
+        "Zum Bestreichen:",
+        "Olivenöl",
+        "Zatar",
+        "Zum Servieren:",
+        "Zitrone",
+        "frische Petersilie"
+      ],
+      "instructions": [
+        "Warmes Wasser, Trockenhefe und Zucker in die Rührschüssel der Küchenmaschine geben und verrühren. Anschließend ca. 5-10 Minuten ruhen lassen.",
+        "Mehl, Salz und Olivenöl hinzugeben und ca. 5 Minuten unterkneten. Den Knethaken herausnehmen und den Teig ca. 60 Minuten gehen lassen.",
+        "Tipp: Wir haben den Teig in der „Titanium Chef Patissier XL“ Küchenmaschine von Kenwood zubereitet und konnten daher die Programme „Teig kneten“ und „Teig gehen lassen“ (Stufe 3) nutzen. So erspart man sich viel Zeit und Kraft beim Kneten und kann den Teig unter den perfekten Bedingungen ganz einfach in der sich selbst erwärmenden Schüssel liegen lassen. Einfacher geht's nicht!",
+        "Nach der Ruhezeit den Backofen auf 200°C Ober-/Unterhitze vorheizen. Den Teig in vier gleich große Stücke teilen und auf einer bemehlten Unterfläche ca. 1 cm dick ausrollen. Die Teigböden auf ein mit Backpapier ausgelegtes Backblech legen und mit den Fingern eindrücken, sodass kleine Mulden entstehen.",
+        "Zatar und Olivenöl in einer Schüssel zu einer dicken Paste verrühren. Diese großzügig mit einem Löffel auf den vier Teigfladen auftragen. Manakish ca. 10 Minuten bei 200°C backen. Zum Servieren mit frischer Petersilie bestreuen und mit etwas Zitronensaft beträufeln."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

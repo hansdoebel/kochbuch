@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-orangen-nugat-plaetzchen",
+  "recipes": [
+    {
+      "name": "Vegane Orangen-Nougat-Plätzchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-orangen-nugat-plaetzchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-orangen-nugat-plaetzchen#recipe-ff658366-1750-5b5f-b186-5dd6e395b654",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 25 Plätzchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT135M",
+      "ingredients": [
+        "Für die Kekse:",
+        "250 g vegane Butter",
+        "150 g Puderzucker",
+        "1.5 TL (8 g) Vanillezucker",
+        "1.5 Orangen (Schale)",
+        "4 EL Apfelmus",
+        "3 EL Orangensaft",
+        "300 g Dinkelmehl (Type 630)",
+        "1 Prise Salz",
+        "Außerdem:",
+        "200 g veganes Backnougat",
+        "200 g vegane Zartbitterschokolade"
+      ],
+      "instructions": [
+        "Vegane Butter in eine große Schüssel geben und mit einem Handrührgerät schaumig schlagen. Nach und nach den Puderzucker hinein sieben, Vanillezucker hinzugeben und weiter aufschlagen.",
+        "Beide Orangen waschen und abtrocknen. Die Schale der einen Orange zusammen mit Apfelmus und Orangensaft in die Schüssel mit der Butter geben (die Schale der halben Orange wird später zum Dekorieren benötigt). Anschließend auch das Mehl in die Schüssel hineinsieben, Salz hinzugeben und alles gut verrühren. Den Teig circa 30 Minuten in den Kühlschrank stellen.",
+        "Den Ofen auf 180 °C (Umluft) vorheizen. Die Hände etwas anfeuchten und circa 50 Kugeln formen, leicht platt drücken und auf ein mit Backpapier vorbereitetes Backblech legen. Die Kekse anschließend ca. 8 Minuten backen, bis sie leicht gebräunt sind. Anschließend aus dem Ofen nehmen und abkühlen lassen.",
+        "Sobald die Kekse ausgekühlt sind, veganes Nougat über einem Wasserbad schmelzen und circa 1 Teelöffel davon auf einen Keks geben. Einen zweiten Keks draufsetzen und leicht festdrücken. Die Kekse circa 30 Minuten kaltstellen, bis das Nougat fest wird.",
+        "Nun die Schokolade ebenfalls über einem Wasserbad schmelzen und die Kekse nacheinander bis zur Hälfte hinein tunken. Solange die Schokolade noch nicht fest ist, können die Kekse mit Orangenabrieb dekoriert werden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-madras-curry-mit-apfel",
+  "recipes": [
+    {
+      "name": "Veganes Madras Curry mit Apfel",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-madras-curry-mit-apfel",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-madras-curry-mit-apfel#recipe-b7cc71d5-25f4-5161-84fd-560eb8c3dbf7",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Für das Madras Curry:",
+        "1 Zwiebel",
+        "2 Knoblauchzehen",
+        "15 g frischer Ingwer",
+        "500 g Blumenkohl",
+        "2-3 EL Kokosöl",
+        "1 TL Zimt",
+        "4-5 EL Madras Curry Pulver",
+        "1 TL Paprikapulver edelsüß",
+        "2 TL Agavendicksaft",
+        "200 ml Kokosmilch",
+        "400 ml passierte Tomaten",
+        "400 g Kichererbsen aus der Dose",
+        "Salz & Pfeffer",
+        "Außerdem:",
+        "250 g Reis",
+        "1 Apfel",
+        "1 rote Zwiebel",
+        "10 g frischer Koriander",
+        "optional: 1 kleine Chili",
+        "optional: etwas frischer Zitronensaft"
+      ],
+      "instructions": [
+        "Den Reis nach Packungsanleitung zubereiten. Zwiebel, Knoblauch und Ingwer schälen und zerkleinern.",
+        "Den Blumenkohl waschen, die Röschen abtrennen und jedes Röschen vierteln.",
+        "Ein große Pfanne oder einen Topf mit Kokosöl erhitzen und Zwiebel, Knoblauch und Ingwer anschwitzen. Nach 2-3 Minuten Zimt, Madras Curry Pulver, Paprikapulver und Agavendicksaft hinzugeben und kurz mit anschwitzen.",
+        "Nun mit Kokosmilch und passierten Tomaten aufgießen und die Soße pürieren. Die Blumenkohl-Röschen im Anschluss hinzugeben und 10 Minuten bei schwacher Hitze köcheln lassen.",
+        "Nun die Kichererbsen hinzugeben und weitere 5 Minuten köcheln lassen.",
+        "Mit Salz und Pfeffer abschmecken. Den Koriander waschen und die Blätter vom Stiel abzupfen, die rote Zwiebel schälen und fein würfeln und den Apfel waschen und raspeln. Optional die Chilischote in Ringe schneiden und etwas frischen Zitronensaft auspressen.",
+        "Das Madras Curry mit Reis, frischem Koriander, Zwiebelwürfeln, geraspeltem Apfel und optional Chili und frischem Zitronensaft servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

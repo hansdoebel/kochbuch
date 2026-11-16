@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/italian-salad-dressing-1408",
+  "recipes": [
+    {
+      "name": "Italian Salad Dressing",
+      "source_url": "https://www.pickuplimes.com/recipe/italian-salad-dressing-1408",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "1 garlic clove",
+        "2 Tbsp extra-virgin olive oil",
+        "1 Tbsp red wine vinegar",
+        "2 tsp balsamic vinegar",
+        "1 tsp maple syrup",
+        "1 tsp Italian seasoning",
+        "¼ tsp salt",
+        "¼ tsp chili flakes",
+        "⅛ tsp ground black pepper"
+      ],
+      "instructions": [
+        "Combine all the ingredients in a small bowl. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 4 days."
+  ]
+}

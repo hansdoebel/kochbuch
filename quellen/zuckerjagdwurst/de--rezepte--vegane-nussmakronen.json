@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nussmakronen",
+  "recipes": [
+    {
+      "name": "Vegane Nussmakronen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nussmakronen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nussmakronen#recipe-3b07f2bd-d7c6-583f-aad3-533867f1dc35",
+      "authors": [
+        "Anneke Schügner"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "15 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "60 g Aquafaba (Wasser aus der Kichererbsen-Dose)",
+        "0.25 TL Backpulver",
+        "75 g Puderzucker",
+        "0.25 TL Vanilleextrakt",
+        "200 g gemahlene Haselnüsse",
+        "15 Oblaten (ø 5 cm)",
+        "15 ganze Haselnüsse"
+      ],
+      "instructions": [
+        "Ofen auf 180 °C (Umluft) vorheizen. Aquafaba und Backpulver in eine große Schüssel geben und mit dem Handrührgerät oder der Küchenmaschine aufschlagen, bis eine schnittfeste Konsistenz erreicht ist.",
+        "Puderzucker nach und nach hineinsieben und vorsichtig unterheben. Vanilleextrakt hinzugeben und gemeinsam mit den gemahlenen Haselnüssen unterheben.",
+        "Tipp: Bei diesem Rezept ist die Konsistenz eures Teiges entscheidend. Gebt die Haselnüsse am besten Stück für Stück hinzu, sodass ihr die Konsistenz des Teiges im Auge behalten könnt. Er sollte so weich sein, dass ihr ihn mit dem Spritzbeutel gut verarbeiten könnt. Nach dem Aufspritzen sollte er jedoch nicht auseinanderlaufen. Die Konsistenz sollte der von Zahnpasta ähneln.",
+        "Oblaten auf einem mit Backpapier ausgelegten Backblech verteilen. Anschließend Nussmasse in einen Spritzbeutel mit großer Spritztülle (circa 1 Zentimeter) geben. Die Spritztülle jeweils etwas über der Mitte der Oblate ansetzen. Anschließend den Teig herausdrücken, ohne die Spitze der Tülle zu bewegen. Auf diese Art und Weise sollte sich die Nussmasse auf der gesamten Oblate gleichmäßig verteilen. Die Makronen sollten etwa 0.5 Zentimeter hoch sein.",
+        "In die Mitte jeder Makrone eine Haselnuss geben und die Plätzchen für 10–12 Minuten bei 180 °C (Umluft) backen. Nach dem Backen gut auskühlen lassen, da sie frisch aus dem Ofen noch sehr weich sind."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

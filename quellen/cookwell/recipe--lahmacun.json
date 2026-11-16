@@ -1,0 +1,48 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/lahmacun",
+  "recipes": [
+    {
+      "name": "Weeknight Lahmacun",
+      "source_url": "https://app.cookwell.com/recipe/lahmacun",
+      "recipe_id": "https://app.cookwell.com/recipe/lahmacun",
+      "authors": [
+        "Cook Well Official"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "Lavash bread, ~6",
+        "Lebanese style pita, ~6",
+        "Flatbreads, ~6",
+        "Ground beef, 300 g",
+        "Sour Cream, 2 spoonfuls",
+        "Onions, 1",
+        "Parsley, a handful",
+        "Salt, to taste",
+        "Black Pepper, to taste",
+        "Paprika, a sprinkle",
+        "Cumin, a sprinkle",
+        "Parsley",
+        "Onions",
+        "Tomatoes",
+        "Lemons"
+      ],
+      "instructions": [
+        "Preheat an oven to your highest temp (like 500°F/250°C) with a pizza steel/stone in the top rack. If you don’t have a baking stone/steel, a baking or cookie sheet also works!",
+        "Meanwhile, mix all meat spread components until the meat is tacky. You can do this in a food processor, or by hand if you finely mince the herbs/onions. Cook a tiny spoonful of it in the microwave to check seasoning, and add ingredients if needed.",
+        "Spread a very thin layer of the meat mixture onto a flatbread. Repeat with remaining flatbreads until you’ve run out of meat.",
+        "Switch the oven to the broiler function on high. Slide a prepped flatbread onto the stone and broil from above until the meat mixture is browned and fully cooked. Repeat with remaining portions. Serve warm with garnishes on the side. To eat: roll up an individual lahmacun with toppings of choice. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

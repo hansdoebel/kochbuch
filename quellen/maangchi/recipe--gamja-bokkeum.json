@@ -1,0 +1,119 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/gamja-bokkeum",
+  "recipes": [
+    {
+      "name": "Stir-fried potato side dish (Gamja-bokkeum)",
+      "source_url": "https://www.maangchi.com/recipe/gamja-bokkeum",
+      "recipe_id": "/recipe/gamja-bokkeum#sso/recipe/127",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "potatoes",
+        "onion",
+        "2 cloves garlic",
+        "soy sauce",
+        "1 tbs corn syrup",
+        "1 tbs sugar",
+        "half cup of water"
+      ],
+      "instructions": [
+        "Peel the 2-3 medium sized potatoes (15 oz, or 425 grams worth). Wash and cut them into ¾ inch cubes until you have 2½ cups’ worth.",
+        "Put the potato into a colander under running water to remove the starch.",
+        "Cut ½ cup’s worth of onion into bite sized chunks. Set aside.",
+        "Add 1 tbs olive oil to a heated pan. Put the potato into the pan.",
+        "Add 2 cloves of minced garlic and sauté it until the potato looks a little translucent.",
+        "Add the onion and keep stirring for a few minutes.",
+        "Add a half cup of water to the pan, 2 tbs of soy sauce, and 1 tbs of corn syrup (or sugar). Mix and simmer over medium heat for about 10 minutes until the liquid is evaporated.",
+        "Keep stirring so it doesn’t burn. Add more water if it looks like it needs some.",
+        "When the potato is cooked, turn off the stove and add 1 tbs of toasted sesame oil. Sprinkle a pinch of sesame seeds over top and serve with rice."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "potatoes"
+        },
+        {
+          "tag": "li",
+          "text": "onion"
+        },
+        {
+          "tag": "li",
+          "text": "2 cloves garlic"
+        },
+        {
+          "tag": "li",
+          "text": "soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 tbs corn syrup"
+        },
+        {
+          "tag": "li",
+          "text": "1 tbs sugar"
+        },
+        {
+          "tag": "li",
+          "text": "half cup of water"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Peel the 2-3 medium sized potatoes (15 oz, or 425 grams worth). Wash and cut them into ¾ inch cubes until you have 2½ cups’ worth."
+        },
+        {
+          "tag": "li",
+          "text": "Put the potato into a colander under running water to remove the starch."
+        },
+        {
+          "tag": "li",
+          "text": "Cut ½ cup’s worth of onion into bite sized chunks. Set aside."
+        },
+        {
+          "tag": "li",
+          "text": "Add 1 tbs olive oil to a heated pan. Put the potato into the pan."
+        },
+        {
+          "tag": "li",
+          "text": "Add 2 cloves of minced garlic and sauté it until the potato looks a little translucent."
+        },
+        {
+          "tag": "li",
+          "text": "Add the onion and keep stirring for a few minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Add a half cup of water to the pan, 2 tbs of soy sauce, and 1 tbs of corn syrup (or sugar). Mix and simmer over medium heat for about 10 minutes until the liquid is evaporated."
+        },
+        {
+          "tag": "li",
+          "text": "Keep stirring so it doesn’t burn. Add more water if it looks like it needs some."
+        },
+        {
+          "tag": "li",
+          "text": "When the potato is cooked, turn off the stove and add 1 tbs of toasted sesame oil. Sprinkle a pinch of sesame seeds over top and serve with rice."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

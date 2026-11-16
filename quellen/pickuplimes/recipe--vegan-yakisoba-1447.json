@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vegan-yakisoba-1447",
+  "recipes": [
+    {
+      "name": "Vegan Yakisoba",
+      "source_url": "https://www.pickuplimes.com/recipe/vegan-yakisoba-1447",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT20M",
+      "cook_time": "PT20M",
+      "total_time": "PT40M",
+      "ingredients": [
+        "7.055 oz yaki soba noodles",
+        "½ Tbsp vegetable oil",
+        "7.055 oz mock chicken pieces",
+        "½ Tbsp vegetable oil",
+        "3.351 oz shiitake mushrooms",
+        "1 small onion",
+        "1 medium carrot",
+        "2 cup shredded green cabbage",
+        "2 stalk green onion",
+        "1 cup fresh bean sprouts",
+        "3 Tbsp reduced-sodium soy sauce",
+        "3 Tbsp mushroom stir-fry sauce",
+        "3 Tbsp ketchup",
+        "1 Tbsp vegan Worcestershire sauce",
+        "1 tsp light brown sugar"
+      ],
+      "instructions": [
+        "Cook the noodles according to the package instructions, then drain and set aside.",
+        "Meanwhile, mix together all the sauce ingredients in a small bowl.",
+        "Heat some oil in a sauté pan over medium-high heat. Add the mock “chicken” to cook until golden. Then transfer to a plate.",
+        "Heat some more oil in the now-empty pan, and add in the cooked noodles. Cook until lightly golden, about 4 minutes, stirring minimally. Transfer to a plate and set aside.",
+        "Add the shiitake mushrooms to the now-empty pan. Cook for 2 to 3 minutes.",
+        "Add onion, carrot, and cabbage. Cook for another 3 minutes.",
+        "Lastly, add the noodles, mock 'chicken', sauce, green onions, and bean sprouts (if using). Cook for another 3 to 4 minutes until fully heated through.",
+        "Garnish as desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Yaki soba noodles are essentially Chinese-style wheat based stir-fry noodles.",
+    "Storage The noodles can be stored in an airtight container in the fridge for up to 3 days."
+  ]
+}

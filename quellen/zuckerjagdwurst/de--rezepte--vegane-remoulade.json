@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-remoulade",
+  "recipes": [
+    {
+      "name": "Vegane Remoulade",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-remoulade",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-remoulade#recipe-6760575f-6c5b-57b3-ab19-d5ecc62cac8c",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "180 g Remoulade",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "150 ml vegane Mayonnaise",
+        "1 TL mittelscharfer Senf",
+        "1 saure Gurken",
+        "3 Zweige Dill",
+        "2 Zweige Petersilie",
+        "4 - 5 Stängel Schnittlauch",
+        "15 Kapern (aus dem Glas)",
+        "Salz & Pfeffer"
+      ],
+      "instructions": [
+        "Die saure Gurke und die Kapern sehr, sehr klein schneiden.",
+        "Die Kräuter waschen und ebenfalls fein schneiden.",
+        "Alle Zutaten in eine Schüssel geben, gut verrühren und abschmecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,52 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/high-protein-baked-chicken-ziti",
+  "recipes": [
+    {
+      "name": "High Protein Baked Chicken Ziti",
+      "source_url": "https://app.cookwell.com/recipe/high-protein-baked-chicken-ziti",
+      "recipe_id": "https://app.cookwell.com/recipe/high-protein-baked-chicken-ziti",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT1H30M",
+      "ingredients": [
+        "Whole peeled tomatoes, 800 g",
+        "Onions, 1/4",
+        "Garlic, 2 cloves",
+        "Dried oregano, a sprinkle",
+        "Olive Oil, 10 g",
+        "Chicken Breasts, 350 g",
+        "Salt, 3 g",
+        "Bell peppers, 1/2",
+        "Onions, 1/4",
+        "Granulated garlic, 2 g",
+        "Aleppo pepper, 1 g",
+        "Olive Oil, 10 g",
+        "Water, a splash",
+        "Short pasta of choice, 450 g",
+        "Low-moisture mozzarella, 225 g",
+        "Dried oregano, extra sprinkle",
+        "Aleppo pepper, extra sprinkle"
+      ],
+      "instructions": [
+        "Heat the oil in a saucepan over medium heat. Add the crushed garlic, grated onion, and oregano. Bloom for 30–45 seconds until fragrant. Pour in the canned tomatoes. Bring to a gentle simmer, partially cover with the lid slightly cracked, and reduce for about 1 hour. Optional: blend until smooth before assembling the casserole.",
+        "Meanwhile, boil the pasta in another pot with well-salted water until just al dente. Slightly undercooking the pasta helps prevent it from becoming mushy during baking later. Drain well and set aside (optionally toss with a drizzle of oil to prevent sticking).",
+        "Finely dice the bell pepper and onion.Add the chopped chicken, vegetables, salt, oregano, dried minced garlic, and Aleppo pepper to a food processor. Pulse until the mixture forms a cohesive ground chicken mixture. At this point, you can form the mixture into balls, or just proceed to the following step for a faster, more rustic approach.",
+        "Heat a stainless steel skillet over medium-high heat and add the oil. Drop spoonfuls of the chicken mixture directly into the pan to sear. Brown the pieces well on the first side until the ‘meatballs’ naturally release, then flip each and finish cooking them through. Add a splash of water to the pan to deglaze the browned bits into a quick pan sauce that should coat the meatballs, then remove from the heat and set aside.",
+        "Preheat the oven to 350°F/176°C. Spread a thin layer of tomato sauce across the bottom of a baking dish. Add the cooked pasta, and nestle the chicken meatballs throughout the pasta. Pour the remaining tomato sauce evenly over everything. Cover with the shredded mozzarella, and finish with another sprinkle of oregano and Aleppo pepper.",
+        "Bake for 25-35 minutes, uncovered, until the cheese has melted completely. Switch the oven to broil for the last 1–2 minutes until the top is browned and bubbly. Allow to cool a bit before enjoying."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-bounty-selber-machen",
+  "recipes": [
+    {
+      "name": "Vegane Bounty selber machen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-bounty-selber-machen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-bounty-selber-machen#recipe-01a2e562-f738-5335-ac6e-1aa841463849",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "20 Bountys",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "Kokosfüllung",
+        "200 g Kokosnussraspeln",
+        "20 g Kokosnussöl",
+        "50 g Ahornsirup/Agavendicksaft",
+        "150 ml Kokosnussmilch",
+        "Schokoladenüberzug",
+        "200 g dunkle Schokolade",
+        "20 g Kokosöl",
+        "2 EL Kokosnussraspeln"
+      ],
+      "instructions": [
+        "Das Kokosöl für die Füllung in einem kleinen Topf schmelzen.",
+        "In einer Schüssel die Kokosnussraspeln, das Kokosöl, den Ahornsirup und die Kokosnussmilch vermengen (nur die obere, dicke Schicht einer Kokosmilchdose verwenden, nicht das Kokoswasser).",
+        "Aus der Masse 15-20 Bountys formen und diese auf einem Schneidebrett platzieren. Die Bountys für mindestens eine Stunde im Gefrierschrank kaltstellen.",
+        "In einem Wasserbad die dunkle Schokolade und das Kokosöl schmelzen. Vom Herd nehmen und etwa 10 Minuten abkühlen lassen.",
+        "Mithilfe von zwei Gabeln (oder Löffeln) die Bountys in die flüssige Schokolade tauchen, sodass sie rundherum umhüllt werden.",
+        "Die Bountys auf einem Gitter platzieren, mit Kokosraspeln dekorieren und abkühlen lassen.",
+        "Die Bountys im Kühlschrank aufbewahren (bis zu 5 Tage haltbar)."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

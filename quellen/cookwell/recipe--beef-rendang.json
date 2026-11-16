@@ -1,0 +1,47 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/beef-rendang",
+  "recipes": [
+    {
+      "name": "Beef Rendang",
+      "source_url": "https://app.cookwell.com/recipe/beef-rendang",
+      "recipe_id": "https://app.cookwell.com/recipe/beef-rendang",
+      "authors": [
+        "Keith McBrayer"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "5 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT4H30M",
+      "ingredients": [
+        "Beef chuck, ~ 3 lb",
+        "Salt, as needed",
+        "Neutral oil, a spoonful",
+        "Garlic, 5 cloves",
+        "Shallots, 2-3",
+        "Fresh ginger, 2 spoonfuls",
+        "Turmeric powder, 2 spoonfuls",
+        "Galangal Root, 2 spoonfuls",
+        "Cumin, a spoonful",
+        "Ground coriander, a spoonful",
+        "Coconut Flakes, a spoonful",
+        "Coconut Milk, ~ 700 g",
+        "Lemongrass, 2-3 stalks",
+        "Makrut lime leaves, 2-3"
+      ],
+      "instructions": [
+        "Generously season the meat chunks with salt on each side. Heat a Dutch oven or pot over medium-high heat and add the oil. Sear the beef in batches until well browned.",
+        "In a mortar & pestle or food processor, puree aromatics into a rough paste. Add to the braising pot with the meat, making sure it’s enough to coat each piece after mixing. Stir and sauté the mixture until the paste starts to caramelize and cling to each piece. Sprinkle the ground spices over top.",
+        "Add the whole lemongrass, lime leaves, and coconut milk - enough to just cover the meat. Cover the Dutch oven and pop into a 300°F/148°C oven to braise for 3-5 hours or until the meat is completely fork tender. Let it rest and cool out of the oven for at least an hour.",
+        "Shred the meat to your desired consistency. Taste and adjust with more salt, if needed. Serve over rice!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

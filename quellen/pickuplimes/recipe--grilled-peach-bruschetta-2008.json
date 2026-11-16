@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/grilled-peach-bruschetta-2008",
+  "recipes": [
+    {
+      "name": "Grilled Peach Bruschetta",
+      "source_url": "https://www.pickuplimes.com/recipe/grilled-peach-bruschetta-2008",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 large bruschettas",
+      "prep_time": "PT10M",
+      "cook_time": "PT10M",
+      "total_time": "PT20M",
+      "ingredients": [
+        "2 canned peaches",
+        "2 cup cherry tomatoes",
+        "1 garlic clove",
+        "½ cup fresh basil leaves",
+        "1 Tbsp extra-virgin olive oil",
+        "⅛ tsp salt",
+        "⅛ tsp ground black pepper",
+        "1 Tbsp olive oil",
+        "4 slice sourdough bread",
+        "¾ cup plain vegan cream cheese"
+      ],
+      "instructions": [
+        "Bring a grill pan to medium-high heat. Then cook the peaches until deeply caramelized, around 3 to 4 minutes on each side. Set aside to cool down slightly.",
+        "Add the remaining bruschetta ingredients to a large bowl. Set aside.",
+        "Once cool enough to handle, dice the peaches.",
+        "Add them to the bowl and stir to combine. Set aside",
+        "Heat the oil in a grill pan over medium heat. Toast the bread slices until golden on both sides.",
+        "To assemble, spread the cream cheese on the toasted bread and top with the peach and tomato mixture. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Best enjoyed immediately. The bruschetta components can be stored in separate airtight container s in the fridge for up to 3 days."
+  ]
+}

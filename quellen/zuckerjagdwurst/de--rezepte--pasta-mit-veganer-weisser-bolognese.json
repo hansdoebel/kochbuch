@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/pasta-mit-veganer-weisser-bolognese",
+  "recipes": [
+    {
+      "name": "Pasta mit veganer weißer „Bolognese”",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/pasta-mit-veganer-weisser-bolognese",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/pasta-mit-veganer-weisser-bolognese#recipe-a4246a57-0ee3-55c5-82b5-844cdbaa7a21",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "500 g Pappardelle (oder andere Nudelsorte)",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "2 Möhren",
+        "2 Stangen Staudensellerie",
+        "250 g veganes fertiges „Hack”",
+        "100 ml veganer Weißwein",
+        "150 ml Gemüsebrühe",
+        "100 ml pflanzliche Milch",
+        "250 g vegane Kochsahne",
+        "1 TL getrockneter Oregano",
+        "1 TL getrocknetes Basilikum",
+        "1 Lorbeerblatt",
+        "Pflanzenöl zum Braten",
+        "veganer Parmesan zum Servieren",
+        "Salz",
+        "Pfeffer",
+        "Muskat"
+      ],
+      "instructions": [
+        "Zwiebel, Knoblauch und falls nötig auch Möhren schälen. Staudensellerie waschen. Alle Zutaten fein würfeln.",
+        "Pflanzenöl in einer großen Pfanne bei mittlerer Hitze erwärmen und das vegane „Hack” ca. 5 Minuten scharf anbraten, bis es leicht gebräunt ist. Nun Möhren, Sellerie, Zwiebeln und Knoblauch hinzugeben und weitere 5 Minuten braten.",
+        "Veganen Weißwein dazugeben und kurz einköcheln lassen. Anschließend Gemüsebrühe, pflanzliche Milch und Sahne dazugeben und die Soße mit getrocknetem Oregano, Basilikum und dem Lorbeerblatt würzen. Die Soße ca. 30 Minuten auf kleiner Flamme köcheln lassen. Am Ende erneut mit Salz, Pfeffer und Muskat abschmecken.",
+        "Während die „Bolognese” köchelt, gesalzenes Wasser in einem großen Topf zum Kochen bringen und die Nudeln darin nach Packungsanleitung al dente kochen. Vor dem Abgießen etwas vom Kochwasser abschöpfen und beiseitestellen.",
+        "Die gekochten Nudeln direkt zur weißen „Bolognese\" geben und vermengen. Dabei so viel vom Kochwasser wie nötig dazugeben, bis die Soße sämig wird und die Nudeln ummantelt. Das Lorbeerblatt herausnehmen und die Nudeln mit veganem Parmesan bestreuen und servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

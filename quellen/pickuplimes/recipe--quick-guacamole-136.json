@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/quick-guacamole-136",
+  "recipes": [
+    {
+      "name": "Quick Guacamole",
+      "source_url": "https://www.pickuplimes.com/recipe/quick-guacamole-136",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "2 avocado",
+        "½ lime",
+        "1 garlic clove",
+        "¼ small red onion",
+        "½ tsp ground cumin",
+        "¼ tsp sweet paprika powder",
+        "¼ tsp salt",
+        "1 pinch cayenne pepper",
+        "⅓ cup cherry tomatoes"
+      ],
+      "instructions": [
+        "Mash the avocado in a bowl, then add the remaining ingredients and stir to combine.",
+        "Serve on salad bowls, tacos, burritos, or enjoy with tortilla chips as a dip!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Best to enjoy this right away, but can be stored in an airtight container it in the fridge for up to a day."
+  ]
+}

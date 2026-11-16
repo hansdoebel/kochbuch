@@ -1,0 +1,67 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/arabischer-taco-mit-baba-ganoush-und-geroestetem-blumenkohl",
+  "recipes": [
+    {
+      "name": "Taco mit Baba Ganoush & geröstetem Blumenkohl",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/arabischer-taco-mit-baba-ganoush-und-geroestetem-blumenkohl",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/arabischer-taco-mit-baba-ganoush-und-geroestetem-blumenkohl#recipe-513afc0d-5941-59f6-8e41-a0b66178be48",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "6 Tacos",
+        "50 g Pinienkerne",
+        "5 g Petersilie",
+        "2 EL Olivenöl",
+        "Gerösteter Blumenkohl",
+        "1/2 Kopf Blumenkohl",
+        "2 EL Olivenöl",
+        "1 TL Chili",
+        "2 TL Kreuzkümmel",
+        "2 TL Salz",
+        "1 TL Pfeffer",
+        "Baba Ganoush",
+        "1 Aubergine",
+        "Prise Salz",
+        "1/2 Zitrone",
+        "2 EL Tahin",
+        "1 Knoblauchzehe",
+        "Prise gemahlener Kreuzkümmel",
+        "Prise Cayenne Pfeffer",
+        "1 EL Olivenöl",
+        "1 EL pflanzlicher Naturjoghurt",
+        "10 g Petersilie"
+      ],
+      "instructions": [
+        "Gerösteter Blumenkohl",
+        "Den Blumenkohl waschen, die Röschen vom Stamm entfernen und mit einem Messer weiter zerkleinern. Denkt daran, dass mehrere Stücken Blumenkohl auf euren kleinen Taco passen sollten.",
+        "In einer Schüssel die Röschen mit dem Öl und den Gewürzen gut vermengen und auf ein Backblech mit Backpapier geben.",
+        "Für 35-45 Minuten bei 180°C Unter- und Oberhitze rösten.",
+        "Baba Ganoush",
+        "Die Aubergine waschen und längs halbieren.",
+        "Mit einem scharfen Messer in das Fleisch der Aubergine mehrmals einschneiden. Mit einem Pinsel Olivenöl auf der Oberfläche der Auberginenhälften verteilen.",
+        "Die beiden Hälften auf ein Backblech mit Backpapier legen und 30-45 Minuten bei 190°C backen.",
+        "Die Aubergine abkühlen lassen und die Schale und den Stiel der Aubergine entfernen. Wenn sich in der Aubergine viele Kerne befinden, dann entfernt sie am besten jetzt, ansonsten wird das Baba Ganoush bitter.",
+        "Das Fleisch der Aubergine nun mit allen restlichen Zutaten in einen Mixer geben und das ganze so lange pürieren, bis die Konsistenz für euch passt.",
+        "Abschmecken und am besten für ein paar Stunden ziehen lassen.",
+        "Tacos",
+        "Baba Ganoush und der geröstete Blumenkohl sind bereit? Dann die Pinienkerne in einer Pfanne ohne Öl etwas rösten.",
+        "Die Tacos nach Wunsch erhitzen (zum Beispiel in einer Pfanne ohne Öl oder im Ofen).",
+        "Die Petersilie waschen und die Blätter abzupfen.",
+        "Nun den Baba Ganoush auf dem Taco verteilen, mit geröstetem Blumenkohl toppen und mit Pinienkernen und Petersilie servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

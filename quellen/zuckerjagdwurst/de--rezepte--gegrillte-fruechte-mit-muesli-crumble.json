@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gegrillte-fruechte-mit-muesli-crumble",
+  "recipes": [
+    {
+      "name": "Gegrillte Früchte mit Müsli-Crumble",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gegrillte-fruechte-mit-muesli-crumble",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gegrillte-fruechte-mit-muesli-crumble#recipe-29f697ab-ccdb-50dd-9241-f05283686aa3",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "2 Nektarinen",
+        "1/2 Ananas (4 Scheiben)",
+        "1/8 Wassermelone (4 Scheiben)",
+        "4 Kugeln veganes Vanilleeis",
+        "Müsli-Crumble",
+        "100 g Müsli (zB Knusperflockenmüsli mit Zartbitterschokolade & Chia)",
+        "75 g Mehl",
+        "50 g Zucker",
+        "50 g vegane Butter (Zimmertemperatur)"
+      ],
+      "instructions": [
+        "Nektarinen waschen, den Kern entfernen und halbieren. Wassermelone und Ananas in Scheiben schneiden.",
+        "Für den Crumble Mehl, Zucker und weiche vegane Butter in einer Schüssel mit den Fingern vermengen, bis sich Streusel bilden. Das Müsli hinzugeben und nochmals gut vermischen.",
+        "Den Grill erhitzen und die Früchte zuerst von einer Seite grillen, bis Grillabdrücke sichtbar werden. Das dauert etwa 3-5 Minuten. Die Früchte auf die zweite Seite legen und nochmals 3-5 Minuten grillen.",
+        "Die Früchte vorsichtig vom Grill nehmen und mit dem Crumble und Vanilleeis toppen. Warm genießen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

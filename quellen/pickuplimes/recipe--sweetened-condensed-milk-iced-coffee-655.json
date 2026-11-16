@@ -1,0 +1,38 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/sweetened-condensed-milk-iced-coffee-655",
+  "recipes": [
+    {
+      "name": "Sweetened Condensed Milk Iced Coffee",
+      "source_url": "https://www.pickuplimes.com/recipe/sweetened-condensed-milk-iced-coffee-655",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "⅓ cup brewed espresso",
+        "¼ cup sweetened condensed coconut milk",
+        "2 cup ice cubes",
+        "1 cup unsweetened oat milk"
+      ],
+      "instructions": [
+        "In a cup or glass, mix together the freshly brewed espresso with the condensed coconut milk. Stir together while the espresso is hot, so the condensed milk fully dissolves.",
+        "Divide the ice cubes and espresso mix between the glasses.",
+        "Top each drink with the oat milk, give it a stir, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Best when enjoyed immediately."
+  ]
+}

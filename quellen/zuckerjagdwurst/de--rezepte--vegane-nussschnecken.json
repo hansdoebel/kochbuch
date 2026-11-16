@@ -1,0 +1,89 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nussschnecken",
+  "recipes": [
+    {
+      "name": "Vegane Zimtschnecken (neues Rezept 2025)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nussschnecken",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nussschnecken#recipe-86d5e315-bbdc-51fc-ae07-21abe8e70c6e",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT190M",
+      "ingredients": [
+        "Für den Hefeteig:",
+        "250 g pflanzliche Milch",
+        "10 g frische Hefe",
+        "500 g Weizenmehl (Type 550)",
+        "100 g Zucker",
+        "8 g Salz",
+        "100 g vegane Butter",
+        "Für die Füllung:",
+        "150 g vegane Butter (weich)",
+        "100 g brauner Zucker",
+        "4 EL Zimt",
+        "Salz",
+        "Ansonsten:",
+        "100 g pflanzliche Milch zum Bestreichen"
+      ],
+      "instructions": [
+        "Für den Hefeteig die pflanzliche Milch lauwarm erwärmen, einen Esslöffel Zucker einrühren und die Hefe darin auflösen. Die Mischung für 15 Minuten stehen lassen, bis sie sichtbar Blasen schlägt.",
+        "Mehl, restlichen Zucker, Salz und die Hefemilch in einer großen Schüssel acht Minuten lang zu einem glatten Teig verkneten. Dann zu einer runden Kugel formen, in die Schüssel legen, mit einem feuchten Tuch abdecken und für 30 Minuten bei Raumtemperatur ruhen lassen. Die vegane Butter würfeln und 5 Minuten lang unter den Teig kneten, bis er wieder ganz glatt und weich ist. Die Teigkugel erneut abdecken und für weitere 90 Minuten ruhen lassen.",
+        "Für die Füllung vegane Butter mit braunem Zucker, Zimt und Salz glattrühren.",
+        "Den Ofen auf 180 °C (Ober-/Unterhitze) vorheizen und eine rechteckige Auflaufform einfetten. Den Hefeteig auf die bemehlte Arbeitsfläche geben, circa 5 Millimeter dick zu einem Rechteck ausrollen, die Füllung auf den Teig geben und vorsichtig gleichmäßig verteilen. Dann den Teil von der längeren Seite her aufrollen und in 12 gleich dicke Scheiben schneiden.",
+        "Die Schnecken mit etwas Abstand zueinander in die Form legen, die Form nochmals mit einem feuchten Tuch abdecken und für 30 Minuten ruhen lassen. Dann dünn mit pflanzlicher Milch bestreichen und für circa 20 Minuten bei 180 °C (Ober-/Unterhitze) backen.",
+        "Nach dem Backen noch heiß mit etwas pflanzlicher Milch bestreichen und abkühlen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Vegane Nussschnecken",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nussschnecken",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nussschnecken#recipe-4a910107-ff9f-5fdb-8ab3-49ea9c3bebe9",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "24 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT190M",
+      "ingredients": [
+        "1 veganer Hefeteig (Rezept siehe unten)",
+        "Für die Nussfüllung:",
+        "200 g gemahlene Haselnüsse",
+        "100 g gemahlene Mandeln",
+        "50 g gehackte Nüsse nach Wahl",
+        "75 g Rohrzucker",
+        "1 TL Zimt",
+        "1 EL Ahornsirup",
+        "200 ml Mandelmilch",
+        "Salz",
+        "Zuckerguss:",
+        "Puderzucker",
+        "Wasser",
+        "Zimt"
+      ],
+      "instructions": [
+        "Den Hefeteteig nach Rezept vorbereiten. Während er aufgeht, kann schon die Füllung vorbereitet werden. Dafür gemahlene Haselnüsse und Mandeln, gehackte Nüsse eurer Wahl, Rohrzucker, Zimt, Ahornsirup, Mandelmilch und eine Prise Salz in einer großen Schüssel vermengen.",
+        "Wenn der Hefeteig aufgegangen ist, auf einer bemehlten Arbeitsfläche zu einem Rechteck ausrollen. Die Nussfüllung auf den Hefeteig streichen.",
+        "Den Backofen schon mal auf 180°C vorheizen. Von der langen Seite beginnend den Teig zusammenrollen. Anschließend in gleich große Scheiben schneiden und diese auf ein mit Backpapier ausgelegtes Backblech legen (ihr werdet 2 Backbleche mit Nussschnecken aus diesem Rezept bekommen).",
+        "Die Nussschnecken im vorgeheizten Backofen bei 180°C ca. 20 Minuten backen. Anschließend aus dem Ofen holen und abkühlen lassen.",
+        "Für den Zuckerguss Puderzucker und gemahlenen Zimt nach Geschmack vermengen mit so viel Wasser verrühren, bis eure gewünschte Konsistenz erreicht ist - manche mögen dickflüssigen Zuckerguss, andere lieber nur eine leichte Glasur. Die abgekühlten Nussschnecken damit bestreichen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

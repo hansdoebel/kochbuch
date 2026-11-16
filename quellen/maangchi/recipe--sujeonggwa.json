@@ -1,0 +1,119 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/sujeonggwa",
+  "recipes": [
+    {
+      "name": "Dessert punch with persimmon, cinnamon, and ginger (Sujeonggwa)",
+      "source_url": "https://www.maangchi.com/recipe/sujeonggwa",
+      "recipe_id": "/recipe/sujeonggwa#sso/recipe/129",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "4-5 dried persimmons",
+        "5 cinnamon sticks",
+        "½ cup of ginger, sliced",
+        "1 cup of sugar",
+        "pine nuts",
+        "7½ to 8 cups of water"
+      ],
+      "instructions": [
+        "Wash, peel, and slice ½ cup’s worth of ginger. Put it into a pot or kettle.",
+        "Rinse 5 cinnamon sticks and put them into the pot.",
+        "Add 7½ to 8 cups of water and boil for 20 minutes over high heat.",
+        "Lower the heat to medium and boil for another 25 minutes. If it boils over, take off the lid.",
+        "Add 1 cup of sugar. Stir and cool it down.",
+        "Remove the stem of the dried persimmons and wash thoroughly.",
+        "Strain cinnamon sticks and sliced ginger in a colander.",
+        "Pour it into a glass jar or glass bowl and add the persimmons.",
+        "Put the lid on and keep it in the refrigerator for at least 12 hours. It will keep in the fridge for more than 1 week.",
+        "Serve cold with ice cubes. Use a ladle to give each person a small bowl of punch. Each serving should have one persimmon in it with a few pine nuts sprinkled on top."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "4-5 dried persimmons"
+        },
+        {
+          "tag": "li",
+          "text": "5 cinnamon sticks"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup of ginger, sliced"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup of sugar"
+        },
+        {
+          "tag": "li",
+          "text": "pine nuts"
+        },
+        {
+          "tag": "li",
+          "text": "7½ to 8 cups of water"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Wash, peel, and slice ½ cup’s worth of ginger. Put it into a pot or kettle."
+        },
+        {
+          "tag": "li",
+          "text": "Rinse 5 cinnamon sticks and put them into the pot."
+        },
+        {
+          "tag": "li",
+          "text": "Add 7½ to 8 cups of water and boil for 20 minutes over high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Lower the heat to medium and boil for another 25 minutes. If it boils over, take off the lid."
+        },
+        {
+          "tag": "li",
+          "text": "Add 1 cup of sugar. Stir and cool it down."
+        },
+        {
+          "tag": "li",
+          "text": "Remove the stem of the dried persimmons and wash thoroughly."
+        },
+        {
+          "tag": "li",
+          "text": "Strain cinnamon sticks and sliced ginger in a colander."
+        },
+        {
+          "tag": "li",
+          "text": "Pour it into a glass jar or glass bowl and add the persimmons."
+        },
+        {
+          "tag": "li",
+          "text": "Put the lid on and keep it in the refrigerator for at least 12 hours. It will keep in the fridge for more than 1 week."
+        },
+        {
+          "tag": "li",
+          "text": "Serve cold with ice cubes. Use a ladle to give each person a small bowl of punch. Each serving should have one persimmon in it with a few pine nuts sprinkled on top."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

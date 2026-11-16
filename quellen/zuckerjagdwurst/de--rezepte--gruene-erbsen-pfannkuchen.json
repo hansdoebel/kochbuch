@@ -1,0 +1,66 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gruene-erbsen-pfannkuchen",
+  "recipes": [
+    {
+      "name": "Grüne Erbsen-Pfannkuchen mit frischen Kräutern, Dip und Spinat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gruene-erbsen-pfannkuchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gruene-erbsen-pfannkuchen#recipe-47d9a5f3-fb63-5ed0-881c-84486db0879a",
+      "authors": [
+        "Gesine Fiedler"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für den Teig:",
+        "350 g TK-Erbsen",
+        "50 g frischer Blattspinat",
+        "400 ml Wasser",
+        "100 g Speisestärke",
+        "4 EL Hefeflocken",
+        "Salz",
+        "Pfeffer",
+        "pflanzliches Öl zum Braten",
+        "Für die Füllung:",
+        "200 g Kichererbsen aus der Dose (Abtropfgewicht)",
+        "2 TL Ras el Hanout Gewürz",
+        "50 g frischer Blattspinat",
+        "50 g frische Minze",
+        "50 g Schnittlauch",
+        "50 g Petersilie",
+        "0.5 Zitrone (Saft)",
+        "200 g Kirschtomaten",
+        "100 g Radieschen",
+        "1 rote Zwiebel",
+        "2 Avocados",
+        "3 EL Sesam",
+        "400 g Kichererbsentofu",
+        "neutrales Pflanzenöl",
+        "Für den Dip:",
+        "2 Knoblauchzehen",
+        "100 g Tahin",
+        "20 g Olivenöl",
+        "50 g Wasser",
+        "1 Zitrone (Saft)",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Für die Pfannkuchen Wasser in einem Topf aufkochen und die Erbsen darin eine Minute lang blanchieren, dann durch ein Sieb abgießen und kalt durchspülen. Erbsen, Spinat, Wasser, Speisestärke, Hefeflocken, Salz und Pfeffer in einen Becher geben und glatt pürieren. Die Konsistenz sollte cremig-flüssig sein, ähnlich wie bei einem Crépeteig. Falls der Teig noch zu dick ist, einfach etwas mehr Wasser unterrühren.",
+        "Eine große Pfanne mit etwas Öl auf mittlerer Stufe erhitzen und pro Pfannkuchen eine große Kelle Teig in die Pfanne geben. Die Pfanne etwas schwenken, sodass sich der Teig dünn verteilt und dann von beiden Seiten knusprig braten. Das Braten dauert etwas, da der Teig durch die Erbsen viel Wasser enthält – pro Seite circa 3–4 Minuten braten. Aus dem Teig werden je nach Größe circa vier bis sechs große Pfannkuchen.",
+        "Für die Füllung Kichererbsen abtropfen und abspülen, dann mit etwas Öl in einer Pfanne braten, Ras el Hanout Gewürz unterrühren und beiseite stellen. Blattspinat waschen und ebenfalls beiseitestellen. Minze, Schnittlauch und Petersilie waschen und fein hacken, in eine kleine Schüssel geben und mit Zitronensaft mischen. Kirschtomaten vierteln, Radieschen in dünne Scheiben schneiden, rote Zwiebel schälen und in dünne Ringe schneiden, Avocado schälen und in Spalten schneiden. Sesam in eine kleine Pfanne geben und ohne Öl rösten, bis er eine goldene Farbe annimmt. Kichererbsentofu in Streifen schneiden und von beiden Seiten knusprig braten.",
+        "Für den Dip Knoblauchzehen schälen und fein hacken. Dann Tahin, Olivenöl, Wasser, Zitronensaft, Knoblauch, Salz und Pfeffer in eine Schüssel geben und mit einer Gabel glattrühren. Für circa 10 Minuten ziehen lassen.",
+        "Zum Servieren einen Pfannkuchen auf einen Teller legen und dann mit Spinat, Minz-Petersilien-Mix, Tomaten, Radieschen, Zwiebel, Avocado und Kichererbsentofu belegen. Zum Schluss noch gerösteten Sesam und den Dip darüber geben."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

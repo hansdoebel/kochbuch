@@ -1,0 +1,88 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/oi-bokkeum",
+  "recipes": [
+    {
+      "name": "Sautéed cucumbers (Oi-bokkeum: 오이볶음)",
+      "source_url": "https://www.maangchi.com/recipe/oi-bokkeum",
+      "recipe_id": "/recipe/oi-bokkeum#sso/recipe/102020",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "4 servings",
+      "prep_time": "P0DT0H20M0S",
+      "cook_time": "P0DT0H1M0S",
+      "total_time": "P0DT0H21M0S",
+      "ingredients": [
+        "1 pound seedless cucumbers, sliced thinly",
+        "1½ teaspoons Kosher salt",
+        "1 tablespoon toasted sesame oil",
+        "1 tablespoon toasted sesame seeds, ground with a mortar and pestle or a coffee grinder"
+      ],
+      "instructions": [
+        "In a bowl, combine the sliced cucumbers with 1 teaspoon of salt and mix well. Set aside for 10 minutes until the cucumbers release their water.",
+        "Place the cucumbers into a cotton cloth or a few layers of cheesecloth and squeeze tightly to remove excess water. Return the squeezed cucumbers to the bowl.",
+        "Drizzle the sesame oil over the cucumbers and mix well.",
+        "Heat a skillet over medium-high heat. Add the cucumbers and sauté for 1 minute, then remove from the heat.",
+        "Stir in the ground sesame seeds and transfer to a serving plate or bowl. Serve as a side dish."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 4"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound seedless cucumbers, sliced thinly"
+        },
+        {
+          "tag": "li",
+          "text": "1½ teaspoons Kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame seeds, ground with a mortar and pestle or a coffee grinder"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "In a bowl, combine the sliced cucumbers with 1 teaspoon of salt and mix well. Set aside for 10 minutes until the cucumbers release their water."
+        },
+        {
+          "tag": "li",
+          "text": "Place the cucumbers into a cotton cloth or a few layers of cheesecloth and squeeze tightly to remove excess water. Return the squeezed cucumbers to the bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Drizzle the sesame oil over the cucumbers and mix well."
+        },
+        {
+          "tag": "li",
+          "text": "Heat a skillet over medium-high heat. Add the cucumbers and sauté for 1 minute, then remove from the heat."
+        },
+        {
+          "tag": "li",
+          "text": "Stir in the ground sesame seeds and transfer to a serving plate or bowl. Serve as a side dish."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

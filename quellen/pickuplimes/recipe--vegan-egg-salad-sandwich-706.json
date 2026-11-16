@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/vegan-egg-salad-sandwich-706",
+  "recipes": [
+    {
+      "name": "Vegan \"Egg\" Salad Sandwich",
+      "source_url": "https://www.pickuplimes.com/recipe/vegan-egg-salad-sandwich-706",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 sandwiches",
+      "prep_time": "PT15M",
+      "cook_time": "",
+      "total_time": "PT15M",
+      "ingredients": [
+        "11.464 oz firm tofu",
+        "½ cup vegan mayonnaise",
+        "2 Tbsp nutritional yeast flakes",
+        "2 Tbsp fresh chives",
+        "1½ tsp Dijon mustard",
+        "½ tsp curry powder",
+        "¼ tsp ground turmeric",
+        "¼ tsp kala namak",
+        "¼ tsp ground black pepper",
+        "3 romaine lettuce leaf",
+        "½ cucumber",
+        "6 slice whole wheat bread"
+      ],
+      "instructions": [
+        "Finely chop the pressed tofu into very small pieces. Transfer to a large bowl and mix together with the mayonnaise, nutritional yeast, chives, mustard, curry powder, turmeric, salt, and pepper.",
+        "Assemble the sandwiches by adding a layer of lettuce, sliced cucumber, and a generous layer of \"egg\" salad on top of the bread.",
+        "Cut in half if desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Kala namak, is a salt often used in South Asian cuisine. The sulphur compounds give the salt an egg-like smell and flavour.",
+    "Storage The assembled sandwiches are best when enjoyed on the same day. The \"egg\" salad can be stored in an airtight container in the fridge for up to 3 days."
+  ]
+}

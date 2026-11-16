@@ -1,0 +1,66 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/kuerbis-tempeh-aus-dem-ofen-mit-rahmspinat-mango-salsa",
+  "recipes": [
+    {
+      "name": "Kürbis und Tempeh aus dem Ofen mit würzigem Rahmspinat und Mango-Salsa",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/kuerbis-tempeh-aus-dem-ofen-mit-rahmspinat-mango-salsa",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/kuerbis-tempeh-aus-dem-ofen-mit-rahmspinat-mango-salsa#recipe-4a52e2ca-5774-5286-9b7d-6e226131671a",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT55M",
+      "ingredients": [
+        "Für den gebackenen Kürbis und Tempeh:",
+        "500 g Hokkaido-Kürbis",
+        "370 g Tempeh (z. B. 2 Packungen Berglinsen-Tempeh von tempehmanufaktur)",
+        "1 EL Olivenöl",
+        "2 EL Ahornsirup",
+        "1 TL gemahlener Kreuzkümmel",
+        "1 TL getrockneter Thymian",
+        "Salz",
+        "Pfeffer",
+        "Für den würzigen Rahmspinat:",
+        "1 Zwiebel",
+        "2 Knoblauchzehen",
+        "10 g Petersilie",
+        "300 g gehackter Tiefkühlspinat",
+        "150 g veganer Schmand",
+        "2 EL Tahin",
+        "1 EL Hefeflocken",
+        "1 Zitrone",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "Pflanzenöl zum Braten",
+        "Für die Mango-Salsa und das Topping:",
+        "50 g Pinienkerne",
+        "1 Mango",
+        "1 kleine rote Zwiebel",
+        "10 g Petersilie",
+        "1 TL Sumach",
+        "1 TL Chiliflocken",
+        "1 EL Olivenöl",
+        "Salz",
+        "Zitronensaft"
+      ],
+      "instructions": [
+        "Den Backofen auf 200 °C (Ober-/Unterhitze) vorheizen. Zuerst Kürbis und Tempeh klein schneiden, zum Beispiel den Kürbis in Spalten und den Tempeh in Dreiecke. Beides auf einem Backblech verteilen, mit einer großzügigen Menge Olivenöl (damit der Tempeh nicht zu trocken wird) und Ahornsirup beträufeln und mit Kreuzkümmel, getrocknetem Thymian, Salz und Pfeffer würzen. Im Ofen circa 20–25 Minuten backen.",
+        "In der Zwischenzeit für den würzigen Rahmspinat Zwiebel und Knoblauch schälen und fein würfeln. Petersilie fein hacken und beiseitelegen. Pflanzenöl in einer Pfanne bei mittlerer Hitze erwärmen und beides anschwitzen, bis die Zwiebelwürfel glasig werden. Gehackten Tiefkühlspinat dazugeben und erwärmen, bis er komplett aufgetaut und die Flüssigkeit verkocht ist. Anschließend vom Herd nehmen und abkühlen lassen. Mit veganem Schmand, Tahin, Hefeflocken und gehackter Petersilie vermengen. Mit Salz, Pfeffer, Muskat und Zitronenabrieb und -saft abschmecken.",
+        "Die Pinienkerne in einer fettfreien Pfanne goldbraun rösten und beiseitelegen.",
+        "Mango und rote Zwiebel für die Salsa in kleine Würfel schneiden. Petersilie fein hacken. In einer Schüssel mit Sumach, Chiliflocken und Olivenöl vermengen und mit Salz und Zitronensaft abschmecken.",
+        "Zum Servieren den Rahmspinat auf einem großen Teller verstreichen. Kürbis und Tempeh aus dem Ofen darauf verteilen und mit der Mango-Salsa und den gerösteten Pinienkernen toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

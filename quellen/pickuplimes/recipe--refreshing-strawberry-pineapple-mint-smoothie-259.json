@@ -1,0 +1,38 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/refreshing-strawberry-pineapple-mint-smoothie-259",
+  "recipes": [
+    {
+      "name": "Refreshing Strawberry & Pineapple Mint Smoothie",
+      "source_url": "https://www.pickuplimes.com/recipe/refreshing-strawberry-pineapple-mint-smoothie-259",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "¼ cucumber",
+        "1 cup unsweetened coconut water",
+        "1 cup frozen strawberries",
+        "1 cup frozen pineapple chunks",
+        "1 orange",
+        "6 fresh mint leaves"
+      ],
+      "instructions": [
+        "Place all ingredients in a blender, and blend until smooth. Serve immediately and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage This smoothie is enjoyed immediately."
+  ]
+}

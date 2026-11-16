@@ -1,0 +1,43 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/green-chile-chicken-white-cheddar-mac-and-cheese",
+  "recipes": [
+    {
+      "name": "Green Chile Chicken White Cheddar Mac & Cheese",
+      "source_url": "https://app.cookwell.com/recipe/green-chile-chicken-white-cheddar-mac-and-cheese",
+      "recipe_id": "https://app.cookwell.com/recipe/green-chile-chicken-white-cheddar-mac-and-cheese",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Dried macaroni noodles, 170 g",
+        "Water",
+        "Salt, to taste",
+        "White Cheddar Powder, 14 g",
+        "American Cheese, 2 slices",
+        "low-fat evaporated milk, 75 g",
+        "Chicken Breasts, ~227 g",
+        "Poblano peppers, 2",
+        "Chili Powder, a sprinkle",
+        "Cumin, a sprinkle",
+        "Paprika, a sprinkle"
+      ],
+      "instructions": [
+        "Set the oven on broil. Place the poblanos on a sheet pan and set them under the broiler. Broil until fully charred on one side before flipping. This can also be done with a blowtorch or directly on a gas flame. Remove from the oven and place in a container with a lid to steam for 10 minutes. Once steamed, remove the skin, stems, and seeds from the peppers, then dice them into pieces for the mac and cheese. If you don't already have cooked chicken on hand, now would be the time to grill or sear some chicken breasts to add to the mac on the last step. You could also use any leftover chicken or protein you might have here.",
+        "To start, warm up some water on the stove in a pot. You only need enough water to just cover the pasta. Add in the dried macaroni. If you have too much water, scoop some out so that the water level is just above the paste. Season the water a large pinch of salt. Bring the water to a boil. Stir the pasta occasionally until the water has almost entirely reduced and absorbed into the noodles (and the pasta is cooked through).",
+        "With the water reduced into a starchy substance, turn down the heat to low. Add the evaporated milk, cheese powder, and cheese. Stir the sauce until it thickens to your liking. You can tweak the consistency of your mac and cheese by adding more evaporated milk if needed. Add the roasted poblano peppers, the grilled chicken, and spices to the pot and mix together. Serve!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

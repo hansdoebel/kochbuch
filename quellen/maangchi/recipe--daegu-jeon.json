@@ -1,0 +1,115 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/daegu-jeon",
+  "recipes": [
+    {
+      "name": "Breaded cod fillets (Daegujeon)",
+      "source_url": "https://www.maangchi.com/recipe/daegu-jeon",
+      "recipe_id": "/recipe/daegu-jeon#sso/recipe/92",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Cod filets (400 grams), flour, olive oil, garlic, kosher salt, ground black pepper, eggs, a red chili pepper, soy sauce, vinegar"
+      ],
+      "instructions": [
+        "You can use fresh or frozen cod. If it’s frozen, thaw it out in the refrigerator.",
+        "Rinse the filets in cold water and gently dry them using a paper towel or cotton cloth",
+        "Slice it thinly and put it in a bowl.",
+        "Sprinkle 1 ts of kosher salt, 2 cloves of minced garlic, and 1 pinch of black pepper into the bowl of cod slices and gently mix it up by hand.",
+        "Pour 1 cup of flour into the bowl with the cod, and mix it quickly with your hand so that the cod is lightly breaded.",
+        "Beat 2 eggs in a small bowl and add a pinch of salt.",
+        "Add 1 chopped green onion and red chili pepper into the beaten eggs.",
+        "Heat a pan on the stove over medium high heat.",
+        "Add 1 tbs of olive oil or vegetable oil to the pan.",
+        "Piece by piece, dip your breaded cod into the beaten eggs, and then place the pieces onto the heated pan.",
+        "Lower the heat to medium and cook it.",
+        "Turn it over using a spatula or spoon.",
+        "Add more oil if needed.",
+        "On a big plate, place green lettuce on the bottom and place the cooked fish on it. Now it’s “jeon”!",
+        "Serve it with a dipping sauce of 2 tbs of soy sauce and 1 or 2 tbs of vinegar."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Cod filets (400 grams), flour, olive oil, garlic, kosher salt, ground black pepper, eggs, a red chili pepper, soy sauce, vinegar"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "You can use fresh or frozen cod. If it’s frozen, thaw it out in the refrigerator."
+        },
+        {
+          "tag": "li",
+          "text": "Rinse the filets in cold water and gently dry them using a paper towel or cotton cloth"
+        },
+        {
+          "tag": "li",
+          "text": "Slice it thinly and put it in a bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Sprinkle 1 ts of kosher salt, 2 cloves of minced garlic, and 1 pinch of black pepper into the bowl of cod slices and gently mix it up by hand."
+        },
+        {
+          "tag": "li",
+          "text": "Pour 1 cup of flour into the bowl with the cod, and mix it quickly with your hand so that the cod is lightly breaded."
+        },
+        {
+          "tag": "li",
+          "text": "Beat 2 eggs in a small bowl and add a pinch of salt."
+        },
+        {
+          "tag": "li",
+          "text": "Add 1 chopped green onion and red chili pepper into the beaten eggs."
+        },
+        {
+          "tag": "li",
+          "text": "Heat a pan on the stove over medium high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Add 1 tbs of olive oil or vegetable oil to the pan."
+        },
+        {
+          "tag": "li",
+          "text": "Piece by piece, dip your breaded cod into the beaten eggs, and then place the pieces onto the heated pan."
+        },
+        {
+          "tag": "li",
+          "text": "Lower the heat to medium and cook it."
+        },
+        {
+          "tag": "li",
+          "text": "Turn it over using a spatula or spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Add more oil if needed."
+        },
+        {
+          "tag": "li",
+          "text": "On a big plate, place green lettuce on the bottom and place the cooked fish on it. Now it’s “jeon”!"
+        },
+        {
+          "tag": "li",
+          "text": "Serve it with a dipping sauce of 2 tbs of soy sauce and 1 or 2 tbs of vinegar."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-filo-apfel-cheesecake",
+  "recipes": [
+    {
+      "name": "Veganer Filo-Apfel-Cheesecake",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-filo-apfel-cheesecake",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-filo-apfel-cheesecake#recipe-f7e5910f-7077-518e-a1cd-e79bebc8f013",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (∅ 22cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT75M",
+      "ingredients": [
+        "Für den Boden:",
+        "10 Blätter Filoteig",
+        "ca. 50 ml Pflanzenöl",
+        "100 g Mandeln",
+        "150 g vegane Haferkekse",
+        "100 g weiche vegane Butter",
+        "1-2 TL Zimt (optional)",
+        "Für die Creme:",
+        "600 g veganer Frischkäse (Mandel- oder Haferbasis)",
+        "200 g veganer Skyr/Quark",
+        "50 g Puderzucker",
+        "1 EL Speisestärke",
+        "37 g veganes Vanillepudding Pulver",
+        "1 EL frischer Zitronensaft",
+        "50 ml vegane Kochsahne",
+        "Für das Topping:",
+        "200 g Äpfel",
+        "50 g Zucker",
+        "50 g vegane Butter",
+        "1 TL Zimt (optional)"
+      ],
+      "instructions": [
+        "Den Ofen auf 200° C (Ober- Unterhitze) vorheizen. Die einzelnen Blätter Filoteig mit Pflanzenöl bestreichen und immer 2 Blätter übereinanderlegen. Anschließend vorsichtig nacheinander und immer leicht versetzt in eine eingefettete Springform legen. Am Ende den überstehenden Rand mit einer Schere oder einem Messer abschneiden. Den Boden ca. 5 Minuten bei 200° C (Ober- Unterhitze) backen.",
+        "Mandeln, vegane Haferkekse, weiche vegane Butter und Zimt in einen Standmixer geben und alles zerkleinern. Sobald der Filoteig aus dem Ofen kommt, die Mandel-Haferkeksmasse draufgeben und festdrücken.",
+        "Für die Cheesecake-Schicht veganen Frischkäse, veganen Skyr und Puderzucker in einer Schüssel verrühren. In einer extra Schüssel Speisestärke, veganes Puddingpulver, frischen Zitronensaft und vegane Kochsahne vermischen und anschließend zur Frischkäse-Masse dazugeben. Alles sehr gut mit einem Schneebesen oder Handrührgerät verrühren, bis eine glatte Masse entsteht.",
+        "Die Masse auf den Mandel-Haferkeksboden geben und den Kuchen ca. 30 Minuten bei 200° C (Ober- Unterhitze) backen, bis er oben leicht braun wird.",
+        "Während der Kuchen backt, wird die Apfelschicht vorbereitet. Dafür den Apfel in kleine Würfel schneiden. In einer Pfanne Zucker und vegane Butter auf kleiner Hitze zerlassen. Anschließend die Apfelstücke hinzugeben und auf mittlerer Hintze unter rühren kurz anbraten.",
+        "Sobald der Kuchen aus dem Ofen kommt, die Apfelstückchen draufgeben. Den Kuchen vor dem Servieren komplett auskühlen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

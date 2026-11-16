@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.recipetineats.com/parmesan-roasted-green-beans/",
+  "recipes": [
+    {
+      "name": "Parmesan Roasted Green Beans",
+      "source_url": "https://www.recipetineats.com/parmesan-roasted-green-beans/",
+      "recipe_id": "https://www.recipetineats.com/parmesan-roasted-green-beans/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "4",
+        "4 - 5"
+      ],
+      "prep_time": "PT5M",
+      "cook_time": "PT15M",
+      "total_time": "PT20M",
+      "ingredients": [
+        "500 g / 1 lb green beans (, ends trimmed)",
+        "2 tbsp olive oil (, separated)",
+        "2 garlic cloves (, finely chopped)",
+        "1/2 tsp each salt and pepper",
+        "1/3 cup panko breadcrumbs ((Note 1))",
+        "1/3 cup grated parmesan ((Note 2))"
+      ],
+      "instructions": [
+        "Preheat oven to 220C/425F OR the broiler/grill on high with the shelf about 30cm/12\" from the heat source.",
+        "Pile beans on a tray. Drizzle with 1 tbsp of the oil, garlic, salt and pepper. Toss.",
+        "Line up on the tray, pushing the beans next to each other (I do 2 rows).",
+        "Sprinkle with breadcrumbs then parmesan. Drizzle with remaining oil.",
+        "Roast for 15 minutes or broil/grill for 8 minutes until the parmesan is golden.",
+        "Use a spatula/egg flip to transfer beans to serving platter. Serve immediately!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. Panko Breadcrumbs are larger than normal breadcrumbs so you get terrific crunch. OR make your own! 2. Parmesan – I use store bought grated parmesan, the sandy type from the fridge section of grocery stores. If grating your own, use about double (because volume is greater for same weight) 3. Frozen beans – thaw, drain and pat dry Nutrition per serving. Nutrition Facts Parmesan Roasted Green Beans Amount Per Serving Calories 158 Calories from Fat 81 % Daily Value* Fat 9g 14% Saturated Fat 2g 13% Cholesterol 7mg 2% Sodium 462mg 20% Potassium 283mg 8% Carbohydrates 13g 4% Fiber 3g 13% Sugar 4g 4% Protein 6g 12% Vitamin A 935IU 19% Vitamin C 15.8mg 19% Calcium 151mg 15% Iron 1.6mg 9% * Percent Daily Values are based on a 2000 calorie diet."
+  ]
+}

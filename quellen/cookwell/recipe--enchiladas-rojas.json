@@ -1,0 +1,49 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/enchiladas-rojas",
+  "recipes": [
+    {
+      "name": "Enchiladas Rojas",
+      "source_url": "https://app.cookwell.com/recipe/enchiladas-rojas",
+      "recipe_id": "https://app.cookwell.com/recipe/enchiladas-rojas",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT1H",
+      "ingredients": [
+        "Ancho Peppers, 3-4",
+        "Chipotles in Adobo, 3-4",
+        "Garlic, 2-3 cloves",
+        "Onions, 1/4",
+        "Water, as needed",
+        "Salt, a sprinkle",
+        "Chicken Breasts, 2",
+        "Bay Leaves, 2",
+        "Onions, 1/4",
+        "Epazote leaves, a handful",
+        "Corn tortillas, 6-10",
+        "Cooking oil",
+        "Cotija cheese",
+        "Crema",
+        "Pickled onions",
+        "Radishes"
+      ],
+      "instructions": [
+        "Place a pot of water on medium heat. Add a large pinch of salt, 1/4 of the onion, the epazote leaves, and the chicken breast. Let it simmer for 20-25 minutes until the chicken is cooked through. After cooking, allow the chicken to rest for 10 minutes. Then shred it and set it aside.",
+        "In the meantime, remove the seeds and stems from the dried chiles. Optionally, you can toast the chiles on a cast iron pan. Add the chiles to a small pot of water and simmer for 10 minutes or until they become soft. Afterward, set them aside without draining the water. In a blender, combine the hydrated chiles, garlic, another 1/4 piece of onion, and some of the chile water. Blend these ingredients until you achieve a smooth consistency. Add more water as necessary to ensure the sauce is fairly thin.",
+        "In a pan over medium heat, add enough oil to cover the base. Add the sauce and reduce the heat to low. Sauté the sauce for 10 minutes. In a separate pan, heat about an inch of oil. Lightly fry the tortillas on both sides until they just start to firm up.",
+        "Coat the fried tortillas in hot sauce, fill with chicken, and place them on a platter. When serving, top the enchiladas with extra sauce and garnish with crema, cotija cheese, pickled onion, sliced radish, or any other toppings of your choice. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

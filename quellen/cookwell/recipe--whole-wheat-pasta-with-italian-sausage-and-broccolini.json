@@ -1,0 +1,40 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/whole-wheat-pasta-with-italian-sausage-and-broccolini",
+  "recipes": [
+    {
+      "name": "Whole Wheat Pasta with Italian Sausage & Broccolini",
+      "source_url": "https://app.cookwell.com/recipe/whole-wheat-pasta-with-italian-sausage-and-broccolini",
+      "recipe_id": "https://app.cookwell.com/recipe/whole-wheat-pasta-with-italian-sausage-and-broccolini",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Whole wheat spaghetti, 227 g",
+        "Italian Sausage, 227 g",
+        "Parmigiano Reggiano, 65 g",
+        "Broccolini, 1/2 bunch",
+        "Salt, a sprinkle",
+        "Aleppo pepper, to taste"
+      ],
+      "instructions": [
+        "Set a pot of water over high heat and bring it to a boil. Lightly salt the water. Once the water is boiling, add the pasta bring it to a simmer. Simmer the pasta until almost all of the water has evaporated.",
+        "While the pasta simmers, break up the broccolini into small pieces and chop up the stems. Pull out whatever sausage you are using and have it ready, along with the parmesan.",
+        "Once the water has cooked down, add in the broccolini. Stir in the broccolini and let it steam and cook down for several minutes. Remove the pasta mixture from the pan into a separate bowl.",
+        "Set the same pan over medium high heat. Add the pork and let it sear until it gets a nice browning all around, breaking it up into pieces as it cooks. Once it’s seared, add the reserved pasta back to the pan and stir it all together.",
+        "Add a splash of water to loosen up the pasta and then add in the parmesan. Mix it all together and add any extra water needed to reach desired consistency. Serve with a sprinkle of aleppo pepper if desired. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

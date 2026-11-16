@@ -1,0 +1,114 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/an-maeun-kongnamulguk",
+  "recipes": [
+    {
+      "name": "Non spicy soybean sprout soup (An-maeun kongnamulguk: 안매운 콩나물국)",
+      "source_url": "https://www.maangchi.com/recipe/an-maeun-kongnamulguk",
+      "recipe_id": "/recipe/an-maeun-kongnamulguk#sso/recipe/91854",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 package soybean sprouts (12 ounces: 340 grams)",
+        "5½ cups water",
+        "1½ teaspoon kosher salt (or more or less to your taste)",
+        "1/4 ounce (about 10 grams) dried kelp",
+        "2 cloves garlic, minced",
+        "2 green onions, sliced",
+        "About 1/2 cup onion, sliced",
+        "2 tablespoons toasted sesame seeds, ground",
+        "2 teaspoons toasted sesame oil"
+      ],
+      "instructions": [
+        "Rinse and drain a package of soybean sprouts a few times over.",
+        "Put the soybean sprouts into a pot and add water.",
+        "Add salt, onion, kelp, and garlic. Cover and cook for about 15 minutes over medium high heat. If the soup is boiling over, open and stir it with a spoon, and crack the lid.",
+        "Lower the heat to medium and cook another 20 minutes.",
+        "Take the kelp out of the soup and stir in green onion and sesame oil.",
+        "Remove from the heat and ladle into individual soup bowls, top each serving with sesame seeds powder. Serve with rice, kimchi, and a few more side dishes."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "1 package soybean sprouts (12 ounces: 340 grams)"
+        },
+        {
+          "tag": "li",
+          "text": "5½ cups water"
+        },
+        {
+          "tag": "li",
+          "text": "1½ teaspoon kosher salt (or more or less to your taste)"
+        },
+        {
+          "tag": "li",
+          "text": "1/4 ounce (about 10 grams) dried kelp"
+        },
+        {
+          "tag": "li",
+          "text": "2 cloves garlic, minced"
+        },
+        {
+          "tag": "li",
+          "text": "2 green onions, sliced"
+        },
+        {
+          "tag": "li",
+          "text": "About 1/2 cup onion, sliced"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons toasted sesame seeds, ground"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons toasted sesame oil"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Rinse and drain a package of soybean sprouts a few times over."
+        },
+        {
+          "tag": "li",
+          "text": "Put the soybean sprouts into a pot and add water."
+        },
+        {
+          "tag": "li",
+          "text": "Add salt, onion, kelp, and garlic. Cover and cook for about 15 minutes over medium high heat. If the soup is boiling over, open and stir it with a spoon, and crack the lid."
+        },
+        {
+          "tag": "li",
+          "text": "Lower the heat to medium and cook another 20 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Take the kelp out of the soup and stir in green onion and sesame oil."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and ladle into individual soup bowls, top each serving with sesame seeds powder. Serve with rice, kimchi, and a few more side dishes."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

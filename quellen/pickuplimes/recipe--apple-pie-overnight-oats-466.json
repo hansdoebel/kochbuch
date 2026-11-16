@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/apple-pie-overnight-oats-466",
+  "recipes": [
+    {
+      "name": "Apple Pie Overnight Oats",
+      "source_url": "https://www.pickuplimes.com/recipe/apple-pie-overnight-oats-466",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "1 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT08M",
+      "total_time": "PT06H13M",
+      "ingredients": [
+        "1 apple",
+        "1 Tbsp water",
+        "1 Tbsp maple syrup",
+        "½ tsp ground cinnamon",
+        "½ cup unsweetened soy milk",
+        "½ cup rolled oats",
+        "2 Tbsp almond butter",
+        "1 Tbsp raisins",
+        "1 Tbsp whole chia seeds",
+        "1 Tbsp unsalted roasted walnuts",
+        "½ tsp ground cinnamon",
+        "½ tsp pure vanilla extract",
+        "⅓ cup unsweetened coconut yogurt"
+      ],
+      "instructions": [
+        "Cut just over half of the apple into bite-sized cubes, and add these to a medium pan. Mince or grate the other half of the apple and add to a mason jar or airtight container.",
+        "To the pan, add the water, maple syrup, and cinnamon. Cook over medium-high heat, and allow the apples to soften for about 8 minutes, stirring occasionally. Remove from the heat and let cool.",
+        "Add all of the other ingredients to the jar, and mix to combine. Add the cooked apple chunks to the top. Cover and let it sit overnight in the fridge. The next morning, top with yogurt and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk and yogurt that are fortified with calcium .",
+    "Storage Keep in a mason jar or airtight container in the fridge for up to 3 days."
+  ]
+}

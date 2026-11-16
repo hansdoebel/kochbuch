@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-monte-selbermachen",
+  "recipes": [
+    {
+      "name": "Veganes Monte",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-monte-selbermachen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-monte-selbermachen#recipe-d378ed3e-8695-5480-8f9b-62e5a1d084f5",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Portion",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für die Milchcreme:",
+        "5 g vegane weiße Schokolade",
+        "50 ml vegane Sahne zum Aufschlagen",
+        "1 TL Zucker",
+        "1 TL Speisestärke",
+        "1.5 TL Wasser",
+        "Für die Schoko-Haselnuss-Creme:",
+        "50 ml vegane Sahne zum Aufschlagen",
+        "1 TL Zucker",
+        "1 TL Backkakao",
+        "0.25 TL Haselnussmark",
+        "1 TL Speisestärke",
+        "1.5 TL Wasser"
+      ],
+      "instructions": [
+        "Für die Milchcreme vegane weiße Schokolade in einem Topf schmelzen. Im Anschluss die vegane Sahne und Zucker unterrühren. Speisestärke und Wasser in einem kleinen Gefäß vermischen und mit einem Schneebesen schnell unterrühren. Kurz aufkochen lassen und vom Herd nehmen.",
+        "Für die Schoko-Haselnuss-Creme vegane Sahne in einem Topf erhitzen. Zucker, Backkakao und Haselnussmark hinzugeben. Speisestärke und Wasser in einem kleinen Gefäß vermischen und mit einem Schneebesen schnell unterrühren. Kurz aufkochen lassen und vom Herd nehmen.",
+        "Beide Cremes in kleinen Gläsern anrichten und im Kühlschrank aufbewahren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

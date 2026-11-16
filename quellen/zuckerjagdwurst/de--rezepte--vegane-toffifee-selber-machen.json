@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-toffifee-selber-machen",
+  "recipes": [
+    {
+      "name": "Vegane Toffifee selber machen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-toffifee-selber-machen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-toffifee-selber-machen#recipe-fed3f677-d83f-5edf-aee1-5403ecc57701",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "18 Toffifee",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "165 g vegane Caramel Bonbons",
+        "18 Haselnusskerne",
+        "70 g vegane Nuss-Nougat-Creme",
+        "50 g Zartbitterschokolade"
+      ],
+      "instructions": [
+        "Die Caramel Bonbons in einen kleinen Topf geben und langsam erhitzen, bis sie komplett geschmolzen sind.",
+        "Jede Mulde der Toffifee-Form bis zur Hälfte mit dem Karamell füllen und in den Kühlschrank stellen. Nach 10 Minuten die Form wieder herausnehmen und vorsichtig mit den Fingern das Karamell in jeder Mulde festdrücken, sodass ein Rand entsteht und sich „Körbchen“ formen. Nochmals für 10 Minuten im Kühlschrank aufbewahren.",
+        "In der Zwischenzeit die vegane Nuss-Nougat-Creme in einem kleinen Topf erhitzen, sodass diese schön flüßig wird.",
+        "Die Form wieder aus dem Kühlschrank nehmen und in jede Mulde einen Haselnusskern legen.",
+        "Mit der Nuss-Nougat-Creme aufgießen und erneut 30 Minuten kalt stellen.",
+        "In der Zwischenzeit die vegane Zartbitterschokolade in einem kleinen Topf erhitzen, sodass diese flüßig wird und in eine Tüte oder in eine Saucenflasche gießen.",
+        "Die Form wieder aus dem Kühlschrank nehmen und auf jeden Toffifee einen kleinen Klecks Schokolade geben. Nochmals 30 Minuten kalt stellen. Die Toffifee bei Zimmertemperatur servieren, frisch aus dem Kühlschrank sind die recht hart."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

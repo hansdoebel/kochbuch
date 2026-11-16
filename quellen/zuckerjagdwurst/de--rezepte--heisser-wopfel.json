@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/heisser-wopfel",
+  "recipes": [
+    {
+      "name": "Heißer Wopfel",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/heisser-wopfel",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/heisser-wopfel#recipe-12b414a1-308b-51ba-8359-40ec092f6d52",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Wopfel",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "200 ml (warmer) naturtrüber Apfelsaft",
+        "4 cl Wodka",
+        "0.25 Apfel",
+        "5 frische Cranberrys",
+        "2 Rosmarinzweige",
+        "2 EL Zucker",
+        "optional: Eiswürfel"
+      ],
+      "instructions": [
+        "Wenn ihr den Wopfel warm servieren wollt, erwärmt ihr den Apfelsaft in einem Topf.",
+        "Füllt Wodka in ein Glas. Für die kalte Variante des Drinks, gebt ihr nun Eiswürfel hinzu.",
+        "Füllt das Glas mit (dem warmen oder kalten) Apfelsaft auf.",
+        "Einen Apfel waschen, vierteln und in Scheiben schneiden. Gemeinsam mit den Cranberries ins Glas geben.",
+        "Zucker auf einem kleinen Teller verteilen. Die Rosmarinzweige mit heißem Wasser abduschen, kurz schütteln und im Zucker wälzen.",
+        "Mit den gezuckerten Rosmarinzweigen den Drink dekorieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

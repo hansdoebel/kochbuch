@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gefuellte-schokoladenkekse",
+  "recipes": [
+    {
+      "name": "Vegane, gefüllte Schokoladenkekse",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gefuellte-schokoladenkekse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gefuellte-schokoladenkekse#recipe-fbae3c79-5c1c-5bf8-a365-a14dd558be77",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "10 Kekse",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT35M",
+      "ingredients": [
+        "200 g vegane Nuss-Nougat-Creme (z.B. von bionella)",
+        "Teig",
+        "200 g Mehl",
+        "40 g Backkakao (ungesüßt)",
+        "80 g Zucker",
+        "125 g pflanzliche Butter (kalt)",
+        "Prise Salz",
+        "8 g Vanillinzucker",
+        "7 g Backpulver",
+        "50 g Apfelmuß"
+      ],
+      "instructions": [
+        "Den Backofen auf 180°C Umluft vorheizen.",
+        "Alle Zutaten für den Keksteig in einer Schüssel verkneten.",
+        "Aus dem Teig 10 Kugeln formen, die zwischen 40 - 50 g wiegen.",
+        "Jede Teigkugel im Anschluss mit der Handfläche platt drücken und mit 1 TL veganer Nuss-Nougat-Creme füllen. Den Teig wieder vorsichtig verschließen und erneut zu einer Kugel formen.",
+        "Ein Backblech mit Backpapier belegen und die Teigkugeln darauf platzieren und für 15 Minuten auf mittlerer Stufe backen.",
+        "Die Kugeln aus dem Ofen nehmen und direkt mit einem Pfannenwender etwas platt drücken, sodass sie in Keksform gebracht werden. Für etwa 10 Minuten auskühlen lassen und am besten noch warm essen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

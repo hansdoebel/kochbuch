@@ -1,0 +1,62 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/green-spinach-coconut-curry-311",
+  "recipes": [
+    {
+      "name": "Green Spinach Coconut Curry",
+      "source_url": "https://www.pickuplimes.com/recipe/green-spinach-coconut-curry-311",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT20M",
+      "cook_time": "PT45M",
+      "total_time": "PT01H05M",
+      "ingredients": [
+        "6 cup boiling water",
+        "½ cup dry chana dal",
+        "½ cup dry mung beans",
+        "1⅓ cup long-grain white rice",
+        "1 Tbsp vegetable oil",
+        "2 medium onion",
+        "4 garlic clove",
+        "2 tsp fresh ginger",
+        "1 fresh red chili",
+        "1 Tbsp tomato paste",
+        "1 tsp ground cumin",
+        "1 tsp ground coriander",
+        "1 tsp garam masala",
+        "½ tsp ground turmeric",
+        "½ tsp salt",
+        "1 medium tomato",
+        "4 cup spinach",
+        "1⅔ cup canned full-fat coconut milk",
+        "4 cup spinach",
+        "½ lemon"
+      ],
+      "instructions": [
+        "Fill a large pot with water and add the drained chana dal. Bring to a boil, reduce to a simmer, and cook uncovered for 20 minutes.",
+        "Then add the drained mung beans to the same pot and let it cook uncovered for another 15 minutes.",
+        "Meanwhile, cook the rice according to the package instructions.",
+        "Heat the oil in a sauté pan over medium-high heat. Cook the onions, garlic, and ginger for 4 to 5 minutes.",
+        "Then add in the chili, tomato paste, and spices. Cook for 1 to 2 minutes.",
+        "Then add the chopped tomato and turn the heat to low.",
+        "Once the legumes are cooked, first remove ⅓ cup (80 mL) of the cooking liquid and transfer this to a blender. Then pour the legumes into a strainer to drain off the remaining liquid.",
+        "Add the spinach to the blender as well, and blend on high until smooth.",
+        "Add the blended spinach to the pan, together with the cooked chana dal, mung beans, and coconut milk.",
+        "Return the heat to medium-high. Add the chopped spinach to the pan, cooking until wilted.",
+        "Just before serving, add in the lemon juice and stir. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

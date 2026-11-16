@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schokoladencrumble-zwetschgen",
+  "recipes": [
+    {
+      "name": "Veganer Schokoladencrumble mit Zwetschgen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schokoladencrumble-zwetschgen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schokoladencrumble-zwetschgen#recipe-fe815405-3206-51ba-931a-fc6ba12d1c88",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "Für die Zwetschgen:",
+        "1 kg Zwetschgen 50 g (brauner) Zucker 1 Päckchen Vanillezucker 1 TL Zimt 1 TL gemahlener Ingwer 1 Prise Pfeffer 2.5 EL Speisestärke",
+        "Für den Crumble:",
+        "200 g Knuspermüsli (z.B. barnhouse Krunchy Zartbitter Nuss) 100 g Mehl 75 g vegane Butter (weich) 50 g Zucker Salz",
+        "Zum Servieren:",
+        "veganes Vanilleeis"
+      ],
+      "instructions": [
+        "Backofen auf 180°C vorheizen. Die Zwetschgen waschen, halbieren, entkernen und danach in Spalten schneiden.",
+        "Zwetschgenspalten in die Form geben, in der der Crumble gebacken werden soll. (Braunen) Zucker, Vanillezucker, Zimt, gemahlenen Ingwer, eine kleine Prise Pfeffer und Speisestärke dazugeben und alles verrühren. Die Form beiseitestellen.",
+        "Für den Crumble zunächst Mehl, eine Prise Salz, weiche vegane Butter und Zucker grob vermengen, sodass bereits ein Streuselteig entsteht. Danach das Knuspermüsli dazugeben und mit dem Streuselteig vermengen.",
+        "Die Streusel über den Zwetschgen verteilen. Bei 180°C ca. 45 Minuten backen, bis die Füllung richtig köchelt und Bläschen schlägt und die Streusel knusprig und gebräunt sind (falls sie vorher zu dunkel werden, die Form abdecken).",
+        "Den Crumble wenige Minuten abkühlen lassen und am besten noch warm mit etwas Vanilleeis oder veganer Schlagsahne essen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

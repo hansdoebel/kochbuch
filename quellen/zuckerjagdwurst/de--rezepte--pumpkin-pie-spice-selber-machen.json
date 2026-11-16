@@ -1,0 +1,34 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/pumpkin-pie-spice-selber-machen",
+  "recipes": [
+    {
+      "name": "Pumpkin Pie Spice",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/pumpkin-pie-spice-selber-machen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/pumpkin-pie-spice-selber-machen#recipe-667af016-a492-57ff-8f83-7d3745100049",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 EL",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT2M",
+      "ingredients": [
+        "2 TL Zimtpulver",
+        "1 TL Ingwerpulver",
+        "0.5 TL gemahlener Piment",
+        "0.5 TL Muskatnuss"
+      ],
+      "instructions": [
+        "Alle Gewürze in einem kleinen Gefäß vermischen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

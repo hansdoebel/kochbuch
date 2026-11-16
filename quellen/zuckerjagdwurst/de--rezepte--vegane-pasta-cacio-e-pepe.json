@@ -1,0 +1,74 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pasta-cacio-e-pepe",
+  "recipes": [
+    {
+      "name": "Vegane Pasta Cacio e Pepe",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pasta-cacio-e-pepe",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pasta-cacio-e-pepe#recipe-5b168655-e5a8-56e5-97de-58cd1dc31aa5",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Für die käsige Paste:",
+        "100 g Cashews",
+        "1 Knoblauchzehe",
+        "1 TL helle Misopaste",
+        "3 EL veganer Parmesan",
+        "1 EL Öl",
+        "0.5 Zitrone (Saft)",
+        "Salz",
+        "Außerdem:",
+        "250 g Spaghetti",
+        "veganer Parmesan",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Wasser in einem Topf aufkochen lassen und die Cashewkerne darin circa 5 Minuten köcheln lassen, bis sie weich sind. Danach abgießen und abtropfen lassen.",
+        "Die Knoblauchzehe schälen. Die eingeweichten Cashewkerne, Knoblauch, Misopaste, veganen Parmesan, Öl, Zitronensaft und Salz in ein hohes Gefäß geben und pürieren oder in einem Standmixer cremig mixen. Abschmecken und beiseitestellen.",
+        "Gesalzenes Wasser in einem großen Topf zum Kochen bringen und die Spaghetti nach Packungsanleitung al dente kochen. Vor dem Abgießen etwa 500 ml Kochwasser abschöpfen und beiseitestellen.",
+        "Die Cashew-Paste mit den gekochten Nudeln vermengen und so viel Pastawasser hinzugeben, bis eine cremige Soße entsteht. Frischen, gemahlenen schwarzen Pfeffer dazugeben und mit veganem Parmesan servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Veganer Parmesan",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pasta-cacio-e-pepe",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pasta-cacio-e-pepe#recipe-7cc00455-45ac-5abf-ad76-298521fc2022",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "150 g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "100 g Cashewkerne",
+        "50 g gehackte Mandeln",
+        "3 EL Hefeflocken",
+        "1 TL Salz",
+        "0.5 TL Knoblauchpulver"
+      ],
+      "instructions": [
+        "Alle Zutaten in einen Mixer geben und verarbeiten, bis eine fein gemahlene Mischung entsteht. Wenn dennoch ein paar größere Stücken übrig bleiben, ist das gar nicht schlimm.",
+        "Wenn du den Parmesan nicht sofort verwendet, solltest du ihn in einem Einweckglas aufbewahren. Danach kannst ihn über deine Pasta streuen oder für ein Pesto verwenden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

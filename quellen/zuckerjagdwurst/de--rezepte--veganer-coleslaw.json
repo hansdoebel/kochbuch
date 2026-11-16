@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-coleslaw",
+  "recipes": [
+    {
+      "name": "Veganer Coleslaw",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-coleslaw",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-coleslaw#recipe-a5bc854b-af51-5ded-bdbf-3aa03fee3d37",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 - 8 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "2 Möhren",
+        "300 g Weißkraut",
+        "300 g Rotkraut",
+        "1/2 Zwiebel",
+        "FÜR DAS DRESSING",
+        "300 g Mayo",
+        "1 EL Apfelessig",
+        "1.5 EL Senf",
+        "1 EL Reissirup (oder Agavendicksaft)",
+        "1 EL Zitronensaft",
+        "0.25 TL Zitronenabrieb",
+        "0.5 TL Knoblauchpulver",
+        "1 TL Salz",
+        "1 TL Pfeffer",
+        "1 TL Selleriesalz"
+      ],
+      "instructions": [
+        "Möhren und Zwiebel schälen und eventuell trockene Blätter oder einen Strunkansatz vom Weiß-und Rotkraut entfernen. Das Gemüse in dünne Streifen oder in einem Zerkleinerer (oder von Hand) klein hacken. Das geschnittene Gemüse in eine große Schüssel geben.",
+        "In einer kleinen Schüssel vegane Mayonnaise, Apfelessig, Senf, Reissirup, Zitronensaft und -abrieb, Knoblauchpulver, Salz, Pfeffer und Selleriesalz vermengen. Anschließend abschmecken.",
+        "Das Dressing zum Salat geben und gründlich vermengen.",
+        "Der Coleslaw sollte am besten mind. 1 Stunde im Kühlschrank ziehen. Vor dem Servieren erneut mit Salz und Pfeffer abschmecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

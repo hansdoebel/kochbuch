@@ -1,0 +1,38 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-karamell",
+  "recipes": [
+    {
+      "name": "Veganes Karamell",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-karamell",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-karamell#recipe-a632c159-f81e-52bd-b319-84ff3077efd0",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "250 ml",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "125 g Kokosnusszucker",
+        "120 ml Kokosnussmilch",
+        "Prise Salz",
+        "optional: 1 Vanilleschote"
+      ],
+      "instructions": [
+        "Optional: Die Vanilleschote halbieren und auskratzen.",
+        "Alle Zutaten in eine Pfanne oder einen Topf geben und bei mittlerer Hitze verrühren und aufkochen lassen. Zuerst sollte die Masse cremig sein und durch die Hitze nach und nach flüßiger und weicher werden. Sobald sie kocht, ist sie so flüßig wie Milch.",
+        "Für 10 Minuten leicht köcheln lassen, bis ihr eine schöne cremige Konsistenz habt. Lasst das ganze so lange köcheln, bis ihr mit der Konsistenz zufrieden seid.",
+        "Anschließend abkühlen lassen und noch warm verwenden. Das Karamell dickt anschließend noch etwas nach.",
+        "Dieses Karamell-Rezept eignet sich toll als Dip für Nachspeisen oder für das Übergießen / Verzieren eines Kuchens. Bei der Kokosmilchdose könnt ihr entweder die dicke obere Schicht nutzen oder auch den „flüssigeren“ Bestandteil, also das Kokosmilchwasser, was sich oft am Boden der Kokosmilchdose absetzt. Das wirkt sich natürlich auf die Konsistenz aus. Wenn ihr eine dickliche Konsistenz wollt, nehmt lieber die cremige, obere Schicht."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

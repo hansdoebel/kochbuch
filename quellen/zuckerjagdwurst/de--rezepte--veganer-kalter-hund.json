@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kalter-hund",
+  "recipes": [
+    {
+      "name": "Veganer Kalter Hund",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kalter-hund",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kalter-hund#recipe-65cfec86-1b82-5ba7-9990-a8526ee17c83",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT240M",
+      "ingredients": [
+        "1400 g Zartbitterschokolade (Kuvertüre)",
+        "6 EL Kokosöl",
+        "3 EL ungesüßtes Kakaopulver",
+        "75 g pflanzliche Butter",
+        "Für die Keksschicht",
+        "ca. 40 vegane Butterkekse, Oreo-Kekse oder Spekulatius",
+        "Topping nach Wahl",
+        "50 g gehackte Pistazien",
+        "3 EL Popcorn",
+        "3 EL veganes Karamell",
+        "100 g vegane weiße Schokolade",
+        "50 g getrocknete Cranberrys"
+      ],
+      "instructions": [
+        "Kuvertüre schmelzen und Kokosöl, Kakaopulver und Butter dazugeben und unterrühren. Die Schokolade könnt ihr entweder in der Mikrowelle oder über dem Wasserbad schmelzen. Dafür einfach die Schokolade in eine hitzebeständige Schüssel geben und diese über einen Topf mit köchelndem Wasser stellen. Die geschmolzene Schokolade anschließend etwas abkühlen lassen.",
+        "Nun füllt ihr abwechseln die Formen (Silikon eignet sich hier toll). Mit einer Schokoladenschicht anfangen, dann Kekse darauf verteilen, wieder Schokolade, wieder Kekse und so weiter und am Ende mit Schokolade enden. Ihr könnt jeden Keks nehmen, den ihr mögt. Wir haben dieses Mal Oreos, vegane Butterkekse und Spekulatius ausprobiert und wir mochten sie alle.",
+        "Die Formen gehen dann ab in den Kühlschrank, bis der Kalte Hund fest ist, das dauert ca. 3 Stunden. Ihr könnt die kleinen Kalten Hunde direkt am Stück servieren oder klassisch in Scheiben schneiden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,105 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/cheese-tteok-kkochi",
+  "recipes": [
+    {
+      "name": "Grilled cheese & rice cake skewers (Cheese-tteok-kkochi: 치즈떡꼬치)",
+      "source_url": "https://www.maangchi.com/recipe/cheese-tteok-kkochi",
+      "recipe_id": "/recipe/cheese-tteok-kkochi#sso/recipe/88344",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "6 pieces of 3 inch long string cheese",
+        "8 pieces of 3 inch long cylinder shaped rice cakes",
+        "2 wooden skewers",
+        "1 tablespoon unsalted butter",
+        "Sweetened condensed milk, optional"
+      ],
+      "instructions": [
+        "Skewer rice cake and cheese alternatively, with 4 rice cakes and 3 cheeses. Make 2 skewers.",
+        "Heat a non-stick heavy skillet. Turn down the heat to medium low.",
+        "Add the butter and the skewers and let cook for 1 or 2 minutes until the bottom turns light brown.",
+        "Turn them over with a spatula and cook another 1 to 2 minutes until the cheese and the rice cake turn light brown.",
+        "Transfer the cooked skewers to a plate or put them into paper cups. Drizzle condensed milk over top and serve right away."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Makes 2 skewers"
+        },
+        {
+          "tag": "li",
+          "text": "6 pieces of 3 inch long string cheese"
+        },
+        {
+          "tag": "li",
+          "text": "8 pieces of 3 inch long cylinder shaped rice cakes"
+        },
+        {
+          "tag": "li",
+          "text": "2 wooden skewers"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon unsalted butter"
+        },
+        {
+          "tag": "li",
+          "text": "Sweetened condensed milk, optional"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "How to soften rice cakes:"
+        },
+        {
+          "tag": "p",
+          "text": "Separate the rice cakes and blanch them in boiling water for 1 or 2 minutes until they’re soft. Put them in a bowl of cold water, drain and pat dry with a paper towel."
+        },
+        {
+          "tag": "h3",
+          "text": "Make the skewers:"
+        },
+        {
+          "tag": "li",
+          "text": "Skewer rice cake and cheese alternatively, with 4 rice cakes and 3 cheeses. Make 2 skewers."
+        },
+        {
+          "tag": "li",
+          "text": "Heat a non-stick heavy skillet. Turn down the heat to medium low."
+        },
+        {
+          "tag": "li",
+          "text": "Add the butter and the skewers and let cook for 1 or 2 minutes until the bottom turns light brown."
+        },
+        {
+          "tag": "li",
+          "text": "Turn them over with a spatula and cook another 1 to 2 minutes until the cheese and the rice cake turn light brown."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer the cooked skewers to a plate or put them into paper cups. Drizzle condensed milk over top and serve right away."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

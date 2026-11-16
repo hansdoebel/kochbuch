@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-basic-donuts-aus-dem-donutmaker",
+  "recipes": [
+    {
+      "name": "Vegane Basic Donuts",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-basic-donuts-aus-dem-donutmaker",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-basic-donuts-aus-dem-donutmaker#recipe-cfdae172-ea9a-5062-ae4e-3450ef3a2bfa",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "25 Donuts",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "200 g Mehl",
+        "125 ml Ahornsyrup",
+        "1 TL Backpulver",
+        "1 Prise Salz",
+        "180 ml pflanzliche Milch",
+        "1 TL Apfelessig",
+        "1 TL Vanille Essenz",
+        "50 g Apfelmus",
+        "50 ml flüssiges Kokosöl"
+      ],
+      "instructions": [
+        "In einer kleinen Schüssel Milch mit Apfelessig vermengen und bei Seite stellen. 10 Minuten stehen lassen.",
+        "In einer großen Schüssel alle trockenen Zutaten verrühren.",
+        "Nun alle feuchten Zutaten (nicht das Kokosöl) hinzugeben und mit einem Mixer gut vermengen.",
+        "Die Mulden eures Donutmakers mit Kokosöl einfetten.",
+        "Sobald euer Donutmaker heiß ist, den Teig auf die Vertiefungen verteilen und für 3-5 Minuten backen. Das funktioniert am besten, wenn ihr euren Teig in eine Plastiktüte gebt und eine Ecke abschneidet. So könnt ihr ihn perfekt in die runden Vertiefungen platzieren.",
+        "Den ganzen Teig verarbeiten und alle Donuts abschließend abkühlen lassen und weiterverarbeiten."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

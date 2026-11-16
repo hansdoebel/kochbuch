@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/protein-packed-lentil-quinoa-salad-208",
+  "recipes": [
+    {
+      "name": "Protein-Packed Lentil & Quinoa Salad",
+      "source_url": "https://www.pickuplimes.com/recipe/protein-packed-lentil-quinoa-salad-208",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT15M",
+      "total_time": "PT25M",
+      "ingredients": [
+        "¾ cup quinoa",
+        "1 cup frozen edamame in shell",
+        "2½ cup cooked brown lentils",
+        "1 red bell pepper",
+        "3 cup spinach",
+        "2 Tbsp roasted pumpkin seeds",
+        "¼ cup tahini",
+        "¼ cup water",
+        "2 Tbsp reduced-sodium soy sauce",
+        "½ Tbsp maple syrup",
+        "2 tsp apple cider vinegar",
+        "1 tsp white miso paste",
+        "1 tsp onion powder",
+        "1 tsp sambal oelek"
+      ],
+      "instructions": [
+        "Cook the quinoa according to the package instructions.",
+        "Soak the edamame in hot water while working through the remaining steps.",
+        "Mix all of the dressing ingredients in a bowl until creamy.",
+        "Drain the edamame and add all of the salad ingredients to a large bowl and toss to combine.",
+        "Mix in the salad dressing when ready to serve, toss to combine, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † White miso, also called \"Shiro Miso,\" is fermented for less time than red miso, which gives it a milder, sweeter flavour. If substituting red miso, use a smaller amount and adjust to taste, as red miso is saltier and stronger.",
+    "Storage Store in an airtight container in the fridge for up to 3 days. Store the sauce separately and combine only when ready to serve."
+  ]
+}

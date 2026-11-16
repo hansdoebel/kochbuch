@@ -1,0 +1,42 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/chipotle-shrimp-tacos",
+  "recipes": [
+    {
+      "name": "Chipotle Shrimp Tacos",
+      "source_url": "https://app.cookwell.com/recipe/chipotle-shrimp-tacos",
+      "recipe_id": "https://app.cookwell.com/recipe/chipotle-shrimp-tacos",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4-6 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Shrimp, 227 g",
+        "Mayonnaise, 2 spoonfuls",
+        "Salt, a sprinkle",
+        "Chipotles in Adobo, a spoonful",
+        "Cumin, a sprinkle",
+        "Corn tortillas, 4-6",
+        "Low-fat sour cream",
+        "Hot Sauce",
+        "Salsa verde",
+        "Pickled onions"
+      ],
+      "instructions": [
+        "Add the peeled shrimp to a bowl. Mix with the salt, mayo, ground cumin, and blended chipotles in adobo. Set aside for a few minutes to marinate. So long as the shrimp are peeled, they can be cooked straight from frozen! Make sure to prepare/gather all your other taco components before you cook the shrimp because they will cook fast.",
+        "Set a large skillet or griddle over high heat. Once the griddle is hot, toss on the shrimp. Sear them until browned and cooked through about 6-8 minutes.",
+        "Remove the shrimp and toast the corn tortillas on the warm pan. Slather the tortillas with sour cream & hot sauce, the cooked shrimp, salsa verde, and pickled onions. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

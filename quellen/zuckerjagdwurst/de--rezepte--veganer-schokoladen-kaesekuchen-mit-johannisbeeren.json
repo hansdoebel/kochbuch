@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schokoladen-kaesekuchen-mit-johannisbeeren",
+  "recipes": [
+    {
+      "name": "Veganer Schokoladen-Käsekuchen mit Johannisbeeren (Zupfkuchen)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schokoladen-kaesekuchen-mit-johannisbeeren",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-schokoladen-kaesekuchen-mit-johannisbeeren#recipe-4475a047-c1b2-538d-9107-08aefeaef0cb",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (Ø 24 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "Für den Schokoladenteig:",
+        "400 g Mehl (Type 405) 125 g brauner Zucker 16 g (4 TL) Backpulver 65 g Backkakao 250 g pflanzliche Margarine",
+        "Für die Käsekuchenfüllung:",
+        "150 g pflanzliche Margarine 74 g veganes Vanillepuddingpulver 4 EL pflanzliche Milch 800 g veganer Joghurt oder Skyr (Quark) 50 g brauner Zucker",
+        "Außerdem:",
+        "200 g Johannisbeeren vegane Butter zum Einfetten"
+      ],
+      "instructions": [
+        "Für den Schokoladenteig Mehl, braunen Zucker, Backpulver und Kakao in einer Schüssel vermischen. Die pflanzliche Margarine hinzugeben und mit den Händen unterkneten.",
+        "Eine Springform (Ø 24 Zentimeter) mit veganer Butter einfetten. Die Hälfte des Teigs in die Form geben und mit den Fingern fest an den Boden drücken, sodass ein gleichmäßiger Boden entsteht. Drei Viertel von dem restlichen Teig zu mehreren langen Rollen formen und diese über den Teigboden entlang des Rands der Form legen. Danach fest an den Kuchenrand drücken, sodass ein gleichmäßig hoher Rand entsteht. Den Teigrand gut mit dem Teigboden verbinden. Den restlichen Teig beiseitestellen. Er kommt am Ende als Streusel auf die Füllung.",
+        "Den Ofen auf 180 °C (Umluft) vorheizen. Für die Füllung die Margarine in einem kleinen Topf schmelzen und im Anschluss etwas abkühlen lassen.",
+        "In einer Schüssel das Vanillepuddingpulver mit der pflanzlichen Milch verrühren, bis keine Klümpchen mehr vorhanden sind. Veganen Joghurt in eine große Schüssel geben und den Puddingmix und braunen Zucker unterrühren. Sobald die Margarine nur noch lauwarm ist, ebenfalls mit dem Schneebesen unterrühren.",
+        "Die Johannisbeeren waschen, vom Stiel lösen und unter die Käsekuchenfüllung mischen.",
+        "Die Füllung in die Kuchenform gießen und den übriggebliebenen Schokoladenteig als Streusel auf den Kuchen geben. Den Kuchen bei 180 °C (Umluft) etwa 60 Minuten backen. Bevor der Kuchen angeschnitten wird, sollte er komplett auskühlen, denn erst beim Abkühlen wird die Füllung fest."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

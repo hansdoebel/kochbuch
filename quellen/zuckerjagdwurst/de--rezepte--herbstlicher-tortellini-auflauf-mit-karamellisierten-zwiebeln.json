@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/herbstlicher-tortellini-auflauf-mit-karamellisierten-zwiebeln",
+  "recipes": [
+    {
+      "name": "Herbstlicher Tortellini-Auflauf mit karamellisierten Zwiebeln",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/herbstlicher-tortellini-auflauf-mit-karamellisierten-zwiebeln",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/herbstlicher-tortellini-auflauf-mit-karamellisierten-zwiebeln#recipe-74d200dd-9953-4a9d-b755-d88b8fd507f5",
+      "authors": [
+        "Anna Germek"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "5 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für den Auflauf:",
+        "3 Zwiebeln",
+        "2 Knoblauchzehen",
+        "200 g Räuchertofu",
+        "1 EL Sojasoße",
+        "2 EL getrockneter Thymian",
+        "2 Packungen vegane Tortellini (z. B. Cappelletti mit Kürbis und Apfel von D'Angelo)",
+        "350 ml vegane Sahne",
+        "250 ml Gemüsebrühe",
+        "1 EL Stärke",
+        "Für die Kruste:",
+        "100 g veganer Streukäse",
+        "20 g Röstzwiebeln",
+        "30 g Panko oder Semmelbrösel",
+        "2 El Olivenöl",
+        "Außerdem:",
+        "Salz",
+        "Pfeffer",
+        "Olivenöl zum Braten",
+        "frischer Thymian zum Dekorieren"
+      ],
+      "instructions": [
+        "Zwiebeln in Ringe schneiden, Knoblauch fein würfeln. Räuchertofu in kleine Würfel schneiden.",
+        "Räuchertofu in einer Pfanne anbraten und mit einem Schuss Sojasoße würzen. Dann herausnehmen.",
+        "Zwiebelringe in Olivenöl bei niedriger Hitze unter gelegentlichem Rühren 15–20 Minuten karamellisieren lassen, bis sie weich und goldbraun sind. Gegen Ende den getrockneten Thymian und den Knoblauch hinzufügen und kurz anschwitzen.",
+        "Backofen auf 200 °C (Ober-/Unterhitze) vorheizen. In der Zwischenzeit den Räuchertofu, die Tortellini, vegane Sahne, Brühe und Stärke in die Pfanne dazugeben und mit Salz und Pfeffer würzen. Alles gut verrühren und 5 Minuten garen. In einer kleinen Schüssel veganen Streukäse, Röstzwiebeln und Pankomehl mit Olivenöl vermischen.",
+        "Alles in eine Auflaufform geben, mit der veganen Käse-Panko-Mischung bedecken und 20–25 Minuten bei 200 °C (Ober-/Unterhitze) backen, bis die Tortellini gar sind und die Decke goldbraun und knusprig ist. Vor dem Servieren mit frischem Thymian toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,47 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/cilantro-avocado-pasta-salad",
+  "recipes": [
+    {
+      "name": "Cilantro Avocado Pasta & Chicken Salad",
+      "source_url": "https://app.cookwell.com/recipe/cilantro-avocado-pasta-salad",
+      "recipe_id": "https://app.cookwell.com/recipe/cilantro-avocado-pasta-salad",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Dried macaroni noodles, 227 g",
+        "chicken, 227 g",
+        "Corn, 100 g",
+        "Cherry tomatoes, 75 g",
+        "Cilantro, 30 g",
+        "Hatch chiles, 30 g",
+        "Red Onions, 1/2",
+        "Avocados, 1/2",
+        "Yogurt, 100 g",
+        "Kewpie mayo, 20 g",
+        "Lime juice, 1",
+        "Salt, a spoonful",
+        "Cayenne Pepper, a spoonful",
+        "Garlic Powder, a sprinkle",
+        "MSG, a sprinkle"
+      ],
+      "instructions": [
+        "Add your pasta to a pot of boiling, salted water. Overcook the pasta by 3 or 4 minutes more than the package instructions indicate. This way, the pasta will have the perfect chewiness in the salad, instead of hardening when it cools down. After the pasta is cooked, drain it and spread it out on a baking sheet to cool. Take your cooked chicken (whether poached, baked, or grilled) and dice it into bite-sized pieces.",
+        "Broil or grill your corn, then slice the kernels off. Slice your onion, quarter the cherry tomatoes, cube the avocado, and mince the cilantro and hatch chilies. For the dressing, add the yogurt, mayo, lime juice, cayenne, garlic powder, and MSG to a container and mix until combined. Give it a taste and adjust as needed.",
+        "In a large bowl or container, combine the cooked pasta, chicken, vegetables, and dressing until everything is well coated. Add the dressing to your preference. For best results, let the salad rest in the fridge for at least 1 hour before serving. It's even better if left overnight. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

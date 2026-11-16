@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/creamy-baked-lemon-dill-rice-668",
+  "recipes": [
+    {
+      "name": "Creamy Baked Lemon & Dill Rice",
+      "source_url": "https://www.pickuplimes.com/recipe/creamy-baked-lemon-dill-rice-668",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT20M",
+      "cook_time": "PT01H00M",
+      "total_time": "PT01H20M",
+      "ingredients": [
+        "5 medium tomato",
+        "1 medium leek",
+        "2 garlic clove",
+        "1 medium onion",
+        "1½ cup short-grain white rice",
+        "1½ cup cooked cannellini beans",
+        "⅓ cup nutritional yeast flakes",
+        "2 bay leaf",
+        "1 Tbsp olive oil",
+        "1 tsp chili flakes",
+        "1 tsp dried dill",
+        "3 cup boiling water",
+        "2 vegetable bouillon cube",
+        "1 cup fresh dill",
+        "2 Tbsp olive oil",
+        "½ lemon",
+        "½ tsp salt",
+        "¼ tsp ground black pepper",
+        "¼ cup toasted pine nuts",
+        "½ lemon"
+      ],
+      "instructions": [
+        "Preheat the oven to 400°F (200°C)*. Add all the traybake ingredients to a large baking dish.",
+        "Combine the water and bouillon cubes in a pitcher and stir to dissolve. Then pour into the baking dish and stir well.",
+        "Tightly cover the dish with a lid or foil and bake in the oven on the center rack for 1 hour, or until the rice is al dente**. Stir once halfway.",
+        "Combine the dressing ingredients in a small bowl. When the dish is done baking, remove the bay leaves, pour the dressing over the rice, and stir.",
+        "Add more salt and pepper to taste, garnish with pine nuts and lemon slices on the side. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Short-grain white rice has the ability to absorb liquids and release starch, which makes them sticky. * We used top and bottom heating (not fan-assisted/convection). ** If the liquid has been absorbed and the rice is still too firm, add a splash more vegetable broth or water and continue to bake.",
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

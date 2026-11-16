@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gemuese-quiche",
+  "recipes": [
+    {
+      "name": "Vegane Gemüse-Quiche",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gemuese-quiche",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gemuese-quiche#recipe-59b3819d-1a7b-5343-ab72-4abf23c925ab",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen - 1 Springform (ø 27 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT85M",
+      "ingredients": [
+        "Für den Teig:",
+        "500 g Roggenmehl (z.B. von Bauckhof)",
+        "300 g vegane Butter (kalt)",
+        "ca. 12 EL eiskaltes Wasser",
+        "Salz",
+        "Für die Füllung:",
+        "400 g Seidentofu",
+        "150 g veganen Quark",
+        "5 EL Sojamehl (z.B. von Bauckhof)",
+        "2 EL Olivenöl",
+        "2 TL getrockneter Oregano",
+        "2 TL getrockneter Thymian",
+        "1 TL Chiliflocken",
+        "1 TL Kala Namak",
+        "300 g (ca. 1) Zucchini",
+        "150 g (ca. 2-3) Karotte",
+        "100 g (ca. 1 Stange) Lauch",
+        "120 g (ca. 1) gelbe Paprika",
+        "120 g (ca. 1) rote Zwiebel",
+        "frische Kräuter (optional)",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "In einer großen Schüssel Roggenmehl, kalte vegane Butter und eine gute Prise Salz verkneten. Nun esslöffelweise eiskaltes Wasser hinzugeben, bis der Teig geschmeidig ist und sich eine glatte Teigkugel bildet. Anschließend kommt der Teig für mindestens eine halbe Stunde in den Kühlschrank.",
+        "In der Zwischenzeit wird die Füllung vorbereitet. Dazu Seidentofu, veganen Quark, Sojamehl, Olivenöl, getrockneten Oregano, Thymian, Chiliflocken und Kala Namak pürieren und mit Salz und Pfeffer abschmecken.",
+        "Den Ofen auf 200°C (Ober-und Unterhitze) vorheizen. Zucchini, Karotte, Lauch, gelbe Paprika und rote Zwiebel in dünne, etwa gleich große Scheiben schneiden.",
+        "Den Rand einer Springform (ø 27 cm) einfetten. Den Teig aus dem Kühlschrank nehmen und auf einem Backpapier ausrollen, bis er groß genug ist, um den Boden und Rand der Form gleichmäßig auszufüllen. Nun wird der Teig vorsichtig in die Form gelegt und anschließend ca. 10 Minuten bei 200°C vorgebacken.",
+        "Den Teig aus dem Ofen nehmen, die Seidentofu-Füllung vorsichtig hineingießen und die Gemüsescheiben darauf verteilen.",
+        "Die Quiche ca. 35 Minuten backen, bis sie leicht braun wird und die Füllung fest ist. Nach dem Backen mit frischen Kräutern bestreuen und noch warm servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,75 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schneller-veganer-wassermelonen-feta-salat",
+  "recipes": [
+    {
+      "name": "Veganer Feta aus Tofu in Kräuterlake",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schneller-veganer-wassermelonen-feta-salat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/schneller-veganer-wassermelonen-feta-salat#recipe-fa7bd63a-3cab-5a78-9d4e-e45e78068829",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "200 g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "200 g Naturtofu",
+        "100–150 ml Olivenöl",
+        "2 EL getrockneter Basilikum",
+        "2 EL getrockneter Oregano",
+        "1 EL getrockneter Thymian",
+        "1 TL Salz",
+        "1 TL helle Misopaste (optional)",
+        "2 Knoblauchzehen"
+      ],
+      "instructions": [
+        "Den Naturtofu in mundgerechte Würfel schneiden.",
+        "In ein Einmach- oder Schraubglas 5 EL Olivenöl geben und mit getrocknetem Basilikum, Oregano, Thymian und Salz verrühren. Optional Misopaste unterrühren.",
+        "Knoblauchzehen schälen, mit einem Messerrücken leicht zerdrücken und in Scheiben schneiden. Knoblauchscheiben und Tofuwürfel ebenfalls in das Glas geben, mit Olivenöl auffüllen und gut schütteln, damit der Tofu gleichmäßig mit Kräutern bedeckt ist.",
+        "Das Glas in den Kühlschrank stellen und nach frühestens 24 Stunden servieren. Der Tofu hält sich darin bis zu fünf Tage. Zwischendurch das Glas immer wieder umdrehen oder schütteln, damit alles gleichmäßig mariniert."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Schneller, veganer Wassermelonen-Feta-Salat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schneller-veganer-wassermelonen-feta-salat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/schneller-veganer-wassermelonen-feta-salat#recipe-93f9fa9c-3816-5e5e-85d9-9cca038e9616",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "1/2 Wassermelone",
+        "400 g veganer Feta (fertig gekauft oder selber gemacht)",
+        "50 g geröstete Pinienkerne",
+        "10 g frische Minze",
+        "Dressing",
+        "1/2 Limette",
+        "3 EL Olivenöl",
+        "Salz&Pfeffer"
+      ],
+      "instructions": [
+        "Den Feta falls notwendig vorbereiten. Wenn ihr einen fertigen, veganen Feta verwendet diesen würfeln.",
+        "Die Schale der Wassermelone entfernen und das Fruchtfleisch ebenfalls würfeln.",
+        "Die Pinienkerne in einer Pfanne ohne Öl rösten und die Minzblätter waschen und vom Stiel entfernen.",
+        "Für das Dressing den Saft einer halben Limette mit dem Olivenöl verrühren und mit Salz und Pfeffer abschmecken.",
+        "Die Wassermelonenwürfel und den Feta in eine große Schüssel geben und mit Pinienkernen, Minzblättern und dem Dressing toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

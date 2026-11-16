@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schokoladenpancakes-mit-tahin",
+  "recipes": [
+    {
+      "name": "Vegane Schokoladenpancakes mit Tahin",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schokoladenpancakes-mit-tahin",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schokoladenpancakes-mit-tahin#recipe-57616a20-4c31-5ea1-a04a-cccf3459c0e8",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen (18 kleine Pancakes)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Vegane Schokoladenpancakes",
+        "125 g Weizenmehl",
+        "15 g Kakaopulver (ungesüßt)",
+        "50 g brauner Zucker",
+        "1 TL Backpulver",
+        "1 Pck Vanillezucker",
+        "1 Prise Salz",
+        "250 ml pflanzliche Milch",
+        "1 EL Apfelessig",
+        "Toppings",
+        "100 g Tahin",
+        "150 g pflanzlicher Joghurt",
+        "30 g Agavendicksaft",
+        "Salz",
+        "2 EL heller Sesam",
+        "2 EL dunkler Sesam",
+        "frische Früchte (Beeren, Banane ..)"
+      ],
+      "instructions": [
+        "Die pflanzliche Milch und den Apfelessig in einer Schüssel verrühren und für 5 Minuten bei Seite stellen.",
+        "In einer zweiten Schüssel alle trockenen Zutaten vermischen: Weizenmehl, Kakaopulver (ungesüßt), brauner Zucker, Backpulver, Vanillezucker und eine Prise Salz.",
+        "Die pflanzliche Milch zu den trockenen Zutaten geben und mit einem Rührbesen zu einem glatten Teig verrühren. Für 10 Minuten ruhen lassen.",
+        "In einer kleinen Schüssel alle Zutaten für das Tahin-Topping verrühren: Tahin, pflanzlicher Joghurt, Agavendicksaft und Salz. Abschmecken.",
+        "Die Pancakes nun in einer kleinen, gut beschichteten Pfanne ausbacken. Dafür die Pfanne auf kleiner Flamme erhitzen und mit einem Pinsel nur hauchdünn mit pflanzlichem Öl beschichten. Etwa 2 EL des Teigs in die Pfanne geben und für 3-4 Minuten von beiden Seiten ausbacken. Die Pancakes erst drehen, wenn kleine Blasen im Teig aufsteigen und sich der Teigrand deutlich abrundet.",
+        "Die Pancakes mit dem Tahin-Dip, Bananenscheiben, frischen Beeren und Sesam servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

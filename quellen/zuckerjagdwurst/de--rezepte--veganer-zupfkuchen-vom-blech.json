@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zupfkuchen-vom-blech",
+  "recipes": [
+    {
+      "name": "Veganer Blaubeer-Zupfkuchen vom Blech",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zupfkuchen-vom-blech",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zupfkuchen-vom-blech#recipe-737d7d6d-6db4-58a6-a657-b00b9dcfb419",
+      "authors": [
+        "Nele Riese"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Blech (38 x 46 x 4 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT280M",
+      "ingredients": [
+        "Für den Schokoladenteig:",
+        "800 g Weizenmehl (Type 405)",
+        "250 g brauner Zucker",
+        "16 g Backpulver",
+        "100 g Backkakao",
+        "500 g pflanzliche Margarine",
+        "Für die Käsekuchenfüllung:",
+        "450 g pflanzliche Margarine",
+        "185 g veganes Vanillepuddingpulver",
+        "200 ml Sojamilch",
+        "2.4 kg veganer Natur Joghurt",
+        "140 g brauner Zucker",
+        "Außerdem:",
+        "500 g TK-Blaubeeren",
+        "vegane Butter zum Einfetten"
+      ],
+      "instructions": [
+        "Für den Schokoladenteig Mehl, braunen Zucker, Backpulver und Kakao in einer großen Schüssel vermischen. Die pflanzliche Margarine hinzugeben und alles mit den Händen zu einem gleichmäßigen Teig verkneten.",
+        "Den Ofen auf 180 °C (Umluft) vorheizen. Ein tiefes Backblech (circa 38 x 46 x 4 Zentimeter) mit Backpapier auslegen und gut einfetten. Drei Viertel des Teigs auf das Blech geben und mit einem Glas gleichmäßig andrücken, sodass ein flacher Boden entsteht. Den restlichen Teig beiseitestellen – er kommt am Ende als Streusel auf die Füllung.",
+        "Für die Füllung die Margarine in einem kleinen Topf schmelzen und anschließend etwas abkühlen lassen.",
+        "In einer Schüssel das Vanillepuddingpulver mit Sojamilch glatt rühren, bis keine Klümpchen mehr vorhanden sind. Veganen Joghurt in eine große Schüssel geben und den Puddingmix sowie den braunen Zucker unterrühren. Sobald die Margarine nur noch lauwarm ist, ebenfalls mit dem Schneebesen unterrühren.",
+        "Die Füllung gleichmäßig auf dem Teigboden verteilen. Die Blaubeeren darüber verteilen und den übriggebliebenen Schokoladenteig als Streusel darübergeben. Den Kuchen bei 180 °C (Umluft) circa 60 Minuten backen. Vor dem Anschneiden vollständig auskühlen lassen (am besten über Nacht), da die Füllung erst beim Abkühlen fest wird."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-bratkartoffel-pfanne-mit-gemuese",
+  "recipes": [
+    {
+      "name": "Vegane Bratkartoffel-Pfanne",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-bratkartoffel-pfanne-mit-gemuese",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-bratkartoffel-pfanne-mit-gemuese#recipe-6c57fff0-1de7-5fc2-99f0-e9d023245a73",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "250 g festkochende Kartoffeln",
+        "150 g Süßkartoffel",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "10 Rosenkohl-Köpfe",
+        "10 Kirschtomaten",
+        "1 Paprikaschote",
+        "200 g Räuchertofu",
+        "1 Handvoll frischer Spinat",
+        "Pflanzenöl zum Braten",
+        "Ajvar zum Servieren"
+      ],
+      "instructions": [
+        "Der erste Schritt entfällt, wenn ihr bereits vorgekochte Kartoffeln habt, die ihr verwerten wollt. Die festkochenden Kartoffeln mit Schale in einen Topf geben, mit kaltem Wasser bedecken, salzen und ca. 20 Minuten kochen, bis sie gar sind. Danach abgießen und ausdampfen lassen, bis man sie anfassen kann. Anschließend schälen und in Scheiben schneiden.",
+        "In der Zwischenzeit die Süßkartoffel in dünne Scheiben schneiden, Zwiebel und Knoblauchzehe schälen und fein würfeln, Rosenkohl putzen vierteln, Kirschtomaten halbieren, Paprikaschote und Tofu klein schneiden.",
+        "Etwas Pflanzenöl in einer großen Pfanne erhitzen und erst den Tofu ca. 3-4 Minuten scharf anbraten. Danach Paprika und Rosenkohl dazugeben und gemeinsam ca. 5 Minuten über mittlerer Hitze anbraten und mit Salz und Pfeffer würzen.",
+        "Das gebratene Gemüse aus der Pfanne nehmen und erstmal beiseitestellen. Anschließend erneut etwas Pflanzenöl erhitzen und nun die vorgekochten Kartoffelscheiben und die Süßkartoffelscheiben in die Pfanne geben und von beiden Seiten anbraten. Wer mag, kann auch eine zweite Pfanne dazugeben, um den Kartoffeln mehr Platz zu geben. Mit Salz und Pfeffer würzen.",
+        "Sobald die Kartoffelscheiben von beiden Seiten gebraten sind, Zwiebel und Knoblauch dazugeben und ca. 2 Minuten anbraten, bis die Zwiebeln glasig sind. Anschließend die bereits angebratenen Zutaten dazugeben, sowie die Tomaten und den Spinat. Alles vermengen, mit Salz und Pfeffer abschmecken und zusammen noch ca. 3 Minuten anbraten, bis der Spinat zusammenfällt. Bratkartoffeln mit Ajvar oder einem anderen Dip servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

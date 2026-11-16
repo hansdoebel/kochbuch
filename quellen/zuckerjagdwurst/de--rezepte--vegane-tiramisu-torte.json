@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-tiramisu-torte",
+  "recipes": [
+    {
+      "name": "Vegane Tiramisu-Torte",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-tiramisu-torte",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-tiramisu-torte#recipe-6e0972ab-32cf-5980-a10e-e33268355150",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Springform (∅ 26 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT180M",
+      "ingredients": [
+        "Für den Biskuitteig:",
+        "675 g Weizenmehl (Type 405)",
+        "325 g weißer Zucker",
+        "12 g (2 TL) Backpulver",
+        "8 g (1.5 TL) Vanillezucker",
+        "150 ml Raps- oder Sonnenblumenöl",
+        "750 ml Sprudelwasser",
+        "Für die Creme:",
+        "400 ml vegane aufschlagbare Sahne",
+        "16 g (2 EL) Sahnesteif",
+        "16 g (1.5 EL) Vanillezucker",
+        "200 ml Wasser",
+        "30 g Agartine (30% Agar Agar)",
+        "100 g Zucker",
+        "800 g pflanzlicher Quark",
+        "Außerdem:",
+        "150 ml Espresso (z. B. von Turm Kaffee)",
+        "25 ml veganer Amaretto (alternativ: Sambuca, Marsala, Weinbrand)",
+        "vegane Butter oder Pflanzenöl zum Einfetten",
+        "ungesüßtes Kakaopulver zum Bestäuben"
+      ],
+      "instructions": [
+        "Den Ofen auf 180°C Umluft vorheizen. In einer großen Schüssel Mehl, Zucker, Backpulver und Vanillezucker vermengen. Anschließend Pflanzenöl und Sprudelwasser dazugeben und nur noch kurz zu einem glatten Teig verrühren, bis kein Mehl mehr zu sehen ist.",
+        "Eine Springform (26 cm Durchmesser) mit veganer Butter oder Pflanzenöl einfetten und den Teig hineingeben. Auf mittlerer Schiene ca. 40 Minuten bei 180°C Umluft backen. Mit einem Stäbchen testen, ob der Teig durch ist: das Holzstäbchen dafür schräg in den Teig stechen. Wenn beim Herausziehen kein Teig am Stäbchen kleben bleibt, ist der Kuchen durchgebacken. Den Kuchen aus dem Ofen nehmen und vollständig auskühlen lassen. Anschließend mit einem Kuchenmesser oder einem Tortenschneider horizontal in drei gleich hohe Böden schneiden.",
+        "In der Zwischenzeit Espresso kochen und abkühlen lassen. Danach mit veganem Amaretto verrühren.",
+        "Für die Creme vegane Schlagsahne mit Sahnesteif und Vanillezucker aufschlagen und direkt in den Kühlschrank stellen. Wasser und Agartine in einem Topf mit einem Schneebesen verrühren und unter Rühren aufkochen lassen. Die Mischung sollte mindestens 2 Minuten stark kochen. Dabei durchgängig mit dem Schneebesen rühren. Nun den Topf vom Herd nehmen und Zucker und veganen Quark mit dem Schneebesen esslöffelweise unterrühren. Wenn die Masse etwas erkaltet ist, kann die geschlagene vegane Sahne vorsichtig untergehoben werden. Die Creme wieder kaltstellen.",
+        "Tipp: Wenn die Agartine zu schnell erkaltet, wird sie klumpig. Falls das passiert, einfach die Creme pürieren.",
+        "Etwa einen Spritzbeutel Creme für die Dekoration am Ende beiseitelegen. Auf einer Kuchenplatte den ersten Biskuitteig-Boden legen und mit einem Drittel der Espresso-Mischung bestreichen. Anschließend ein Drittel der restlichen Creme darauf verteilen und den zweiten Teigboden vorsichtig auf die Creme legen. Den Schritt noch zweimal wiederholen, bis alle Teigböden mit Espresso getränkt sind und ganz oben eine letzte Schicht Creme zu sehen ist.",
+        "Die Tiramisu-Torte und die restliche Creme am besten über Nacht im Kühlschrank ziehen lassen.",
+        "Die Torte vor dem Servieren großzügig mit ungesüßtem Kakaopulver bestäuben und die restliche Creme mithilfe einer Spritztüte in Tupfenform darauf verteilen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

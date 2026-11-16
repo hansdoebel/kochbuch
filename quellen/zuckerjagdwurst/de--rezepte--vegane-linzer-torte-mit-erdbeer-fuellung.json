@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-linzer-torte-mit-erdbeer-fuellung",
+  "recipes": [
+    {
+      "name": "Vegane Linzer Torte mit Erdbeer-Füllung",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-linzer-torte-mit-erdbeer-fuellung",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-linzer-torte-mit-erdbeer-fuellung#recipe-38b5a7f0-f574-5718-8a09-88c147f8d9a0",
+      "authors": [
+        "Anne-Sophie Hoffmann"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 runde Kuchenform (26 cm Durchmesser)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für den Teig:",
+        "250 g Weizenmehl (Type 405)",
+        "100 g Zucker",
+        "8 g (1.5 TL) Backpulver",
+        "1 Prise Salz",
+        "0.5 TL gemahlener Zimt",
+        "100 g gemahlene Haselnüsse",
+        "200 g vegane Butter",
+        "Für die Füllung:",
+        "75 g Erdbeerflocken (z. B. von Dr. Crispy & Mr. Dried)",
+        "300 ml kochendes Wasser",
+        "Außerdem:",
+        "2-3 EL pflanzliche Milch zum Einstreichen",
+        "1 TL Agavendicksaft zum Einstreichen",
+        "vegane Butter zum Einfetten",
+        "Mehl zum Bestäuben",
+        "Puderzucker zum Servieren"
+      ],
+      "instructions": [
+        "Mehl, Zucker,Backpulver, Salz, Zimt und gemahlene Haselnüsse in einer Schüssel vermischen.",
+        "Vegane Butter unterkneten und den Teig zu einem Ball formen. Für 30 Minuten im Kühlschrank kaltstellen.",
+        "Den Teig aus dem Kühlschrank nehmen und halbieren. Eine Kuchenform (26 Zentimeter Durchmesser) mit veganer Butter einfetten und mit etwas Mehl ausklopfen.",
+        "Eine Hälfte des Teigs kreisrund ausrollen, vorsichtig in die Form legen und fest an den Boden drücken, sodass ein gleichmäßig dicker Boden entsteht.",
+        "Die Erdbeerflocken mit dem heißen Wasser in einer Schüssel verrühren und 5–10 Minuten quellen lassen, bis eine geleeartige Marmelade entsteht.",
+        "Den restlichen Teig ausrollen, zwei 1.5 Zentimeter breite Streifen mit einem Pizzaroller ausschneiden und diese als Rand für die Torte benutzen. Das Erdbeergelee auf dem Boden verteilen.",
+        "Den restlichen Teig mit Ausstechern in Sternenform ausstechen und diese auf der Erdbeerschicht verteilen.",
+        "In einem kleinen Gefäß pflanzliche Milch und Agavendicksaft verrühren und den Teig damit bestreichen.",
+        "Den Kuchen bei 180 °C (Umluft) für etwa 30 Minuten auf mittlerer Schiene backen. Danach abkühlen lassen, mit Puderzucker bestäuben und servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

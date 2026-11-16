@@ -1,0 +1,66 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gefuellte-himbeermuffins",
+  "recipes": [
+    {
+      "name": "Vegane Himbeermuffins mit Frischkäse-Füllung und Haferflocken-Streusel",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gefuellte-himbeermuffins",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gefuellte-himbeermuffins#recipe-86d77f7f-7e50-5b9d-998c-62f2f61dd515",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Muffins",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT65M",
+      "ingredients": [
+        "Für den Teig:",
+        "250 g Weizenmehl (Type 405)",
+        "20 g Speisestärke",
+        "50 g gemahlene Mandeln (oder Haselnüsse)",
+        "100 g Zucker",
+        "8 g Backpulver",
+        "8 g Vanillezucker",
+        "200 ml pflanzliche Milch",
+        "50 ml neutrales Pflanzenöl",
+        "50 ml Sprudelwasser",
+        "200 g ganze Himbeeren",
+        "50 g backstabile Schokotropfen",
+        "Für die Füllung:",
+        "150 g veganer Natur-Frischkäse",
+        "1 EL Himbeermarmelade",
+        "2 EL Speisestärke",
+        "0.5 Vanilleschote (Mark)",
+        "1 Prise Salz",
+        "Für das Topping:",
+        "6 EL Haferflocken",
+        "6 EL Mehl",
+        "2 EL Zucker",
+        "2 EL Mandelstifte (oder gehackte Haselnüsse)",
+        "60 g (4 EL) vegane kalte Butter",
+        "Für die Glasur:",
+        "100 g veganer Natur-Frischkäse",
+        "50 g Puderzucker",
+        "0.5 Vanilleschote (Mark)",
+        "2 EL pflanzliche Milch",
+        "1 Prise Salz"
+      ],
+      "instructions": [
+        "Für den Teig zuerst Mehl, Speisestärke, gemahlene Mandeln, Zucker, Backpulver und Vanillezucker in einer Schüssel verrühren. Pflanzliche Milch, Pflanzenöl und Sprudelwasser hinzugeben und verrühren, bis kein trockenes Mehl mehr zu sehen ist. Zum Schluss die frischen Himbeeren und Schokotropfen untermengen und den Teig kurz beiseitestellen.",
+        "Für die Füllung veganen Frischkäse mit Himbeermarmelade in einer Schüssel glatt rühren. Danach Speisestärke, Vanillemark und eine Prise Salz dazugeben und vermengen.",
+        "Für die Streusel Haferflocken, Mehl, Zucker und Mandelsplitter in einer weiteren Schüssel vermengen und die kalte vegane Butter in Flocken dazugeben und einkneten, bis ihr Streusel habt.",
+        "Den Backofen auf 180 °C (Umluft) vorheizen. Die Muffin-Backform mit Silikon- oder Papierförmchen auslegen und jeweils bis zur Hälfte mit Teig füllen. Danach 1–2 TL der Füllung in die Mitte geben und mit dem restlichen Teig bedecken. Zum Schluss die Haferflocken-Streusel über allen Muffins verteilen.",
+        "Die Muffins bei 180 °C (Umluft) circa 25 Minuten backen. Mit einem Zahnstocher oder Holzspieß testen, ob der Teig durchgebacken ist. Dafür den Spieß schräg in die Muffins stechen und wieder herausziehen. Wenn kein Teig daran klebt, sind die Muffins ready. Danach aus dem Ofen nehmen und auskühlen lassen.",
+        "In der Zwischenzeit für die Glasur veganen Frischkäse in einer Schüssel glatt rühren und Puderzucker, Vanillemark, pflanzliche Milch und eine Prise Salz dazugeben und vermengen. Nach Wunsch weniger oder mehr pflanzliche Milch dazugeben – je nachdem, wie dick oder dünn eure Glasur sein soll.",
+        "Die abgekühlten Muffins mit der Glasur beträufeln und kurz trocknen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/flammkuchen-mit-spargel",
+  "recipes": [
+    {
+      "name": "Flammkuchen mit Spargel",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/flammkuchen-mit-spargel",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/flammkuchen-mit-spargel#recipe-ed9e6479-b90a-50d2-8c22-27f8d830f83a",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Flammkuchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "2 Flammkuchenböden",
+        "200 g grünen Spargel",
+        "200 g weißen Spargel",
+        "100 g Räuchertofu",
+        "1 rote Zwiebel",
+        "5 Radieschen",
+        "200 g Sojaquark",
+        "50 ml Sojasahne",
+        "1 Zitrone (Saft und Abrieb)",
+        "1 TL Knoblauchpulver",
+        "10 g frischer Dill",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Um den Spargel vorzubereiten, das untere Drittel vom grünen Spargel abschneiden. Die holzigen Enden vom weißen Spargel ebenfalls abschneiden und den Spargel schälen. In schräge dünne Streifen schneiden. Rote Zwiebel in dünne Streifen schneiden.",
+        "Räuchertofu fein würfeln. In einer Pfanne etwas Pflanzenöl erhitzen und die Räuchertofuwürfel anbraten knusprig anbraten.",
+        "Für die Creme den Sojaquark mit Sojasahne, Saft einer halben Zitrone und Abrieb einer Zitrone, Knoblauchpulver, Salz und Pfeffer vermengen.",
+        "Die Quarkcreme in einer dünnen Schicht auf den Flammkuchenböden verteilen und mit weißen und grünen Spargelscheiben belegen. Zwiebel und Räuchertofu darüber verteilen. Ca. 15 Minuten bei 220°C backen, bis der Flammkuchen goldbraun ist.",
+        "In der Zwischenzeit Radieschen in Scheiben schneiden. Aus dem Ofen nehmen und mit Radieschenscheiben und frischem Dill bestreuen und noch warm essen. Mit restlicher Creme zum Dippen servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

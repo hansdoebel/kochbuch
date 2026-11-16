@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/ratatouille-auf-knusprigem-baguette",
+  "recipes": [
+    {
+      "name": "Ratatouille auf knusprigem Baguette",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/ratatouille-auf-knusprigem-baguette",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/ratatouille-auf-knusprigem-baguette#recipe-65ee3efd-d21b-57ef-a982-4d6a801de15d",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für das knusprige Baguette:",
+        "1 Baguette",
+        "Olivenöl",
+        "Salz",
+        "Für das Ratatouille:",
+        "1 Aubergine",
+        "1 Zucchini",
+        "2 Paprika",
+        "3 rote Zwiebeln",
+        "3 große Tomaten",
+        "2 Knoblauchzehen",
+        "100 g Oliven",
+        "1 TL getrockneter Rosmarin",
+        "1 TL getrockneter Thymian",
+        "1 TL getrockneter Oregano",
+        "1 TL getrockneter Majoran",
+        "200 ml passierte Tomaten",
+        "Olivenöl zum Braten",
+        "frischer Basilikum zum Servieren",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Aubergine, Zucchini, Paprika, rote Zwiebeln und Tomaten klein schneiden. Knoblauch in dünne Scheiben schneiden. Oliven in dickere Scheiben schneiden.",
+        "Tipp: Die Stücke können gern etwas größer sein, vor allem wenn ihr das Ratatouille so essen wollt. Wenn ihr es aber auf die Baguettescheiben geben wollt, könnt ihr die Stücke etwas kleiner schneiden.",
+        "Basilikumblätter zum Servieren Chiffonade schneiden – das bedeutet, dass die Blätter übereinander gelegt und dann eng zusammengerollt werden. Danach wird die Rolle in feine Streifen geschnitten.",
+        "Olivenöl in einer großen Pfanne erhitzen. Zuerst Zucchini, Aubergine und Paprika ca. 15 Minuten darin anbraten, bis sie etwas weicher sind, aber noch Biss haben. Mit Salz und Pfeffer würzen. Das Gemüse danach aus der Pfanne nehmen und beiseitestellen.",
+        "Erneut Olivenöl in die Pfanne geben und nun Zwiebeln, Knoblauch und Kräuter ca. 5 Minuten bei kleiner Hitze anschwitzen, bis die Zwiebel glasig ist. Danach Tomaten dazugeben und zusammen 5 Minuten anbraten. Nun kommen das restliche Gemüse und passierte Tomaten in die Pfanne. Mit Salz und Pfeffer abschmecken und das Ratatouille ca. 20 Minuten mit geschlossenem Deckel schmoren lassen. Ca. 5 Minuten vor Schluss die Oliven dazugeben.",
+        "In der Zwischenzeit den Backofen auf 170°C vorheizen. Das Baguette in Scheiben schneiden und auf ein Backblech geben. Mit Olivenöl beträufeln und leicht salzen. Im Backofen ca. 8-10 Minuten backen, bis das Brot goldbraun und knusprig ist.",
+        "Das Ratatouille entweder mit dem knusprigen Brot servieren oder auf den knusprigen Brotscheiben verteilen. Mit dem Basilikum bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

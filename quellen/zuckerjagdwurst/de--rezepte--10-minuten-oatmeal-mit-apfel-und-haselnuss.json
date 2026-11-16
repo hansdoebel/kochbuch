@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/10-minuten-oatmeal-mit-apfel-und-haselnuss",
+  "recipes": [
+    {
+      "name": "Oatmeal mit Apfel & Haselnuss",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/10-minuten-oatmeal-mit-apfel-und-haselnuss",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/10-minuten-oatmeal-mit-apfel-und-haselnuss#recipe-a4e86801-f611-56ee-9343-f8650d286520",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Portion",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "100 g zarte Haferflocken",
+        "200 ml pflanzliche Milch",
+        "1 TL Zimt",
+        "1 EL Agavendicksaft",
+        "1 Apfel",
+        "50 g Haselnüsse",
+        "Beeren zum Servieren (je nach Saison)"
+      ],
+      "instructions": [
+        "Milch in der Mikrowelle oder in einem Topf erwärmen, bis sie heiß ist, aber nicht kocht.",
+        "Die Haferflocken in eine Schüssel geben und die warme Milch darüber gießen. Agavendicksaft und Zimt hinzugeben und umrühren. Für 5 Minuten ziehen lassen.",
+        "In der Zeit Apfel waschen und in Scheiben schneiden.",
+        "Nüsse in einer Pfanne ohne Öl für 3-4 Minuten rösten und anschließend hacken.",
+        "Nun alles anrichten und noch warm essen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

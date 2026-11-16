@@ -1,0 +1,122 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/dwaeji-bulgogi",
+  "recipes": [
+    {
+      "name": "Dwaeji bulgogi (Spicy pork bulgogi BBQ)",
+      "source_url": "https://www.maangchi.com/recipe/dwaeji-bulgogi",
+      "recipe_id": "/recipe/dwaeji-bulgogi#sso/recipe/25641",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "3-4 servings",
+      "prep_time": "P0DT0H35M0S",
+      "cook_time": "P0DT0H10M0S",
+      "total_time": "P0DT0H45M0S",
+      "ingredients": [
+        "1 pound pork belly, sliced thinly into pieces ½ inch x 2 inches and ⅛ inch thick tip: You can replace pork belly with pork shoulder or pork loin",
+        "½ cup of crushed Korean pear (aka “Asian pear”)",
+        "¼ cup onion purée",
+        "4 cloves of minced garlic",
+        "½ ts of minced ginger",
+        "1 chopped green onion",
+        "1 tbs soy sauce",
+        "1 tbs of sugar and 1½ tbs rice syrup (or 2 tbs brown sugar)",
+        "a pinch of ground black pepper",
+        "2 ts of toasted toasted sesame oil",
+        "3 tbs hot pepper paste"
+      ],
+      "instructions": [
+        "Mix all the marinade ingredients in a bowl. Add the sliced pork and mix well.",
+        "You can grill, pan-fry, stir-fry, or BBQ right after marinating, but it’s best to let it marinate in the fridge for at least 30 minutes. Cook over medium high heat, not too hot or it will burn.",
+        "Serve with rice, ssamjang (gochujang and doenjang dipping sauce), lettuce leaves, sliced garlic cloves and green chili pepper. Perilla leaves are optional. You can also add kimchi or other banchan (side dishes) on the side if you like.",
+        "Koreans like to eat as ssam. Take a piece of pork with your chopsticks and put it on a lettuce leaf and a perilla leaf (if you have it). Add garlic, green chili pepper and ssamjang and eat the wrap in one bite! (be sure to make a wrap small enough to fit into your mouth lol)"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "(3-4 servings)"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound pork belly, sliced thinly into pieces ½ inch x 2 inches and ⅛ inch thick tip: You can replace pork belly with pork shoulder or pork loin"
+        },
+        {
+          "tag": "h3",
+          "text": "For the marinade"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup of crushed Korean pear (aka “Asian pear”)"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup onion purée"
+        },
+        {
+          "tag": "li",
+          "text": "4 cloves of minced garlic"
+        },
+        {
+          "tag": "li",
+          "text": "½ ts of minced ginger"
+        },
+        {
+          "tag": "li",
+          "text": "1 chopped green onion"
+        },
+        {
+          "tag": "li",
+          "text": "1 tbs soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 tbs of sugar and 1½ tbs rice syrup (or 2 tbs brown sugar)"
+        },
+        {
+          "tag": "li",
+          "text": "a pinch of ground black pepper"
+        },
+        {
+          "tag": "li",
+          "text": "2 ts of toasted toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "3 tbs hot pepper paste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Mix all the marinade ingredients in a bowl. Add the sliced pork and mix well."
+        },
+        {
+          "tag": "li",
+          "text": "You can grill, pan-fry, stir-fry, or BBQ right after marinating, but it’s best to let it marinate in the fridge for at least 30 minutes. Cook over medium high heat, not too hot or it will burn."
+        },
+        {
+          "tag": "li",
+          "text": "Serve with rice, ssamjang (gochujang and doenjang dipping sauce), lettuce leaves, sliced garlic cloves and green chili pepper. Perilla leaves are optional. You can also add kimchi or other banchan (side dishes) on the side if you like."
+        },
+        {
+          "tag": "li",
+          "text": "Koreans like to eat as ssam. Take a piece of pork with your chopsticks and put it on a lettuce leaf and a perilla leaf (if you have it). Add garlic, green chili pepper and ssamjang and eat the wrap in one bite! (be sure to make a wrap small enough to fit into your mouth lol)"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

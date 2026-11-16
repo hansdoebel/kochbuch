@@ -1,0 +1,70 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-fettuccine-alfredo",
+  "recipes": [
+    {
+      "name": "Vegane Fettuccine Alfredo",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-fettuccine-alfredo",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-fettuccine-alfredo#recipe-22f44d3b-36a7-5c8a-a248-7fc2223a96a5",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "200 g Fettuccine",
+        "250 g Cashewnüsse (eingeweicht)",
+        "400 g Seidentofu",
+        "3 EL Hefeflocken",
+        "2 EL pflanzliche Butter",
+        "Salz",
+        "Pfeffer",
+        "Petersilie zum Servieren",
+        "veganer Parmesan zum Servieren"
+      ],
+      "instructions": [
+        "Gesalzenes Wasser in einem Topf zum Kochen bringen. Fettuccine nach Packungsanleitung al dente kochen.",
+        "In der Zwischenzeit könnt ihr sie eingeweichten Cashewnüsse, Seidentofu und die Hefeflocken in einen Standmixer geben oder alternativ mit einem Stabmixer glatt pürieren. Schmeckt die Mischung kräftig mit Salz und Pfeffer ab.",
+        "Nehmt, bevor ihr die Nudeln abgießt, ca. eine große Tasse vom Kochwasser ab und stellt es beiseite.",
+        "Gießt die Fettuccine ab und gebt sie zusammen mit der Soße in eine Pfanne über mittlerer Hitze. Schwenkt das ganze gut durch und gebt dabei nach und nach Kochwasser hinzu, bis die Soße abgebunden und wunderbar cremig ist. Nun noch die vegane Butter unterschwenken und nach Geschmack nochmal mit Salz und Pfeffer würzen. Serviert die Fettuccine mit Petersilie, veganem Parmesan und frischem Pfeffer oder auch ein paar Chiliflocken!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Veganer Parmesan",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-fettuccine-alfredo",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-fettuccine-alfredo#recipe-7cc00455-45ac-5abf-ad76-298521fc2022",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "150 g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "100 g Cashewkerne",
+        "50 g gehackte Mandeln",
+        "3 EL Hefeflocken",
+        "1 TL Salz",
+        "0.5 TL Knoblauchpulver"
+      ],
+      "instructions": [
+        "Alle Zutaten in einen Mixer geben und verarbeiten, bis eine fein gemahlene Mischung entsteht. Wenn dennoch ein paar größere Stücken übrig bleiben, ist das gar nicht schlimm.",
+        "Wenn du den Parmesan nicht sofort verwendet, solltest du ihn in einem Einweckglas aufbewahren. Danach kannst ihn über deine Pasta streuen oder für ein Pesto verwenden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

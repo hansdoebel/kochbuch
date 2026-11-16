@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-rhabarber-quark-streuselkuchen",
+  "recipes": [
+    {
+      "name": "Veganer Rhabarber-Quark-Streuselkuchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-rhabarber-quark-streuselkuchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-rhabarber-quark-streuselkuchen#recipe-7b05a176-a4fe-5ca7-bdb6-6d33ede983ad",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Springform (∅ 26 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT105M",
+      "ingredients": [
+        "Für den Teig:",
+        "425 g Weizenmehl Typ 405",
+        "120 g Zucker",
+        "8 g (1.5 TL) Backpulver",
+        "8 g (1.5 TL) Vanillezucker",
+        "1 Prise Salz",
+        "250 g vegane Margarine",
+        "Für die Quarkschicht:",
+        "150 g vegane Margarine",
+        "74 g Vanille-Puddingpulver",
+        "100 ml pflanzliche Milch",
+        "800 g pflanzlicher Skyr",
+        "50 g Zucker",
+        "Außerdem:",
+        "500 g Rhabarber",
+        "vegane Margarine (zum Einfetten)"
+      ],
+      "instructions": [
+        "Für den Teig Mehl, Zucker, Backpulver, Vanillezucker und Salz in einer Schüssel vermischen. Die vegane Margarine hinzugeben und mit den Händen unterkneten, bis ein geschmeidiger Teig entsteht. Eine Springform (∅ 26 cm) mit veganer Margarine einfetten.",
+        "Die Hälfte des Teigs in die Kuchenform geben und mit den Fingern fest an den Boden drücken, sodass ein gerader Boden entsteht. Dreiviertel vom restlichen Teig zu mehreren langen Rollen formen und diese an den Rand der Form legen. Die Rollen an den Kuchenrand drücken, sodass ein hoher Rand entsteht. Den Teigrand gut mit dem Teigboden verbinden. Den restlichen Teig bei Seite stellen, er kommt am Ende als Streusel auf die Füllung.",
+        "Für die Füllung vegane Margarine schmelzen und das Vanille-Puddingpulver mit pflanzlicher Milch glatt rühren. Pflanzlichen Skyr, geschmolzene Margarine, Zucker und das angerührte Vanille-Puddingpulver in einer großen Schüssel glatt rühren.",
+        "Den Backofen auf 180°C (Umluft) vorheizen. Den Rhabarber waschen, holzige Enden entfernen und, je nachdem wie dick eure Stangen sind, gegebenenfalls längs halbieren oder vierteln. Den Rhabarber in etwa 1 cm dicke Stücke schneiden und 400 g unter die Quarkfüllung mischen.",
+        "Die Quarkfüllung in die Springform gießen und die restlichen 100 g Rhabarber und Streusel gleichermaßen auf der Füllung verteilen. Den Kuchen bei 180°C (Umluft) für 60 Minuten backen. Den Kuchen vor dem Anschneiden komplett abkühlen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

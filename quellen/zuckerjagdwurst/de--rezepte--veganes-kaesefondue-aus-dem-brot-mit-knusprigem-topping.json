@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kaesefondue-aus-dem-brot-mit-knusprigem-topping",
+  "recipes": [
+    {
+      "name": "Veganes Käsefondue aus dem Brot mit knusprigem Topping",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kaesefondue-aus-dem-brot-mit-knusprigem-topping",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kaesefondue-aus-dem-brot-mit-knusprigem-topping#recipe-668475f8-3f3c-53a9-b4cf-4d2e410e41e0",
+      "authors": [
+        "Anneke Schügner"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2–3 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für das Fondue:",
+        "1 rundes, feinporiges Brot",
+        "1 TL Zwiebelpulver",
+        "0.5 TL Knoblauchpulver",
+        "0.5 TL Kreuzkümmel",
+        "1 veganes Käsefondue (z. B. von New Roots)",
+        "Olivenöl (zum Braten)",
+        "Salz",
+        "Pfeffer",
+        "Für die Beilagen:",
+        "Brokkoli (blanchiert)",
+        "Artischocke gekocht",
+        "Champignons (angebraten)",
+        "Kartoffeln (gekocht)",
+        "Jalapenos",
+        "Silberzwiebeln",
+        "Ofengemüse (z. B. Kürbis, Süßkartoffel, Rosenkohl, Rote Bete)",
+        "Kaki (in Scheiben)",
+        "Apfel (in Scheiben)",
+        "Feigen",
+        "Physalis",
+        "Tortilla-Chips",
+        "Brotwürfel",
+        "Kroketten (gebacken)"
+      ],
+      "instructions": [
+        "Ofen auf 180 °C (Umluft) vorheizen. Die Oberseite des Brotlaibs mit einem Brotmesser waagerecht abschneiden. Das Innere des Brotes entfernen, sodass die Wand des Brotlaibs noch etwa 1 cm dick ist. Die Brot-Schale für 10 Minuten bei 180 °C backen.",
+        "> Tipp: Die Oberseite vom Brotlaib könnt ihr würfeln und in euer Fondue dippen.",
+        "Für das knusprige Topping das Innere des Brotes mit der Hand zerkleinern. Die Krümel anschließend in einer Pfanne mit reichlich Olivenöl für 5–7 Minuten auf mittlerer Hitze anbraten, bis sie knusprig sind. Mit Zwiebelpulver, Knoblauchpulver, Kreuzkümmel, Salz und Pfeffer würzen.",
+        "Beilagen eurer Wahl zubereiten. Anschließend das Käsefondue auf dem Herd bei mittlerer Hitze erwärmen und in die Brotschale geben. Das Fondue mit dem knusprigen Topping bedecken und mit Beilagen eurer Wahl servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

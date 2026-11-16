@@ -1,0 +1,120 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/bibim-guksu",
+  "recipes": [
+    {
+      "name": "Bibim-guksu (Spicy mixed noodles)",
+      "source_url": "https://www.maangchi.com/recipe/bibim-guksu",
+      "recipe_id": "/recipe/bibim-guksu#sso/recipe/20422",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "1 serving",
+      "prep_time": "P0DT0H5M0S",
+      "cook_time": "P0DT0H15M0S",
+      "total_time": "P0DT0H20M0S",
+      "ingredients": [
+        "4 ounces (about 110 grams) somyeon (thin wheat noodles)",
+        "4 ounces fermented kimchi, chopped",
+        "¼ cup kimchi brine (or cold water)",
+        "2 tablespoons gochujang (Korean fermented hot pepper paste)",
+        "1 teaspoon sugar (optional)",
+        "1 garlic clove, minced",
+        "½ cup worth cucumber, cut into matchsticks",
+        "1 tablespoon toasted sesame oil",
+        "1 tablespoon toasted sesame seeds, ground",
+        "1 half-boiled egg (or hard-boiled egg)"
+      ],
+      "instructions": [
+        "Combine kimchi, kimchi brine, gochujang, sugar (if used), garlic, and sesame oil in a large bowl. Mix well with a spoon.",
+        "Bring a pot of water to a boil and add the noodles. Stir them with a wooden spoon and cover. Cook for about 3 minutes 30 seconds. Only a minute into the cooking, it may start boiling over. Just stir the noodles and crack the lid. Taste a sample to see if the noodles are nicely cooked or not. The noodles should be chewy but without anything hard inside. Drain the noodles in a strainer and rinse them in cold running water until they are cold and no longer slippery. Drain well and add to the kimchi mixture.",
+        "Mix everything well and transfer to a large bowl. Add the cucumber and the egg and sprinkle some sesame seeds over top. Serve right away."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "For 1 serving"
+        },
+        {
+          "tag": "li",
+          "text": "4 ounces (about 110 grams) somyeon (thin wheat noodles)"
+        },
+        {
+          "tag": "li",
+          "text": "4 ounces fermented kimchi, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup kimchi brine (or cold water)"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons gochujang (Korean fermented hot pepper paste)"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon sugar (optional)"
+        },
+        {
+          "tag": "li",
+          "text": "1 garlic clove, minced"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup worth cucumber, cut into matchsticks"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame seeds, ground"
+        },
+        {
+          "tag": "li",
+          "text": "1 half-boiled egg (or hard-boiled egg)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Combine kimchi, kimchi brine, gochujang, sugar (if used), garlic, and sesame oil in a large bowl. Mix well with a spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Bring a pot of water to a boil and add the noodles. Stir them with a wooden spoon and cover. Cook for about 3 minutes 30 seconds. Only a minute into the cooking, it may start boiling over. Just stir the noodles and crack the lid."
+        },
+        {
+          "tag": "li",
+          "text": "Taste a sample to see if the noodles are nicely cooked or not. The noodles should be chewy but without anything hard inside."
+        },
+        {
+          "tag": "li",
+          "text": "Drain the noodles in a strainer and rinse them in cold running water until they are cold and no longer slippery. Drain well and add to the kimchi mixture."
+        },
+        {
+          "tag": "li",
+          "text": "Mix everything well and transfer to a large bowl. Add the cucumber and the egg and sprinkle some sesame seeds over top. Serve right away."
+        },
+        {
+          "tag": "p",
+          "text": "Kimchi bibim-guksu and Eomukguk (fishcake soup)"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

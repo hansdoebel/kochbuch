@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/tropical-matcha-green-smoothie-234",
+  "recipes": [
+    {
+      "name": "Tropical Matcha Green Smoothie",
+      "source_url": "https://www.pickuplimes.com/recipe/tropical-matcha-green-smoothie-234",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "1½ cup canned light coconut milk",
+        "1 cup unsweetened soy milk",
+        "2 frozen banana",
+        "1 cup fresh pineapple",
+        "1 cup spinach",
+        "4 Medjool date",
+        "2 Tbsp hemp seeds",
+        "1½ tsp matcha powder"
+      ],
+      "instructions": [
+        "Blend all of the ingredients in a high-speed blender until well smooth.",
+        "Serve in a tall glass or a bowl with desired toppings. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium .",
+    "Storage Best to enjoy this smoothie immediately."
+  ]
+}

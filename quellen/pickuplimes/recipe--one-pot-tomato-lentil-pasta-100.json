@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/one-pot-tomato-lentil-pasta-100",
+  "recipes": [
+    {
+      "name": "One-Pot Tomato Lentil Pasta",
+      "source_url": "https://www.pickuplimes.com/recipe/one-pot-tomato-lentil-pasta-100",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT20M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "1 Tbsp vegetable oil",
+        "4 garlic clove",
+        "1 medium onion",
+        "1 vegetable bouillon cube",
+        "1 tsp Italian seasoning",
+        "½ tsp chili flakes",
+        "10.582 oz spaghetti noodles",
+        "3 cup tomato-based pasta sauce",
+        "2 cup boiling water",
+        "2 cup cherry tomatoes",
+        "1½ cup cooked brown lentils",
+        "½ cup green olives",
+        "⅓ cup oil-packed sun-dried tomatoes",
+        "1 Tbsp capers",
+        "2 cup spinach"
+      ],
+      "instructions": [
+        "Heat the oil in a large pot over medium-high heat. When hot, add the garlic, onion, bouillon cube, Italian seasoning, and chili flakes. Cook for 2 to 3 minutes.",
+        "Then add the pasta, pasta sauce, boiling water, cherry tomatoes, lentils, olives, sun-dried tomatoes, and capers.",
+        "Bring to a gentle simmer and partially cover with a lid. Cook for 10 to 15 minutes over medium heat until pasta is al dente. Stir every few minutes to ensure the pasta doesn't stick to the bottom of the pot.",
+        "When the pasta is al dente, add the spinach and stir, cooking for an additional minute.",
+        "Serve it generously into bowls, garnish, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

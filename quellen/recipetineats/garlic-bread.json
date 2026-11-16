@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.recipetineats.com/garlic-bread/",
+  "recipes": [
+    {
+      "name": "Garlic Bread",
+      "source_url": "https://www.recipetineats.com/garlic-bread/",
+      "recipe_id": "https://www.recipetineats.com/garlic-bread/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "6"
+      ],
+      "prep_time": "PT10M",
+      "cook_time": "PT15M",
+      "total_time": "PT25M",
+      "ingredients": [
+        "1 French stick / baguette (, ~ 60cm / 2ft long (Note 1))",
+        "125 g / 1 US stick unsalted butter (, softened)",
+        "2 tsp fresh garlic (, very finely minced (~3 - 4 cloves, pack the teaspoon))",
+        "1/2 tsp cooking salt / kosher salt ((halve for table salt, +50% for flakes))",
+        "2 tsp finely chopped parsley ((optional))"
+      ],
+      "instructions": [
+        "Preheat oven to 200C/390F.",
+        "Cut the French stick in half. Then cut the bread almost all the way through into 2cm / 4/5\" thick slices.",
+        "Mix together the butter, garlic, salt and parsley. Taste to see if it's salty / garlicky enough for your taste (Note 2).",
+        "Smear garlic butter over cut side of bread (Note 2).",
+        "Smear remaining butter on the top and sides of the bread.",
+        "Wrap each bread in foil.",
+        "Bake for 15 minutes until the crust is crispy (check through foil).",
+        "Unwrap and serve!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. Bread – You can make Garlic Bread with any bread you choose. But for a Dominos/Pizza Hut copycat (my favourite!), use a basic bakery French stick / baguette. French Sticks (baguettes) in Australia is usually around 60 cm / 2 ft long with a diameter of 7 – 9 cm / 2.7 – 3.5″. 2. Garlic flavour will reduce slightly once cooked, it’s harsh when raw 3. Nutrition per serving."
+  ]
+}

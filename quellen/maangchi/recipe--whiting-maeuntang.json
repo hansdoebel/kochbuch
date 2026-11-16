@@ -1,0 +1,145 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/whiting-maeuntang",
+  "recipes": [
+    {
+      "name": "Korean Spicy Fish Stew",
+      "source_url": "https://www.maangchi.com/recipe/whiting-maeuntang",
+      "recipe_id": null,
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 pound cleaned whiting fish, cut into 2-inch pieces",
+        "5–6 ounces Korean radish (mu), peeled and thinly sliced into bite-size pieces",
+        "½ medium onion, sliced",
+        "½ large green onion (or 2-3 green onions), sliced",
+        "1–2 green chili peppers, sliced",
+        "2–3 sprigs chrysanthemum greens (ssukgat: 쑥갓), optional",
+        "1 tablespoon doenjang (Korean fermented soybean paste)",
+        "1 tablespoon soy sauce",
+        "2–3 tablespoons gochugaru (Korean hot pepper flakes)",
+        "1 tablespoon fish sauce",
+        "4 garlic cloves, minced",
+        "4 cups water"
+      ],
+      "instructions": [
+        "In a small bowl, combine the doenjang, soy sauce, gochugaru, fish sauce, and garlic. Mix well and set aside.",
+        "Add the radish and 4 cups of water to a pot. Cover and cook for 15 minutes over medium high heat, until the radish is slightly tender.",
+        "Add the whiting and the seasoning paste and gently stir.",
+        "Cover and cook for 15 minutes over medium-high heat.",
+        "If it starts to boil over, slightly open the lid to prevent it from boiling over.",
+        "Add the onion, green onion, and green chili pepper.",
+        "Cover and cook for another 5 minutes over medium heat.",
+        "Remove from the heat and add the chrysanthemum greens (if using). Serve right away with rice, kimchi, and a few side dishes for a comforting meal."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients:"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 2 to 3"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound cleaned whiting fish, cut into 2-inch pieces"
+        },
+        {
+          "tag": "li",
+          "text": "5–6 ounces Korean radish (mu), peeled and thinly sliced into bite-size pieces"
+        },
+        {
+          "tag": "li",
+          "text": "½ medium onion, sliced"
+        },
+        {
+          "tag": "li",
+          "text": "½ large green onion (or 2-3 green onions), sliced"
+        },
+        {
+          "tag": "li",
+          "text": "1–2 green chili peppers, sliced"
+        },
+        {
+          "tag": "li",
+          "text": "2–3 sprigs chrysanthemum greens (ssukgat: 쑥갓), optional"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon doenjang (Korean fermented soybean paste)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "2–3 tablespoons gochugaru (Korean hot pepper flakes)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon fish sauce"
+        },
+        {
+          "tag": "li",
+          "text": "4 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "4 cups water"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions:"
+        },
+        {
+          "tag": "li",
+          "text": "In a small bowl, combine the doenjang, soy sauce, gochugaru, fish sauce, and garlic. Mix well and set aside."
+        },
+        {
+          "tag": "li",
+          "text": "Add the radish and 4 cups of water to a pot. Cover and cook for 15 minutes over medium high heat, until the radish is slightly tender."
+        },
+        {
+          "tag": "li",
+          "text": "Add the whiting and the seasoning paste and gently stir."
+        },
+        {
+          "tag": "li",
+          "text": "Cover and cook for 15 minutes over medium-high heat."
+        },
+        {
+          "tag": "li",
+          "text": "If it starts to boil over, slightly open the lid to prevent it from boiling over."
+        },
+        {
+          "tag": "li",
+          "text": "Add the onion, green onion, and green chili pepper."
+        },
+        {
+          "tag": "li",
+          "text": "Cover and cook for another 5 minutes over medium heat."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and add the chrysanthemum greens (if using). Serve right away with rice, kimchi, and a few side dishes for a comforting meal."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [
+    "Kein Recipe-JSON-LD; sichtbare Rezeptkarte mit Originaltitel und sichtbarer Byline erfasst."
+  ],
+  "page_recipe_notes": []
+}

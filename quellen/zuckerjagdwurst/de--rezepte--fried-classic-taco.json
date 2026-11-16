@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/fried-classic-taco",
+  "recipes": [
+    {
+      "name": "Veganer Fried Classic Taco",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/fried-classic-taco",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/fried-classic-taco#recipe-5f11a20d-718c-56a0-bf24-abddaf7aeac5",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "6 weiche Tacos",
+        "Rapsöl fürs Frittieren",
+        "FÜR DIE FÜLLUNG",
+        "1 Packung veganes Sojahack",
+        "1 Handvoll veganer Streukäse",
+        "1 rote Zwiebel",
+        "1 Handvoll kleine Tomaten",
+        "1 Dose weiße Beans",
+        "1 Avocado",
+        "1 Limette",
+        "Koriander zum Garnieren",
+        "Öl",
+        "Sojasauce"
+      ],
+      "instructions": [
+        "Wir beginnen mit der Füllung. Schält die rote Zwiebel und würfelt sie fein. Avocado in Stücken schneiden, die weißen Bohnen abgießen und abspülen. Eure kleinen Tomaten waschen, halbieren, mit 1 EL der gewürfelten Zwiebel vermischen und mit Salz&Pfeffer abschmecken. Koriander grob hacken. Den veganen Käse schon mal bereitstellen.",
+        "Für das Hackfleisch erhitzt ihr etwas Öl in einer großen Pfanne und lasst darin das vegane Sojahack anbraten. Nach 2-3 Minuten gebt ihr einen Schuss Sojasauce dazu und lasst es danach noch weiter kross braten.",
+        "Die Füllung ist danach fertig, es geht ans Frittieren! Dafür erhitzt ihr euer Frittieröl in einem Topf. Die perfekte Frittiertemperatur liegt bei etwa 170°C.",
+        "Danach legt ihr eure Tacos jeweils einzeln in das Fett, am besten die eine Hälfte mit einer Zange festhalten und mit einem Löffel die andere Hälfte leicht herunterdrücken, damit sie schön frittieren kann. Danach die Hälften tauschen. Somit sollte euer Taco eine knusprige Schale werden.",
+        "Die Tacohälften auf einem Küchenpapier abfetten lassen und danach eure Füllung nacheinander hineinstapeln. Mit Koriander toppen und schon ist euer Fried Taco fertig."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

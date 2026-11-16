@@ -1,0 +1,38 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schinken-kaese-laugenstangen",
+  "recipes": [
+    {
+      "name": "Vegane Schinken-Käse-Laugenstangen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schinken-kaese-laugenstangen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schinken-kaese-laugenstangen#recipe-28c62339-6a68-595a-a1b7-b9daf62e700f",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Laugenstangen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "8 Tiefkühl-Laugenstangen",
+        "250 g veganer Streukäse",
+        "1 EL neutrales Pflanzenöl",
+        "100 g vegane Speckwürfel (oder Räuchertofu)",
+        "veganer Schmand (optional)",
+        "Schnittlauch zum Servieren (optional)"
+      ],
+      "instructions": [
+        "Die Tiefkühl-Laugenstangen auf einem oder zwei mit Backpapier ausgelegten Backblechen verteilen und antauen lassen, bis sie etwas weicher und formbar sind. Die Laugenstangen danach deutlich flacher und damit auch breiter drücken.",
+        "Den Backofen auf 200 °C (Umluft) vorheizen. Falls gewünscht, eine Schicht veganen Schmand auf den Stangen verstreichen. Danach zuerst vegane Speckwürfel auf den Stangen verteilen. Veganen Streukäse mit etwas Pflanzenöl vermengen und großzügig über den veganen Speck streuen.",
+        "Im Ofen bei 200 °C (Umluft) circa 15 Minuten backen, bis der vegane Käse geschmolzen und die Laugenstangen durchgebacken sind. Danach nach Wunsch mit fein gehacktem Schnittlauch bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

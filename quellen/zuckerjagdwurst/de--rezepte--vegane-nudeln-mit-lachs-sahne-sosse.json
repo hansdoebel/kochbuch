@@ -1,0 +1,65 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nudeln-mit-lachs-sahne-sosse",
+  "recipes": [
+    {
+      "name": "Vegane Nudeln mit „Lachs“-Sahne-Soße",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nudeln-mit-lachs-sahne-sosse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-nudeln-mit-lachs-sahne-sosse#recipe-6d319805-2c30-5411-8b77-968d12652921",
+      "authors": [
+        "Anneke Schügner"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für den „Lachs“:",
+        "200 g Tofu (ein großer Block)",
+        "300 ml Gurkenwasser (aus einem Glas Gewürzgurken)",
+        "1 Noriblatt",
+        "1 EL helle Misopaste",
+        "2 EL Sojasoße",
+        "1 TL Zwiebelpulver",
+        "1 TL Knoblauchpulver",
+        "2 EL Rote-Bete-Saft oder etwas rote Lebensmittelfarbe",
+        "Speisestärke",
+        "vegane Butter",
+        "Für die Soße:",
+        "30 g vegane Butter",
+        "1 EL Mehl",
+        "0.5 Noriblatt",
+        "0.5 EL helle Misopaste",
+        "1 EL Sojasoße",
+        "100 ml Gurkenwasser (aus einem Glas Gewürzgurken)",
+        "100 ml veganer Weißwein (z. B. Saxum Sauvignon Blanc von Delinat)",
+        "1.5 TL Gemüsebrühe",
+        "0.5 TL Zwiebelpulver",
+        "0.5 TL Knoblauchpulver",
+        "125 ml vegane Sahne",
+        "180 g vegane Crème fraîche",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "300 g Pasta",
+        "Petersilie zum Servieren"
+      ],
+      "instructions": [
+        "Den Tofublock halbieren und mit dem Messer Filets daraus formen. Die Filets an der Oberseite diagonal im Abstand von 1–2 mm tief einschneiden, um die Struktur von Lachs nachzuahmen.",
+        "Gurkenwasser, Noriblatt, Misopaste, Sojasoße, Zwiebelpulver, Knoblauchpulver in einen Standmixer geben und für einige Minuten gut mixen, bis das Noriblatt fein gestückelt ist. Rote-Bete-Saft hinzugeben, bis die Marinade hellrot ist.",
+        "Die Marinade in einen kleinen Topf geben und erhitzen. Die Lachsfilets hineinlegen und für circa 10 Minuten auf mittlerer Stufe köcheln. Dabei darauf achten, dass die Marinade auch zwischen die Einschnitte der Filets gelangt.",
+        "Die Filets aus dem Topf nehmen und etwas abtropfen lassen. Die Unterseite mit etwas Speisestärke bestreuen.",
+        "In einer Pfanne etwas vegane Butter erhitzen und die Filets darin von allen Seiten gut anbraten.",
+        "Pasta nach Packungsanweisung kochen. In der Zwischenzeit die Soße zubereiten. Dafür vegane Butter in einem Topf zerlassen und das Mehl hinzugeben. Noriblatt vierteln und zur veganen Butter geben. Zügig Miso und Sojasoße hinzufügen und mit Gurkenwasser und veganem Weißwein ablöschen. Gemüsebrühe, Zwiebelpulver, Knoblauchpulver, vegane Sahne und vegane Crème fraîche hinzufügen und für 10–15 Minuten bei kleiner Hitze köcheln. Mit Salz und Pfeffer würzen.",
+        "Die Soße mit der Pasta vermengen und mit „Lachs“ und Petersilie servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

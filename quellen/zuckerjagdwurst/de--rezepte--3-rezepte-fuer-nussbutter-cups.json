@@ -1,0 +1,38 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/3-rezepte-fuer-nussbutter-cups",
+  "recipes": [
+    {
+      "name": "Vegane Nussbutter Cups mit 3 Füllungen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/3-rezepte-fuer-nussbutter-cups",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/3-rezepte-fuer-nussbutter-cups#recipe-29b86898-3179-5125-af29-ed6e62efe044",
+      "authors": [
+        "Team"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "24 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT75M",
+      "ingredients": [
+        "Für die Zartbitter Schokoladencups mit Mandelmus (ergibt 8 Stück):",
+        "100 g Zartbitter Kuvertüre 50 g Mandelmus (z.B. von Sirplus) 10 g gemahlene Mandeln 15 g gesiebter Puderzucker",
+        "Für die weißen Schokoladencups mit Pistazienmus (ergibt 8 Stück): 100 g vegane weiße Schokolade 1 EL Kokosöl 50 g Pistazienmus (z.B. von Sirplus) 10 g gemahlene Pistazien 15 g gesiebter Puderzucker",
+        "Für die Vollmilch Schokoladencups mit Cashewmus (ergibt 8 Stück): 100 g vegane Vollmilchschokolade 1 EL Kokosöl 50 g Cashewmus (z.B. von Sirplus) 10 g gemahlene Cashewkerne 15 g gesiebter Puderzucker",
+        "Außerdem: Muffinförmchen aus Silikon"
+      ],
+      "instructions": [
+        "Je nach Sorte die Schokolade über einem Wasserbad schmelzen. Das Wasser sollte dabei nicht kochen. Wenn ihr normale Schokolade – keine Kuvertüre – verwendet, einen Esslöffel Kokosöl hinzugeben.",
+        "Einen Teelöffel Schokolade in ein Muffinförmchen geben und zum Aushärten circa 10 Minuten in das Gefrierfach stellen.",
+        "In der Zwischenzeit das Nussmus mit gemahlenen Nüssen und Puderzucker in einer Schüssel vermischen, sodass eine zähe Masse entsteht.",
+        "Nun einen Teelöffel Nussmasse in die Mitte eines Muffinförmchens geben. Die Füllung leicht andrücken, aber zum Rand noch ein paar Millimeter Platz lassen. Die Förmchen mit geschmolzener Schokolade auffüllen, sodass die Füllung bedeckt ist. Für mindestens eine Stunde kalt stellen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

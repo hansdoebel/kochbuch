@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-sommer-nudelsalat",
+  "recipes": [
+    {
+      "name": "Veganer Sommer-Nudelsalat mit Basilikum-Dressing",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-sommer-nudelsalat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-sommer-nudelsalat#recipe-bb3bad5a-f2f3-5ce8-b0c4-e1bc146ac18c",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "500 g Nudeln (z. B. Farfalle)",
+        "2 Kolben Zuckermais",
+        "1 Paprikaschote",
+        "1 Gurke",
+        "1 rote Zwiebel",
+        "1 Bund Radieschen",
+        "150 g Oliven ohne Stein",
+        "200 g Rucola",
+        "250 g Kirschtomaten",
+        "Pflanzenöl zum Braten",
+        "Für die Vinaigrette:",
+        "20 g Basilikum",
+        "4 EL Olivenöl",
+        "1.5 EL Apfelessig",
+        "2 TL Senf",
+        "1 TL Agavendicksaft",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Nudeln nach Packungsanleitung in gut gesalzenem Wasser kochen, anschließend abgießen und in einer großen Servierschüssel abkühlen lassen.",
+        "Während die Nudeln kochen, könnt ihr die restlichen Zutaten schon vorbereiten: Zuckermaiskörner vom Kolben schneiden (es ist gar kein Problem, dass sie nicht einzeln abgehen, sondern in größeren Stücken zusammenbleiben). Paprikaschote, Gurke und die rote Zwiebel fein würfeln, die Radieschen vierteln und die Oliven klein schneiden. Rucola grob hacken und die Kirschtomaten halbieren.",
+        "Etwas Pflanzenöl in einer Pfanne erhitzen und den Zuckermais und die Paprikawürfel ca. 5 Minuten über mittlerer Hitze anbraten. Zwiebelwürfel dazugeben und ca. 2 Minuten mitbraten, bis sie glasig werden. Die Pfanne vom Herd nehmen und die halbierten Tomaten dazugeben, so dass sie in der vorhandenen Wärme der Pfanne etwas weicher werden.",
+        "Für die Vinaigrette Basilikum, Olivenöl, Apfelessig, Senf und Agavendicksaft in ein hohes Standgefäß geben und mit einem Pürierstab zu einem grünen, glatten Dressing mixen. Wer keinen Pürierstab hat, kann den Basilikum auch fein hacken und so mit den anderen Zutaten verrühren. Das Dressing mit Salz und Pfeffer abschmecken.",
+        "Zum Servieren die gekochten Nudeln, das gebratene Gemüse, Gurke, Radieschen, Rucola und Oliven in einer großen Schüssel vermengen und mit der Vinaigrette vermengen. Erneut mit Salz und Pfeffer abschmecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

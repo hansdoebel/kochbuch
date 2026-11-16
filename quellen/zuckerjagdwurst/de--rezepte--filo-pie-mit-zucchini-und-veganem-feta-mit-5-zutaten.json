@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/filo-pie-mit-zucchini-und-veganem-feta-mit-5-zutaten",
+  "recipes": [
+    {
+      "name": "Veganer Filo-Pie (mit 5 Zutaten)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/filo-pie-mit-zucchini-und-veganem-feta-mit-5-zutaten",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/filo-pie-mit-zucchini-und-veganem-feta-mit-5-zutaten#recipe-4015ac0c-e2e0-5f90-97a9-3771fceb7560",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Springform (⌀ 23 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "1 kg Zucchini",
+        "3 rote Zwiebeln",
+        "1-2 EL Ras el Hanout",
+        "300 g veganer Feta (auf Mandelbasis)",
+        "ca. 5 Blätter Filoteig",
+        "Salz",
+        "Pfeffer",
+        "Olivenöl zum Braten und Bestreichen"
+      ],
+      "instructions": [
+        "Zucchini waschen, grob reiben und etwas salzen. Danach ca. 10 Minuten stehen lassen, damit der Zucchini Wasser entzogen wird.",
+        "In der Zwischenzeit rote Zwiebeln schälen, halbieren und in Scheiben schneiden. Die Zwiebeln in einer Pfanne mit etwas Olivenöl bei kleiner Hitze anbraten, bis sie glasig sind, aber noch Biss haben. Anschließend salzen.",
+        "Das ausgetretene Wasser der Zucchini abgießen und die geriebene Zucchini in ein sauberes Küchentuch wickeln. Anschließend auspressen, damit sie soviel Flüssigkeit wie möglich verliert.",
+        "Die ausgepresste Zucchini und angeschwitzten Zwiebeln in eine Schüssel geben und mit Ras el Hanout würzen. Veganen Feta mit den Händen zerbröseln und dazugeben. Alles vermengen und kräftig mit Salz und Pfeffer würzen.",
+        "Den Backofen auf 200°C (Umluft) vorheizen und eine Springform mit Olivenöl einfetten. Die Filoteigblätter jeweils mit Öl bestreichen und nacheinander und leicht versetzt in die Form legen, sodass die komplette Form ausgefüllt ist, und immer etwas Teig über den Rand der Springform hängt.",
+        "Die Zucchini-Füllung in die Form geben und glatt streichen. Danach den Überhang des Filoteigs über den Rand der Füllung legen und dabei mit den Händen zusammenkräuseln.",
+        "Den Filo-Pie bei 200°C (Umluft) ca. 20 Minuten backen. Vor dem Anschneiden kurz abkühlen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

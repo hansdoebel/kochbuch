@@ -1,0 +1,41 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/filipino-eggplant-omelet",
+  "recipes": [
+    {
+      "name": "Filipino Eggplant Omelet",
+      "source_url": "https://app.cookwell.com/recipe/filipino-eggplant-omelet",
+      "recipe_id": "https://app.cookwell.com/recipe/filipino-eggplant-omelet",
+      "authors": [
+        "Cook Well Official"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 omelet",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Asian eggplants, 1",
+        "Eggs, 2",
+        "Salt, a sprinkle",
+        "Black Pepper, a sprinkle",
+        "Cooking oil, a drizzle",
+        "Rice",
+        "Ketchup",
+        "Scallions"
+      ],
+      "instructions": [
+        "Poke each eggplant with a fork several times to vent the skin. On a grill, gas flame, or under a broiler, roast the eggplants aggressively. Continue roasting and rotating the eggplants until the skins are completely charred and blackened, and the insides are very soft. Allow the eggplants to cool some, and then use a fork to gently peel off the charred skin. Small bits of skin left are ok.",
+        "Crack the eggs into a bowl and beat them together with salt & pepper. Transfer the egg mixture to a flat plate. Get a nonstick pan and gently preheat the stove with a drizzle of cooking oil.",
+        "Add the cooked eggplant to the egg mixture on the plate. Using a fork, gently smoosh the eggplant meat until it has completely flattened. Keep the eggplant intact, however. The flattened meat should have a wide, bulbous shape, and pick up a lot of the egg mixture. Transfer the flattened eggplant by the stem to the hot pan, making sure to lay it flat.",
+        "Once the eggplant omelet has cooked on one side (browning is ok), flip until the other side is cooked too. Repeat steps 3 and 4 with any remaining eggplants for extra servings. Serve and enjoy with warm rice and ketchup. By the way, these can be stuffed with ground pork and seasoned with oyster and soy sauce for a more savory, filling version."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

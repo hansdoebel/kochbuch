@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kartoffelsalat-mit-linsen-senf-dill-sosse",
+  "recipes": [
+    {
+      "name": "Veganer Kartoffelsalat mit Linsen & Senf-Dill-Soße",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kartoffelsalat-mit-linsen-senf-dill-sosse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kartoffelsalat-mit-linsen-senf-dill-sosse#recipe-7c68813c-ebb7-5a77-990c-412b885a4907",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8–12 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "1 kg festkochende Kartoffeln",
+        "200 g Tellerlinsen",
+        "1 rote Zwiebeln",
+        "1 Gurke",
+        "1 Bund Radieschen",
+        "100 g Sonnenblumenkerne",
+        "500 g IKEA HUVUDROLL Proteinbällchen",
+        "150 g veganer Feta",
+        "25 g Schnittlauch",
+        "25 g Dill",
+        "380 ml IKEA SÅS SENAP & DILL Soße",
+        "Olivenöl",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Den Backofen auf 200 °C (Umluft) vorheizen. Die Kartoffeln gründlich waschen, in Spalten schneiden und auf einem Backblech verteilen. Mit Olivenöl beträufeln und mit Salz und Pfeffer würzen. Die Kartoffeln bei 200 °C (Umluft) für 30 Minuten backen, bis sie gar, gebräunt und leicht knusprig sind.",
+        "Die Tellerlinsen nach Packungsanleitung zubereiten, bis sie gar sind. Rote Zwiebel fein würfeln, Gurke halbieren und in Scheiben schneiden und Radieschen ebenfalls in Scheiben schneiden. Sonnenblumenkerne in einer Pfanne ohne Öl rösten, bis sie leicht gebräunt sind.",
+        "Die veganen Fleischbällchen nach Packungsanleitung zubereiten, den veganen Feta zerbröseln und die Kräuter fein hacken. Alle Zutaten in einer großen Schüssel miteinander vermischen und mit den Kräutern und dem veganen Feta toppen. Mit der Soße vermischen und servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

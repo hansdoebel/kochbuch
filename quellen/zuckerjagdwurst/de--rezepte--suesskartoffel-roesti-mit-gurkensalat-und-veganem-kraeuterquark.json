@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/suesskartoffel-roesti-mit-gurkensalat-und-veganem-kraeuterquark",
+  "recipes": [
+    {
+      "name": "Vegane Süßkartoffel-Rösti mit Zitrone-Kräuter-Quark und Gurkensalat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/suesskartoffel-roesti-mit-gurkensalat-und-veganem-kraeuterquark",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/suesskartoffel-roesti-mit-gurkensalat-und-veganem-kraeuterquark#recipe-c9f781e9-fe80-58e3-8d45-2fbf64f4d784",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 großer Rösti (Pfannendurchmesser: 26 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für den Rösti:",
+        "600 g Süßkartoffeln",
+        "200 g Kartoffeln",
+        "50 g (glutenfreies) Mehl",
+        "2 EL Sojamehl",
+        "4 EL Wasser",
+        "Salz",
+        "Pfeffer",
+        "Für den veganen Zitrone-Kräuter-Quark:",
+        "400 g veganer Quark",
+        "1 kleine rote Zwiebel",
+        "15 g Kräuter nach Wahl (z. B.Dill, Schnittlauch, Petersilie)",
+        "0.5 Zitrone (Saft und Abrieb)",
+        "Salz",
+        "Pfeffer",
+        "Für den Gurkensalat:",
+        "1 Gurke",
+        "1 rote Zwiebel",
+        "1 EL Kräuteressig",
+        "1 EL Olivenöl",
+        "1 EL pflanzliche Sahne",
+        "5 g Dill",
+        "Salz",
+        "Pfeffer",
+        "Zucker"
+      ],
+      "instructions": [
+        "Für den Rösti Süßkartoffeln und Kartoffeln schälen, grob reiben, in eine große Schüssel geben und mit Salz würzen. Ca. 10 Minuten stehen lassen, so dass Flüssigkeit aus den Kartoffeln kommt. Die Flüssigkeit abgießen und die Kartoffelmasse zusätzlich ausdrücken, damit sie noch mehr Flüssigkeit verliert.",
+        "Mehl zu den geriebenen Kartoffeln geben, mit Salz und Pfeffer würzen und gut vermengen. In einer zweiten kleinen Schüssel Sojamehl und Wasser anrühren und ebenfalls zur Kartoffelmischung geben und untermengen.",
+        "Pflanzenöl in einer großen, gut beschichteten Pfanne erhitzen. Entweder die Hälfte der Kartoffelmischung oder die gesamte Menge in die Pfanne geben und leicht andrücken. Nun heißt es geduldig sein. Bei mittlerer Hitze den Rösti ca. 15-20 Minuten braten, bis er von unten gebräunt ist und die Kartoffeln schon durchgegart sind. Er sollte sich in der Pfanne bewegen lassen, wenn ihr sie leicht schwenkt.",
+        "Anschließend einen großen, leicht eingefetteten Teller auf die Pfanne legen. Die Pfanne mit Schwung drehen, so dass der Rösti auf dem Teller landet. Die Pfanne vorsichtig abnehmen, wieder auf den Herd stellen und erneut etwas Öl hineingeben. Den Rösti ebenfalls vorsichtig vom großen Teller zurück in die Pfanne geben und nun von der zweiten Seite anbraten, bis er gebräunt ist.",
+        "Während der Rösti in der Pfanne ist, Kräuterquark und Gurkensalat vorbereiten. Für den veganen Kräuterquark zunächst veganen Quark in eine Schüssel geben. Die rote Zwiebel schälen und fein würfeln. Die frischen Kräuter fein hacken. Beides zum veganen Quark geben und verrühren. Mit Salz, Pfeffer, Zitronensaft und -abrieb abschmecken. Danach bis zum Servieren in den Kühlschrank stellen.",
+        "Für den Gurkensalat die Gurke klein schneiden, die Zwiebel in dünne Scheiben schneiden und den Dill hacken. Alles zusammen mit Kräuteressig, Olivenöl und pflanzlicher Sahne in eine Schüssel geben. Mit Salz, Pfeffer und Zucker abschmecken und gut vermengen. Ebenfalls in den Kühlschrank stellen, bis der Rösti fertig ist.",
+        "Den Rösti zum Servieren auf einen großen Teller geben und mit dem veganen Zitronen-Kräuter-Quark und Gurkensalat toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

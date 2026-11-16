@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-birnen-ingwer-kuchen",
+  "recipes": [
+    {
+      "name": "Veganer Birnen-Ingwer-Kuchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-birnen-ingwer-kuchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-birnen-ingwer-kuchen#recipe-171073ee-ee51-5759-919d-d8830870a052",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (35 x 11 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "180 g Weizen-Vollkornmehl",
+        "120 g Zucker",
+        "110 g Speisestärke",
+        "6 g (1 TL) Backpulver",
+        "2 TL Ingwerpulver",
+        "1 Prise Muskat",
+        "2 TL Zimt",
+        "160 g vegane Butter",
+        "150 g Apfelmus",
+        "50 ml Ingwer Shot (z. B. von Voelkel)",
+        "1 TL frisch geriebener Ingwer",
+        "2 Birnen",
+        "50 g Ingwer-Marmelade",
+        "vegane Butter zum Einfetten"
+      ],
+      "instructions": [
+        "In einer großen Schüssel Weizen-Vollkornmehl, Zucker, Speisestärke, Backpulver, Ingwerpulver, Muskat und Zimt vermischen.",
+        "Nun vegane Butter, Apfelmus und den Ingwer Shot hinzugeben und zu einem homogenen Teig mixen. Die Ingwerknolle mit einem Teelöffel schälen und mit einer Reibe zum Teig geben.",
+        "Eine Tarteform (35 x 11 x 2.7 cm) mit veganer Butter einfetten und den Teig darin gleichmäßig verstreichen. Den Ofen auf 190°C (Umluft) vorheizen.",
+        "Während der Ofen vorheizt, die Birnen vierteln, entkernen und in feine Scheiben schneiden. Die Scheiben aufgefächert auf dem Teig anordnen.",
+        "Den Kuchen bei 190°C für etwa 30 Minuten backen. Im Anschluss 10 Minuten abkühlen lassen und mit Ingwer-Marmelade bestreichen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.recipetineats.com/roasted-asparagus/",
+  "recipes": [
+    {
+      "name": "Roasted Asparagus",
+      "source_url": "https://www.recipetineats.com/roasted-asparagus/",
+      "recipe_id": "https://www.recipetineats.com/roasted-asparagus/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "3",
+        "3 - 4 as a side"
+      ],
+      "prep_time": "PT5M",
+      "cook_time": "PT7M",
+      "total_time": null,
+      "ingredients": [
+        "500g/1 lb asparagus ((3 standard Australian bunches))",
+        "1 1/2 tbsp extra virgin olive oil",
+        "1/4 tsp each salt and pepper",
+        "1 garlic clove (, finely minced (knife or garlic press))",
+        "2 tbsp lemon juice",
+        "2 tbsp parmesan (, freshly grated)"
+      ],
+      "instructions": [
+        "Preheat oven to 220°C/430°F (200°C fan).",
+        "Snap the woody ends off the asparagus - it will naturally break at the right point.",
+        "Pile onto tray. Drizzle with oil, sprinkle with salt, pepper and garlic. Toss, then spread out on tray.",
+        "Roast 7 minutes, or until ends have a bit of colour on them and the asparagus is just cooked through. It will take 10 - 12 minutes for very thick ones. Don't let them get wrinkly and sad!",
+        "Remove from oven.",
+        "Toss with lemon juice, if using. Pile onto serving platter, grate over optional parmesan. Serve!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: Nutrition per serving, assuming this serves 4 as a side."
+  ]
+}

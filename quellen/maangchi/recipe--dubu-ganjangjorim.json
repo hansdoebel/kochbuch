@@ -1,0 +1,112 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/dubu-ganjangjorim",
+  "recipes": [
+    {
+      "name": "Pan fried tofu in soy sauce (Dubu-ganjangjorim)",
+      "source_url": "https://www.maangchi.com/recipe/dubu-ganjangjorim",
+      "recipe_id": "/recipe/dubu-ganjangjorim#sso/recipe/30145",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "half package of tofu (about 7 oz: 200 grams)",
+        "garlic",
+        "soy sauce",
+        "corn syrup (mulyeot)",
+        "black sesame seeds"
+      ],
+      "instructions": [
+        "Slice the tofu into 10 bite size pieces (¼ inch thick rectangles). Towel off each piece with a paper towel.",
+        "Heat a pan and add 1 to 2 tbs of vegetable oil.",
+        "Add the tofu and lower the heat. Cook over low heat for about 5 to 7 minutes until the bottoms of the tofu pieces turn golden brown.",
+        "Turn over each piece and cook another 5 minutes.",
+        "Add 1 clove minced garlic, 1 tbs soy sauce, 1 tbs corn syrup and stir, to caramelize the tofu.",
+        "Turn the heat off and transfer the cooked tofu to a serving plate.",
+        "Sprinkle some roasted black sesame seeds over top before serving.",
+        "Serve with rice as a side dish, or in a Korean lunchbox."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "half package of tofu (about 7 oz: 200 grams)"
+        },
+        {
+          "tag": "li",
+          "text": "garlic"
+        },
+        {
+          "tag": "li",
+          "text": "soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "corn syrup (mulyeot)"
+        },
+        {
+          "tag": "li",
+          "text": "black sesame seeds"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Slice the tofu into 10 bite size pieces (¼ inch thick rectangles). Towel off each piece with a paper towel."
+        },
+        {
+          "tag": "li",
+          "text": "Heat a pan and add 1 to 2 tbs of vegetable oil."
+        },
+        {
+          "tag": "li",
+          "text": "Add the tofu and lower the heat. Cook over low heat for about 5 to 7 minutes until the bottoms of the tofu pieces turn golden brown."
+        },
+        {
+          "tag": "li",
+          "text": "Turn over each piece and cook another 5 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Add 1 clove minced garlic, 1 tbs soy sauce, 1 tbs corn syrup and stir, to caramelize the tofu."
+        },
+        {
+          "tag": "li",
+          "text": "Turn the heat off and transfer the cooked tofu to a serving plate."
+        },
+        {
+          "tag": "li",
+          "text": "Sprinkle some roasted black sesame seeds over top before serving."
+        },
+        {
+          "tag": "li",
+          "text": "Serve with rice as a side dish, or in a Korean lunchbox."
+        },
+        {
+          "tag": "p",
+          "text": "Let’s review your Korean cooking skill by making dosirak (lunchbox) with this. In this case I also prepared a spinach side dish (shigumchi namul) and a breaded fish pancake (using my cod jeon recipe) to go with the dubu-ganjangjorim."
+        },
+        {
+          "tag": "p",
+          "text": "This dosirak is not only a healthy, well balanced meal, but also colorful and delicious! Try it out!"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

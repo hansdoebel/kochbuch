@@ -1,0 +1,43 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/spicy-chicken-and-brussels-caesar-wrap",
+  "recipes": [
+    {
+      "name": "Spicy Caesar Salad Chicken Wrap",
+      "source_url": "https://app.cookwell.com/recipe/spicy-chicken-and-brussels-caesar-wrap",
+      "recipe_id": "https://app.cookwell.com/recipe/spicy-chicken-and-brussels-caesar-wrap",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4-6 wraps",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "Brussels Sprouts, 10-12",
+        "Carrots, 1",
+        "Red Onions, 1/2",
+        "Mayonnaise, 60 g",
+        "Greek Yogurt, 30 g",
+        "Anchovies, 10 g",
+        "Calabrian chilies, 5 g",
+        "Garlic, 1 clove",
+        "Lemon juice, 1/2 lemon",
+        "Spinach wrap, 4-6",
+        "Chicken Breasts, 2-3"
+      ],
+      "instructions": [
+        "Thinly slice the brussel sprouts and toss to separate them into individual strands. Add them to a bowl along with the grated carrot and thinly sliced onion. Mix all dressing ingredients. Taste and adjust as needed. Combine with the slaw ingredients and toss until well coated. Set aside.",
+        "If you don’t have cooked chicken breast, prep and sear or grill some now. This recipe works with cold, leftover chicken breast. Slice the breast into thin strips. Gather your wraps. If they aren’t fresh and pliable, warm them up lightly so they don’t tear when assembling.",
+        "Add a portion of sliced chicken and the slaw to each wrap. Tightly roll up. If prepping these for later, cover in foil or parchment paper and store in the fridge. These can be enjoyed cold."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

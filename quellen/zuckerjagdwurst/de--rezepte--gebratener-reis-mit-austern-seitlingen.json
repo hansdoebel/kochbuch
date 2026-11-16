@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gebratener-reis-mit-austern-seitlingen",
+  "recipes": [
+    {
+      "name": "Gebratener Reis mit Austern-Seitlingen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gebratener-reis-mit-austern-seitlingen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gebratener-reis-mit-austern-seitlingen#recipe-0ea30852-a5b7-52f0-addc-7ce41af35ff4",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "200 g gekochter Reis",
+        "0.5 TL Rohrohrzucker",
+        "1 Knoblauchzehe",
+        "1 Zwiebel",
+        "15 g Ingwer",
+        "1 Möhre",
+        "2 Frühlingszwiebeln",
+        "50 g Erbsen (tiefgefroren)",
+        "150 g Austernseitlinge",
+        "25 g Sojasprossen",
+        "10 g Spinat",
+        "1 EL Sojasauce",
+        "2 EL Mirin",
+        "Salz",
+        "Pfeffer",
+        "Pflanzenöl zum Braten",
+        "Sesamöl zum Servieren"
+      ],
+      "instructions": [
+        "Möhre und Zwiebel in kleine Würfel schneiden. Ingwer und Knoblauch fein hacken, Frühlingszwiebeln in feine Ringe und Austernseitlings in mundgerechte Stücke schneiden.",
+        "Pflanzenöl in einer großen Pfanne über mittlerer Hitze erhitzen und Knoblauch und Ingwer ca. 2 Min. anschwitzen. Den gekochten Reis dazugeben und gut schwenken, damit jedes Korn mit Öl ummantelt ist. Mit etwas Rohrzucker bestreuen und ca. 5 Minuten braten. Sojasauce und Mirin dazugeben und weiterbraten, bis der Reis schon fast knusprig ist.",
+        "Parallel in einer zweiten Pfanne ebenfalls etwas Pflanzenöl erhitzen. Zunächst Zwiebeln ca. 2 - 3 Minuten glasig braten. Danach Möhre, Austernseitlinge und Sojasprossen dazugeben und ca. 8 Minuten anbraten. Danach tiefgekühlte Erbsen, frischen Spinat und ca. zwei Drittel der Frühlingszwiebeln dazugeben und ca. 5 Minuten weiter anbraten. Mit Salz und Pfeffer abschmecken.",
+        "Gebratenen Reis und Gemüse vermengen, nochmal mit Salz und Pfeffer abschmecken und zum Schluss restliche Frühlingszwiebeln darüberstreuen und mit Sesamöl beträufeln."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

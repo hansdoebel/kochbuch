@@ -1,0 +1,64 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-baerlauchknoedel-mit-lauch-sahne-sauce",
+  "recipes": [
+    {
+      "name": "Vegane Bärlauchknödel mit Lauch-Sahne-Sauce",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-baerlauchknoedel-mit-lauch-sahne-sauce",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-baerlauchknoedel-mit-lauch-sahne-sauce#recipe-3b9a15e9-7cf0-5677-834d-338eb3c3cb05",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Bärlauchknödel:",
+        "4 (etwa 275 g) helle Brötchen vom Vortag",
+        "75 g Bärlauch",
+        "1 Zwiebel",
+        "3 EL vegane Butter",
+        "30 g Sojamehl",
+        "100 ml pflanzliche Milch",
+        "50-100 ml Wasser",
+        "vegane Butter zum Braten",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "Für die Lauch-Sahne-Sauce:",
+        "1 Zwiebel",
+        "100 g Lauch",
+        "2 EL vegane Butter",
+        "1 EL Weizenmehl",
+        "50 ml veganer Weißwein",
+        "200 ml ungesüßte pflanzliche Sahne",
+        "1 EL Agavendicksaft (optional)",
+        "Salz",
+        "Pfeffer",
+        "Für die gebratenen Pilze:",
+        "150 g Champignons",
+        "vegane Butter zum Braten",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Brötchen vom Vortag in kleine Stücke schneiden. Bärlauch waschen, die härteren Stiele entfernen und die Blätter fein hacken. Zwiebel schälen und fein würfeln.",
+        "Vegane Butter in einer Pfanne erhitzen und die Zwiebelwürfel darin anschwitzen, bis sie glasig sind.",
+        "Sojamehl und pflanzliche Milch in einer großen Schüssel verrühren. Brotstücke, angeschwitzte Zwiebelwürfel und Bärlauch dazugeben. Die Mischung kräftig mit Salz, Pfeffer und Muskat würzen und zu einer Knödelmasse kneten. Ca. 10 Minuten ruhen lassen, danach sechs Knödel aus der Masse formen und nochmals ca. 5 Minuten ruhen lassen.",
+        "In der Zwischezeit die Sauce vorbereiten. Dafür die Zwiebel schälen und fein würfeln. Die äußere Schicht des Lauchs entfernen, den Lauch waschen und in feine Ringe schneiden.",
+        "Vegane Butter in einem kleinen Topf schmelzen lassen und Zwiebeln und Lauch darin anbraten, bis die Zwiebel glasig ist. Mit Mehl bestäuben und ca. 1 Minute weiter erhitzen, bis das Mehl etwas dunkler wird. Mit veganem Weißwein ablöschen und pflanzliche Sahne dazugeben. Wer es etwas süßer mag, kann etwas Agavendicksaft dazugeben. Die Sauce mit Salz und Pfeffer abschmecken. Bis zum Servieren warm halten.",
+        "Zurück zu den Bärlauchknödeln. Vegane Butter zum Braten in einer großen Pfanne erhitzen und die Knödel darin ca. 15 Minuten unter geschlossenem Deckel anbraten. Die Knödel dabei immer wieder drehen, sodass alle Seiten knusprig werden. Nach ca. 5 Minuten etwas Wasser (50-100 ml) hinzugeben und den Deckel sofort wieder auf die Pfanne legen, damit die Knödel dämpfen.",
+        "Für die gebratenen Pilze als Beilage Champignons säubern, die Stiele kürzen und die Pilze vierteln. Vegane Butter in einer weiteren Pfanne schmelzen lassen und die Champignons bei mittlerer Hitze anbraten, bis sie gut gebräunt sind. Mit Salz und Pfeffer würzen.",
+        "Die Bärlauchknödel mit Lauch-Sahne-Sauce und den gebratenen Champignons servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-chicken-und-waffles",
+  "recipes": [
+    {
+      "name": "Veganes „Chicken & Waffles“",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-chicken-und-waffles",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-chicken-und-waffles#recipe-1cca48b1-fb3b-5ce9-8794-5395efb29117",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 - 8 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "FÜR DEN WAFFELTEIG",
+        "200 g Mehl",
+        "200 ml pflanzliche Milch",
+        "3 EL Zucker",
+        "50 ml Sprudelwasser",
+        "1 Prise Salz",
+        "1 Päckchen Backpulver",
+        "1 TL Vanillearoma",
+        "3 EL neutrales Öl",
+        "1 TL Zitronenabrieb",
+        "FÜR DAS CHICKEN",
+        "12 Soja-Medaillons",
+        "1 Liter Gemüsebrühe",
+        "Salz&Pfeffer",
+        "Paprika",
+        "ZUM PANIEREN UND FRITTIEREN",
+        "100 g Mehl",
+        "100 g Semmelbrösel",
+        "3 EL Sojamehl",
+        "8 EL Wasser",
+        "1 Liter pflanzliches Öl",
+        "TOPPING",
+        "vegane Schlagsahne",
+        "scharfe Sauce, z.B. Sriracha"
+      ],
+      "instructions": [
+        "Soja-Medaillons in einen Topf oder eine große hitzefeste Schüssel geben und heiße Gemüsebrühe hinzugeben, bis alles bedeckt ist. Die Medaillons etwa 10 Minuten in der Brühe aufquellen lassen. Danach Wasser abgießen und die Sojamedaillons kräftig ausdrücken. Von beiden Seiten mit Salz, Pfeffer und Paprika würzen.",
+        "Drei tiefe Teller vorbereiten. In den ersten Teller Mehl und in den zweiten Semmelbrösel geben. Im dritten Sojamehl mit Wasser verrühren.",
+        "Je nach Größe eurer Medaillons kann es auch sein, dass ihr später noch etwas der Panierzutaten nachfüllen müsst. Die Medaillons zuerst im Mehl, dann in der Sojamehl-Wasser-Mischung und danach in den Semmelbröseln wälzen. Nun nochmals ab in die Sojamehl-Wasser-Mischung und ein letztes Mal in die Semmelbrösel geben. Doppelt paniert knuspert besser.",
+        "In einem mittelgroßen Topf pflanzliches Öl auf 180 Grad erhitzen. Nach und nach die panierten Soja-Medaillons frittieren. Bleibt vorsichtig und sorgfältig und frittiert ruhig immer nur 2-3 Medaillons gleichzeitig. Danach auf einem Teller mit Küchenpapier leicht abfetten lassen,",
+        "Für die Waffeln alle Zutaten in einer großen Schüssel sorgfältig miteinander verrühren. Am besten zuerst alle trockenen Zutaten verrühren und danach alle flüssigen Zutaten nach und nach hinzufügen.",
+        "Das Waffeleisen vorheizen und mit einem Pinsel neutrales Öl darauf verteilen.",
+        "Je eine kleine Kelle des Teigs in eine Waffelform geben, danach das Waffeleisen herunterdrücken und warten, bis eure Waffel von beiden Seiten goldbraun ist. Wiederholen, bis der Teig komplett aufgebraucht ist.",
+        "Serviert Waffeln und Chicken zusammen mit veganer Schlagsahne und scharfer Sauce."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

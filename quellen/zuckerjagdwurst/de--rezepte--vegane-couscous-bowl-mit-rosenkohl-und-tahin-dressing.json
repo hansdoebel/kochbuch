@@ -1,0 +1,87 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-couscous-bowl-mit-rosenkohl-und-tahin-dressing",
+  "recipes": [
+    {
+      "name": "Vegane Couscous-Bowl mit Rosenkohl & Tahin-Dressing",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-couscous-bowl-mit-rosenkohl-und-tahin-dressing",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-couscous-bowl-mit-rosenkohl-und-tahin-dressing#recipe-cc6bd896-418f-56fd-a2d0-d80ecd103038",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Bowls",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "FÜR DIE BOWL",
+        "3 lila Karotten (oder ganz normale)",
+        "1/4 Butternut Kürbis",
+        "Prise Muskatnuss",
+        "3 EL Olivenöl",
+        "1 Avocado",
+        "1/2 Tasse Couscous",
+        "1 Limette",
+        "4 Pilze",
+        "1 Apfel",
+        "100g Rosenkohl",
+        "2 EL Olivenöl",
+        "Salz+Pfeffer",
+        "ZUSÄTZLICH",
+        "1 Portion Tahin-Joghurt-Dressing (Rezept auf dem Blog)",
+        "1 EL heller Sesam"
+      ],
+      "instructions": [
+        "Den Butternut Kürbis gut waschen, danach in grobe Stücken schneiden und auf ein Bachblech mit Backpapier legen. 3 EL Olivenöl über dem Kürbis verteilen und mit Muskatnuss, Salz & Pfeffer würzen. Alles mit den Händen gut einmassieren und für 40 Minuten bei 190°C backen.",
+        "Den Rosenkohl waschen, etwas vom Stiel abschneiden und die unschönen Blätter außen entfernen. Rosenkohl Röschen halbieren, auf ein Backblech mit Backpapier geben und mit 2 Öl Olivenöl beträufeln. Gut salzen & pfeffern und verteilen.",
+        "Nach 20 Minuten den Rosenkohl mit in den Ofen geben und ebenfalls backen. Der Rosenkohl braucht ca. 20 Minuten Backzeit.",
+        "Die Karotten schälen und längs vierteln.",
+        "Die Pilze mit einem feuchten Tuch säubern und halbieren.",
+        "Den Apfel waschen und in Scheiben schneiden.",
+        "Den Couscous in eine mittelgroße Schüssel geben und mit der doppelten Menge kochendem Wasser übergießen. Etwas Salz hinzugeben und ziehen lassen, bis der Couscous das Wasser aufgenommen hat. Sobald der Couscous fertig ist, eine halbe Limette ausdrücken und unterrühren.",
+        "Die Avocado halbieren, den Stein herausnehmen und die beiden Hälften mit einem Messer in Scheiben schneiden. Mit Hilfe eines Löffels das Avocadofleisch herausnehmen.",
+        "Nun alles anrichten, mit dem Dressing übergießen und mit Sesam garnieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Veganes Tahin-Dressing",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-couscous-bowl-mit-rosenkohl-und-tahin-dressing",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-couscous-bowl-mit-rosenkohl-und-tahin-dressing#recipe-9a7228b3-1f71-5eac-b8af-41bf4ca0157f",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "125 ml Tahin (Sesampaste)",
+        "0.5 Zitrone",
+        "1 TL Sojasauce",
+        "2 EL Olivenöl",
+        "1 EL Sesamöl (ich habe geörstetes Sesamöl genommen)",
+        "2-3 EL Agavendicksaft",
+        "50-100 ml Wasser",
+        "3 EL pflanzlicher Joghurt"
+      ],
+      "instructions": [
+        "Den Saft einer halben Zitrone ausdrücken.",
+        "Nun alle Zutaten in ein hohes Gefäß geben, bis auf den Zitronensaft, das Wasser & den Joghurt. Mit einem Pürierstab mixen.",
+        "Anschließend mit dem Wasser nach und nach verdünnen, bis ihr eine schöne Konsistenz erreicht. Das Tahin-Dressing sollte leicht über euer Essen gießbar sein.",
+        "Nun mit Zitronensaft nach und nach abschmecken und den Joghurt unterrühren. Nochmals abschmecken und gegebenfalls mit mehr Agavendicksaft (für die Süße), Sojasauce (für das Salzige) oder Zitronensaft (für mehr Säure) abschmecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

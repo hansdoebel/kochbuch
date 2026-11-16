@@ -1,0 +1,53 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/southwest-chicken-grain-bowl",
+  "recipes": [
+    {
+      "name": "Southwest Chicken Grain Bowl",
+      "source_url": "https://app.cookwell.com/recipe/southwest-chicken-grain-bowl",
+      "recipe_id": "https://app.cookwell.com/recipe/southwest-chicken-grain-bowl",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Chicken Breasts, 1/2",
+        "Salt, a sprinkle",
+        "Chili Powder, a sprinkle",
+        "Cumin, a sprinkle",
+        "Cooking oil, as needed",
+        "Yogurt, 40 g",
+        "Mayonnaise, 40 g",
+        "Hot Sauce, a squeeze",
+        "Onion Powder, a sprinkle",
+        "Garlic Powder, a sprinkle",
+        "Mexican oregano, a sprinkle",
+        "Corn, 50 g",
+        "Queso Fresco, a spoonful",
+        "Ground coriander, a sprinkle",
+        "Brown Rice, 200 g",
+        "Black Beans, 50 g",
+        "Avocados, 1/2",
+        "Bell peppers, 1/4",
+        "Lime juice, to taste"
+      ],
+      "instructions": [
+        "Start the brown rice, if using — cook using your preferred method. While that goes, gather and prep the remaining ingredients.",
+        "Thin out the chicken breast to an even, flat size by butterflying it with a knife (cutting it open like a book). Season evenly with salt on all sides, then generously cover all sides with a generous coating of the spices. Preheat a pan or griddle over high heat. Once smoking, add enough oil to coat the cooking surface. Add the chicken to the pan, then allow to sear undisturbed for a few minutes to develop a deeply browned crust. Flip to sear the other side. Remove from the heat once the bottom has also developed a crust and the internal temperature of the breast reaches 155°F/68°C. Set aside.",
+        "If using frozen corn, microwave the kernels to warm them up. Mix together with coriander and crumbled queso fresco. Taste and adjust as needed. Set aside.",
+        "Mix together the yogurt, mayonnaise, hot sauce, garlic powder, onion powder, and oregano until smooth. Taste and adjust as needed.",
+        "Add a layer of cooked rice to the bottom of a bowl. Season with a squeeze of lime juice. Slice and add the chicken to the center of the bowl. Surround with the remaining toppings: avocado, black beans, bell pepper, corn elote mix, and then a few dollops of sauce."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

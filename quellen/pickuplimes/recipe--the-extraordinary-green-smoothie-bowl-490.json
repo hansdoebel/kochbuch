@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/the-extraordinary-green-smoothie-bowl-490",
+  "recipes": [
+    {
+      "name": "The Extraordinary Green Smoothie Bowl",
+      "source_url": "https://www.pickuplimes.com/recipe/the-extraordinary-green-smoothie-bowl-490",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT07M",
+      "cook_time": "",
+      "total_time": "PT07M",
+      "ingredients": [
+        "2 cup spinach",
+        "1 cup frozen pineapple chunks",
+        "¾ cup unsweetened soy milk",
+        "½ cup frozen cucumber slices",
+        "½ avocado",
+        "2 Tbsp almond butter",
+        "1 Tbsp maple syrup",
+        "1 Tbsp pure vanilla extract"
+      ],
+      "instructions": [
+        "Add all of the smoothie ingredients to a blender.",
+        "Blend on high until everything smooth.",
+        "Pour into bowls and add desired toppings. Alternatively, pour into a glass and drink as is. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium .",
+    "Storage Smoothies are best enjoyed immediately."
+  ]
+}

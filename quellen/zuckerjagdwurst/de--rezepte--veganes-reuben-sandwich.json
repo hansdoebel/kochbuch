@@ -1,0 +1,67 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-reuben-sandwich",
+  "recipes": [
+    {
+      "name": "Veganes Reuben Sandwich",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-reuben-sandwich",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-reuben-sandwich#recipe-09e09c14-0855-5925-a4fc-f7b9cfe812d6",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Sandwiches",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "8 Scheiben Roggenbrot",
+        "8 Scheiben veganen Käse",
+        "250 g Sauerkraut",
+        "Für russisches Dressing:",
+        "100 g vegane Mayo",
+        "3 EL Gurkenrelish",
+        "2 EL Ketchup",
+        "1 TL vegane Worcestersoße",
+        "1 EL Zitronensaft",
+        "0.5 TL Zwiebelpulver",
+        "Salz",
+        "Pfeffer",
+        "Für das vegane Corned Beef:",
+        "200 g Weizengluten-Pulver",
+        "100 g Kidneybohnen",
+        "250 ml Gemüsebrühe",
+        "25 g Hefeflocken",
+        "1 TL Ahornsirup",
+        "1 EL Tomatenmark",
+        "1 EL Worcestersoße",
+        "1 EL Sojasauce",
+        "2 EL Senf",
+        "1 TL Paprika",
+        "0.5 TL Zwiebelpulver",
+        "0.5 TL Knoblauchpulver",
+        "0.5 TL Koriander",
+        "0.5 TL nelken",
+        "0.5 TL Ingwer",
+        "0.5 TL Cayennepfeffer",
+        "1 TL Salz",
+        "1 TL Pfeffer"
+      ],
+      "instructions": [
+        "Seitanpulver, alle Gewürze und Hefeflocken miteinander vermengen.",
+        "Kidneybohnen, Senf, Ahornsirup, vegane Worcestersoße, Sojasauce und Gemüsebrühe zu einer glatten Masse pürieren.",
+        "Pürierten Kidneybohnen-Mix und die gewürzte Seitan-Hefeflocken-Mischung zusammengeben und mit den Händen oder einem Gummispatel vermengen. Die Masse zu einer dicken Rolle formen und eng in Alufolie wickeln.",
+        "Das ganze dämpft ihr jetzt für ca. 1 Stunde. Wer keine bestimmten Gerätschaften dafür besitzt, kann einfach in einem großen Topf etwas Wasser köcheln lassen und darüber ein Sieb legen, in das ihr die Seitanrolle legt. Das Wasser sollte aber auf keinen Fall das Sieb berühren. Nun alles gut abdecken, damit die Rolle auch wirklich dämpfen kann.",
+        "Nach einer Stunde ist die Rolle schnittfest. Auswickeln und kurz abkühlen lassen und das Corned Beef in dünne Scheiben schneiden. Öl in einer großen Pfanne erhitzen und die Corned Beef Scheiben von beiden Seiten anbraten.",
+        "Für das russische Dressing vermengt ihr alle Zutaten miteinander in einer Schüssel und schmeckt mit Salz und Pfeffer ab.",
+        "Die Roggenbrotscheiben rösten und mit russischem Dressing bestreichen. Mit Corned Beef und Sauerkraut belegen. Den veganen Käse könnt ihr entweder direkt darauflegen oder vorher in einer Pfanne etwas schmelzen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

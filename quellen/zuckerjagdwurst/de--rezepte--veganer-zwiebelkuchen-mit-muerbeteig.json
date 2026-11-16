@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zwiebelkuchen-mit-muerbeteig",
+  "recipes": [
+    {
+      "name": "Veganer Zwiebelkuchen mit Mürbeteig",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zwiebelkuchen-mit-muerbeteig",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zwiebelkuchen-mit-muerbeteig#recipe-0aca5a18-9b9d-47cc-8558-240d0e9270d0",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Springform (26 cm Durchmesser)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT180M",
+      "ingredients": [
+        "Für den Mürbeteig:",
+        "400 g Weizenmehl (Type 405) oder Dinkelmehl (Type 630)",
+        "12 g (1 EL) Backpulver",
+        "1 TL Salz",
+        "125 g vegane Butter (kalt)",
+        "ca. 100 ml eiskaltes Wasser",
+        "Für die Zwiebelmasse:",
+        "1 kg Zwiebeln",
+        "100 g veganer Speck oder Räuchertofu",
+        "400 g Seidentofu",
+        "150 g vegane Crème fraîche",
+        "1 TL Senf",
+        "2-3 TL ganze Kümmelsamen",
+        "neutrales Pflanzenöl zum Braten",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "Schnittlauch"
+      ],
+      "instructions": [
+        "In einer Schüssel Mehl, Backpulver und Salz vermischen. Kalte vegane Butter in kleinen Stückchen dazugeben und verkneten. Dabei nach und nach eiskaltes Wasser dazugeben, sodass ein geschmeidiger Teig entsteht. Den abgedeckten Teig 30–60 Minuten kalt stellen.",
+        "In der Zwischenzeit Zwiebeln schälen, halbieren und in Ringe schneiden. In einer großen Pfanne Pflanzenöl erhitzen und die Zwiebeln auf mittlerer Hitze circa 15 Minuten dünsten, bis sie weich sind. Danach veganen Speck dazugeben und circa 5 Minuten weiter braten, bis er etwas gebräunt ist. Mit Salz und Pfeffer würzen.",
+        "Während die Zwiebeln braten, Seidentofu, vegane Crème fraîche und Senf in eine Schüssel geben und gründlich mit einem Schneebesen verrühren, bis die Mischung glatt ist. Mit Kümmel, Salz und Pfeffer würzen",
+        "Den Ofen auf 180 °C (Ober-/Unterhitze) vorheizen. Den Teig mit einem Nudelholz ausrollen, in eine eingefettete Quicheform geben und gleichmäßig am Boden und Rand festdrücken. Mit einer Gabel mehrmals einpieksen. Danach den Teig ohne Füllung 10 Minuten vorbacken.",
+        "Die abgekühlten Zwiebeln unter die Seidentofumasse heben und nochmal abschmecken. Die Masse auf den vorgebackenen Boden geben und den Zwiebelkuchen circa 45 Minuten bei 180 °C (Ober-/Unterhitze) backen. Optional danach den Kuchen weitere 3–5 Minuten mit der Grillfunktion backen, bis die Oberfläche leicht gebräunt ist.",
+        "Den Kuchen vor dem Anschneiden circa 10 Minuten ruhen lassen. Schnittlauch in feine Ringe schneiden und den Kuchen damit bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

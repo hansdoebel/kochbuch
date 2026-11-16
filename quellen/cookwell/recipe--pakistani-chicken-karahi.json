@@ -1,0 +1,53 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/pakistani-chicken-karahi",
+  "recipes": [
+    {
+      "name": "Pakistani Chicken Karahi",
+      "source_url": "https://app.cookwell.com/recipe/pakistani-chicken-karahi",
+      "recipe_id": "https://app.cookwell.com/recipe/pakistani-chicken-karahi",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Chicken Thighs, ~450 g",
+        "Salt, a sprinkle",
+        "Cooking oil, a spoonful",
+        "Garlic, 2 cloves",
+        "Fresh ginger, a 1\" piece",
+        "Tomatoes, 3",
+        "Cumin, 1 part",
+        "Garam Masala, 1 part",
+        "Kashmiri Chili Powder, 1 part",
+        "Ground coriander, 1/2 part",
+        "Turmeric powder, 1/2 part",
+        "Black Pepper, 1/2 part",
+        "MSG, 1/8 part",
+        "Green chilies, 5 small",
+        "Butter, 15 g",
+        "Salt, to taste",
+        "Fresh ginger, to taste",
+        "Cilantro, a handful"
+      ],
+      "instructions": [
+        "Dice the chicken into 1\" bite-sized cubes. In a mortar & pestle, crush any whole spices and then set aside. Then, crush together the ginger & garlic until they form a paste. If using whole peeled canned tomatoes, grab three from the can and drain off any excess liquid. If using fresh tomatoes, peel or just use a box grater to puree most of the tomato flesh off from the skin.",
+        "Set a wok or large pan over high heat and add the oil. Once hot, add the chicken and a generous sprinkle of salt. Sear and stir occasionally until the chicken is lightly browned on the exterior, but not quite cooked all the way through.",
+        "Add the garlic and ginger paste and sauté for 30 seconds to bloom and release their flavors. Add the whole peeled tomatoes (or grated fresh tomatoes) and cook while stirring for 5-10 minutes until the tomatoes start to break down. Crush the tomatoes with a spatula to develop the sauce.",
+        "Stir all the spices into the sauce. Let the sauce reduce for another 5-10 minutes until it is fairly thick, stirring frequently.",
+        "If using, toss in the chiles for extra heat, and the butter for a richer mouthfeel. Let the sauce reduce further until your desired consistency. It should be fairly thick and glossy. Turn off the heat and TASTE. Add salt or anything else that might be needed to balance the flavors.",
+        "With the heat off, add the julienned ginger and cilantro leaves. Toss once and serve with rice, roti (or any other flatbread), or eat as is. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

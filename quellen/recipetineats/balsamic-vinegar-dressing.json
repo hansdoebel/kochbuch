@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.recipetineats.com/balsamic-vinegar-dressing/",
+  "recipes": [
+    {
+      "name": "Balsamic Vinegar Dressing",
+      "source_url": "https://www.recipetineats.com/balsamic-vinegar-dressing/",
+      "recipe_id": "https://www.recipetineats.com/balsamic-vinegar-dressing/#recipe",
+      "authors": [
+        "Nagi | RecipeTin Eats"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "1",
+        "1 cup"
+      ],
+      "prep_time": "PT2M",
+      "cook_time": null,
+      "total_time": "PT2M",
+      "ingredients": [
+        "1/4 cup balsamic vinegar ((ordinary, not caramelised or syrupy))",
+        "3/4 cup extra virgin olive oil ((or less if you like sharper dressing))",
+        "Salt and pepper to taste",
+        "1 tbsp balsamic vinegar",
+        "3 tbsp extra virgin olive oil ((or less if you like sharper dressing))",
+        "Salt and pepper to taste",
+        "Honey or sugar (, to taste)"
+      ],
+      "instructions": [
+        "Place ingredients in a jar and shake very well. Adjust salt and pepper to taste.",
+        "Keeps for 3 weeks on the counter (unless it is very hot where you are, store it in the fridge), assuming you use fresh olive oil. Do not keep for more than 4 weeks as high quality olive oil tends to lose flavour beyond 4 weeks after opening the bottle."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: A classic salad for Balsamic Vinegar Dressing is rocket (arugula) or other leafy greens with shavings of parmesan. That's the sort of salad you will often find on the menu of posh restaurants."
+  ]
+}

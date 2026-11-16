@@ -1,0 +1,84 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-buletten-frikadellen",
+  "recipes": [
+    {
+      "name": "Vegane Buletten (Frikadellen)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-buletten-frikadellen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-buletten-frikadellen#recipe-f210c21f-5a4b-58f7-baa0-d37e3e1c1070",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "10 Buletten",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die veganen Buletten:",
+        "100 g feines Sojagranulat oder 500 g veganes frisches Hack",
+        "1 Zwiebel",
+        "15 g glatte Petersilie",
+        "1 helles Brötchen",
+        "1 Dose (230 g) Kidneybohnen",
+        "65 g Senf",
+        "50 g Paniermehl",
+        "1 TL edelsüßes Paprikapulver",
+        "Pflanzenöl zum Braten",
+        "Muskat",
+        "Salz",
+        "Pfeffer",
+        "Zusätzlich bei der Verwendung von Sojagranulat:",
+        "50 g Paniermehl",
+        "1 EL Gemüsebrühepulver"
+      ],
+      "instructions": [
+        "Falls Sojagranulat verwendet wird, das Granulat in eine Schüssel geben und mit kochendem Wasser bedecken. Ca. 10 Minuten darin ziehen lassen. Im Anschluss das komplette Wasser abgießen und das Sojagranulat kräftig ausdrücken, damit das Wasser wieder austritt. Das vegane frische Hack muss nicht vorbereitet werden.",
+        "Zwiebel schälen und fein würfeln. Petersilie waschen und fein hacken und das Brötchen vom Vortag klein rupfen. Die Kidneybohnen in einem Sieb abgießen, mit etwas Wasser abbrausen und die Flüssigkeit gut abtropfen lassen.",
+        "Sojagranulat/veganes Hack, Zwiebel, Petersilie, Brötchen und Kidneybohnen in einer Schüssel gut verkneten. Danach Senf, Paniermehl und edelsüßes Paprikapulver dazugeben, vermengen und die Mischung mit Salz, Pfeffer und Muskat würzen. Wenn Sojagranulat verwendet wird, das restliche Paniermehl und Gemüsebrühepulver untermischen.",
+        "Aus der Masse zehn vegane Buletten formen. Pflanzenöl in einer Pfanne bei mittlerer Hitze erwärmen und die veganen Buletten darin ca. 5–7 Minuten von allen Seiten anbraten, bis sie gebräunt und leicht knusprig sind. Auf Küchenpapier abtropfen lassen und direkt servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Veganer Gurkensalat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-buletten-frikadellen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-buletten-frikadellen#recipe-423eaab9-dc87-53d8-b286-232241acc16a",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "1 Gurke",
+        "1 rote Zwiebel",
+        "15 g frischer Dill",
+        "2 EL Kräuteressig",
+        "1 EL neutrales Pflanzenöl",
+        "3 EL pflanzliche Sahne",
+        "1 EL Agavendicksaft",
+        "Salz",
+        "Pfeffer",
+        "Zucker"
+      ],
+      "instructions": [
+        "Gurke waschen, in dünne Scheiben schneiden und in eine Schüssel geben. Gut salzen und ca. 5 Minuten stehen lassen. Anschließend das ausgetretene Wasser abgießen.",
+        "Die rote Zwiebel in dünne Scheiben schneiden und den Dill fein hacken.",
+        "In einem hohen Gefäß Kräuteressig, Öl, pflanzliche Sahne und Agavendicksaft pürieren.",
+        "In einer Schüssel Gurken- und Zwiebelscheiben mit dem Dill und Dressing vermengen und mit Salz, Pfeffer und Zucker abschmecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-marillenknoedel",
+  "recipes": [
+    {
+      "name": "Vegane Marillenknödel",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-marillenknoedel",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-marillenknoedel#recipe-19aa2d30-1a06-58a2-a1df-c86a0e33be81",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Marillenknödel",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Für die Marillenknödel:",
+        "2 EL pflanzliche Butter",
+        "250 g pflanzlicher Quark",
+        "125 g Weizenmehl (Type 405)",
+        "80 g Weichweizengrieß",
+        "1 EL Apfelmus",
+        "2 EL Agavendicksaft",
+        "8–9 Aprikosen",
+        "1 Prise Salz",
+        "Für die Semmelbrösel:",
+        "2 EL pflanzliche Butter",
+        "100 g Semmelbrösel",
+        "3 EL Agavendicksaft",
+        "Für die süße Butter:",
+        "5 EL pflanzliche Butter",
+        "2 EL Agavendicksaft"
+      ],
+      "instructions": [
+        "Marillenknödel",
+        "Die Butter in einem Topf kurz erwärmen, bis sie geschmolzen ist.",
+        "Alle Zutaten, also die geschmolzene pflanzliche Butter, den pflanzlichen Quark, das Mehl, den Grieß, das Apfelmus und den Agavendicksaft für den Teig in einer Schüssel verkneten und für eine Stunde ruhen lassen.",
+        "In der Zwischenzeit die Aprikosen waschen und mit dem Ende eines Rührlöffels entkernen.",
+        "Nun jede Aprikose mit Teig umhüllen.",
+        "Tipp: Wenn ihr die Hände vorher nass macht, lässt sich der klebrige Teig einfacher formen.",
+        "Einen kleinen Topf mit gesalzenem Wasser erhitzen und die Knödel 15–20 Minuten darin vorsichtig kochen. Die Knödel aus dem Wasser nehmen, wenn sie schon circa 5 Minuten an der Oberfläche schwimmen.",
+        "Semmelbrösel",
+        "In einer weiteren Pfanne die pflanzliche Butter etwas zerlassen und die Brösel darin braten.",
+        "Den Agavendicksaft hinzugeben und alles kurz karamellisieren lassen. Die Semmelbrösel in einen Teller geben und abkühlen lassen.",
+        "In einem kleinen Topf die süße Butter anrühren. Dafür Butter und Agavendicksaft verrühren und schmelzen lassen.",
+        "Die Knödel in den Bröseln wenden und mit der geschmolzenen süßen Butter servieren. Die Marillenknödel mit etwas Puderzucker toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-soft-cake",
+  "recipes": [
+    {
+      "name": "Veganes Soft Cake",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-soft-cake",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-soft-cake#recipe-b704943d-1310-56e9-82e4-29c013793ea3",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "Für den Teig:",
+        "75 g Mehl",
+        "50 g Zucker",
+        "75 ml Sprudelwasser",
+        "1 EL pflanzliches Öl (Raps- oder Sonnenblumenöl)",
+        "0.25 TL Backpulver",
+        "0.5 TL Vanillezucker",
+        "Für das Gelee:",
+        "150 ml Orangensaft",
+        "2 EL Zucker",
+        "1 EL (1/2 Päckchen) Agar-Agar",
+        "Für die Schokoladenglasur:",
+        "150 g Zartbitterschokolade",
+        "2 TL Kokosöl"
+      ],
+      "instructions": [
+        "Wir beginnen mit dem Gelee, das im Kühlschrank fest werden muss. Dafür eine flache Form (z. B. eine Kastenform) mit Frischhaltefolie auslegen und bereitstellen – messt am besten vorher ab, ob ihr die entsprechende Menge an Geleekreisen ausstechen könnt. 50 ml vom Orangensaft mit Zucker und Agar-Agar in einen kleinen Topf geben. Zum Kochen bringen und ca. 2 Minuten köcheln lassen.",
+        "Anschließend in die restlichen 100 ml Orangensaft rühren. Die Mischung schnell in die vorbereitete Form füllen und so in den Kühlschrank stellen, bis sie fest wird. Das sollte zeitlich passen, bis der Teig gebacken ist.",
+        "Für den Teig zunächst den Backofen auf 180°C vorheizen. Eine Muffinform einfetten und mit etwas Mehl ausklopfen. Mehl, Zucker, Vanillezucker und Backpulver in einer Schüssel verrühren. Pflanzenöl und Sprudelwasser dazugeben und nur noch kurz unterrühren.",
+        "Ca. 1 EL vom Teig in jede Muffinform geben. Bei 180°C ca. 10-12 Minuten backen. Die Ränder des Teigs sollten sich bereits leicht bräunen – der Biskuit soll für dieses Rezept nicht unbedingt super weich bleiben. Anschließend die kleinen Teigböden aus der Form nehmen und komplett auskühlen lassen.",
+        "Wenn die Teigböden ausgekühlt und das Orangengelee fest ist, könnt ihr für die Glasur Zartbitterschokolade grob hacken. Zusammen mit Kokosöl in eine hitzefeste Schüssel oder einen kleineren Topf geben und das ganze über einen größeren Topf mit köchelndem Wasser stellen. In diesem Wasserbad die Zartbitterschokolade schmelzen.",
+        "In der Zwischenzeit mit einem kleinen Ausstecher aus dem Orangengelee Kreise ausstechen, die etwas kleiner als die Teigböden sind. Jeweils einen Geleekreis mittig auf einen Teigboden legen.",
+        "Die geschmolzene Schokoladenglasur kurz abkühlen lassen und danach gleichmäßig auf den Soft Cake verteilen, sodass das Gelee und der Teigboden bis zum Rand bedeckt sind, aber der Teig von unten noch sichtbar ist. Mit der Gabel jeweils senkrecht und waagerecht auf die Schokoladenglasur drücken, um das typische Muster zu erzeugen.",
+        "Soft Cake im Kühlschrank ruhen lassen, bis die Schokolade fest ist und auch am besten direkt darin lagern."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

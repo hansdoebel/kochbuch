@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-snickers-energy-balls",
+  "recipes": [
+    {
+      "name": "Vegane Snickers Energy Balls",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-snickers-energy-balls",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-snickers-energy-balls#recipe-c16c1a39-40ee-52de-9b0d-34add4db3b41",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "20 Energy Balls",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "250 g Erdnüsse (geröstet & ungesalzen)",
+        "20 zusätzliche Erdnüsse für die Füllung",
+        "1 Vanilleschote",
+        "300 g Datteln (entsteint)",
+        "1 Prise Salz",
+        "2 EL ungesüßtes Kakaopulver (optional)"
+      ],
+      "instructions": [
+        "Die Vanilleschote längs halbieren und das Vanillemark mit einem Messer herauskratzen.",
+        "Die abgewogenen Erdnüsse (nicht die einzelnen, zusätzlichen), entsteinte Datteln, Salz, Vanillemark und optional das Kakaopulver in einen Zerkleinerer geben und ca. 2-3 Minuten zerkleinern.",
+        "Aus der Masse 20 Bällchen formen. In die Mitte der Bällchen eine der zusätzlichen Erdnüsse drücken und die Masse wieder zu einem geschlossenen Bällchen formen. So erhaltet ihr beim Essen einen extra Crunch.",
+        "Tipp: Die Bällchen in einem verschließbaren Behälter aufbewahren und innerhalb von fünf Tagen verzehren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

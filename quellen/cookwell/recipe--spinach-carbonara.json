@@ -1,0 +1,45 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/spinach-carbonara",
+  "recipes": [
+    {
+      "name": "Spinach Carbonara",
+      "source_url": "https://app.cookwell.com/recipe/spinach-carbonara",
+      "recipe_id": "https://app.cookwell.com/recipe/spinach-carbonara",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4-6 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Water, 150 g",
+        "Cornstarch, 10 g",
+        "Spinach, 150 g",
+        "Parmigiano Reggiano, 100 g",
+        "Garlic, 3 cloves",
+        "Olive Oil, 2 spoonfuls",
+        "Lemon juice, 1/2 lemon",
+        "Black Pepper, a few sprinkles",
+        "Salt, to taste",
+        "Spaghetti, a serving",
+        "Pasta water, as needed",
+        "Parmigiano Reggiano",
+        "Fresh basil"
+      ],
+      "instructions": [
+        "Set a pot of water to boil. Meanwhile, mince the garlic, grate the parmesan, and gather the remaining ingredients. Fill a mixing bowl with ice water. Once the water has boiled, add the spinach and blanch for 45 seconds. Strain and add to the cold water to stop the cooking process. Transfer to a paper towel to dry for a minute, then roughly chop.",
+        "Make the stabilizing gel: add the cornstarch and water to a small saucepan. Mix together until dissolved. Turn the heat to low and, while whisking, bring it to just below a simmer. The starch should begin to thicken. Stir to ensure there are no clumps, then turn off the heat. Set aside. Add the spinach, garlic, cheese, olive oil, lemon juice, and as much fresh cracked black pepper as desired to a blender. Pulse once or twice. Pour in the cornstarch gel and blend everything together to create a stable emulsion of the cheese, pepper, and gel. Give it a taste, and add a touch of salt if needed. Store in the fridge for up to 3 -4 days.",
+        "Set a pot of water to boil along with a big pinch of salt. Add the pasta and bring to a boil. Cook until slightly underdone, 1-2 minutes less than the package says. Reserve some of the pasta water. Set a second pan on the stove, but keep the heat off. Add 2 heaping spoonfuls of the spinach sauce along with a splash of the reserved pasta water. Mix together until smooth. With the heat still off, add the still-hot pasta. Turn the heat to medium-low and slowly bring up the temperature of the sauce while tossing with the pasta. Be a little careful of the heat, but this can come to a light simmer without breaking. Serve on a plate with more grated parm and some basil."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

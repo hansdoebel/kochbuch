@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/crispy-oven-roasted-sweet-potato-fries-78",
+  "recipes": [
+    {
+      "name": "Oven-Roasted Sweet Potato Fries",
+      "source_url": "https://www.pickuplimes.com/recipe/crispy-oven-roasted-sweet-potato-fries-78",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT15M",
+      "cook_time": "PT30M",
+      "total_time": "PT45M",
+      "ingredients": [
+        "3 medium sweet potato",
+        "2 tsp cornstarch",
+        "2 tsp vegetable oil",
+        "1 tsp onion powder",
+        "1 tsp dried oregano",
+        "½ tsp sweet paprika powder",
+        "½ tsp salt"
+      ],
+      "instructions": [
+        "Line two baking trays and preheat the oven to 425°F (220°C)*.",
+        "Cut the sweet potatoes into ½ inch (1 cm) thick fries, cutting each piece in similar thicknesses so they cook evenly.",
+        "Optional step: soak in cold water for 5 minutes. Then drain and dry well using a clean kitchen cloth.",
+        "Toss the sweet potato in the cornstarch to coat. Then add the remaining ingredients and toss again.",
+        "Divide over the two baking trays, leaving as much room between the fries as possible. If over-crowded on the tray, they steam rather than roast.",
+        "Bake for 28 to 30 minutes, or until golden, flipping once halfway. Serve with your favourite dip, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Best if enjoyed it immediately. Store leftovers in an airtight container in the fridge for up to 2 days."
+  ]
+}

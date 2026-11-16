@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-milchbroetchen-mit-schokolade-oder-rosinen",
+  "recipes": [
+    {
+      "name": "Vegane Milchbrötchen mit Schokolade oder Rosinen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-milchbroetchen-mit-schokolade-oder-rosinen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-milchbroetchen-mit-schokolade-oder-rosinen#recipe-386bbb6f-ea96-40e9-a617-97334fc6fbb1",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "15 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT145M",
+      "ingredients": [
+        "Für den Teig:",
+        "125 ml Sojamilch Vanille",
+        "125 ml Sojamilch Natur",
+        "100 g Zucker",
+        "21 g frische Hefe",
+        "80 ml neutrales Pflanzenöl",
+        "500 g Weizenmehl (Type 405)",
+        "150 g backstabile Schokodrops (oder Rosinen)",
+        "Außerdem:",
+        "pflanzliche Milch zum Bestreichen",
+        "vegane Butter zum Einfetten"
+      ],
+      "instructions": [
+        "Für den Teig die Vanille-Sojamilch und Natur-Sojamilch in einen Topf geben und erwärmen, bis sie lauwarm ist. Danach in eine große Schüssel füllen, Zucker und frische Hefe hinzugeben und circa 10 Minuten ruhen lassen. Es sollten sich Bläschen auf der Oberfläche bilden.",
+        "Danach Pflanzenöl und Mehl hinzugeben und alles verkneten, bis sich ein geschmeidiger Teigball formen lässt. Den Teig abgedeckt in einer leicht geölten Schüssel etwa eine Stunde an einem warmen Ort gehen lassen, bis sich das Volumen verdoppelt hat.",
+        "Wenn der Teig ausreichend gegangen ist, kurz durchkneten und die Schokodrops oder Rosinen untermengen. Den Teig in 15 gleich große Portionen teilen und zu Teigkugeln formen.",
+        "Eine große Auflaufform (circa 30 x 20 Zentimeter) einfetten oder mit Backpapier auslegen und die 15 Teigkugeln in die Form legen. Nochmals 20 Minuten abgedeckt an einem warmen Ort gehen lassen. Den Ofen in der Zwischenzeit auf 180 °C (Ober-/Unterhitze) vorheizen.",
+        "Die Brötchen mit pflanzlicher Milch bestreichen und 20–25 Minuten bei 180 °C (Ober-/Unterhitze) backen und nach 10–15 Minuten abdecken, damit sie nicht zu dunkel werden.",
+        "Tip: Nachdem die Milchbrötchen abgekühlt sind, halten sie sich bis zu fünf Tage in einem luftdichten Behälter."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

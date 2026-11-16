@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gelingsichere-vegane-ausstecher",
+  "recipes": [
+    {
+      "name": "Gelingsichere, vegane Ausstecher",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gelingsichere-vegane-ausstecher",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gelingsichere-vegane-ausstecher#recipe-253a647e-027c-5183-8f36-3981b9cff3a1",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 50 Kekse",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "300 g Weizenmehl",
+        "200 g pflanzliche Butter",
+        "100 g Zucker",
+        "1/2 Zitrone",
+        "optional: 1 Pck Vanilleextrakt",
+        "Dekoration",
+        "250 g Puderzucker",
+        "wenige Tropfen frischen Rote-Beete-Saft",
+        "100 g bunte Zuckerstreusel"
+      ],
+      "instructions": [
+        "Vermischt Weizenmehl und Zucker in einer großen Schüssel. Die kalte pflanzliche Butter in Flocken dazu geben und mit kalten Händen verkneten.",
+        "Gebt den Saft einer halben Zitrone dazu und knetet bis ein geschmeidiger Teig entsteht.",
+        "Den Teig in Frischhaltefolie einpacken und mindestens 30 Minuten im Kühlschrank kühlen lassen.",
+        "Auf einer bemehlten Unterfläche den Teig ausrollen und Figuren ausstechen. Die Ausstecher auf ein Backblech mit Backpapier platzieren.",
+        "Im vorgeheizten Ofen bei 180°C Umluft ca. 8-10 Minuten backen. Die Ausstecher komplett abkühlen lassen.",
+        "Zuckerguss",
+        "Den Puderzucker in eine Schüssel sieben. Nach und nach Wasser und Rote Beete Saft tropfenweise hinzugeben bis sich ein cremiger Guss entwickelt.",
+        "Den rosanen Zuckerguss auf den abgekühlten Ausstechern verteilen und mit bunten Streusel dekorieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

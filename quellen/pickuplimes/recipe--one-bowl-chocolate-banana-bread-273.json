@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/one-bowl-chocolate-banana-bread-273",
+  "recipes": [
+    {
+      "name": "One-Bowl Chocolate Chunk Banana Bread",
+      "source_url": "https://www.pickuplimes.com/recipe/one-bowl-chocolate-banana-bread-273",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "9 slices",
+      "prep_time": "PT15M",
+      "cook_time": "PT55M",
+      "total_time": "PT01H10M",
+      "ingredients": [
+        "vegetable oil",
+        "2 Tbsp ground flaxseeds",
+        "¼ cup water",
+        "3 ripe banana",
+        "¼ cup vegetable oil",
+        "½ cup granulated sugar",
+        "¼ cup unsweetened applesauce",
+        "1 tsp pure vanilla extract",
+        "1 tsp ground cinnamon",
+        "1 tsp baking soda",
+        "½ tsp baking powder",
+        "½ tsp fine sea salt",
+        "1¾ cup all-purpose flour",
+        "3.175 oz dairy-free dark chocolate"
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F / 180°C*. Lightly grease an 8½ × 4½-inch / 22 × 11 cm loaf pan with vegetable oil.",
+        "In a large bowl, mix the flaxseeds and water and set aside for 2 minutes to gel slightly.",
+        "Add the bananas to the bowl and mash well.",
+        "Stir in the oil, sugar, applesauce, vanilla, cinnamon, baking soda, baking powder, and salt until well combined.",
+        "Add the flour and gently mix until partly combined.",
+        "Set aside some of the chocolate to sprinkle on top, fold in the rest of the chocolate until just combined. Pour the batter into the prepared pan and sprinkle with the reserved chocolate.",
+        "Bake for about 55 minutes, or until the top is golden, the bread starts to pull away from the sides, and a toothpick inserted into the center comes out clean.",
+        "Allow to cool in the pan for a few minutes, then transfer to a cooling rack to cool further. Slice and serve warm. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We use 50 - 60% cacao chocolate for a balanced sweetness. Darker varieties (70%+) can make the result too bitter. * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Store leftover banana bread in an airtight container on the counter for up to 2 days, or in the freezer for up to 1 month."
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-krautkrapfen",
+  "recipes": [
+    {
+      "name": "Vegane Krautkrapfen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-krautkrapfen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-krautkrapfen#recipe-f011ff1e-e940-5bc8-b57b-dd7103f2d1a3",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT80M",
+      "ingredients": [
+        "Für den Teig:",
+        "200 g Dinkelmehl Type 630 oder Weizenmehl Type 405",
+        "200 g Hartweizengrieß",
+        "0.5 TL Salz",
+        "200 ml Wasser",
+        "2 TL Olivenöl",
+        "Für die Füllung:",
+        "300 g Sauerkraut",
+        "200 g Räuchertofu",
+        "1 kleine Zwiebel",
+        "1 Knoblauchzehe",
+        "1 kleiner Apfel",
+        "ca. 300 ml Gemüsebrühe",
+        "0.5 TL ganze Kümmelsamen",
+        "50 g veganer Frischkäse",
+        "Pflanzenöl zum Braten",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "frische Petersilie",
+        "Beilagensalat"
+      ],
+      "instructions": [
+        "Für den Nudelteig Mehl, Hartweizengrieß und Salz vermengen und in eine Schüssel oder auf eine saubere Arbeitsfläche geben. Eine Mulde in der Mitte formen und darin Wasser und Olivenöl gießen. Nach und nach die trockenen mit den flüssigen Zutaten zu einem glatten Teig vermengen. Danach mind. 10 Minuten gut durchkneten.",
+        "Tipp: Wer eine Küchenmaschine hat, kann die ganze Arbeit auch darin erledigen lassen.",
+        "Den Teig anschließend mit einem sauberen Küchentuch abdecken und bei Zimmertemperatur ca. 30 Minuten ruhen lassen.",
+        "In der Zwischenzeit die Füllung zubereiten. Sauerkraut in einem Sieb abtropfen lassen, aber die Flüssigkeit auffangen. Räuchertofu, Zwiebel, Knoblauch und den Apfel fein würfeln.",
+        "Pflanzenöl in einer großen Pfanne bei mittlerer Hitze erwärmen. Zuerst den Räuchertofu darin anbraten, bis er gut gebräunt ist. Danach Zwiebel und Knoblauch dazugeben und weiterbraten, bis die Zwiebelwürfel glasig sind. Das abgetropfte Sauerkraut und den gewürfelten Apfel dazugeben und alles mit Kümmelsamen, Salz und Pfeffer würzen. Die Füllung vom Herd nehmen und etwas abkühlen lassen.",
+        "Den Teig nach der Ruhezeit dritteln und jeweils zu länglichen Streifen (ca 15x30 cm) ausrollen. Eine dünne Schicht veganen Frischkäse darauf verstreichen und die Sauerkraut-Füllung gleichmäßig auf alle Nudelteig-Streifen verteilen, dabei zur oberen Kante ca. 1 cm Platz lassen. Den Nudelteig von unten nach oben eng zusammenrollen. Den oberen, freien Streifen mit etwas Wasser befeuchten, damit der Teig gut zusammenhält. Danach jede Nudelteigrolle in ca. 8-10 Portionen schneiden.",
+        "Etwas Pflanzenöl in einer großen Pfanne erhitzen und die Nudelteig-Schnecken in der Pfanne verteilen, so dass die Füllung nach oben und unten zeigt. Sobald die Krautkrapfen auf der Unterseite gebräunt sind, die Pfanne mit dem aufgefangenen Sauerkrautsaft und Gemüsebrühe auffüllen, bis die Nudelschnecken ca. bis zur Hälfte damit bedeckt sind. Einen Deckel auf die Pfanne legen und die Krautkrapfen ca. 15 Minuten köcheln lassen, oder bis die gesamte Brühe verkocht ist. Danach mit gehackter Petersilie bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

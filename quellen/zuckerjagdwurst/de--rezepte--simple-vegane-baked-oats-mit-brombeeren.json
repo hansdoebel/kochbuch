@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/simple-vegane-baked-oats-mit-brombeeren",
+  "recipes": [
+    {
+      "name": "Simple vegane Baked Oats mit Brombeeren",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/simple-vegane-baked-oats-mit-brombeeren",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/simple-vegane-baked-oats-mit-brombeeren#recipe-3eb042fa-eeeb-523e-a1ab-30232e7c5cf4",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "3 Portionen (∅ 8 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "1 Banane",
+        "100 g zarte Haferflocken",
+        "200 ml Wasser",
+        "1 TL Vanillepaste",
+        "2 TL Haselnussmus",
+        "Zimt (optional)",
+        "Beeren (z. B. Brombeeren)",
+        "Außerdem:",
+        "Cashewmus zum Servieren"
+      ],
+      "instructions": [
+        "Den Ofen auf 180°C Umluft vorheizen. Die Banane in einer Schüssel mit einer Gabel zerdrücken. Haferflocken, Wasser, Vanillepaste, Haselnussmus und optional etwas Zimt hinzugeben und alles gut verrühren.",
+        "Die Masse in kleine Förmchen geben. Brombeeren waschen und in den Teig drücken. Die Förmchen bei 180°C ca. 20 Minuten backen.",
+        "Die Baked Oats aus dem Ofen nehmen und noch warm mit etwas Cashewmus beträufeln und servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

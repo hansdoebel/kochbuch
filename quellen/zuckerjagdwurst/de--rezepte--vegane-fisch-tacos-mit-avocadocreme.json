@@ -1,0 +1,62 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-fisch-tacos-mit-avocadocreme",
+  "recipes": [
+    {
+      "name": "Vegane Fisch-Tacos mit Avocadocreme",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-fisch-tacos-mit-avocadocreme",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-fisch-tacos-mit-avocadocreme#recipe-25ec55d9-bb82-50d4-9217-97592a8d8236",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "6 Tacos",
+        "200 g fester Naturtofu",
+        "1/2 Noriblatt",
+        "100 g Mais",
+        "1/4 Weißkohl",
+        "1 Zitrone",
+        "ein paar Stängel Koriander",
+        "Panade",
+        "80 g Mehl",
+        "1 TL Salz",
+        "1 TL Pfeffer",
+        "1 TL Knoblauchpulver",
+        "70 ml Bier",
+        "viel Öl",
+        "Avocadocreme",
+        "1 Avocado",
+        "1/2 Limette",
+        "10 g Koriander",
+        "2-3 EL Mayo",
+        "1/2 TL Knoblauchpulver",
+        "Salz&Pfeffer"
+      ],
+      "instructions": [
+        "Avocadocreme",
+        "Zuerst bereiten wir die Avocadocreme vor. Dazu die Avocado halbieren, entkernen und das Fleisch in ein hohes Gefäß geben.",
+        "Die Limette halbieren und den Saft einer halben Limette dazugeben.",
+        "Den Koriander waschen und alle restlichen Zutaten hinzugeben und gut pürieren. Abschmecken!",
+        "Tofu-Fisch",
+        "Den Tofu in große Würfel schneiden, die Noriblätter passend dazu zu schneiden, auf die Tofustücken legen und leicht andrücken.",
+        "In eine Schüssel nun alle Zutaten für die Panade geben und alles gut verrühren.",
+        "Eine hohe Pfanne auf mittlerer Stufe erhitzen.",
+        "Die Tofu-Würfel mit zwei Gabeln darin eintauchen und für 3-4 Minuten gold frittieren. Auf einem Küchentuch abtropfen lassen.",
+        "Taco",
+        "Den Weißkohl waschen und in feine Scheiben schneiden. Den Mais mit etwas Öl in einer Pfanne anbraten, bis er eine leichte Farbe bekommt.",
+        "Die Tacos nach Wunsch in einer Pfanne ohne Öl oder im Ofen erwärmen und mit Avocadocreme bestreichen und den restlichen Zutaten belegen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

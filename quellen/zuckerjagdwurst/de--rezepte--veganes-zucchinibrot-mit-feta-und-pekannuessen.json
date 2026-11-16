@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-zucchinibrot-mit-feta-und-pekannuessen",
+  "recipes": [
+    {
+      "name": "Veganes Zucchinibrot mit „Feta“ und Pekannüssen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-zucchinibrot-mit-feta-und-pekannuessen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-zucchinibrot-mit-feta-und-pekannuessen#recipe-deb943bd-9f92-5c83-bcfe-f5a554e063eb",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kastenform (25 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT85M",
+      "ingredients": [
+        "400 g Weizenmehl (Type 405) oder Dinkelmehl (Type 603)",
+        "10 g (2 TL) Backpulver",
+        "2 TL Salz",
+        "100 g Pekannüsse",
+        "50 g schwarze Oliven",
+        "200 g Zucchini",
+        "0.5 Zitrone (Abrieb)",
+        "400 ml pflanzliche Milch",
+        "1 EL Olivenöl",
+        "300 g veganer Feta auf Nussbasis"
+      ],
+      "instructions": [
+        "Den Ofen auf 180 °C (Umluft) vorheizen. Mehl, Backpulver und Salz in eine große Schüssel geben. Die Pekannüsse klein hacken und ebenfalls dazugeben und kurz vermischen.",
+        "Die Oliven halbieren, die Zucchini grob reiben, die Zitronenschale fein abreiben und zusammen mit der pflanzlichen Milch und dem Olivenöl in die Schüssel geben und gut verrühren.",
+        "Zuletzt den veganen Feta in kleine Stücke schneiden oder mit den Händen zerbröseln, zu den anderen Zutaten hinzugeben und vorsichtig unterheben.",
+        "Den Teig in eine eingefettete Form geben und 60–70 Minuten bei 180 °C (Umluft) backen. Mit einem Stäbchen testen, ob das Brot durch ist – dafür einen Holzspieß schräg in das Brot stecken und herausziehen. Wenn keine Teigreste daran kleben bleiben, ist das Brot fertig. Achtet darauf, dass durch den veganen Feta aber durchaus „Reste“ am Spieß zu sehen sein können. Das Zucchinibrot aus dem Ofen nehmen und komplett abkühlen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

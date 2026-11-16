@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kaesefondue",
+  "recipes": [
+    {
+      "name": "Veganes Käsefondue",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kaesefondue",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kaesefondue#recipe-40f5359d-4af0-5332-8dcf-f5dfa3a9ab09",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4-6 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Für das Fondue:",
+        "600 g Kartoffeln",
+        "3 Zwiebeln",
+        "200 g Cashewkerne",
+        "100 ml pflanzliche Milch",
+        "150 ml veganer Weißwein",
+        "4 EL Hefeflocken",
+        "1 TL Zwiebelpulver",
+        "1 TL Knoblauchpulver",
+        "1 TL Senf",
+        "1 TL Zitronensaft",
+        "Salz",
+        "Pfeffer",
+        "Als Beilage:",
+        "Brot",
+        "blanchierter Brokkoli",
+        "Weintrauben"
+      ],
+      "instructions": [
+        "Die Cashewkerne mind. 30 Minuten (oder über Nacht) in warmem Wasser einweichen, damit sie sich besser mixen lassen.",
+        "Kartoffeln und Zwiebeln schälen und in grobe Stücke schneiden. Das Gemüse in einen Topf geben, leicht salzen und mit Wasser auffüllen, bis alles bedeckt ist. Ca. 15 Minuten köcheln lassen, bis das Gemüse weich ist. Danach abgießen.",
+        "Die Gemüsestücke zusammen mit eingeweichten Cashews, pflanzlicher Milch, veganem Weißwein, Hefeflocken, Knoblauch- und Zwiebelpulver, Senf und Zitronensaft in einen Standmixer geben und zu einer cremigen Masse mixen. Anschließend abschmecken.",
+        "Die Mischung in einen Topf geben und so lange köcheln lassen, bis das Fondue die gewünschte Konsistenz hat. Erneut mit Salz, Pfeffer, Hefeflocken oder etwas mehr Zitronensaft abschmecken.",
+        "Während das Fondue köchelt, die Beilagen vorbereiten. Brot in kleine Stücke oder Scheiben schneiden und nach Wunsch rösten. Den Brokkoli kurz blanchieren, damit er noch bissfest ist und Weintrauben und Holzspieße bereitstellen.",
+        "Den Topf mit eurem veganen Fondue und alle Beilagen auf den Tisch stellen und mithilfe der Holzspieße eintunken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

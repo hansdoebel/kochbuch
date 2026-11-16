@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/classic-creamy-steel-cut-oats-270",
+  "recipes": [
+    {
+      "name": "Classic Creamy Steel-Cut Oatmeal",
+      "source_url": "https://www.pickuplimes.com/recipe/classic-creamy-steel-cut-oats-270",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT15M",
+      "total_time": "PT20M",
+      "ingredients": [
+        "⅔ cup steel cut oats",
+        "2 cup unsweetened soy milk",
+        "½ tsp ground cinnamon",
+        "⅛ tsp pumpkin spice mix",
+        "1 Tbsp ground flaxseeds",
+        "1 banana",
+        "1 tsp pure vanilla extract",
+        "1 nectarine",
+        "2 Tbsp almond butter"
+      ],
+      "instructions": [
+        "In a medium pot, add the drained oats, plant milk, cinnamon, and pumpkin pie spice. Bring to a gentle boil, then reduce to a gentle simmer. Cook for 10 to 12 minutes, stirring occasionally.",
+        "Then add the ground flaxseeds, banana, and vanilla extract. Stir and continue to cook for another 2 minutes.",
+        "When the oats are cooked through, it’s done! Add more milk if a thinner consistency is preferred, or cook for another couple of minutes to thicken.",
+        "Add toppings and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Soaking steel-cut oats increases nutrient absorption and helps decrease cooking time. If using unsoaked oats, double the cooking time and add about 30% more milk. Learn more about the benefits of soaking in our PUL article. † Nutrition tip: aim to use plant-based milk that is fortified with calcium .",
+    "Storage Store in an airtight container in the fridge for up to 3 days. Reheat leftovers on the stove or in the microwave. If possible, add the banana fresh the next morning."
+  ]
+}

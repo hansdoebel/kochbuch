@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gebackener-suesskartoffelsalat-mit-sesam-vinaigrette",
+  "recipes": [
+    {
+      "name": "Gebackener Süßkartoffelsalat mit Sesam-Vinaigrette",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gebackener-suesskartoffelsalat-mit-sesam-vinaigrette",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gebackener-suesskartoffelsalat-mit-sesam-vinaigrette#recipe-ea5abc6d-75ac-5cb6-bd17-ed519bc5bfd4",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "3-4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für den Salat:",
+        "1 kg Süßkartoffeln",
+        "50 g Pinienkerne",
+        "1 Maiskolben",
+        "100 g getrocknete Tomaten",
+        "200 g Zuckerschoten",
+        "Olivenöl",
+        "Salz",
+        "Pfeffer",
+        "Für die Vinaigrette:",
+        "1 Schalotte",
+        "1 Knoblauchzehe",
+        "4 EL Sesamöl",
+        "1 EL geröstetes Sesamöl",
+        "1 EL Rotweinessig",
+        "1 TL Senf",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "Chili Crisp zum Servieren"
+      ],
+      "instructions": [
+        "Backofen auf 200°C (Umluft) vorheizen. Süßkartoffeln in mundgerechte Stücke schneiden, auf einem Backblech verteilen, mit Olivenöl beträufeln und salzen und pfeffern. Ca. 20 Minuten backen, bis sie leicht knusprig und gebräunt sind – dabei nach Bedarf auch im Ofen wenden.",
+        "In der Zwischenzeit Pinienkerne in einer fettfreien Pfanne rösten und danach aus der Pfanne nehmen. Maiskörner vom Kolben schneiden und in der selben Pfanne mit etwas Öl anbraten, bis sie gebräunt sind. Getrocknete Tomaten in Streifen schneiden. Zuckerschoten schräg in dünne Streifen schneiden.",
+        "Für die Vinaigrette Schalotte und Knoblauch schälen und fein hacken. Zusammen mit Sesamöl, geröstetem Sesamöl, Rotweinessig und Senf in ein Schraubglas geben, kräftig schütteln und mit Salz und Pfeffer abschmecken. Nach Bedarf Wasser dazugeben, um die gewünschte Konsistenz zu erhalten.",
+        "Gebackene Süßkartoffeln und Zuckerschoten in einer großen Schüssel mit der Vinaigrette vermengen. Mit Pinienkernen, Mais und getrockneten Tomaten toppen. Wer mag, kann den Salat noch mit Chili Crisp beträufeln."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

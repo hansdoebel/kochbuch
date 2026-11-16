@@ -1,0 +1,68 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-one-pot-pasta-a-la-ceci",
+  "recipes": [
+    {
+      "name": "Vegane One-Pot Pasta à la Ceci",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-one-pot-pasta-a-la-ceci",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-one-pot-pasta-a-la-ceci#recipe-e9377a57-5fe7-568e-aa1d-553d9c32833b",
+      "authors": [
+        "Anne-Sophie Hoffmann"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Pasta:",
+        "1 rote Zwiebel",
+        "1 Stange Lauch",
+        "2 Knoblauchzehen",
+        "1 TL Rapsöl",
+        "6 EL Tomatenmark",
+        "400 g gehackte Tomaten (Dose)",
+        "3 EL Balsamico",
+        "800 ml Gemüsebrühe",
+        "8 getrocknete Tomaten",
+        "2 EL Kapern",
+        "400 g Rigatoni",
+        "240 g Kichererbsen aus der Dose (Abtropfgewicht)",
+        "100 g Spinat",
+        "2 TL geräuchertes Paprikapulver",
+        "1 TL getrockneter Oregano",
+        "1 TL getrocknetes Basilikum",
+        "1 TL Agavendicksaft",
+        "1 Bio-Zitrone",
+        "3–4 EL Hummus",
+        "Salz",
+        "Pfeffer",
+        "Für den Saaten-Crunch:",
+        "2 EL Kürbiskerne",
+        "2 EL Sonnenblumenkerne",
+        "1 TL heller Sesam",
+        "0.5 TL schwarzer Sesam",
+        "1 TL Rapsöl",
+        "1 TL geräuchertes Paprikapulver",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "1 EL Kapern",
+        "Rapsöl zum Anbraten"
+      ],
+      "instructions": [
+        "Zwiebel, Lauch und Knoblauch schälen, putzen und fein hacken. Die getrockneten Tomaten ebenfalls klein schneiden. Rapsöl in einem großen Topf erhitzen und das Gemüse darin glasig anschwitzen. Tomatenmark zugeben und kurz mitrösten – das sorgt für ein intensives Aroma. Mit den Dosentomaten ablöschen, anschließend Balsamico, Gemüsebrühe, getrocknete Tomaten und Kapern einrühren. Mit Rauchpaprika, Oregano, Basilikum und Agavendicksaft abschmecken. Die Pasta direkt in den Topf geben, alles gut vermengen, Deckel aufsetzen und köcheln lassen. Falls die Pasta zu viel Flüssigkeit aufnimmt, etwas Brühe nachgießen.",
+        "Die Rigatoni nach Packungsanleitung kochen, wenn die Nudeln fast gar sind, Kichererbsen und Spinat hinzufügen. Weitere 2–5 Minuten köcheln lassen, bis die Rigatoni al dente sind.",
+        "Während die Pasta gart, Kürbis- und Sonnenblumenkerne sowie Sesam in einer Pfanne mit dem Öl rösten. Mit Rauchpaprika, Salz und Pfeffer würzen.",
+        "In einer weiteren Pfanne die restlichen Kapern in etwas Öl anbraten.",
+        "Etwa 2 EL vom Hummus in die Soße rühren, den Rest zum Servieren beiseite legen. Zitronensaft und -zeste zu der Pasta geben und kurz umrühren. Die Pasta mit einem Klecks Hummus, dem Saaten-Crunch und den gebratenen Kapern servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

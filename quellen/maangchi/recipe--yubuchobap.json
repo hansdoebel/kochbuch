@@ -1,0 +1,96 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/yubuchobap",
+  "recipes": [
+    {
+      "name": "Fried tofu stuffed with rice (Yubuchobap: 유부초밥)",
+      "source_url": "https://www.maangchi.com/recipe/yubuchobap",
+      "recipe_id": "/recipe/yubuchobap#sso/recipe/9476",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 small yubuchobap kit (with 14 triangle pieces inside)",
+        "2 cups of cooked rice (about 10 ounces: 300 grams), made from 1 cup of rice"
+      ],
+      "instructions": [
+        "Open the yubuchobap kit and find 3 packets: a packet of seasoned tofu (aka yubu), a packet of dried ingredients, and a packet of vinegared sauce.",
+        "Put the warm rice into a large shallow bowl. Mix in the packet of vinegared sauce little by little until it gets how you like it. A full packet is often too strong for me, I often use three-quarters of it.",
+        "Open the packet of seasoned tofu and squeeze out any excess liquid. Take out the tofu pieces one by one and open them up. Put them on a platter.",
+        "Open the mix of dried ingredients and put them on another corner of the platter.",
+        "Make a rice ball with a cookie dough scoop and put it in a tofu pouch. If you don’t have a cookie dough scoop, just use your hands by forming about 2 tablespoons of rice into a slightly oval ball, then put it into a tofu pouch. Fill the pouch so much that it can’t close, and the pouch opening exposes the rice inside.",
+        "Dip the exposed rice into the dried ingredients, and put the yubuchobap on a plate. Repeat it with a rest of tofu pockets until all of them are full of rice and seasoned.",
+        "Serve right away or put them into your lunch box. It’ll be safe to eat up to several hours at room temperature."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients (1 or 2 servings)"
+        },
+        {
+          "tag": "li",
+          "text": "1 small yubuchobap kit (with 14 triangle pieces inside)"
+        },
+        {
+          "tag": "li",
+          "text": "2 cups of cooked rice (about 10 ounces: 300 grams), made from 1 cup of rice"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare everything"
+        },
+        {
+          "tag": "li",
+          "text": "Open the yubuchobap kit and find 3 packets: a packet of seasoned tofu (aka yubu), a packet of dried ingredients, and a packet of vinegared sauce."
+        },
+        {
+          "tag": "li",
+          "text": "Put the warm rice into a large shallow bowl. Mix in the packet of vinegared sauce little by little until it gets how you like it. A full packet is often too strong for me, I often use three-quarters of it."
+        },
+        {
+          "tag": "li",
+          "text": "Open the packet of seasoned tofu and squeeze out any excess liquid. Take out the tofu pieces one by one and open them up. Put them on a platter."
+        },
+        {
+          "tag": "li",
+          "text": "Open the mix of dried ingredients and put them on another corner of the platter."
+        },
+        {
+          "tag": "h3",
+          "text": "Make yubuchobap"
+        },
+        {
+          "tag": "li",
+          "text": "Make a rice ball with a cookie dough scoop and put it in a tofu pouch. If you don’t have a cookie dough scoop, just use your hands by forming about 2 tablespoons of rice into a slightly oval ball, then put it into a tofu pouch. Fill the pouch so much that it can’t close, and the pouch opening exposes the rice inside."
+        },
+        {
+          "tag": "li",
+          "text": "Dip the exposed rice into the dried ingredients, and put the yubuchobap on a plate. Repeat it with a rest of tofu pockets until all of them are full of rice and seasoned."
+        },
+        {
+          "tag": "h3",
+          "text": "Serve"
+        },
+        {
+          "tag": "li",
+          "text": "Serve right away or put them into your lunch box. It’ll be safe to eat up to several hours at room temperature."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,48 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/ground-chicken-and-crispy-potato-bowl",
+  "recipes": [
+    {
+      "name": "Ground Chicken and Crispy Potato Bowl",
+      "source_url": "https://app.cookwell.com/recipe/ground-chicken-and-crispy-potato-bowl",
+      "recipe_id": "https://app.cookwell.com/recipe/ground-chicken-and-crispy-potato-bowl",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2 bowls",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT1H",
+      "ingredients": [
+        "Russet potatoes, 2",
+        "Salt, 2 g",
+        "Smoked Paprika, 2 g",
+        "Garlic Powder, 2 g",
+        "Neutral oil, 20 g",
+        "Chicken Breasts, 500 g",
+        "Salt, 5 g",
+        "Cumin, 4 g",
+        "Chili Powder, 4 g",
+        "Low-moisture mozzarella, 60 g",
+        "Yogurt sauce, 30 g",
+        "Lettuce",
+        "Pico de gallo",
+        "Pickled onions"
+      ],
+      "instructions": [
+        "Dice the potatoes, then add them to a pot and cover with cold water. Add a sprinkle of salt, then bring the water to a boil. Boil until the potatoes are mostly tender but still hold their shape, then drain thoroughly.",
+        "While the potatoes boil, cut the chicken breasts into chunks, then add them to a food processor with the cumin, ancho chili powder, and salt. Pulse until the chicken forms a cohesive ground mixture, being careful not to overwork the meat (you don’t want it to become tacky).",
+        "Transfer the drained potatoes to a metal bowl. Season with the garlic powder, smoked paprika, remaining salt, and oil. Toss until the potato cubes are evenly coated. Transfer to an air fryer or preheated oven and roast at 400°F (205°C) for about 12–18 minutes, shaking once or twice, until deeply golden and crisp.",
+        "Heat a large skillet over medium-high heat, and add a thin layer of oil. Add the chicken mixture and press it into one even layer across the pan to sear. Leave it undisturbed briefly so the bottom begins to brown. Then, break the chicken apart with a spatula and continue searing until cooked through. Remove from the heat.",
+        "Divide the potatoes into two serving bowls, then top each with 250 g of ground chicken, 50 g of cheese, and 25 g of yogurt sauce. Garnish with lettuce, pico de gallo, and pickled onions, or other toppings of choice."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

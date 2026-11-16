@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/tahini-vinaigrette-dressing-268",
+  "recipes": [
+    {
+      "name": "Tahini Vinaigrette Dressing",
+      "source_url": "https://www.pickuplimes.com/recipe/tahini-vinaigrette-dressing-268",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "½ cup tahini",
+        "½ cup water",
+        "2 Tbsp fresh lemon juice",
+        "1 Tbsp extra-virgin olive oil",
+        "1 Tbsp red wine vinegar",
+        "1 garlic clove",
+        "½ tsp ground cumin",
+        "½ tsp sweet paprika powder",
+        "⅛ tsp salt"
+      ],
+      "instructions": [
+        "Add all of the ingredients to a jar.",
+        "Mix until smooth. The mixture might appear too thin at first, but just keep stirring! It will naturally thicken.",
+        "Pour over your favourite salad, toss to coat, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Use golden tahini made from lightly toasted sesame seeds, rather than pale tahini made from raw seeds. † For us, 1 lemon yielded about 2 Tbsp (30 mL) of lemon juice.",
+    "Storage Store in an airtight container in the fridge for up to 4 days."
+  ]
+}

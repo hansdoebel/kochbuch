@@ -1,0 +1,123 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/ojingeo-bokkeum",
+  "recipes": [
+    {
+      "name": "Spicy stir fried squid (Ojingeo-bokkeum)",
+      "source_url": "https://www.maangchi.com/recipe/ojingeo-bokkeum",
+      "recipe_id": "/recipe/ojingeo-bokkeum#sso/recipe/90",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "Serves 2 to 4",
+      "prep_time": "P0DT0H20M0S",
+      "cook_time": "P0DT0H13M0S",
+      "total_time": "P0DT0H33M0S",
+      "ingredients": [
+        "1 pound cleaned squid, cut into bite size pieces (about 2″ x ½”)",
+        "2 tablespoons of vegetable oil",
+        "1 tablespoon potato starch",
+        "6 garlic cloves, minced",
+        "1 teaspoon minced ginger",
+        "3 tablespoons of soy sauce",
+        "3 tablespoons hot pepper flakes (gochugaru)",
+        "2 teaspoons of sugar",
+        "12 green onions, cut into 2 inch long",
+        "1 green chili pepper, sliced",
+        "1 medium onion (about 7 ounces), sliced",
+        "1 small carrot (about ½ cup worth), sliced into thin strips (about 2″ x ½”)"
+      ],
+      "instructions": [
+        "Combine the potato starch and ¼ cup water in a small bowl and mix well.",
+        "Combine garlic, ginger, soy sauce, hot pepper flakes, and sugar in a bowl and mix well.",
+        "Heat up a pan over medium high heat. Add the vegetable oil and stir-fry the onion, carrot, green onion, and green chili pepper for about 7 to 8 minutes until the green onions are wilted and the onion is a little translucent. Add the squid and seasoning paste. Stir fry for a few minutes until the squid turns opaque. Mix in the slurry and cook for 30 seconds.",
+        "Serve right away as a side dish for rice."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 2 to 4"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound cleaned squid, cut into bite size pieces (about 2″ x ½”)"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons of vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon potato starch"
+        },
+        {
+          "tag": "h3",
+          "text": "For seasoning paste:"
+        },
+        {
+          "tag": "li",
+          "text": "6 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon minced ginger"
+        },
+        {
+          "tag": "li",
+          "text": "3 tablespoons of soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "3 tablespoons hot pepper flakes (gochugaru)"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons of sugar"
+        },
+        {
+          "tag": "h3",
+          "text": "Vegetables:"
+        },
+        {
+          "tag": "li",
+          "text": "12 green onions, cut into 2 inch long"
+        },
+        {
+          "tag": "li",
+          "text": "1 green chili pepper, sliced"
+        },
+        {
+          "tag": "li",
+          "text": "1 medium onion (about 7 ounces), sliced"
+        },
+        {
+          "tag": "li",
+          "text": "1 small carrot (about ½ cup worth), sliced into thin strips (about 2″ x ½”)"
+        },
+        {
+          "tag": "p",
+          "text": "DirectionsMake slurryCombine the potato starch and ¼ cup water in a small bowl and mix well.Make seasoning pasteCombine garlic, ginger, soy sauce, hot pepper flakes, and sugar in a bowl and mix well.Stir fry!Heat up a pan over medium high heat. Add the vegetable oil and stir-fry the onion, carrot, green onion, and green chili pepper for about 7 to 8 minutes until the green onions are wilted and the onion is a little translucent.Add the squid and seasoning paste. Stir fry for a few minutes until the squid turns opaque.Mix in the slurry and cook for 30 seconds."
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h3",
+          "text": "Serve"
+        },
+        {
+          "tag": "li",
+          "text": "Serve right away as a side dish for rice."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

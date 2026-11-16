@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/coconut-citrus-green-smoothie-794",
+  "recipes": [
+    {
+      "name": "Coconut & Citrus Green Smoothie",
+      "source_url": "https://www.pickuplimes.com/recipe/coconut-citrus-green-smoothie-794",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "2 orange",
+        "2 Medjool date",
+        "1 frozen banana",
+        "1 avocado",
+        "½ cup canned light coconut milk",
+        "½ cup unsweetened soy milk",
+        "½ cup unsweetened coconut yogurt",
+        "5 fresh mint leaves",
+        "1½ cup spinach"
+      ],
+      "instructions": [
+        "Combine all of the ingredients in a blender. Blend until smooth.",
+        "Divide into glasses and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium .",
+    "Storage Best enjoyed immediately."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/ranch-roasted-potato-wedges-142",
+  "recipes": [
+    {
+      "name": "Ranch Roasted Potato Wedges",
+      "source_url": "https://www.pickuplimes.com/recipe/ranch-roasted-potato-wedges-142",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT35M",
+      "total_time": "PT45M",
+      "ingredients": [
+        "3 medium potato",
+        "1 Tbsp vegetable oil",
+        "¾ tsp dried parsley",
+        "¾ tsp nutritional yeast flakes",
+        "½ tsp dried chives",
+        "¼ tsp garlic powder",
+        "¼ tsp onion powder",
+        "⅛ tsp dried dill",
+        "⅛ tsp salt",
+        "1 pinch ground black pepper"
+      ],
+      "instructions": [
+        "Line two baking trays and preheat the oven to 400°F (200°C)*.",
+        "Cut the potatoes in half lengthwise, then cut into wedges about ½ inch (1 cm) thick. Transfer to a large bowl.",
+        "Add all the remaining ingredients and toss to coat.",
+        "Spread the potatoes out over the baking trays.",
+        "Bake for 30 to 40 minutes, or until golden. Give the potatoes a flip once at the halfway point. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Store in an airtight container in the fridge for up to 3 days. Reheat in the oven to retain crispiness."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-frischkaesebroetchen-mit-knoblauchbutter",
+  "recipes": [
+    {
+      "name": "Vegane Frischkäsebrötchen mit Knoblauchbutter",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-frischkaesebroetchen-mit-knoblauchbutter",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-frischkaesebroetchen-mit-knoblauchbutter#recipe-1caef496-e561-58cb-a951-6d7bf15d98ba",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Brötchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "Für die Knoblauchbutter:",
+        "1 ganze Knolle Knoblauch",
+        "100 g vegane Butter",
+        "1 EL frische Petersilie",
+        "1 TL Zucker",
+        "Olivenöl",
+        "Salz",
+        "Pfeffer",
+        "Für die Frischkäsefüllung:",
+        "125 g veganer Frischkäse (z. B. [Petrella Knoblauch&Kräuter oder Schnittlauch](www.petrella.de))",
+        "2 EL pflanzliche Milch",
+        "Außerdem:",
+        "4 vegane Brioche-Burger-Brötchen",
+        "veganer Parmesan"
+      ],
+      "instructions": [
+        "Den Ofen auf 180 °C (Ober-/Unterhitze) vorheizen. Von der Knoblauchknolle oben circa ein Drittel abschneiden, sodass die einzelnen Zehen sichtbar werden. Mit etwas Olivenöl beträufeln, mit Salz würzen und in Alufolie einwickeln. Circa 30–35 Minuten im Ofen rösten, bis der Knoblauch weich und goldbraun ist.",
+        "In der Zwischenzeit für die Frischkäsefüllung den veganen Frischkäse mit der pflanzlichen Milch glattrühren, bis eine cremige Konsistenz entsteht. In einen Beutel füllen, sodass ihr die Creme aufspritzen könnt.",
+        "Die Brötchen vorbereiten: Dafür den oberen Teil (den „Deckel“) dreimal einschneiden, sodass 6 dreieckige Segmente entstehen. Dabei nicht komplett durchschneiden – der Boden des Brötchens sollte intakt bleiben, damit alles zusammenhält.",
+        "Die vegane Butter schmelzen. Den gerösteten Knoblauch aus der Folie nehmen und die weichen Zehen herausdrücken. Mit der geschmolzenen Butter, gehackter Petersilie, Zucker, Salz und Pfeffer vermischen und den Knoblauch dabei gut zerdrücken.",
+        "Den Backofen nun auf 180 °C (Umluft) wechseln. Ein Backblech mit Backpapier belegen und die Buns darauf platzieren. Die Frischkäsecreme nun in die Einschnitte jedes Brötchens füllen. Einen kleinen Rest Frischkäsecreme übrig lassen, sodass ihr nach dem Backen noch einen Klecks für die Mitte habt. Die Brötchen danach mit Knoblauchbutter übergießen. Ihr könnt sie auch in die Knoblauchbutter kopfüber tunken, wenn die Brötchen stabil genug sind.",
+        "Die Brötchen circa 10–15 Minuten backen, bis sie außen knusprig sind. Auf jeden Bun einen letzten Klecks der Frischkäsecreme geben und noch warm mit etwas geriebenem Parmesan servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

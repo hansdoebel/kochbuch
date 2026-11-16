@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/knusprig-und-suess-sonnenblumenbrot-mit-chia",
+  "recipes": [
+    {
+      "name": "Süßes Sonnenblumenbrot mit Chia",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/knusprig-und-suess-sonnenblumenbrot-mit-chia",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/knusprig-und-suess-sonnenblumenbrot-mit-chia#recipe-068de10b-fa70-5e92-8b28-1393234be651",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Brot",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "300ml pflanzliche Milch",
+        "3 TL Trockenhefe",
+        "70 g Ahornsyrup",
+        "70 g Haferflocken",
+        "3 EL vegane Butter (geschmolzen)",
+        "390 g Mehl",
+        "100 g Sonnenblumenkerne",
+        "2 EL Leinsamen",
+        "3 EL Chia Samen",
+        "1/2 TL Zimt",
+        "1/2 TL Salz"
+      ],
+      "instructions": [
+        "Erwärme die Milch in einem Topf, bis sie lauwarm bis warm, aber nicht heiß ist.",
+        "Nimm den Topf vom Herd und gib die Hefe und die Haferflocken dazu. Für fünf Minuten quellen lassen.",
+        "Lass deine Butter in einem kleinen Topf schmelzen und gib sie dazu. Sie darf nicht zu heiß sein.",
+        "Nun kannst du das ganze in eine große Schüssel geben und das Mehl, Salz und den Zimt ebenfalls mit den Händen unterkneten.",
+        "Wenn ihr einen schönen Teig bekommt, kommen auch noch die Sonnenblumenkerne, die Leinsamen, Ahornsyrup und die Chia Samen hinzu.",
+        "Den Teig in eine große Schüssel geben. Ein feuchtes Tuch darüber legen und das Brot an einem warmen Platz ca. eine Stunde gehen lassen.",
+        "Sobald der Teig etwas aufgegangen ist, nehmt ihr ihn aus der Schüssel knetet ihn nochmal ordentlich durch und gebt ihn nun in eine eingefettete Brotbackform.",
+        "In der Brotbackform lasst ihr den Teig nochmals 30 Minuten gehen. Auf das Brot könnt ihr nun noch Haferflocken, Leinsamen und Chiasamen verteilen.",
+        "Anschließend schiebt ihr ihn in den Ofen und backt ihr für 40 Minuten bei 190° Grad.",
+        "Das Brot ist leicht süßlich und passt super zu Käse, Schokoladenaufstrichen und süßen Fruchtaufstrichen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

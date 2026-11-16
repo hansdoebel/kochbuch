@@ -1,0 +1,89 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/taco-cups-mit-chili-con-suesskartoffel",
+  "recipes": [
+    {
+      "name": "Taco Cups mit Chili con Süßkartoffel",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/taco-cups-mit-chili-con-suesskartoffel",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/taco-cups-mit-chili-con-suesskartoffel#recipe-531b0aa3-a2d9-559a-a452-5b7a495750ef",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "18 Taco Cups",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "18 weiche Tacos",
+        "1 Süßkartoffel",
+        "2 Knoblauchzehen",
+        "2 Zwiebel",
+        "1 Möhre",
+        "1 Paprika",
+        "1 Dose Kidneybohnen",
+        "1 TL scharfes Paprikapulver",
+        "1 Dose gehackte Tomaten",
+        "100 ml Wasser (nach Bedarf)",
+        "4 EL Tomatenmark",
+        "1 TL Kreuzkümmel",
+        "1 EL getrockneter Oregano",
+        "1 EL getrocknetes Basilikum",
+        "1 TL Chilipulver",
+        "50 g Walnüsse",
+        "1 TL Sojasauce",
+        "1 TL Agavendicksaft",
+        "1 Limette",
+        "1 Avocado zum Servieren",
+        "Koriander zum Servieren",
+        "Salz",
+        "Pfeffer",
+        "veganer Schmand (siehe Rezept unten)"
+      ],
+      "instructions": [
+        "Süßkartoffel, Karotte, Paprika und Zwiebel gegebenfalls waschen und in Würfel schneiden. Knoblauch schälen und hacken. Paprikapulver, Kreuzkümmel, Oregano, Basilikum, Chili, Salz und Pfeffer in einer kleinen Schüssel vermengen.",
+        "Olivenöl in einem großen Topf über mittlerer Hitze erwärmen und das geschnittene Gemüse ca. 2 – 3 Minuten anbraten. Die Gewürzmischung dazugeben und vermengen und weitere 2 – 3 Minuten braten. Agavendicksaft und Sojasauce dazugeben und 1 Minute braten lassen.",
+        "Die Dose Kidneybohnen abgießen und die Bohnen unter klarem Wasser abspülen. Tomatenmark, Kidneybohnen, gestückelte Tomaten und gehackte Walnüsse in den Topf geben und vermengen. Ca. 15 Min. köcheln lassen und mit Salz, Pfeffer und Limettensaft abschmecken. Falls nötig mehr Wasser dazugeben.",
+        "Die weichen Tortillas in eine Muffinform geben, dafür müsst ihr sie etwas zusammenfalten. Das Süßkartoffel-Chili in jeden Cup füllen. Bei 190°C ca. 15 Minuten backen.",
+        "Die Taco Cups aus dem Ofen nehmen und etwas abkühlen lassen. Mit Guacamole, veganem Schmand und Koriander servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Vegane Sour Cream",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/taco-cups-mit-chili-con-suesskartoffel",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/taco-cups-mit-chili-con-suesskartoffel#recipe-1839977b-1f0f-5050-9996-bfe18d29ce59",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "350 g",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "200 g Sojaquark",
+        "150 g veganer Frischkäse",
+        "1 TL Knoblauchpulver",
+        "1 EL Apfelessig",
+        "1 Zitrone (Saft)",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Zitrone auspressen.",
+        "In einer Schüssel alle Zutaten verrühren, Zitronensaft dazurühren.",
+        "Mit Salz & Pfeffer abschmecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

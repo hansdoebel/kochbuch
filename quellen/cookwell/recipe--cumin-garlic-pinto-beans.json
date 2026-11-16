@@ -1,0 +1,39 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/cumin-garlic-pinto-beans",
+  "recipes": [
+    {
+      "name": "Cumin Garlic Pinto Beans",
+      "source_url": "https://app.cookwell.com/recipe/cumin-garlic-pinto-beans",
+      "recipe_id": "https://app.cookwell.com/recipe/cumin-garlic-pinto-beans",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "Cooking oil, 15 g",
+        "Garlic, 2 cloves",
+        "Cumin seeds, 3 g",
+        "Pinto Beans, 800 g",
+        "Salt, to taste",
+        "Lime juice, to taste",
+        "Lime zest, a sprinkle"
+      ],
+      "instructions": [
+        "Set a pan over medium heat and add the oil. Once hot, add the cumin seeds and garlic cloves. Toast until fragrant but not burning, about 30 seconds.",
+        "Add the pinto beans and their liquid to the pan with a large salt pinch. Stir and bring to a simmer. Using a fork or potato masher, partially mash the beans to your desired consistency.",
+        "Once the beans have reduced to your desired consistency, turn off the heat. Taste them! Add salt as needed. Then, add a splash of lime juice for acidity and grate some zest from the same lime. Taste and add more if desired. Serve as a side or use as a spread. These keep well in the fridge."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

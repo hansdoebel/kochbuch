@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/pappardelle-mit-pilzragout",
+  "recipes": [
+    {
+      "name": "Pappardelle mit Pilzragout",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/pappardelle-mit-pilzragout",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/pappardelle-mit-pilzragout#recipe-3cd18e4a-81b8-52dc-bfc1-93eba2a6192b",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "400 g Pappardelle",
+        "30 g getrocknete Steinpilze",
+        "250 ml heißes Wasser",
+        "300 g frische Pilze nach Wahl (z. B. Champignons, Austernseitlinge, ...)",
+        "2 Zwiebeln",
+        "2 Knoblauchzehen",
+        "3 Zweige Thymian",
+        "5 Salbeiblätter",
+        "2 EL Tomatenmark",
+        "1 EL Senf",
+        "200 ml veganer Rotwein",
+        "Salz",
+        "Pfeffer",
+        "Olivenöl zum Braten",
+        "Kresse zum Bestreuen",
+        "-"
+      ],
+      "instructions": [
+        "Getrocknete Steinpilze 30 Minuten in heißem Wasser einweichen. In der Zwischenzeit die frischen Pilze putzen und klein schneiden, die Zwiebeln schälen und fein würfeln und die Knoblauchzehen fein hacken. Sobald die getrockneten Steinpilze weich sind, aus der Brühe nehmen und ebenfalls klein schneiden. Die Steinpilzbrühe unbedingt aufheben und nicht weggießen!",
+        "Olivenöl in einer Pfanne erhitzen und die Zwiebeln und Knoblauchzehen darin über mittlerer Hitze anschwitzen, bis die Zwiebelwürfel glasig sind. Frische und getrocknete Pilze dazugeben. Thymian- und Salbeiblätter fein hacken, ebenfalls dazugeben und alles 10 Minuten anbraten.",
+        "Tomatenmark und Senf dazugeben und weitere 3 Minuten anbraten. Danach mit Rotwein ablöschen und ihn 5 Minuten auf mittlerer Hitze einköcheln lassen. Jetzt den Pilzsud der getrockneten Pilze dazugeben und kräftig mit Salz und Pfeffer würzen. Alles gemeinsam so lange köcheln, bis die Nudeln fertig sind. Kurz vor Schluss nochmal abschmecken.",
+        "In der Zwischenzeit die Pappardelle in gesalzenem kochendem Wasser al dente kochen. Sobald sie fertig sind, abgießen, aber einen Teil des Kochwassers auffangen. Die Nudeln direkt zur Soße geben und gut durchschwenken. Dabei so viel Kochwasser der Nudeln dazugeben, bis eine sämige Pilzsoße entsteht, die die Nudeln ummantelt. Vor dem Servieren mit Kresse bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/simple-vegane-tomatensuppe",
+  "recipes": [
+    {
+      "name": "Simple vegane Tomatensuppe (von Isas Oma)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/simple-vegane-tomatensuppe",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/simple-vegane-tomatensuppe#recipe-e168042b-5d20-5c00-ab3e-d67259e2fe1b",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Für die Suppe:",
+        "1 kg Rund- oder Fleischtomaten",
+        "1 rote Paprika",
+        "1 kleine Chilischote",
+        "2 Knoblauchzehen",
+        "2 Zwiebeln",
+        "3 EL Tomatenmark",
+        "5 g frischer Basilikum",
+        "Gemüsebrühe",
+        "Salz",
+        "Pfeffer",
+        "neutrales Pflanzenöl zum Braten",
+        "frischer Oregano und Liebstöckel (optional)",
+        "Zum Servieren:",
+        "vegane Kochsahne"
+      ],
+      "instructions": [
+        "Tomaten, Paprika und Chilischote waschen und klein schneiden. Die Kerne der Chilischote gegebenenfalls entfernen. Knoblauch und Zwiebeln schälen und ebenfalls klein schneiden.",
+        "Pflanzenöl in einem großen Topf bei mittlerer Hitze erwärmen. Zuerst Knoblauch, Zwiebel und Chili 3–4 Minuten anschwitzen, bis die Zwiebelstückchen glasig sind. Danach geschnittene Tomaten, Paprika, Tomatenmark, frischen Basilikum, nach Belieben auch frischen Oregano und Liebstöckel dazugeben und alles 8–10 Minuten anbraten.",
+        "Die gebratenen Zutaten mit Gemüsebrühe bedecken und das Gemüse circa 60 Minuten bei niedriger Hitze köcheln lassen. Falls alles zu sehr andickt, mehr Brühe hinzugeben.",
+        "Die Suppe glatt pürieren und mit Salz und Pfeffer abschmecken. Auch hier nach Bedarf mehr Gemüsebrühe dazugeben, bis die gewünschte Konsistenz erreicht ist. Die Tomatensuppe mit veganer Sahne servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

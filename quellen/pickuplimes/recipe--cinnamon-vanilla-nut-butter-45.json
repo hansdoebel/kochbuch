@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/cinnamon-vanilla-nut-butter-45",
+  "recipes": [
+    {
+      "name": "Cinnamon Vanilla Nut Butter",
+      "source_url": "https://www.pickuplimes.com/recipe/cinnamon-vanilla-nut-butter-45",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "21 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT14M",
+      "total_time": "PT24M",
+      "ingredients": [
+        "1½ cup raw pecans",
+        "1½ cup raw cashews",
+        "1 Tbsp ground cinnamon",
+        "½ tsp pure vanilla extract",
+        "¼ tsp salt"
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F (180°C)*. Spread the cashews on one baking tray, and the pecans on another. Toast for 7 minutes. Remove the pecan tray from the oven and set it aside to cool.",
+        "Stir the cashews and return them to the oven to toast for an extra 5 minutes, or until lightly golden. Careful not to burn. When toasted, remove from the oven.",
+        "In a food processor (ideally 600W or higher), combine the toasted nuts, cinnamon, vanilla, and salt. Blend on high for 5 to 7 minutes until smooth**.",
+        "Transfer to a jar for storage. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection). ** If your food processor isn't very powerful, blend for up to an extra 5 minutes or consider adding a bit of vegetable or coconut oil.",
+    "Storage Store in an airtight container in the fridge for up to 2 months."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/super-leichtes-veganes-blaubeer-granola",
+  "recipes": [
+    {
+      "name": "Super leichtes, veganes Blaubeer-Granola",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/super-leichtes-veganes-blaubeer-granola",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/super-leichtes-veganes-blaubeer-granola#recipe-f6df0828-643d-51d2-b38e-95b1e69d7222",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Blech",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Granola",
+        "200 g kernige Haferflocken",
+        "100 g Mandelscheiben (oder Stifte)",
+        "100 g gehackte Mandeln",
+        "100 g Haselnüsse",
+        "150 g frische Blaubeeren",
+        "80 g Kokosöl",
+        "1/2 (ca. 100 g, gewogen mit Schale) Banane",
+        "2 EL Agavendicksaft",
+        "3 EL Apfelmuß",
+        "Serviervorschlag",
+        "pflanzlicher Joghurt oder Quark",
+        "pflanzliche Milch",
+        "frische Beeren und Früchte"
+      ],
+      "instructions": [
+        "Den Ofen auf 180°C Umluft vorheizen.",
+        "Die Mandeln grob hacken und das Kokosnussöl (falls nötig) in einem kleinen Topf verflüssigen.",
+        "In einer Schüssel die Haferflocken, Mandelscheiben (oder Stifte), gehackten Mandeln und Haselnüsse vermischen.",
+        "In einer kleinen Schüssel eine halbe Banane mit einer Gabel zerdrücken. Anschließend das flüßige Kokosnussöl, den Agavendicksaft und das Apfelmuß hinzugeben und zu einer homogenen Masse verrühren.",
+        "Die Flüssigkeit über die Haferflocken und Nüsse geben und alles gut vermischen.",
+        "Ein Backblech mit Backpapier belegen, das Granola darauf gleichmäßig verteilen und für 35-45 Minuten gold-braun backen, bis alles gut geröstet und nicht mehr feucht ist. Ab und zu wenden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

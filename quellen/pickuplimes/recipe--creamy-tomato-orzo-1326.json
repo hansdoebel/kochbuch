@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/creamy-tomato-orzo-1326",
+  "recipes": [
+    {
+      "name": "Creamy Tomato Orzo",
+      "source_url": "https://www.pickuplimes.com/recipe/creamy-tomato-orzo-1326",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT15M",
+      "total_time": "PT20M",
+      "ingredients": [
+        "2 tsp olive oil",
+        "3 cup cherry tomatoes",
+        "2 cup water",
+        "1 cup orzo pasta",
+        "1 vegetable bouillon cube",
+        "½ Tbsp Italian seasoning",
+        "⅛ tsp ground black pepper",
+        "¾ cup frozen green peas",
+        "¾ cup fresh basil leaves",
+        "1 Tbsp toasted pine nuts",
+        "¼ tsp chili flakes"
+      ],
+      "instructions": [
+        "Heat the oil in a sauté pan over high heat. Cook the tomatoes for 3 minutes.",
+        "Then add the water, orzo, bouillon, Italian seasoning, and pepper.",
+        "Cook at a gentle simmer for 10 minutes, until the orzo is al dente. Stir occasionally, and mash the tomatoes with the back of the spatula to extract their flavour and juices.",
+        "Then add the peas and basil. Cook for 1 - 2 more minutes.",
+        "Garnish and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Best to enjoy immediately, as orzo tends to dry out as it cools. Store leftovers in the fridge for up to 2 days."
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/rice",
+  "recipes": [
+    {
+      "name": "Rice, scorched rice, & scorched rice tea (Bap, nurungji, & sungnyung)",
+      "source_url": "https://www.maangchi.com/recipe/rice",
+      "recipe_id": "/recipe/rice#sso/recipe/9479",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 cup of short grain rice",
+        "water"
+      ],
+      "instructions": [
+        "Put the rice into a heavy bottomed pot. Rinse in cold water and drain, then scrub the wet rice with your hand.",
+        "Rinse and drain until the drained water is clear, then drain out the last of the water by tilting the pot as much as you can. The rice should still be wet.",
+        "Add 1 cup of water to the pot and soak for 30 minutes with the lid closed.",
+        "Bring to a boil over medium high heat and let it cook for about 10 minutes. Open the lid and turn over the rice with a spoon.",
+        "If you want to make nurungji, then let it simmer for another 10 minutes, long enough for some rice to get burnt on the bottom. If you don’t want to make nurungji, then cook for a shorter time, around 5 to 8 minutes.",
+        "Scoop all the cooked rice out of the pot and leave the scorched rice in the bottom.",
+        "Simmer the pot for 2 minutes with the lid closed over low heat.",
+        "Open the lid and sprinkle some drops of water over the rice with your fingertips. Cover it again and let it cook for 1 more minute.",
+        "Than scrape out the nurungji from the outside in with a spoon, you’ll see it comes out a lot easier.",
+        "After removing as much nurungji from the pot as you can, pour in 2 cups of water.",
+        "Boil the water over low heat and serve."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup of short grain rice"
+        },
+        {
+          "tag": "li",
+          "text": "water"
+        },
+        {
+          "tag": "h3",
+          "text": "Make rice:"
+        },
+        {
+          "tag": "p",
+          "text": "Yield: 2 servings of cooked rice"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Put the rice into a heavy bottomed pot. Rinse in cold water and drain, then scrub the wet rice with your hand."
+        },
+        {
+          "tag": "li",
+          "text": "Rinse and drain until the drained water is clear, then drain out the last of the water by tilting the pot as much as you can. The rice should still be wet."
+        },
+        {
+          "tag": "li",
+          "text": "Add 1 cup of water to the pot and soak for 30 minutes with the lid closed."
+        },
+        {
+          "tag": "li",
+          "text": "Bring to a boil over medium high heat and let it cook for about 10 minutes. Open the lid and turn over the rice with a spoon."
+        },
+        {
+          "tag": "li",
+          "text": "If you want to make nurungji, then let it simmer for another 10 minutes, long enough for some rice to get burnt on the bottom. If you don’t want to make nurungji, then cook for a shorter time, around 5 to 8 minutes."
+        },
+        {
+          "tag": "p",
+          "text": "Fluffy rice is ready!"
+        },
+        {
+          "tag": "h3",
+          "text": "To get the nurungji out of the pot:"
+        },
+        {
+          "tag": "li",
+          "text": "Scoop all the cooked rice out of the pot and leave the scorched rice in the bottom."
+        },
+        {
+          "tag": "li",
+          "text": "Simmer the pot for 2 minutes with the lid closed over low heat."
+        },
+        {
+          "tag": "li",
+          "text": "Open the lid and sprinkle some drops of water over the rice with your fingertips. Cover it again and let it cook for 1 more minute."
+        },
+        {
+          "tag": "li",
+          "text": "Than scrape out the nurungji from the outside in with a spoon, you’ll see it comes out a lot easier."
+        },
+        {
+          "tag": "h3",
+          "text": "Make sungnyung (scorched rice tea):"
+        },
+        {
+          "tag": "li",
+          "text": "After removing as much nurungji from the pot as you can, pour in 2 cups of water."
+        },
+        {
+          "tag": "li",
+          "text": "Boil the water over low heat and serve."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

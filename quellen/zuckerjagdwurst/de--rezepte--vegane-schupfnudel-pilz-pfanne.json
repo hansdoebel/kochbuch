@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schupfnudel-pilz-pfanne",
+  "recipes": [
+    {
+      "name": "Vegane Schupfnudel-Pilz-Pfanne",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schupfnudel-pilz-pfanne",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schupfnudel-pilz-pfanne#recipe-81d4d05b-64c0-53b7-a71e-5f0237e7c621",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für die Schupfnudeln:",
+        "450 g mehligkochende Kartoffeln",
+        "100 g Weizenmehl (Type 405)",
+        "1 EL Speisestärke",
+        "2 EL vegane Butter",
+        "2 EL Sojamehl",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "Für die Pilzpfanne:",
+        "15 g getrocknete Steinpilze (oder Shiitakepilze)",
+        "250 ml heißes Wasser",
+        "750 g gemischte frische Pilze",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "100 ml vegane Kochsahne",
+        "5 Zweige Thymian",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "neutrales Pflanzenöl zum Braten",
+        "Zum Servieren:",
+        "frische Petersilie"
+      ],
+      "instructions": [
+        "Getrocknete Pilze in 250 Milliliter heißes Wasser geben und circa 30 Minuten einweichen lassen. In der Zwischenzeit für die Schupfnudeln die Kartoffeln ungeschält in einem Topf mit kaltem Wasser bedecken, salzen und circa 20 Minuten kochen, bis sie weich sind. Danach abgießen, ein paar Minuten ruhen lassen und schälen, sobald sie handwarm sind.",
+        "Während die Kartoffeln kochen und ausdampfen, mit der restlichen Soße beginnen. Frische Pilze klein schneiden, Zwiebel und Knoblauch schälen und fein würfeln. Pflanzenöl in einer Pfanne erhitzen und zuerst die Zwiebelwürfel bei kleiner Hitze 3–4 Minuten anschwitzen, bis sie glasig sind. Knoblauch dazugeben und eine weitere Minute anbraten. Nun die frischen Pilze dazugeben, die Hitze erhöhen und die Pilze circa 10 Minuten bei mittlerer Hitze anbraten, bis sie beginnen, zu bräunen.",
+        "Die getrockneten Pilze abgießen, aber die Brühe auffangen und aufheben. Die eingeweichten Pilze klein schneiden und in die Pfanne geben. Alles gemeinsam weitere 10 Minuten anbraten. Danach die Pilzbrühe, vegane Sahne und Thymianblätter dazugeben. Die Pilzpfanne auf kleiner Hitze weiterköcheln lassen, bis die Schupfnudeln fertig sind. Mit Salz und Pfeffer abschmecken.",
+        "Die geschälten Kartoffeln in einer Schüssel zusammen mit Mehl, Speisestärke, weicher veganer Butter und Sojamehl mithilfe eines Kartoffelstampfers oder einer Gabel zerdrücken, sodass eine glatte Masse ohne Stückchen entsteht. Mit Salz, Pfeffer und Muskat würzen. Wenn sie zu klebrig ist, etwas mehr Mehl dazugeben. Den Teig vierteln und jeweils zu einer Rolle formen. Diese in circa 5 Zentimeter lange Stücke schneiden und zu einer Schupfnudel formen, sodass sie an beiden Enden spitz zulaufen.",
+        "Gesalzenes Wasser in einem großen Topf zum Sieden bringen und die Schupfnudeln darin portionsweise circa 3 Minuten garen. Das Wasser sollte zu keinem Zeitpunkt kochen.",
+        "Sobald die ersten Schupfnudeln im Wasser sind, parallel etwas Pflanzenöl in einer gut beschichteten Pfanne erhitzen. Die fertig gekochten Schupfnudeln aus dem Wasser nehmen, kurz abtropfen lassen und danach direkt in die Pfanne geben und portionsweise anbraten.",
+        "Die gebratenen Schupfnudeln mit der Pilzsoße servieren und mit frischer Petersilie toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

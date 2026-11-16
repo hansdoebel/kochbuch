@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/einfaches-fruchtiges-rotkraut",
+  "recipes": [
+    {
+      "name": "Einfaches, fruchtiges Rotkraut",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/einfaches-fruchtiges-rotkraut",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/einfaches-fruchtiges-rotkraut#recipe-ac8088d6-8c89-5d1e-9a64-3df167ddacc7",
+      "authors": [
+        "Isa Zucker & Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "500 g Rotkohl",
+        "2 Zwiebeln",
+        "1 Apfel",
+        "3 EL Weißweinessig",
+        "2 EL Zucker",
+        "100 g Johannisbeergelee",
+        "1 Lorbeerblatt",
+        "2 Nelken",
+        "Salz",
+        "Pfeffer",
+        "Pflanzenöl zum Braten"
+      ],
+      "instructions": [
+        "Den Strunk vom Rotkohl entfernen, die äußeren Blätter falls nötig entfernen und den Rotkohl in feine Streifen schneiden. Je feiner die Rotkohlstreifen geschnitten sind, desto schneller sind sie später gar. Zwiebeln schälen und fein würfeln. Apfel waschen, entkernen und ebenfalls in kleine Würfel schneiden.",
+        "Pflanzenöl in einem Topf bei mittlerer Hitze erwärmen und die Zwiebelwürfel anbraten, bis sie glasig sind. Rotkohl hinzugeben und weitere ca. 5 Minuten braten.",
+        "Weißweinessig, Zucker, Johannisbeergelee, Lorbeerblatt und Nelken dazugeben und den Rotkohl mindestens 30 Minuten auf kleiner Flamme köcheln lassen – dabei immer wieder umrühren.",
+        "Tipp: Es gibt kleine Beutel, in die ihr Lorbeerblatt und Nelken legen könnt, damit ihr sie am Ende nicht suchen müsst, sondern ganz einfach wieder herausnehmen könnt.",
+        "Nun auch die Apfelwürfel hinzugeben und weitere 30-60 Minuten köcheln lassen, bis der Rotkohl weich ist, aber noch leichten Biss hat. Mit Salz und Pfeffer abschmecken und nicht vergessen, die Nelken und das Lorbeerblatt vor dem Servieren herauszunehmen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

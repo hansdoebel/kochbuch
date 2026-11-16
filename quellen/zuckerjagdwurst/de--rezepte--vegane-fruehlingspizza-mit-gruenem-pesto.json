@@ -1,0 +1,62 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-fruehlingspizza-mit-gruenem-pesto",
+  "recipes": [
+    {
+      "name": "Vegane Frühlingspizza mit grünem Pesto",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-fruehlingspizza-mit-gruenem-pesto",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-fruehlingspizza-mit-gruenem-pesto#recipe-262f0bca-c3b2-57b3-a354-82fa1cc0ace8",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen (4 Pizzen)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT150M",
+      "ingredients": [
+        "Für den Teig:",
+        "7 g Trockenhefe",
+        "500 g Weizenmehl Typ 00 oder 405",
+        "2 TL Salz",
+        "1 TL Zucker",
+        "250 - 300 ml lauwarmes Wasser",
+        "1 TL Olivenöl",
+        "Für das Pesto:",
+        "50 g frische Kräuter (z.B. Wasabi Rucola, Minze, Dill, Basilikum, Portulak)",
+        "50 g Pinienkerne",
+        "100 g Babyspinat",
+        "2-3 Knoblauchzehen",
+        "150 ml Olivenöl",
+        "Salz",
+        "Pfeffer",
+        "Toppings:",
+        "1 Zucchini",
+        "100 g braune Champignons",
+        "100 g getrocknete Tomaten",
+        "4 Radieschen",
+        "50 g Pinienkerne",
+        "Olivenöl",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Für den Teig Trockenhefe, Weizenmehl und Zucker in einer Schüssel vermischen. Öl und lauwarmes Wasser nach und nach hinzugeben, bis ein geschmeidiger Teig entsteht. Erst mit einer Küchenmaschine oder einem Handrührgerät auf niedriger Stufe vermengen und dann auf mittlerer bis starker Stufe verkneten. Sobald der Teig eine große Kugel ist, könnt ihr ihn aus der Schüssel nehmen und noch ca. 5 Minuten mit den Händen kneten. Den Teig in eine mit etwas Öl eingefettete Schüssel geben und mit einem Küchentuch abgedeckt mindestens eine Stunde ruhen lassen, bis er sich im Teigvolumen verdoppelt.",
+        "In der Zwischenzeit das Pesto zubereiten. Dafür die Pinienkerne in einer Pfanne ohne Öl rösten, bis sie gut duften und leicht braun geworden sind. In diesem Schritt können auch die Pinienkerne für das Topping schon mitgeröstet werden. Diese nach dem Rösten einfach bei Seite stellen und nicht für das Pesto verwenden. In einem Zerkleinerer oder mithilfe eines Pürierstabs die Pinienkerne für das Pesto mit den frischen Kräutern, Knoblauchzehen, Olivenöl, Salz und Pfeffer mixen.",
+        "Für den Belag die Zucchini in Streifen schneiden und die Pilze mit einem feuchten Tuch säubern und in Scheiben schneiden.",
+        "Den Backofen auf 250°C Ober-/Unterhitze vorheizen (für mindestens 20 Minuten) und direkt ein Backblech auf den Ofenboden oder der unterstem Schiene platzieren, damit es heiß wird (wer einen Pizzastein hat, benutzt ihn natürlich an dieser Stelle).",
+        "Tipp: Die Maximaltemperatur von manchen Öfen liegt nur bei 220°C oder 230°C. Das ist aber gar nicht schlimm! Backt eure Pizza einfach bei Maximaltemperatur, eventuell braucht sie dann 1-2 Minuten länger.",
+        "Den Teig aus der Schüssel nehmen, gut salzen und nochmals mit den Händen kneten. Den Teig in vier teilen und dünn auf einer mit Mehl bestäubten Arbeitsfläche ausrollen. Jeden Teigfladen nun auf Backpapier legen, sodass dieser später ganz einfach auf das heiße Backblech platziert werden kann (eine Pizzaschaufel oder eine Tortenscheibe wären natürlich ideal dafür). Die Teigfladen mit einem feuchten Küchentuch bedecken und nochmals 15 Minuten gehen lassen.",
+        "Das Pesto nun auf den vier Teigfladen verteilen und mit Zucchinistreifen und Pilzscheiben belegen. Nun das heiße Backblech vorsichtig aus dem Ofen nehmen und die Pizzen darauf platzieren. Die Pizzen auf unterster Stufe für 10 Minuten bei 250°C Ober-/Unterhitze backen.",
+        "Während der Backzeit die Toppings vorbereiten: Getrocknete Tomaten klein schneiden, Babyspinat waschen, Radieschen säubern und in Scheiben schneiden und Kräuter waschen und trocken schütteln.",
+        "Die Pizzen aus dem Ofen nehmen und mit getrockneten Tomate, Babyspinat, Radieschen, frischen Kräutern, gerösteten Pinienkernen, etwas Olivenöl und Salz und Pfeffer toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

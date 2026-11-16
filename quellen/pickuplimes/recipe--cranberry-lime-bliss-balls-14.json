@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/cranberry-lime-bliss-balls-14",
+  "recipes": [
+    {
+      "name": "Cranberry Lime Bliss Balls",
+      "source_url": "https://www.pickuplimes.com/recipe/cranberry-lime-bliss-balls-14",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "24 Balls",
+      "prep_time": "PT15M",
+      "cook_time": "",
+      "total_time": "PT15M",
+      "ingredients": [
+        "2 lime",
+        "1 cup raw almonds",
+        "1 cup raw cashews",
+        "⅛ tsp salt",
+        "1 cup soft dates",
+        "1 cup unsweetened shredded coconut",
+        "¾ cup dried cranberries"
+      ],
+      "instructions": [
+        "Zest the limes and set aside.",
+        "In a food processor, blend the almonds, cashews, and salt into a coarse flour. Empty into a large bowl.",
+        "To the emptied food processor, add the dates, shredded coconut, and the juice from the limes. Blend into a coarse paste.",
+        "Transfer the date paste to the large bowl as well, along with the lime zest. Mix well.",
+        "Fold through the dried cranberries. Scoop up some of the mixture and roll it into little balls.",
+        "Roll in a coating, if desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 1 week. Store in the freezer for up to 2 months."
+  ]
+}

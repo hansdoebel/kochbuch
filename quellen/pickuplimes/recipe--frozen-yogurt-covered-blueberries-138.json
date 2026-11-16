@@ -1,0 +1,37 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/frozen-yogurt-covered-blueberries-138",
+  "recipes": [
+    {
+      "name": "Frozen Yogurt Covered Blueberries",
+      "source_url": "https://www.pickuplimes.com/recipe/frozen-yogurt-covered-blueberries-138",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT08M",
+      "cook_time": "",
+      "total_time": "PT01H08M",
+      "ingredients": [
+        "1 cup fresh blueberries",
+        "½ cup unsweetened soy yogurt"
+      ],
+      "instructions": [
+        "Gently mix the washed blueberries and yogurt together in a bowl.",
+        "Using a fork, drop the yogurt-covered berries one by one in a single layer onto a parchment-lined baking tray*. Place in the freezer for 30 to 60 minutes, or until the yogurt coating looks mostly frozen.",
+        "Peel the berries off the parchment paper and transfer them to an airtight container. Enjoy immediately, or return to the freezer to store until ready to enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based yogurt that is fortified with calcium . * Freezing the blueberries in a single layer first helps them not stick together later on!",
+    "Storage Keep sealed in the freezer for up to 1 month."
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/oklahoma-shallot-burger",
+  "recipes": [
+    {
+      "name": "Oklahoma Shallot Burger",
+      "source_url": "https://app.cookwell.com/recipe/oklahoma-shallot-burger",
+      "recipe_id": "https://app.cookwell.com/recipe/oklahoma-shallot-burger",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 burger",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT25M",
+      "ingredients": [
+        "Ground beef, 160 g",
+        "Shallots, 40 g",
+        "Salt, 1 g",
+        "American Cheese, 1 slice",
+        "Potato bun, 1"
+      ],
+      "instructions": [
+        "Cut the shallot or onion in half (pole to pole) and peel any outer layers. Then shave the shallot/onion as thinly as possible across the layers, creating super thin orbital slices. You’ll need a sharp knife for this. If you have a mandoline, even better — use its thinnest setting. Gather or prep any remaining ingredients for your burger(s).",
+        "To a ripping hot cast iron pan or griddle, add the beef and then smash it down until it has spread out to a diameter slighter wider than the bun. Add an even sprinkle of salt to the meat. While it sears for a minute or two, add the shaved shallot in a mound over top of the patty. Press down the onions into the beef. Sear the beef until the bottom has developed deep browning and color.",
+        "Flip the patty to finish cooking the burger through. The shallot will now be in contact with the pan and begin to caramelize and brown. After a few minutes, the shallots should have taken on lots of color (some charring is okay — be careful of burning, however). Flip the patty over so that the shallots are back on top. Add the slice of cheese so it begins to melt over top and “glues” the shallot slices to the patty.",
+        "Add the top buns over top of the cheese and stack the bottom bun on top of that. Optionally cover with a sheet tray or metal bowl — the trapped rising steam and heat from the pan/patty will warm and soften the bun through. Remove the burger from the heat and assemble. Add any extra toppings, if desired. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

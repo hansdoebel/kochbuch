@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/crispy-reissalat-mit-cig-koefte",
+  "recipes": [
+    {
+      "name": "Crispy Reissalat mit Çiğ Köfte",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/crispy-reissalat-mit-cig-koefte",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/crispy-reissalat-mit-cig-koefte#recipe-7f766f9c-e37b-5cb6-81e7-50b65b84ba52",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für den Crispy Reis:",
+        "250 g gekochter Jasminreis (vom Vortag) (ca. 85–100 g ungekochter Jasminreis)",
+        "4 EL Olivenöl",
+        "1 TL gemahlener Kreuzkümmel",
+        "1 TL gemahlene Kurkuma",
+        "Salz",
+        "Für den Salat:",
+        "1 rote Zwiebel",
+        "0.5 Gurke",
+        "1 gelbe Paprika",
+        "30 g Petersilie",
+        "20 g Minze",
+        "80 g Granatapfelkerne",
+        "Für das Dressing:",
+        "4 EL Granatapfelsaft",
+        "2 EL Olivenöl",
+        "2 EL Agavendicksaft",
+        "0.5 Zitrone (Saft)",
+        "0.5 TL gemahlener Kreuzkümmel",
+        "0.5 TL gemahlener Zimt",
+        "1 Knoblauchzehe",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "Çiğ Köfte (z. B. von Bauck Mühle)",
+        "Zitrone"
+      ],
+      "instructions": [
+        "Çiğ Köfte nach Packungsanleitung zubereiten.",
+        "Den gekochten Reis mit Olivenöl, Kreuzkümmel, Kurkuma und Salz vermengen. In den Airfryer geben und bei 200 °C für 10–15 Minuten knusprig backen.",
+        "Tipp: Für den ultimativen Crunch könnt ihr die Reismischung entweder im Airfryer (200 °C, 10–12 Minuten, einmal schütteln), im Ofen (200 °C Umluft, 12–15 Minuten, alle 5 Minuten wenden – ideal für größere Mengen) oder klassisch in der Pfanne (mit etwas Öl, 8–10 Minuten bei mittlerer Hitze unter Rühren) zubereiten. Egal welche Variante – am Ende bekommt ihr diesen herrlich knusprigen Biss, der den Salat aufs nächste Level hebt.",
+        "Währenddessen das Gemüse und die Kräuter vorbereiten: Zwiebel und Gurke in feine Scheiben schneiden, Paprika klein würfeln, Petersilie und Minze grob hacken.",
+        "Für das Dressing Granatapfelsaft, Olivenöl, Agavendicksaft, Zitronensaft, Kreuzkümmel, Zimt und die fein geriebene Knoblauchzehe in einer Schüssel verrühren. Mit Salz und Pfeffer abschmecken.",
+        "Reis, Gemüse, Kräuter und Granatapfelkerne in eine große Schüssel geben. Das Dressing darüber gießen und vorsichtig unterheben. Den Salat 10 Minuten durchziehen lassen und anschließend frisch zusammen mit Çiğ Köfte und Zitronenspalten servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

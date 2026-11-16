@@ -1,0 +1,40 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/poblano-and-chicken-quesadilla",
+  "recipes": [
+    {
+      "name": "Roasted Poblano Cheese Crust Quesadilla",
+      "source_url": "https://app.cookwell.com/recipe/poblano-and-chicken-quesadilla",
+      "recipe_id": "https://app.cookwell.com/recipe/poblano-and-chicken-quesadilla",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "chicken, 140 g",
+        "Mexican manchego, 140 g",
+        "Poblano peppers, 2-3",
+        "Hot Sauce, a spoonful",
+        "Tortillas, 2-4",
+        "Pickled onions, to taste",
+        "Sour Cream, to taste"
+      ],
+      "instructions": [
+        "Set the oven to broil. Lay out the peppers on a sheet try and drizzle with oil. Throw them in the oven and roast them for 2-5 minutes or until they are nicely charred. Place the peppers in a container with a lid and allow them to steam a bit so that they soften. Once they are cooled, peel off the skin of the peppers and discard the stem.",
+        "Roughly chop the poblano. Toss the poblano, hot sauce, and chicken in a bowl. Toss until evenly coated. Heat up the mixture in the microwave until warmed through.",
+        "Set a non-stick pan over medium-high heat. Add a handful of cheese to the skillet and let it melt down completely. The cheese should roughly be the same size as the tortilla. Keep an eye on the cheese so it doesn’t burn, but does crisp up. Add the chicken & poblano mixture to one side of the cheese and fold the cheese over the chicken. Add to a warmed tortilla. Repeat these steps with the remaining chicken & cheese.",
+        "Garnish with pickled onions and sour cream to taste and enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/rote-beete-zitrus-salat",
+  "recipes": [
+    {
+      "name": "Rote-Bete-Zitrus-Salat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/rote-beete-zitrus-salat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/rote-beete-zitrus-salat#recipe-aef1f2bd-edf1-59d1-a57b-1098d599a3c4",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen (als Vorspeise)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Für den Salat:",
+        "1 Rote Bete (frisch)",
+        "2 Orangen",
+        "1 Grapefruit",
+        "Für das Dressing",
+        "3 EL Olivenöl",
+        "1 EL dunkler Balsamicoessig",
+        "1 EL Agavendicksaft",
+        "0.5 TL Senf",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "gestiftete Mandeln",
+        "frische Minzblätter"
+      ],
+      "instructions": [
+        "Die Schale der Orangen und Grapefruit mit einem Messer abschneiden, sodass möglichst wenig vom weißen Teil der Schale an ihnen bleibt. Rote Bete waschen, bei Bedarf schälen (wenn sie sehr dreckig ist) und die Bete danach mit einem Sparschäler in hauchdünne Scheiben schneiden.",
+        "Orangen-, Grapefruit- und Rote Bete Scheiben auf einem großen Servierteller verteilen.",
+        "Für das Dressing Olivenöl, Balsamicoessig, Agavendicksaft und Senf verrühren und mit Salz und Pfeffer abschmecken. Das Dressing über dem Salat verteilen.",
+        "Mandelsplitter in einer Pfanne ohne Öl vorsichtig anrösten, bis sie goldbraun sind. Danach zusammen mit frischen Minzblättern ebenfalls auf dem Salat verteilen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

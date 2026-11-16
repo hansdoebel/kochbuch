@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-gorgonzola-kaese",
+  "recipes": [
+    {
+      "name": "Veganer Gorgonzola (Blauschimmelkäse)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-gorgonzola-kaese",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-gorgonzola-kaese#recipe-bef89e5c-0c89-5fc8-92e2-b49d0d7ff972",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 300 g Gorgonzola",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "50 g Cashewkerne",
+        "50 g Kokosöl",
+        "200 g fester Tofu",
+        "0.5 Zitrone (Saft)",
+        "10 g Agavendicksaft",
+        "30 g Misopaste",
+        "20 g Hefeflocken",
+        "1 TL Zwiebelpulver",
+        "1 TL Knoblauchpulver",
+        "1 TL Salz",
+        "2-3 Kapseln Spirulina-Pulver"
+      ],
+      "instructions": [
+        "Cashewkerne mind. 30 Minuten in Wasser einweichen und danach abgießen.",
+        "Kokosöl in einem kleinen Topf erhitzen, bis es flüssig ist.",
+        "Den Tofu mit den eingeweichten Cashewkernen, flüssigem Kokosöl, Zitronensaft, Agavendicksaft, Misopaste, Hefeflocken, Zwiebel- und Knoblauchpulver und Salz zu einer sämigen Masse pürieren.",
+        "Die Masse in eine Schüssel füllen und Spirulina-Pulver fleckig darauf verteilen und vorsichtig in die Masse einarbeiten. Nicht zu viel verrühren – das Spirulina-Pulver darf gerne ungleichmäßig verteilt werden.",
+        "Die Masse im Anschluss in eine Silikonform geben und glatt streichen. Mind. 3 Stunden kalt stellen, am besten aber über Nacht im Kühlschrank aufbewahren.",
+        "Tipp: Den veganen Gorgonzola im Kühlschrank aufbewahren und innerhalb von 2-3 Tagen verzehren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

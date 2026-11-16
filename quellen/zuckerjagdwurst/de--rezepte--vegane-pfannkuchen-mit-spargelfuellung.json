@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pfannkuchen-mit-spargelfuellung",
+  "recipes": [
+    {
+      "name": "Vegane Pfannkuchen mit Spargelfüllung",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pfannkuchen-mit-spargelfuellung",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-pfannkuchen-mit-spargelfuellung#recipe-aac856aa-5a04-5b26-8e03-c8f7c81bd35f",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Pfannkuchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für den Pfannkuchenteig:",
+        "260 g Weizenmehl (Type 405) oder Dinkelmehl (Type 603)",
+        "10 g (2 TL) Backpulver",
+        "1 Prise Salz",
+        "400 ml pflanzliche Milch",
+        "Pflanzenöl oder vegane Butter zum Braten",
+        "Für die Füllung:",
+        "750 g grüner Spargel",
+        "1 TL Salz",
+        "1 TL Zucker",
+        "1 TL vegane Butter",
+        "20 g Petersilie",
+        "300 g vegane Crème fraîche",
+        "0.5 Zitrone (Saft)",
+        "2 TL Zucker",
+        "ca. 300 g Erdbeeren",
+        "200 g veganer Feta",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "50 g Mandeln"
+      ],
+      "instructions": [
+        "Zu Beginn den grünen Spargel waschen, die holzigen Enden entfernen oder gegebenenfalls schälen. Einen großen Topf mit Wasser, Salz, Zucker und veganer Butter zum Köcheln bringen. Spargel hinzugeben und ca. 5-7 Minuten kochen, bis er weich ist. Danach abtropfen lassen und warmhalten.",
+        "Die Petersilie klein hacken und zur veganen Crème fraîche in eine Schüssel geben. Mit Zitronensaft, Zucker, Salz und Pfeffer abschmecken.",
+        "Für den Pfannkuchenteig Mehl, Backpulver und Salz in einer Schüssel vermischen. Anschließend die pflanzliche Milch hinzugeben und mit einem Schneebesen glatt rühren. Den Teig ca. 10-15 Minuten stehen lassen.",
+        "In der Zwischenzeit Erdbeeren putzen und in Scheiben schneiden. Veganen Feta in kleine Stückchen brechen. Die Mandeln hacken und in einer ölfreien Pfanne anrösten, bis sie leicht gebräunt sind.",
+        "Etwas Pflanzenöl oder vegane Butter in einer beschichteten Pfanne bei mittlerer Stufe erhitzen. Eine Kelle des Teigs in die Pfanne geben und darin sofort schwenken, damit er sich gleichmäßig in der ganzen Pfanne verteilt. Ca. 1-2 Minuten anbraten, bis der Pfannkuchen die gewünscht Bräune erreicht hat, dann wenden und von der anderen Seite ebenfalls anbraten. Den fertigen Pfannkuchen aus der Pfanne nehmen und beiseitelegen. Mit dem restlichen Teig wiederholen. Der Teig sollte für ca. 8 Pfannkuchen reichen.",
+        "Im Anschluss jeden Pfannkuchen erst mit der Petersilien-Creme bestreichen und dann mit grünem Spargel, Erdbeeren und veganem Feta belegen und zusammenrollen. Getoppt wird der Pfannkuchen noch mit den gerösteten Mandeln und etwas frischem Pfeffer."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

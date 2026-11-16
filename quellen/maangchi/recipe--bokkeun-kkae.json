@@ -1,0 +1,74 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/bokkeun-kkae",
+  "recipes": [
+    {
+      "name": "Toasted Sesame Seeds",
+      "source_url": "https://www.maangchi.com/recipe/bokkeun-kkae",
+      "recipe_id": "/recipe/bokkeun-kkae#sso/recipe/37830",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 cup raw sesame seeds"
+      ],
+      "instructions": [
+        "Put the sesame seeds in a bowl and fill it with cold water. Stir and agitate by hand. Remove any brownish debris floating on the surface.",
+        "Strain the seeds. Fill the bowl up with water and dip the strainer into the bowl so the seeds are submerged. Firmly rub them against each other with your hand to clean them. Take the strainer out of the bowl and you’ll see the water is brownish and any sand, mud, or stones from the seeds have sunk to the bottom.",
+        "Wash the sesame seeds under running water, stirring and turning them over in the strainer until the water runs through clear. Drain the water and use a wooden spoon to press on the seeds and squeeze out any excess water.",
+        "Transfer the seeds to a heated skillet or pan over medium high heat. Stir the seeds occasionally with a wooden spoon for about 10 minutes until all of them are dried. Some seeds will start to pop.",
+        "Lower the heat to medium and keep stirring for about 7 to 8 minutes until the seeds are evenly golden and crispy. They’ll pop as they cook. Take a few sample and taste. The seeds should be crispy and nutty and crumble nicely in your mouth.",
+        "Remove from the heat and let them cool. Store in an airtight container at room temperature for 1 month, or up to 3 months in the freezer."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup raw sesame seeds"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Put the sesame seeds in a bowl and fill it with cold water. Stir and agitate by hand. Remove any brownish debris floating on the surface."
+        },
+        {
+          "tag": "li",
+          "text": "Strain the seeds. Fill the bowl up with water and dip the strainer into the bowl so the seeds are submerged. Firmly rub them against each other with your hand to clean them. Take the strainer out of the bowl and you’ll see the water is brownish and any sand, mud, or stones from the seeds have sunk to the bottom."
+        },
+        {
+          "tag": "li",
+          "text": "Wash the sesame seeds under running water, stirring and turning them over in the strainer until the water runs through clear. Drain the water and use a wooden spoon to press on the seeds and squeeze out any excess water."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer the seeds to a heated skillet or pan over medium high heat. Stir the seeds occasionally with a wooden spoon for about 10 minutes until all of them are dried. Some seeds will start to pop."
+        },
+        {
+          "tag": "li",
+          "text": "Lower the heat to medium and keep stirring for about 7 to 8 minutes until the seeds are evenly golden and crispy. They’ll pop as they cook. Take a few sample and taste. The seeds should be crispy and nutty and crumble nicely in your mouth."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and let them cool. Store in an airtight container at room temperature for 1 month, or up to 3 months in the freezer."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

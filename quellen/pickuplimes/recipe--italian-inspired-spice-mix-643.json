@@ -1,0 +1,37 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/italian-inspired-spice-mix-643",
+  "recipes": [
+    {
+      "name": "Homemade Italian Seasoning",
+      "source_url": "https://www.pickuplimes.com/recipe/italian-inspired-spice-mix-643",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT03M",
+      "cook_time": "",
+      "total_time": "PT03M",
+      "ingredients": [
+        "2 Tbsp dried oregano",
+        "2 Tbsp dried basil",
+        "2 Tbsp dried parsley",
+        "1 Tbsp dried rosemary",
+        "1 Tbsp dried thyme"
+      ],
+      "instructions": [
+        "Add all the ingredients into a glass jar, mix, and you're good to go!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Will keep in a sealed jar, away from direct sunlight for months, just like regular spices."
+  ]
+}

@@ -1,0 +1,2717 @@
+{
+  "publisher": "Maangchi",
+  "sitemap_url": "https://www.maangchi.com/sitemap.xml",
+  "scraped_at": "2026-11-16T22:54:39.821188+00:00",
+  "completed": true,
+  "scope": "Öffentliche Rezeptkarten aus Sitemap bzw. vollständigem Rezeptindex; kein Paywall-/Buchinhalt.",
+  "page_count": 451,
+  "recipe_count": 451,
+  "pages": [
+    {
+      "url": "https://www.maangchi.com/recipe/abalone-sotbap",
+      "status": "recipe",
+      "file": "recipe--abalone-sotbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/adobo-sa-gata",
+      "status": "recipe",
+      "file": "recipe--adobo-sa-gata.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/aehobak-saeu-bokkeum",
+      "status": "recipe",
+      "file": "recipe--aehobak-saeu-bokkeum.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/al-bap",
+      "status": "recipe",
+      "file": "recipe--al-bap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/algamja-jorim",
+      "status": "recipe",
+      "file": "recipe--algamja-jorim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/an-maeun-kongnamulguk",
+      "status": "recipe",
+      "file": "recipe--an-maeun-kongnamulguk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/asparagus-muchim",
+      "status": "recipe",
+      "file": "recipe--asparagus-muchim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/baechu-doenjang-guk",
+      "status": "recipe",
+      "file": "recipe--baechu-doenjang-guk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/baechu-geotjeori",
+      "status": "recipe",
+      "file": "recipe--baechu-geotjeori.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/baechujeon",
+      "status": "recipe",
+      "file": "recipe--baechujeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/baekkimchi",
+      "status": "recipe",
+      "file": "recipe--baekkimchi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/baekseolgi-tteok",
+      "status": "recipe",
+      "file": "recipe--baekseolgi-tteok.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/baesuk",
+      "status": "recipe",
+      "file": "recipe--baesuk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/beef-noodle-soup",
+      "status": "recipe",
+      "file": "recipe--beef-noodle-soup.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/beet-jeonggwa",
+      "status": "recipe",
+      "file": "recipe--beet-jeonggwa.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/beoseot-deulkkae-tang",
+      "status": "recipe",
+      "file": "recipe--beoseot-deulkkae-tang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/beoseot-minari-chomuchim",
+      "status": "recipe",
+      "file": "recipe--beoseot-minari-chomuchim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/beoseot-tangsu",
+      "status": "recipe",
+      "file": "recipe--beoseot-tangsu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/bibim-guksu",
+      "status": "recipe",
+      "file": "recipe--bibim-guksu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/bibim-naengmyeon",
+      "status": "recipe",
+      "file": "recipe--bibim-naengmyeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/bibimbap",
+      "status": "recipe",
+      "file": "recipe--bibimbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/bindaetteok",
+      "status": "recipe",
+      "file": "recipe--bindaetteok.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/bo-ssam",
+      "status": "recipe",
+      "file": "recipe--bo-ssam.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/boiled-chestnuts",
+      "status": "recipe",
+      "file": "recipe--boiled-chestnuts.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/bok-choy-muchim",
+      "status": "recipe",
+      "file": "recipe--bok-choy-muchim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/bokkeumbap",
+      "status": "recipe",
+      "file": "recipe--bokkeumbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/bokkeun-kkae",
+      "status": "recipe",
+      "file": "recipe--bokkeun-kkae.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/boneless-dakgangjeong",
+      "status": "recipe",
+      "file": "recipe--boneless-dakgangjeong.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/bread-rolls",
+      "status": "recipe",
+      "file": "recipe--bread-rolls.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/broccoli-dubu-muchim",
+      "status": "recipe",
+      "file": "recipe--broccoli-dubu-muchim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/broccoli-pickles",
+      "status": "recipe",
+      "file": "recipe--broccoli-pickles.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/broccoli-salad",
+      "status": "recipe",
+      "file": "recipe--broccoli-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/broiled-whole-branzino",
+      "status": "recipe",
+      "file": "recipe--broiled-whole-branzino.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/buchu-japchae",
+      "status": "recipe",
+      "file": "recipe--buchu-japchae.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/buchu-kimchi",
+      "status": "recipe",
+      "file": "recipe--buchu-kimchi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/buchujeon",
+      "status": "recipe",
+      "file": "recipe--buchujeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/budae-jjigae",
+      "status": "recipe",
+      "file": "recipe--budae-jjigae.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/bugeoguk",
+      "status": "recipe",
+      "file": "recipe--bugeoguk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/bugeopo-gochujang-muchim",
+      "status": "recipe",
+      "file": "recipe--bugeopo-gochujang-muchim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/bukkumi",
+      "status": "recipe",
+      "file": "recipe--bukkumi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/buldak",
+      "status": "recipe",
+      "file": "recipe--buldak.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/bulgogi",
+      "status": "recipe",
+      "file": "recipe--bulgogi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/bulgogi-jeongol",
+      "status": "recipe",
+      "file": "recipe--bulgogi-jeongol.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/bungeoppang",
+      "status": "recipe",
+      "file": "recipe--bungeoppang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/carrot-cake-muffins",
+      "status": "recipe",
+      "file": "recipe--carrot-cake-muffins.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/chaesik-kimchi",
+      "status": "recipe",
+      "file": "recipe--chaesik-kimchi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/chaeso-gukmul",
+      "status": "recipe",
+      "file": "recipe--chaeso-gukmul.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/chamchi-gimbap",
+      "status": "recipe",
+      "file": "recipe--chamchi-gimbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/chamchi-jjigae",
+      "status": "recipe",
+      "file": "recipe--chamchi-jjigae.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/chamchi-kimchi-jjigae",
+      "status": "recipe",
+      "file": "recipe--chamchi-kimchi-jjigae.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/chapssal-doughnuts",
+      "status": "recipe",
+      "file": "recipe--chapssal-doughnuts.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/chapssaltteok",
+      "status": "recipe",
+      "file": "recipe--chapssaltteok.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/chayote-kimchi",
+      "status": "recipe",
+      "file": "recipe--chayote-kimchi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/cheese-tteok-kkochi",
+      "status": "recipe",
+      "file": "recipe--cheese-tteok-kkochi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/cheese-tteokgalbi",
+      "status": "recipe",
+      "file": "recipe--cheese-tteokgalbi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/cheonggukjang",
+      "status": "recipe",
+      "file": "recipe--cheonggukjang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/cheonggukjang-jjigae",
+      "status": "recipe",
+      "file": "recipe--cheonggukjang-jjigae.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/cheonggyeongchae-dubu-doenjangguk",
+      "status": "recipe",
+      "file": "recipe--cheonggyeongchae-dubu-doenjangguk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/cheonggyeongchae-kimchi",
+      "status": "recipe",
+      "file": "recipe--cheonggyeongchae-kimchi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/cheongpomuk-muchim",
+      "status": "recipe",
+      "file": "recipe--cheongpomuk-muchim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/chicken-mu",
+      "status": "recipe",
+      "file": "recipe--chicken-mu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/chonggak-kimchi",
+      "status": "recipe",
+      "file": "recipe--chonggak-kimchi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/chwinamul",
+      "status": "recipe",
+      "file": "recipe--chwinamul.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/cinnamon-rolls",
+      "status": "recipe",
+      "file": "recipe--cinnamon-rolls.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/classic-mandu",
+      "status": "recipe",
+      "file": "recipe--classic-mandu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/collard-greens-doenjang-bokkeum",
+      "status": "recipe",
+      "file": "recipe--collard-greens-doenjang-bokkeum.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/collard-greens-side-dish",
+      "status": "recipe",
+      "file": "recipe--collard-greens-side-dish.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/corn-cheese",
+      "status": "recipe",
+      "file": "recipe--corn-cheese.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/cream-ppang",
+      "status": "recipe",
+      "file": "recipe--cream-ppang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/curry-rice",
+      "status": "recipe",
+      "file": "recipe--curry-rice.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/daechu-saenggangcha",
+      "status": "recipe",
+      "file": "recipe--daechu-saenggangcha.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/daegu-jeon",
+      "status": "recipe",
+      "file": "recipe--daegu-jeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/daegusal-jorim",
+      "status": "recipe",
+      "file": "recipe--daegusal-jorim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dak-kalguksu",
+      "status": "recipe",
+      "file": "recipe--dak-kalguksu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dak-kkochi",
+      "status": "recipe",
+      "file": "recipe--dak-kkochi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dakbokkeumtang",
+      "status": "recipe",
+      "file": "recipe--dakbokkeumtang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dakgaejang",
+      "status": "recipe",
+      "file": "recipe--dakgaejang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dakgalbi",
+      "status": "recipe",
+      "file": "recipe--dakgalbi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dakgangjeong",
+      "status": "recipe",
+      "file": "recipe--dakgangjeong.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dakgogi-gimbap",
+      "status": "recipe",
+      "file": "recipe--dakgogi-gimbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dakgogi-mandu",
+      "status": "recipe",
+      "file": "recipe--dakgogi-mandu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dakgomtang",
+      "status": "recipe",
+      "file": "recipe--dakgomtang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dakjjim",
+      "status": "recipe",
+      "file": "recipe--dakjjim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dakmoraejumeoni-twigim",
+      "status": "recipe",
+      "file": "recipe--dakmoraejumeoni-twigim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dalgona",
+      "status": "recipe",
+      "file": "recipe--dalgona.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/danhobakbap",
+      "status": "recipe",
+      "file": "recipe--danhobakbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/danmuji",
+      "status": "recipe",
+      "file": "recipe--danmuji.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/danpatjuk",
+      "status": "recipe",
+      "file": "recipe--danpatjuk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dasik",
+      "status": "recipe",
+      "file": "recipe--dasik.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/deulkkae-kalguksu",
+      "status": "recipe",
+      "file": "recipe--deulkkae-kalguksu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/deungalbi-kimchijjim",
+      "status": "recipe",
+      "file": "recipe--deungalbi-kimchijjim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/doenjang",
+      "status": "recipe",
+      "file": "recipe--doenjang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/doenjang-banga",
+      "status": "recipe",
+      "file": "recipe--doenjang-banga.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/doenjang-jjigae",
+      "status": "recipe",
+      "file": "recipe--doenjang-jjigae.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/doenjang-jjigae-geotjeori-bibimbap",
+      "status": "recipe",
+      "file": "recipe--doenjang-jjigae-geotjeori-bibimbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/doljaban-muchim",
+      "status": "recipe",
+      "file": "recipe--doljaban-muchim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/domiyangnyeomgui",
+      "status": "recipe",
+      "file": "recipe--domiyangnyeomgui.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dongchimi",
+      "status": "recipe",
+      "file": "recipe--dongchimi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dongchimi-guksu",
+      "status": "recipe",
+      "file": "recipe--dongchimi-guksu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dongji-patjuk",
+      "status": "recipe",
+      "file": "recipe--dongji-patjuk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dongtaejeon",
+      "status": "recipe",
+      "file": "recipe--dongtaejeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/donkkaseu",
+      "status": "recipe",
+      "file": "recipe--donkkaseu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/doraji-muchim",
+      "status": "recipe",
+      "file": "recipe--doraji-muchim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dotorimuk-muchim",
+      "status": "recipe",
+      "file": "recipe--dotorimuk-muchim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dubu-gangjeong",
+      "status": "recipe",
+      "file": "recipe--dubu-gangjeong.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dubu-ganjangjorim",
+      "status": "recipe",
+      "file": "recipe--dubu-ganjangjorim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dubu-jangajji",
+      "status": "recipe",
+      "file": "recipe--dubu-jangajji.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dubu-jogaetguk",
+      "status": "recipe",
+      "file": "recipe--dubu-jogaetguk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dubu-jorim",
+      "status": "recipe",
+      "file": "recipe--dubu-jorim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dububuchim-yangnyeomjang",
+      "status": "recipe",
+      "file": "recipe--dububuchim-yangnyeomjang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/duyu",
+      "status": "recipe",
+      "file": "recipe--duyu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dwaeji-bulgogi",
+      "status": "recipe",
+      "file": "recipe--dwaeji-bulgogi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dwaeji-kimchi-duruchigi",
+      "status": "recipe",
+      "file": "recipe--dwaeji-kimchi-duruchigi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dwaejigogi-bokkeum",
+      "status": "recipe",
+      "file": "recipe--dwaejigogi-bokkeum.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/dwaejigogi-jjigae",
+      "status": "recipe",
+      "file": "recipe--dwaejigogi-jjigae.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/easy-bulgogi",
+      "status": "recipe",
+      "file": "recipe--easy-bulgogi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/easy-dakgangjeong",
+      "status": "recipe",
+      "file": "recipe--easy-dakgangjeong.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/easy-japchae",
+      "status": "recipe",
+      "file": "recipe--easy-japchae.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/easy-kimchi",
+      "status": "recipe",
+      "file": "recipe--easy-kimchi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/endive-mash-and-dutch-meatballs",
+      "status": "recipe",
+      "file": "recipe--endive-mash-and-dutch-meatballs.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/eomuk",
+      "status": "recipe",
+      "file": "recipe--eomuk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/eomuk-guksu",
+      "status": "recipe",
+      "file": "recipe--eomuk-guksu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/eomukguk",
+      "status": "recipe",
+      "file": "recipe--eomukguk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/eundaegu-jorim",
+      "status": "recipe",
+      "file": "recipe--eundaegu-jorim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/fish-head-mee-hoon",
+      "status": "recipe",
+      "file": "recipe--fish-head-mee-hoon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/fruit-salad",
+      "status": "recipe",
+      "file": "recipe--fruit-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gado-gado",
+      "status": "recipe",
+      "file": "recipe--gado-gado.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gajami-yangnyeom-twigim",
+      "status": "recipe",
+      "file": "recipe--gajami-yangnyeom-twigim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gaji-gui",
+      "status": "recipe",
+      "file": "recipe--gaji-gui.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gaji-namul",
+      "status": "recipe",
+      "file": "recipe--gaji-namul.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gajinaengguk",
+      "status": "recipe",
+      "file": "recipe--gajinaengguk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/galbi",
+      "status": "recipe",
+      "file": "recipe--galbi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/galbi-jjim",
+      "status": "recipe",
+      "file": "recipe--galbi-jjim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/galbitang",
+      "status": "recipe",
+      "file": "recipe--galbitang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/galchi-jorim",
+      "status": "recipe",
+      "file": "recipe--galchi-jorim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gamja-bokkeum",
+      "status": "recipe",
+      "file": "recipe--gamja-bokkeum.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gamja-haem-bokkeum",
+      "status": "recipe",
+      "file": "recipe--gamja-haem-bokkeum.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gamja-hotdog",
+      "status": "recipe",
+      "file": "recipe--gamja-hotdog.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gamja-ongsimi-guk",
+      "status": "recipe",
+      "file": "recipe--gamja-ongsimi-guk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gamja-salad",
+      "status": "recipe",
+      "file": "recipe--gamja-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gamjachae-bokkeum",
+      "status": "recipe",
+      "file": "recipe--gamjachae-bokkeum.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gamjajeon",
+      "status": "recipe",
+      "file": "recipe--gamjajeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gamjatang",
+      "status": "recipe",
+      "file": "recipe--gamjatang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gang-doenjang",
+      "status": "recipe",
+      "file": "recipe--gang-doenjang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/ganjang-beoteo-dakgui",
+      "status": "recipe",
+      "file": "recipe--ganjang-beoteo-dakgui.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/ganjang-gejang",
+      "status": "recipe",
+      "file": "recipe--ganjang-gejang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/garaetteok",
+      "status": "recipe",
+      "file": "recipe--garaetteok.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gat-kimchi",
+      "status": "recipe",
+      "file": "recipe--gat-kimchi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/geomeun-kongjorim",
+      "status": "recipe",
+      "file": "recipe--geomeun-kongjorim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gim-bugak",
+      "status": "recipe",
+      "file": "recipe--gim-bugak.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gim-gui",
+      "status": "recipe",
+      "file": "recipe--gim-gui.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gim-muchim",
+      "status": "recipe",
+      "file": "recipe--gim-muchim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gimbap",
+      "status": "recipe",
+      "file": "recipe--gimbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gimgaru-jumeokbap",
+      "status": "recipe",
+      "file": "recipe--gimgaru-jumeokbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gimmari",
+      "status": "recipe",
+      "file": "recipe--gimmari.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gochu-bokkeum",
+      "status": "recipe",
+      "file": "recipe--gochu-bokkeum.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gochu-jangajji",
+      "status": "recipe",
+      "file": "recipe--gochu-jangajji.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gochu-sobagi",
+      "status": "recipe",
+      "file": "recipe--gochu-sobagi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gochujang",
+      "status": "recipe",
+      "file": "recipe--gochujang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gochujang-gaji-jjim",
+      "status": "recipe",
+      "file": "recipe--gochujang-gaji-jjim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gochujeon",
+      "status": "recipe",
+      "file": "recipe--gochujeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/godeungeo-gui",
+      "status": "recipe",
+      "file": "recipe--godeungeo-gui.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/godeungeo-jorim",
+      "status": "recipe",
+      "file": "recipe--godeungeo-jorim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gogi-sundubu-jjigae",
+      "status": "recipe",
+      "file": "recipe--gogi-sundubu-jjigae.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/goguma-mallaengi",
+      "status": "recipe",
+      "file": "recipe--goguma-mallaengi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gogumabap",
+      "status": "recipe",
+      "file": "recipe--gogumabap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/golbaengi-muchim",
+      "status": "recipe",
+      "file": "recipe--golbaengi-muchim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gomtang",
+      "status": "recipe",
+      "file": "recipe--gomtang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gonggal-ppang",
+      "status": "recipe",
+      "file": "recipe--gonggal-ppang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gosari-namul",
+      "status": "recipe",
+      "file": "recipe--gosari-namul.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gotgam-danji",
+      "status": "recipe",
+      "file": "recipe--gotgam-danji.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gotgamssam",
+      "status": "recipe",
+      "file": "recipe--gotgamssam.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/grandma-kimchijeon",
+      "status": "recipe",
+      "file": "recipe--grandma-kimchijeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gujeolpan",
+      "status": "recipe",
+      "file": "recipe--gujeolpan.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/guk-ganjang",
+      "status": "recipe",
+      "file": "recipe--guk-ganjang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/guksu",
+      "status": "recipe",
+      "file": "recipe--guksu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gulbi-gui",
+      "status": "recipe",
+      "file": "recipe--gulbi-gui.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gulmuchim",
+      "status": "recipe",
+      "file": "recipe--gulmuchim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gungjung-tteokbokki",
+      "status": "recipe",
+      "file": "recipe--gungjung-tteokbokki.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gyeoja-naengchae",
+      "status": "recipe",
+      "file": "recipe--gyeoja-naengchae.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gyepi-manju",
+      "status": "recipe",
+      "file": "recipe--gyepi-manju.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gyeran-jangjorim",
+      "status": "recipe",
+      "file": "recipe--gyeran-jangjorim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gyeran-kkeopjilbap",
+      "status": "recipe",
+      "file": "recipe--gyeran-kkeopjilbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gyeran-mari",
+      "status": "recipe",
+      "file": "recipe--gyeran-mari.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gyeran-ppang",
+      "status": "recipe",
+      "file": "recipe--gyeran-ppang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gyeranbap",
+      "status": "recipe",
+      "file": "recipe--gyeranbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gyeranjjim",
+      "status": "recipe",
+      "file": "recipe--gyeranjjim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/gyungdan",
+      "status": "recipe",
+      "file": "recipe--gyungdan.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/haemul-kimchi-bokkeumbap",
+      "status": "recipe",
+      "file": "recipe--haemul-kimchi-bokkeumbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/haemul-pajeon",
+      "status": "recipe",
+      "file": "recipe--haemul-pajeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/haemul-sundubu-jjigae",
+      "status": "recipe",
+      "file": "recipe--haemul-sundubu-jjigae.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/haemuljeon",
+      "status": "recipe",
+      "file": "recipe--haemuljeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/haepari-naengchae",
+      "status": "recipe",
+      "file": "recipe--haepari-naengchae.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/hamburger",
+      "status": "recipe",
+      "file": "recipe--hamburger.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/healthy-vegetable-rice-bowl",
+      "status": "recipe",
+      "file": "recipe--healthy-vegetable-rice-bowl.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/heukimjajuk",
+      "status": "recipe",
+      "file": "recipe--heukimjajuk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/hobak-sogogi-deopbap",
+      "status": "recipe",
+      "file": "recipe--hobak-sogogi-deopbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/hobakjeon",
+      "status": "recipe",
+      "file": "recipe--hobakjeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/hobakjuk",
+      "status": "recipe",
+      "file": "recipe--hobakjuk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/hobaktteok",
+      "status": "recipe",
+      "file": "recipe--hobaktteok.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/hoe",
+      "status": "recipe",
+      "file": "recipe--hoe.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/hoe-deopbap",
+      "status": "recipe",
+      "file": "recipe--hoe-deopbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/hoe-muchim",
+      "status": "recipe",
+      "file": "recipe--hoe-muchim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/honey-butter-fried-chicken",
+      "status": "recipe",
+      "file": "recipe--honey-butter-fried-chicken.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/honghap-miyeokguk",
+      "status": "recipe",
+      "file": "recipe--honghap-miyeokguk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/hotteok",
+      "status": "recipe",
+      "file": "recipe--hotteok.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/hwajeon",
+      "status": "recipe",
+      "file": "recipe--hwajeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/injeolmi",
+      "status": "recipe",
+      "file": "recipe--injeolmi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/insam-daechucha",
+      "status": "recipe",
+      "file": "recipe--insam-daechucha.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/jaengban-guksu",
+      "status": "recipe",
+      "file": "recipe--jaengban-guksu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/jaengban-jjajangmyeon",
+      "status": "recipe",
+      "file": "recipe--jaengban-jjajangmyeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/jangjorim",
+      "status": "recipe",
+      "file": "recipe--jangjorim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/jangjorim-with-eggs",
+      "status": "recipe",
+      "file": "recipe--jangjorim-with-eggs.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/japchae",
+      "status": "recipe",
+      "file": "recipe--japchae.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/jatjuk",
+      "status": "recipe",
+      "file": "recipe--jatjuk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/jeonbokjuk",
+      "status": "recipe",
+      "file": "recipe--jeonbokjuk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/jeukseok-tteokbokki",
+      "status": "recipe",
+      "file": "recipe--jeukseok-tteokbokki.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/jeyuk-deopbap",
+      "status": "recipe",
+      "file": "recipe--jeyuk-deopbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/jjajangbap",
+      "status": "recipe",
+      "file": "recipe--jjajangbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/jjajangmyeon",
+      "status": "recipe",
+      "file": "recipe--jjajangmyeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/jjamppong",
+      "status": "recipe",
+      "file": "recipe--jjamppong.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/jjapaguri",
+      "status": "recipe",
+      "file": "recipe--jjapaguri.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/jjinppang",
+      "status": "recipe",
+      "file": "recipe--jjinppang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/jjinppang-mandu",
+      "status": "recipe",
+      "file": "recipe--jjinppang-mandu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/jjolmyeon",
+      "status": "recipe",
+      "file": "recipe--jjolmyeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/jogaetang",
+      "status": "recipe",
+      "file": "recipe--jogaetang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/jokbal",
+      "status": "recipe",
+      "file": "recipe--jokbal.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kale-jangtteok",
+      "status": "recipe",
+      "file": "recipe--kale-jangtteok.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kare-bokkeumbap",
+      "status": "recipe",
+      "file": "recipe--kare-bokkeumbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kimchi-bokkeum",
+      "status": "recipe",
+      "file": "recipe--kimchi-bokkeum.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kimchi-bokkeumbap",
+      "status": "recipe",
+      "file": "recipe--kimchi-bokkeumbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kimchi-camping-stew",
+      "status": "recipe",
+      "file": "recipe--kimchi-camping-stew.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kimchi-grilled-cheese",
+      "status": "recipe",
+      "file": "recipe--kimchi-grilled-cheese.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kimchi-guk",
+      "status": "recipe",
+      "file": "recipe--kimchi-guk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kimchi-hot-dog",
+      "status": "recipe",
+      "file": "recipe--kimchi-hot-dog.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kimchi-jjigae",
+      "status": "recipe",
+      "file": "recipe--kimchi-jjigae.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kimchi-ppang",
+      "status": "recipe",
+      "file": "recipe--kimchi-ppang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kimchi-sujebi",
+      "status": "recipe",
+      "file": "recipe--kimchi-sujebi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kimchi-wangmandu",
+      "status": "recipe",
+      "file": "recipe--kimchi-wangmandu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kimchijeon",
+      "status": "recipe",
+      "file": "recipe--kimchijeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kimchijjim",
+      "status": "recipe",
+      "file": "recipe--kimchijjim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kimchimari-guksu",
+      "status": "recipe",
+      "file": "recipe--kimchimari-guksu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong",
+      "status": "recipe",
+      "file": "recipe--kkae-ttangkong-gangjeong.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kkaennip-jangajji",
+      "status": "recipe",
+      "file": "recipe--kkaennip-jangajji.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kkaennip-jangtteok",
+      "status": "recipe",
+      "file": "recipe--kkaennip-jangtteok.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kkaennip-jeon",
+      "status": "recipe",
+      "file": "recipe--kkaennip-jeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kkaennip-kimchi",
+      "status": "recipe",
+      "file": "recipe--kkaennip-kimchi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kkaennipjjim",
+      "status": "recipe",
+      "file": "recipe--kkaennipjjim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kkakdugi",
+      "status": "recipe",
+      "file": "recipe--kkakdugi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kkanpunggi",
+      "status": "recipe",
+      "file": "recipe--kkanpunggi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kkeopjilkong-maneul-bokkeum",
+      "status": "recipe",
+      "file": "recipe--kkeopjilkong-maneul-bokkeum.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kkongchi-jorim",
+      "status": "recipe",
+      "file": "recipe--kkongchi-jorim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kkotgetang",
+      "status": "recipe",
+      "file": "recipe--kkotgetang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kkotppang",
+      "status": "recipe",
+      "file": "recipe--kkotppang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kkwabaegi",
+      "status": "recipe",
+      "file": "recipe--kkwabaegi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kkwarigochu-jjim",
+      "status": "recipe",
+      "file": "recipe--kkwarigochu-jjim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kodari-jorim",
+      "status": "recipe",
+      "file": "recipe--kodari-jorim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kongbiji-jjigae",
+      "status": "recipe",
+      "file": "recipe--kongbiji-jjigae.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kongguksu",
+      "status": "recipe",
+      "file": "recipe--kongguksu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kongjorim",
+      "status": "recipe",
+      "file": "recipe--kongjorim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kongjuk",
+      "status": "recipe",
+      "file": "recipe--kongjuk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kongnamul",
+      "status": "recipe",
+      "file": "recipe--kongnamul.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kongnamul-gukbap",
+      "status": "recipe",
+      "file": "recipe--kongnamul-gukbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kongnamul-kimchiguk",
+      "status": "recipe",
+      "file": "recipe--kongnamul-kimchiguk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kongnamul-muchim",
+      "status": "recipe",
+      "file": "recipe--kongnamul-muchim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kongnamulbap",
+      "status": "recipe",
+      "file": "recipe--kongnamulbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/kongnamulguk",
+      "status": "recipe",
+      "file": "recipe--kongnamulguk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/korean-rest-stop-potatoes",
+      "status": "recipe",
+      "file": "recipe--korean-rest-stop-potatoes.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/korean-style-mapo-tofu",
+      "status": "recipe",
+      "file": "recipe--korean-style-mapo-tofu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/la-galbi",
+      "status": "recipe",
+      "file": "recipe--la-galbi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/la-jangajji",
+      "status": "recipe",
+      "file": "recipe--la-jangajji.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/lobster-gimbap",
+      "status": "recipe",
+      "file": "recipe--lobster-gimbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/maejakgwa",
+      "status": "recipe",
+      "file": "recipe--maejakgwa.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/maekjeok",
+      "status": "recipe",
+      "file": "recipe--maekjeok.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/maesil-cheong",
+      "status": "recipe",
+      "file": "recipe--maesil-cheong.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/maeun-dakbonggui",
+      "status": "recipe",
+      "file": "recipe--maeun-dakbonggui.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/maeun-gamja-jorim",
+      "status": "recipe",
+      "file": "recipe--maeun-gamja-jorim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/maeun-muguk",
+      "status": "recipe",
+      "file": "recipe--maeun-muguk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/maeun-ttukbaegi-gyeranjjim",
+      "status": "recipe",
+      "file": "recipe--maeun-ttukbaegi-gyeranjjim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/maeuntang",
+      "status": "recipe",
+      "file": "recipe--maeuntang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/makgalbi-jjim",
+      "status": "recipe",
+      "file": "recipe--makgalbi-jjim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/makgeolli",
+      "status": "recipe",
+      "file": "recipe--makgeolli.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/mandu",
+      "status": "recipe",
+      "file": "recipe--mandu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/mandu-guk",
+      "status": "recipe",
+      "file": "recipe--mandu-guk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/mandu-pi",
+      "status": "recipe",
+      "file": "recipe--mandu-pi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/maneuljjong-bokkeum",
+      "status": "recipe",
+      "file": "recipe--maneuljjong-bokkeum.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/manju",
+      "status": "recipe",
+      "file": "recipe--manju.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/mapadubu",
+      "status": "recipe",
+      "file": "recipe--mapadubu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/matdongsan",
+      "status": "recipe",
+      "file": "recipe--matdongsan.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/mattang",
+      "status": "recipe",
+      "file": "recipe--mattang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/memil-guksu",
+      "status": "recipe",
+      "file": "recipe--memil-guksu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/mepssalgaru",
+      "status": "recipe",
+      "file": "recipe--mepssalgaru.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/minari-muchim",
+      "status": "recipe",
+      "file": "recipe--minari-muchim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/miyeok-julgi-bokkeum",
+      "status": "recipe",
+      "file": "recipe--miyeok-julgi-bokkeum.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/miyeok-muchim",
+      "status": "recipe",
+      "file": "recipe--miyeok-muchim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/miyeokguk",
+      "status": "recipe",
+      "file": "recipe--miyeokguk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/mu-bap",
+      "status": "recipe",
+      "file": "recipe--mu-bap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/mujigae-tteok",
+      "status": "recipe",
+      "file": "recipe--mujigae-tteok.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/mulhoe",
+      "status": "recipe",
+      "file": "recipe--mulhoe.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/multigrain-rice",
+      "status": "recipe",
+      "file": "recipe--multigrain-rice.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/mumallaengi-muchim",
+      "status": "recipe",
+      "file": "recipe--mumallaengi-muchim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/muneo-jorim",
+      "status": "recipe",
+      "file": "recipe--muneo-jorim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/muneo-sukhoe",
+      "status": "recipe",
+      "file": "recipe--muneo-sukhoe.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/musaeng-chae",
+      "status": "recipe",
+      "file": "recipe--musaeng-chae.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/muwoonamul",
+      "status": "recipe",
+      "file": "recipe--muwoonamul.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/myeolchi-bokkeum",
+      "status": "recipe",
+      "file": "recipe--myeolchi-bokkeum.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/myeolchi-dasima-yuksu",
+      "status": "recipe",
+      "file": "recipe--myeolchi-dasima-yuksu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/myeolchi-muchim",
+      "status": "recipe",
+      "file": "recipe--myeolchi-muchim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/myeongaju-muchim",
+      "status": "recipe",
+      "file": "recipe--myeongaju-muchim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/myeongnanjeot",
+      "status": "recipe",
+      "file": "recipe--myeongnanjeot.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/nabak-kimchi",
+      "status": "recipe",
+      "file": "recipe--nabak-kimchi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/naeng-keopi",
+      "status": "recipe",
+      "file": "recipe--naeng-keopi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/naengmyeon",
+      "status": "recipe",
+      "file": "recipe--naengmyeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/nakji-bokkeum",
+      "status": "recipe",
+      "file": "recipe--nakji-bokkeum.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/napa-cabbage-kimchi",
+      "status": "recipe",
+      "file": "recipe--napa-cabbage-kimchi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/neutari-beoseot-bokkeum",
+      "status": "recipe",
+      "file": "recipe--neutari-beoseot-bokkeum.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/nokdu-juk",
+      "status": "recipe",
+      "file": "recipe--nokdu-juk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/nude-gimbap",
+      "status": "recipe",
+      "file": "recipe--nude-gimbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/oi-bokkeum",
+      "status": "recipe",
+      "file": "recipe--oi-bokkeum.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/oi-muchim",
+      "status": "recipe",
+      "file": "recipe--oi-muchim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/oi-naengguk",
+      "status": "recipe",
+      "file": "recipe--oi-naengguk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/oijangajji",
+      "status": "recipe",
+      "file": "recipe--oijangajji.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/oisobagi-kimchi",
+      "status": "recipe",
+      "file": "recipe--oisobagi-kimchi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/ojingeo-bokkeum",
+      "status": "recipe",
+      "file": "recipe--ojingeo-bokkeum.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/ojingeo-guk",
+      "status": "recipe",
+      "file": "recipe--ojingeo-guk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/ojingeo-silchae-bokkeum",
+      "status": "recipe",
+      "file": "recipe--ojingeo-silchae-bokkeum.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/ojingeo-tonggui",
+      "status": "recipe",
+      "file": "recipe--ojingeo-tonggui.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/ojingeo-twigim",
+      "status": "recipe",
+      "file": "recipe--ojingeo-twigim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/ojingeochae-muchim",
+      "status": "recipe",
+      "file": "recipe--ojingeochae-muchim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/ojingeojeot",
+      "status": "recipe",
+      "file": "recipe--ojingeojeot.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/oksusu-ppang",
+      "status": "recipe",
+      "file": "recipe--oksusu-ppang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/omeu-raiseu",
+      "status": "recipe",
+      "file": "recipe--omeu-raiseu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/omija-hwachae",
+      "status": "recipe",
+      "file": "recipe--omija-hwachae.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/pa-kimchi",
+      "status": "recipe",
+      "file": "recipe--pa-kimchi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/paeju-doenjang-jjigae",
+      "status": "recipe",
+      "file": "recipe--paeju-doenjang-jjigae.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/pajeon",
+      "status": "recipe",
+      "file": "recipe--pajeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/pasanjeok",
+      "status": "recipe",
+      "file": "recipe--pasanjeok.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/pat-kalguksu",
+      "status": "recipe",
+      "file": "recipe--pat-kalguksu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/pat-sirutteok",
+      "status": "recipe",
+      "file": "recipe--pat-sirutteok.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/patbap",
+      "status": "recipe",
+      "file": "recipe--patbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/patbingsu",
+      "status": "recipe",
+      "file": "recipe--patbingsu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/paua-fritters",
+      "status": "recipe",
+      "file": "recipe--paua-fritters.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/pepper-pickles-in-fish-sauce",
+      "status": "recipe",
+      "file": "recipe--pepper-pickles-in-fish-sauce.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/ppang",
+      "status": "recipe",
+      "file": "recipe--ppang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/ppopgi",
+      "status": "recipe",
+      "file": "recipe--ppopgi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/ppyeo-haejangguk",
+      "status": "recipe",
+      "file": "recipe--ppyeo-haejangguk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/quick-dongchimi",
+      "status": "recipe",
+      "file": "recipe--quick-dongchimi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/quinoa-nurungji",
+      "status": "recipe",
+      "file": "recipe--quinoa-nurungji.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/ramyeon",
+      "status": "recipe",
+      "file": "recipe--ramyeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/rice",
+      "status": "recipe",
+      "file": "recipe--rice.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/rose-tteokbokki",
+      "status": "recipe",
+      "file": "recipe--rose-tteokbokki.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/saenggangcha",
+      "status": "recipe",
+      "file": "recipe--saenggangcha.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/saeu-buchu-mandu",
+      "status": "recipe",
+      "file": "recipe--saeu-buchu-mandu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/saeu-juk",
+      "status": "recipe",
+      "file": "recipe--saeu-juk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/saeu-sogeum-gui",
+      "status": "recipe",
+      "file": "recipe--saeu-sogeum-gui.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/saeujeon",
+      "status": "recipe",
+      "file": "recipe--saeujeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/sagol-gukmul",
+      "status": "recipe",
+      "file": "recipe--sagol-gukmul.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/sagwa-ssamjang",
+      "status": "recipe",
+      "file": "recipe--sagwa-ssamjang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/salad-ppang",
+      "status": "recipe",
+      "file": "recipe--salad-ppang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/samchi-yangnyeom-gui",
+      "status": "recipe",
+      "file": "recipe--samchi-yangnyeom-gui.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/samgak-gimbap",
+      "status": "recipe",
+      "file": "recipe--samgak-gimbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/samgyeopsal-gui",
+      "status": "recipe",
+      "file": "recipe--samgyeopsal-gui.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/samgyetang",
+      "status": "recipe",
+      "file": "recipe--samgyetang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/samsaek-sandwich",
+      "status": "recipe",
+      "file": "recipe--samsaek-sandwich.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/sangchu-geotjeori",
+      "status": "recipe",
+      "file": "recipe--sangchu-geotjeori.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/sanmaneul-jeon",
+      "status": "recipe",
+      "file": "recipe--sanmaneul-jeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/sausage-gimbap",
+      "status": "recipe",
+      "file": "recipe--sausage-gimbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/sausage-ppang",
+      "status": "recipe",
+      "file": "recipe--sausage-ppang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/seoklyu-cha",
+      "status": "recipe",
+      "file": "recipe--seoklyu-cha.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/seolleongtang",
+      "status": "recipe",
+      "file": "recipe--seolleongtang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/shabu-shabu",
+      "status": "recipe",
+      "file": "recipe--shabu-shabu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/sigeumchi-jogae-doenjangguk",
+      "status": "recipe",
+      "file": "recipe--sigeumchi-jogae-doenjangguk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/sigol-mu-saengchae",
+      "status": "recipe",
+      "file": "recipe--sigol-mu-saengchae.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/sigumchi-namul",
+      "status": "recipe",
+      "file": "recipe--sigumchi-namul.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/sijang-tongdak",
+      "status": "recipe",
+      "file": "recipe--sijang-tongdak.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/sikhye",
+      "status": "recipe",
+      "file": "recipe--sikhye.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/simple-gamjajeon",
+      "status": "recipe",
+      "file": "recipe--simple-gamjajeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/small-batch-easy-kimchi",
+      "status": "recipe",
+      "file": "recipe--small-batch-easy-kimchi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/soegogi-beoseot-deopbap",
+      "status": "recipe",
+      "file": "recipe--soegogi-beoseot-deopbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/soegogi-gui",
+      "status": "recipe",
+      "file": "recipe--soegogi-gui.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/soegogi-jeon",
+      "status": "recipe",
+      "file": "recipe--soegogi-jeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/soegogi-muguk",
+      "status": "recipe",
+      "file": "recipe--soegogi-muguk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/soegogi-yachaejuk",
+      "status": "recipe",
+      "file": "recipe--soegogi-yachaejuk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/sogogi-chapssal-gui",
+      "status": "recipe",
+      "file": "recipe--sogogi-chapssal-gui.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/sogogi-doenjang-jjigae",
+      "status": "recipe",
+      "file": "recipe--sogogi-doenjang-jjigae.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/sokkoritang",
+      "status": "recipe",
+      "file": "recipe--sokkoritang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/som-tam",
+      "status": "recipe",
+      "file": "recipe--som-tam.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/songpyeon",
+      "status": "recipe",
+      "file": "recipe--songpyeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/soy-milk-with-nuts",
+      "status": "recipe",
+      "file": "recipe--soy-milk-with-nuts.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/spicy-bulgogi",
+      "status": "recipe",
+      "file": "recipe--spicy-bulgogi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/ssal-jocheong",
+      "status": "recipe",
+      "file": "recipe--ssal-jocheong.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/ssamjang",
+      "status": "recipe",
+      "file": "recipe--ssamjang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/ssukbeomul",
+      "status": "recipe",
+      "file": "recipe--ssukbeomul.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/ssukguk",
+      "status": "recipe",
+      "file": "recipe--ssukguk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/steamed-chicken-rice",
+      "status": "recipe",
+      "file": "recipe--steamed-chicken-rice.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/strawberry-jam",
+      "status": "recipe",
+      "file": "recipe--strawberry-jam.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/strawberry-milkshake",
+      "status": "recipe",
+      "file": "recipe--strawberry-milkshake.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/street-toast",
+      "status": "recipe",
+      "file": "recipe--street-toast.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/subak-soju",
+      "status": "recipe",
+      "file": "recipe--subak-soju.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/sujebi",
+      "status": "recipe",
+      "file": "recipe--sujebi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/sujebi-two-ways",
+      "status": "recipe",
+      "file": "recipe--sujebi-two-ways.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/sujeonggwa",
+      "status": "recipe",
+      "file": "recipe--sujeonggwa.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/sukju-namul",
+      "status": "recipe",
+      "file": "recipe--sukju-namul.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/sukju-oi-namul",
+      "status": "recipe",
+      "file": "recipe--sukju-oi-namul.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/sukjunamul-muchim",
+      "status": "recipe",
+      "file": "recipe--sukjunamul-muchim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/sulppang",
+      "status": "recipe",
+      "file": "recipe--sulppang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/sundae-bokkeum",
+      "status": "recipe",
+      "file": "recipe--sundae-bokkeum.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/sundubu-jjigae",
+      "status": "recipe",
+      "file": "recipe--sundubu-jjigae.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/tangsuyuk",
+      "status": "recipe",
+      "file": "recipe--tangsuyuk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/tongbaechu-kimchi",
+      "status": "recipe",
+      "file": "recipe--tongbaechu-kimchi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/tongdak-gui",
+      "status": "recipe",
+      "file": "recipe--tongdak-gui.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/tongmaneul-jangajji",
+      "status": "recipe",
+      "file": "recipe--tongmaneul-jangajji.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/toran-guk",
+      "status": "recipe",
+      "file": "recipe--toran-guk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/traditional-dakbokkeumtang",
+      "status": "recipe",
+      "file": "recipe--traditional-dakbokkeumtang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/triangle-gimbap",
+      "status": "recipe",
+      "file": "recipe--triangle-gimbap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/tteok-ramyeon",
+      "status": "recipe",
+      "file": "recipe--tteok-ramyeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/tteok-sudan",
+      "status": "recipe",
+      "file": "recipe--tteok-sudan.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/tteokbokki",
+      "status": "recipe",
+      "file": "recipe--tteokbokki.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/tteokgalbi",
+      "status": "recipe",
+      "file": "recipe--tteokgalbi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/tteokguk",
+      "status": "recipe",
+      "file": "recipe--tteokguk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/ttukbaegi-bulgogi",
+      "status": "recipe",
+      "file": "recipe--ttukbaegi-bulgogi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/ttukbaegi-gyeranjjim",
+      "status": "recipe",
+      "file": "recipe--ttukbaegi-gyeranjjim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/tuna-pancakes",
+      "status": "recipe",
+      "file": "recipe--tuna-pancakes.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/tuna-sandwich",
+      "status": "recipe",
+      "file": "recipe--tuna-sandwich.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/uhmook-bokkeum",
+      "status": "recipe",
+      "file": "recipe--uhmook-bokkeum.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/wanja",
+      "status": "recipe",
+      "file": "recipe--wanja.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/wanja-jeon",
+      "status": "recipe",
+      "file": "recipe--wanja-jeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/whiting-maeuntang",
+      "status": "recipe",
+      "file": "recipe--whiting-maeuntang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/wollamssam",
+      "status": "recipe",
+      "file": "recipe--wollamssam.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/yachae-hotteok",
+      "status": "recipe",
+      "file": "recipe--yachae-hotteok.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/yachaejeon",
+      "status": "recipe",
+      "file": "recipe--yachaejeon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/yak-gochujang",
+      "status": "recipe",
+      "file": "recipe--yak-gochujang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/yakgwa",
+      "status": "recipe",
+      "file": "recipe--yakgwa.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/yaksik",
+      "status": "recipe",
+      "file": "recipe--yaksik.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/yangbaechu-kimchi",
+      "status": "recipe",
+      "file": "recipe--yangbaechu-kimchi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/yangbaechu-pickle",
+      "status": "recipe",
+      "file": "recipe--yangbaechu-pickle.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/yanggaeng",
+      "status": "recipe",
+      "file": "recipe--yanggaeng.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/yangnyeom-gejang",
+      "status": "recipe",
+      "file": "recipe--yangnyeom-gejang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/yangnyeom-tongdak",
+      "status": "recipe",
+      "file": "recipe--yangnyeom-tongdak.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/yeolmu-mulkimchi",
+      "status": "recipe",
+      "file": "recipe--yeolmu-mulkimchi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/yeon-geun-jorim",
+      "status": "recipe",
+      "file": "recipe--yeon-geun-jorim.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/yeonggye-baeksuk",
+      "status": "recipe",
+      "file": "recipe--yeonggye-baeksuk.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/yeongyang-chaltteok",
+      "status": "recipe",
+      "file": "recipe--yeongyang-chaltteok.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/yeot-gangjeong",
+      "status": "recipe",
+      "file": "recipe--yeot-gangjeong.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/yubuchobap",
+      "status": "recipe",
+      "file": "recipe--yubuchobap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/yujacha",
+      "status": "recipe",
+      "file": "recipe--yujacha.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/yukgaejang",
+      "status": "recipe",
+      "file": "recipe--yukgaejang.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/yukhoe",
+      "status": "recipe",
+      "file": "recipe--yukhoe.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/yukpo",
+      "status": "recipe",
+      "file": "recipe--yukpo.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/yul-lan",
+      "status": "recipe",
+      "file": "recipe--yul-lan.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://www.maangchi.com/recipe/yuringi",
+      "status": "recipe",
+      "file": "recipe--yuringi.json",
+      "recipe_count": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-herbstrollen-mit-kuerbis",
+  "recipes": [
+    {
+      "name": "Herbstrollen mit Kürbis",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-herbstrollen-mit-kuerbis",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-herbstrollen-mit-kuerbis#recipe-faa6037e-83b2-501b-a3c7-9712bd097d7a",
+      "authors": [
+        "Anneke Schügner"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 12 Herbstrollen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für die Herbstrollen:",
+        "500 g Hokkaido",
+        "200 g Räuchertofu",
+        "50 g Reisnudeln (Vermicelli)",
+        "1 Birne",
+        "2 Frühlingszwiebeln",
+        "0.5 Avocado",
+        "70 g Rote Bete aus dem Glas (optional)",
+        "100 g Radicchio",
+        "12 Scheiben Reispapier",
+        "Olivenöl",
+        "Für das Dressing:",
+        "2 EL Tahin",
+        "3 EL Zitronensaft",
+        "2 EL Olivenöl",
+        "1 EL Agavendicksaft",
+        "0.5 Knoblauchzehe",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Ofen auf 180°C (Umluft) vorheizen. Den Kürbis halbieren und in etwa 5 mm dicke Scheiben schneiden. Den Tofu in dünne Stifte schneiden. Kürbis und Tofu auf einem Backblech verteilen und mit etwas Olivenöl bestreichen. Mit Salz und Pfeffer würzen. Im Ofen bei 180°C (Umluft) für ca. 15 Minuten backen.",
+        "Für den Dip Tahin, Zitronensaft, Olivenöl und Agavendicksaft in eine Schale geben und verrühren. Die Knoblauchzehe schälen und fein hacken oder mit einer Knoblauchpresse zerdrücken. Den Knoblauch nun ebenfalls in die Schale geben und mit Salz und Pfeffer abschmecken.",
+        "In der Zwischenzeit die Reisnudeln nach Packungsanweisung zubereiten, abgießen und zum Abkühlen beiseitestellen. Die Birne, die Frühlingszwiebeln, Avocado und Rote Bete in feine Stifte schneiden und ebenfalls beiseitestellen. Radicchio waschen, gut abtropfen lassen und ebenfalls in feine Streifen schneiden.",
+        "Bereitet eine große Schale mit warmem Wasser vor. Dort legt ihr das Reispapier hinein und wartet ein paar Sekunden, bis es weich genug zum Rollen ist. Das Reispapier anschließend auf einen großen Teller legen. Reisnudeln, Kürbis, Tofu, Birne, Frühlingszwiebeln, Avocado, Rote Bete, Radicchio und Thaibasilikum in der Mitte platzieren und den unteren Teil des Reispapiers über die Füllung schlagen. Die rechte und linke Seite einklappen und fest aufrollen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

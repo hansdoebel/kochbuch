@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-weihnachtliche-rotkohlsuppe-mit-zimt-croutons",
+  "recipes": [
+    {
+      "name": "Vegane weihnachtliche Rotkohlsuppe mit Zimt-Croûtons",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-weihnachtliche-rotkohlsuppe-mit-zimt-croutons",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-weihnachtliche-rotkohlsuppe-mit-zimt-croutons#recipe-4ca4cab4-ac4c-5c70-9683-1c11edbe5591",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für die Suppe:",
+        "1 kg Rotkohl",
+        "200 g Kartoffeln",
+        "2 Äpfel",
+        "2 Zwiebeln",
+        "2 Knoblauchzehen",
+        "15 g Ingwer",
+        "1 TL Chiliflocken",
+        "2 Nelken",
+        "2 Sternanis",
+        "2 Pimentkörner",
+        "3 Lorbeerblätter",
+        "100 ml veganer Rotwein",
+        "800 ml Gemüsebrühe",
+        "200 ml Kokosmilch",
+        "1 Orange (Saft und Abrieb)",
+        "Salz",
+        "Pfeffer",
+        "Pflanzenöl zum Braten",
+        "Für die Zimt-Croûtons:",
+        "1 Toast (oder Brötchen)",
+        "2 EL Öl (oder vegane Butter)",
+        "1 TL Zimt",
+        "Zum Servieren:",
+        "2 Orangen",
+        "frischer Koriander"
+      ],
+      "instructions": [
+        "Den Rotkohl waschen und in Streifen schneiden. Die Kartoffeln schälen, Äpfel waschen und beides würfeln. Zwiebeln, Knoblauch und Ingwer schälen und ebenfalls klein schneiden. Nelken, Sternanis, Pimentkörner und Lorbeerblätter in ein Gewürzsäckchen oder einen Teefilterbeutel geben und gut mit einem Küchengarn zubinden und beiseitelegen.",
+        "Pflanzenöl in einem Topf erhitzen und zuerst geschnittene Zwiebeln, Knoblauch, Ingwer und Chiliflocken bei mittlerer Hitze circa 5 Minuten anschwitzen. Rotkohl, Kartoffeln und Äpfel hinzugeben, weitere 5 Minuten mit anbraten und im Anschluss mit Rotwein ablöschen. Gemüsebrühe und das Gewürzsäckchen hinzugeben und 30–40 Minuten auf mittlerer Hitze köcheln lassen. Zwischendurch immer wieder umrühren, damit nichts anbrennt.",
+        "Währenddessen die Orangen fürs Servieren schälen und vorsichtig filetieren. Das Brot für die Crôutons in kleine Würfel schneiden und beides beiseitestellen. Pflanzenöl oder vegane Butter zusammen mit Zimt in eine Pfanne geben und erwärmen. Die Brotstücke circa 5 Minuten darin anbraten, bis sie braun und knusprig sind. Danach beiseitestellen.",
+        "Das Gewürzsäckchen aus der Suppe herausnehmen und die Kokosmilch hinzugeben. Die Suppe pürieren und den Abrieb und Saft einer Orange zur Suppe hinzugeben. Danach mit Salz und Pfeffer abschmecken. Mit den Crôutons, filetierten Orangen und frischem Koriander toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

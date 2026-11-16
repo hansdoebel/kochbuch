@@ -1,0 +1,36 @@
+{
+  "source_url": "https://www.recipetineats.com/easy-french-onion-soup-dip/",
+  "recipes": [
+    {
+      "name": "Easy French Onion Soup Dip",
+      "source_url": "https://www.recipetineats.com/easy-french-onion-soup-dip/",
+      "recipe_id": "https://www.recipetineats.com/easy-french-onion-soup-dip/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "10"
+      ],
+      "prep_time": "PT5M",
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "400 g / 14 oz sour cream ((full fat is better))",
+        "½ cup mayonnaise ((Mayo labelled “whole egg” mayo is best))",
+        "40 g / 1.4 oz French Onion Soup Mix (store bought) (, salt reduced is best)"
+      ],
+      "instructions": [
+        "Mix ingredients together in a bowl. Rest for 5 minutes or until onion bits in the soup mix become softened.",
+        "Serve with your favorite chips!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-jackfrucht-chicken-nuggets",
+  "recipes": [
+    {
+      "name": "Vegane Jackfrucht „Chicken“ Nuggets",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-jackfrucht-chicken-nuggets",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-jackfrucht-chicken-nuggets#recipe-867a472c-a016-578c-b3bb-87b2d3aa443e",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "25 Nuggets",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "800 g Jackfrucht (2 Dosen)",
+        "5 EL Senf",
+        "200 ml pflanzliche Milch",
+        "150 g Mehl",
+        "1 TL Stärke",
+        "1 TL Salz",
+        "1 TL schwarzer Pfeffer",
+        "1 TL Paprikapulver",
+        "1/2 TL Cayenne",
+        "1/2 TL Knoblauchpulver",
+        "1/2 TL Zwiebelpulver",
+        "1/2 TL Muskat",
+        "150 g Paniermehl",
+        "Zusätzlich",
+        "BBQ Soße",
+        "1 Zitrone"
+      ],
+      "instructions": [
+        "Die Jackfrucht-Dose öffnen, die Flüßigkeit abgießen und die Jackfrucht-Stücken unter kaltem Wasser abbrausen.",
+        "Die Jackfrucht-Stücken großzügig mit Senf einschmieren (mit Hilfe der Hände) und gut salzen und pfeffern.",
+        "Zum Panieren nun drei Schalen vorbereiten. In die erste Schale kommt das Mehl, die Speisestärke und alle dazugehörigen Gewürze. Das Mehl, die Speisestärke und die Gewürze gut vermischen.",
+        "In die zweite Schale kommt die pflanzliche Milch und in die dritte Schale kommt das Paniermehl.",
+        "Nun jedes Stück Jackfrucht erst in Mehl wälzen, dann in die pflanzliche Milch tunken, zurück zum Mehl, ein zweites Mal in die Milch und zum Schluss mit Paniermehl bedecken. Mit jedem Stück Jackfrucht so vorgehen.",
+        "Eine große Pfanne mit ausreichend Öl erhitzen (der Boden der Pfanne sollte gut bedeckt sein) und die Nuggets darin gold-braun braten.",
+        "Die Nuggets mit einem BBQ-Dip und einem Spritzer frischem Zitronensaft servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

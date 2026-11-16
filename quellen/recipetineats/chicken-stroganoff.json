@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.recipetineats.com/chicken-stroganoff/",
+  "recipes": [
+    {
+      "name": "Chicken Stroganoff",
+      "source_url": "https://www.recipetineats.com/chicken-stroganoff/",
+      "recipe_id": "https://www.recipetineats.com/chicken-stroganoff/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "4",
+        "4 - 5 people"
+      ],
+      "prep_time": "PT5M",
+      "cook_time": "PT15M",
+      "total_time": "PT20M",
+      "ingredients": [
+        "600g / 1.2 lb chicken thighs (4 - 5) (, boneless skinless (or breast or tenderloin, Note 1))",
+        "1 tsp garlic powder",
+        "Salt and pepper",
+        "1 tbsp olive oil",
+        "1 large onion (, chopped)",
+        "300g / 10oz mushrooms (, sliced (not too thin))",
+        "40g / 3 tbsp butter",
+        "2 tbsp flour ((Note 2))",
+        "2 cups / 500 ml beef broth/stock (, salt reduced)",
+        "1 tbsp Dijon mustard",
+        "2/3 cup (150g) sour cream ((or yogurt))",
+        "250 - 300 g / 8 - 10 oz pasta or egg noodles of choice ((Note 3))",
+        "Chopped parsley or chives (, for garnish (optional))"
+      ],
+      "instructions": [
+        "Sprinkle chicken with garlic powder, salt and pepper on both sides.",
+        "Heat oil in a large skillet over medium heat. Place chicken in skillet smooth side down.",
+        "Press down lightly with with spatula. Cook for 4 minutes until golden.",
+        "Turn and press lightly with spatula. Cook for 2 minutes.",
+        "Remove chicken onto a plate.",
+        "Turn heat up to medium high. Add butter, melt. Then add onions, cook for 1 minute, then add mushrooms.",
+        "Cook mushrooms until golden. Scrape bottom of fry pan to get all the golden bits off (this is flavour!).",
+        "Add flour, cook, stirring, for 1 minute.",
+        "Add half the broth while stirring. Once incorporated, add remaining broth.",
+        "Stir, then add sour cream and mustard. Stir until incorporated (don't worry if it looks split, sour cream will \"melt\" as it heats).",
+        "Bring to simmer ,then reduce heat to medium low. Once it thickens to the consistency of pouring cream (3 minutes), adjust salt and pepper to taste.",
+        "Add chicken back in (including plate juices). Simmer for 1 minute, then remove from stove.",
+        "Serve over pasta or egg noodles, sprinkled with parsley or chives if desired."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. Chicken – If using breast, use 2 and either slice horizontally to form 4 “steaks” in total or chop into bite size pieces. If using tenderloin, use whole or chop. If cut into bite size pieces, still follow the recipe. ie brown then remove, then return into pan. 2. Flour – Any wheat flour is fine here, I use plain white flour (all purpose). Or use 1 tbsp cornstarch / cornflour mixed with 1 tbsp water (makes it Gluten Free), mix those together then add that in with the beef broth. 3. Serving – I like serving this with pasta. It’s also great with mashed potato, rice, polenta – anything that’s suitable to slop up all that gravy! 4. Fat reduction – use low fat sour cream and reduce butter to 2 tbsp, and use a non stick pan. Mixture will seem drier once you add flour but don’t worry! 5. Nutrition per serving, excluding noodles. Nutrition Facts Chicken Stroganoff Amount Per Serving Calories 389 Calories from Fat 261 % Daily Value* Fat 29g 45% Saturated Fat 9g 56% Cholesterol 133mg 44% Sodium 511mg 22% Potassium 570mg 16% Carbohydrates 8g 3% Fiber 1g 4% Sugar 3g 3% Protein 23g 46% Vitamin A 280IU 6% Vitamin C 3.1mg 4% Calcium 53mg 5% Iron 1.5mg 8% * Percent Daily Values are based on a 2000 calorie diet."
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/brokkolisalat-mit-gruenem-aioli-dressing",
+  "recipes": [
+    {
+      "name": "Gerösteter Brokkolisalat mit grünem Aioli-Dressing",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/brokkolisalat-mit-gruenem-aioli-dressing",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/brokkolisalat-mit-gruenem-aioli-dressing#recipe-f249b5de-ddd5-5928-b2a9-c1061955f2c7",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für den Brokkolisalat:",
+        "1 Brokkoli (ca. 500 g)",
+        "1 rote Zwiebel",
+        "1 Dose weiße Bohnen (250 g Abtropfgewicht)",
+        "100 g Walnüsse (z. B. von Naturata)",
+        "Für das grüne Aioli-Dressing:",
+        "150 g vegane Aioli (z. B. von Naturata)",
+        "2 EL Mandelmus",
+        "2 EL Hefeflocken",
+        "0.5 Zitrone (Saft)",
+        "25 g frische Kräuter (z. B. Petersilie, Basilikum, Dill)",
+        "50 ml Wasser",
+        "1 EL Rotweinessig (z. B. von Naturata)",
+        "Salz",
+        "Pfeffer",
+        "Für die veganen Bacon-Bits:",
+        "25 g Sojagranulat",
+        "1 EL Sojasoße",
+        "1 TL Liquid Smoke",
+        "1 TL Ahornsirup",
+        "1 EL Olivenöl (z. B. von Naturata)",
+        "1 TL Senf (z. B. von Naturata)",
+        "50 ml heißes Wasser",
+        "Pflanzenöl zum Braten"
+      ],
+      "instructions": [
+        "Für die veganen Bacon-Bits Sojasoße, Liquid Smoke, Ahornsirup, Olivenöl, Senf und heißes Wasser in einer Schüssel verrühren. Das Sojagranulat dazugeben, vermengen und abgedeckt ca. 10 Minuten einweichen lassen.",
+        "In der Zwischenzeit Brokkoli in Röschen schneiden, die rote Zwiebel schälen und in feine Scheiben schneiden und die weißen Bohnen aus der Dose abgießen. Walnüsse in einer fettfreien Pfanne rösten. Danach aus der Pfanne nehmen und grob hacken.",
+        "Die Pfanne zurück auf den Herd stellen, Pflanzenöl darin erhitzen und das Sojagranulat darin scharf anbraten, bis es gebräunt und knusprig ist.",
+        "Parallel dazu in einer zweiten Pfanne ebenfalls Pflanzenöl erhitzen und die Brokkoliröschen scharf anbraten, bis sie gebräunt sind.",
+        "In der Zwischenzeit für das Dressing vegane Aioli, Mandelmus, Hefeflocken, Zitronensaft, frische Kräuter (z. B. Petersilie, Basilikum, Dill), Wasser und Rotweinessig in ein hohes Gefäß geben und pürieren. Bei Bedarf mehr Wasser dazugeben, bis ein cremiges Dressing entsteht. Mit Salz und Pfeffer abschmecken.",
+        "Rote Zwiebel und weiße Bohnen zum gebratenen Brokkoli in die Pfanne geben und ca. 1-2 Minuten erwärmen.",
+        "Zum Servieren das Dressing auf einer großen Salatplatte verstreichen und die Brokkoli-Mischung darauf verteilen. Mit den gerösteten Nüssen und veganen Bacon Bits bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

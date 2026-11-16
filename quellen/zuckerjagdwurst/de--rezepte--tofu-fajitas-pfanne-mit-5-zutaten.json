@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tofu-fajitas-pfanne-mit-5-zutaten",
+  "recipes": [
+    {
+      "name": "Tofu-Fajitas-Pfanne (mit 5 Zutaten)",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/tofu-fajitas-pfanne-mit-5-zutaten",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/tofu-fajitas-pfanne-mit-5-zutaten#recipe-fc736b9c-a339-57a3-8ee3-6a72b8901d92",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "3 Paprikaschoten (grün und gelb)",
+        "2 rote Zwiebeln",
+        "400 g Erdnuss-Tofu",
+        "1 EL Gewürzmischung (z. B. Taco- und Burritogewürz von Lebensbaum)",
+        "Salz",
+        "Pfeffer",
+        "Pflanzenöl zum Braten",
+        "veganer Schmand zum Servieren"
+      ],
+      "instructions": [
+        "Paprikaschoten entkernen und in Streifen schneiden. Die roten Zwiebeln schälen, halbieren und in breitere Scheiben schneiden. Erdnuss-Tofu mit den Händen in grobe Stücke rupfen.",
+        "Pflanzenöl in einer großen Pfanne erhitzen. Den Erdnusstofu darin bei mittlerer Hitze anbraten, bis er von mehreren Seiten gut gebräunt ist.",
+        "Parallel dazu eine zweite Pfanne mit Pflanzenöl erhitzen und zunächst die Zwiebeln ca. 2-3 Minuten anbraten, bis sie glasig werden. Die Paprikastreifen dazugeben und ca. 10 Minuten anbraten, bis sie weicher sind. Mit der Gewürzmischung bestreuen und mit Salz und Pfeffer würzen. Danach weiterbraten, bis die Paprikastreifen gut gebräunt sind. Zum Schluss den Erdnusstofu dazugeben und alles vermengen.",
+        "Tipp: Wenn ihr nur eine Pfanne verwenden wollt, könnt ihr auch zuerst den Tofu darin anbraten, danach aus der Pfanne nehmen und dann die restlichen Zutaten in die Pfanne geben.",
+        "Die Tofu-Fajitas-Pfanne mit veganem Schmand servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

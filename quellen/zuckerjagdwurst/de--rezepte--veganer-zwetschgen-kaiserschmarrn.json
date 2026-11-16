@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zwetschgen-kaiserschmarrn",
+  "recipes": [
+    {
+      "name": "Veganer Kaiserschmarrn",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zwetschgen-kaiserschmarrn",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-zwetschgen-kaiserschmarrn#recipe-73c9265e-5859-5063-bcff-45c8a540aa9c",
+      "authors": [
+        "Gesine Fiedler"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für den Teig:",
+        "150 g Dinkelmehl (Type 630)",
+        "8 g (1 TL) Backpulver",
+        "50 g Speisestärke",
+        "250 ml Sojamilch",
+        "100 ml Mineralwasser",
+        "1 EL Agavendicksaft",
+        "1 EL neutrales Pflanzenöl",
+        "1 Prise Salz",
+        "Außerdem:",
+        "360 g (1 Glas) Fruchtmus (z. B. von Bauck Mühle)",
+        "5 EL Puderzucker",
+        "neutrales Pflanzenöl zum Braten"
+      ],
+      "instructions": [
+        "Für den Teig Mehl, Backpulver und Stärke in einer Schüssel mischen. In einer weiteren Schüssel Sojamilch, Mineralwasser, Agavendicksaft, Öl und Salz glatt rühren. Dann die Mehlmischung dazugeben und zügig zu einem glatten Teig verrühren.",
+        "Öl in einer großen Pfanne erhitzen und den kompletten Teig hineingießen. Wenn möglich, einen Deckel auflegen und auf mittlerer Hitze 3–5 Minuten anbacken lassen, bis sich kleine Blasen bilden und sich der Teig vom Rand gut lösen lässt. Mit einem Messer den angebackenen Teig in acht Stücke schneiden und diese nacheinander vorsichtig wenden. Weitere 3–5 Minuten goldbraun backen und mit dem Pfannenwender in mundgerechte Stücke teilen.",
+        "Vier Esslöffel Puderzucker mithilfe eines kleinen Siebes über die Teigstücke streuen und bei mittlerer Hitze unterrühren, bis der Puderzucker karamellisiert und die Stücke ummantelt.",
+        "Den Kaiserschmarrn mit dem restlichen Puderzucker bestreuen und mit Fruchtmus servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

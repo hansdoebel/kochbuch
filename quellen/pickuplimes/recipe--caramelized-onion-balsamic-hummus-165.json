@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/caramelized-onion-balsamic-hummus-165",
+  "recipes": [
+    {
+      "name": "Caramelized Onion & Balsamic Hummus",
+      "source_url": "https://www.pickuplimes.com/recipe/caramelized-onion-balsamic-hummus-165",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT20M",
+      "total_time": "PT25M",
+      "ingredients": [
+        "1 Tbsp olive oil",
+        "2 medium yellow onion",
+        "2 cup cooked chickpeas",
+        "2 garlic clove",
+        "¼ cup tahini",
+        "2 Tbsp extra-virgin olive oil",
+        "2 Tbsp water",
+        "1½ lemon",
+        "1 Tbsp balsamic vinegar",
+        "½ tsp sweet paprika powder",
+        "¼ tsp ground cumin",
+        "¼ tsp salt"
+      ],
+      "instructions": [
+        "Heat the oil in a large pan over medium-high heat*. Cook the onions until deeply golden, about 20 minutes. Stir occasionally and add splashes of water as needed to deglaze the pan.",
+        "Place the caramelized onions in a food processor, along with all the remaining ingredients. Blend on high until smooth.",
+        "Test test and adjust the seasoning as desired. Serve with crackers, cut-up vegetables, or enjoy in a wrap or sandwich!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * Depending on the pan, you made need to reduce the heat to medium, but this will also increase the cooking time.",
+    "Storage Store in an airtight container in the fridge for up to 5 days."
+  ]
+}

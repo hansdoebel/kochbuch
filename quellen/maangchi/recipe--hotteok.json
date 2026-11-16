@@ -1,0 +1,136 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/hotteok",
+  "recipes": [
+    {
+      "name": "Sweet pancakes with brown sugar syrup filling (Hotteok)",
+      "source_url": "https://www.maangchi.com/recipe/hotteok",
+      "recipe_id": "/recipe/hotteok#sso/recipe/5660",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "Makes 8 hotteok",
+      "prep_time": "P0DT1H20M0S",
+      "cook_time": "P0DT0H40M0S",
+      "total_time": "P0DT2H0M0S",
+      "ingredients": [
+        "water",
+        "2 tbs white sugar",
+        "2 ts dry yeast",
+        "½ ts kosher salt",
+        "1 tbs vegetable oil",
+        "2 cups and ½ cup of all purpose flour",
+        "½ cup turbinado sugar (or brown sugar)",
+        "1 ts cinnamon powder",
+        "2 tbs chopped walnuts"
+      ],
+      "instructions": [
+        "Place 1 cup of lukewarm water into a mixing bowl. Add white sugar, yeast, kosher salt, vegetable oil, and stir it well. Add 2 cups all purpose flour and mix it with a rice scoop, or by hand. Let the dough rise. It should sit with the lid closed at room temperature for 1 hour. After an hour the dough will rise to double its size. Knead it to remove the gas bubbles in the dough. Let it rise for another 10-20 minutes.",
+        "Mix the turbinado sugar, cinnamon powder, and walnuts in a bowl.",
+        "Knead the dough again to remove the gas bubbles. Place and spread about ½ cup flour on your cutting board. Put the dough on your cutting board and knead it. Make it into a lump, and cut it into 8 equal-sized balls. Take 1 dough ball, flatten it, put some filling in the center of the dough, and then seal it to make a ball. Repeat this 8 times to make 8 stuffed balls.",
+        "Place 1 ball on the pan and let it cook for 30 seconds. When the bottom of the dough ball is light golden brown, turn it over and press the dough with a spatula to make a thin and wide circle (about the size of a CD). Let it cook about 1 minute until the bottom is golden brown. Turn it over again and turn down the heat very low. Place the lid on the pan and cook 1 more minute. The brown sugar filling mixture will be melted to syrup! Serve hot!"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Makes 8 hotteok"
+        },
+        {
+          "tag": "li",
+          "text": "water"
+        },
+        {
+          "tag": "li",
+          "text": "2 tbs white sugar"
+        },
+        {
+          "tag": "li",
+          "text": "2 ts dry yeast"
+        },
+        {
+          "tag": "li",
+          "text": "½ ts kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 tbs vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "2 cups and ½ cup of all purpose flour"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup turbinado sugar (or brown sugar)"
+        },
+        {
+          "tag": "li",
+          "text": "1 ts cinnamon powder"
+        },
+        {
+          "tag": "li",
+          "text": "2 tbs chopped walnuts"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Make hotteok dough"
+        },
+        {
+          "tag": "li",
+          "text": "Place 1 cup of lukewarm water into a mixing bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Add white sugar, yeast, kosher salt, vegetable oil, and stir it well."
+        },
+        {
+          "tag": "li",
+          "text": "Add 2 cups all purpose flour and mix it with a rice scoop, or by hand."
+        },
+        {
+          "tag": "li",
+          "text": "Let the dough rise. It should sit with the lid closed at room temperature for 1 hour."
+        },
+        {
+          "tag": "li",
+          "text": "After an hour the dough will rise to double its size. Knead it to remove the gas bubbles in the dough."
+        },
+        {
+          "tag": "li",
+          "text": "Let it rise for another 10-20 minutes."
+        },
+        {
+          "tag": "h3",
+          "text": "Make filling (for 8 hotteok)"
+        },
+        {
+          "tag": "li",
+          "text": "Mix the turbinado sugar, cinnamon powder, and walnuts in a bowl. *tip: you could use mozzarella cheese for stuffing. Invent your own fillings with your favorite ingredients!"
+        },
+        {
+          "tag": "h3",
+          "text": "Let’s make hotteok!"
+        },
+        {
+          "tag": "li",
+          "text": "Knead the dough again to remove the gas bubbles.Place and spread about ½ cup flour on your cutting board.Put the dough on your cutting board and knead it. Make it into a lump, and cut it into 8 equal-sized balls. Take 1 dough ball, flatten it, put some filling in the center of the dough, and then seal it to make a ball.Repeat this 8 times to make 8 stuffed balls. *tip: Use some flour from the cutting board to prevent your fingers from sticking to the doughHeat up your non-stick pan over medium heat and add some vegetable oil.Place 1 ball on the pan and let it cook for 30 seconds.When the bottom of the dough ball is light golden brown, turn it over and press the dough with a spatula to make a thin and wide circle (about the size of a CD). Let it cook about 1 minute until the bottom is golden brown.Turn it over again and turn down the heat very low.Place the lid on the pan and cook 1 more minute. The brown sugar filling mixture will be melted to syrup!Serve hot!"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

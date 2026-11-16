@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/ranch-flavoured-roasted-chickpeas-143",
+  "recipes": [
+    {
+      "name": "Ranch Flavoured Roasted Chickpeas",
+      "source_url": "https://www.pickuplimes.com/recipe/ranch-flavoured-roasted-chickpeas-143",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT30M",
+      "total_time": "PT35M",
+      "ingredients": [
+        "1½ cup cooked chickpeas",
+        "2 tsp vegetable oil",
+        "1 tsp dried parsley",
+        "1 tsp nutritional yeast flakes",
+        "½ tsp dried chives",
+        "¼ tsp garlic powder",
+        "¼ tsp onion powder",
+        "⅛ tsp dried dill",
+        "⅛ tsp salt",
+        "1 pinch ground black pepper"
+      ],
+      "instructions": [
+        "Line a baking tray and preheat the oven to 400°F (200°C)*.",
+        "Combine all the ingredients in a bowl.",
+        "Transfer to the baking tray, and bake on the centre rack of the oven for 30 to 35 minutes, or until golden**. Mix once halfway.",
+        "Remove from oven and let cool. Enjoy on salads, soups, or snack away on them as-is. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection). ** Baking for 30 minutes results in chickpeas that are crunchy on the outside and soft on the inside. Bake them for closer to 45 minutes makes them ultra crunchy.",
+    "Storage Best if enjoyed immediately. Store at room temperature for up to 1 day. It's best if the jar or container is not completely closed so that the chickpeas can \"breathe\" and remain crispy."
+  ]
+}

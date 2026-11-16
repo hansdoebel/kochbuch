@@ -1,0 +1,62 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-cappuccino-streuseltorte-mit-blaubeeren",
+  "recipes": [
+    {
+      "name": "Vegane Cappuccino-Streuseltorte mit Blaubeeren",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-cappuccino-streuseltorte-mit-blaubeeren",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-cappuccino-streuseltorte-mit-blaubeeren#recipe-d71412eb-f21a-5cc8-88e8-aa21567fb850",
+      "authors": [
+        "Anna Kreitsmann"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (∅ 20 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT125M",
+      "ingredients": [
+        "Für den Teig:",
+        "250 g Weizenmehl (Type 405)",
+        "270 g gemahlene Haselnüsse",
+        "170 g Zucker",
+        "12 g (1 EL) Backpulver",
+        "8 g (1.5 TL) Vanillezucker",
+        "15 g ganze Kaffeebohnen (z. B. von Lebensbaum)",
+        "500 ml pflanzliche Milch",
+        "15 g fein gemahlener Kaffee (z. B. von Lebensbaum)",
+        "Für die Ganache:",
+        "100 g Kuvertüre 70 %",
+        "200 ml pflanzliche Milch",
+        "1 EL fein gemahlener Kaffee (z. B. von Lebensbaum)",
+        "Für die Creme:",
+        "150 ml vegane Sahne zum Aufschlagen",
+        "16 g (2 EL) veganes Sahnesteif",
+        "16 g (3 TL) Vanillezucker",
+        "100 ml frisch gebrühter Kaffee (z. B. von Lebensbaum)",
+        "50 g Zucker",
+        "15 g Agartine (mit 30 % Agar Agar)",
+        "400 g veganer Skyr (Quark)",
+        "Außerdem:",
+        "250 g Blaubeeren"
+      ],
+      "instructions": [
+        "Für den Teig Mehl, gemahlene Haselnüsse, Zucker, Backpulver und Vanillezucker in einer großen Schüssel mischen. Die ganzen Kaffeebohnen hacken und beiseitestellen.",
+        "Pflanzliche Milch mit dem Kaffeepulver aufkochen und abkühlen lassen. Danach die Kaffee-Milch-Mischung zu den trockenen Zutaten geben und so kurz wie möglich glatt rühren.",
+        "Zwei Springformen (∅ 20 cm) bereitstellen und den Boden jeweils mit Backpapier auslegen. Den Rand der Form jedoch nicht fetten. Den Teig in beide Springformen aufteilen und bei 175 °C (Ober- und Unterhitze) circa 20–30 Minuten backen, bis der Teig durchgebacken ist. Danach abkühlen lassen.",
+        "Mit einem scharfen Sägemesser beide abgekühlte Böden oben begradigen. Danach die Teigreste grob zwischen den Fingern zerkrümeln und mit den zuvor gehackten Kaffeebohnen mischen und beiseitestellen.",
+        "Für die Ganache Kuvertüre in kleine Stückchen hacken. Die pflanzliche Milch mit dem Kaffee aufkochen und über die gehackte Kuvertüre gießen. Circa 30 Sekunden stehen lassen, dann glatt rühren und mit einem Pürierstab nochmal homogenisieren. Nun im Kühlschrank stehen lassen, bis sie streichfest ist.",
+        "Für die Creme die vegane Sahne mit veganem Sahnesteif und Vanillezucker aufschlagen und direkt kalt stellen. In einem großen Topf den frisch aufgebrühten Kaffee, Zucker und die Agartine mithilfe eines Schneebesens verrühren und aufkochen lassen. Die Mischung sollte mindestens 2 Minuten stark kochen. Dabei durchgängig mit dem Schneebesen rühren. Einen Schluck Wasser zugeben, um das beim Kochen verdunstete Wasser wieder auszugleichen.",
+        "Den Topf vom Herd nehmen und den veganen Skyr mit einem Schneebesen esslöffelweise unterrühren. Möglichst zügig dabei sein, da die Masse schnell fest werden kann! Wenn die Masse etwas abgekühlt ist, die geschlagene vegane Sahne vorsichtig unterheben.",
+        "Den ersten Boden auf einen Teller legen, einen Tortenring drumherum stellen und den Boden mit der Hälfte der Ganache bestreichen. Darauf dann die Hälfte der Blaubeeren verteilen. Die Hälfte der Creme auf die Blaubeeren geben und bis zum Rand glatt streichen.",
+        "Den zweiten Boden auflegen und die zweite Hälfte der Ganache sowie die übrige Creme darauf verteilen. Nun die restlichen Blaubeeren auf der Creme verteilen und die Torte mindestens 1 Stunde kalt stellen.",
+        "Zum Servieren ein Messer unter heißes Wasser halten und damit die Torte vom Ring lösen – dabei dicht am Ring innen einmal um die Torte fahren. Den Ring vorsichtig entfernen. Zum Schluss den Kuchen mit den beiseitegelegten Kuchenkrümeln und noch mehr Blaubeeren verzieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

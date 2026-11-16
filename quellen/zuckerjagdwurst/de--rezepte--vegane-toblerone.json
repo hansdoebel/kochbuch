@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-toblerone",
+  "recipes": [
+    {
+      "name": "Vegane Toblerone",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-toblerone",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-toblerone#recipe-02fc7f8f-6756-5feb-b94b-019ed1c94005",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "etwa 600 g Toblerone",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "350 g vegane Milchschokolade",
+        "125 g veganes Nougat",
+        "100 g Zucker",
+        "100 g Mandeln"
+      ],
+      "instructions": [
+        "Vegane Milchschokolade und veganes Nougat in einem Wasserbad (also einer hitzebeständigen Schüssel oder einem kleinen Topf über einem größeren Topf mit köchelndem Wasser) schmelzen. Den Topf vom Herd nehmen und die Schokoladen-Nougat-Mischung ca. 10 Minuten abkühlen lassen.",
+        "Mandeln sehr fein hacken und beiseitelegen. Den Zucker in eine Pfanne oder einen Topf geben und langsam über mittlerer Hitze schmelzen lassen. Bis der Zucker sich aufgelöst hat und bernsteinfarben ist, dauert es etwa 5-10 Minuten. In dieser Zeit nicht rühren, aber aufpassen, dass der Zucker nicht anbrennt und falls nötig die Hitze reduzieren.",
+        "Sobald sich der Zucker komplett aufgelöst hat und bernsteinfarben ist, die gehackten Mandeln hinzugeben und unterrühren.",
+        "Die Pfanne/Topf vom Herd nehmen und die karamellisierten Mandeln auf eine Silikonmatte/Backpapier geben und dort abkühlen lassen.",
+        "Sobald der Mandel-Karamell-Mix komplett abgekühlt und hart geworden ist, auf ein Schneidebrett legen und sehr fein hacken.",
+        "Die karamellisierten gehackten Mandeln zur geschmolzenen Schokolade geben und unterrühren. In eine Silikonform füllen und mindestens eine Stunde im Kühlschrank ruhen lassen, bis die Schokolade fest ist."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

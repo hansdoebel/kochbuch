@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.recipetineats.com/baharat/",
+  "recipes": [
+    {
+      "name": "Baharat (aka Lebanese 7 Spice)",
+      "source_url": "https://www.recipetineats.com/baharat/",
+      "recipe_id": "https://www.recipetineats.com/baharat/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "0.25",
+        "0.25 cup"
+      ],
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 tbsp ground all-spice powder ((substitute with mixed spice))",
+        "1 tbsp cinnamon powder",
+        "2 1/4 tsp ground coriander",
+        "1 1/2 tsp black pepper",
+        "3/4 tsp cumin powder",
+        "3/8 tsp ground cloves ((substitute more nutmeg))",
+        "3/8 tsp nutmeg powder ((substitute more cloves))",
+        "1 tsp ground all-spice powder ((substitute with mixed spice))",
+        "1 tsp cinnamon powder",
+        "3/4 tsp ground coriander",
+        "1/2 tsp black pepper",
+        "1/4 tsp cumin powder",
+        "1/8 tsp ground cloves ((substitute more nutmeg))",
+        "1/8 tsp nutmeg powder ((substitute more cloves))"
+      ],
+      "instructions": [
+        "Mix the spices together in a small bowl.",
+        "Store in a airtight jar for 3 months in a cool dry place, though note the shelf life will be limited to the freshness of your spices."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/suesse-spiesse-mit-brownies-marshmallows-und-beeren",
+  "recipes": [
+    {
+      "name": "Süße Spieße mit veganen Brownies & Beeren",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/suesse-spiesse-mit-brownies-marshmallows-und-beeren",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/suesse-spiesse-mit-brownies-marshmallows-und-beeren#recipe-1d36feb3-8652-592d-8c0e-782baf58f80f",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "20 Spieße",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Spieße",
+        "20 Holzspieße",
+        "40 kleine Erdbeeren",
+        "40 Blaubeeren",
+        "optional: vegane Marshmallows",
+        "Brownies",
+        "200 g Mehl",
+        "200 g Zucker",
+        "1 Packung Vanillinzucker",
+        "50 g Kakaopulver",
+        "100 g Apfelmuß",
+        "100 ml pflanzliches Öl",
+        "200 ml pflanzliche Milch",
+        "200 g Schokolade",
+        "100 g Schokochips"
+      ],
+      "instructions": [
+        "Den Ofen auf 180°C Umluft vorheizen.",
+        "Für die Brownies zuerst alle trockenen Zutaten in einer großen Schüssel verrühren.",
+        "Die dunkle Schokolade im Wasserbad schmelzen.",
+        "Nun die geschmolzene Schokolade, das Apfelmuß, die pflanzliche Milch und das Öl hinzugeben, mit einem Schneebesen vermischen und in eine eingefettet und mit Kakaopulver ausgeklopfte Form (20x25cm) geben.",
+        "Zum Schluss die Schokoladenchips darauf verteilen.",
+        "Den Teig für 25-30 Minuten im Ofen backen, anschließend komplett abkühlen lassen und in Vierecke/Quadrate schneiden.",
+        "Die Erdbeeren und Blaubeeren waschen und den Strunk der Erdbeeren entfernen.",
+        "Die Brownies und die Beeren auf den Holzspießen platzieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

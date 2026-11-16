@@ -1,0 +1,62 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/quinoa-salad-with-roasted-garlic-dressing-129",
+  "recipes": [
+    {
+      "name": "Quinoa Salad with Roasted Garlic Dressing",
+      "source_url": "https://www.pickuplimes.com/recipe/quinoa-salad-with-roasted-garlic-dressing-129",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT25M",
+      "total_time": "PT35M",
+      "ingredients": [
+        "1 head of garlic",
+        "1 tsp olive oil",
+        "¾ cup quinoa",
+        "1½ cup water",
+        "1 red bell pepper",
+        "1 yellow bell pepper",
+        "1 medium tomato",
+        "1 stalk green onion",
+        "⅓ cucumber",
+        "¼ cup dried cranberries",
+        "¼ cup kalamata olives",
+        "1 cup cooked chickpeas",
+        "⅓ cup unsalted roasted almonds",
+        "2 lemon",
+        "2 Tbsp extra-virgin olive oil",
+        "1 Tbsp tahini",
+        "1 tsp reduced-sodium soy sauce",
+        "1 tsp balsamic vinegar",
+        "1 tsp onion powder",
+        "1 pinch salt",
+        "1 pinch ground black pepper"
+      ],
+      "instructions": [
+        "Preheat the oven to 400°F (200°C)*. Cut the top ½ cm off the head of garlic to expose the cloves.",
+        "Place it on a baking tray. Drizzle with oil.",
+        "Roast for 20 to 25 minutes, or until golden and softened.",
+        "Meanwhile, add the quinoa and water to a saucepan. Bring to a boil, reduce to a simmer, cover and cook for 15 minutes.",
+        "Then remove from heat, fluff with a fork, and keep covered for a few more minutes to further soften the grains.",
+        "Meanwhile, prep the veggies, cranberries, and olives. Transfer to a large bowl.",
+        "Add the cooked quinoa and chickpeas to the bowl as well. Toss to combine.",
+        "Remove the roasted cloves of garlic from the skin and place in a bowl, mash with a fork, and then add the remaining dressing ingredients. Stir.",
+        "Pour dressing over the salad and toss. Top with the roasted almonds, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Store the salad and dressing separately in airtight container s in the fridge for up to 4 days."
+  ]
+}

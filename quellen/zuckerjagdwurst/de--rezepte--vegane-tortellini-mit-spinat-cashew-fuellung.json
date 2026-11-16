@@ -1,0 +1,67 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-tortellini-mit-spinat-cashew-fuellung",
+  "recipes": [
+    {
+      "name": "Vegane Tortellini mit Spinat-Cashewfüllung",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-tortellini-mit-spinat-cashew-fuellung",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-tortellini-mit-spinat-cashew-fuellung#recipe-cc1f1e94-ce32-5af6-9942-ed1be84f7b9f",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT150M",
+      "ingredients": [
+        "Teig",
+        "150 g Mehl",
+        "150 g Hartweizengries",
+        "150 ml kaltes Wasser",
+        "Füllung",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "200 g Spinat",
+        "100 g Cashews",
+        "2 EL pflanzliches Öl",
+        "etwas Abrieb einer Zitrone",
+        "2 EL Hefeflocken",
+        "1/2 TL Muskat",
+        "Salz & Pfeffer",
+        "Servieren",
+        "2-3 EL pflanzliche Butter",
+        "5 Knoblauchzehen",
+        "50 g frischer Spinat",
+        "250 g frische Pilze",
+        "optional: 100 g Ruccola",
+        "Parmesan (Rezept auf dem Blog)"
+      ],
+      "instructions": [
+        "Teig vorbereiten",
+        "Für den Teig Mehl und Hartweizengrieß in einer Schüssel vermengen. Nach und nach kaltes Wasser hinzugeben und langsam unterkneten bis ein großer formbarer Ball entsteht.",
+        "Nun den Teig in Folie einwickeln und für eine Stunde in den Kühlschrank legen.",
+        "Füllung",
+        "Die Cashewkerne 20 Minuten in heißes Wasser (oder besser über Nacht) einlegen. Anschließend abtropfen lassen.",
+        "Zwiebel und Knoblauchzehe schälen und fein würfeln. Den Spinat waschen und abtropfen lassen.",
+        "Pflanzliches Öl in einer Pfanne erhitzen und Zwiebel und Knoblauch darin anschwitzen. Den Spinat hinzugeben, bis er zusammen fällt. Mit Muskat, Hefeflocken, Salz und Pfeffer würzen.",
+        "Die Füllung in einen Zerkleinerer geben und zu einer homogenen Mischung mixen. Es soll keine Creme entstehen, sondern eine sehr feine und gut portionierbare Füllung.",
+        "Tortellinis füllen & servieren",
+        "Den Teig auf einer bemehlten Unterfläche dünn ausrollen. Mit einem Glas oder einer Ausstechform Kreise ausstechen.",
+        "1 TL der Füllung in der Mitte platzieren. Den Rand mit etwas Wasser befeuchten und zu einem Halbkreis zuklappen, dabei den Teig gut zusammendrücken.",
+        "Die beiden Teigenden übereinander legen und gut zusammendrücken, sodass ihr den Halbkreis wieder zu einem Kreis schließt. Den „Kragen“ der Tortellinis schön aufstellen.",
+        "Mit allen Tortellinis so vorgehen, bis Teig und Füllung aufgebraucht sind. Am Ende erhaltet ihr ca. 45 Tortellinis.",
+        "Einen Topf mit gesalzenem Wasser erhitzen und zum Kochen bringen. Die Temperatur niedriger stellen, sodass das Wasser nicht mehr kocht, sondern nur leicht siedet. Die Tortellinis nach und nach für 3-4 Minuten ziehen lassen, bis sie an der Wasseroberfläche schwimmen. Abtropfen lassen und bei Seite stellen.",
+        "Die Knoblauchzehen schälen und in Scheiben schneiden, die Pilze säubern und vierteln. Eine große Pfanne mit der pflanzlichen Butter erhitzen und die Knoblauchscheiben darin kurz braten. Anschließend die Pilze hinzugeben und gut anbraten.",
+        "Nun auch den restlichen Spinat und die Tortellinis hinzugeben und gut anbraten. Nach Wunsch mehr pflanzliche Butter hinzugeben. Das ganze gut darin schwenken und mit Salz und Pfeffer würzen.",
+        "Mit veganem Parmesan und frischem Ruccola servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

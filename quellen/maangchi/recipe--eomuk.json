@@ -1,0 +1,131 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/eomuk",
+  "recipes": [
+    {
+      "name": "Fish cakes",
+      "source_url": "https://www.maangchi.com/recipe/eomuk",
+      "recipe_id": null,
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "½ pound fresh white fresh fish fillet (cod, pollock, flounder, or snapper)",
+        "¼ pound (4 ounces) squid: cleaned, rinsed, and chopped",
+        "¼ pound (4 ounces) shrimp: shelled, deveined, rinsed, and drained",
+        "2 garlic cloves",
+        "½ medium onion (about ¼ cup)",
+        "1 teaspoon kosher salt",
+        "1 teaspoon sugar",
+        "¼ teaspoon ground white pepper",
+        "3 cups plus 1 tablespoon vegetable oil",
+        "¼ cup all purpose flour",
+        "¼ cup potato starch (or sweet potato starch)",
+        "1 large egg white"
+      ],
+      "instructions": [
+        "Inspect the fish fillet and remove any remaining fish bones. Cut the fish fillets into chunks and put them into a food processor. Add the squid, shrimp, garlic, onion, kosher salt, sugar, ground white pepper, 1 tablespoon vegetable oil, flour, starch, and egg white. Blend for a couple of minutes until the mixture turns into a smooth paste.",
+        "Transfer to a bowl.",
+        "Heat 3 cups vegetable oil in a skillet over medium high heat for about 5 minutes. Lower the heat to medium (about 330-350° F or 180° C)",
+        "Brush some cooking oil on a large and wide rectangular spatula. Spread about ¼ to ⅓ cup of the fish paste to the spatula with a knife. Use your knife to carefully roll the paste into a cylinder, and gently slide it into the hot oil. (If this method is too tricky, simply use a spoon to scoop up some of the paste, and then another one to push it off the first and into the hot oil.)",
+        "Repeat shaping and pushing the fish mixture to hot oil, 3 to 4 sticks in the skillet, and be sure not to to crowd them. Stir the fish cakes occasionally to fry all sides evenly. Let them cook about 5 to 7 minutes over medium heat until golden brown. Take the fish cakes out and put them in a strainer over small bowl. Pat the fish cakes with paper towel to remove the excess oil.",
+        "Serve hot as a snack right away. For later use, cool it down and put it into a plastic bag. Keep the bag into a fridge up to 1 week or freezer up to 3 months."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "½ pound fresh white fresh fish fillet (cod, pollock, flounder, or snapper)"
+        },
+        {
+          "tag": "li",
+          "text": "¼ pound (4 ounces) squid: cleaned, rinsed, and chopped"
+        },
+        {
+          "tag": "li",
+          "text": "¼ pound (4 ounces) shrimp: shelled, deveined, rinsed, and drained"
+        },
+        {
+          "tag": "li",
+          "text": "2 garlic cloves"
+        },
+        {
+          "tag": "li",
+          "text": "½ medium onion (about ¼ cup)"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon sugar"
+        },
+        {
+          "tag": "li",
+          "text": "¼ teaspoon ground white pepper"
+        },
+        {
+          "tag": "li",
+          "text": "3 cups plus 1 tablespoon vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup all purpose flour"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup potato starch (or sweet potato starch)"
+        },
+        {
+          "tag": "li",
+          "text": "1 large egg white"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Inspect the fish fillet and remove any remaining fish bones. Cut the fish fillets into chunks and put them into a food processor. Add the squid, shrimp, garlic, onion, kosher salt, sugar, ground white pepper, 1 tablespoon vegetable oil, flour, starch, and egg white. Blend for a couple of minutes until the mixture turns into a smooth paste."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer to a bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Heat 3 cups vegetable oil in a skillet over medium high heat for about 5 minutes. Lower the heat to medium (about 330-350° F or 180° C)"
+        },
+        {
+          "tag": "li",
+          "text": "Brush some cooking oil on a large and wide rectangular spatula. Spread about ¼ to ⅓ cup of the fish paste to the spatula with a knife. Use your knife to carefully roll the paste into a cylinder, and gently slide it into the hot oil. (If this method is too tricky, simply use a spoon to scoop up some of the paste, and then another one to push it off the first and into the hot oil.)"
+        },
+        {
+          "tag": "li",
+          "text": "Repeat shaping and pushing the fish mixture to hot oil, 3 to 4 sticks in the skillet, and be sure not to to crowd them. Stir the fish cakes occasionally to fry all sides evenly. Let them cook about 5 to 7 minutes over medium heat until golden brown. Take the fish cakes out and put them in a strainer over small bowl. Pat the fish cakes with paper towel to remove the excess oil."
+        },
+        {
+          "tag": "li",
+          "text": "Serve hot as a snack right away. For later use, cool it down and put it into a plastic bag. Keep the bag into a fridge up to 1 week or freezer up to 3 months."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [
+    "Kein Recipe-JSON-LD; sichtbare Rezeptkarte mit Originaltitel und sichtbarer Byline erfasst."
+  ],
+  "page_recipe_notes": []
+}

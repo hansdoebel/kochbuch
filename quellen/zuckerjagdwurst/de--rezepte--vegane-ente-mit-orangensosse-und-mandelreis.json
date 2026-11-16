@@ -1,0 +1,72 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-ente-mit-orangensosse-und-mandelreis",
+  "recipes": [
+    {
+      "name": "Vegane Ente mit Orangensoße und Mandelreis",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-ente-mit-orangensosse-und-mandelreis",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-ente-mit-orangensosse-und-mandelreis#recipe-a0a7aff2-9a4a-5804-b568-5f253a77ad9f",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "Für den Seitan:",
+        "240 g Seitan am Stück",
+        "500 ml heiße Gemüsebrühe",
+        "2 EL Sojasoße",
+        "Für die Marinade und „Haut“:",
+        "4 große Blätter Reispapier",
+        "6 EL asiatische Pilz-Würzsoße (oder vegane Austernsoße)",
+        "2 EL Sojasoße",
+        "2 EL Olivenöl",
+        "2 TL Senf",
+        "1 TL getrockneter Majoran",
+        "1 TL getrockneter Thymian",
+        "0.25 TL Knoblauchpulver",
+        "1 TL Zwiebelpulver",
+        "Salz",
+        "Pfeffer",
+        "Pflanzenöl zum Braten",
+        "Für die Orangensoße:",
+        "2 Schalotten",
+        "6 Orangen",
+        "2 EL Zucker",
+        "1 EL Wasser",
+        "2 EL Rotweinessig",
+        "250 ml Gemüsebrühe",
+        "50 g vegane Butter",
+        "Salz",
+        "Pfeffer",
+        "Speisestärke",
+        "Für den Mandelreis:",
+        "150 g Basmatireis",
+        "75 g gehobelte Mandeln"
+      ],
+      "instructions": [
+        "Für den Seitan zunächst Gemüsebrühe und Sojasoße in einem kleinen Topf aufkochen lassen. Seitan in dicke Scheiben darin circa 10 Minuten köcheln lassen, damit sie mehr Geschmack bekommen. Danach aus dem Wasser nehmen und abkühlen lassen.",
+        "In der Zwischenzeit für die Marinade Pilz-Würzsoße, Sojasoße, Olivenöl, Senf und Gewürze in einer Schüssel verrühren. Danach beiseitestellen.",
+        "Für die Soße Schalotten schälen und fein würfeln. Die Schale einer Orange abreiben und diese, sowie eine zweite Orange danach komplett schälen, filetieren und die Filets beiseitelegen. Die restlichen Orangen auspressen, bis ihr auf 200 Milliliter Orangensaft kommt.",
+        "Tipp: Je nach Größe und Saftigkeit eurer Orangen kann es sein, dass ihr mehr oder weniger Orangen für den Saft benötigt.",
+        "Zucker, Wasser und Rotweinessig zusammen in einen Topf geben und erhitzen, bis der Zucker geschmolzen ist. Die Schalottenwürfel dazugeben und kurz darin anschwitzen, bis sie glasig sind. Den frischgepressten Orangensaft und die Gemüsebrühe dazugeben. Die Soße einmal aufkochen lassen und danach bei kleiner Hitze köcheln lassen, bis die restlichen Komponenten fertig sind.",
+        "In der Zwischenzeit den Reis im Topf oder im Reiskocher zubereiten. Parallel dazu gehobelte Mandeln in einer fettfreien Pfanne rösten, bis sie goldbraun sind. Die Mandeln unter den gekochten Reis mengen.",
+        "Weiter geht’s mit dem Seitan. Die abgekühlten Seitenscheiben in der Marinade wenden. Die restliche Marinade aufheben und beiseitestellen.",
+        "Ein Blatt Reispapier kurz in Wasser einweichen lassen und danach auf eine saubere Arbeitsfläche legen. Eine marinierte Seitanscheibe in die Mitte des Reispapiers legen und damit umwickeln. Diesen Schritt mit allen Seitenscheiben wiederholen.",
+        "Die Seitenscheiben in einer Pfanne mit Pflanzenöl von beiden Seiten anbraten, bis sie außen gebräunt und leicht knusprig sind. Nach Wunsch könnt ihr sie dabei noch mit der restlichen Marinade bestreichen.",
+        "Zum Schluss die Orangensoße vom Herd nehmen und die vegane Butter einrühren, bis sie geschmolzen ist. Die Orangenfilets in die Soße geben und alles mit Salz und Pfeffer abschmecken.",
+        "Tipp: Sollte die Soße am Ende nicht sämig sein, könnt ihr sie mit etwas Speisestärke abbinden. Dafür die Speisestärke mit etwas Wasser anrühren und zur Soße geben. Danach gründlich vermengen und kurz köcheln lassen, bis die Soße die gewünschte Konsistenz hat.",
+        "Den Seitan mit der Orangensoße und dem Mandelreis servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

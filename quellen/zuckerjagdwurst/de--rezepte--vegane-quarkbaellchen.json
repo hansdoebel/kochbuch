@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-quarkbaellchen",
+  "recipes": [
+    {
+      "name": "Vegane Quarkbällchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-quarkbaellchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-quarkbaellchen#recipe-38bcfac6-53de-58aa-ad37-9d7a842e9df8",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 30 Bällchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für den Teig:",
+        "250 g pflanzlicher Quark",
+        "300 g Mehl",
+        "125 g Zucker",
+        "8 g (1.5 TL) Vanillezucker",
+        "16 g (1.5 EL) Backpulver",
+        "40 ml pflanzliche Milch",
+        "40 ml Sprudelwasser",
+        "1 Prise Salz",
+        "Außerdem:",
+        "1 l Pflanzenöl zum Frittieren",
+        "1 EL Zimt",
+        "3 EL Zucker",
+        "Marmelade zum Servieren"
+      ],
+      "instructions": [
+        "Mehl, Zucker, Vanillezucker, Backpulver und Salz in einer großen Schüssel vermengen. Pflanzlichen Quark, pflanzliche Milch und Sprudelwasser dazugeben und alles zu einer cremigen, dickflüssige Mischung verrühren. Ca. 10 Minuten stehen lassen.",
+        "In der Zwischenzeit Pflanzenöl in einem Topf auf 180°C erwärmen. Wenn ihr einen Holzspieß vorsichtig ins heiße Fett haltet, sollten sich Bläschen daran bilden.",
+        "Zur Vorbereitung Zimt und Zucker in einer Schüssel verrühren und bereitstellen.",
+        "Sobald das Öl heiß genug ist, ca. 1 EL des Teigs pro Quarkbällchen vorsichtig in das heiße Fett geben. Das funktioniert super mit zwei Esslöffeln oder mit einem Eisportionierer. Sobald der Teig im Öl ist, könnt ihr ihn etwas bewegen, damit er nicht am Topfboden kleben bleibt. Die Quarkbällchen so nacheinander frittieren, bis sie alle goldbraun und knusprig sind – aber immer nur 3-4 Quarkbällchen gleichzeitig in den Topf geben. Die Bällchen anschließend aus dem Fett nehmen und auf Küchenpapier abtropfen lassen.",
+        "Die noch warmen Quarkbällchen nach dem Abtropfen direkt in der Zucker-Zimt-Mischung wälzen, bis sie rundherum ummantelt sind. Wer mag, kann seine Lieblingsmarmelade als Dip dazu servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

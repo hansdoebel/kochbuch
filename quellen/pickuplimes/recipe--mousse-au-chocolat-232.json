@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/mousse-au-chocolat-232",
+  "recipes": [
+    {
+      "name": "Thick Dark Chocolate Pudding",
+      "source_url": "https://www.pickuplimes.com/recipe/mousse-au-chocolat-232",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT40M",
+      "ingredients": [
+        "8.818 oz dairy-free dark chocolate",
+        "10.582 oz silken tofu",
+        "2 Tbsp maple syrup",
+        "2 Tbsp almond butter",
+        "1 tsp pure vanilla extract",
+        "¼ tsp salt",
+        "½ tsp instant coffee granules"
+      ],
+      "instructions": [
+        "Place the chocolate in a heatproof bowl and microwave at 600W. Stop to stir every 15 seconds until fully melted. Alternatively, melt in a double boiler over the stove. Set aside to cool slightly.",
+        "In a food processor or blender, combine all of the ingredients, except for the chocolate, and blend until smooth.",
+        "Then add the melted chocolate and continue blending until fully combined.",
+        "Pour into serving cups and refrigerate for about 30 minutes or until firm.",
+        "Garnish as desired just before serving. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We use 50 - 60% cocoa chocolate for a balanced sweetness. Darker varieties (70%+) can make the result too bitter.",
+    "Storage Store in an airtight container in the fridge for up to 4 days."
+  ]
+}

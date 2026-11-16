@@ -1,0 +1,96 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-english-breakfast",
+  "recipes": [
+    {
+      "name": "Veganes English Breakfast",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-english-breakfast",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-english-breakfast#recipe-13298b00-c09c-570e-a046-df2f3fb913b5",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Teller oder 1 große Platte",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für die Rösti:",
+        "500 g vorwiegend festkochende Kartoffeln",
+        "1 Zwiebel",
+        "2 EL Mehl (oder Reismehl)",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "Pflanzenöl zum Braten",
+        "Für den Reispapierbacon:",
+        "4 Blätter Reispapier",
+        "2 EL Sojasoße",
+        "0.5 EL Liquid Smoke",
+        "1 EL Ahornsirup",
+        "1 TL Senf",
+        "Wasser",
+        "Außerdem:",
+        "150 g Champignons",
+        "2 Tomaten",
+        "1 Dose gebackene Bohnen",
+        "6-8 vegane Würstchen",
+        "Rührtofu (siehe Rezept unten)"
+      ],
+      "instructions": [
+        "Zunächst die Rösti vorbereiten: Kartoffeln schälen und grob reiben. Zwiebel schälen und fein würfeln. Beides in eine Schüssel geben, kräftig mit Salz und Pfeffer würzen und ca. 10 Minuten stehen lassen. Die Masse danach kräftig ausdrücken, sodass sie so viel Flüssigkeit wie möglich verliert. Mehl dazugeben, mit Muskat würzen und alles vermengen.",
+        "Eine Pfanne bei mittlerer Hitze erwärmen. Falls ihr sie verwendet, runde Ausstecher mit etwas Öl einfetten, etwas Öl auch in die Pfanne geben und nun etwas von der Kartoffelmischung in die Ausstecher geben und platt drücken. Sobald die Unterseite der Rösti goldbraun ist, vorsichtig aus dem Ring lösen (vorsichtig, heiß!), wenden und von der anderen Seite ebenfalls anbraten, bis die Rösti goldbraun und kross sind. Natürlich könnt ihr den Teig auch ohne Ausstecher anbraten. Die fertigen Rösti aus der Pfanne nehmen und auf Küchenpapier abfetten.",
+        "Rührtofu nach unserem Rezept (siehe unten) zubereiten, danach in eine hitzefeste Form geben und beiseitestellen.",
+        "Für den Reispapier-Bacon den Backofen auf 180°C Ober-und Unterhitze vorheizen. Für die Marinade Sojasoße, Liquid Smoke, Ahornsirup und Senf verrühren und in eine flache Schale geben. Eine große Schüssel mit Wasser vorbereiten, die größer ist als das Reispapier. Zunächst zwei Reispapierblätter einzeln jeweils 3 Sekunden in das Wasser legen und anschließend übereinander auf ein Schneidebrett legen. Mit einer Schere oder einem Messer in breite Streifen schneiden. Die Streifen nur kurz durch die Marinade ziehen, damit sie von beiden Seiten ummantelt sind und dann direkt auf ein mit Backpapier ausgelegtes Blech legen. Mit den zwei restlichen Reispapierblättern genauso vorgehen. Den Reispapier-Bacon ca. 7 Minuten backen – habt jedoch immer ein Auge auf die Streifen und nehmt sie aus dem Ofen, wenn sie noch nicht ganz kross sind. An der Luft trocknen sie nämlich noch nach und werden sonst „zu hart“.",
+        "Sobald das Reispapier aus dem Ofen ist, den Ofen ausschalten, aber die Kartoffelrösti und den Rührtofu in den Ofen stellen, damit sie warm bleiben oder wieder warm werden.",
+        "Die Dose gebackene Bohnen öffnen und in einem Topf bei kleiner Hitze erwärmen.",
+        "Die veganen Würstchen in einer Pfanne mit Öl anbraten und dann auf kleiner Hitze warm halten.",
+        "Parallel dazu die Pilze putzen und halbieren oder vierteln. Die Tomaten ebenfalls halbieren. In einer zweiten Pfanne etwas Öl erhitzen und die Pilze scharf anbraten, bis sie gebräunt sind. Danach die Pilze etwas zur Seite schieben und die halbierten Tomaten mit der Schnittseite nach unten ebenfalls in die Pfanne legen und kurz rösten. Dann vom Herd nehmen und die Pilze mit Salz und Pfeffer würzen.",
+        "Nun alle Komponenten auf einer Platte oder Tellern servieren: Kartoffelrösti, Rührtofu, gebackene Bohnen, gebratene Pilze und Tomaten, vegane Würstchen und den Reispapier-Bacon."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Veganer Rührtofu",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-english-breakfast",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-english-breakfast#recipe-15b0b6c4-4ee6-5e9a-9b50-45789de92ea3",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "25 g Kichererbsenmehl",
+        "125 ml pflanzliche Milch",
+        "400 g Naturtofu",
+        "2 EL Hefeflocken",
+        "0.5 TL Kurkuma",
+        "0.5 TL edelsüßes Paprikapulver",
+        "0.5 TL Kala Namak",
+        "1 rote Zwiebel",
+        "1 Paprika",
+        "Salz",
+        "Pfeffer",
+        "Kresse zum Servieren",
+        "vegane Butter oder Pflanzenöl zum Braten"
+      ],
+      "instructions": [
+        "Kichererbsenmehl und pflanzliche Milch in einer Schüssel verrühren. Den Naturtofu mit den Händen zerbröseln und in die Mehlmischung geben. Hefeflocken, Kurkuma, Paprikapulver und Kala-Namak-Salz dazugeben, mit mit Salz und Pfeffer würzen und alles gut vermengen.",
+        "Rote Zwiebel schälen und fein würfeln, die Paprikaschote waschen und ebenfalls in kleine Würfel schneiden.",
+        "Vegane Butter einer großen Pfanne schmelzen und die Zwiebelwürfel darin ca. 3 Minuten anschwitzen, oder bis sie glasig sind. Paprikawürfel dazugeben und weitere 3-4 Minuten anbraten, bis sie weicher werden. Nun den Rührtofu dazugeben und ca. 10 Minuten anbraten, bis er leicht gebräunt ist. Mit Kresse bestreuen und servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

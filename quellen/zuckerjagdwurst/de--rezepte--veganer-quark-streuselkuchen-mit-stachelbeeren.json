@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-quark-streuselkuchen-mit-stachelbeeren",
+  "recipes": [
+    {
+      "name": "Veganer Quark-Streuselkuchen mit Stachelbeeren",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-quark-streuselkuchen-mit-stachelbeeren",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-quark-streuselkuchen-mit-stachelbeeren#recipe-f2ed476d-200a-5452-b882-4acf02f0b2fb",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Blech Kuchen (20-25 Stück)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Für den Teig:",
+        "500 g Weizenmehl (Type 405) oder Dinkelmehl (Type 603)",
+        "250 g vegane Butter",
+        "150 g Zucker",
+        "1 Prise Salz",
+        "Für die Quarkschicht:",
+        "1200 g veganer Quark",
+        "50 ml Agavendicksaft",
+        "50 g Speisestärke",
+        "0.5 Zitrone",
+        "Für die Streusel:",
+        "200 g kalte vegane Butter",
+        "150 g Zucker",
+        "350 g Weizenmehl (Type 405) oder Dinkelmehl (Type 603)",
+        "1 Prise Salz",
+        "Außerdem:",
+        "750 g Stachelbeeren"
+      ],
+      "instructions": [
+        "Den Ofen auf 180°C (Umluft) vorheizen. Für den Teig Mehl, vegane Butter, Zucker und Salz in einer Schüssel zu einem Teig kneten. Ein Backblech mit Backpapier belegen und den Teig darauf gleichmäßig ausrollen.",
+        "Für die Quarkschicht den veganen Quark mit Agavendicksaft verrühren. Die Stärke mit dem Saft der Zitrone ebenfalls vermengen und dazugeben. Die Quarkschicht im Anschluss auf den Teig geben und verstreichen.",
+        "Die Stachelbeeren waschen und die Enden entfernen. Für die Streusel kalte, vegane Butter, Zucker, Mehl und Salz in einer Schüssel vermengen. Die Stachelbeeren und Streusel gleichmäßig auf dem Kuchen verteilen.",
+        "Den Kuchen ca. 45 Minuten bei 180°C im Ofen backen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

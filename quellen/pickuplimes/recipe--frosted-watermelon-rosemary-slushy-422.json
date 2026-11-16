@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/frosted-watermelon-rosemary-slushy-422",
+  "recipes": [
+    {
+      "name": "Frosted Watermelon Rosemary Slushy",
+      "source_url": "https://www.pickuplimes.com/recipe/frosted-watermelon-rosemary-slushy-422",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "5 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "24.691 oz frozen watermelon cubes",
+        "2 frozen banana",
+        "1 cup orange juice",
+        "1 cup unsweetened coconut water",
+        "1 lime",
+        "1 Tbsp fresh rosemary"
+      ],
+      "instructions": [
+        "Add all of the ingredients to a high-speed blender and blend until smooth.",
+        "Divide between glasses, garnish if desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Best if enjoyed immediately."
+  ]
+}

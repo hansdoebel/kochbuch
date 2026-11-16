@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-fuenf-minuten-terrine",
+  "recipes": [
+    {
+      "name": "Vegane 5-Minuten-Terrine",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-fuenf-minuten-terrine",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-fuenf-minuten-terrine#recipe-50a9c002-842e-5dc1-9489-c7414acbb1d6",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Terrine",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "0.5 Paprikaschote",
+        "10 Oliven",
+        "40 g (2 EL) Tomatenmark",
+        "0.5 TL Chilipulver",
+        "0.5 TL edelsüßes Paprikapulver",
+        "0.25 TL Knoblauchpulver",
+        "0.5 TL Zwiebelpulver",
+        "1 TL getrockneter Oregano",
+        "1 TL getrocknetes Basilikum",
+        "0.5 TL Zucker",
+        "60 g Schnellkochnudeln",
+        "250 ml heißes Wasser",
+        "Salz",
+        "Pfeffer",
+        "veganer Streukäse (optional)",
+        "Pflanzenöl zum Braten"
+      ],
+      "instructions": [
+        "Paprika und Oliven in kleine Würfel schneiden. Pflanzenöl in einer Pfanne bei mittlerer Hitze erwärmen und Paprika und Oliven gemeinsam ca. 5 Minuten anbraten. Anschließend beiseitestellen.",
+        "In der Zwischenzeit Tomatenmark mit Chili-, Paprika-, Knoblauch- und Zwiebelpulver, getrocknetem Oregano, Basilikum und Zucker vermengen. Mit Salz und Pfeffer würzen und das gewürzte Tomatenmark ganz unten in ein hitzebeständiges Glas geben.",
+        "Gebratene Paprika und Oliven über das Tomatenmark geben. Ungekochte Schnellkochnudeln mit den Händen zerkleinern und ebenfalls im Glas verteilen.",
+        "Zum Servieren mit kochendem Wasser übergießen. Nach ein paar Sekunden sollten sich die Nudeln so herunterdrücken lassen, dass sie komplett vom Wasser bedeckt werden. Abgedeckt ca. 5 Minuten ziehen lassen, danach umrühren. Nach Wunsch veganen Streukäse dazugeben."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

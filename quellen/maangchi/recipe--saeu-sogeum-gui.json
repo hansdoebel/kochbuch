@@ -1,0 +1,134 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/saeu-sogeum-gui",
+  "recipes": [
+    {
+      "name": "Salt-roasted shrimp (Saeu-sogeum-gui: 새우소금구이)",
+      "source_url": "https://www.maangchi.com/recipe/saeu-sogeum-gui",
+      "recipe_id": "/recipe/saeu-sogeum-gui#sso/recipe/79673",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "8 large shrimp (about 6 inch long)",
+        "Coarse sea salt",
+        "2 to 3 tablespoons freshly squeezed lemon",
+        "2 tablespoons hot pepper paste (gochujang)",
+        "1 to 2 teaspoons honey (or sugar)",
+        "1 garlic clove, minced"
+      ],
+      "instructions": [
+        "Mix all the ingredients in a small bowl. Set aside.",
+        "Using scissors, cut down the back of the shell and make a shallow (¼ inch) slit down the back of the shrimp, exposing the dark vein that runs along the center of the back. Open it up, pull out the vein, and wash under cold running water.",
+        "Drain and pat dry with paper towel.",
+        "Put a double layer of tin foil in the bottom of a thick and shallow pan. Mine is 8½ inches across and 3 inches deep.",
+        "Add 1 to 1½ cup kosher salt and cover. Heat over medium high heat for 4 to 5 minutes until you hear the salt ticking and popping and it turns a little brownish on the bottom.",
+        "Open and add the cleaned shrimp, side by side.",
+        "Cover, reduce the heat to medium, and cook for 5 minutes, or until the bottom of the shrimp looks about 70% cooked.",
+        "Open and turn them over. Cover and cook 2 more minutes.",
+        "Serve right away in the pan with the dipping sauce."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "For 2 servings"
+        },
+        {
+          "tag": "li",
+          "text": "8 large shrimp (about 6 inch long)"
+        },
+        {
+          "tag": "li",
+          "text": "Coarse sea salt"
+        },
+        {
+          "tag": "h3",
+          "text": "For the dipping sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "2 to 3 tablespoons freshly squeezed lemon"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons hot pepper paste (gochujang)"
+        },
+        {
+          "tag": "li",
+          "text": "1 to 2 teaspoons honey (or sugar)"
+        },
+        {
+          "tag": "li",
+          "text": "1 garlic clove, minced"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "Mix all the ingredients in a small bowl. Set aside."
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the shrimp:"
+        },
+        {
+          "tag": "li",
+          "text": "Using scissors, cut down the back of the shell and make a shallow (¼ inch) slit down the back of the shrimp, exposing the dark vein that runs along the center of the back. Open it up, pull out the vein, and wash under cold running water."
+        },
+        {
+          "tag": "li",
+          "text": "Drain and pat dry with paper towel."
+        },
+        {
+          "tag": "h3",
+          "text": "Roast the shrimp:"
+        },
+        {
+          "tag": "li",
+          "text": "Put a double layer of tin foil in the bottom of a thick and shallow pan. Mine is 8½ inches across and 3 inches deep."
+        },
+        {
+          "tag": "li",
+          "text": "Add 1 to 1½ cup kosher salt and cover. Heat over medium high heat for 4 to 5 minutes until you hear the salt ticking and popping and it turns a little brownish on the bottom."
+        },
+        {
+          "tag": "li",
+          "text": "Open and add the cleaned shrimp, side by side."
+        },
+        {
+          "tag": "li",
+          "text": "Cover, reduce the heat to medium, and cook for 5 minutes, or until the bottom of the shrimp looks about 70% cooked."
+        },
+        {
+          "tag": "li",
+          "text": "Open and turn them over. Cover and cook 2 more minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Serve right away in the pan with the dipping sauce."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

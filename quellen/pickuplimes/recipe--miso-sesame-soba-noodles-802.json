@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/miso-sesame-soba-noodles-802",
+  "recipes": [
+    {
+      "name": "Miso Sesame Soba Noodles",
+      "source_url": "https://www.pickuplimes.com/recipe/miso-sesame-soba-noodles-802",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT10M",
+      "total_time": "PT20M",
+      "ingredients": [
+        "¼ cup rice vinegar",
+        "¼ cup tahini",
+        "3 Tbsp white miso paste",
+        "2 Tbsp dark soy sauce",
+        "2 garlic clove",
+        "2 tsp toasted sesame oil",
+        "2 tsp maple syrup",
+        "1 tsp grated fresh ginger",
+        "6.349 oz soba noodles",
+        "1 tsp vegetable oil",
+        "4.938 oz shiitake mushrooms",
+        "1½ cup frozen shelled edamame",
+        "1 avocado",
+        "6 small radish",
+        "1 stalk green onion",
+        "1 Tbsp toasted sesame seeds"
+      ],
+      "instructions": [
+        "Mix together the dressing ingredients in a jar or bowl*. If the mixture is too thick, add a small splash of water as needed. Set aside.",
+        "Cook the soba noodles according to the package instructions ina. saucepan. For us, this took about 5 minutes. Then drain.",
+        "Meanwhile, drizzle the oil in a sauté pan over high heat. When hot, add in the mushrooms and edamame beans and cook for 5 minutes.",
+        "Then add the soba noodles, and dressing. Let everything heat through.",
+        "Divide the noodles between your bowls, and top with sliced avocado, radishes, green onions, and sesame seeds. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † White miso, also called \"Shiro Miso,\" is fermented for less time than red miso, which gives it a milder, sweeter flavour. If substituting red miso, use a smaller amount and adjust to taste, as red miso is saltier and stronger. † About 14 medium mushrooms * This recipe has a pronounced vinegar taste. If you'd prefer, add less vinegar.",
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

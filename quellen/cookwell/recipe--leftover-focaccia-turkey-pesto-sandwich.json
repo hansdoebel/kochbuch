@@ -1,0 +1,40 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/leftover-focaccia-turkey-pesto-sandwich",
+  "recipes": [
+    {
+      "name": "Leftover Focaccia Turkey Pesto Sandwich",
+      "source_url": "https://app.cookwell.com/recipe/leftover-focaccia-turkey-pesto-sandwich",
+      "recipe_id": "https://app.cookwell.com/recipe/leftover-focaccia-turkey-pesto-sandwich",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 sandwich",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Focaccia, 1 square",
+        "Sliced turkey, a few slices",
+        "Provolone, a slice",
+        "Arugula, a handful",
+        "Tomatoes, 1/2",
+        "Mayonnaise, a spoonful",
+        "Pesto, a spoonful",
+        "Pickled onions, a spoonful"
+      ],
+      "instructions": [
+        "To prep the bread, cut the focaccia square in half like a 'bun' into 2 thin pieces. Heat a pan over medium heat. Place the 2 pieces of focaccia cut side down to crisp up, then set aside. Add the sliced turkey to the pan to heat up gently then add the provolone cheese over top of the turkey to melt. Meanwhile, gather the rest of your sandwich ingredients.",
+        "Keep the pan on medium heat while you assemble the sandwich. Add a layer of pesto & mayo to both pieces of bread. Then, place the lettuce down followed by the pickled onions and tomatoes. Place the turkey and cheese over top with a little more lettuce over top. Add the top piece of bread over to close, then place back on the pan. Lightly weigh down the assembled sandwich with another pan or spatula to crisp the bottom piece and warm everything through.",
+        "Slice the toasted sandwich diagonally into two triangles. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

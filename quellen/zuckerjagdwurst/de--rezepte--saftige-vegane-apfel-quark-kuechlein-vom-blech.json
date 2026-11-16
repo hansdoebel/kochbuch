@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/saftige-vegane-apfel-quark-kuechlein-vom-blech",
+  "recipes": [
+    {
+      "name": "Saftige vegane Apfel-Quark-Küchlein vom Blech",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/saftige-vegane-apfel-quark-kuechlein-vom-blech",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/saftige-vegane-apfel-quark-kuechlein-vom-blech#recipe-9bd94bbe-5957-54fa-ae30-24b733728fc4",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "9 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "300 g Weizenmehl (Type 405)",
+        "100 g Zucker",
+        "8 g (1.5 TL) Vanillezucker",
+        "8 g (1 EL) Backpulver",
+        "1 Prise Salz",
+        "1 TL gemahlener Zimt",
+        "1 TL gemahlener Kardamom",
+        "50 g gehackte Nüsse",
+        "50 ml pflanzliche Milch",
+        "50 ml Sprudelwasser",
+        "250 g veganer Quark",
+        "20 g frischer Ingwer (alternativ gemahlener Ingwer)",
+        "3 Äpfel",
+        "Zucker zum Bestreuen"
+      ],
+      "instructions": [
+        "Den Backofen auf 180 °C (Umluft) vorheizen. Für den Teig zuerst Mehl, Zucker, Vanillezucker, Backpulver, Salz, gehackte Nüsse, Zimt und Kardamom vermengen. Anschließend pflanzliche Milch, Sprudelwasser, den veganen Quark und frisch geriebenen Ingwer dazugeben und alles verrühren..",
+        "Die Äpfel waschen und in kleine Stücke (aber nicht zu klein) schneiden. Zwei Drittel davon unter den Teig heben. Den Teig portionsweise auf ein mit Backpapier ausgelegtes Backblech geben. Die restlichen Apfelstückchen darauf verteilen und die Küchlein mit einer Extraportion Zucker bestreuen.",
+        "Im Backofen bei 180 °C (Umluft) circa 20 Minuten backen, bis die Küchlein gebräunt und durchgebacken sind."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

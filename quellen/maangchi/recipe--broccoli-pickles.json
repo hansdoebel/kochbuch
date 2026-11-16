@@ -1,0 +1,89 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/broccoli-pickles",
+  "recipes": [
+    {
+      "name": "Broccoli pickles",
+      "source_url": "https://www.maangchi.com/recipe/broccoli-pickles",
+      "recipe_id": "/recipe/broccoli-pickles#sso/recipe/2315",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 bunch of broccoli (about 700 grams), kosher salt, sugar, vinegar, and water"
+      ],
+      "instructions": [
+        "Make pickle juice first: Put 5 cups of water, ¼ cup of kosher salt, ¼ cup of sugar, and ½ cup of vinegar into a pot and bring to a boil.",
+        "Separate the florets from the stems with a knife and cut them into bite sized pieces by cutting lengthwise into halves or quarters.",
+        "Remove the tough bottom ends of the stems, and skin off the rough parts. Then cut them into bite sized pieces.",
+        "Rinse and drain the broccoli florets and stems and put them into a strainer over a large bowl.",
+        "When the pickle juice boils, pour it over the broccoli little by little to blanch. The hot boiling juice will go through the strainer and gather in the bowl under the strainer.",
+        "Immerse the blanched broccoli into icy cold water to keep its bright green color. Strain it.",
+        "Put the broccoli into a glass jar and wait until the pickle juice cools down.",
+        "After the juice cools, pour it into the jar and close the lid.",
+        "Store it in the refrigerator."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "1 bunch of broccoli (about 700 grams), kosher salt, sugar, vinegar, and water"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Make pickle juice first: Put 5 cups of water, ¼ cup of kosher salt, ¼ cup of sugar, and ½ cup of vinegar into a pot and bring to a boil."
+        },
+        {
+          "tag": "li",
+          "text": "Separate the florets from the stems with a knife and cut them into bite sized pieces by cutting lengthwise into halves or quarters."
+        },
+        {
+          "tag": "li",
+          "text": "Remove the tough bottom ends of the stems, and skin off the rough parts. Then cut them into bite sized pieces."
+        },
+        {
+          "tag": "li",
+          "text": "Rinse and drain the broccoli florets and stems and put them into a strainer over a large bowl."
+        },
+        {
+          "tag": "li",
+          "text": "When the pickle juice boils, pour it over the broccoli little by little to blanch. The hot boiling juice will go through the strainer and gather in the bowl under the strainer."
+        },
+        {
+          "tag": "li",
+          "text": "Immerse the blanched broccoli into icy cold water to keep its bright green color. Strain it."
+        },
+        {
+          "tag": "li",
+          "text": "Put the broccoli into a glass jar and wait until the pickle juice cools down."
+        },
+        {
+          "tag": "li",
+          "text": "After the juice cools, pour it into the jar and close the lid."
+        },
+        {
+          "tag": "li",
+          "text": "Store it in the refrigerator."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

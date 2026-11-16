@@ -1,0 +1,88 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-falafel-curry-mit-naan-brot",
+  "recipes": [
+    {
+      "name": "Veganes Naan Brot",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-falafel-curry-mit-naan-brot",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-falafel-curry-mit-naan-brot#recipe-15012422-43d7-5105-a543-3d33921dd6ef",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Naan Brote",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT115M",
+      "ingredients": [
+        "10 g frische Hefe",
+        "0.5 TL weißer Zucker",
+        "100 ml pflanzliche Milch",
+        "250 g Mehl",
+        "100 g pflanzlicher Joghurt (natur)",
+        "0.5 TL Salz",
+        "Toppings",
+        "1 TL Schwarzkümmel",
+        "2-3 EL Öl"
+      ],
+      "instructions": [
+        "Die pflanzliche Milch erwärmen, bis sie lauwarm ist.",
+        "In einer großen Schüssel den Zucker mit der lauwarmen Milch verrühren und die Hefe unterrühren. Für 10 Minuten bei Seite stellen.",
+        "Nun das Mehl, den pflanzlichen Joghurt und das Salz unterkneten und den Teig für 60 Minuten mit einem feuchten Tuch abgedeckt an einem warmen Ort gehen lassen.",
+        "Im Anschluss den Teig nochmals kneten und in 4 gleichgroße Kugeln teilen.",
+        "Jede Kugel auf einer bemehlten Unterfläche zu einem Fladen ausrollen und nochmals 15 Minuten gehen lassen.",
+        "Eine Pfanne ohne Öl auf mittlerer Stufe erhitzen und jeden Teigfladen darin für 3-4 Minuten von beiden Seiten bräunen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Veganes Falafel Curry",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-falafel-curry-mit-naan-brot",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-falafel-curry-mit-naan-brot#recipe-babaa8f1-f343-5a7a-ab85-a1e31a263a76",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "3 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT115M",
+      "ingredients": [
+        "160 g Bio Falafel Curry-Kokos Mix (z.B. von Bauckhof)",
+        "50 ml pflanzliches Öl (zum Anbraten)",
+        "1 TL Schwarzkümmel (zum Servieren)",
+        "10 g frischer Koriander (zum Servieren)",
+        "Curry",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "20 g frischer Ingwer",
+        "2 EL Kokosöl",
+        "3 TL Garam Masala",
+        "1 TL Currypulver",
+        "1 TL Agavendicksaft",
+        "215 ml passierte Tomaten",
+        "400 ml Kokosmilch",
+        "Salz"
+      ],
+      "instructions": [
+        "Die Falafel Curry-Kokos nach Packungsanleitung zubereiten. Dafür den Packungsinhalt in 275 ml kochendem Wasser einrühren und 15 Minuten quellen lassen.",
+        "In der Zwischenzeit die Zutaten für das Curry vorbereiten. Die Zwiebel und den Knoblauch schälen und würfeln.",
+        "Den Ingwer mit einem Teelöffel schälen und ebenfalls klein schneiden.",
+        "In einer hohen Pfanne das Kokosöl erhitzen und die Zwiebel für 2-3 Minuten auf mittlerer Hitze braten, bis sie glasig wird. Das Garam Masala und Currypulver hinzugeben.",
+        "Nun auch den Knoblauch, Ingwer und Agavendicksaft hinzugeben und weitere 2-3 Minuten braten.",
+        "Mit den passierten Tomaten und der Kokosmilch aufgießen und für 10 Minuten auf kleiner bis mittlerer Stufe köcheln lassen.",
+        "Zurück den zu den Falafelbällchen: Mit angefeuchteten Händen 12-14 gleichgroße Bällchen formen und diese in einer beschichteten Pfanne mit etwas Öl rundum braun anbraten.",
+        "Das Curry pürieren, sodass eine sämige Soße entsteht und mit Salz, ggf. Agavendicksaft und den Gewürzen abschmecken. Die Falafel mit dem Curry servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

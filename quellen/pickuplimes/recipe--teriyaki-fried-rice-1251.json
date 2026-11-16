@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/teriyaki-fried-rice-1251",
+  "recipes": [
+    {
+      "name": "Teriyaki Fried Rice",
+      "source_url": "https://www.pickuplimes.com/recipe/teriyaki-fried-rice-1251",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT15M",
+      "total_time": "PT25M",
+      "ingredients": [
+        "7.055 oz firm tofu",
+        "½ Tbsp cornstarch",
+        "¼ tsp salt",
+        "1 Tbsp vegetable oil",
+        "1 Tbsp vegetable oil",
+        "2 cup spinach",
+        "⅔ cup grated carrot",
+        "½ cup shredded red cabbage",
+        "3 cup cooked white rice",
+        "⅓ cup teriyaki sauce",
+        "1½ Tbsp sriracha",
+        "¼ cup pickled red onions"
+      ],
+      "instructions": [
+        "Cut the tofu into 1 cm cubes. Transfer to a bowl and toss with the cornstarch and salt.",
+        "Heat the oil in a large pan over medium-high heat. Cook the tofu for about 10 minutes, or until golden on most sides.",
+        "Heat more oil in a large sauté pan over medium-high heat. Add the spinach, carrot, and cabbage, and cook for 2 minutes to soften slightly.",
+        "Add the prepared tofu, rice, teriyaki sauce, and sriracha. Cook for 3 minutes to heat through.",
+        "Plate, top with pickled red onions and any other desired garnishes, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † For this recipe, we prefer to use day-old cooked rice. 1 cup of dry white rice equals 3 cups when cooked. † Traditionally, teriyaki sauce is made with just soy sauce, sake (or mirin), and sugar. Make sure to check the ingredients of your bottle so it doesn't have too many other ingredients that may affect the flavour.",
+    "Storage Can be stored in an airtight container in the fridge for up to 3 days."
+  ]
+}

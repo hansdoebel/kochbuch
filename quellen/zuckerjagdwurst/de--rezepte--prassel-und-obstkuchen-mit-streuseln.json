@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/prassel-und-obstkuchen-mit-streuseln",
+  "recipes": [
+    {
+      "name": "Prasselkuchen und Obstkuchen mit Streuseln",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/prassel-und-obstkuchen-mit-streuseln",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/prassel-und-obstkuchen-mit-streuseln#recipe-43034414-948d-5323-af3e-ed8d35c1abc3",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "1 Tiefkühl-Blätterteig",
+        "220 g Mehl",
+        "150 g vegane Butter/Margarine (kalt)",
+        "75 g Zucker",
+        "Obst nach Wahl (z.B. Apfel, Nektarine, Beeren, ...)",
+        "50 g Puderzucker",
+        "1 TL Wasser"
+      ],
+      "instructions": [
+        "Falls ihr Obst auf euren Kuchen packen wollt, wascht und schneidet es ggf. vor, zum Beispiel den Apfel oder Nektarinen in Scheiben, die Kirschen entkernen und so weiter.",
+        "Vermengt Mehl, Zucker und Butter in einer Schüssel, bis sich Streusel formen.",
+        "Rollt den Blätterteig aus und verteilt euer Obst und danach die Streusel darauf. Wer lieber Prasselkuchen essen möchte, lässt das Obst weg und verteilt direkt die Streusel gleichmäßig über den ganzen Teig. Im Backofen backt er dann bei 200°C Grad ca. 15 Minuten oder bis die Streusel goldbraun sind. Achtet immer gut darauf, dass der Boden nicht zu dunkel wird.",
+        "Den Kuchen aus dem Backofen nehmen und leicht abkühlen lassen. In dieser Zeit Puderzucker und Wasser in einer Schüssel zu Zuckerguss verrühren und anschließend über dem Kuchen verteilen. Wenn euch der Guss noch nicht flüssig genug ist, könnt ihr auch noch etwas mehr Wasser dazugeben. Den Kuchen könnt ihr noch leicht warm, aber auch ausgekühlt verdrücken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

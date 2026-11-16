@@ -1,0 +1,38 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/spicy-bacon-egg-and-cheese-sandwich",
+  "recipes": [
+    {
+      "name": "Spicy Egg, Bacon, & Cheese Sandwich",
+      "source_url": "https://app.cookwell.com/recipe/spicy-bacon-egg-and-cheese-sandwich",
+      "recipe_id": "https://app.cookwell.com/recipe/spicy-bacon-egg-and-cheese-sandwich",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 sandwich",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Butter, 7 g",
+        "Eggs, 2",
+        "Bacon, 2 slices",
+        "English Muffins, 1",
+        "Cheese, 1 slice",
+        "Hot Sauce, to taste"
+      ],
+      "instructions": [
+        "Turn the oven to broil. Broil the english muffin until brown and toasty. Fry the bacon in a skillet or bake it in the oven.",
+        "Set a non-stick pan over medium high heat. Crack the eggs in a bowl and whisk them together. Add the butter to the skillet and swirl it around in the pan, making sure it’s evenly coated. Add the eggs to the pan, scramble, and let them rest until nice and bubbly. Swirl the eggs until they are cooked to the consistency you want.",
+        "Take the English muffin and add the egg to one side. Top with the bacon and a slice of cheese. Place the sandwich in the oven for a few minutes to let the cheese melt if desired. Add hot sauce to the other side of the bun and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

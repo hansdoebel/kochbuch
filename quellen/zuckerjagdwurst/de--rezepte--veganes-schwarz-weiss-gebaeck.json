@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-schwarz-weiss-gebaeck",
+  "recipes": [
+    {
+      "name": "Veganes Schwarz-Weiß-Gebäck",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-schwarz-weiss-gebaeck",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-schwarz-weiss-gebaeck#recipe-ef07c7c4-40c1-55eb-b66b-5a979a30666b",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 25 Kekse",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT100M",
+      "ingredients": [
+        "300 g Weizenmehl (Type 405)",
+        "100 g Zucker",
+        "1 Prise Salz",
+        "200 g kalte vegane Butter",
+        "1-2 EL Backkakao",
+        "kaltes Wasser (nach Bedarf)",
+        "Vanillearoma, Rumaroma oder Zimt (optional)"
+      ],
+      "instructions": [
+        "Weizenmehl, Zucker und Salz in einer großen Schüssel vermischen. Die kalte vegane Butter in Stücken dazugeben und mit kalten Händen verkneten, bis ein geschmeidiger Teig entsteht. Wenn der Teig zu trocken ist, etwas kaltes Wasser hinzugeben, bis ein glatter Teig entsteht.",
+        "Den Teig halbieren und Backkakao zu einer der Teighälften geben und einarbeiten. Optional kann auch Vanillearoma, Rumaroma oder eine Prise Zimt hinzugegeben werden. Beide Teige ca. 60 Minuten im Kühlschrank ruhen lassen.",
+        "Den hellen und dunklen Teig jeweils zu einem länglichen Rechteck ausrollen und an den Seiten begradigen. Den hellen Teig in vier und den dunklen Teig in fünf längliche Streifen schneiden, die etwa 0.5 - 1 cm dick und gleich lang sind. Jeden Streifen etwas „rund\" rollen, so dass ihr insgesamt 9 gleich lange Teigrollen habt.",
+        "Die neun Teigrollen als Quadrat (3x3) zusammensetzen, sodass ein Schachbrettmuster entsteht, und etwas zusammendrücken. Den Teig anschließend erneut ca. 30 Minuten kaltstellen.",
+        "Den Ofen auf 180°C (Umluft) vorheizen. Den gekühlten Teig mit einem scharfen Messer in etwa 0.5 - 1 cm dicke Scheiben schneiden und die Kekse auf ein mit Backpapier ausgelegtes Backblech legen. Danach ca. 8 Minuten backen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

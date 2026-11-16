@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/panierter-knuspriger-tofu-mit-gerstensalat",
+  "recipes": [
+    {
+      "name": "Panierter, knuspriger Tofu mit Gerstensalat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/panierter-knuspriger-tofu-mit-gerstensalat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/panierter-knuspriger-tofu-mit-gerstensalat#recipe-671dadc3-8b11-556e-bfdf-56c119f44728",
+      "authors": [
+        "Lara Iwaloye"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "100 g Gerste",
+        "400 g Naturtofu",
+        "50 g Nasspanade (z. B. von VEGGIE CRUMBZ)",
+        "80 ml Wasser",
+        "150 g Paniermehl (z. B. von VEGGIE CRUMBZ)",
+        "100 g Feldsalat",
+        "1 Karotte",
+        "200 g Rote Bete Kugeln",
+        "80 g pflanzlicher Joghurt",
+        "2 EL Zitronensaft",
+        "2 EL Senf",
+        "2 EL Agavendicksaft",
+        "Salz",
+        "Pfeffer",
+        "Senfkörner"
+      ],
+      "instructions": [
+        "Die Gerste nach Packungsanleitung kochen und abkühlen lassen. Den Tofu längs halbieren und in einem Küchentuch pressen. Danach jeden Block in 12 Würfel schneiden.",
+        "Tipp: Ihr könnt anstatt von Naturtofu auch Räuchertofu verwenden oder ihn vor dem Panieren beispielsweise mit Sojasauce marinieren.",
+        "Die Nasspanade in einer Schüssel mit 80 ml Wasser anmischen. Die unterschiedlichen Paniermehle auf kleine Teller geben. Nun den Tofu mithilfe einer Gabel als erstes in die Nasspanade geben und dann im Paniermehl wenden. In der Heißluftfritteuse bei 200 °C für 10 Minuten frittieren.",
+        "Den Feldsalat waschen. Die Karotte und Rote Bete klein schneiden.",
+        "Für das Dressing den pflanzlichen Joghurt, Zitronensaft, Senf und Agavendicksaft mischen. Für eine cremige Konsistenz noch etwas Wasser hinzugeben. Mit Salz und Pfeffer würzen.",
+        "Den Salat in einen tiefen Teller geben und mit dem Gemüse und der Gerste vermengen. Mit Joghurtdressing, knusprigen Tofuwürfeln und Senfkörnern toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/hot-oil-udonnudeln-mit-knusprigen-tofubroeseln",
+  "recipes": [
+    {
+      "name": "Hot Oil Udonnudeln mit knusprigen Tofubröseln",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/hot-oil-udonnudeln-mit-knusprigen-tofubroeseln",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/hot-oil-udonnudeln-mit-knusprigen-tofubroeseln#recipe-6148a190-854d-57dd-b2a2-8df9ac55b346",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Portion",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "100 g Naturtofu",
+        "2 EL Erdnüsse",
+        "200 g Udonnudeln",
+        "50 g Edamame",
+        "1 Frühlingszwiebel",
+        "1 Knoblauchzehe",
+        "1.5 EL Sojasoße",
+        "1 TL schwarzer Reisessig",
+        "0.25 TL (Sichuan) Chiliflocken",
+        "3 EL Erdnussöl",
+        "Salz",
+        "Erdnussöl zum Anbraten",
+        "Sesam zum Servieren",
+        "Koriander zum Servieren",
+        "frische Sprossen zum Servieren"
+      ],
+      "instructions": [
+        "Tofu in kleine Stückchen zerbröseln und die Erdnüsse hacken. Erdnussöl in einer Pfanne erhitzen und zuerst den Tofu darin ca. 5-6 Minuten anbraten, bis er etwas braun wird. Danach die Erdnüsse dazugeben und noch 3-4 Minuten gemeinsam anbraten, bis der Tofu knusprig wird. Danach vom Herd nehmen.",
+        "In der Zwischenzeit Wasser in einem Topf aufkochen lassen und zunächst die Udonnudeln darin nach Packungsanweisung kochen. Anschließend aus dem heißen Wasser nehmen, den Topf aber auf dem Herd lassen. Die Edamame ins heiße Wasser geben und darin köcheln lassen, bis sie gar sind. Anschließend abgießen und mit kaltem Wasser abschrecken.",
+        "Die Frühlingszwiebel in dünne Ringe schneiden und Knoblauch reiben.",
+        "Die gekochten Udonnudeln und Edamame sowie die Frühlingszwiebel, geriebenen Knoblauch, Sojasoße, Reisessig, Chiliflocken und Salz in eine Schüssel geben. Das Erdnussöl erhitzen, bis es heiß wird. Danach über die Udonnudeln geben und alles gut vermengen.",
+        "Die Udonnudeln abschmecken und mit den knusprigen Tofu-Erdnuss-Bröseln, Sesam, Koriander und frischen Sprossen toppen und servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

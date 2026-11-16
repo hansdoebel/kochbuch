@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/knuspriger-dumpling-salat-mit-currydressing",
+  "recipes": [
+    {
+      "name": "Knuspriger Dumpling Salat mit Currydressing",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/knuspriger-dumpling-salat-mit-currydressing",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/knuspriger-dumpling-salat-mit-currydressing#recipe-7366a4cc-8a12-50d3-b90f-b6fb9e4df191",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für den Salat:",
+        "1 Packung vegane Dumplings",
+        "100 g Spitzkohl",
+        "100 g Zuckerschoten",
+        "0.5 Gurke",
+        "1 Frühlingszwiebel",
+        "5 Radieschen",
+        "100 g Edamame",
+        "geröstetes Sesamöl zum Braten",
+        "Für das Dressing:",
+        "2 EL grüne Currypaste (z. B. von Fairtrade Original)",
+        "2 EL Kokosmilch (z. B. von Fairtrade Original)",
+        "1 EL geröstetes Sesamöl",
+        "1 Limette (Saft)",
+        "1 TL Ahornsirup oder Agavendicksaft",
+        "1 TL Sojasoße",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "gehackte Erdnüsse",
+        "frischer Koriander",
+        "Sesam",
+        "geröstetes Sesamöl",
+        "Sriracha (z. B. von Fairtrade Original)"
+      ],
+      "instructions": [
+        "Zunächst für den Salat den Spitzkohl und die Zuckerschoten in Streifen schneiden. Die Gurke längs halbieren und mit der Klinge eines großen Messers kräftig draufdrücken, sodass die Gurke zerdrückt wird. Danach in größere Stücke schneiden. Frühlingszwiebel in feine Ringe und Radieschen in dünne Scheiben schneiden. Die Edamame nach Packungsanleitung köcheln lassen, bis sie gar sind.",
+        "Die veganen Dumplings in einer Pfanne mit geröstetem Sesamöl von allen Seiten anbraten, bis sie knusprig sind. Danach leicht abkühlen lassen.",
+        "In der Zwischenzeit für das Dressing grüne Currypaste, Kokosmilch, geröstetes Sesamöl, Limettensaft, Agavendicksaft und Sojasoße verrühren und mit Salz und Pfeffer abschmecken. Nach Geschmack auch mehr Limettensaft, Agavendicksaft oder Sojasoße dazugeben.",
+        "Alle geschnittenen Zutaten für den Salat in einer Schüssel mit dem Dressing vermengen. Die knusprigen veganen Dumplings dazugeben und den Salat mit gehackten Erdnüssen, frischem Koriander, Sesam, einem kleinen Drizzle geröstetem Sesamöl und Sriracha servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

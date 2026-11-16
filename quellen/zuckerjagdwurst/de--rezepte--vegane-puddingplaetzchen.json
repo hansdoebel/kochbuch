@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-puddingplaetzchen",
+  "recipes": [
+    {
+      "name": "Vegane Puddingplätzchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-puddingplaetzchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-puddingplaetzchen#recipe-1cd08bdd-4b77-56c3-87f6-c3815765160a",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Plätzchen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT70M",
+      "ingredients": [
+        "Für den Teig:",
+        "150 g Weizenmehl Typ 405",
+        "50 g Puderzucker",
+        "36 g Vanillepuddingpulver (z.B. von Byodo)",
+        "8 g (1.5 TL) Vanillezucker",
+        "130 g vegane kalte Butter",
+        "Für die Dekoration:",
+        "5 g gefriergetrocknete Himbeeren",
+        "5 g Puderzucker"
+      ],
+      "instructions": [
+        "In einer Schüssel Weizenmehl, Puderzucker, Vanillepuddingpulver und Vanillezucker vermischen. Vegane Butter hinzugeben und mit den Händen zu einem geschmeidigen Teig kneten. Für 30 Minuten im Kühlschrank ruhen lassen.",
+        "Teig aus dem Kühlschrank nehmen und Ofen auf 180°C Umluft vorheizen. Zwölf gleich große Kugeln à 30 g aus dem Teig formen und diese auf einem Backblech mit Backpapier verteilen.",
+        "Die Teigkugeln mit einer Gabel flach drücken, sodass das typische Muster auf den Puddingplätzchen entsteht. Die Plätzchen ca. 10 - 12 Minuten bei 180°C Umluft auf mittlerer Schiene backen.",
+        "In der Zwischenzeit gefriergetrocknete Himbeeren mit Puderzucker in einer Mühle zermahlen und in eine kleine Schüssel füllen.",
+        "Plätzchen aus dem Ofen nehmen und die Hälfte der noch warmen Plätzchen (oder auch alle, ganz wie ihr wollt) mit dem Himbeerpulver bepinseln. Abkühlen lassen und am besten in einem luftdichten Behälter aufbewahren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

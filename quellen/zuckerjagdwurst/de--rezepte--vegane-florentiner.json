@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-florentiner",
+  "recipes": [
+    {
+      "name": "Vegane Florentiner",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-florentiner",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-florentiner#recipe-606ba0fa-a74e-5501-ae6e-28785d3c4faf",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "15 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "50 g Zucker",
+        "30 g vegane Butter",
+        "40 ml vegane Sahne",
+        "100 g Mandelblättchen",
+        "45 g gemahlene Mandeln",
+        "100 g Zartbitterschokolade",
+        "frischer Orangenabrieb (optional)"
+      ],
+      "instructions": [
+        "Den Backofen auf 160°C Umluft vorheizen. Zucker, vegane Butter und vegane Sahne in einen kleinen Topf geben und ca. 2-3 Minuten erwärmen und aufkochen lassen. Dabei ständig rühren, bis vegane Butter und Zucker geschmolzen sind und alles gut vermengt ist. Optional könnt ihr hier etwas frischen Orangenabrieb hinzugeben. Die Mandelblättchen und die gemahlenen Mandeln dazugeben und vorsichtig unterrühren.",
+        "Ein Backblech mit Backpapier auslegen und 15 Häufchen der Mandel-Mischung darauf verteilen. Pro Klecks reichen ca. 2 TL der Masse.",
+        "Die Florentiner bei 160°C ca. 15-20 Minuten backen. Im Anschluss komplett abkühlen lassen.",
+        "Zartbitterschokolade in einem Wasserbad schmelzen und die Florentiner vorsichtig mit der Unterseite in die flüssige Schokolade tunken. Auf einem Kuchengitter abtropfen und trocknen lassen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

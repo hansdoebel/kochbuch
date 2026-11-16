@@ -1,0 +1,52 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/weeknight-pan-pizza",
+  "recipes": [
+    {
+      "name": "Weeknight Pan Pizza",
+      "source_url": "https://app.cookwell.com/recipe/weeknight-pan-pizza",
+      "recipe_id": "https://app.cookwell.com/recipe/weeknight-pan-pizza",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "Makes 1 9x13 pizza",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT2H",
+      "ingredients": [
+        "Bread flour, 200 g",
+        "Whole wheat flour, 50 g",
+        "Water, 175 g",
+        "Instant yeast, 4 g",
+        "Salt, 5 g",
+        "Whole peeled tomatoes, 800 g",
+        "Butter, 15 g",
+        "Olive Oil, 15 g",
+        "Garlic, 2-3 cloves",
+        "Onions, 1/4",
+        "Salt, to taste",
+        "Fresh basil, optional",
+        "Olive Oil, for the pan",
+        "Fresh mozzarella, 175 g",
+        "Dried oregano, a sprinkle",
+        "Calabrian chilies, to taste"
+      ],
+      "instructions": [
+        "Add the dough ingredients to a bowl and mix until a sticky dough forms. Cover and let rest for 15 minutes.",
+        "While the dough rests, start the sauce. Add all sauce ingredients except the fresh basil and salt to a pot and place on low heat with a lid over top. Just make sure the garlic and onions are peeled, but no need to dice them (unless you aren't going to blend the sauce later). Set the heat low and begin to simmer.",
+        "Back at the dough, stretch and knead for about 5 minutes until it passes the windowpane test: tear off a piece and stretch it until very thin and translucent without tearing. Set a bowl over the top of the dough to cover and let rise for 30 minutes. Stir the sauce occasionally and let it continue to simmer uncovered while the dough rises. Use this time to do dishes, watch TV, or grab a workout.",
+        "Turn off the heat on the sauce and blend: use an immersion blender, food processor, or standard blender. Adjust the seasoning with salt to taste. Add some fresh basil leaves (if using) to infuse their flavor into the sauce. Set aside until ready to use.",
+        "Get out a 9x13 pan, a Detroit-style pizza pan, or even a quarter baking sheet. Add a drizzle of olive oil to the pan, enough to spread and coat the entire surface. Toss the dough in and stretch to the edges until it starts to spring back. Let rest for a final 20 minutes so you can fully stretch it to the corners before topping. Preheat the oven to 450°F/232°C. Use this final waiting time to do dishes, watch TV, or grab a workout.",
+        "After the dough is done resting, stretch it to the corners/edges of the pan. Top the pizza by laying the chiles (if using) and oregano down first and follow with an even layer of grated mozzarella. Spoon the sauce over the cheese layer in 3 long strips to leave stripes of exposed cheese.",
+        "Slide the pan into the middle rack of the preheated 450°F/232°C oven and bake for about 20 minutes or until the crust is golden brown & crispy, and the cheese is bubbly. Slide the cooked pizza onto a cooling rack for 5 minutes before slicing and enjoying."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

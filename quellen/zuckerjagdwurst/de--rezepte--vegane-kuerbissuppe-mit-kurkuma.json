@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kuerbissuppe-mit-kurkuma",
+  "recipes": [
+    {
+      "name": "Vegane Kürbissuppe mit Kurkuma",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kuerbissuppe-mit-kurkuma",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kuerbissuppe-mit-kurkuma#recipe-030ac093-00d1-54da-99b8-fc30f96751d0",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Für die Kürbissuppe:",
+        "1 kg Hokkaidokürbis",
+        "300 g Pastinaken",
+        "2 Knoblauchzehen",
+        "1 Zwiebel",
+        "15 g Ingwer",
+        "2 EL Kokosöl",
+        "1 TL Chiliflocken",
+        "400 ml Gemüsebrühe",
+        "400 ml Kokosmilch",
+        "2 EL gemahlene Kurkuma",
+        "0.5 Limette (Abrieb und Saft)",
+        "Salz",
+        "Pfeffer",
+        "Für die Brotchips:",
+        "1 (glutunfreies) Baguette",
+        "2 EL Olivenöl",
+        "1 EL getrocknete Kräuter (z. B. Basilikum, Oregano)",
+        "Zum Servieren:",
+        "Kürbiskernöl",
+        "geröstete Kürbiskerne",
+        "Petersilie"
+      ],
+      "instructions": [
+        "Hokkaidokürbis halbieren, entkernen und klein schneiden. Pastinaken, Knoblauch, Zwiebel und Ingwer schälen und ebenfalls klein schneiden.",
+        "Kokosöl in einem großen Topf erhitzen und zuerst Zwiebel, Ingwer, Knoblauch und Chiliflocken anschwitzen, bis die Zwiebel glasig ist. Kürbis und Pastinaken dazugeben und alles ca. 10 Minuten anbraten, damit sich Röstaromen bilden.",
+        "In der Zwischenzeit den Backofen auf 180°C vorheizen. Für die Brotchips Baguette in dünne Scheiben und auf ein Backblech geben. Mit Olivenöl beträufeln und die getrocknete Kräuter darüberstreuen. Ca. 5-7 Minuten backen, bis die Brotchips kross sind.",
+        "Gemüsebrühe und Kokosmilch zum Gemüse in den Topf geben und ca. 15 Minuten mit Deckel köcheln lassen. Die Suppe anschließend mit einem Stabmixer glatt pürieren. Wer die Suppe feiner haben möchte, kann etwas Wasser dazugeben.",
+        "Limettenabrieb und –saft, sowie Kurkuma zur Suppe geben und vermengen. Die Suppe mit Salz und Pfeffer abschmecken. Zum Servieren mit Kürbiskernen und gehackter Petersilie bestreuen, mit etwas Kokosmilch und Kürbiskernöl beträufeln und die knusprigen Brotchips natürlich nicht vergessen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

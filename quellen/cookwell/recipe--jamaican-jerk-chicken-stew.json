@@ -1,0 +1,52 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/jamaican-jerk-chicken-stew",
+  "recipes": [
+    {
+      "name": "Jamaican Jerk Chicken Stew",
+      "source_url": "https://app.cookwell.com/recipe/jamaican-jerk-chicken-stew",
+      "recipe_id": "https://app.cookwell.com/recipe/jamaican-jerk-chicken-stew",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "6-8 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT1H15M",
+      "ingredients": [
+        "Garlic, 2-3 cloves",
+        "Shallots, 2",
+        "Habanero Peppers, 2",
+        "Fresh ginger, 1” knob",
+        "Allspice, a spoonful",
+        "Curry Powder, a spoonful",
+        "Chicken Thighs, 900 g",
+        "Yukon gold potatoes, 450 g",
+        "Green Peas, 160 g",
+        "Cooking oil, 2 spoonfuls",
+        "Coconut Milk, 400 g",
+        "Chicken bouillon powder, a sprinkle",
+        "Water, as needed",
+        "Vinegar, a drizzle",
+        "Dark Soy Sauce, a drizzle",
+        "Toasted coconut powder",
+        "Scallions",
+        "Limes"
+      ],
+      "instructions": [
+        "Chop up the aromatics and toss them in a blender or food processor. Pulse until the aromatics are finely diced. Pulse in the allspice and curry powder with the aromatics to finish the paste",
+        "Salt the chopped chicken. Once salted, add the aromatics to the chicken, coating it evenly. Add the oil to a dutch oven or heavy bottomed skillet over high heat. Sear the chicken in batches, allowing room for the chicken to get a solid browning on the bottom. It’s okay if it’s not fully cooked through, it will continue to cook as the soup simmers in a later step.",
+        "Return all of the seared chicken to the pot along with the coconut milk to deglaze the bottom of the pot. Fill the coconut milk can with water twice and add that to the pot, ensuring everything is mostly covered. Add a drizzle of vinegar and soy sauce. Bring to a simmer for 20-30 minutes.",
+        "Toss in all of the potatoes and allow the soup to simmer for another 15-20 minutes or until the potatoes have softened.",
+        "Once the potatoes have softened, add the peas. Cook for a minute or so until the peas are warmed through. Taste and adjust the seasoning as needed (with more vinegar, soy sauce, or spices as needed). Serve with whatever garnishes you have on hand. Coconut powder is a great way to add a kick of sweetness and aroma. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

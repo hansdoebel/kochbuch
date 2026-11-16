@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gulaschsuppe",
+  "recipes": [
+    {
+      "name": "Vegane Gulaschsuppe",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gulaschsuppe",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gulaschsuppe#recipe-6e03a04c-422e-5c23-9f10-46493d250fa0",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4–6 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für das Gulasch:",
+        "3 Zwiebeln",
+        "2 Knoblauchzehen",
+        "500 g vorwiegend festkochende Kartoffeln",
+        "2 Paprikaschoten",
+        "2 Möhren",
+        "200 g Austernpilze",
+        "560 g (2 Dosen) vegane Mock Duck",
+        "2 TL edelsüßes Paprikapulver",
+        "1 TL rosenscharfes Paprikapulver",
+        "1 TL getrockneter Majoran",
+        "4 EL Tomatenmark",
+        "1 Liter Gemüsebrühe (z. B. von Naturata)",
+        "2 Lorbeerblätter",
+        "Salz",
+        "Pfeffer",
+        "Pflanzenöl zum Braten",
+        "Zum Servieren:",
+        "veganer Schmand",
+        "frische Petersilie",
+        "Flüssigwürze (z. B. von Naturata)"
+      ],
+      "instructions": [
+        "Zunächst das Gemüse schneiden. Die Zwiebeln schälen, halbieren und in Scheiben schneiden. Die Knoblauchzehen schälen und fein würfeln, Kartoffeln in kleine Stücke, Paprikaschoten in dünne Streifen und Möhren in Scheiben schneiden. Die Austernpilze mit den Händen in Streifen reißen.",
+        "Pflanzenöl in einem großen Topf erhitzen und zuerst die vegane Mock Duck darin anbraten, bis sie gut gebräunt ist (sollten die Stückchen zu groß sein, vorher gern etwas kleiner schneiden). Anschließend aus dem Topf nehmen und kurz beiseitestellen. Die „Röstspuren“ im Topf unbedingt so lassen und den Topf nicht zwischendrin sauber machen.",
+        "Erneut etwas Pflanzenöl in den Topf geben und danach Zwiebeln, Knoblauch, Paprika, Möhren, Pilze und Kartoffeln sowie Paprikapulver und Majoran hineingeben und circa 5 Minuten anbraten, bis das Gemüse leicht gebräunt und schon etwas weicher ist. Die vegane Mock Duck zurück in den Topf geben und Tomatenmark einrühren. Circa 3–4 Minuten weiter anbraten, bis es dunkler wird.",
+        "Anschließend alles mit Gemüsebrühe ablöschen, Lorbeerblätter dazugeben und die Suppe mit Salz und Pfeffer würzen. Danach circa 20–25 Minuten köcheln lassen, bis die Kartoffeln bissfest, aber noch nicht zu weich sind.",
+        "Die vegane Gulaschsuppe vor dem Servieren mit Salz und Pfeffer abschmecken und nach Wunsch mit etwas Speisestärke abbinden, wenn sie zu flüssig ist. Zum Servieren mit veganem Schmand, frischer Petersilie und Flüssigwürze toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/karotte-walnuss-brot-ohne-kneten",
+  "recipes": [
+    {
+      "name": "Karotte-Walnuss-Brot ohne Kneten",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/karotte-walnuss-brot-ohne-kneten",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/karotte-walnuss-brot-ohne-kneten#recipe-933fc2c6-4a89-55c6-a558-0317b94d37dc",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Brot",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT605M",
+      "ingredients": [
+        "Für den Brotteig:",
+        "300 g Dinkelmehl (Typ 630)",
+        "200 g Roggenmehl (Typ 1150)",
+        "7 g Trockenhefe",
+        "10 g Salz",
+        "350 ml warmes Wasser",
+        "200 g (ca. 2) Karotten",
+        "100 g Walnüsse",
+        "Zum Bestreuen:",
+        "1 TL schwarzer Sesam",
+        "1 TL heller Sesam",
+        "1 TL Leinsamen",
+        "1 TL Kürbiskerne",
+        "1 TL Sonnenblumenkerne",
+        "1 TL Haferflocken",
+        "Zum Servieren:",
+        "vegane Aufstriche (z. B. von Tartex)",
+        "Für die Haselnuss-Gremolata:",
+        "10 g gehackte geröstete Haselnüsse",
+        "20 g Petersilie",
+        "1 Knoblauchzehe",
+        "0.5 Zitronenabrieb",
+        "Salz"
+      ],
+      "instructions": [
+        "Dinkelmehl, Roggenmehl, Trockenhefe und Salz in einer großen Schüssel verrühren. Die Möhren grob reiben und die Walnüsse hacken. Beides in die Schüssel geben und mit der Mehlmischung vermengen. Danach warmes Wasser dazugeben und alles solange vermengen, bis kein trockenes Mehl mehr zu sehen ist.",
+        "Die Schüssel abgedeckt 8–12 Stunden im Kühlschrank ruhen lassen, bis sich das Teigvolumen verdoppelt hat.",
+        "Am nächsten Tag die Schüssel aus dem Kühlschrank nehmen und circa 15 Minuten bei Raumtemperatur stehen lassen. Danach den Teig aus der Schüssel nehmen und auf eine mit Mehl bestäubte Arbeitsfläche legen. Die Schüssel säubern und ein Blatt Backpapier reinlegen. Jede Seite des Teigs einmal zur Mitte falten, sodass ein kompakterer Teigball entsteht. Dann das Brot einmal wenden, so dass die Oberseite nun unten ist und den Teig zurück in die Schüssel mit Backpapier legen.",
+        "Für das Topping Sesam, Leinsamen, Kürbiskerne, Sonnenblumenkerne und Haferflocken vermengen und auf dem Brot verteilen und leicht andrücken. Den Teig circa 1 weitere Stunde gehen lassen.",
+        "Nach der Ruhezeit einen gusseisernen Topf mit Deckel auf die unterste Schiene im Backofen stellen und den Ofen auf 230 °C (Umluft) vorheizen.",
+        "Den heißen Topf vorsichtig aus dem Ofen nehmen und nun das Brot mitsamt Backpapier in den heißen Topf geben. Das Backpapier falls nötig etwas kürzen, damit es nicht aus dem Topf rausschaut.",
+        "Den Deckel zurück auf den Topf legen und das Brot so circa 30 Minuten bei 230 °C (Umluft) backen. Danach den Deckel vorsichtig abnehmen und das Brot weitere circa 15 Minuten backen, bis es gut gebräunt und knusprig ist. Danach aus dem Ofen nehmen und vor dem Anschneiden abkühlen lassen.",
+        "Während das Brot backt, nach Wunsch die Gremolata zum Belegen zubereiten. Dafür Haselnüsse, Petersilie und Knoblauch zusammen fein hacken, mit Zitronenabrieb vermengen und mit Salz abschmecken. Das Brot mit Aufstrich und Gremolata servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

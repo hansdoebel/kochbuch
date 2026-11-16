@@ -1,0 +1,52 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/classic-shrimp-lo-mein",
+  "recipes": [
+    {
+      "name": "Classic Shrimp Lo Mein",
+      "source_url": "https://app.cookwell.com/recipe/classic-shrimp-lo-mein",
+      "recipe_id": "https://app.cookwell.com/recipe/classic-shrimp-lo-mein",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Lo Mein Noodles, ~200 g",
+        "Neutral oil, as needed",
+        "Shrimp, ~200 g",
+        "Salt, a sprinkle",
+        "Sesame Oil, a drizzle",
+        "Oyster Sauce, 50 g",
+        "Light soy sauce, 20 g",
+        "Dark Soy Sauce, 5 g",
+        "Sugar, 10 g",
+        "Chicken bouillon, 2 g",
+        "Water, a splash",
+        "White pepper, to taste",
+        "Garlic, 2-3 cloves",
+        "Carrots, 1",
+        "Cabbage, 1/8",
+        "Red Onions, 1/4",
+        "Bean sprouts, a handful",
+        "Scallions, for garnish"
+      ],
+      "instructions": [
+        "Bring a pot of water to a boil and cook noodles to the lower end of package instructions. You don’t want these to go mushy; they’ll continue cooking in the sauce. Drain and set aside. Meanwhile, toss the shrimp with salt and sesame oil until lightly coated.",
+        "Mix together the oyster sauce, light and dark soy sauce, sugar, & chicken bouillon until well combined. Thin out with a splash of water, add a sprinkle of white pepper, then taste and adjust if needed. It should be strongly flavored but balanced.",
+        "Heat oil in a wok over high heat. Stir fry or sear the shrimp briefly until just cooked through (colored on sides but not overly curled & tightened up). Remove and set aside.",
+        "Add a bit more oil if needed, then add carrot, onion, and cabbage to the wok. Stir fry until slightly softened, then the add garlic to bloom until fragrant.",
+        "Add noodles and sauce. Toss until glossy and evenly coated. Return shrimp and mix to combine. Add bean sprouts and green onion at the end to keep them crisp. Serve warm."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

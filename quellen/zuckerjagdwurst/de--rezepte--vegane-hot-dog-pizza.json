@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-hot-dog-pizza",
+  "recipes": [
+    {
+      "name": "Vegane Hot Dog Pizza",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-hot-dog-pizza",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-hot-dog-pizza#recipe-ec5e29a7-1733-5e05-8baf-903d32b6e3f1",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Pizzen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "Für den Teig:",
+        "125 ml lauwarmes Wasser",
+        "4 g Trockenhefe",
+        "1 TL Zucker",
+        "1 TL Olivenöl",
+        "250 g Weizenmehl Typ 00 oder 405",
+        "1 TL Salz",
+        "Für den Belag:",
+        "180 g vegane Wiener Würstchen",
+        "100 ml passierte Tomaten",
+        "100 g veganer Streukäse",
+        "Salz",
+        "Pfeffer",
+        "Für die Toppings:",
+        "dänische Gurken aus dem Glas",
+        "Ketchup",
+        "vegane Remoulade",
+        "Röstzwiebeln"
+      ],
+      "instructions": [
+        "Für den Teig lauwarmes Wasser in eine Schüssel geben und Trockenhefe, Zucker und Öl einrühren. Die Mischung in die Schüssel einer Küchenmaschine geben oder mit einem Handrührgerät zuerst auf niedriger Stufe vermengen und dabei das Mehl nach und nach dazugeben, bis ein Teig entsteht. Den Teig danach auf mittlerer bis hoher Stufe ca. 5-10 Minuten kneten, bis er geschmeidig ist.",
+        "Sobald sich der Teig zu einer großen Kugel formt, aus der Schüssel nehmen und noch ca. 5 Minuten mit den Händen auf einer bemehlten Arbeitsfläche kneten. Den Teig in eine mit etwas Öl eingefettete Schüssel geben und mit einem Küchentuch abgedeckt mind. eine Stunde ruhen lassen, bis er sich im Volumen verdoppelt hat.",
+        "Den Backofen auf 250°C Ober-/Unterhitze vorheizen und währenddessen ein Backblech auf der untersten Schiene im Ofen lassen, damit es heiß wird (wer einen Pizzastein hat, benutzt ihn natürlich an dieser Stelle).",
+        "Tipp: Die Maximaltemperatur von manchen Öfen liegt nur bei 220°C oder 230°C. Das ist aber gar nicht schlimm! Backt eure Pizza einfach bei Maximaltemperatur, eventuell braucht sie dann 1-2 Minuten länger.",
+        "Den Teig aus der Schüssel nehmen, gut salzen und nochmals mit den Händen kneten. Den Teig halbieren und jeweils auf einer mit Mehl bestäubten Arbeitsfläche (nicht zu dünn) ausrollen, bis die Böden einen Durchmesser von 25 cm haben. Die Teigböden vorsichtig auf Backpapier legen, sodass sie später ganz einfach auf das heiße Backblech gezogen werden können (eine Pizzaschaufel oder eine Tortenscheibe wären natürlich ideal dafür). Die Böden mit sauberen, angefeuchteten Geschirrtüchern bedecken und nochmal ca. 15-30 Minuten gehen lassen.",
+        "In der Zwischenzeit die veganen Wiener Würstchen in Scheiben schneiden und die passierten Tomaten gut salzen und pfeffern. Die Teigböden mit passierten Tomaten bestreichen, mit pflanzlichem Käse bestreuen und mit den veganen Würstchen belegen.",
+        "Die erste Pizza vorsichtig auf das heiße Backblech ziehen und auf der untersten Schiene im Ofen ca. 15 Minuten bei 250°C Ober-/Unterhitze backen. Der Boden sollte sich am Ende leicht vom Backpapier lösen lassen und gebräunte Stellen haben. Anschließend die zweite Pizza backen.",
+        "Die Pizzen mit Gurkenscheiben aus dem Glas belegen, mit Ketchup und veganer Remoulade toppen (mithilfe von Spritzflaschen geht das schön gleichmäßig) und mit Röstzwiebeln bestreuen.",
+        "Tipp: Bei dänischer Remoulade ist üblicherweise noch etwas Senf dabei. Wenn ihr wollt, könnt ihr also noch etwas Senf unter die vegane Remoulade mischen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

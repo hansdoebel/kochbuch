@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-omelett-mit-spinat-und-gebratenen-pilzen",
+  "recipes": [
+    {
+      "name": "Veganes Omelett mit Spinat und gebratenen Pilzen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-omelett-mit-spinat-und-gebratenen-pilzen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-omelett-mit-spinat-und-gebratenen-pilzen#recipe-f24f5226-18b8-4d6b-a3b9-9db12f5d2370",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Omeletts",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die gebratenen Pilze:",
+        "250 g braune Champignons",
+        "1 Zwiebel",
+        "2 Knoblauchzehen",
+        "Salz",
+        "Pfeffer",
+        "Chiliflocken",
+        "getrockneter Thymian",
+        "Zitronenabrieb / Saft",
+        "vegane Butter zum Braten (z. B. Eleplant)",
+        "Für das Omelett:",
+        "veganer Ei-Ersatz (z. B. Just Egg)",
+        "frischer Babyspinat",
+        "vegane Butter zum Braten (z. B. Eleplant)",
+        "Kala Namak",
+        "Zum Servieren:",
+        "Kresse",
+        "Salat",
+        "frische Tomaten",
+        "Brot"
+      ],
+      "instructions": [
+        "Pilze putzen und in Scheiben schneiden. Zwiebel und Knoblauch schälen und fein würfeln oder ebenfalls in dünne Scheiben schneiden.",
+        "Vegane Butter in einer gut beschichteten Pfanne erwärmen und zuerst die Pilze darin circa 5 Minuten scharf anbraten, damit sie leicht bräunen. Zwiebel, Knoblauch, Chiliflocken und getrockneten Thymian dazugeben und weitere 3–4 Minuten braten. Mit Salz, Pfeffer und Zitronenabrieb und -saft abschmecken.",
+        "Die Hälfte der Pilzmischung aus der Pfanne nehmen und beiseitestellen. Nach Bedarf etwas mehr vegane Butter in die Pfanne geben und nun die Hälfte vom veganen Ei-Ersatz auf die gebratenen Pilze geben. Den frischen Babyspinat darauf verteilen. Alles braten, bis das vegane Ei fest geworden ist und dabei nach Wunsch einmal wenden.",
+        "Das vegane Omelett aus der Pfanne nehmen und warm halten. Die restlichen Pilze zurück in die Pfanne geben und den restlichen Ei-Ersatz und Blattspinat darauf verteilen und so auch das zweite Omelett braten.",
+        "Erst kurz vor dem Essen das vegane Omelett mit Kala Namak bestreuen und mit Salat, frischem Gemüse, Brot und veganer Butter servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

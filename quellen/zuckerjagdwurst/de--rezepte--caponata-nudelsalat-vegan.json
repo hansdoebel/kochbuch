@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/caponata-nudelsalat-vegan",
+  "recipes": [
+    {
+      "name": "Veganer Caponata-Nudelsalat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/caponata-nudelsalat-vegan",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/caponata-nudelsalat-vegan#recipe-655b13d9-a610-5d0b-8b47-684804202dfc",
+      "authors": [
+        "Anna Germek"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Caponata:",
+        "1 Aubergine",
+        "1 rote Zwiebel",
+        "1 Knoblauchzehe",
+        "2 Stangen Staudensellerie",
+        "30 g blanchierte Mandeln",
+        "60 g Kalamata-Oliven",
+        "3 TL Kapern",
+        "1 EL Zucker",
+        "4 EL Rotweinessig",
+        "400 g stückige Tomaten aus der Dose",
+        "2 EL Linsen-Aufstrich (z. B. Belugalinse-Balsamico von Tartex)",
+        "Außerdem:",
+        "400 g kurze Nudeln (z. B. Orecchiette)",
+        "4 Stiele frisches Basilikum",
+        "Olivenöl zum Braten",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Aubergine würfeln, salzen und etwa 10 Minuten stehenlassen, bis sie etwas Wasser verloren haben. Dann in reichlich Öl ausbraten und anschließend auf etwas Küchenpapier abtropfen lassen.",
+        "In der Zwischenzeit die rote Zwiebel halbieren und in feine Streifen schneiden, den Knoblauch hacken. Die Selleriestangen in Scheiben schneiden. Die Blätter der Stangen hacken und beiseitestellen. Mandeln in Stücke hacken. Oliven in Scheiben schneiden.",
+        "In Olivenöl Zwiebeln und Selleriestücke anbraten, nach 5 Minuten Knoblauch, Oliven, Kapern und Mandeln dazugeben und weitere 5–10 Minuten anbraten. Den Zucker unterrühren und alles 5 Minuten bei niedriger Hitze karamellisieren lassen. Mit Rotweinessig ablöschen.",
+        "Tomaten und Linsen-Aufstrich dazugeben, mit Salz und Pfeffer würzen. Alles 15 Minuten köcheln lassen.",
+        "Währenddessen die Nudeln nach Packungsanweisung kochen und etwas abkühlen lassen. Anschließend mit der Tomatenmischung und den Auberginen vermischen. Mit frischem Basilikum, den gehackten Sellerieblättern und ein paar Mandeln servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,64 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-suesses-sushi",
+  "recipes": [
+    {
+      "name": "Veganes Süßes Sushi",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-suesses-sushi",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-suesses-sushi#recipe-927b65e2-d7b7-5aa3-87d7-d8183b203947",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "25 Nigiris",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "Kokos-Klebereis",
+        "250 g Sushireis",
+        "4 El Zucker",
+        "1/2 TL Salz",
+        "400 ml Kokosnussmilch (1 Dose)",
+        "100 ml oder mehr Wasser",
+        "250 g Kokosnussraspeln",
+        "Toppings",
+        "Frische Früchte (Erdbeeren, Kiwi, Mango)",
+        "Schokoladen-Sojasoße",
+        "200 g dunkle Kouvertüre",
+        "1 EL Kokosnussöl",
+        "Matcha-Wasabi",
+        "100 g veganer Frischkäse",
+        "1 TL Matchapulver",
+        "Birnen-Ingwer",
+        "1 Birne",
+        "ca. 500 ml Wasser",
+        "1/2 Zitrone",
+        "3 EL Gelierzucker",
+        "1 Vanilleschote",
+        "2 Nelken"
+      ],
+      "instructions": [
+        "Kokosnussreis",
+        "250g Klebereis mit 400 ml Kokosmilch, 100 ml Wasser, 4 EL Zucker und etwas Salz nach Packungsanweisung zubereiten und immer wieder umrühren. Optimale Konsistenz: weich, aber mit leichtem Biss.",
+        "Frische Früchte waschen, ggf. schälen oder entkernen und in möglichst feine Streifen oder Vierecke schneiden.",
+        "Anschließend den erkalteten Reis mit angefeuchteten Händen zu mundgerechten Rollen formen.",
+        "Die Nigiris dann in den Kokosraspeln rollen, so dass sie rundum bedeckt sind. Nun mit den Obst-Scheiben dekorieren.",
+        "Birnen-Ingwer",
+        "Birne waschen, schälen und in feine, sehr lange Scheiben schneiden, die an den klassischen eingelegten Ingwer erinnern.",
+        "Dann in einen Topf geben, mit Wasser bedecken und erhitzen. 1/2 Zitrone auspressen und dazugeben, anschließend 3 EL Gelierzucker hinzufügen.",
+        "Das Mark einer Vanilleschote oder 2 Nelken hinzufügen und für ca. 7-8 Minuten köcheln lassen, bis die Birnenstreifen weich sind.",
+        "Wasabi-Frischkäse",
+        "Den Frischkäse mit dem Matchapulver in einer kleinen Schüssel verrühren.",
+        "Schokoladen-Sojasauce",
+        "Die Schokolade mit dem Kokosnussöl erhitzen, bis die Schokolade flüssig ist."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

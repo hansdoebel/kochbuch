@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-viennetta-selber-machen",
+  "recipes": [
+    {
+      "name": "Veganes Viennetta",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-viennetta-selber-machen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-viennetta-selber-machen#recipe-9c5f84c2-18da-5a97-8f88-da23c0d0b087",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "30 Minuten (+120 Minuten Kühlzeit)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT240M",
+      "ingredients": [
+        "200 g Zartbitterschokolade",
+        "200 ml vegane Schlagsahne",
+        "8 g Sahnesteif",
+        "450 ml veganes Vanilleeis (z.B. von LUVE)",
+        "Dekoration",
+        "1 EL ungesüßtes Kakaopulver"
+      ],
+      "instructions": [
+        "Die Zartbitterschokolade im Wasserbad schmelzen lassen.",
+        "Währenddessen eine Brotbackform/Kastenform mit Backpapier auslegen.",
+        "Die vegane Schlagsahne mit Sahnesteif in einer großen Schüssel steif schlagen.",
+        "Die geschmolzene Schokolade vom Herd nehmen und 10 Minuten abkühlen lassen. Dabei ab und zu umrühren. Die Schokolade in einen Spritzbeutel füllen und eine Band- oder Randtülle verwenden, sodass ihr möglichst flache Schokoladenstreifen auftragen könnt.",
+        "Tipp: Wenn ihr keinen Spritzbeutel besitzt, dann könnt ihr die Schokolade auch auf Backpapier oder einer Silikonmatte zu vier bis fünf Rechtecken dünn ausstreichen. Dafür messt ihr am besten eure Kastenform vorher ab und und markiert die Fläche auf eurer beweglichen Unterlage. Sobald die Schokolade getrocknet ist, könnt ihr sie zum Schichten des Viennetta verwenden.",
+        "In der Zwischenzeit das Vanilleeis aus dem Tiefkühlfach nehmen und etwa 5-10 Minuten antauen lassen.",
+        "Nun das Vanilleeis zu der geschlagenen veganen Sahne geben und mit einem Handrührgerät zu einer fluffigen, homogenen Masse mixen.",
+        "Eine Schicht (ca. 3-4 EL) der Vanille-Sahne-Creme in die Backform geben. Darauf eine dünne Schicht flüssige Schokolade mit der Tülle verteilen. Dann wieder eine Schicht der Vanille-Sahne-Creme. So immer weiter vorgehen, bis alles aufgebraucht ist. Die letzte Schicht des Viennetta ist Vanille-Sahne-Creme.",
+        "Die Form ins Gefrierfach stellen und dort über Nacht kaltstellen.",
+        "Vor dem Servieren das Viennetta aus der Form stürzen, mit Kakaopulver bestreuen und im Anschluss in die benötigte Anzahl Scheiben schneiden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

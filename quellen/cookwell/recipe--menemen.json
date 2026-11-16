@@ -1,0 +1,43 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/menemen",
+  "recipes": [
+    {
+      "name": "Menemen",
+      "source_url": "https://app.cookwell.com/recipe/menemen",
+      "recipe_id": "https://app.cookwell.com/recipe/menemen",
+      "authors": [
+        "Cook Well Official"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Eggs, 3-5",
+        "Tomatoes, 2-3",
+        "Green Bell Peppers, 1",
+        "Salt, to taste",
+        "Extra Virgin Olive Oil, a drizzle",
+        "Onions, 1/2",
+        "Paprika, a sprinkle",
+        "Dried oregano, a sprinkle",
+        "Extra Virgin Olive Oil",
+        "Parsley",
+        "Dill"
+      ],
+      "instructions": [
+        "In a wide pan, sauté the peppers, onions, tomatoes, and spices with oil and a pinch of salt until aromatic and softened.",
+        "Lightly beat the eggs together. Add the egg mixture to the aromatic base. Gently fold the mixture together as it sets so the vegetables don’t become too homogenous with the eggs.",
+        "Once the eggs are mostly cooked through, remove from the heat. Taste and adjust with salt. Garnish with herbs, if you are using them, and a healthy drizzle of olive oil."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

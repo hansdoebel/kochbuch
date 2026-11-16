@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-orzotto-erbsen-raeuchertofu",
+  "recipes": [
+    {
+      "name": "Veganes Orzotto mit Erbsen und Räuchertofu",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-orzotto-erbsen-raeuchertofu",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-orzotto-erbsen-raeuchertofu#recipe-a4fd5c9e-aa5d-5ebb-afe1-5146405c59d4",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "250 g Orzonudeln",
+        "1 Schalotte",
+        "1 Knoblauchzehe",
+        "1 TL Sojasauce",
+        "200 ml Weißwein",
+        "700 ml Gemüsebrühe",
+        "150 g Erbsen",
+        "200 g Räuchertofu",
+        "0.5 Limette (Abrieb)",
+        "4 EL Hefeflocken (oder geriebener veganer Parmesan)",
+        "2 EL vegane Butter",
+        "Olivenöl zum Braten",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Schalotte und Knoblauch schälen und fein hacken. Den Tofu in kleine Würfel schneiden.",
+        "Olivenöl in einem großen Topf über kleiner Hitze erwärmen und die Zwiebelwürfel darin 3 - 4 Minuten anschwitzen, bis sie glasig sind. Knoblauch dazugeben und gemeinsam eine weitere Minute anschwitzen. Danach die Orzonudeln dazugeben und alles ca. 2-3 Minuten zusammen anrösten.",
+        "Das ganze mit Weißwein ablöschen und einmal aufkochen lassen. Ca. 3 Minuten köcheln lassen, bis der Weißwein von den Orzonudeln aufgesogen wurde.",
+        "Jetzt beginnt der spannende Teil. Gebt nach und nach die Gemüsebrühe dazu, aber immer nur so viel, dass die Orzonudeln gerade so bedeckt sind. Dabei immer wieder die Mischung umrühren. Sobald die Flüssigkeit aufgesogen wurde, erneut mit Gemüsebrühe aufgießen und den Vorgang wiederholen, bis die komplette Gemüsebrühe aufgebraucht und die Orzonudeln gar sind, das dauert ca. 15 Minuten. Falls benötigt, könnt ihr auch mehr Gemüsebrühe dazugeben.",
+        "Nach der letzten Zugabe der Gemüsebrühe auch die Erbsen dazugeben und das Orzotto mit Limettenabrieb, Salz, Pfeffer und Hefeflocken abschmecken. Zum Schluss vegane Butter einrühren.",
+        "Parallel dazu etwas Pflanzenöl in einer Pfanne erhitzen und die Tofuwürfel scharf anbraten. Nach ca. 2-3 Minuten Sojasauce dazugeben und den Tofu anbraten, bis er knusprig ist.",
+        "Das Orzotto mit den knusprigen Tofuwürfeln servieren oder sie direkt unterrühren. Nach Geschmack mit mehr Hefeflocken oder veganem Parmesan bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

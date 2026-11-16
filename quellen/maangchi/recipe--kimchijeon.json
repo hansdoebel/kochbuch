@@ -1,0 +1,109 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/kimchijeon",
+  "recipes": [
+    {
+      "name": "Kimchi pancake (Kimchijeon: 김치전)",
+      "source_url": "https://www.maangchi.com/recipe/kimchijeon",
+      "recipe_id": "/recipe/kimchijeon#sso/recipe/86262",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "One large pancake",
+      "prep_time": "P0DT0H10M0S",
+      "cook_time": "P0DT0H10M0S",
+      "total_time": "P0DT0H20M0S",
+      "ingredients": [
+        "½ pound well-fermented napa cabbage kimchi, chopped into small pieces, plus 2 tablespoons of the brine",
+        "3 scallions, chopped",
+        "½ teaspoon sugar",
+        "½ cup all-purpose flour",
+        "½ cup water",
+        "4 tablespoons vegetable oil"
+      ],
+      "instructions": [
+        "Combine the kimchi, kimchi brine, scallions, sugar, flour, and water in a medium bowl and mix well with a spoon.",
+        "Heat a 12-inch nonstick skillet over medium heat. (If you don’t have a 12-inch skillet, use a smaller skillet to make 2 pancakes.) Add 2 tablespoons of the vegetable oil and swirl to coat the bottom of the pan. Pour the batter into the pan and spread it with the back of a spoon or a spatula to make a large circle.",
+        "Cook until the bottom is golden brown and crisp, 3 to 5 minutes. Carefully turn the pancake over. Drizzle the remaining 2 tablespoons oil around the edges of the skillet, then lift the pancake with a thin spatula to allow the oil to run underneath and tilt the pan to spread it evenly. Cook until the bottom of the pancake is light golden brown and crisp, 3 to 5 minutes. Flip it one more time and cook for another minute.",
+        "Slide onto a large serving platter and serve immediately."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "½ pound well-fermented napa cabbage kimchi, chopped into small pieces, plus 2 tablespoons of the brine"
+        },
+        {
+          "tag": "li",
+          "text": "3 scallions, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon sugar"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup all-purpose flour"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup water"
+        },
+        {
+          "tag": "li",
+          "text": "4 tablespoons vegetable oil"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Combine the kimchi, kimchi brine, scallions, sugar, flour, and water in a medium bowl and mix well with a spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Heat a 12-inch nonstick skillet over medium heat. (If you don’t have a 12-inch skillet, use a smaller skillet to make 2 pancakes.)"
+        },
+        {
+          "tag": "li",
+          "text": "Add 2 tablespoons of the vegetable oil and swirl to coat the bottom of the pan."
+        },
+        {
+          "tag": "li",
+          "text": "Pour the batter into the pan and spread it with the back of a spoon or a spatula to make a large circle."
+        },
+        {
+          "tag": "li",
+          "text": "Cook until the bottom is golden brown and crisp, 3 to 5 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Carefully turn the pancake over. Drizzle the remaining 2 tablespoons oil around the edges of the skillet, then lift the pancake with a thin spatula to allow the oil to run underneath and tilt the pan to spread it evenly."
+        },
+        {
+          "tag": "li",
+          "text": "Cook until the bottom of the pancake is light golden brown and crisp, 3 to 5 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Flip it one more time and cook for another minute."
+        },
+        {
+          "tag": "li",
+          "text": "Slide onto a large serving platter and serve immediately."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/homemade-vegetable-broth-399",
+  "recipes": [
+    {
+      "name": "Homemade Vegetable Stock",
+      "source_url": "https://www.pickuplimes.com/recipe/homemade-vegetable-broth-399",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 cups",
+      "prep_time": "PT15M",
+      "cook_time": "PT01H00M",
+      "total_time": "PT01H15M",
+      "ingredients": [
+        "6 cup boiling water",
+        "2 medium onion",
+        "4 garlic clove",
+        "2 medium carrot",
+        "2 celery rib",
+        "4 cup vegetable scraps",
+        "½ cup fresh parsley",
+        "½ cup fresh cilantro",
+        "2 bay leaf",
+        "½ Tbsp whole peppercorns",
+        "1 tsp salt"
+      ],
+      "instructions": [
+        "Add all the ingredients to a large pot over medium-high heat.",
+        "Stir, bring to a boil, reduce to a simmer, and cover the pot with a lid. Let simmer for one hour. Note: avoid a too-rapid simmer and do not let it simmer for too long, as this may result in a bitter broth.",
+        "Turn off the heat and scoop out the vegetables using tongs or a slotted spoon. Press down on the veggies with the back of a spoon to extract as much liquid as possible.",
+        "Place a mesh sieve over a large bowl, and strain the broth through it to catch any remaining small pieces.",
+        "Let cool off completely before storing it, or use it immediately for a soup recipe. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Good scraps include bits from garlic, onions, carrots, mushrooms, celery, leeks, green beans, tomatoes, bell peppers, zucchini, squash skins, corn, eggplants, potatoes, and herbs. Avoid cruciferous veg like broccoli, cauliflower, kale, and cabbage, as well as onion skins, which can turn the broth bitter. Beet scraps and red onion skins may darken the broth.",
+    "Storage The broth can be stored in an airtight container in the fridge for up to 4 days. Store in the freezer for up to 2 months. We'd recommend freezing it in 1 cup (240 mL) portions, so it's easier to use in future recipes."
+  ]
+}

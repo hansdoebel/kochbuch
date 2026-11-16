@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-birchermuesli-mit-vanille-und-beeren",
+  "recipes": [
+    {
+      "name": "Veganes Birchermüsli mit Vanille und Beeren",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-birchermuesli-mit-vanille-und-beeren",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-birchermuesli-mit-vanille-und-beeren#recipe-df84c254-09f0-5e46-b8e2-2edaff83fa02",
+      "authors": [
+        "Rahel Würsching"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT480M",
+      "ingredients": [
+        "Für das Müsli:",
+        "80 g kernige Haferflocken",
+        "240 ml cremige Pflanzenmilch (z. B. eine Barista-Version)",
+        "1 Apfel (ca. 150 g)",
+        "0.5 Zitrone (Saft)",
+        "1 TL Vanillepaste",
+        "1 Prise Salz",
+        "Außerdem:",
+        "60 g Haselnusskerne",
+        "250 g frische Erdbeeren",
+        "125 g frische Himbeeren"
+      ],
+      "instructions": [
+        "Kernige Haferflocken und Pflanzenmilch in eine Schüssel geben und über Nacht einweichen lassen.",
+        "Am nächsten Morgen den Backofen auf 250°C Ober- und Unterhitze vorheizen. Haselnusskerne auf einem Backblech verteilen und im Ofen ca. 4 Minuten rösten. Anschließend grob hacken.",
+        "Apfel und Zitrone waschen. Den Apfel reiben und mit dem Saft einer halben Zitrone beträufeln. Zusammen mit Vanillepaste, Salz, drei Viertel der gehackten Haselnüsse und dem Großteil der frischen Himbeeren zu den Haferflocken geben und vermengen.",
+        "Erdbeeren waschen, entstielen und pürieren.",
+        "Das Birchermüsli auf zwei Schalen verteilen und mit Erdbeersoße und den restlichen frischen Himbeeren und gehackten Haselnüssen garnieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,64 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schokokuss-torte",
+  "recipes": [
+    {
+      "name": "Vegane Schokokuss-Torte",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schokokuss-torte",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schokokuss-torte#recipe-bcef441f-809e-5984-b361-8c9671029e32",
+      "authors": [
+        "Team"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Torte (ø 22 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT240M",
+      "ingredients": [
+        "Für den Biskuit:",
+        "200 g Mehl",
+        "120 g Zucker",
+        "8 g Vanillezucker",
+        "1 TL Backpulver",
+        "40 ml pflanzliches Öl (Raps- oder Sonnenblumenöl)",
+        "225 ml Sprudelwasser",
+        "Für die Füllung:",
+        "200 g vegane Sahne zum Aufschlagen",
+        "16 g Sahnesteif",
+        "8 g Vanillezucker",
+        "Zesten von 1 Bio-Zitrone",
+        "250 g veganer Quark",
+        "50 g Aquafaba",
+        "50 g Zucker",
+        "200 g Wasser",
+        "7 g Agar-Agar oder 2 Blätter Blatt Agar-Agar",
+        "70-100 g Schokoladenraspeln (Zartbitter)",
+        "Außerdem:",
+        "200 g Mandarinen aus der Dose (Abtropfgewicht)",
+        "optional: vegane Waffelplatten und Zartbitterschokolade",
+        "vegane Butter zum Einfetten",
+        "Mehl zum Ausklopfen"
+      ],
+      "instructions": [
+        "Biskuit",
+        "Ofen auf 180° C Umluft vorheizen. In einer großen Schüssel Mehl, Zucker, Vanillezucker und Backpulver verrühren.",
+        "Anschließend Öl und Sprudelwasser dazugeben und nur noch kurz unterrühren.",
+        "Eine Kuchenform (ø 22 cm) einfetten, mit Mehl ausklopfen und den Teig hineingeben. Für 30 Minuten bei 180° C Umluft backen.",
+        "Mit einem Stäbchen testen, ob der Teig durch ist. Den Boden im Anschluss auskühlen lassen.",
+        "Füllung",
+        "Die vegane Sahne mit dem Sahnesteif aufschlagen und 1/4 davon für die Dekoration aufheben und bis zur Weiterverarbeitung in den Kühlschrank stellen.",
+        "Den Vanillezucker und die Zitronenzesten zum Quark geben und verrühren. Das Aquafaba für 3-5 Minuten steif schlagen und den Zucker einrieseln lassen.",
+        "In der Zwischenzeit das Wasser mit dem Agar-Agar zum Kochen bringen und für mindestens 3 Minuten unter ständigem Rühren sprudelnd kochen lassen.",
+        "Erst Schlagsahne und dann Aquafaba vorsichtig unter die Quarkcreme heben. Das aufgekochte Agar-Agar in die Masse fließen lassen und verrühren. Zuletzt die Schokoraspeln unter die Creme heben.",
+        "Einen Backring um den ausgekühlten Biskuit legen und Backpapier zwischen Backring und Teigboden platzieren. 150 g der Mandarinen auf dem Boden verteilen und die Tortencreme daraufgeben. Für mindestens 3 Stunden, besser über Nacht, kaltstellen.",
+        "Die Torte vorsichtig von Backring und Backpapier befreien, nach Belieben mit der restlichen Schlagsahne, Mandarinen und z.B. veganen Waffelplatten (in Schokolade getunkt) verzieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

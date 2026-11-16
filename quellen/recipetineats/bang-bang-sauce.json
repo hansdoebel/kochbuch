@@ -1,0 +1,39 @@
+{
+  "source_url": "https://www.recipetineats.com/bang-bang-sauce/",
+  "recipes": [
+    {
+      "name": "Bang Bang Sauce",
+      "source_url": "https://www.recipetineats.com/bang-bang-sauce/",
+      "recipe_id": "https://www.recipetineats.com/bang-bang-sauce/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "0.75",
+        "0.75 cup"
+      ],
+      "prep_time": "PT3M",
+      "cook_time": null,
+      "total_time": "PT3M",
+      "ingredients": [
+        "1/2 cup whole-egg mayonnaise",
+        "2 tbsp sweet chilli sauce ((Note 2))",
+        "1 tbsp sriracha (, or other chilli sauce you want, adjust amount to control spiciness (Note 3))"
+      ],
+      "instructions": [
+        "Mix ingredients together until smooth.",
+        "Use for smearing in burgers, wraps (Doner Kebabs!), sandwiches, as a dipping sauce for fries, wedges, chicken fingers, drizzle across salads and poke bowls. And soon, I will share my Bang Bang Shrimp recipe!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. Mayonnaise – Whole egg mayo is creamier and less tangy than normal mayo. My recommended is S&W (Australia), followed by Hellman’s and Kewpie (equal second). 2. Sweet Chilli Sauce – just from regular grocery stores, any brand is fine. This is a sweet sauce that is a touch tangy and just very, very mildly spicy. 3. Sriracha is my preferred because it has other flavours in it other than chillies that adds to the Bang Bang sauce flavour – garlic, vinegar, salt. Keeps for many weeks in the fridge! Nutrition for entire recipe."
+  ]
+}

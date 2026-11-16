@@ -1,0 +1,234 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/gimbap",
+  "recipes": [
+    {
+      "name": "Classic gimbap",
+      "source_url": "https://www.maangchi.com/recipe/gimbap",
+      "recipe_id": "/recipe/gimbap#sso/recipe/99",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "Serves 2-3 : 5 rolls",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "P0DT0H40M0S",
+      "ingredients": [
+        "5 sheets of gim (seaweed paper), roasted slightly (sometimes called “nori” from Japanese)",
+        "4 cups cooked rice (the recipe is here, but make with 2 cups of short grain rice instead of 1 cup)",
+        "½ pound beef skirt steak (or tenderloin, or ground beef)",
+        "1 large carrot, cut into matchsticks (about 1½ cup)",
+        "5 strips of yellow pickled radish (use pre-cut danmuji or cut into 8 inch long strips)",
+        "8 to 10 ounces spinach (1 small bunch), blanched, rinsed in cold water, and strained",
+        "3 eggs",
+        "3 garlic cloves",
+        "2 teaspoons soy sauce",
+        "1 tablespoon plus 1 teaspoon brown (or white) sugar",
+        "1½ teaspoon kosher salt",
+        "2½ tablespoons toasted sesame oil",
+        "vegetable oil"
+      ],
+      "instructions": [
+        "Place freshly made rice in a large, shallow bowl. Gently mix in ½ teaspoon kosher salt and 2 teaspoons toasted sesame oil over top with a rice scoop or a wooden spoon. Let it cool down enough so it’s no longer steaming. Cover and set aside.",
+        "Combine the blanched spinach, 2 minced garlic cloves, ½ teaspoon kosher salt, and 2 teaspoons toasted sesame oil in a bowl. Mix well by hand and put it on a large platter with the sliced yellow pickled radish.",
+        "Combine the carrot matchsticks with ¼ teaspoon kosher salt. Mix well and let it sweat for 5 to 10 minutes. Heat a pan and add a few drops vegetable oil. Squeeze out excess water from the carrot, then saute for about 1 minute. Put it on the platter next to the spinach.",
+        "Trim the fat from the skirt steaks and slice into ¼ inch wide, 3 to 5 inch strips. Put the strips into a bowl. Add 2 teaspoons soy sauce, 1 minced garlic clove, ¼ teaspoon ground black pepper,1 tablespoon plus 1 teaspoon brown (or white) sugar, and 2 teaspoons toasted sesame oil. Mix well by hand. Set aside, and let them marinate while we do the egg strips.",
+        "Crack 3 eggs in a bowl and add ¼ teaspoon kosher salt. Beat it with fork and remove the stringy chalaza. Drizzle a few drops of oil on a heated 10 to 12 inch non-stick pan. Wipe off the excess with a paper towel so only a thin sheen of oil remains. Turn down the heat to low and pour the egg mixture into the pan. Spread it into a large circle so it fills the pan.",
+        "When the bottom of the egg is cooked, flip it over with a spatula. Remove from the heat and let it cook slowly in the hot pan for about 5 minutes, with the ultimate goal of keeping the egg as yellow as possible, and not brown. Cut it into ½ inch wide strips. Put it next to the spinach on the platter.",
+        "Heat up a pan over medium high heat and cook the marinated beef, stirring it with a wooden spoon until well cooked. Set aside.",
+        "Place a sheet of gim on a bamboo mat with the shiny side down. Evenly spread about ¾ cup of cooked rice over top of it, leaving about 2 inches uncovered on one side of the gim. Place beef, carrot, yellow pickled radish strip, a few egg strips, and spinach in the center of the rice. Use both hands to roll the mat (along with gim and rice) over the fillings, so one edge of the rice and gim reaches the opposite edge. This centers the fillings in the roll, so they’ll be nicely in the middle when you slice it. Grab the mat with both hands and and press it tightly as you continue rolling the gimbap. Push out the mat as you roll, so it doesn’t get wrapped in the gimbap. Remove the roll from the mat at the end and set the finished roll aside with the seam down, to seal it nicely. Repeat 4 more times with the remaining ingredients.",
+        "Put some toasted sesame oil on the finished rolls and sprinkle some sesame seeds over top. Cut each roll into ¼ inch bite size pieces with a sharp knife, occasionally wiping it with a wet paper towel or cloth to clean the starch off and to ease cutting.",
+        "Put it on a plate and serve immediately or pack it in a lunchbox."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients: (serves 2-3 : 5 rolls)"
+        },
+        {
+          "tag": "li",
+          "text": "5 sheets of gim (seaweed paper), roasted slightly (sometimes called “nori” from Japanese)"
+        },
+        {
+          "tag": "li",
+          "text": "4 cups cooked rice (the recipe is here, but make with 2 cups of short grain rice instead of 1 cup)"
+        },
+        {
+          "tag": "li",
+          "text": "½ pound beef skirt steak (or tenderloin, or ground beef)"
+        },
+        {
+          "tag": "li",
+          "text": "1 large carrot, cut into matchsticks (about 1½ cup)"
+        },
+        {
+          "tag": "li",
+          "text": "5 strips of yellow pickled radish (use pre-cut danmuji or cut into 8 inch long strips)"
+        },
+        {
+          "tag": "li",
+          "text": "8 to 10 ounces spinach (1 small bunch), blanched, rinsed in cold water, and strained"
+        },
+        {
+          "tag": "li",
+          "text": "3 eggs"
+        },
+        {
+          "tag": "li",
+          "text": "3 garlic cloves"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon plus 1 teaspoon brown (or white) sugar"
+        },
+        {
+          "tag": "li",
+          "text": "1½ teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "2½ tablespoons toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "vegetable oil"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Rice:"
+        },
+        {
+          "tag": "li",
+          "text": "Place freshly made rice in a large, shallow bowl. Gently mix in ½ teaspoon kosher salt and 2 teaspoons toasted sesame oil over top with a rice scoop or a wooden spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Let it cool down enough so it’s no longer steaming. Cover and set aside."
+        },
+        {
+          "tag": "h3",
+          "text": "Spinach:"
+        },
+        {
+          "tag": "li",
+          "text": "Combine the blanched spinach, 2 minced garlic cloves, ½ teaspoon kosher salt, and 2 teaspoons toasted sesame oil in a bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Mix well by hand and put it on a large platter with the sliced yellow pickled radish."
+        },
+        {
+          "tag": "h3",
+          "text": "Carrots:"
+        },
+        {
+          "tag": "li",
+          "text": "Combine the carrot matchsticks with ¼ teaspoon kosher salt. Mix well and let it sweat for 5 to 10 minutes. Heat a pan and add a few drops vegetable oil."
+        },
+        {
+          "tag": "li",
+          "text": "Squeeze out excess water from the carrot, then saute for about 1 minute. Put it on the platter next to the spinach."
+        },
+        {
+          "tag": "h3",
+          "text": "Steaks:"
+        },
+        {
+          "tag": "li",
+          "text": "Trim the fat from the skirt steaks and slice into ¼ inch wide, 3 to 5 inch strips. Put the strips into a bowl. Add 2 teaspoons soy sauce, 1 minced garlic clove, ¼ teaspoon ground black pepper,1 tablespoon plus 1 teaspoon brown (or white) sugar, and 2 teaspoons toasted sesame oil."
+        },
+        {
+          "tag": "li",
+          "text": "Mix well by hand."
+        },
+        {
+          "tag": "li",
+          "text": "Set aside, and let them marinate while we do the egg strips."
+        },
+        {
+          "tag": "h3",
+          "text": "Eggs:"
+        },
+        {
+          "tag": "li",
+          "text": "Crack 3 eggs in a bowl and add ¼ teaspoon kosher salt. Beat it with fork and remove the stringy chalaza."
+        },
+        {
+          "tag": "li",
+          "text": "Drizzle a few drops of oil on a heated 10 to 12 inch non-stick pan. Wipe off the excess with a paper towel so only a thin sheen of oil remains. Turn down the heat to low and pour the egg mixture into the pan. Spread it into a large circle so it fills the pan."
+        },
+        {
+          "tag": "li",
+          "text": "When the bottom of the egg is cooked, flip it over with a spatula. Remove from the heat and let it cook slowly in the hot pan for about 5 minutes, with the ultimate goal of keeping the egg as yellow as possible, and not brown."
+        },
+        {
+          "tag": "li",
+          "text": "Cut it into ½ inch wide strips. Put it next to the spinach on the platter."
+        },
+        {
+          "tag": "h3",
+          "text": "Finish steaks:"
+        },
+        {
+          "tag": "li",
+          "text": "Heat up a pan over medium high heat and cook the marinated beef, stirring it with a wooden spoon until well cooked."
+        },
+        {
+          "tag": "li",
+          "text": "Set aside."
+        },
+        {
+          "tag": "h3",
+          "text": "Let’s roll gimbap!"
+        },
+        {
+          "tag": "li",
+          "text": "Place a sheet of gim on a bamboo mat with the shiny side down. Evenly spread about ¾ cup of cooked rice over top of it, leaving about 2 inches uncovered on one side of the gim."
+        },
+        {
+          "tag": "li",
+          "text": "Place beef, carrot, yellow pickled radish strip, a few egg strips, and spinach in the center of the rice."
+        },
+        {
+          "tag": "li",
+          "text": "Use both hands to roll the mat (along with gim and rice) over the fillings, so one edge of the rice and gim reaches the opposite edge. This centers the fillings in the roll, so they’ll be nicely in the middle when you slice it."
+        },
+        {
+          "tag": "li",
+          "text": "Grab the mat with both hands and and press it tightly as you continue rolling the gimbap. Push out the mat as you roll, so it doesn’t get wrapped in the gimbap."
+        },
+        {
+          "tag": "li",
+          "text": "Remove the roll from the mat at the end and set the finished roll aside with the seam down, to seal it nicely."
+        },
+        {
+          "tag": "li",
+          "text": "Repeat 4 more times with the remaining ingredients."
+        },
+        {
+          "tag": "li",
+          "text": "Put some toasted sesame oil on the finshed rolls and sprinkle some sesame seeds over top. Cut each roll into ¼ inch bite size pieces with a sharp knife, occasionally wiping it with a wet paper towel or cloth to clean the starch off and to ease cutting."
+        },
+        {
+          "tag": "li",
+          "text": "Put it on a plate and serve immediately or pack it in a lunchbox."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

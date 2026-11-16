@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-nudel-schinken-gratin-mit-brokkoli",
+  "recipes": [
+    {
+      "name": "Veganes Nudel-Schinken-Gratin mit Brokkoli",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-nudel-schinken-gratin-mit-brokkoli",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-nudel-schinken-gratin-mit-brokkoli#recipe-a42e7f96-aec2-5245-bb2f-5400521b069d",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT55M",
+      "ingredients": [
+        "300 g Röhrennudeln (z. B. Rigatoni)",
+        "200 g Räuchertofu",
+        "0.5 Brokkoli",
+        "1 Zwiebel",
+        "300 ml pflanzliche Milch",
+        "250 ml pflanzliche Sahne",
+        "250 ml Wasser",
+        "200 g veganer Reibekäse",
+        "2 EL vegane Butter",
+        "Pflanzenöl zum Braten",
+        "Schnittlauch zum Servieren",
+        "Sojasoße",
+        "Salz",
+        "Pfeffer",
+        "Muskat"
+      ],
+      "instructions": [
+        "Räuchertofu in kleine Würfel schneiden. Kleine Röschen vom Brokkoli abschneiden und die Zwiebel schälen und fein würfeln.",
+        "Pflanzenöl in einer Pfanne erhitzen und die Räuchertofu-Würfel bei mittlerer Hitze ca. 3-4 Minuten anbraten. Einen Schuss Sojasoße dazugeben und noch weitere 1-2 Minuten anbraten, bis der Räuchertofu leicht knusprig ist. Danach beiseitestellen.",
+        "Parallel dazu gesalzenes Wasser aufkochen lassen und die Brokkoliröschen im siedenden Wasser ca. 2 Minuten blanchieren. Danach aus dem Wasser nehmen und mit kaltem Wasser abschrecken. Den blanchierten Brokkoli ebenfalls beiseitestellen.",
+        "Vegane Butter in einem Topf bei mittlerer Hitze schmelzen. Die Zwiebelwürfel darin anschwitzen, bis sie glasig sind. Danach pflanzliche Milch, pflanzliche Sahne und Wasser dazugeben, salzen und aufkochen lassen.",
+        "Sobald die Flüssigkeit kocht, Nudeln dazugeben und nach Packungsangabe al dente kochen. In der Zwischenzeit den Backofen schon mal auf 200°C vorheizen.",
+        "Den veganen Reibekäse dazugeben und einrühren, bis er geschmolzen ist. Die Nudeln in Soße mit Salz, Pfeffer und etwas Muskat abschmecken. Danach den Brokkoli und Räuchertofu untermengen.",
+        "Tipp: Wer mag, kann auch nur einen Teil des veganen Käses unter die Nudeln rühren und den restlichen veganen Käse als letzte Schicht auf den Auflauf streuen. Damit er besser schmilzt, solltet ihr ihn mit etwas Pflanzenöl vermengen.",
+        "Die Mischung in eine leicht eingefettete Auflaufform geben und bei 200°C (Ober- und Unterhitze) ca. 10-15 Minuten überbacken. Mit frisch gehacktem Schnittlauch bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

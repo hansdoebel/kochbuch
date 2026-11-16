@@ -1,0 +1,89 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/yangbaechu-kimchi",
+  "recipes": [
+    {
+      "name": "Emergency Kimchi (Yangbaechu-kimchi)",
+      "source_url": "https://www.maangchi.com/recipe/yangbaechu-kimchi",
+      "recipe_id": "/recipe/yangbaechu-kimchi#sso/recipe/12094",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "P0DT0H30M0S",
+      "ingredients": [
+        "Cabbage, kosher salt, Korean hot pepper flakes (gochugaru), fish sauce, sugar, garlic, green onions, and carrot."
+      ],
+      "instructions": [
+        "Cut 2 pounds of cabbage into thin strips about 2-3 inches in length and ¼ inch wide. Place into a large bowl.",
+        "Add 1 cup cold water and ¼ cup kosher salt. Mix it well with your hands to properly salt the cabbage.",
+        "Set aside for 10 minutes.",
+        "Make kimchi paste by mixing these ingredients in a bowl: ⅓ cup hot pepper flakes, 1 tbs sugar, ¼ cup fish sauce, ¼ cup minced garlic, 3-4 stalks of chopped green onion (⅓ cup worth), ¼ cup’s worth of julienned carrot",
+        "Wash and rinse the salted cabbage in cold water a couple of times. Drain the water.",
+        "Mix the kimchi paste into the cabbage thoroughly.",
+        "Put the kimchi into a container, jar, or plastic bag.",
+        "Press the top of the kimchi down with your hands to protect your kimchi from being exposed to too much air.",
+        "You can eat it right away, just like salad. Or keep it at room temperature and it will ferment in a few days. Fermented kimchi can be used for kimchi stir-fried rice or kimchi stew, and it will be delicious."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Cabbage, kosher salt, Korean hot pepper flakes (gochugaru), fish sauce, sugar, garlic, green onions, and carrot."
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Cut 2 pounds of cabbage into thin strips about 2-3 inches in length and ¼ inch wide. Place into a large bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Add 1 cup cold water and ¼ cup kosher salt. Mix it well with your hands to properly salt the cabbage."
+        },
+        {
+          "tag": "li",
+          "text": "Set aside for 10 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Make kimchi paste by mixing these ingredients in a bowl: ⅓ cup hot pepper flakes, 1 tbs sugar, ¼ cup fish sauce, ¼ cup minced garlic, 3-4 stalks of chopped green onion (⅓ cup worth), ¼ cup’s worth of julienned carrot"
+        },
+        {
+          "tag": "li",
+          "text": "Wash and rinse the salted cabbage in cold water a couple of times. Drain the water."
+        },
+        {
+          "tag": "li",
+          "text": "Mix the kimchi paste into the cabbage thoroughly."
+        },
+        {
+          "tag": "li",
+          "text": "Put the kimchi into a container, jar, or plastic bag."
+        },
+        {
+          "tag": "li",
+          "text": "Press the top of the kimchi down with your hands to protect your kimchi from being exposed to too much air."
+        },
+        {
+          "tag": "li",
+          "text": "You can eat it right away, just like salad. Or keep it at room temperature and it will ferment in a few days. Fermented kimchi can be used for kimchi stir-fried rice or kimchi stew, and it will be delicious."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

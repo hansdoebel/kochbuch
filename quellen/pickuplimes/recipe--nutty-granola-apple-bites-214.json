@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/nutty-granola-apple-bites-214",
+  "recipes": [
+    {
+      "name": "Nutty Granola Apple Bites",
+      "source_url": "https://www.pickuplimes.com/recipe/nutty-granola-apple-bites-214",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "16 wedges",
+      "prep_time": "PT10M",
+      "cook_time": "",
+      "total_time": "PT10M",
+      "ingredients": [
+        "2 apple",
+        "¼ cup hazelnut butter",
+        "¼ cup vegan granola",
+        "¼ tsp ground cinnamon",
+        "1.411 oz dairy-free dark chocolate"
+      ],
+      "instructions": [
+        "Lightly coat the apple wedges in hazelnut butter, then press the wedges into a plate of granola. Sprinkle cinnamon over the wedges.",
+        "Melt the chocolate in a microwave at 600W, stirring every 20 seconds until the chocolate is just fully melted. Be careful not to overheat.",
+        "Drizzle the wedges with melted dark chocolate. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We use 50 - 60% cocoa chocolate for a balanced sweetness. Darker varieties (70%+) can make the result too bitter.",
+    "Storage Best enjoyed when made. Store leftovers in an airtight container in the fridge for up to 1 day."
+  ]
+}

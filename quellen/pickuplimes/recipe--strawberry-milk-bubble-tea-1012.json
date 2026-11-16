@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/strawberry-milk-bubble-tea-1012",
+  "recipes": [
+    {
+      "name": "Strawberry Milk Bubble Tea",
+      "source_url": "https://www.pickuplimes.com/recipe/strawberry-milk-bubble-tea-1012",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT15M",
+      "total_time": "PT25M",
+      "ingredients": [
+        "1½ cup frozen strawberries",
+        "1 Tbsp granulated sugar",
+        "½ cup quick-cooking tapioca pearls",
+        "2 Tbsp agave syrup",
+        "⅔ cup unsweetened oat milk",
+        "2 Tbsp vegan whipping cream",
+        "1 tsp pure vanilla extract",
+        "2 cup ice cubes"
+      ],
+      "instructions": [
+        "To a saucepan, add the frozen strawberries and sugar. Cook over medium heat until the strawberries have thawed. Use the back of a spoon to lightly mash the strawberries.",
+        "Remove the pan from the stove and use an immersion blender or standing blender to purée the strawberries. Set aside to cool.",
+        "Cook the tapioca pearls according to the package instructions. For us, this took 5 minutes.",
+        "Drain the tapioca pearls, and rinse under cold water to stop the cooking process. Add the pearls to a bowl and mix in the agave syrup.",
+        "In a pitcher, combine the oat milk, whipping cream, and vanilla.",
+        "Divide the tapioca pearls between your glasses, and spoon some of the strawberry purée over the pearls.",
+        "Top with ice, followed by the vanilla cream milk. Finish with some fresh strawberries if desired. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based milk that is fortified with calcium .",
+    "Storage This bubble tea is best enjoyed immediately. The strawberry purée can be stored in an airtight container in the fridge for up to 1 day. The vanilla cream milk can be stored in the fridge for up to 3 days."
+  ]
+}

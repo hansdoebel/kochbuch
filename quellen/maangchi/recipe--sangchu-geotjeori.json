@@ -1,0 +1,123 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/sangchu-geotjeori",
+  "recipes": [
+    {
+      "name": "Korean lettuce salad (Sangchu-geotjeori)",
+      "source_url": "https://www.maangchi.com/recipe/sangchu-geotjeori",
+      "recipe_id": "/recipe/sangchu-geotjeori#sso/recipe/65150",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 bunch (about ½ pound: 8-9 ounces ) green or red leaf lettuce",
+        "2 garlic cloves, minced",
+        "1 green onion, chopped",
+        "¼ cup worth onion, sliced thinly",
+        "2 tablespoons soy sauce",
+        "1 teaspoon fish sauce (or salt)",
+        "1 teaspoon sugar",
+        "1 tablespoon white vinegar",
+        "2 tablespoons Korean hot pepper flakes (gochugaru)",
+        "1 tablespoon toasted sesame oil",
+        "1 tablespoon toasted sesame seeds"
+      ],
+      "instructions": [
+        "Wash and drain the lettuce. Shake the lettuce to remove excess water.",
+        "Tear the lettuce into bite size pieces and set aside.",
+        "Combine garlic, green onion, onion, soy sauce, fish sauce, sugar, vinegar, hot pepper flakes, and toasted sesame oil in a large mixing bowl and mix it well until the sugar is well dissolved.",
+        "Add the lettuce to the seasoning mixture and mix it gently by hand.",
+        "Sprinkle with the sesame seeds and serve it right away as a side dish for rice."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 4"
+        },
+        {
+          "tag": "li",
+          "text": "1 bunch (about ½ pound: 8-9 ounces ) green or red leaf lettuce"
+        },
+        {
+          "tag": "li",
+          "text": "2 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "1 green onion, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup worth onion, sliced thinly"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon fish sauce (or salt)"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon sugar"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon white vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons Korean hot pepper flakes (gochugaru)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon toasted sesame seeds"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Wash and drain the lettuce. Shake the lettuce to remove excess water."
+        },
+        {
+          "tag": "li",
+          "text": "Tear the lettuce into bite size pieces and set aside."
+        },
+        {
+          "tag": "li",
+          "text": "Combine garlic, green onion, onion, soy sauce, fish sauce, sugar, vinegar, hot pepper flakes, and toasted sesame oil in a large mixing bowl and mix it well until the sugar is well dissolved."
+        },
+        {
+          "tag": "li",
+          "text": "Add the lettuce to the seasoning mixture and mix it gently by hand."
+        },
+        {
+          "tag": "li",
+          "text": "Sprinkle with the sesame seeds and serve it right away as a side dish for rice."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

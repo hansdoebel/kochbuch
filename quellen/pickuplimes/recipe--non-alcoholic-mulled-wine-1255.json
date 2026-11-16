@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/non-alcoholic-mulled-wine-1255",
+  "recipes": [
+    {
+      "name": "Non-Alcoholic Mulled Wine",
+      "source_url": "https://www.pickuplimes.com/recipe/non-alcoholic-mulled-wine-1255",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT05M",
+      "cook_time": "PT20M",
+      "total_time": "PT25M",
+      "ingredients": [
+        "2½ cup merlot grape juice",
+        "1 cup pomegranate juice",
+        "½ cup cranberry juice",
+        "1 orange",
+        "2 tsp pomegranate molasses",
+        "2 cinnamon stick",
+        "6 whole clove",
+        "3 star anise",
+        "3 cardamom pod"
+      ],
+      "instructions": [
+        "Add all of the ingredients to a large pot over medium-high heat.",
+        "Partially cover and let simmer for 20 minutes.",
+        "Strain into your favourite cups, garnish as desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Aim to purchase juices that are 100% fruit juice only, without added sugars, if possible.",
+    "Storage When cooled completely, the mulled \"wine\" can be stored in the fridge for up to 3 days."
+  ]
+}

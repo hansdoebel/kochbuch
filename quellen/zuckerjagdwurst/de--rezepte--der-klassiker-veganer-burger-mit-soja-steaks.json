@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/der-klassiker-veganer-burger-mit-soja-steaks",
+  "recipes": [
+    {
+      "name": "Veganer Burger mit Soja-Steaks",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/der-klassiker-veganer-burger-mit-soja-steaks",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/der-klassiker-veganer-burger-mit-soja-steaks#recipe-efb0c373-b5ec-5648-a1d9-58343b5acd85",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Burger",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "2 helle Sesambrötchen",
+        "6 Sojasteaks",
+        "1/4 Eisbergsalat",
+        "4 Gewürzgurken",
+        "1 Tomate",
+        "1 Rote Zwiebel",
+        "1 kleiner Apfel",
+        "MARINADE FÜR DIE SOJASTEAKS",
+        "2 EL Senf",
+        "1 EL Sojasoße",
+        "1 EL Agavendicksaft",
+        "Salz",
+        "Pfeffer",
+        "SAUCEN",
+        "4 EL Mayo (Rezept auf dem Blog, 2 EL pro Burger)",
+        "4 EL BBQ Sauce (2 EL pro Burger)"
+      ],
+      "instructions": [
+        "Nehmt euch eine Schüssel und legt die trockenen Soja-Steaks hinein. Übergießt das ganze mit heißem Wasser, bis die Soja-Steaks bedeckt sind und lasst das ganze mindestens 10 Minuten ziehen. Danach gießt ihr das Wasser ab und drückt das restliche Wasser kräftig aus den Steaks aus. Von beiden Seiten mit Salz und Pfeffer würzen.",
+        "Alle Zutaten für die Marinade verrühren und die Steaks damit einschmieren. Die Marinade mindestens 10 Minuten einziehen lassen.",
+        "In einer großen Pfanne 2 EL Öl erhitzen und die marinierten Steaks darin von beiden Seiten anbraten.",
+        "In der Zwischenzeit Eisbergsalat waschen und in feine Streifen schneiden. Gewürzgurken in Scheiben schneiden. Tomate und Apfel ebenfalls waschen und in Scheiben schneiden. Die rote Zwiebel schälen und in feine Ringe schneiden.",
+        "Halbiert die Sesambrötchen längs und lasst sie im Toaster oder in der Pfanne kurz rösten.",
+        "Nun geht's ans Stapeln: Die Burgerbrot-Hälften je mit veganer Mayo und BBQ Sauce bestreichen. Danach mit Soja-Steaks, Salat, Apfel-, Gurken- & Tomatenscheiben belegen und die Zwiebelringe nicht vergessen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

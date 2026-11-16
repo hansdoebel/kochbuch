@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gebrannte-linsensuppe-mit-wienern",
+  "recipes": [
+    {
+      "name": "Vegane Linsensuppe mit Wienern",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gebrannte-linsensuppe-mit-wienern",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gebrannte-linsensuppe-mit-wienern#recipe-a1ae5693-2450-5d3f-9397-194f532c9b60",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 kleine Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "100 g Tellerlinsen",
+        "ca 750 ml Wasser",
+        "2 EL Mehl",
+        "2 EL vegane Butter",
+        "100 ml Delikatessbrühe",
+        "2 EL Essig",
+        "160 g Vegane Wiener Würstchen"
+      ],
+      "instructions": [
+        "Die Tellerlinsen in einen Topf geben, mit ca. 600 ml oder mehr Wasser bedecken und abkochen. Danach die Linsen abgießen, aber unbedingt das Wasser behalten!",
+        "Ein kleinen Topf mit der Butter erhitzen. 2 EL Mehl dazugeben und ganz dunkel einbrennen lassen. Das kann bis zu 10 Minuten dauern, es sollte wirklich fast vor schwarz sein. Die ganze Zeit rühren!",
+        "Mit Linsenbrühe ablöschen. Die Linsen wieder dazu geben und mit Delikatessbrühe auffüllen.",
+        "Zum Schluss einen Schluss Essig dazugeben."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

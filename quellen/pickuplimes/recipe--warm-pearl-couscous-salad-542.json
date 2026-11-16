@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/warm-pearl-couscous-salad-542",
+  "recipes": [
+    {
+      "name": "Warm Pearl Couscous Salad",
+      "source_url": "https://www.pickuplimes.com/recipe/warm-pearl-couscous-salad-542",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT08M",
+      "cook_time": "PT17M",
+      "total_time": "PT25M",
+      "ingredients": [
+        "1 cup pearl couscous",
+        "2 tsp olive oil",
+        "2 cup cooked chickpeas",
+        "2 cup cherry tomatoes",
+        "½ tsp salt",
+        "¼ tsp ground black pepper",
+        "½ cucumber",
+        "¼ cup black olives",
+        "3 Tbsp fresh mint leaves",
+        "3 Tbsp fresh basil leaves",
+        "2 Tbsp fresh parsley",
+        "¼ cup unsalted roasted almonds",
+        "3 Tbsp extra-virgin olive oil",
+        "3 Tbsp red wine vinegar",
+        "½ lemon",
+        "¼ tsp sweet paprika powder"
+      ],
+      "instructions": [
+        "Cook the couscous according to the package instructions, then drain.",
+        "Meanwhile, drizzle oil in a medium pan over medium-high heat. When hot, add the chickpeas, tomatoes, salt, and pepper. Cook for 5 to 7 minutes, stirring occasionally. Remove from the heat.",
+        "In a small bowl, mix together the ingredients for the dressing.",
+        "To a large bowl, add the drained couscous, tomato and chickpea mixture, cucumber slices, olives, and fresh herbs. Add the dressing, toss to combine, spinkle over the almonds, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage The salad can be stored in an airtight container in the fridge separate from the dressing for up to 3 days. Combine the dressing and salad when ready to enjoy."
+  ]
+}

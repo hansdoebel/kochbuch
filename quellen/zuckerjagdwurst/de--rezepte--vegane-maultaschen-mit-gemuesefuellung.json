@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-maultaschen-mit-gemuesefuellung",
+  "recipes": [
+    {
+      "name": "Vegane Maultaschen mit Gemüsefüllung",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-maultaschen-mit-gemuesefuellung",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-maultaschen-mit-gemuesefuellung#recipe-bc3455a5-525e-56e7-8f8d-df3439b230fe",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "3-4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Für den Teig:",
+        "200 g Hartweizengrieß",
+        "200 g Weizenmehl (Typ 405)",
+        "ca. 150 ml Wasser",
+        "50 ml Olivenöl",
+        "1 TL Salz",
+        "Für die Füllung:",
+        "300 g mehligkochende Kartoffeln",
+        "2 Zwiebeln",
+        "100 g Lauch",
+        "20 g Petersilie",
+        "150 g Räuchertofu",
+        "0.5 helles Brötchen",
+        "100 g Shiitake Pilze (aus der Dose)",
+        "2 EL Hefeflocken",
+        "1 TL Muskatnuss",
+        "1 EL Delikatessbrühe",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "pflanzliche Milch/Wasser"
+      ],
+      "instructions": [
+        "Für den Maultaschenteig Hartweizengrieß, Mehl, Wasser, Olivenöl und Salz in einer großen Schüssel zu einem homogenen Teig verkneten. Wenn der Teig nicht geschmeidig wird, mehr Wasser und Öl hinzugeben. Für eine Stunde im Kühlschrank ruhen lassen.",
+        "Einen Topf mit gesalzenem Wasser zum Kochen bringen. Kartoffeln schälen, in kleine Würfel schneiden und im Wasser etwa 8–10 Minuten kochen, bis sie weich sind. Die Kartoffelstücke abgießen, ausdampfen lassen und mit einem Kartoffelstampfer zerdrücken.",
+        "In der Zwischenzeit Zwiebeln schälen und Lauch und Petersilie waschen. Lauch, Räuchertofu und das halbe Brötchen grob zerkleinern. In einer Pfanne Pflanzenöl erhitzen und Zwiebeln, Lauch, Räuchertofu und Shiitake Pilze darin gut anbraten.",
+        "In einem Zerkleinerer nun alle Zutaten für die Füllung geben: die gekochten Kartoffeln, Zwiebeln, Lauch, Räuchertofu, Shiitake Pilze, Brötchen, Petersilie, Hefeflocken, Muskatnuss, Delikatessbrühe, Salz und Pfeffer. Die Füllung so lange zerkleinern, bis eine streichfähige Masse entsteht. Wenn etwas Flüssigkeit fehlt, einfach nach und nach etwas Gemüsebrühe hinzugeben. Mit Salz und Pfeffer abschmecken.",
+        "Einen großen Topf mit Gemüsebrühe zum Kochen bringen. Den Teig aus dem Kühlschrank nehmen und auf einer bemehlten Unterfläche zu einem großen Rechteck dünn ausrollen (30 x 50 cm). Das Rechteck horizontal halbieren, sodass zwei lange Teigbahnen entstehen.",
+        "Auf beiden Teigbahnen die Füllung dünn verstreichen und dabei einen Rand zu einer Seite lassen. Den Teig an dieser Stelle mit pflanzlicher Milch oder Wasser bestreichen und horizontal jede Bahn von unten nach oben maximal dreimal einklappen.",
+        "Mit dem Griff eines Holzlöffels Kerben in die Rolle drücken, sodass aus jeder Teigbahn kleine Maultaschen entstehen. Mit einer Teigkarte oder einem Messer die Maultaschen voneinander trennen und die Enden aller Maultaschen gründlich mit Daumen und Zeigefinger zusammendrücken.",
+        "Tipp: Die Maultaschen nicht öfter als dreimal überschlagen. Sonst werden sie zu hoch und platzen beim Kochen auf.",
+        "Die Maultaschen nacheinander in die Gemüsebrühe geben und bei mittlerer Temperatur (das Wasser sollte nur leicht sieden) etwa 15 Minuten garen. Im Anschluss mit Brühe servieren.",
+        "Tipp: Die Maultaschen kann man anschließend auch abtropfen lassen, in der Pfanne anbraten und z. B. mit Salat servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

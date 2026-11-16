@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/selbstgemachte-gemuesebruehe",
+  "recipes": [
+    {
+      "name": "Selbstgemachte Gemüsebrühe",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/selbstgemachte-gemuesebruehe",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/selbstgemachte-gemuesebruehe#recipe-3fe972c3-6a62-57f3-8f44-87928e34004f",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "2 Möhren",
+        "2 Zwiebeln",
+        "2 Selleriestangen",
+        "4 Pilze",
+        "3 Kartoffeln",
+        "3 Zweige Thymian",
+        "3 Zweige Rosmarin",
+        "2 Knoblauchzehen",
+        "1 EL Salz"
+      ],
+      "instructions": [
+        "Wascht euer Gemüse und schneidet es klein. Ihr könnt dafür auch die Schale dran lassen.",
+        "Die kleinen Gemüsestücken gebt ihr zusammen mit den Kräutern und Salz in einen großen Topf und füllt soviel Wasser auf, bis alles bedeckt ist.",
+        "Lasst das ganze aufkochen und danach mindestens 30 Minuten auf mittlerer Stufe köcheln.",
+        "Danach gießt ihr das Wasser durch ein Sieb in ein Gefäß ab und schon habt ihr Gemüsebrühe!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

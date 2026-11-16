@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kokos-panna-cotta-mit-erdbeeren",
+  "recipes": [
+    {
+      "name": "Vegane Kokos-Panna-Cotta mit Erdbeeren",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kokos-panna-cotta-mit-erdbeeren",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kokos-panna-cotta-mit-erdbeeren#recipe-117bac4b-9a45-5dbb-984c-3758efbc662a",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "Panna Cotta",
+        "1 Dose Kokosmilch und daraus 200 g Kokosmilch-Creme (die dicke Schicht einer Kokosmilch-Dose)",
+        "300 g pflanzliche Kokosnussmilch (aus dem Milchkarton)",
+        "40 g Agavendicksaft",
+        "3 g Agar-Agar",
+        "5 g Tapiokastärke",
+        "Zusätzlich",
+        "300 g frische Erdbeeren",
+        "100 g Mandelscheiben"
+      ],
+      "instructions": [
+        "Die pflanzliche Kokosnussmilch (aus dem Milchkarton) in einem kleinen Topf erhitzen. 200 g der dicken Schicht einer Dose Kokosnussmilch hinzugeben und verrühren.",
+        "Agavendicksaft, Agar-Agar und Tapiokastärke hinzugeben. Gut verrühren und für 2-3 Minuten köcheln lassen.",
+        "Das Panna Cotta auf 4 oder 6 kleine Gläser/Förmchen verteilen. Komplett abkühlen lassen und anschließend für mindestens 3 Stunden (besser über Nacht) im Kühlschrank erkalten lassen.",
+        "Kurz vor dem Servieren die frischen Erdbeeren vom Strunk befreien, waschen und pürieren. Die Erdbeersauce auf den Förmchen verteilen.",
+        "In einer Pfanne ohne Öl Mandelscheiben rösten und das Panna Cotta damit dekorieren und direkt servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,107 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/kkaennip-kimchi",
+  "recipes": [
+    {
+      "name": "Perilla leaf kimchi (Kkaennip-kimchi)",
+      "source_url": "https://www.maangchi.com/recipe/kkaennip-kimchi",
+      "recipe_id": "/recipe/kkaennip-kimchi#sso/recipe/3266",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Perilla leaves (135 grams: about 3 cups)",
+        "3 tbs fish sauce",
+        "¼ cup of onion",
+        "4 cloves of garlic",
+        "2 stalks of green onion",
+        "1 ts honey",
+        "1-2 tbs Korean hot pepper flakes (gochugaru)",
+        "roasted toasted sesame seeds",
+        "carrot (2 tbs)"
+      ],
+      "instructions": [
+        "Wash and drain 135 grams (about 3 cups) of perilla leaves and put them into a basket. *tip: wash both sides of each leaf in running cold water and shake to drain water",
+        "Next, let’s make kimchi paste! Put these ingredients in a bowl and mix them together with spoon: 4 cloves minced garlic, 2 chopped green onions, ¼ cup amount of sliced onion, 2 tbs of carrot cut into matchsticks, 3 tbs fish sauce, 1 -2 tbs hot pepper flakes, 1 ts honey.",
+        "Spread some paste between the leaves. *tip: You don’t need to put paste on every leave but every 2 leaves"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "li",
+          "text": "Perilla leaves (135 grams: about 3 cups)"
+        },
+        {
+          "tag": "li",
+          "text": "3 tbs fish sauce"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup of onion"
+        },
+        {
+          "tag": "li",
+          "text": "4 cloves of garlic"
+        },
+        {
+          "tag": "li",
+          "text": "2 stalks of green onion"
+        },
+        {
+          "tag": "li",
+          "text": "1 ts honey"
+        },
+        {
+          "tag": "li",
+          "text": "1-2 tbs Korean hot pepper flakes (gochugaru)"
+        },
+        {
+          "tag": "li",
+          "text": "roasted toasted sesame seeds"
+        },
+        {
+          "tag": "li",
+          "text": "carrot (2 tbs)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Wash and drain 135 grams (about 3 cups) of perilla leaves and put them into a basket. *tip: wash both sides of each leaf in running cold water and shake to drain water"
+        },
+        {
+          "tag": "li",
+          "text": "Next, let’s make kimchi paste! Put these ingredients in a bowl and mix them together with spoon: 4 cloves minced garlic, 2 chopped green onions, ¼ cup amount of sliced onion, 2 tbs of carrot cut into matchsticks, 3 tbs fish sauce, 1 -2 tbs hot pepper flakes, 1 ts honey."
+        },
+        {
+          "tag": "li",
+          "text": "Spread some paste between the leaves. *tip: You don’t need to put paste on every leave but every 2 leaves"
+        },
+        {
+          "tag": "p",
+          "text": "Now you made kkaennip-kimchi! Gratz! : ) Put the kimchi in a container and keep it in the refrigerator."
+        },
+        {
+          "tag": "p",
+          "text": "Serve with rice and sprinkle some roasted sesame seeds before serving."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

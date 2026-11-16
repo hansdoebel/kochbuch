@@ -1,0 +1,44 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/the-christmas-crinkle-cookie",
+  "recipes": [
+    {
+      "name": "Christmas Crinkle Cookies",
+      "source_url": "https://app.cookwell.com/recipe/the-christmas-crinkle-cookie",
+      "recipe_id": "https://app.cookwell.com/recipe/the-christmas-crinkle-cookie",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "Makes 48 small cookies",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT1H45M",
+      "ingredients": [
+        "Butter, 113 g",
+        "Sugar, 400 g",
+        "Eggs, 3 whole eggs",
+        "Vanilla Extract, 6 g",
+        "Unsweetened Chocolate, 113 g",
+        "Flour, 275 g",
+        "Baking Powder, 8 g",
+        "Salt, 3 g",
+        "Powdered Sugar, ~60 g"
+      ],
+      "instructions": [
+        "In a large bowl, beat the softened butter and sugar with a whisk or hand mixer until fluffy. Add the eggs and vanilla and whisk thoroughly for 2-3 minutes or until well combined.",
+        "Melt the chocolate completely using your preferred method. You can gently microwave it in a heat-proof vessel, stirring every 30 seconds, or use a double boiler on the stove. Take care not to burn your chocolate. You just need it melted through. Scrape the melted chocolate into the bowl with a spatula then mix it thoroughly into the batter.",
+        "Combine the flour, baking powder, and salt and add to the bowl. Mix well with a spatula until the dough is cohesive. Place a cover on the dough and refrigerate the dough for at least 1 hour. The dough can keep in the fridge for several days.",
+        "When you are almost ready to bake, take the cookies out of the fridge. Preheat the oven to 350°F/176°C. Sift the powdered confectioner's sugar into a bowl or baking dish, and set to the side. Using a scoop, portion the dough into 20-gram pieces, which will make about 4 dozen cookies. Feel free to make them larger 40-gram cookies instead, which will yield 2 dozen. Note: In my tests, I found the ideal temperature of the dough for rolling is 50°F/10°C. If it is too cold, leave it on the counter for a bit before rolling. Roll the dough into 1-inch balls, then toss each in the sifted confectioner's sugar until fully coated (no bare spots). Place the rolled, dusted cookies on parchment-lined cookie sheets.",
+        "Slide the cookies into the 350°F/176°C oven and bake for 10 minutes. The tops of cookies will crack or crinkle as they flatten. After 10 minutes, check the temperature of a cookie with a thermometer, which should be between 175-185°F/79-87°C. They might need a few extra minutes to get there. When the cookies have reached this internal temperature, pull them out of the oven. They will be soft and gooey at this stage. Let them cool completely on the baking sheet so they firm up.",
+        "While these can be enjoyed right away, they get better as they rest for a day or two, and keep well in an airtight container for at least a week. For a bonus treat, try making an ice cream cookie sandwich with mint chocolate chip ice cream!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

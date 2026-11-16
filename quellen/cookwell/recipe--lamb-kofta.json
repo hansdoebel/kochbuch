@@ -1,0 +1,57 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/lamb-kofta",
+  "recipes": [
+    {
+      "name": "Lamb Kofta",
+      "source_url": "https://app.cookwell.com/recipe/lamb-kofta",
+      "recipe_id": "https://app.cookwell.com/recipe/lamb-kofta",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT35M",
+      "ingredients": [
+        "Ground lamb , 454 g",
+        "Salt, 7 g",
+        "Garlic, 1 clove",
+        "Parsley, 1 handful",
+        "Kofta spice mix, 1 spoonful",
+        "Onions, 1/4",
+        "Cumin, 2 parts",
+        "Chili Powder, 1 part",
+        "Paprika, 1 part",
+        "Fresh oregano, 1 part",
+        "Ground cinnamon, a sprinkle",
+        "Yogurt, 2 parts",
+        "Garlic, 1",
+        "Lemon juice, 1/2 part",
+        "Salt, a sprinkle",
+        "Black Pepper, a sprinkle",
+        "Sumac, a sprinkle",
+        "Lemon zest, a sprinkle",
+        "Lavash bread",
+        "Tomatoes",
+        "Arugula",
+        "Pickled onions",
+        "Feta"
+      ],
+      "instructions": [
+        "Place the cumin, chili powder, paprika, oregano, and ground cinnamon in a small bowl or container and mix it all together. Note: If you have extra, keep this spice mix in a jar and use it in the future as a Mediterranean blend.",
+        "Add the ground lamb to a bowl and add the salt. Note: the meat should get 1.5% of salt by meat weight For the aromatics, grate in the onion, garlic clove and parsley. Lastly, add a spoonful of the kofta spice mixture. Mix the meat together with your hands for 2-3 minutes or until it becomes a cohesive mass and sticks together.",
+        "Add a splash of water to your hands to keep the meat from sticking while forming. Start by forming a small handful of the meat into a small oval. Continue doing this until you run out of meat. Set a griddle or cast iron pan over medium heat. Sear on each side for 2-3 minutes until a nice browning forms and they are cooked through.",
+        "While the meat is searing, put the yogurt, lemon zest, lemon juice, garlic clove, salt, pepper and sumac in a small bowl and mix together. Taste and adjust as needed.",
+        "Once a nice brown crust has formed on the kofta, pull it off the heat. Let them cool for a minute while you prep the remaining fresh components. For serving, spread some yogurt sauce over a piece of lavash bread. Next, add the kofta, pickled onions, chopped tomatoes, arugula and more yogurt sauce. Wrap it up and toss it back on the griddle to toast it up a little. Enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

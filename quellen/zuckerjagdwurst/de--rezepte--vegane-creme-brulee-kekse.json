@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-creme-brulee-kekse",
+  "recipes": [
+    {
+      "name": "Vegane Creme Brûlée Kekse",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-creme-brulee-kekse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-creme-brulee-kekse#recipe-0af1c261-4f6f-5a0d-bd64-df4ab97a1bc9",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "15 Kekse",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT53M",
+      "ingredients": [
+        "Für die Zimt-Schoko-Kekse:",
+        "150 g Weizenmehl (Type 405)",
+        "100 g vegane Butter",
+        "50 g Zucker",
+        "1 TL Zimt",
+        "1 EL Backkakao",
+        "Für die Vanillecreme:",
+        "1 Vanilleschote",
+        "125 ml Erbsen- oder Sojamilch",
+        "15 g Weizenmehl (Type 405)",
+        "15 g Zucker",
+        "60 ml neutrales Pflanzenöl",
+        "1 Prise Salz",
+        "1 Prise Kurkuma",
+        "1 Prise Kala Namak",
+        "Für die Zuckerschicht:",
+        "3–4 EL weißer Zucker",
+        "Flambierbrenner"
+      ],
+      "instructions": [
+        "Weizenmehl, vegane Butter, Zucker, Zimt und Backkakao in einer großen Schüssel mit kalten Händen verkneten, bis ein geschmeidiger Teig entsteht. Den Teig circa 30 Minuten im Kühlschrank ruhen lassen.",
+        "In der Zwischenzeit die Vanillecreme zubereiten. Dafür die Vanilleschote längs aufschneiden und das Vanillemark vorsichtig mit dem Messerrücken herauskratzen. Pflanzliche Milch, Mehl, Zucker, Pflanzenöl und Vanillemark in einem Topf glatt rühren und bei mittlerer Hitze aufkochen lassen. Dabei ständig mit einem Rührbesen verrühren, sodass die Creme nicht anbrennt. Sobald sie andickt, vom Herd nehmen und Salz, Kurkuma und Kala Namak unterrühren.",
+        "Den Ofen auf 180 °C (Umluft) vorheizen. Eine Arbeitsfläche mit Mehl bestäuben und den Teig circa 5 mm dick ausrollen. Kreise ausstechen, den überschüssigen Teig wieder ausrollen und weiter ausstechen, bis er aufgebraucht ist. Den Teig auf ein mit Backpapier vorbereitetes Backblech legen und circa 8–10 Minuten backen. Die Kekse im Anschluss komplett abkühlen lassen.",
+        "Die Vanillecreme in eine Spritztülle füllen und auf den Keksen verteilen. Erst kurz vor dem Servieren 1 Teelöffel weißen Zucker gleichmäßig auf jedem Keks verteilen und mit einem Flambierbrenner den Zucker karamellisieren lassen. Direkt servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

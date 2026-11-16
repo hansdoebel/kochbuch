@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-baerlauchspaetzle-mit-feta-und-speck",
+  "recipes": [
+    {
+      "name": "Vegane Bärlauchspätzle mit Feta & Speck",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-baerlauchspaetzle-mit-feta-und-speck",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-baerlauchspaetzle-mit-feta-und-speck#recipe-5e472336-9588-5303-a33d-d4a47cc623b3",
+      "authors": [
+        "Team"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für den Spätzleteig:",
+        "150 g Bärlauch",
+        "200 ml Sprudelwasser",
+        "2 TL neutrales Pflanzenöl",
+        "200 g Weizenmehl (Type 405)",
+        "3 EL Hartweizengrieß",
+        "2 EL Speisestärke",
+        "2 TL Salz",
+        "1 Prise Kala Namak",
+        "Zum Servieren:",
+        "2 Schalotten",
+        "75 g veganer Feta auf Mandelbasis",
+        "3–4 EL vegane Butter",
+        "90 g veganer Speck (in Würfeln)",
+        "Röstzwiebeln",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Den Bärlauch waschen und mit Sprudelwasser und Pflanzenöl glatt pürieren. Weizenmehl, Hartweizengrieß, Speisestärke, Salz und eine Prise Kala Namak in einer großen Schüssel vermischen und den pürierten Bärlauch hinzugeben und zu einem Teig verrühren.",
+        "Einen großen Topf mit gesalzenem Wasser erhitzen, aber nicht zum Kochen bringen. 2 EL pflanzliches Öl zum Wasser geben.",
+        "Den Spätzleteig mithilfe einer Spätzlepresse in das Wasser geben und abschöpfen, sobald sie an der Oberfläche schwimmen.",
+        "Tipp: Wer keine Spätzlepresse hat, der kann auch eine Teigkarte (oder ein scharfes Messer) und ein Holzbrett verwenden. Ihr findet dazu viele hilfreiche Videos im Internet.",
+        "In der Zwischenzeit die Schalotten fein würfeln und den Mandelfeta grob zerbröseln. In einer großen Pfanne die vegane Butter schmelzen und die Schalottenwürfel darin anschwitzen. Die abgetropften Spätzle ebenfalls hinzugeben und 3–4 Minuten darin schwenken. Die Spätzle aus der Pfanne nehmen und den veganen Speck ebenfalls für 3–4 Minuten anbraten.",
+        "Die veganen Bärlauchspätzle mit Mandelfeta, veganen Speckwürfeln und Röstzwiebeln servieren. Nach Geschmack salzen und pfeffern."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

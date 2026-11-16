@@ -1,0 +1,43 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/chicken-mozzarella-and-roasted-pepper-pasta",
+  "recipes": [
+    {
+      "name": "One-Pot Chicken, Mozzarella, & Roasted Pepper Pasta",
+      "source_url": "https://app.cookwell.com/recipe/chicken-mozzarella-and-roasted-pepper-pasta",
+      "recipe_id": "https://app.cookwell.com/recipe/chicken-mozzarella-and-roasted-pepper-pasta",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Dried pasta, 170 g",
+        "Water, as needed",
+        "Salt, to taste",
+        "Black Pepper, a sprinkle",
+        "Tomato Paste, 30 g",
+        "Red Pepper Flakes, a sprinkle",
+        "Rosemary, a sprinkle",
+        "Cooked chicken, 200 g",
+        "Roasted peppers, 100 g",
+        "Mozzarella pearls, 100 g",
+        "Parsley, for garnish"
+      ],
+      "instructions": [
+        "Boil some water in an electric kettle or warm it up in the microwave. Add the dried pasta to the wok or large pasta pan and barely cover it with water. It should come to a boil quickly. Cook the pasta until al dente, adding more liquid if needed. By the end, the pasta should be cooked through, and the water should be reduced to a sauce-like consistency.",
+        "Turn the heat to low and add the tomato paste, red pepper flakes, rosemary, and ten cranks of black pepper. Stir until the sauce comes together. To thicken, cook it down more by reducing it or use a cornstarch slurry instead.",
+        "Once thickened to your liking, add leftover chicken, roasted peppers, mozzarella, and parsley. Stir to combine. Taste and adjust as needed. Serve and enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

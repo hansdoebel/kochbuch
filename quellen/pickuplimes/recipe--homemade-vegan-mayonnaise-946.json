@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/homemade-vegan-mayonnaise-946",
+  "recipes": [
+    {
+      "name": "Homemade Vegan Mayonnaise",
+      "source_url": "https://www.pickuplimes.com/recipe/homemade-vegan-mayonnaise-946",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "7 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "¼ cup aquafaba",
+        "1 tsp fresh lemon juice",
+        "1 tsp Dijon mustard",
+        "1 pinch salt",
+        "¾ cup grapeseed oil"
+      ],
+      "instructions": [
+        "Use a wide-mouthed jar that has an opening that is just wider than the head of your immersion blender. Add all the ingredients to the mason jar, but take care to add them in the order listed, starting with the aquafaba and ending with the oil.",
+        "Place the blades of the blender on the bottom of the jar, turn it on and let it sit on the bottom of the jar until the mixture turns into a white and creamy sauce.",
+        "Very slowly lift your immersion blender to the top. Take your time with this, as the mayo will thicken while you’re moving upwards. Once you’ve reached the top, turn off your immersion blender and you’re done.",
+        "Your mayonnaise can now be enjoyed on sandwiches, burgers, or with some crispy (sweet) potato fries! You can change it up and add a crushed or roasted garlic clove to turn this mayo into a garlic mayo. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Aquafaba is the liquid from a jar or can of chickpeas. † For this recipe, a neutral-tasting oil is recommended.",
+    "Storage The mayonnaise can be stored in an airtight container in the fridge for up to 2 weeks."
+  ]
+}

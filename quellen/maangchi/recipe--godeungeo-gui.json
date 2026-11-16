@@ -1,0 +1,144 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/godeungeo-gui",
+  "recipes": [
+    {
+      "name": "Grilled mackerel (Godeungeo-gui)",
+      "source_url": "https://www.maangchi.com/recipe/godeungeo-gui",
+      "recipe_id": "/recipe/godeungeo-gui#sso/recipe/8352",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 mackerel (1¼ pound or about 600 grams), kosher salt, vegetable oil, flour."
+      ],
+      "instructions": [
+        "Remove the guts from the fish – watch the video to see how.",
+        "Rinse the fish in cold water and drain.",
+        "Cut it in half crosswise.",
+        "Sprinkle 1½ tbs kosher salt evenly on both sides of each piece of fish. *tip: The amount of salt depends on your taste",
+        "Keep it in the refrigerator for at least 30 minutes before cooking.",
+        "Coat both sides of fish with flour.",
+        "Heat up the pan and add 2 tbs vegetable oil.",
+        "Cook the fish for 3 minutes over medium high heat, until golden brown.",
+        "Turn it over with a spatula and cook for 7 minutes over low heat.",
+        "Turn it over and cook for 1-2 more minutes before transferring it to a plate.",
+        "Serve with rice",
+        "Preheat the oven and set it broil.",
+        "Rub some vegetable oil on both sides of the fish.",
+        "Broil on the bottom rack of the oven for 10-12 minutes.",
+        "Turn it over and cook 4-5 more minutes, until golden brown.",
+        "Serve with rice"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "1 mackerel (1¼ pound or about 600 grams), kosher salt, vegetable oil, flour."
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Remove the guts from the fish – watch the video to see how."
+        },
+        {
+          "tag": "li",
+          "text": "Rinse the fish in cold water and drain."
+        },
+        {
+          "tag": "li",
+          "text": "Cut it in half crosswise."
+        },
+        {
+          "tag": "li",
+          "text": "Sprinkle 1½ tbs kosher salt evenly on both sides of each piece of fish. *tip: The amount of salt depends on your taste"
+        },
+        {
+          "tag": "li",
+          "text": "Keep it in the refrigerator for at least 30 minutes before cooking."
+        },
+        {
+          "tag": "p",
+          "text": "Now you can either pan-fry or grill."
+        },
+        {
+          "tag": "h3",
+          "text": "Pan-fried mackerel:"
+        },
+        {
+          "tag": "p",
+          "text": "Total cooking time: 10-12 minutes"
+        },
+        {
+          "tag": "li",
+          "text": "Coat both sides of fish with flour."
+        },
+        {
+          "tag": "li",
+          "text": "Heat up the pan and add 2 tbs vegetable oil."
+        },
+        {
+          "tag": "li",
+          "text": "Cook the fish for 3 minutes over medium high heat, until golden brown."
+        },
+        {
+          "tag": "li",
+          "text": "Turn it over with a spatula and cook for 7 minutes over low heat."
+        },
+        {
+          "tag": "li",
+          "text": "Turn it over and cook for 1-2 more minutes before transferring it to a plate."
+        },
+        {
+          "tag": "li",
+          "text": "Serve with rice"
+        },
+        {
+          "tag": "h3",
+          "text": "Grilling:"
+        },
+        {
+          "tag": "p",
+          "text": "Total cooking time 17 minutes"
+        },
+        {
+          "tag": "li",
+          "text": "Preheat the oven and set it broil."
+        },
+        {
+          "tag": "li",
+          "text": "Rub some vegetable oil on both sides of the fish."
+        },
+        {
+          "tag": "li",
+          "text": "Broil on the bottom rack of the oven for 10-12 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Turn it over and cook 4-5 more minutes, until golden brown."
+        },
+        {
+          "tag": "li",
+          "text": "Serve with rice"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

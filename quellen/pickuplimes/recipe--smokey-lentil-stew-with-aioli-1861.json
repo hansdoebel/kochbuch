@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/smokey-lentil-stew-with-aioli-1861",
+  "recipes": [
+    {
+      "name": "Smokey Lentil Stew with Aioli",
+      "source_url": "https://www.pickuplimes.com/recipe/smokey-lentil-stew-with-aioli-1861",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT35M",
+      "total_time": "PT45M",
+      "ingredients": [
+        "2 Tbsp vegetable oil",
+        "2 medium onion",
+        "½ tsp salt",
+        "3 garlic clove",
+        "2 Tbsp tomato paste",
+        "½ Tbsp smoked paprika powder",
+        "½ Tbsp ground cumin",
+        "3 cup vegetable broth",
+        "1½ cup kale",
+        "1 cup cooked brown lentils",
+        "⅓ cup basmati rice",
+        "2 tsp dark soy sauce",
+        "¼ cup vegan aioli",
+        "2 Tbsp fresh dill"
+      ],
+      "instructions": [
+        "Heat the oil in a large pot over medium-high heat. Add the onion and salt, and cook until lightly caramelized, about 15 minutes. Add splashes of water as needed to deglaze the pan.",
+        "Once caramelized, add the garlic, tomato paste, smoked paprika, and cumin. Cook for 1 more minute. Stir throughout.",
+        "Add the remaining stew ingredients.",
+        "Cook uncovered at a simmer until the rice is cooked through, around 15 minutes. Stir often. Taste and adjust the seasonings as needed.",
+        "Divide the stew into bowls and top off with dollops of aioli. Garnish as desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 3 days."
+  ]
+}

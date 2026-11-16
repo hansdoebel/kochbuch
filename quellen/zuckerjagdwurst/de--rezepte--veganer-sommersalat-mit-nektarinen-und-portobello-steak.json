@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-sommersalat-mit-nektarinen-und-portobello-steak",
+  "recipes": [
+    {
+      "name": "Sommersalat mit Nektarinen & Portobello-Steak",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-sommersalat-mit-nektarinen-und-portobello-steak",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-sommersalat-mit-nektarinen-und-portobello-steak#recipe-be491ae4-6020-582e-968e-e5e0a2d1de60",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "2-3 Nektarinen",
+        "1/4 Gurke",
+        "100 g Baby-Spinat",
+        "100 g Mandeln",
+        "1 Rote Zwiebel",
+        "4 große Pilze (z.B. Portobello, Bella Gomba)",
+        "Marinade",
+        "5 EL Öl",
+        "5 EL dunkler Balsamico-Essig",
+        "2 TL Senf",
+        "1 TL Knoblauchpulver",
+        "1 TL Koriander",
+        "1 TL Liquid Smoke (optional)",
+        "Dressing",
+        "1-2 TL frischer Zitronensaft",
+        "5 EL Olivenöl",
+        "2 EL süßer Senf",
+        "Salz&Pfeffer"
+      ],
+      "instructions": [
+        "Die Pilze mit einem feuchten Tuch säubern und die Stiele etwas kürzen.",
+        "Für die Marinade alle Zutaten in einer kleinen Schüssel verrühren. Die Pilze in eine größere Form geben und mit der Marinade begießen. Die Pilze wenden und darauf achten, dass die Marinade sich gut verteilen kann. Die Pilze mindestens 30 Minuten marinieren lassen, besser sind 2-3 Stunden.",
+        "Die Nektarinen, die Gurke und den Baby-Spinat waschen. Die Gurke vierteln und in Scheiben schneiden. Die Nektarinen vom Stein lösen und in kleine Würfel schneiden.",
+        "Die Mandeln in einer Pfanne ohne Öl rösten und anschließend grob hacken. Die rote Zwiebel schälen, halbieren und in Ringe schneiden.",
+        "Für das Dressing alle Zutaten verrühren und abschmecken.",
+        "Eine (Grill-)Pfanne mit etwas Öl erhitzen und die Pilze darin von beiden Seiten gut anbraten. Anschließend in Scheiben schneiden.",
+        "Den Baby-Spinat auf den Tellern verteilen und mit den Pilzscheiben (ein Pilz pro Teller) belegen. Mit den Nektarinenwürfeln, Zwiebeln und Mandeln toppen und mit Dressing beträufeln."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

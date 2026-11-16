@@ -1,0 +1,45 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/chicken-and-ginger-stir-fry",
+  "recipes": [
+    {
+      "name": "Chicken & Ginger Stir Fry",
+      "source_url": "https://app.cookwell.com/recipe/chicken-and-ginger-stir-fry",
+      "recipe_id": "https://app.cookwell.com/recipe/chicken-and-ginger-stir-fry",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 serving",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Chicken Breasts, 1",
+        "Shaoxing wine, 10 g",
+        "Potato starch, 7 g",
+        "Salt, 5 g",
+        "Water, 15 g",
+        "Light soy sauce, 10 g",
+        "Dark Soy Sauce, 5 g",
+        "Sugar, 5 g",
+        "Fresh ginger, 60 g",
+        "Scallions, 2",
+        "Neutral oil, a spoonful"
+      ],
+      "instructions": [
+        "In a bowl, combine together the cubes of chicken with the salt, starch, and Shaoxing wine. Massage everything together to tenderize the chicken a bit and make sure the marinade evenly coats every piece. Set aside until ready to use.",
+        "Mix together all stir fry sauce ingredients in a bowl until the sugar is dissolved. Optional: in a separate bowl, make a small amount of cornstarch slurry in case you’ll want to thicken the sauce. Peel the ginger and thinly slice it. Slice the green onions, separating the green from the white parts.",
+        "Set a wok or pan over ripping high heat and add the oil. Toss in your ginger and the white part of the green onions and sauté for about 60 seconds or until nicely fragrant, signifying your cooking oil has been infused.",
+        "Add the marinated chicken cubes to the wok. Stir fry on high heat for at least 3-4 minutes or until the chicken is cooked through.",
+        "Pour in the sauce around the edges of the pan or wok. Because of the potato starch on the chicken marinade, this actually should begin to thicken as it heats up and comes to a simmer. If it's too loose, add small amounts of a starch slurry at a time until it reaches the consistency you want. Toss in the top green parts of the onions and let those cook for 30-60 seconds longer until barely wilted through. Serve over rice or as is, enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

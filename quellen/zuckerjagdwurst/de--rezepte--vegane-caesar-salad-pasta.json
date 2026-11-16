@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-caesar-salad-pasta",
+  "recipes": [
+    {
+      "name": "Vegane Caesar Salad Pasta",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-caesar-salad-pasta",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-caesar-salad-pasta#recipe-8708066d-262e-5113-a941-630ef2162fbb",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Für die Pasta:",
+        "400 g kurze Pasta (z. B. Volanti hell von byodo)",
+        "1–2 Herzen Römersalat",
+        "150 veganer Parmesan am Stück",
+        "400 g vegane Chicken Filets",
+        "100 g Mandeln",
+        "250 g rote Trauben",
+        "Für die Croûtons:",
+        "5 EL Knoblauchöl",
+        "4 Weißbrot- oder Toast-Scheiben",
+        "Für das Dressing:",
+        "1 Knoblauchzehe",
+        "0.5 Zitrone",
+        "200 g vegane Mayonnaise (z. B. von byodo)",
+        "150 g vegane Sour Creme",
+        "1 TL vegane Worcestershire Sauce",
+        "1 TL Senf",
+        "2-3 EL Rotweinessig (z. B. von byodo)",
+        "Wasser",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Die Pasta nach Packungsanleitung zubereiten. Während das Wasser erhitzt und die Nudeln kochen, den Römersalat in feine Scheiben schneiden, den Parmesan grob reiben und die Trauben halbieren.",
+        "Die Mandeln in einer fettfreien Pfanne rösten und im Anschluss grob hacken. Etwas Pflanzenöl in die Pfanne geben und die veganen Chicken Filets darin kross anbraten und danach in Scheiben schneiden.",
+        "Für die Croûtons Knoblauchöl in einer Pfanne erhitzen. Das Weißbrot in Würfel schneiden und scharf anbraten. Im Anschluss auf einem Küchenpapier abfetten lassen.",
+        "Für das Dressing die Knoblauchzehe fein hacken und den Saft einer Zitrone auspressen. Vegane Mayonnaise, vegane Sour Creme, Worcestershire Sauce, Senf, Rotweinessig, Knoblauch, Zitronensaft, Salz und Pfeffer verrühren. Am Ende mit etwas Wasser verdünnen, sodass das Dressing sich gut über den Salat gießen lässt.",
+        "In einer großen Schüssel Pasta mit Römersalat, Parmesan, roten Trauben, veganem Chicken, Mandeln, Croûtons und dem Dressing servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

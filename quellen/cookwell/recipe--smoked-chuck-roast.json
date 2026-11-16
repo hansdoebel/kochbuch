@@ -1,0 +1,39 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/smoked-chuck-roast",
+  "recipes": [
+    {
+      "name": "Smoked Chuck Roast",
+      "source_url": "https://app.cookwell.com/recipe/smoked-chuck-roast",
+      "recipe_id": "https://app.cookwell.com/recipe/smoked-chuck-roast",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "8-12 portions",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "Chuck roast, 1300 g",
+        "Salt, 13 g",
+        "Dried chipotle peppers, 1 part",
+        "Black Pepper, 1 part",
+        "Beef broth, ~200 g"
+      ],
+      "instructions": [
+        "Evenly sprinkle the salt on all sides of the chuck roast. If time allows, dry brine for up to 48 hours. Whenever you’re ready to start cooking, preheat the smoker (or pellet grill or oven) to 300°F/150°C.",
+        "Add an even layer of black pepper and ground chipotle pepper (or any other spices you are using) to the salted chuck roast, patting to ensure the rub adheres to the surface of the meat. An even rub layer will help bark form during smoking.",
+        "Place the seasoned chuck roast into the center of the smoker (or on a wire rack if using the oven). Smoke for 2-3 hours to develop an even crust or bark on the exterior of the meat.",
+        "Place the chuck roast on a few layers of foil or butcher paper. Add enough beef broth to soak the exterior of the meat, then wrap it all up to enclose the moisture. Continue smoking until the meat is completely fork tender and easily pulls apart, which could take 1-3 extra hours or longer.",
+        "Rest the chuck roast for at least an hour to cool. Shred or chop into your desired texture, then store in the fridge or freezer in airtight containers until ready for use."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

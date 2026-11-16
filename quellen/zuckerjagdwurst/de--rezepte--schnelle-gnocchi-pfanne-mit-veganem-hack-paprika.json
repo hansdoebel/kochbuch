@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-gnocchi-pfanne-mit-veganem-hack-paprika",
+  "recipes": [
+    {
+      "name": "Schnelle Gnocchi-Pfanne mit veganem Hack und Paprika",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-gnocchi-pfanne-mit-veganem-hack-paprika",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/schnelle-gnocchi-pfanne-mit-veganem-hack-paprika#recipe-afabe919-2f7c-5695-926f-468165a3d898",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "1 rote Zwiebel",
+        "1 Knoblauchzehe",
+        "1 rote Paprika",
+        "200 g veganes „rohes“Hack",
+        "400 g vegane Gnocchi",
+        "50 ml Gemüsebrühe",
+        "vegane Butter",
+        "edelsüßes Paprikapulver",
+        "Sojasoße",
+        "frische Petersilie",
+        "vegane Crème fraîche",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Rote Zwiebel und Knoblauch schälen, den Knoblauch fein hacken und die Zwiebel halbieren und in dünne Scheiben schneiden. Paprika waschen, entkernen und in Streifen schneiden.",
+        "Vegane Butter in einer Pfanne auf mittlerer Stufe erhitzen und zuerst Zwiebel und Knoblauch darin anschwitzen, bis die Zwiebeln glasig sind. Das vegane Hack hinzugeben und 3–4 Minuten gut anbraten. Nun auch Paprika unterrühren und mit Paprikapulver, Sojasoße, Salz und Pfeffer würzen.",
+        "Die veganen Gnocchi hinzugeben und 2–3 Minuten anbraten. Mit Gemüsebrühe ablöschen und 4–5 Minuten köcheln lassen, bis die Flüssigkeit fast wieder verkocht ist. Mit Paprikapulver, Salz und Pfeffer abschmecken, frische Petersilie darüberstreuen und mit veganer Crème fraîche servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

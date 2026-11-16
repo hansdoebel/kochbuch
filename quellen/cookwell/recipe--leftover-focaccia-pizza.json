@@ -1,0 +1,41 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/leftover-focaccia-pizza",
+  "recipes": [
+    {
+      "name": "Leftover Focaccia \"Pizza\"",
+      "source_url": "https://app.cookwell.com/recipe/leftover-focaccia-pizza",
+      "recipe_id": "https://app.cookwell.com/recipe/leftover-focaccia-pizza",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "1 serving",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Butter, 15 g",
+        "Dried oregano, a sprinkle",
+        "Garlic Powder, a sprinkle",
+        "Red Pepper Flakes, a sprinkle",
+        "Focaccia, 1 square",
+        "Marinara, a few spoonfuls",
+        "Low-moisture mozzarella, a handful",
+        "Parmesan, a sprinkle",
+        "Fresh basil, a sprinkle"
+      ],
+      "instructions": [
+        "To prep the bread, cut the square in half like a 'bun' into 2 thin pieces. Add the butter, oregano, garlic powder, and red pepper flake to a bowl. Microwave until melted and mix together. Rub the butter mixture onto the cut side of both pieces of focaccia.",
+        "Heat a pan over medium-high heat. Place the focaccia butter side down to crisp for 30-60 seconds. Flip the focaccia over and add a thin layer of the marinara sauce. Flip the focaccia over and let the sauce sear to develop deep flavor notes. Flip the focaccia back over, sauce side up now, and turn off the heat. Turn on the oven broiler.",
+        "Add the mozzarella, grated parm, and any other toppings you would like. Place the focaccia pizza under the broiler until the cheese is melted and bubbly. Garnish with basil and enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

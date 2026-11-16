@@ -1,0 +1,56 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/high-protein-kofta-beef-bowl",
+  "recipes": [
+    {
+      "name": "High Protein Kofta Beef Bowl",
+      "source_url": "https://app.cookwell.com/recipe/high-protein-kofta-beef-bowl",
+      "recipe_id": "https://app.cookwell.com/recipe/high-protein-kofta-beef-bowl",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "93/7 ground beef, 450 g",
+        "Onions, 75 g",
+        "Parsley, a handful",
+        "Cumin, 5 g",
+        "Ground coriander, 2 g",
+        "Allspice, 2 berries",
+        "Salt, 4 g",
+        "Basmati Rice, 250 g",
+        "Water, 350 g",
+        "Chicken bouillon powder, 5 g",
+        "Aleppo pepper, a pinch",
+        "Turmeric powder, a pinch",
+        "Whole cloves, 2",
+        "Greek Yogurt, 150 g",
+        "Mayonnaise, 50 g",
+        "Dried dill, 5 g",
+        "Granulated garlic, 5 g",
+        "Black Pepper, 3 g",
+        "Pickle juice, a splash",
+        "Lettuce",
+        "Tomatoes",
+        "Feta",
+        "Pickled onions"
+      ],
+      "instructions": [
+        "Add the rice, water, bouillon powder, turmeric, whole clove, and Aleppo pepper to a rice cooker or saucepan. Stir to combine. Steam with the rice cooker or simmer on the stovetop, covered, until rice is cooked through and water is absorbed. Fluff with a fork before serving.",
+        "Meanwhile, heat a large skillet over medium-high heat until hot. Add the ground beef, salt, onion, parsley, and spices. As it sears, break it into small crumbles until it is well browned and cooked through. Remove from the heat and set aside.",
+        "Combine the Greek yogurt, mayo, a splash of pickle juice, dried dill, garlic, and black pepper, stirring until smooth. If needed, thin with an extra splash of water or pickle juice. Taste and adjust seasoning.",
+        "Prep the toppings: shred the lettuce, dice the tomatoes, crumble the feta, and have the pickled onions ready. Divide the yellow rice among bowls or meal prep containers. Top with the kofta beef, lettuce, tomatoes, pickled onions, and feta. Finish with a generous spoonful of the dill yogurt sauce."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

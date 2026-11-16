@@ -1,0 +1,99 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/kimchi-camping-stew",
+  "recipes": [
+    {
+      "name": "Kimchi and mackerel camping stew (Kimchi godeungeo-tongjorim jjigae)",
+      "source_url": "https://www.maangchi.com/recipe/kimchi-camping-stew",
+      "recipe_id": "/recipe/kimchi-camping-stew#sso/recipe/34664",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1¼ cup fermented kimchi, chopped",
+        "1 onion (about 1 cup), chopped",
+        "1 medium size potato, peeled and cut into bite size chunks",
+        "2 cloves of garlic, peeled and minced",
+        "2 to 3 tablespoons gochujang (hot pepper paste)",
+        "1 green chili pepper, chopped",
+        "1 cup water",
+        "1 can of saury or mackerel"
+      ],
+      "instructions": [
+        "Combine the kimchi, onion, potato, garlic, green chili pepper in a pot. Add the gochujang and mix well with a spoon.",
+        "Add a can of mackerel or saury, and the water.",
+        "Close the lid and boil over medium high heat for 15 minutes. Stir and mix with a spoon. Lower the heat to medium-low and cook for another 15 minutes.",
+        "Remove from the heat and serve immediately with rice."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients (Serves 4)"
+        },
+        {
+          "tag": "li",
+          "text": "1¼ cup fermented kimchi, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 onion (about 1 cup), chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 medium size potato, peeled and cut into bite size chunks"
+        },
+        {
+          "tag": "li",
+          "text": "2 cloves of garlic, peeled and minced"
+        },
+        {
+          "tag": "li",
+          "text": "2 to 3 tablespoons gochujang (hot pepper paste)"
+        },
+        {
+          "tag": "li",
+          "text": "1 green chili pepper, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup water"
+        },
+        {
+          "tag": "li",
+          "text": "1 can of saury or mackerel"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Combine the kimchi, onion, potato, garlic, green chili pepper in a pot. Add the gochujang and mix well with a spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Add a can of mackerel or saury, and the water."
+        },
+        {
+          "tag": "li",
+          "text": "Close the lid and boil over medium high heat for 15 minutes. Stir and mix with a spoon. Lower the heat to medium-low and cook for another 15 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and serve immediately with rice."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

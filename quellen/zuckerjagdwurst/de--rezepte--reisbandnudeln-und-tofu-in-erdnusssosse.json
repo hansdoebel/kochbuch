@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/reisbandnudeln-und-tofu-in-erdnusssosse",
+  "recipes": [
+    {
+      "name": "Reisbandnudeln und Tofu in Erdnusssoße",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/reisbandnudeln-und-tofu-in-erdnusssosse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/reisbandnudeln-und-tofu-in-erdnusssosse#recipe-919496cd-4327-545c-8636-19baa3ee1e89",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2-3 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Erdnusssoße",
+        "400 ml Kokosmilch (aus der Dose)",
+        "125 g Erdnussmus",
+        "2 EL Tahin",
+        "1 Knoblauchzehe",
+        "1 TL Sriracha",
+        "35 ml Sojasoße",
+        "1 EL Agavendicksaft",
+        "Für den Tofu:",
+        "400 g Tofu",
+        "Speisestärke zum Marinieren",
+        "neutrales Pflanzenöl zum Braten",
+        "oder",
+        "400 g frittierter Tofu",
+        "Außerdem:",
+        "125 g Reisbandnudeln",
+        "2 Karotten",
+        "0.5 Gurke",
+        "1 Limette",
+        "ca. 10 g Koriander (optional)",
+        "ca. 5 g Minze (optional)",
+        "Sesam (optional)",
+        "ungesalzene, geröstete Erdnüsse (optional)"
+      ],
+      "instructions": [
+        "Die Reisbandnudeln nach Packungsanweisung zubereiten, kurz unter lauwarmen Wasser abspülen und bis zum Servieren beiseitestellen. Karotten und Gurke waschen und mit dem Sparschäler in feine Scheiben schneiden. Die Limette vierteln.",
+        "Tipp: Reisbandnudeln können schnell zu weich werden. Haltet euch darum unbedingt an die auf der Verpackung angegebene Zubereitungszeit. Um zu verhindern, dass die Nudeln nach dem Abgießen noch nachgaren oder zu sehr zusammenkleben, spülen wir sie gerne mit etwas kaltem Wasser ab. Bei Bedarf könnt ihr die Nudeln vor dem Servieren in der Erdnusssoße wieder erwärmen.",
+        "Für die Soße Kokosmilch, Erdnussmus, Tahin und die geschälte Knoblauchzehe im Standmixer zu einer cremigen Soße verarbeiten und mit Sriracha, Sojasoße und Agavendicksaft abschmecken. Die Soße anschließend in einen kleinen Topf geben und bei geringer Hitze für circa 5 Minuten köcheln lassen.",
+        "Den Tofu mit einem Geschirrtuch gut trocken tupfen und in circa 0.5 Zentimeter dicke Scheiben schneiden. Die Tofu-Scheiben von beiden Seiten in Speisestärke wenden und anschließend in einer Pfanne mit reichlich Pflanzenöl für circa 5–8 Minuten von beiden Seiten goldbraun anbraten.",
+        "Die Reisnudeln mit Erdnusssoße, Tofu, Gurke, Karotte, Limettenspalte, frischem Koriander, Minze, Sesam und gerösteten Erdnüssen servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

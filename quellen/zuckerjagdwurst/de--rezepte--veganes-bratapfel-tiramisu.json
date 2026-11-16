@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-bratapfel-tiramisu",
+  "recipes": [
+    {
+      "name": "Veganes Bratapfel-Tiramisu",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-bratapfel-tiramisu",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-bratapfel-tiramisu#recipe-7c7bce11-c4a5-55ca-8396-9752b3491dc7",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT290M",
+      "ingredients": [
+        "Für den Biskuitboden",
+        "165 g Weizenmehl (Type 405)",
+        "75 g Zucker",
+        "4 g (1 TL) Backpulver",
+        "4 g (0.5 TL) Vanillezucker",
+        "40 ml neutrales Pflanzenöl",
+        "190 ml Sprudelwasser",
+        "Für die Bratapfel-Schicht",
+        "750 g Äpfel",
+        "1 TL Zimt",
+        "0.5 Zitrone (Saft)",
+        "25 g gestiftete Mandeln",
+        "40 g Rosinen",
+        "Für die Creme",
+        "200 g vegane Sahne zum Aufschlagen",
+        "8 g (1.5 TL) Vanillezucker",
+        "8 g (2 TL) Sahnesteif",
+        "100 g veganer Quark",
+        "0.5 Zitrone (Abrieb)",
+        "Außerdem",
+        "50 ml Espresso",
+        "2 EL Amaretto (oder Sambuca, Marsala, Weinbrand)",
+        "ungesüßtes Kakaopulver zum Bestäuben"
+      ],
+      "instructions": [
+        "Ofen auf 180 °C (Umluft) vorheizen. Für den Biskuit Mehl, Zucker, Backpulver und Vanillezucker in eine Schüssel geben und mit dem Schneebesen gut vermengen. Pflanzenöl und Sprudelwasser hinzugeben und kurz verrühren. Den Teig in eine 20x15 Zentimeter große und eingefettete Form geben und circa 20 Minuten backen. Im Anschluss komplett abkühlen lassen und den Teig waagerecht halbieren, sodass zwei gleich hohe Biskuitböden entstehen.",
+        "Für die Bratapfel-Schicht Äpfel entkernen, fein würfeln und in einem Topf circa 20 Minuten einköcheln lassen. Am Ende Zimt, Zitronensaft, Mandelstifte und Rosinen hinzugeben.",
+        "Espresso kochen, abkühlen lassen und mit Amaretto vermischen.",
+        "Für die Creme vegane Sahne mit Vanillezucker und Sahnesteif aufschlagen. Den veganen Quark in eine Schüssel geben und die aufgeschlagene Sahne vorsichtig unterheben. Mit Zitronenabrieb abschmecken und kaltstellen.",
+        "Sobald alle Komponenten gut abgekühlt sind, könnt ihr mit dem Schichten starten. Den ersten Biskuitteig in die Form legen und mit der Espresso-Mischung bestreichen. Anschließend die Bratapfelschicht darauf verteilen. Als Letztes kommt eine Schicht der Creme. Den ganzen Vorgang wiederholen, bis die Form gefüllt ist. Zum Schluss dick mit Kakaopulver bestäuben und mindestens 2 Stunden (oder über Nacht) in den Kühlschrank stellen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

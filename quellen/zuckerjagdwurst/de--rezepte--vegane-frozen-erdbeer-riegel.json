@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-frozen-erdbeer-riegel",
+  "recipes": [
+    {
+      "name": "Vegane Frozen-Erdbeer-Riegel",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-frozen-erdbeer-riegel",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-frozen-erdbeer-riegel#recipe-96b98379-2f8d-5296-8eb6-b24486b249e9",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT300M",
+      "ingredients": [
+        "Müslischicht",
+        "350 g Krunchy Joy Mohn-Erdbeere-Zitrone (z.B. von barnhouse)",
+        "100 g Cashewkerne",
+        "100 g Kokosöl",
+        "100 g Wasser",
+        "100 g Haferflocken",
+        "Erdbeerschicht",
+        "400 g frische Erdbeeren",
+        "100 g pflanzlicher Joghurt",
+        "optional: 10 g Vanilleextrakt",
+        "Joghurtschicht",
+        "400 g pflanzlicher Joghurt",
+        "Dekoration",
+        "50 g Krunchy Joy Mohn-Erdbeere-Zitrone (z.B. von barnhouse)"
+      ],
+      "instructions": [
+        "Eine viereckige Back- oder Auflaufform mit den Maßen 22 x 28 cm mit Backpapier auslegen.",
+        "In einem kleinen Topf das Kokosöl schmelzen. In einem Zerkleinerer das Müsli, die Cashewkerne, das Wasser und das Kokosöl miteinander vermengen. Im Anschluss die Haferflocken unterheben.",
+        "Mit der Masse die Form auslegen und für mindestens 30 Minuten in den Gefrierschrank stellen.",
+        "Die Erdbeeren waschen, den Strunk entfernen und die Erdbeeren halbieren.",
+        "Die Erdbeeren mit dem pflanzlichen Joghurt (und optional Vanilleextrakt) pürieren oder in den Mixer gegen, bis eine glatte homogene Masse entsteht. Die Masse auf den Müsliboden geben und für 60 Minuten in den Gefrierschrank stellen.",
+        "Sobald die Erdbeerschicht etwas fest geworden ist, kommt die dritte Schicht dazu: der Joghurt. Diesen auf der Erdbeerschicht glatt streichen.",
+        "Die beiden langen, sich gegenüberliegenden Seiten der Form mit etwas Müsli dekorieren, sodass ein schöner Rand auf zwei der vier Seiten entsteht.",
+        "Die Erdbeer Riegel wieder in das Gefrierfach geben und am besten über Nacht (mindestens 3 Stunden) ruhen lassen.",
+        "60 Minuten vor dem Servieren aus dem Gefrierfach holen (im Hochsommer reichen auch 30 Minuten) und etwas antauen lassen. Im Anschluss mit einem scharfen Messer in Riegelform schneiden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

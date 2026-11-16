@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kinder-riegel",
+  "recipes": [
+    {
+      "name": "Vegane Kinder Riegel",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kinder-riegel",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-kinder-riegel#recipe-58508275-7546-5583-830e-17038697db64",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Riegel",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT120M",
+      "ingredients": [
+        "Für die vegane Milchcreme:",
+        "60 g vegane weiße Schokolade",
+        "20 g Hafermilchpulver",
+        "1 EL Kokosöl",
+        "Für die Schokoladenhülle:",
+        "120 g helle vegane Milchschokolade"
+      ],
+      "instructions": [
+        "Helle vegane Schokolade fein hacken. 90 der 120 Gramm sind für den Hohlkörper des Riegels, und 30 Gramm nutzen wir am Ende für den Boden. 60 Gramm langsam über einem Wasserbad auf kleiner Stufe erhitzen. Die Schokolade sollte dabei nicht über 45 °C warm werden. Sobald die Schokolade geschmolzen ist, die Schüssel vom Herd nehmen und 30 Gramm der Schokolade hinzugeben. Nun stetig mit einem Teigschaber rühren, sodass die restliche Schokolade ebenfalls schmilzt, bevor die Temperatur zu weit sinkt.",
+        "Tipp: Achtet unbedingt auf die Temperatur der Schokolade beim Erhitzen im Wasserbad. Ein Thermometer hilft euch hier enorm. Wenn ihr keines habt, kann es aber dennoch klappen. Achtet dann umso mehr darauf, dass ihr das Wasserbad auf nur geringer Stufe erhitzt – das dauert zwar deutlich länger, aber so klappt am Ende das Temperieren und ihr bekommt die Riegel auch aus eurer Form.",
+        "Die geschmolzene Schokolade in einen Spritzbeutel füllen und gleichmäßig in die Riegelform geben, sodass alle Seiten bedeckt sind. Die Form hin- und herschwenken, damit sich die Schokolade gut verteilt. Dabei mehrmals auf den Boden klopfen, damit alle Luftblasen nach oben steigen. Mit einer Teigkarte könnt ihr am Ende sehr einfach die Schokolade entfernen, die euch aus den Mulden gelaufen ist. Die Form in den Kühlschrank stellen, sodass die Schokoladenhülle der Riegel fest wird.",
+        "In der Zwischenzeit bereiten wir die Füllung zu. Dafür erneut ein Wasserbad auf kleiner Stufe erhitzen und die vegane weiße Schokolade langsam schmelzen. Hafermilchpulver und Kokosöl hinzugeben und die Masse ebenfalls in einen Spritzbeutel füllen. Die Riegelform aus dem Kühlschrank nehmen und die Füllung auf die sechs Mulden verteilen. Ein wenig Platz solltet ihr allerdings noch für den Boden lassen. Wieder mehrmals klopfen, sodass die Luftblasen nach oben kommen, dann im Kühlschrank kalt stellen.",
+        "Erst wenn die Füllung wirklich fest und ausgehärtet ist, setzen wir ein letztes Wasserbad an für den Boden der Riegel. Dafür schmelzen wir (wieder sehr langsam, die Schokolade sollte nicht wärmer als 45 °C werden) 20 Gramm der restlichen hellen Milchschokolade in einem Wasserbad, nehmen die geschmolzene Schokolade vom Herd und geben am Ende die noch fehlenden 10 Gramm dazu. Erneut unterrühren, in eine Spritztüte füllen und in die Riegelform gießen. Jetzt haben die Riegel einen Boden und dürfen final gern mindestens 1 Stunde im Kühlschrank abkühlen.",
+        "Die Riegel aus der Form holen. Dafür die Form umdrehen und mit einem festen Schlag auf die Rückseite der Riegelform die Riegel aus der Form lösen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

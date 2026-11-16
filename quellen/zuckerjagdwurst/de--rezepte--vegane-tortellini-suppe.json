@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-tortellini-suppe",
+  "recipes": [
+    {
+      "name": "Vegane Tortellini-Suppe",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-tortellini-suppe",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-tortellini-suppe#recipe-4521f8eb-4400-5668-94de-2de3f2d3e44a",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "250 g vegane Tortellini",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "3 Möhren",
+        "1 Pastinake",
+        "150 g Lauch",
+        "50 g frischer Spinat",
+        "2 EL Mehl",
+        "200 ml Gemüsebrühe",
+        "400 ml pflanzliche Sahne",
+        "300 ml Wasser",
+        "1 TL Chiliflocken",
+        "2 EL Hefeflocken (optional)",
+        "1 Prise Zucker",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "Zitronensaft",
+        "Pflanzenöl zum Anbraten"
+      ],
+      "instructions": [
+        "Zwiebel und Knoblauch schälen und fein würfeln. Möhren und Pastinake (diese schälen) ebenfalls in kleine Würfel schneiden. Lauch waschen und in dünne Ringe schneiden. Frischen Spinat ebenfalls waschen und grob hacken.",
+        "Pflanzenöl in einem Topf bei mittlerer Hitze erwärmen. Zuerst die Zwiebelwürfel ca. 2-3 Minuten anschwitzen, bis sie glasig sind. Danach Pastinake und Möhren dazugeben, mit einer Prise Zucker bestreuen und ca. 5 Minuten anbraten, bis die Möhre leicht karamellisiert. Nun Knoblauch und Chiliflocken dazugeben und weitere ca. 2-3 Minuten anbraten, bis alles leicht gebräunt ist.",
+        "Das Gemüse mit Mehl bestäuben und 1-2 Minuten erhitzen. Danach Gemüsebrühe und Wasser aufgießen, die pflanzliche Sahne dazugeben und alles gut verrühren. Die Suppe einmal aufkochen lassen.",
+        "Sobald die Flüssigkeit kocht, vegane Tortellini und Lauch dazugeben und alles mit Salz, Pfeffer und optional mit Hefeflocken würzen. Alles so lange köcheln lassen, bis die Tortellini gar sind (achtet hier am besten auf die Angabe der Packung), dabei immer mal wieder umrühren. Falls die Suppe zu dick wird, etwas Wasser dazugeben. In den letzten 2-3 Minuten den frischen Spinat dazugeben.",
+        "Die Tortellinisuppe mit etwas Zitronensaft beträufeln und zum Servieren noch mal abschmecken und mit frisch geriebenem Muskat bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

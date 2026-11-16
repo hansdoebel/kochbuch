@@ -1,0 +1,65 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-chorizo-pasta",
+  "recipes": [
+    {
+      "name": "Vegane Chorizo-Pasta",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-chorizo-pasta",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-chorizo-pasta#recipe-7751b2f8-342c-5d06-8303-db4aa08358ec",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für die Pasta:",
+        "250 g Pasta (z. B. Rigatoni)",
+        "1 rote Paprika",
+        "1 rote Zwiebel",
+        "50 g getrocknete Tomaten in Öl",
+        "Pflanzenöl zum Braten",
+        "Für die vegane Chorizo:",
+        "1 Packung (180 g) Bio VeggieMix Bratwurst Chorizo Art von Bauckhof",
+        "220 ml kaltes Wasser",
+        "1 EL neutrales Öl",
+        "Pflanzenöl zum Braten",
+        "Für die Soße:",
+        "100 g getrocknete Tomaten in Öl",
+        "1 EL Tomatenmark",
+        "ca. 100 ml Wasser",
+        "1 EL Hefeflocken",
+        "125 ml pflanzliche Sahne",
+        "1 TL getrockneter Oregano",
+        "Salz",
+        "Pfeffer",
+        "Zucker",
+        "Für das Topping:",
+        "30 g Petersilie",
+        "1 Knoblauchzehe",
+        "0.5 Zitrone (Abrieb und Saft)",
+        "2 EL Olivenöl",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Zunächst das Topping vorbereiten. Dafür Petersilie waschen, fein hacken und den Knoblauch schälen und fein reiben. Beides zusammen mit Zitronenabrieb und -saft in eine Schüssel geben und zum Schluss Olivenöl einrühren, bis es alles vermengt ist. Mit Salz und Pfeffer würzen und beiseitestellen.",
+        "Paprika entkernen und in dünne Streifen schneiden. Die Zwiebel schälen, halbieren und in dünne Scheiben schneiden. Die getrockneten Tomaten für die Pasta ebenfalls in Streifen schneiden.",
+        "Pflanzenöl in einer Pfanne erhitzen und Paprika, Zwiebel und getrocknete Tomaten ca. 10 Minuten bei mittlerer Hitze anbraten.",
+        "In der Zwischenzeit die Soße zubereiten. Die restlichen getrockneten Tomaten, Tomatenmark, Wasser, Hefeflocken und pflanzliche Sahne in ein hohes Gefäß geben und zu einer dickflüssigen Soße pürieren. Mit Oregano, Salz, Pfeffer und Zucker abschmecken.",
+        "Die Soße zum Gemüse in die Pfanne geben und bei kleiner Hitze warm halten.",
+        "Als Nächstes die vegane Chorizo zubereiten. Dafür den Trockenmix in eine Schüssel geben und mit kaltem Wasser und Öl verrühren. Die Mischung ca. 2-3 Minuten quellen lassen. Anschließend jeweils ca. 2 EL der Masse mit leicht angefeuchteten Händen zu einem Würstchen formen, sodass ihr ca. sechs Stück herausbekommt. Pflanzenöl in einer Pfanne erwärmen und die vegane Chorizo darin von allen Seiten anbraten. Danach aus der Pfanne nehmen, kurz abkühlen lassen und in dicke Scheiben schneiden. Die Scheiben anschließend erneut in der Pfanne von beiden Seiten anbraten, damit sie leicht knusprig werden.",
+        "Parallel dazu gesalzenes Wasser in einem großen Topf zum Kochen bringen und die Nudeln nach Packungsanweisung al dente kochen. Vor dem Abgießen etwas vom Kochwasser abschöpfen und beiseitestellen.",
+        "Die gekochte Pasta direkt in die Pfanne zur Soße geben und darin gut schwenken. Dabei so viel vom Kochwasser hinzugeben, bis die Soße sämig wird und die Nudeln ummantelt. Erst kurz vor dem Servieren die vegane Chorizo dazugeben und alles zusammen mit dem Petersilien-Topping servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

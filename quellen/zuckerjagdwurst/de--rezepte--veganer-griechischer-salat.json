@@ -1,0 +1,83 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-griechischer-salat",
+  "recipes": [
+    {
+      "name": "Veganer Griechischer Salat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-griechischer-salat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-griechischer-salat#recipe-ec9ebbe1-bab1-5c0a-b0ab-ff407cd1367f",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT540M",
+      "ingredients": [
+        "Für den Salat:",
+        "250 g Kritharaki (Orzonudeln)",
+        "1 Gurke",
+        "1 grüne Paprika",
+        "250 g Kirschtomaten",
+        "1 rote Zwiebel",
+        "100 g schwarze Oliven",
+        "Für das Dressing:",
+        "6 EL Olivenöl",
+        "2 EL Zitronensaft",
+        "1 TL Senf",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "1 Portion Nuss-Feta (Rezept siehe unten)"
+      ],
+      "instructions": [
+        "Gesalzenes Wasser in einem Topf aufkochen lassen, die Orzonudeln ins Wasser geben und nach Packungsangabe kochen lassen, bis sie al dente sind. Danach abgießen und in eine große Salatschüssel geben.",
+        "Gurke und grüne Paprika in kleine Würfel schneiden, Kirschtomaten halbieren, rote Zwiebel schälen, in feine Ringe schneiden und die schwarzen Oliven ebenfalls halbieren.",
+        "Für das Dressing Olivenöl, Zitronensaft und Senf verrühren und mit Salz und Pfeffer abschmecken. Das geschnittene Gemüse und Dressing zu den Orzonudeln in die Schüssel geben und alles gut vermengen. Mit veganem Fetakäse bestreuen und servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Veganer gebackener Feta aus Nüssen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-griechischer-salat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-griechischer-salat#recipe-2b5db8f2-2da4-51b0-b74d-41896c5f8290",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 300 g veganer Feta",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT540M",
+      "ingredients": [
+        "Für den Feta:",
+        "200 g blanchierte Mandeln",
+        "100 g Cashewnüsse (mind. 30 Min. eingeweicht)",
+        "0.5 Zitrone (Saft)",
+        "4 EL Olivenöl",
+        "2 Knoblauchzehen",
+        "1.5 TL Salz",
+        "Für die Kräutermischung:",
+        "4 EL Olivenöl",
+        "3 EL getrocknete Kräuter (z. B. Oregano, Rosmarin, Thymian, Basilikum)"
+      ],
+      "instructions": [
+        "Blanchierte Mandeln und Cashewnüsse in eine Schüssel geben und mit frischem, warmem Wasser übergießen, bis alles bedeckt ist. Mindestens 30 Minuten einweichen lassen. Danach abgießen und unter Wasser abspülen.",
+        "Die eingeweichten Nüsse zusammen mit Zitronensaft, Olivenöl, geschälten Knoblauchzehen und Salz in einen Mixer geben. Alles gut mixen, bis sich eine leicht klebrige Masse bildet und nach Wunsch mit mehr Salz abschmecken.",
+        "Der nächste Schritt ist optional, sorgt aber für ein etwas festeres Ergebnis: Ein sauberes Küchentuch oder (falls vorhanden) ein Käsetuch nehmen und es über ein großes Sieb legen. Die Nussmasse in die Mitte des Tuchs geben und das Käsetuch umschlagen. Anschließend das Tuch mit einem Gummi verschließen. Das Sieb auf eine größere Schüssel stellen, in die eventuell austretende Flüssigkeit fließen kann. Schüssel, Sieb und die eingewickelte Nussmischung über Nacht in den Kühlschrank stellen.",
+        "Den Backofen auf 180 °C (Umluft) vorheizen und die Nussmasse in eine kleine, eingefettete Auflaufform geben. Für die Kräutermischung Olivenöl und getrocknete Kräuter verrühren und die Nussmischung damit einstreichen. Im Ofen etwa 30 Minuten backen, bis die Oberfläche goldbraun ist.",
+        "Der vegane Feta aus dem Ofen lässt sich super bröseln – zum Beispiel über Salate und Gemüsegerichte, kann aber auch als Brotaufstrich gegessen werden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

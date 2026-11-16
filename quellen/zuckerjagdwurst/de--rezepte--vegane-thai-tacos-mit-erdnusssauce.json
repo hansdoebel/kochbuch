@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-thai-tacos-mit-erdnusssauce",
+  "recipes": [
+    {
+      "name": "Vegane Thai Tacos mit Erdnusssauce",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-thai-tacos-mit-erdnusssauce",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-thai-tacos-mit-erdnusssauce#recipe-af677051-b4e9-5055-ad3e-1855ada1d00e",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "6 weiche Tacos",
+        "1 Block Erdnusstofu",
+        "1 rote Paprika",
+        "2 Möhren",
+        "1/2 Eisbergsalat",
+        "1 Ecke Rotkohl",
+        "1 Lauch",
+        "Koriander",
+        "geröstete Erdnüsse",
+        "Röstzwiebeln",
+        "AUSSERDEM",
+        "Sesamöl",
+        "FÜR DAS DRESSING",
+        "4 EL Erdnussbutter",
+        "1 EL Sojasauce",
+        "1 EL Agavendicksaft",
+        "1 TL Limettensaft",
+        "Wasser"
+      ],
+      "instructions": [
+        "Erdnusstofu in dicke Streifen schneiden und in einer Pfanne mit Sesamöl von beiden Seiten anbraten.",
+        "Gemüse waschen. Paprika, Eisbergsalat und Rotkohl in dünne Streifen schneiden, Möhre schälen und Julienne schneiden. Lauch in Ringe schneiden und Koriander waschen und grob hacken.",
+        "Erdnüsse in einer Pfanne ohne Öl kurz rösten.",
+        "Alle Dressing-Zutaten bis auf das Wasser verrühren. Nach und nach Wasser zugeben, bis ihr eure Wunschkonsistenz erreicht habt. Das Dressing sollte bestenfalls cremig flüssig werden.",
+        "Nehmt euch einen Taco, gebt einen Klecks Erdnussdressing dazu, toppt das ganze danach mit eurem Gemüse und Tofu und gebt zum Abschluss nochmal Erdnussdressing, sowie die Erdnüsse und Röstzwiebeln darauf."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

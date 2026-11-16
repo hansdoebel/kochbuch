@@ -1,0 +1,41 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/chicken-cheddar-flatbread",
+  "recipes": [
+    {
+      "name": "Cheesy Chicken Flatbread",
+      "source_url": "https://app.cookwell.com/recipe/chicken-cheddar-flatbread",
+      "recipe_id": "https://app.cookwell.com/recipe/chicken-cheddar-flatbread",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-4 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "Chicken Thighs, 1-2",
+        "Salt, a sprinkle",
+        "Cumin, a sprinkle",
+        "Cooking oil, as needed",
+        "Lavash bread, 1-2",
+        "Cheddar, two handfuls",
+        "Hot Sauce, to taste",
+        "Greek Yogurt, to taste"
+      ],
+      "instructions": [
+        "Preheat a griddle or pan over medium-high heat. Meanwhile, generously season all sides of the chicken with salt. Add an even sprinkle of cumin seeds to one side. When the pan is hot, add a drizzle of oil, then lay the chicken thighs cumin side down to sear and develop color. Leave them undisturbed for a few minutes. Use this time to clean or gather remaining ingredients.",
+        "Once the thighs have developed browning on the bottom, flip them, revealing their cumin-seed crust. Continue searing the chicken on the other side to finish cooking. Remove from the pan once it reaches an internal temp of 175°F/80°C. Meanwhile, make the sauce: mix yogurt and hot sauce until smooth. Taste and adjust as desired.",
+        "Lower the heat on the pan or griddle. Add the flatbreads and cover with an even layer of grated cheese. Allow them to warm through. Meanwhile, slice the chicken into thin strips. Once the cheese begins to melt, add the chicken to the flatbread, and then fold each over like a quesadilla. Once they are lightly charred and everything is melty, remove them from the heat.",
+        "Slice the flatbreads on a diagonal to make triangular pieces. Serve with the dipping sauce."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/mango-turmeric-lassi-1029",
+  "recipes": [
+    {
+      "name": "Mango Turmeric Lassi",
+      "source_url": "https://www.pickuplimes.com/recipe/mango-turmeric-lassi-1029",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "2 Medjool date",
+        "2½ cup frozen mango chunks",
+        "2 cup unsweetened soy yogurt",
+        "¾ cup unsweetened soy milk",
+        "½ Tbsp fresh ginger",
+        "½ tsp ground turmeric",
+        "1 pinch ground black pepper",
+        "¼ lemon"
+      ],
+      "instructions": [
+        "Add all the ingredients to a blender and blend until smooth.",
+        "Pour into glasses and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Nutrition tip: aim to use plant-based yogurt that is fortified with calcium .",
+    "Storage Best when enjoyed immediately."
+  ]
+}

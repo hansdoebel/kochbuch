@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegan-kaesespaetzle-roesti",
+  "recipes": [
+    {
+      "name": "Vegane Käsespätzle-Rösti",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegan-kaesespaetzle-roesti",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegan-kaesespaetzle-roesti#recipe-22d8e1de-70e8-5932-af5e-98c2f6492f6c",
+      "authors": [
+        "Anneke Schügner"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Rösti",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für die Rösti:",
+        "1 gelbe Zwiebel",
+        "400 g vegane Spätzle",
+        "120 g veganer Streukäse",
+        "1 TL Zwiebelpulver",
+        "0.5 TL Knoblauchpulver",
+        "200 g Räuchertofu",
+        "Salz",
+        "Pfeffer",
+        "Pflanzenöl zum Braten",
+        "Für den Dip:",
+        "2 EL süßer Senf",
+        "2 EL veganer Joghurt",
+        "2 EL vegane Mayonnaise",
+        "Salz",
+        "Pfeffer",
+        "Für den Salat:",
+        "100 g Salatmix",
+        "0.5 Gurke",
+        "0.5 Bund Radieschen",
+        "30 g Sonnenblumenkerne",
+        "Für das Dressing:",
+        "1 EL körniger Senf",
+        "1 EL veganer Honig (alternativ Ahornsirup oder Agavendicksaft)",
+        "0.5 Zitrone (Saft)",
+        "4 EL Olivenöl"
+      ],
+      "instructions": [
+        "Für die Rösti Zwiebel in feine Scheiben schneiden. Die veganen Spätzle mit Zwiebel und pflanzlichem Streukäse vermengen und mit Zwiebelpulver, Knoblauchpulver, Salz und Pfeffer würzen. Jeweils ein Achtel der Masse in die beschichtete Pfanne geben und mit einem Pfannenwender platt drücken, sodass ein Rösti entsteht. Ihr benötigt zum Braten kein Öl. Auf beiden Seiten für ungefähr 5 Minuten bei mittlerer Hitze braten, bis die Rösti knusprig sind.",
+        "Räuchertofu in kleine Würfel schneiden und in einer separaten Pfanne mit etwas Pflanzenöl anbraten, bis der Tofu knusprig ist.",
+        "Für den Dip süßen Senf, veganen Joghurt und vegane Mayonnaise miteinander verrühren und mit Salz und Pfeffer abschmecken.",
+        "Gemischten Salat, Gurke und Radieschen waschen und nach Belieben klein schneiden. Alles miteinander vermengen. Für das Dressing körnigen Senf, veganen Honig, Zitronensaft und Olivenöl verrühren und über den Salat geben. Mit Sonnenblumenkernen toppen.",
+        "Die Rösti mit Salat, Räuchertofu-Würfeln und dem Dip servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

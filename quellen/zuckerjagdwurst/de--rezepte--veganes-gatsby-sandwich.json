@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-gatsby-sandwich",
+  "recipes": [
+    {
+      "name": "Veganes Gatsby Sandwich",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-gatsby-sandwich",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-gatsby-sandwich#recipe-9fe3146b-f51b-5f9d-9181-a7634f7867e0",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "2 Sojasteaks",
+        "Gemüsebrühe",
+        "1 Paprika",
+        "1 Zwiebel",
+        "1 weiches Baguette",
+        "6 EL vegane Mayonnaise",
+        "Piri-Piri Hot Sauce nach Geschmack",
+        "250 g vegane Pommes",
+        "50 g Eisbergsalat",
+        "2 Tomaten",
+        "Pflanzenöl zum Braten",
+        "Für die Marinade:",
+        "20 g Ingwer",
+        "1 Knoblauchzehe",
+        "2 EL Garam Masala",
+        "1 TL Kurkuma",
+        "1 TL Paprikapulver",
+        "4 EL Olivenöl",
+        "1 TL Agavendicksaft",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Sojasteaks ca. 15 Minuten in heißer Gemüsebrühe einweichen. Anschließend das Wasser ausdrücken und die Sojasteaks in kleine Stücke zerreißen. Während die Steaks einweichen, Ingwer und Knoblauchzehe in eine Schüssel reiben. Garam Masala, Kurkuma, Paprikapulver, Olivenöl, Agavendicksaft, Salz und Pfeffer dazugeben und verrühren. Die Sojasteak-Stücken mit der Marinade einreiben.",
+        "Paprikaschote und Zwiebel schälen und in kleine Würfel schneiden. Öl in einer Pfanne erhitzen und die marinierten Sojasteak-Stücken ca. 10 Min. anbraten, bis sie gebräunt sind. Danach Paprika und Zwiebel dazugeben und ca. 5 Minuten weiterbraten.",
+        "Die Pommes nach Geschmack mit Piri-Piri-Pulver und etwas mehr Salz bestreuen. Die Hälfte der veganen Mayonnaise ungewürzt lassen, die andere Hälfte ebenfalls nach eurem Geschmack mit Hot Sauce würzen. Eisbergsalat in dünne Streifen und Tomaten in Scheiben schneiden.",
+        "Zum Servieren das Baguette aufschneiden. Die untere Hälfte mit einem Teil der Piri-Piri-Mayonnaise bestreichen. Anschließend mit Sojasteak-Stücken und Pommes belegen. Die restliche Piri-Piri-Mayonnaise und nach Geschmack mehr Hot Sauce beträufeln. Eisbergsalat und Tomatenscheiben darauflegen. Die obere Baguettehälfte mit ungewürzter Mayonnaise bestreichen und das Sandwich damit zuklappen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

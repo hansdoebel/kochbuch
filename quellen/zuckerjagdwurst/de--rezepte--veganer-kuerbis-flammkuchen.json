@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kuerbis-flammkuchen",
+  "recipes": [
+    {
+      "name": "Veganer Kürbis-Flammkuchen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kuerbis-flammkuchen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kuerbis-flammkuchen#recipe-1fbad177-f404-4b75-bf41-8d708df6f1f9",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT35M",
+      "ingredients": [
+        "Für den Flammkuchen:",
+        "1 veganer Flammkuchenteig",
+        "125 g veganer Frischkäse (z. B. Petrella Knoblauch & Kräuter)",
+        "0.5 rote Zwiebel",
+        "30 g vegane Schinkenwürfel (oder Räuchertofu)",
+        "150 g Hokkaido-Kürbis",
+        "heller Sesam",
+        "Rosmarin",
+        "Salz",
+        "Pfeffer",
+        "Optional für die Halloween-Variante:",
+        "1 Kartoffel",
+        "0.5 Süßkartoffel / Hokkaido-Kürbis",
+        "0.5 rohe Rote Bete",
+        "schwarzer Sesam",
+        "Für den Dip:",
+        "125 g veganer Frischkäse (z. B. Petrella Natur)",
+        "10 g frische Kräuter (Dill, Schnittlauch, Petersilie)",
+        "0.5 Zitrone (Abrieb)",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Für die Halloween-Variante zuerst Kartoffel, Süßkartoffel/Hokkaido-Kürbis und Rote Bete in dünne Scheiben schneiden. Mit einem Messer Zauberhüte, Geister, Kürbisse, Sterne oder andere gruselige Formen ausschneiden oder ausstechen.",
+        "1. Backofen auf 220 °C (Ober-/Unterhitze) vorheizen. Hokkaido-Kürbis mit einem Sparschäler in dünne Streifen schneiden. Zwiebel in Halbringe schneiden.",
+        "2. Teig ausrollen und mit dem veganen Frischkäse bestreichen. Mit hellem Sesam (bzw. für die Halloween-Variante mit schwarzem Sesam) einen Rand legen.",
+        "3. Kürbis aufgefächert auf dem Teig platzieren. Zwischenräume mit Zwiebelringen und veganen Schinkenwürfeln füllen.",
+        "Bei der Halloween-Variante nun die ausgestochenen Formen statt der Kürbisscheiben platzieren.",
+        "4. Den Flammkuchen circa 15–20 Minuten backen, bis der Rand knusprig und leicht gebräunt ist. Für den Dip veganen Frischkäse mit den fein gehackten Kräutern verrühren. Bei Bedarf mit etwas Wasser verlängern, damit der Dip cremiger wird. Mit Zitronenabrieb sowie Salz und Pfeffer abschmecken. Den Flammkuchen nach dem Backen ebenfalls mit Salz und Pfeffer würzen und mit dem Dip und Rosmarinzweigen servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

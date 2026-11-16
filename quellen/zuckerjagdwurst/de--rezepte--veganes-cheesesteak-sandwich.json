@@ -1,0 +1,86 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-cheesesteak-sandwich",
+  "recipes": [
+    {
+      "name": "Veganes Cheesesteak Sandwich",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-cheesesteak-sandwich",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-cheesesteak-sandwich#recipe-73299bb6-16e5-5840-9d9b-546858bb01a8",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Sandwiches",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "4 lange Baguettebrötchen",
+        "1 grüne Paprika",
+        "3 Zwiebeln",
+        "vegane Käsesoße (Rezept auf dem Blog)",
+        "Für die Sojaschnetzel",
+        "150 g getrocknete Sojaschnetzel",
+        "500 ml heiße Gemüsebrühe",
+        "3 EL Senf",
+        "2 EL vegane Worcestersauce",
+        "1 EL Sojasauce",
+        "1 EL Agavendicksaft",
+        "Öl zum Braten",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Steht die vegane Käsesoße schon bereit? Das Rezept dafür findest du auf unserem Blog. Wir haben für dieses Mal jedoch die Jalapenos rausgelassen.",
+        "Zunächst die Sojaschnetzel ca. 10 Minuten in heißer Gemüsebrüse einweichen, danach abgießen und das Wasser ausdrücken.",
+        "Die eingeweichten Sojaschnetzel in eine Schüssel geben. Senf, vegane Worcestersauce, Sojasauce und Agavendicksaft verrühren und mit Salz und Pfeffer abschmecken. Das Sojageschnetzelte mit der Mischung einreiben.",
+        "Pflanzenöl in einer großen Pfanne erhitzen und die Schnetzel anbraten, bis sie gut gebräunt sind. Danach aus der Pfanne nehmen.",
+        "Grüne Paprika waschen, klein schneiden und Zwiebel schälen und würfeln. Erneut etwas Öl in der Pfanne erhitzen und Zwiebelwürfel darin ca. 3 Min. anbraten bis sie glasig sind. Danach die Paprikastückchen dazugeben und alles zusammen auf mittlerer Hitze ca. 10 Minuten anbraten und mit Salz und Pfeffer würzen.",
+        "Baguettebrötchen erwärmen und halbieren. Mit Käsesoße bestreichen und den gebratenen Sojaschnetzeln, der grünen Paprika und den Zwiebeln belegen. Noch mehr Käsesoße darübergeben."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    },
+    {
+      "name": "Veganer Queso Dip",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-cheesesteak-sandwich",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-cheesesteak-sandwich#recipe-56b6a83b-c9ae-51a1-8243-66317c2ea556",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 große Schüssel",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "400 g Kartoffeln",
+        "1 große Möhre",
+        "1 Zwiebel",
+        "60 g Cashewkerne Natur (eingeweicht über Nacht, oder mindestens in warmen Wasser für 30 Minuten)",
+        "30 g Hefeflocken",
+        "50 ml pflanzliche Milch",
+        "0.5 TL Knoblauchpulver",
+        "0.5 TL Zwiebelpulver",
+        "3 EL Jalapenosaft + 5 Jalapenos (eingelegt aus dem Glas)",
+        "1 EL Zitronensaft",
+        "Salz & Pfeffer",
+        "Cayennepfeffer"
+      ],
+      "instructions": [
+        "Nehmt euer Gemüse. Schält Kartoffeln, Möhren und Zwiebeln und schneidet sie in etwa gleich große Stücken. Gebt die Stücke in einen Topf, bedeckt das ganze mit leicht gesalzenem Wasser. Lasst alles köcheln, bis das Gemüse weich ist. Gemüse abtropfen und die Kochflüssigkeit dabei auffangen.",
+        "In einen Mixer werft ihr euer weiches Gemüse, die eingeweichten Cashews, 5 Jalapeno-Ringe und Hefeflocken und füllt mit ca. 100 ml der Kochflüssigkeit, Sojamilch und Jalapeno-Saft auf. Mixer anschalten und alles gut pürieren lassen, bis es cremig ist.",
+        "Jetzt geht es ans Abschmecken mit Knoblauch- und Zwiebelpulver, Zitronensaft, Salz, Pfeffer und Cayenne.",
+        "Wem das ganze noch nicht \"käsig\" genug schmeckt, der würzt mit etwas mehr Hefeflocken nach. Unbedingt warm servieren!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

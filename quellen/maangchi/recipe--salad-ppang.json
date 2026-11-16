@@ -1,0 +1,150 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/salad-ppang",
+  "recipes": [
+    {
+      "name": "Korean salad bread (Salad-ppang: 샐러드빵)",
+      "source_url": "https://www.maangchi.com/recipe/salad-ppang",
+      "recipe_id": "/recipe/salad-ppang#sso/recipe/99238",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": "6 salad bread",
+      "prep_time": "P0DT0H20M0S",
+      "cook_time": "P0DT0H12M0S",
+      "total_time": "P0DT0H32M0S",
+      "ingredients": [
+        "6 dinner rolls (bread rolls), cut in half",
+        "1 large potato (about 7 to 8 ounces), peeled and washed",
+        "3 ounces seedless cucumber (⅓ of an English cucumber), chopped",
+        "2 tablespoons chopped carrot",
+        "2 tablespoons chopped onion",
+        "½ teaspoon kosher salt",
+        "2 hard-boiled eggs, shelled",
+        "4 slices of cooked ham, chopped (optional)",
+        "½ cup mayonnaise",
+        "½ teaspoon ground black pepper"
+      ],
+      "instructions": [
+        "Cut the potato crosswise into ½-inch thick slices and place them in a medium-sized pot. Add 1 cup of water along with ¼ teaspoon of salt.",
+        "Cover the pot and cook over medium heat for about 12 minutes.",
+        "Meanwhile, combine the cucumber, carrot, onion, and the remaining ¼ teaspoon of salt in a bowl. Mix well with a large spoon and let it sit for 5 minutes. Check the potatoes for doneness by piercing one slice with a wooden skewer or fork. If it goes through smoothly, the potatoes are thoroughly cooked. If not, reduce the heat to low and cook for a couple of minutes longer. Drain the potatoes and transfer them to a large bowl. Mash the hot potatoes with a large spoon. Add the hard-boiled eggs and break them up with the spoon. Set aside.",
+        "Wrap the mixture of cucumber, carrot, and onion in a clean cotton cloth and squeeze out the excess water. Transfer the squeezed mixture to the large bowl with the mashed potatoes. Add the ham (if used), mayonnaise, and black pepper. Mix well until smooth and evenly combined.",
+        "To serve, divide the mixture into 6 portions. Use a large spoon to fill each dinner roll with the salad. Enjoy your delicious salad bread!"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Makes 6 salad bread"
+        },
+        {
+          "tag": "li",
+          "text": "6 dinner rolls (bread rolls), cut in half"
+        },
+        {
+          "tag": "li",
+          "text": "1 large potato (about 7 to 8 ounces), peeled and washed"
+        },
+        {
+          "tag": "li",
+          "text": "3 ounces seedless cucumber (⅓ of an English cucumber), chopped"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons chopped carrot"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons chopped onion"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "2 hard-boiled eggs, shelled"
+        },
+        {
+          "tag": "li",
+          "text": "4 slices of cooked ham, chopped (optional)"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup mayonnaise"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon ground black pepper"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "h3",
+          "text": "Start the potatoes"
+        },
+        {
+          "tag": "li",
+          "text": "Cut the potato crosswise into ½-inch thick slices and place them in a medium-sized pot. Add 1 cup of water along with ¼ teaspoon of salt."
+        },
+        {
+          "tag": "li",
+          "text": "Cover the pot and cook over medium heat for about 12 minutes."
+        },
+        {
+          "tag": "h3",
+          "text": "Prepare the vegetables"
+        },
+        {
+          "tag": "li",
+          "text": "Meanwhile, combine the cucumber, carrot, onion, and the remaining ¼ teaspoon of salt in a bowl. Mix well with a large spoon and let it sit for 5 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Check the potatoes for doneness by piercing one slice with a wooden skewer or fork. If it goes through smoothly, the potatoes are thoroughly cooked. If not, reduce the heat to low and cook for a couple of minutes longer."
+        },
+        {
+          "tag": "li",
+          "text": "Drain the potatoes and transfer them to a large bowl. Mash the hot potatoes with a large spoon. Add the hard-boiled eggs and break them up with the spoon. Set aside."
+        },
+        {
+          "tag": "h3",
+          "text": "Make the salad"
+        },
+        {
+          "tag": "li",
+          "text": "Wrap the mixture of cucumber, carrot, and onion in a clean cotton cloth and squeeze out the excess water. Transfer the squeezed mixture to the large bowl with the mashed potatoes."
+        },
+        {
+          "tag": "li",
+          "text": "Add the ham (if used), mayonnaise, and black pepper. Mix well until smooth and evenly combined."
+        },
+        {
+          "tag": "h3",
+          "text": "Serve"
+        },
+        {
+          "tag": "li",
+          "text": "To serve, divide the mixture into 6 portions. Use a large spoon to fill each dinner roll with the salad."
+        },
+        {
+          "tag": "li",
+          "text": "Enjoy your delicious salad bread!"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

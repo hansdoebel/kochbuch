@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/suesskartoffelbrote-mit-veganem-meerettich-cashew-ricotta",
+  "recipes": [
+    {
+      "name": "Süßkartoffelbrote mit veganem Meerettich-Cashew-Ricotta",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/suesskartoffelbrote-mit-veganem-meerettich-cashew-ricotta",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/suesskartoffelbrote-mit-veganem-meerettich-cashew-ricotta#recipe-71825588-d9f8-5a53-a28d-811cab0cb47f",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Sandwiches",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "8 Scheiben Pumpernickel",
+        "3 Süßkartoffeln",
+        "2 Handvoll Feldsalat",
+        "2 Äpfel",
+        "200 g Cashew-Ricotta",
+        "1 Handvoll Rote oder grüne Brunnenkresse",
+        "1-2 EL Meerrettich",
+        "Öl",
+        "FÜR DIE CASHEW RICOTTA",
+        "150 g Cashews (mind. 30 Minuten, am besten aber über Nacht in Wasser eingelegt)",
+        "1/2 Zitrone (Saft!)",
+        "30 ml Wasser",
+        "1 EL Hefeflocken",
+        "1 Knoblauchzehe",
+        "Salz&Pfeffer"
+      ],
+      "instructions": [
+        "Schält die Süßkartoffeln und schneidet sie in dünne Scheiben. In einer Grillpfanne Öl erhitzen. Die Süßkartoffelscheiben mit ein bisschen Salz und Pfeffer würzen und von beiden Seiten rösten.",
+        "Feldsalat zupfen und putzen. Einen Apfel in feine Scheiben schneiden. Die Brunnenkresse abschneiden.",
+        "Für eure Cashew-Ricotta nehmt ihr euch einen Standmixer oder Pürierstab. Cashewkerne, den Saft einer halben Zitrone, 1 Knoblauchzehe, 1 EL Hefeflocken, sowie 15 ml Wasser dazugeben. Mixt das ganze. Wenn es zu fest wird, gebt ihr noch den Rest Wasser (oder auch bei Bedarf noch mehr) dazu. Die Cashew-Ricotta sollte am Ende nicht flüssig, aber auch kein Klumpen sein, sondern eine cremige Masse mit vereinzelten Stücken. Mit Salz und Pfeffer würzen. Wem es nicht käsig genug ist, kann mit Hefeflocken natürlich nachwürzen.",
+        "Für den Sandwich-Aufstrich verrührt ihr die Cashew-Ricotta mit Meerrettich. Hier kommt es natürlich ganz auf euren Geschmack an. Fangt mit 1 EL Meerettich an, das solltet ihr bereits schmecken. Wer so richtig auf Meerrettich steht, gibt einfach noch mehr dazu.",
+        "Anrichten! Beide Pumpernickelscheiben mit der Sandwichcreme bestreichen. Danach alle Zutaten auf einer Scheibe stapeln und mit der zweiten Brotscheibe zuklappen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kuerbiscurry-mit-ingwerchips",
+  "recipes": [
+    {
+      "name": "Veganes Kürbiscurry mit Ingwerchips",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kuerbiscurry-mit-ingwerchips",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-kuerbiscurry-mit-ingwerchips#recipe-033fdc0b-8923-5e43-9833-83f678cb3891",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Für das Curry:",
+        "700 g Hokkaidokürbis",
+        "400 ml Kokosmilch",
+        "200 g Zuckerschoten",
+        "2 Knoblauchzehen",
+        "1 Zwiebel",
+        "10 g Ingwer",
+        "2 Stangen frisches Zitronengras",
+        "1 EL Kokosnussöl",
+        "4 TL Currypulver",
+        "1 TL Chiliflocken",
+        "1 TL Kreuzkümmel",
+        "1 TL Zimt",
+        "2 EL Tomatenmark",
+        "0.5 Limette (Saft)",
+        "Salz",
+        "Pfeffer",
+        "Für die Ingwerchips:",
+        "30 g Ingwer",
+        "2 EL Kartoffelstärke",
+        "300 ml Pflanzenöl",
+        "Salz",
+        "Außerdem:",
+        "250 g Basmatireis",
+        "15 g Koriander"
+      ],
+      "instructions": [
+        "Den Hokkaidokürbis waschen und 300 g davon in kleine Stücke schneiden. In einen Topf geben, etwas Wasser und Salz dazugeben und köcheln lassen, bis er butterweich ist. Im Anschluss mit der Kokosmilch in ein hohes Gefäß geben und pürieren.",
+        "Die restlichen 400 g Hokkaidokürbis würfeln. Zuckerschoten waschen und beides beiseitestellen. Knoblauchzehen, Zwiebel und Ingwer schälen und fein hacken. Die äußeren harten Blätter vom Zitronengras entfernen und die Stangen mit dem Messerrücken zerdrücken, damit sich die Aromen freisetzen können. Koriander waschen und ebenfalls fein hacken.",
+        "Den Basmatireis nach Packungsanleitung kochen.",
+        "Kokosöl in einer großen Pfanne erhitzen und Currypulver, Chiliflocken, Kreuzkümmel, Zimt und Tomatenmark darin ca. 2-3 Minuten auf hoher Hitze anrösten. Die Hitze etwas reduzieren und Knoblauch, Zwiebeln, Ingwer und Kürbiswürfel dazugeben und ca. 5 Minuten scharf anbraten.",
+        "Nun die Kürbis-Kokosmilch und das Zitronengras dazugeben und bei mittlerer Hitze ca. 10-15 Minuten köcheln lassen, bis die Kürbiswürfel weich sind.",
+        "In der Zwischenzeit den Ingwer für die Ingwerchips schälen und in hauchdünne Scheiben schneiden. Im Anschluss mit Kartoffelstärke ummanteln. Pflanzenöl in einem Topf erhitzen. Salz hinzugeben. Solbald das Öl heiß ist, die Ingwerscheiben nach und nach hineingeben und ca. 3-4 Minuten frittieren, bis sie gebräunt und knusprig sind. Zwischendurch immer wieder umrühren. Danach herausnehmen und auf Küchenpapier abtropfen lassen.",
+        "Erst kurz vor dem Servieren die Zuckerschoten zum Curry dazugeben, damit sie knackig bleiben. Das Curry mit Limettensaft, Salz, Pfeffer (und nach Wunsch den anderen Gewürzen) abschmecken. Vor dem Servieren das Zitronengras herausnehmen. Den Teller mit Reis, Kürbiscurry, Ingwerchips und frischem Koriander anrichten und servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

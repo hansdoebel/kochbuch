@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kirsch-cobbler",
+  "recipes": [
+    {
+      "name": "Veganer Kirsch-Cobbler",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kirsch-cobbler",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-kirsch-cobbler#recipe-ff021c02-596b-5634-a9f2-b61bf0c36877",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 runde Backform",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für die Fruchtschicht:",
+        "1 kg Kirschen",
+        "2 EL Zucker (z. B. Kokosnusszucker)",
+        "1 Orange (Abrieb)",
+        "0.5 Zitrone (Abrieb)",
+        "0.5 TL Zimt",
+        "0.25 TL Salz",
+        "2 EL Speisestärke",
+        "Für den Teig:",
+        "125 g Mehl",
+        "50 g Zucker",
+        "1 TL Backpulver",
+        "0.25 TL Salz",
+        "50 g vegane Butter (kalt)",
+        "5 EL pflanzliche Milch"
+      ],
+      "instructions": [
+        "Den Backofen auf 180°C vorheizen. Kirschen entkernen, halbieren und in eine Schüssel geben. Zucker, Orangenabrieb, Zitronenabrieb, Zimt und Salz dazugeben und alles gut vermengen. Speisestärke dazugeben und nochmals alles vermengen, dann in eine gefettete Backform geben.",
+        "Für die Teigschicht Mehl, Zucker, Backpulver und Salz in einer Schüssel verrühren. Kalte vegane Butter reiben oder würfeln und dazugeben. Mit einer Gabel oder den Fingerspitzen einarbeiten, bis feine Streusel entstehen. Zum Schluss nach und nach pflanzliche Milch dazugeben, bis ein leicht klebriger, weicher Teig entsteht.",
+        "Den Teig in kleinen Portionen auf der Kirschfüllung verteilen. Die Kirschfüllung muss dabei nicht komplett bedeckt sein.",
+        "Den Cobbler ca. 30 Minuten bei 180°C backen, bis die Teigschicht goldbraun ist. Danach aus dem Ofen nehmen, nur ein paar Minuten abkühlen und den Cobbler am besten noch warm mit veganem Eis genießen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

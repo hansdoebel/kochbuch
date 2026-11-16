@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-gurkensalat",
+  "recipes": [
+    {
+      "name": "Veganer Gurkensalat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-gurkensalat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-gurkensalat#recipe-423eaab9-dc87-53d8-b286-232241acc16a",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "1 Gurke",
+        "1 rote Zwiebel",
+        "15 g frischer Dill",
+        "2 EL Kräuteressig",
+        "1 EL neutrales Pflanzenöl",
+        "3 EL pflanzliche Sahne",
+        "1 EL Agavendicksaft",
+        "Salz",
+        "Pfeffer",
+        "Zucker"
+      ],
+      "instructions": [
+        "Gurke waschen, in dünne Scheiben schneiden und in eine Schüssel geben. Gut salzen und ca. 5 Minuten stehen lassen. Anschließend das ausgetretene Wasser abgießen.",
+        "Die rote Zwiebel in dünne Scheiben schneiden und den Dill fein hacken.",
+        "In einem hohen Gefäß Kräuteressig, Öl, pflanzliche Sahne und Agavendicksaft pürieren.",
+        "In einer Schüssel Gurken- und Zwiebelscheiben mit dem Dill und Dressing vermengen und mit Salz, Pfeffer und Zucker abschmecken."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

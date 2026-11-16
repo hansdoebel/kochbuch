@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/pinker-veganer-glasnudelsalat",
+  "recipes": [
+    {
+      "name": "Pinker veganer Glasnudelsalat",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/pinker-veganer-glasnudelsalat",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/pinker-veganer-glasnudelsalat#recipe-db997119-1213-5997-aad2-99803f0e1fbf",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Für den Salat:",
+        "100 g Glasnudeln",
+        "1 TL geröstetes Sesamöl",
+        "1 EL Rote-Bete-Saft",
+        "1 Mango",
+        "1 Avocado",
+        "0.5 Gurke",
+        "1 gelbe Paprikaschote",
+        "50 g Babyspinat",
+        "10 g Koriander",
+        "Für das Dressing:",
+        "1 kleine rote Chilischote",
+        "15 g Ingwer",
+        "1 EL geröstetes Sesamöl",
+        "3 EL Sojasoße",
+        "1.5 TL Reisessig",
+        "1.5 EL Limettensaft",
+        "1.5 EL Agavendicksaft",
+        "1 EL Cashewmus",
+        "Wasser",
+        "Salz",
+        "Pfeffer",
+        "Zum Servieren:",
+        "heller und dunkler Sesam",
+        "geröstete Cashewnüsse"
+      ],
+      "instructions": [
+        "Glasnudeln nach Packungsanleitung zubereiten. Danach abgießen und in eine Schüssel geben. Geröstetes Sesamöl und Rote-Bete-Saft dazugeben und gut durchschwenken, damit sich die Glasnudeln färben.",
+        "Mango und Avocado in dünne Scheiben schneiden. Gurke, Paprika und frischen Spinat waschen und in Streifen schneiden. Koriander waschen, die Blätter abzupfen und grob hacken.",
+        "Für das Dressing Chilischote entkernen und den Ingwer schälen. Beides fein hacken und zusammen mit Sesamöl, Sojasoße, Reisessig, Limettensaft, Agavendicksaft und Cashewmus verrühren. Soviel Wasser dazugeben, bis die gewünschte Konsistenz des Dressings erreicht ist. Mit Salz und Pfeffer abschmecken.",
+        "Die Glasnudeln, das geschnittene Gemüse sowie die Mango auf einem Servierteller anrichten. Mit dem Dressing beträufeln und mit Koriander, Sesam und gehackten, gerösteten Cashewnüssen toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

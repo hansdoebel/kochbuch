@@ -1,0 +1,70 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gefuellte-knoedel-mit-rosenkohl-und-cranberrysosse",
+  "recipes": [
+    {
+      "name": "Vegane gefüllte Knödel mit Cranberrysoße und Rosenkohl",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gefuellte-knoedel-mit-rosenkohl-und-cranberrysosse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-gefuellte-knoedel-mit-rosenkohl-und-cranberrysosse#recipe-554a9a55-7aa8-5c71-9b40-761cbf392310",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT80M",
+      "ingredients": [
+        "Für die gefüllten Knödel:",
+        "800 g festkochende Kartoffeln",
+        "100 g Kartoffelstärke",
+        "50 g Mehl",
+        "50 g weiche vegane Butter",
+        "1 TL gemahlener Muskat",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "150 g Pilze",
+        "250 g veganes Hack",
+        "1 TL edelsüßes Paprikapulver",
+        "1 TL getrockneter Oregano",
+        "0.5 TL Cayennepfeffer",
+        "1-2 EL Sojasoße",
+        "10 g Soja- oder Kichererbsenmehl (optional)",
+        "Pflanzenöl zum Braten",
+        "Salz",
+        "Pfeffer",
+        "Für die Cranberrysoße:",
+        "200 g frische Cranberrys",
+        "100 ml veganer Rotwein",
+        "4 EL Zucker",
+        "1 TL Zimt",
+        "2 Orangen (Abrieb und Saft)",
+        "Außerdem:",
+        "500 g Rosenkohl",
+        "4 EL neutrales Pflanzenöl",
+        "1 EL Agavendicksaft",
+        "1-2 EL Zucker",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Kartoffeln mit Schale in einen Topf geben, mit kaltem Wasser bedecken und kräftig salzen. Das Wasser aufkochen lassen und danach bei mittlerer Hitze ca. 20 Minuten kochen, oder bis die Kartoffeln gar sind. Danach abgießen und noch im warmen Topf ausdampfen lassen.",
+        "Cranberrys waschen und in einen Topf geben. Veganen Rotwein, Zucker, Zimt, Orangenabrieb und -saft hinzugeben und auf mittlerer Hitze ca. 5-10 Minuten köcheln lassen, bis die Soße leicht angedickt ist. Nach Wunsch mehr Zimt dazugeben. Die Soße danach warm halten oder kurz vor dem Servieren nochmal erwärmen.",
+        "Die Kartoffeln schälen und mit einer Kartoffelpresse zerdrücken, bis der Kartoffelstampf keine großen Stückchen mehr enthält. Kartoffelstärke, Mehl und weiche vegane Butter dazugeben und alles zu einem Teig vermengen. Mit Salz, Pfeffer und Muskat würzen.",
+        "Für die Füllung Zwiebel und Knoblauch schälen und fein hacken. Pilze mit einem nassen Tuch putzen und ebenfalls sehr klein schneiden.",
+        "Pflanzenöl in einer Pfanne erwärmen und die Zwiebelwürfel anschwitzen, bis sie glasig sind. Im Anschluss die Pilze und den kleingeschnittenen Knoblauch, das vegane Hack, edelsüßes Paprikapulver, Oregano, Cayennepfeffer und Pfeffer hinzugeben und ca. 5-10 Minuten auf mittlerer Hitze anbraten. Zum Ende der Kochzeit mit Sojasoße ablöschen. Die Füllung vom Herd nehmen und erst einmal beiseitestellen, bis sie etwas abgekühlt ist.",
+        "Den Ofen auf 200°C (Ober- und Unterhitze) vorheizen. Den Rosenkohl putzen, halbieren und in eine Auflaufform geben. Pflanzenöl, Agavendicksaft, Salz und Pfeffer hinzugeben und alles gut vermischen. Den Rosenkohl ca. 15 Minuten im Ofen garen, bis er leicht gebräunt ist. Nach der Zeit Zucker über den Rosenkohl streuen und die Auflaufform für weitere 5-10 Minuten in den Ofen schieben, bis der Zucker karamellisiert ist.",
+        "Sobald die Kloßfüllung abgekühlt ist, acht gleich große Bällchen aus der Pilz-Hack-Füllung formen. Sollten diese nicht halten, könnt ihr etwas Soja- oder Kichererbsenmehl zur Stabilisation hinzugeben.",
+        "Den Knödelteig ebenfalls in acht gleich große Portionen aufteilen. Jeweils ein Stück Teig erst auf die Hand legen, ein Pilz-Hack-Bällchen in die Mitte geben und den Teig nun darum zu einem runden Kloß rollen.",
+        "In einem großen Topf Wasser salzen und sieden lassen. Es sollte nicht richtig kochen, sondern immer nur kurz davor sein. Die Kartoffelklöße ca. 20 Minuten im siedenden Wasser ziehen lassen. Sie werden an der Oberfläche schwimmen, sobald sie fertig sind. Um zu testen, ob sie wirklich schon fertig sind, könnt ihr einen Kloß aus dem Wasser nehmen und ein kleines Stück probieren.",
+        "Die gefüllten Knödel mit der Cranberrysoße und dem gebackenen Rosenkohl servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

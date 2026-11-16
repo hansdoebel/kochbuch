@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.recipetineats.com/egg-sandwich/",
+  "recipes": [
+    {
+      "name": "Egg sandwich",
+      "source_url": "https://www.recipetineats.com/egg-sandwich/",
+      "recipe_id": "https://www.recipetineats.com/egg-sandwich/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "4",
+        "4 full sandwiches"
+      ],
+      "prep_time": "PT10M",
+      "cook_time": "PT8M",
+      "total_time": null,
+      "ingredients": [
+        "6 soft boiled eggs (, at room temperature (Note 1))",
+        "2 tbsp whole egg mayonnaise",
+        "2 tsp dijon mustard",
+        "2 tsp finely chopped chives ((sub green onion))",
+        "1/2 tsp black pepper",
+        "1/8 tsp cooking/kosher salt ((yes really, that's all!))",
+        "8 slices soft white sandwich bread ((Note 3))",
+        "Soft salted butter (, for spreading on bread)"
+      ],
+      "instructions": [
+        "Mash egg: Place the eggs in a bowl and crush with a fork. Once mostly broken up, use a potato masher to mash them up really well. Smaller egg white bits = creamier filling.",
+        "Filling: Add remaining filling ingredients and gently stir to combine. Taste and add more salt if desired, but add with caution because it's bizarre how little salt eggs can take!",
+        "Make sandwich: Butter the bread. Divide filling between 4 pieces of bread, spread evenly edge to edge. Trim crusts (optional), then cut as you wish. (Note 4 tips)",
+        "Serve: Always serve at room temperature, for best flavour!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. Soft boiled eggs – Boil 10cm/4″ water, gently place eggs in, set timer for 8 minutes. Cool 10 minutes in sink or large bowl of cold water. Peel from base in water. (See boil eggs recipe for full directions & the why) 2. Mayonnaise – Whole egg mayo is creamier and less tangy than normal mayo. My recommended is S&W (Australia), followed by Hellman’s and Kewpie (equal second). 3. Bread – My preferred is Baker’s Delight standard white sandwich bread (thick cut which is thicker than standard slices) but any sandwich bread with work. (Australian chain bakery brand). Though if you use very chewy artisan bread with thick crusts, you may experience filling ooze issues when eating. The filling is creamy!! 4.Cutting – For extra neat cuts, refrigerate for 1 hour before cutting (this firms the filling). Pictured in post – each sandwich cut into 3 rectangle fingers. Other options diagonal (2 or 4 per sandwich) or squares. 5. Storage – 2 days in the fridge, but please eat at room temperature! You can’t taste the filling as much when fridge cold. Nutrition per sandwich assuming 1 tbsp table butter spread per sandwich."
+  ]
+}

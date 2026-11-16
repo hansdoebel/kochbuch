@@ -1,0 +1,64 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schoko-kirsch-muffins-mit-cheesecake-fuellung",
+  "recipes": [
+    {
+      "name": "Vegane Schoko-Kirsch-Muffins mit Cheesecake-Füllung",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schoko-kirsch-muffins-mit-cheesecake-fuellung",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-schoko-kirsch-muffins-mit-cheesecake-fuellung#recipe-158f1bd1-2d60-5597-b756-f404755379e7",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Muffins",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für den Schokoteig:",
+        "180 g Mehl Typ 405",
+        "45 g Zucker",
+        "45 g Schokoraspel",
+        "25 g ungesüßtes Kakaopulver",
+        "8 g (1.5 TL) Backpulver",
+        "0.5 TL Natron",
+        "90 g vegane Butter",
+        "180 ml pflanzliche Milch",
+        "100 g Apfelmus",
+        "Salz",
+        "Für die Cheesecake-Füllung:",
+        "150 g veganer Frischkäse (auf Mandelbasis)",
+        "75 g veganer Skyr",
+        "20 g Zucker",
+        "10 g Speisestärke",
+        "2 TL Zitronensaft",
+        "1 Zitrone (Abrieb)",
+        "Für die Streusel:",
+        "75 g gemahlene Mandeln",
+        "45 g kalte vegane Butter",
+        "45 g Zucker",
+        "25 g Mehl Typ 405",
+        "15 g ungesüßtes Kakaopulver",
+        "0.5 TL Salz",
+        "Außerdem:",
+        "ca. 300 g Kirschen",
+        "vegane Butter zum Einfetten"
+      ],
+      "instructions": [
+        "Zu Beginn die Kirschen waschen, entstielen, entkernen und im Anschluss vierteln. Den Ofen auf 180°C Umluft vorheizen.",
+        "Für den Schokoteig Mehl, Zucker, Schokoraspel, Kakaopulver, Backpulver, Natron und eine Prise Salz in einer großen Schüssel verrühren. Anschließend vegane Butter schmelzen lassen und mit pflanzlicher Milch und Apfelmus hinzugeben und alles gut mit einem Handrührgerät oder einem Schneebesen verrühren.",
+        "Für die Cheesecake-Füllung veganen Frischkäse, veganen Skyr, Zucker, Speisestärke, Zitronensaft und Zitronenabrieb in einer Schüssel glatt rühren. Nach Geschmack auch mehr Zitronenabrieb dazugeben.",
+        "Für die Streusel gemahlene Mandeln, kalte vegane Butter, Zucker, Mehl, Kakaopulver und Salz zu einem krümeligen Teig verkneten. Dabei darauf achten, dass die Butter nicht zu warm wird, da die Streusel sonst nicht so knusprig werden.",
+        "Tipp: Wenn die vegane Butter beim Kneten zu warm und der Teig damit zu weich wird, den Teig ca. 10-15 Minuten in den Kühlschrank legen und erst danach verwenden.",
+        "Nun die Muffinform mit veganer Butter einfetten. Zuerst ca. 1.5 EL Schokoteig in die Form füllen, damit sie etwas zur Hälfte gefüllt ist. Danach etwas Cheesecake-Füllung daraufgeben und mit Kirschen bedecken. Zum Schluss eine dicke Schicht Streusel drüberbröseln.",
+        "Die Muffins ca. 30 Minuten bei 180°C Umluft backen. Danach kurz auskühlen lassen, bevor sie aus der Form genommen werden."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

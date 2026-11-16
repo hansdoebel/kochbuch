@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gnocchi-pfanne-mit-rosenkohl-und-veganen-filets",
+  "recipes": [
+    {
+      "name": "Gnocchi-Pfanne mit Rosenkohl und veganen Filets",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/gnocchi-pfanne-mit-rosenkohl-und-veganen-filets",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/gnocchi-pfanne-mit-rosenkohl-und-veganen-filets#recipe-1b359be3-fad9-5a7d-a653-241b1f6c79a9",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "250 g Rosenkohl",
+        "2 vegane Hähnchenfilets",
+        "2 Zwiebeln",
+        "1 Knoblauchzehe",
+        "400 g vegane Gnocchi",
+        "0.5 TL Chiliflocken",
+        "2 EL vegane Butter",
+        "2 EL Mehl",
+        "100 ml Gemüsebrühe",
+        "250 ml vegane Sahne",
+        "100 ml vegane Crème fraîche",
+        "100 g veganer Streukäse",
+        "1 TL getrockneter Beifuß",
+        "3 EL getrocknete Cranberrys",
+        "Pflanzenöl zum Braten",
+        "Petersilie zum Servieren",
+        "Salz",
+        "Pfeffer",
+        "Zimt",
+        "Muskat"
+      ],
+      "instructions": [
+        "Den Rosenkohl putzen und vierteln und die veganen Filets in Streifen schneiden. Zwiebeln und Knoblauch schälen und fein würfeln.",
+        "Pflanzenöl in einer gusseisernen Pfanne erhitzen und zuerst die veganen Filetstreifen, den Rosenkohl und die veganen Gnocchi darin ca. 5 Minuten anbraten, bis sie etwas gebräunt sind. Anschließend aus der Pfanne nehmen und beiseitestellen.",
+        "Die Pfanne zurück auf den Herd stellen und darin vegane Butter schmelzen lassen. Die Zwiebel- und Knoblauchwürfel und Chiliflocken anschwitzen, bis die Zwiebel glasig ist. Danach Mehl einstäuben und vermengen. Gemüsebrühe und vegane Sahne dazugeben und alles einmal aufkochen lassen. Danach die vegane Crème fraîche, veganen Streukäse, Beifuß und die getrockneten Cranberrys dazugeben und vermengen. Die Soße großzügig mit Salz, Pfeffer, etwas Zimt und Muskat abschmecken.",
+        "Den Backofen auf 220 °C (Oberhitze) vorheizen. Die Gnocchi, veganen Hähnchenstreifen und den Rosenkohl zurück in die Pfanne geben und alles gut vermengen. Die gusseiserne Pfanne danach in den heißen Ofen stellen und nur kurz überbacken, bis die Gnocchi-Pfanne von oben gebräunt ist."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

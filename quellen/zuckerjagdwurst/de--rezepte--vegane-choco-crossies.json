@@ -1,0 +1,37 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-choco-crossies",
+  "recipes": [
+    {
+      "name": "Vegane Choco Crossies",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-choco-crossies",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-choco-crossies#recipe-ad465eb2-3eb4-5181-8954-2c9d7a9700fd",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "25 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "200 g vegane Milchschokolade",
+        "1 TL Kokosnussöl",
+        "100 g Cornflakes",
+        "20 g Mandelstifte"
+      ],
+      "instructions": [
+        "Zwei Drittel der veganen Milchschokolade in einem Wasserbad schmelzen und das Kokosnussöl hinzugeben. Das Wasserbad vom Herd nehmen, die restliche Schokolade unterrühren und warten, bis diese ebenfalls geschmolzen ist.",
+        "Währenddessen die Cornflakes zerkleinern. Dafür entweder die Cornflakes in eine Tüte geben und mit einem Nudelholz mehrfach darüberrollen oder in einem Mörser grob zerkleinern.",
+        "In einer Schüssel die Cornflakes mit den Mandelstiften und der geschmolzenen Schokolade vermischen.",
+        "1–2 EL der Masse portionsweise auf Backpapier platzieren und anschließend gut trocknen lassen. In einem luftdichten Behälter im Kühlschrank halten sie sich bis zu sieben Tage."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

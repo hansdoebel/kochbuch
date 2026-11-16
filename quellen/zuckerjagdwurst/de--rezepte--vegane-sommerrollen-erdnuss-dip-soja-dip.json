@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-sommerrollen-erdnuss-dip-soja-dip",
+  "recipes": [
+    {
+      "name": "Vegane Sommerrollen mit 2 Dips",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-sommerrollen-erdnuss-dip-soja-dip",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-sommerrollen-erdnuss-dip-soja-dip#recipe-adb865c7-e26f-5954-acae-62d87cd5984f",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "10 Sommerrollen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "10 Reispapier",
+        "Gemüse/Obst deiner Wahl (z. B. Gurke, Möhre Paprika, Mango, Salat, Avocado, Koriander, Sprossen, Rotkraut, ...)",
+        "Tofu (optional)",
+        "Glasnudeln (optional)",
+        "Erdnuss-Dip:",
+        "2 EL Cremige Erdnussbutter",
+        "5 EL Wasser",
+        "1 TL Agavendicksaft",
+        "2 TL Sojasauce",
+        "2 TL Limettensaft",
+        "Soja-Limetten-Dip:",
+        "2 Limetten (Saft)",
+        "1 TL Reisessig",
+        "1 cm Ingwer",
+        "1 TL Sesam",
+        "1 TL Sojasauce",
+        "1 TL geröstetes Sesamöl",
+        "1 TL Agavendicksaft",
+        "0.5 TL Chiliflocken"
+      ],
+      "instructions": [
+        "Schneidet euer Gemüse und Obst vor. Damit das Rollen leichter fällt, solltet ihr alle Zutaten, mit denen ihr die Sommerrollen füllt, auf die gleiche Länge schneiden.",
+        "Solltet ihr Tofu verwenden, könnt ihr euch entscheiden, ob ihr ihn vorher in etwas Öl anbratet. Falls ihr Glasnudeln verwendet, solltet ihr sie nach Packungsanleitung vorbereiten.",
+        "Bereitet eine große Schale mit warmem Wasser vor. Dort legt ihr ein Sommerrollen-Papier hinein und wartet ein paar Sekunden, bis es weich genug zum Rollen ist. Nehmt es aus dem Wasser und legt es auf ein Brett. Legt nun die Füllung eurer Wahl circa in die Mitte des unteren Drittels des Papiers.",
+        "Rollt die Sommerrolle erst von unten auf, so dass die Füllung einmal komplett umhüllt ist. Dann klappt ihr die linke und rechte Seite der Sommerrolle nach innen und rollt nun die restliche Sommerrolle eng auf. Wiederholt den Vorgang mit dem restlichen Sommerrollen-Papier und der restlichen Füllung.",
+        "Sobald eure Sommerrollen fertig sind, könnt ihr noch die Dips zubereiten. Für den Erdnussdip verrührt ihr cremige Erdnussbutter, Wasser, Agavendicksaft, Sojasauce und Limettensaft. Schmeckt den Dip ab. Für den Limettendip verrührt ihr Limettensaft, Reisessig, Sojasauce, Sesamöl und Agavendicksaft. Schält den Ingwer und reibt ihn direkt zum Dip. Gebt etwas Sesam und Chiliflocken dazu und schmeckt den Dip erneut ab.",
+        "Sommerrollen mit Dips servieren und bon appetit!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

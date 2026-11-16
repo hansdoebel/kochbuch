@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-ruehrkuchen-mit-baerlauch",
+  "recipes": [
+    {
+      "name": "Veganer Rührkuchen mit Bärlauch",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-ruehrkuchen-mit-baerlauch",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-ruehrkuchen-mit-baerlauch#recipe-ddc8d26f-623b-5b5a-a2b6-6c624b4e829a",
+      "authors": [
+        "Anneke Schügner"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Gugelhupf-Form (∅ 21 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT75M",
+      "ingredients": [
+        "Für das Bärlauchpesto:",
+        "170 g Bärlauch",
+        "2 Knoblauchzehen",
+        "100 ml Olivenöl",
+        "2 EL Hefeflocken",
+        "Salz",
+        "Pfeffer",
+        "Für die vegane Frischkäse-Füllung:",
+        "50 g pflanzlicher Fetakäse",
+        "50 g pflanzlicher Frischkäse",
+        "pflanzliche Milch (optional)",
+        "Salz",
+        "Pfeffer",
+        "Für den Teig:",
+        "350 g Weizenmehl Typ 405 oder Dinkelmehl 630",
+        "16 g (1.5 EL) Backpulver",
+        "1 EL Salz",
+        "1 EL Zwiebelpulver",
+        "4 EL Hefeflocken",
+        "4 EL (28 g) Ei-Ersatz",
+        "200 ml Sprudelwasser",
+        "400 g veganer Skyr",
+        "150 g Walnüsse",
+        "vegane Butter zum Einfetten"
+      ],
+      "instructions": [
+        "Den Backofen auf 180°C (Umluft) vorheizen. Für das Pesto Bärlauch und Knoblauch grob hacken und in eine Schüssel geben. Olivenöl und Hefeflocken hinzugeben und mit dem Pürierstab verarbeiten, bis ein glattes Pesto entsteht. Mit Salz und Pfeffer abschmecken.",
+        "Für die Füllung veganen Feta mit einer Gabel zerdrücken. Pflanzlichen Frischkäse hinzugeben und gut verrühren. Sollte der verwendete Frischkäse sehr fest sein, ein wenig pflanzliche Milch hinzugeben. Mit Salz und Pfeffer abschmecken.",
+        "Für den Teig Mehl, Backpulver, Salz, Zwiebelpulver und Hefeflocken in eine große Schüssel geben und miteinander vermengen. Die veganen Eier mit Sprudelwasser Anrühren und ebenfalls in die Schüssel geben. Anschließend auch den pflanzlichen Skyr hinzugeben und alles mit dem Handrührgerät gut verrühren.",
+        "Den Teig in zwei gleich große Portionen aufteilen und in separate Schüsseln geben. Die erste Teighälfte mit dem Bärlauchpesto vermengt. Walnüsse zur zweiten Teighälfte hinzugeben und unterheben.",
+        "Die Backform gründlich mit veganer Butter einfetten und zuerst den grünen Bärlauch-Teig hineingeben. Die cremige Füllung mit zwei Löffeln portionsweise darauf geben (die Portionen sollten ungefähr die Größe einer Walnuss haben). Anschließend mit der zweiten, „neutralen” Teighälfte bedecken. Den Kuchen bei 180°C (Umluft) ca. 45 Minuten backen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

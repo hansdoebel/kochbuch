@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/buffalo-chickpea-sandwich-1528",
+  "recipes": [
+    {
+      "name": "Buffalo Chickpea Sandwich",
+      "source_url": "https://www.pickuplimes.com/recipe/buffalo-chickpea-sandwich-1528",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "3 sandwiches",
+      "prep_time": "PT15M",
+      "cook_time": "",
+      "total_time": "PT15M",
+      "ingredients": [
+        "1½ cup cooked chickpeas",
+        "3 Tbsp cayenne pepper hot sauce",
+        "2 Tbsp vegan mayonnaise",
+        "1 celery rib",
+        "½ small red onion",
+        "1½ Tbsp chopped pickles",
+        "¼ tsp garlic powder",
+        "½ cup vegan mayonnaise",
+        "2 Tbsp unsweetened soy milk",
+        "1 Tbsp ranch spice mix",
+        "¼ lemon",
+        "6 slice rustic bread",
+        "3 butter lettuce leaf",
+        "1 large tomato"
+      ],
+      "instructions": [
+        "In a medium bowl, use a fork to mash together all the chickpea salad ingredients.",
+        "In a small bowl, mix together all the ranch mayo ingredients.",
+        "Toast the bread slices.",
+        "Spread the ranch mayo over one side of each bread slice. Top with the lettuce, tomatoes, and chickpea salad, then close with the remaining slices. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We used Frank's Red Hot Sauce.",
+    "Storage The prepared sandwich is best enjoyed on the day it's made. Note that the bread will get a bit soggy over time. The sandwich filling can be stored in an airtight container in the fridge for up to 2 days."
+  ]
+}

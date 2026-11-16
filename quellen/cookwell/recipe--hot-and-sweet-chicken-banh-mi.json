@@ -1,0 +1,59 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/hot-and-sweet-chicken-banh-mi",
+  "recipes": [
+    {
+      "name": "Hot & Sweet Chicken Banh Mi",
+      "source_url": "https://app.cookwell.com/recipe/hot-and-sweet-chicken-banh-mi",
+      "recipe_id": "https://app.cookwell.com/recipe/hot-and-sweet-chicken-banh-mi",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4-6 sandwiches",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT1H",
+      "ingredients": [
+        "Chicken Thighs, 4",
+        "Salt, 5 g",
+        "Mayonnaise, 40 g",
+        "Hoisin, 20 g",
+        "Honey, 15 g",
+        "Sriracha, 10 g",
+        "Soy Sauce, 10 g",
+        "Garlic, 1 clove",
+        "Chinese Five Spice, a sprinkle",
+        "Black Pepper, a sprinkle",
+        "Carrots, 2",
+        "Daikon radish, 1",
+        "Water, 250 g",
+        "Vinegar, 250 g",
+        "Sugar, 20 g",
+        "Salt, 10 g",
+        "Dried bird's eye chiles, 6",
+        "Garlic, 4 cloves",
+        "Honey, a spoonful",
+        "Baguettes",
+        "Cucumbers",
+        "Cilantro",
+        "Jalapeños",
+        "Mayonnaise",
+        "Maggi Seasoning"
+      ],
+      "instructions": [
+        "In a large bowl, mix together all chicken marinade ingredients. Add the chicken to the bowl, and sprinkle evenly with salt. Use your hands to massage the marinade into the chicken until everything is well coated. Let the chicken marinate for around 30 minutes while you complete the next steps. Note: The mayo in the marinade helps the spices stick to the chicken and creates a better crust during the searing process.",
+        "Start the pickling liquid: pour the water and vinegar into a pot over medium-high heat and bring to a boil. Meanwhile, add the julienned carrots and watermelon radishes to a bowl. Sprinkle in the salt and sugar and lightly massage the vegetables to start softening them. Pour the hot liquid over the carrots and radish. Stir to combine and completely dissolve the sugar and salt. Set aside and allow to cool completely. Store in a mason jar or airtight container in the fridge for several weeks.",
+        "Remove the stem and seeds from the dried chilies. Add the dried chiles to a bowl. In a kettle or pot, boil some water and pour it over the chiles. Set them aside for 5-10 minutes to rehydrate. Toss the rehydrated chiles into a mortar and pestle with a sprinkle of salt. Bash and grind the chiles until a smooth paste forms. Add in the garlic cloves and continue mashing until a rough paste is reached. Transfer to a container, add the spoonful of honey, and mix everything to combine. Taste it and add salt or more honey as needed. Caution: this will be spicy. Store in the fridge for several weeks.",
+        "Heat a cast iron or griddle over medium-high heat, then lay down the marinated chicken pieces in one even layer on the pan. Sear them until they are golden brown and crisp on one side (usually about 3-4 minutes). Flip and continue to sear until the other sides are browned and their internal temperature has reached at least 165°F/73°C. Let the chicken rest for 5 minutes before slicing.",
+        "Thinly slice the chicken thighs across the grain. Slice open the baguettes, but don’t go all the way through, leaving a “hinge” on one side. Optionally scrape out some of the bread from the interior to make more room for fillings. First, slather mayo on both insides of the bread, then a thin layer of the chili garlic paste, and a few dashes of Maggi seasoning all around. Layer in a portion of sliced chicken, fresh vegetables, and finally, pickled carrots and radishes. Close the sandwiches and enjoy."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

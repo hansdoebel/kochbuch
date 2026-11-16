@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.recipetineats.com/peach-salad/",
+  "recipes": [
+    {
+      "name": "Peach Salad",
+      "source_url": "https://www.recipetineats.com/peach-salad/",
+      "recipe_id": "https://www.recipetineats.com/peach-salad/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "4"
+      ],
+      "prep_time": "PT10M",
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "3 small peaches or 2 large peaches",
+        "4 cups loosely packed rocket/arugula",
+        "150g/5oz ball buffalo or cow’s milk mozzarella ((1 ball, ok it slightly less or more))",
+        "4 slices prosciutto ((or jamon serrano, about 70g/2.5 oz; for other subs see Note 1))",
+        "1 1/2 tbsp fresh lemon juice",
+        "1 1/2 tsp Dijon mustard",
+        "4 1/2 tbsp extra virgin olive oil",
+        "1/4 tsp each salt and pepper"
+      ],
+      "instructions": [
+        "Cut peach: Halve peaches. Remove seed. Cut each half into half again. If your peaches are really large, cut each half into thirds.",
+        "Dressing: Combined dressing ingredients in a jar and shake well.",
+        "Toss rocket in ~2 tbsp of dressing.",
+        "Mozzarella: Tear mozzarella into pieces.",
+        "Assemble: Arrange rocket, peaches, mozzarella on a large plate or platter. Drape prosciutto around salad. Drizzle remaining oil over the salad. Serve!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. Other cold cuts you can substitute: thinly sliced pancetta, coppa/capocollo, bresaola. For a non-meat option, sliced marinated artichokes are excellent in this salad."
+  ]
+}

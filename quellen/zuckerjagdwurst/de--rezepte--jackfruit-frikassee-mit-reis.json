@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/jackfruit-frikassee-mit-reis",
+  "recipes": [
+    {
+      "name": "Jackfruit-Frikassee mit Reis",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/jackfruit-frikassee-mit-reis",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/jackfruit-frikassee-mit-reis#recipe-955ca6f3-a306-594c-ab69-d9eff34233e1",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Personen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "250 g Basmatireis",
+        "2 Dosen Jackfruit (500 g Abtropfgewicht)",
+        "100 g Tiefkühlerbsen",
+        "1 Möhre",
+        "1 Zwiebel",
+        "50 g Champignons",
+        "100 g weiße Spargelköpfe",
+        "50 ml veganer Weißwein",
+        "1 TL Senf",
+        "250 ml pflanzliche Sahne",
+        "250 ml Gemüsebrühe",
+        "4 EL Mehl",
+        "4 EL vegane Butter",
+        "1 Zitrone (Saft)",
+        "Öl zum Braten",
+        "glatte Petersilie zum Servieren",
+        "Salz",
+        "Pfeffer",
+        "Muskatnuss"
+      ],
+      "instructions": [
+        "Reis in der doppelten Menge Wasser kochen. Das Wasser salzen und so lang köcheln, bis das Wasser vom Reis komplett aufgesogen ist, das dauert ca. 20 Minuten. Wenn er euch noch zu bissfest ist, noch etwas mehr Wasser dazugeben.",
+        "Zwiebel fein hacken. Möhre klein schneiden. Champignons putzen und vierteln. Spargelspitzen abgießen. Jackfruit abgießen. Erbsen bereitstellen.",
+        "Öl in einer Pfanne erhitzen und Jackfruit-Stückchen und Champignons dazugeben, ca. 5 Min. kräftig anbraten. Danach Zwiebelwürfel, Möhrenstückchen und Erbsen dazugeben und das Gemüße ca. 15 Min. auf kleiner Flamme anbraten. Nach ca. 10 Min. könnt ihr die Jackfruit-Stückchen mit zwei Gabeln in ihre feinen Fäden zerreißen.",
+        "In einem Topf Butter erhitzen und Mehl einrühren. Mit Gemüsebrühe ablöschen und Sahne und Weißwein dazugießen. Senf einrühren. Mit Salz, Pfeffer, Muskat und einem Schuss Zitronensaft abschmecken. Die Soße auf kleiner Flamme ca. 10 Min. köcheln lassen.",
+        "Das Gemüse und die Jackfruit zur Soße geben und vermengen. Mit Reis und gehackter Petersilie servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

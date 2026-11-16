@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-blt-sandwich",
+  "recipes": [
+    {
+      "name": "Veganes BLT Sandwich mit Ofentomaten und veganer Dill-Mayo",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-blt-sandwich",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-blt-sandwich#recipe-6cd5b351-ef73-52e3-9855-661013a36009",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "2 Sandwiches",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für das Sandwich:",
+        "4 Scheiben Sauerteigbrot",
+        "2 Tomaten",
+        "1 EL Olivenöl",
+        "1 Knoblauchzehe",
+        "4 EL vegane Mayonnaise",
+        "10 g Dill",
+        "0.5 Zitrone (Abrieb)",
+        "1 Romanasalat",
+        "Salz",
+        "Pfeffer",
+        "Für den Tofu-Bacon:",
+        "100 g Räuchertofu",
+        "1 EL Sojasoße",
+        "1 EL Liquid Smoke",
+        "0.5 EL Ahornsirup",
+        "0.5 TL Senf",
+        "neutrales Pflanzenöl",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Backofen auf 180 °C (Umluft) vorheizen. Die Tomate in dickere Scheiben schneiden – den Strunk dabei auslassen oder rausschneiden. Knoblauchzehe schälen und fein hacken. Tomatenscheiben auf ein Backblech legen, mit Olivenöl beträufeln und den gehackten Knoblauch darauf verteilen. Mit Salz und Pfeffer würzen und die Tomaten ca. 15 Minuten im Ofen garen.",
+        "In der Zwischenzeit den Räuchertofu in sehr dünne Scheiben schneiden. Sojasoße, Liquid Smoke, Ahornsirup, Senf, Salz und Pfeffer in einer großen Schüssel verrühren. Die Tofuscheiben dazugeben, alles gut vermengen und ca. 5 Minuten stehen lassen. Anschließend Pflanzenöl in einer Pfanne bei mittlerer Hitze erwärmen und den Räuchertofu von beiden Seiten anbraten, bis er knusprig und braun ist.",
+        "Vegane Mayonnaise in eine kleine Schüssel geben. Dill fein hacken und die Schale der Zitrone abreiben. Beides zur veganen Mayonnaise geben und anschließend alles gut vermengen.",
+        "Brotscheiben toasten und das Sandwich belegen. Die Brotscheiben mit der veganen Dill-Mayo bestreichen und mit Romana-Salatblättern, dem knusprigen Räuchertofu und den Ofentomaten belegen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

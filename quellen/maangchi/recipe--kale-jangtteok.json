@@ -1,0 +1,124 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/kale-jangtteok",
+  "recipes": [
+    {
+      "name": "Kale Pancakes",
+      "source_url": "https://www.maangchi.com/recipe/kale-jangtteok",
+      "recipe_id": "/recipe/kale-jangtteok#sso/recipe/36820",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 cup all purpose flour",
+        "2 tablespoons doenjang (soybean paste)",
+        "4 teaspoons gochujang (hot pepper paste)",
+        "1 cup water",
+        "5 large kale leaves, washed and drained.",
+        "¼ cup of chopped onion",
+        "2 green chili peppers, chopped",
+        "1 red chili pepper, chopped (optional)",
+        "¼ cup vegetable oil"
+      ],
+      "instructions": [
+        "Create a batter by combining flour, doenjang, gochujang, and water in a bowl and mixing well until it’s soft, a little thick, and creamy.",
+        "Remove the stalks and the center stalks of the kale by pulling off the leaves off with your hands. Roll up the kale leaves and chop them into small pieces. Add about 2 cups’ worth to the batter.",
+        "Add onion and green chili pepper (plus red chili pepper if you use it). Mix well.",
+        "Heat up a 10 or 12 inch non-stick pan over medium high heat. Add about 2 tablespoons vegetable oil and swirl to coat.",
+        "When the pan is hot, carefully pour in half of the batter. Use a wooden spoon to spread the batter thinly, creating a large circle. Cook for about 2 minutes until the bottom turns crispy. If it gets too hot, lower the heat to medium.",
+        "Flip it over with a spatula, pressing down lightly to cook evenly. Cook for 2 to 3 minutes until the bottom gets crispy and golden brown. Flip it over one more time and let it cook for 1 or 2 minutes. Both sides of the pancakes should be crispy.",
+        "Transfer it to a serving plate right away and serve, or transfer it to a cutting board and let it cool for 1 minute before cutting it up into bite size pieces. Put it into a plate and serve as a side dish for rice.",
+        "You can make another large pancake with the second half of the batter mixture, or 3 small circle pancakes."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients (Serves 3-4)"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup all purpose flour"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons doenjang (soybean paste)"
+        },
+        {
+          "tag": "li",
+          "text": "4 teaspoons gochujang (hot pepper paste)"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup water"
+        },
+        {
+          "tag": "li",
+          "text": "5 large kale leaves, washed and drained."
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup of chopped onion"
+        },
+        {
+          "tag": "li",
+          "text": "2 green chili peppers, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 red chili pepper, chopped (optional)"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup vegetable oil"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Create a batter by combining flour, doenjang, gochujang, and water in a bowl and mixing well until it’s soft, a little thick, and creamy."
+        },
+        {
+          "tag": "li",
+          "text": "Remove the stalks and the center stalks of the kale by pulling off the leaves off with your hands. Roll up the kale leaves and chop them into small pieces. Add about 2 cups’ worth to the batter."
+        },
+        {
+          "tag": "li",
+          "text": "Add onion and green chili pepper (plus red chili pepper if you use it). Mix well."
+        },
+        {
+          "tag": "li",
+          "text": "Heat up a 10 or 12 inch non-stick pan over medium high heat. Add about 2 tablespoons vegetable oil and swirl to coat."
+        },
+        {
+          "tag": "li",
+          "text": "When the pan is hot, carefully pour in half of the batter. Use a wooden spoon to spread the batter thinly, creating a large circle. Cook for about 2 minutes until the bottom turns crispy. If it gets too hot, lower the heat to medium."
+        },
+        {
+          "tag": "li",
+          "text": "Flip it over with a spatula, pressing down lightly to cook evenly. Cook for 2 to 3 minutes until the bottom gets crispy and golden brown. Flip it over one more time and let it cook for 1 or 2 minutes. Both sides of the pancakes should be crispy."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer it to a serving plate right away and serve, or transfer it to a cutting board and let it cool for 1 minute before cutting it up into bite size pieces. Put it into a plate and serve as a side dish for rice."
+        },
+        {
+          "tag": "li",
+          "text": "You can make another large pancake with the second half of the batter mixture, or 3 small circle pancakes."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

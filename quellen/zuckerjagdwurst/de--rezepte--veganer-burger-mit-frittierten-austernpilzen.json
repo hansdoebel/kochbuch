@@ -1,0 +1,70 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-burger-mit-frittierten-austernpilzen",
+  "recipes": [
+    {
+      "name": "Veganer Burger mit frittierten Austernpilzen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-burger-mit-frittierten-austernpilzen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-burger-mit-frittierten-austernpilzen#recipe-78953b51-b097-5abd-bc7a-c75bb6fc8c7f",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Burger",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT60M",
+      "ingredients": [
+        "Für die eingelegten Gurken:",
+        "250 g Minigurken",
+        "1.5 EL Senfkörner",
+        "1 TL Pfefferkörner",
+        "5 g Dill",
+        "125 ml Wasser",
+        "125 ml Kräuteressig (z. B. von Byodo)",
+        "1 TL Zucker",
+        "1 TL Salz",
+        "Für den Salat:",
+        "1 kleines Romanasalatherz",
+        "100 g Weißkraut",
+        "3 Schalotten",
+        "Kräutersalz (z. B. von Byodo)",
+        "Für die frittierten Pilze:",
+        "250 g Austernpilze",
+        "400 ml pflanzliche Milch",
+        "3 EL Zitronensaft",
+        "150 g Mehl",
+        "1 TL Zwiebelpulver",
+        "0.5 TL Knoblauchpulver",
+        "1 TL Zucker",
+        "1 TL edelsüßes Paprikapulver",
+        "Salz",
+        "Pfeffer",
+        "Pflanzenöl zum Frittieren",
+        "Für die Burgersoße:",
+        "4 EL körniger Senf (z. B. von Byodo)",
+        "6 EL vegane Mayonnaise",
+        "2 EL Sud von den eingelegten Gurken",
+        "Salz",
+        "Pfeffer",
+        "Außerdem:",
+        "4 Burgerbrötchen"
+      ],
+      "instructions": [
+        "Minigurken in Scheiben schneiden und zusammen mit Senfkörnern, Pfefferkörnern und grob gehacktem Dill in ein Einmachglas geben. Wasser, Kräuteressig, Zucker und Salz in einem kleinen Topf aufkochen lassen, bis sich Zucker und Salz aufgelöst haben. Danach die Mischung über die Gurken gießen. Abkühlen lassen und dann mehrere Stunden oder über Nacht im Kühlschrank lagern.",
+        "Für den Salat das Romanasalatherz, Weißkraut und Schalotten in dünne Streifen schneiden und in eine Schüssel geben. Mit Kräutersalz würzen, vermengen und in den Kühlschrank stellen.",
+        "Für die frittierten Pilze zunächst die vegane Buttermilch vorbereiten: pflanzliche Milch und Zitronensaft in eine Schüssel geben und mind. 10 Minuten stehen lassen, bis sich Flöckchen gebildet haben. In der Zwischenzeit die Pilze putzen. Mehl mit Zwiebelpulver, Knoblauchpulver, Zucker, Paprikapulver, Salz und Pfeffer mischen und in einen tiefen Teller geben.",
+        "Die Pilze zuerst in die vegane Buttermilch dippen und dann in der Mehlmischung wenden, bis sie rundum bedeckt sind. Danach nebeneinander auf ein Brett legen.",
+        "Pflanzenöl mehrere Zentimeter hoch in einen kleinen Topf geben und auf ca. 180°C erhitzen. Es ist heiß genug, wenn ihr einen Holzspieß ins Fett dippt und sich kleine Bläschen um den Spieß bilden. Die panierten Pilze nacheinander frittieren. Gebt am besten immer nur 3-4 Pilze gleichzeitig ins Fett. Sobald die Pilze gebräunt und knusprig sind, aus dem Topf nehmen und sofort auf Küchenpapier abfetten lassen.",
+        "Für die Burgersoße körnigen Senf, vegane Mayonnaise und etwas vom Sud der eingelegten Gurken verrühren und mit Salz und Pfeffer abschmecken.",
+        "Die Burgerbrötchen halbieren und nach Wunsch rösten. Die Brötchen dick mit der Burgersoße bestreichen und mit dem Salat, frittierten Pilzen und den eingelegten Gurken belegen. Die restlichen Pilze, eingelegten Gurken und Soße als Beilage servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

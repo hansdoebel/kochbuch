@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-banoffee-pie",
+  "recipes": [
+    {
+      "name": "Veganer Banoffee Pie",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-banoffee-pie",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-banoffee-pie#recipe-6bc1a000-a300-5943-bcce-03e3559ee1b1",
+      "authors": [
+        "Rahel Würsching"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Springform (∅ 26 cm)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT240M",
+      "ingredients": [
+        "Für den Boden:",
+        "750 g vegane Kekse (z.B. Spekulatius Kaffeegebäck)",
+        "225 g vegane Butter",
+        "1 Prise Salz",
+        "Für das Karamell:",
+        "250 g Zucker",
+        "200 g vegane Kochsahne",
+        "100 g vegane Butter",
+        "1 Prise Salz",
+        "Außerdem:",
+        "400 g vegane Schlagsahne",
+        "16 g Vanillezucker",
+        "ca. 550 g Bananen",
+        "Schokolade zum Raspeln",
+        "vegane Toffee-Bonbons"
+      ],
+      "instructions": [
+        "Boden",
+        "Für den Boden vegane Kekse zu feinen Bröseln verarbeiten. Am schnellsten geht das mit einem Zerkleinerer. Wer den nicht hat, packt die Kekse einfach in einen Gefrierbeutel, gut verschließen und dann mit einem Nudelholz fein klopfen.",
+        "Vegane Butter schmelzen und gemeinsam mit einer großzügigen Prise Salz zu den Bröseln geben. Alles gut vermengen, bis die Kekskrümel schön gleichmäßig feucht sind.",
+        "Die Masse in eine Springform (26 cm Durchmesser) geben und mit einem Löffel fest und gleichmäßig einen Boden und Rand für den Pie formen. Die Form dann kaltstellen.",
+        "Karamell",
+        "Für das Karamell Zucker bei niedriger bis mittlerer Hitze auf dem Herd schmelzen, bis ein goldbrauner Karamell-Sirup entsteht. Möglichst nicht dabei rühren, das Schmelzen kann eine Weile dauern.",
+        "Nun vorsichtig vegane Sahne in den Topf geben und kräftig rühren. Achtung, die Masse sprudelt dabei stark auf. Weiterrühren, bis alles homogen ist, dann vegane Butter und eine ordentliche Prise Salz dazugeben.",
+        "Die Masse noch ein paar Minuten einkochen lassen. Je länger sie kocht, desto fester wird das Karamell nachher. Nicht zu lange köcheln, sonst wird das Karamell zu fest! Das Karamell im Anschluss abkühlen lassen.",
+        "Füllung",
+        "Für die Füllung vegane Schlagsahne mit Vanillezucker steif schlagen. Die Bananen in dicke Scheiben schneiden. Die Form aus dem Kühlschrank nehmen und die Bananen auf dem Boden verteilen.",
+        "Nun das abgekühlte Karamell über die Bananen gießen und die geschlagene Sahne großzügig darauf verteilen.",
+        "Den Pie jetzt vorsichtig aus der Springform nehmen und auf einen Teller oder eine Tortenplatte setzen. Das geht am besten mit einer Tortenscheibe.",
+        "Die Schokolade raspeln. Dazu mit einem Sparschäler kleine Röllchen von der Tafel abschälen. Die Toffee-Bonbons in kleine Würfel schneiden. Den Banoffee Pie nun mit der geriebenen Schokolade und veganen Toffee-Stückchen garnieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/banh-mi-tacos-mit-sriracha-mayo",
+  "recipes": [
+    {
+      "name": "Vegane Bánh mì Tacos mit Sriracha Mayo",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/banh-mi-tacos-mit-sriracha-mayo",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/banh-mi-tacos-mit-sriracha-mayo#recipe-d1beaabf-e1f3-5955-ab72-e9cd7e2745ab",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "8 Tacos",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "FÜR EURE TACOS",
+        "8 weiche Tacos",
+        "3 Möhren",
+        "2 Pastinaken",
+        "1 Bund Koriander",
+        "250 g gebackenen Tofu",
+        "2 handvoll Cashewnüsse",
+        "3 Frühlingszwiebeln",
+        "Erdnussöl",
+        "FÜR DIE SRIRACHA-MAYO",
+        "150 ml vegane Mayonnaise",
+        "3 EL Sriracha"
+      ],
+      "instructions": [
+        "In einer Pfanne erhitzt ihr 2 EL Erdnussöl und bratet den gebackenen Tofu kurz an.",
+        "Möhre und Pastinaken schälen und mit einem Julienne-Schneider in dünne Streifen schneiden. Koriander waschen, abzupfen und grob hacken. Cashewnüsse hacken und Frühlingszwiebeln in Ringe schneiden.",
+        "Für die Sriracha-Mayo verrührt ihr die vegane Mayo mit Sriracha. Wir empfehlen, mit 2 EL anzufangen und dann je nach Schärfewunsch nachzulegen.",
+        "Legt alle Zutaten bereit und erwärmt eure Tacos für 2-3 Minuten im warmen Ofen.",
+        "Zuerst den Taco mit Sriracha-Mayo beschmieren, danach alle Zutaten einfüllen und am Ende nochmal mit der Mayo toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

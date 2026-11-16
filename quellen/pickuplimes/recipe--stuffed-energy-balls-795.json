@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/stuffed-energy-balls-795",
+  "recipes": [
+    {
+      "name": "Stuffed Energy Balls",
+      "source_url": "https://www.pickuplimes.com/recipe/stuffed-energy-balls-795",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "8 energy balls",
+      "prep_time": "PT15M",
+      "cook_time": "",
+      "total_time": "PT15M",
+      "ingredients": [
+        "8 Medjool date",
+        "½ cup unsalted roasted cashews",
+        "2 Tbsp Dutch-process cocoa powder",
+        "1 Tbsp toasted sesame seeds",
+        "1 Tbsp ground flaxseeds",
+        "1½ Tbsp natural peanut butter"
+      ],
+      "instructions": [
+        "Add the dates, cashews, cocoa powder, sesame seeds, and flaxseeds to a food processor.",
+        "Blend until uniform in texture and holds together when pressed between your fingers.",
+        "Scoop 2 Tbsp of the mixture into your palm and form into a ball.",
+        "Use your finger to create a crater in the center of the date ball.",
+        "Dollop about ½ tsp of peanut butter into the crater.",
+        "Cupping the filled ball, pinch the edges closed around the peanut butter.",
+        "Roll the filled energy ball back into a sphere.",
+        "Transfer it to a plate. Repeat with the remaining date mixture and peanut butter. If desired, coat with toasted sesame seeds or cocoa powder. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store these energy balls in the fridge in an airtight container for up to 5 days. Store in the freezer for up to 2 months."
+  ]
+}

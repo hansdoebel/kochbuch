@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-espresso-brownies",
+  "recipes": [
+    {
+      "name": "Vegane Espresso-Brownies",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-espresso-brownies",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-espresso-brownies#recipe-89080d37-3651-5c41-ad1c-0a4152449c18",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "12 Brownies",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "Für die Brownies:",
+        "200 ml Espresso (z. B. „Mokka\" von Turm Kaffee)",
+        "200 g Mehl (Typ 405)",
+        "130 g Zucker",
+        "50 g Kakaopulver",
+        "200 g dunkle Schokolade",
+        "1 (100 g) Banane",
+        "100 ml pflanzliches Öl (z. B. Sonnenblumenöl)",
+        "100 g Walnüsse",
+        "Für die Glasur:",
+        "30 g Puderzucker",
+        "1 EL Kakaopulver",
+        "2-3 EL Espresso (z. B. „Mokka\" von Turm Kaffee)",
+        "Espressobohnen",
+        "Außerdem:",
+        "vegane Butter oder Margarine zum Einfetten",
+        "Kakaopulver zum Ausklopfen der Form",
+        "frische Beeren zum Servieren"
+      ],
+      "instructions": [
+        "Zu Beginn Espresso kochen und abkühlen lassen. Den Ofen auf 180°C Umluft vorheizen. Mehl, Zucker und Kakaopulver in einer großen Schüssel vermischen.",
+        "Dunkle Schokolade im Wasserbad oder in einer Mikrowelle schmelzen. In der Zwischenzeit die Banane mit einer Gabel in einer Schüssel zerdrücken. Danach geschmolzene Schokolade, zerdrückte Banane, Öl und Espresso zu den trockenen Zutaten geben und gut unterrühren. Anschließend Walnüsse hacken und unterheben.",
+        "Den Teig in eine eingefettete und mit Kakaopulver ausgeklopfte Form (20x25 cm) geben, glatt streichen und für ca. 25 Minuten im Ofen bei 180°C Umluft backen.",
+        "In der Zwischenzeit Puderzucker, Kakaopulver und Espresso verrühren, sodass eine leicht dickflüssige Glasur entsteht. Espressobohnen klein hacken.",
+        "Nachdem die Brownies etwas ausgekühlt sind, mit der Glasur und gehackten Espressobohnen verzieren. Wer möchte, kann frische Beeren dazu servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

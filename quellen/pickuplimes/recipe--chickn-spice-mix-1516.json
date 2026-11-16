@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/chickn-spice-mix-1516",
+  "recipes": [
+    {
+      "name": "Chick'n Spice Mix",
+      "source_url": "https://www.pickuplimes.com/recipe/chickn-spice-mix-1516",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "10 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "2½ Tbsp sweet paprika powder",
+        "1½ Tbsp onion powder",
+        "1½ Tbsp garlic powder",
+        "1½ Tbsp ground coriander",
+        "½ Tbsp salt",
+        "½ Tbsp ground black pepper",
+        "2 tsp ground cumin",
+        "1 tsp chili powder",
+        "1 tsp ground ginger",
+        "1 tsp ground turmeric",
+        "¼ tsp ground nutmeg"
+      ],
+      "instructions": [
+        "Mix all the ingredients together in a jar. Seal until ready to use."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † We use pure ground chili powder made from dried chili peppers - not to be confused with the chili powder spice blend commonly found in the US, which often includes cumin, garlic powder, and other seasonings. For the intended heat and flavour, be sure to use pure chili powder.",
+    "Storage The spice mix can be stored in a well-sealed mason jar away from direct sunlight for up to 6 months."
+  ]
+}

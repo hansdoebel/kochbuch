@@ -1,0 +1,43 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/eggs-royale",
+  "recipes": [
+    {
+      "name": "Eggs Royale",
+      "source_url": "https://app.cookwell.com/recipe/eggs-royale",
+      "recipe_id": "https://app.cookwell.com/recipe/eggs-royale",
+      "authors": [
+        "Cook Well Official"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "4-6 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "Eggs, 6-8",
+        "English Muffins, 3-4",
+        "Butter, for toasting",
+        "Smoked salmon, to taste",
+        "Spinach, to taste",
+        "Chives, for garnish",
+        "Butter, 112 g",
+        "Egg Yolks, 3",
+        "Lemon juice, 15 g",
+        "Salt, to taste",
+        "Paprika, a sprinkle"
+      ],
+      "instructions": [
+        "In a blender, blend together egg yolks and lemon juice until creamy and lightened in color. While the blender is going on high speed, slowly stream in the warm melted butter, little by little, until it has fully emulsified into the egg yolks and is smooth and creamy. It’s like making mayo: if you go too fast, the sauce will break and you’ll have to start over. Season to taste with salt, more lemon juice, and paprika. Move to a sauce pot or covered container to keep warm until serving.",
+        "In a pot of simmering water, swirl water then slowly add in whole eggs and cook for about 3 minutes (or until whites are set but the yolks are still runny). Remove the eggs from the water and drain them on a paper towel.",
+        "Toast your English muffin slices in a hot pan with some butter until crisped and golden brown on the cut side. On each toasted slice, add a layer of smoked salmon, spinach (if using), and then top with a poached egg. Drizzle warm hollandaise sauce over top and garnish with chives and more paprika."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

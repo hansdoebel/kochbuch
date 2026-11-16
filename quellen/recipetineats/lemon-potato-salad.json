@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.recipetineats.com/lemon-potato-salad/",
+  "recipes": [
+    {
+      "name": "Lemon Potato Salad",
+      "source_url": "https://www.recipetineats.com/lemon-potato-salad/",
+      "recipe_id": "https://www.recipetineats.com/lemon-potato-salad/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "5",
+        "5 - 6 people"
+      ],
+      "prep_time": "PT10M",
+      "cook_time": "PT10M",
+      "total_time": "PT20M",
+      "ingredients": [
+        "1 kg / 2 lb baby potatoes ((Note 1))",
+        "2 tbsp salt ((for water))",
+        "1 cup green onions (, sliced)",
+        "1/4 cup parsley (, finely chopped)",
+        "5 tbsp / 75 ml extra virgin olive oil",
+        "1/4 cup / 65 ml lemon juice",
+        "1 tbsp lemon zest ((1 large lemon))",
+        "1 garlic clove, large, minced",
+        "1 tsp Dijon mustard",
+        "1.5 tsp sugar",
+        "3/4 tsp salt",
+        "1/2 tsp black pepper"
+      ],
+      "instructions": [
+        "Dressing: Shake in a jar.",
+        "Halve so they are about 2.5cm / 1\" pieces (cut large ones into 3).",
+        "Bring 4 litres / 4 quarts water to the boil, add salt. Add potatoes, bring back up to the boil then reduce to simmer. Cook for 5 minutes or until just cooked - don't let them overcook or become too soft, they will keep cooking from residual heat.",
+        "Drain and immediately transfer to a bowl.",
+        "While potatoes are hot, pour over half the Dressing. Use rubber spatular to gently stir.",
+        "Set aside to marinate for at least 30 minutes, even overnight.",
+        "Add green onions and parsley, pour over remaining Dressing. Carefully toss with rubber spatular, then serve. Great warm or at room temperature, and it's also great the next day."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: 1. This recipe will work fine with any type of potato. Starchy and all purpose potatoes suck up the flavour better than waxy ones, but even waxy potatoes are fine. Just make sure you cut them to the prescribed size and don’t overcook otherwise they will crumble when tossed. 2. Add Ins / variations: other fresh herbs like chives, basil, thyme or rosemary (go easy on these, they are strong), dried herbs, bacon (!!), parmesan, rocket/arugula, sun dried tomatoes. Give it a Mediterranean spin by adding oregano and/or feta!! 3. Nutrition per serving, assuming 5 servings about 200g/7oz per serving. Nutrition Facts Lemon Potato Salad Amount Per Serving Calories 256 Calories from Fat 126 % Daily Value* Fat 14g 22% Saturated Fat 2g 13% Sodium 385mg 17% Potassium 910mg 26% Carbohydrates 29g 10% Fiber 5g 21% Sugar 2g 2% Protein 5g 10% Vitamin A 450IU 9% Vitamin C 36.8mg 45% Calcium 79mg 8% Iron 7mg 39% * Percent Daily Values are based on a 2000 calorie diet."
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-new-york-cheesecake",
+  "recipes": [
+    {
+      "name": "Veganer New York Cheesecake",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-new-york-cheesecake",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-new-york-cheesecake#recipe-bcf29ce5-d0ed-5531-9b51-f9943f7ed880",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Kuchen (12 Stücke)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT1440M",
+      "ingredients": [
+        "Heidelbeeren aus dem Glas",
+        "frische Beeren, Früchte, Obst",
+        "Keksboden",
+        "400 g vegane Butterkekse",
+        "140 g pflanzliche Butter",
+        "„Frischkäse“-Schicht",
+        "100 ml pflanzliche Sahne zum Aufschlagen",
+        "8 g Sahnesteif",
+        "8 g Vanillezucker",
+        "80 g Zucker",
+        "300 g pflanzlicher Frischkäse",
+        "5 g Vanilleextrakt",
+        "Abrieb einer 1/2 Zitrone",
+        "„Crème Fraîche“-Schicht",
+        "300 g pflanzliche Crème Fraîche",
+        "50 g Zucker",
+        "1 EL frischer Zitronensaft",
+        "50 g vegane weiße Schokolade"
+      ],
+      "instructions": [
+        "Keksboden",
+        "Die Butter in einem Topf oder der Mikrowelle zum Schmelzen bringen.",
+        "Die Kekse in einem Mixer zerkleinern oder in eine verschließbare Tüte füllen und mit dem Nudelholz darüber rollen, bis alle Kekse zu kleinen Krümeln verarbeitet sind.",
+        "Die pflanzliche Butter zu den Keksen geben und gut vermengen.",
+        "Eine runde Kuchenform (ca. 20-24cm Durchmesser) mit etwas pflanzlichem Öl ausreiben. Die Keksfüllung hineingeben und gleichmäßig mit einem Löffel oder den Finger auf den Kuchenboden drücken. Kalt stellen.",
+        "„Frischkäse“-Schicht",
+        "Den Frischkäse mit dem Zucker aufschlagen.",
+        "In einem hohen Gefäß die pflanzliche Sahne mit dem Sahnesteif und dem Vanillezucker aufschlagen. Frischkäse hinzugeben und unterrühren.",
+        "Eine Zitrone heiß abwaschen und den Abrieb einer halben Zitrone hinzugeben. Vanilleextrakt ebenfalls hinzugeben und unterrühren.",
+        "Die „Frischkäse“-Schicht auf dem Keksboden verteilen und wieder kalt stellen.",
+        "„Crème Fraîche“-Schicht",
+        "In einer Schüssel das pflanzliche Creme Fraiche mit dem Zucker vermischen und 1 EL frischen Zitronensaft hinzugeben.",
+        "Die vegane weiße Schokolade schmelzen und ebenfalls unterrühren. Abschmecken und auf der „Frischkäse“-Schicht verteilen.",
+        "Den Kuchen nun für mindestens 24 Stunden kalt stellen und durchziehen lassen.",
+        "Vor dem Servieren mit Heidelbeeren toppen oder mit frischen Beeren und Obst."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

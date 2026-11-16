@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/avocado-toast-with-chipotle-bean-spread-784",
+  "recipes": [
+    {
+      "name": "Avocado Toast with Chipotle Bean Spread",
+      "source_url": "https://www.pickuplimes.com/recipe/avocado-toast-with-chipotle-bean-spread-784",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT07M",
+      "total_time": "PT17M",
+      "ingredients": [
+        "1½ cup cooked cannellini beans",
+        "1½ Tbsp chipotle adobo sauce",
+        "1 Tbsp nutritional yeast flakes",
+        "1 tsp maple syrup",
+        "½ tsp onion powder",
+        "½ tsp garlic powder",
+        "½ tsp salt",
+        "¼ tsp ground black pepper",
+        "1 tsp olive oil",
+        "4 slice multigrain bread",
+        "1 tsp olive oil",
+        "1 cup canned corn",
+        "1 avocado",
+        "1 stalk green onion"
+      ],
+      "instructions": [
+        "Add all of the bean spread ingredients to a small food processor. Blend until smooth.",
+        "Add the oil to a large pan over medium-high heat. Grill the bread for 1 to 2 minutes per side, or until toasted. Set aside.",
+        "Heat some more oil to the now-empty pan. Cook the corn for 4 to 5 minutes, stirring occasionally, or until the corn has some golden brown spots.",
+        "Top the toasted bread with chipotle bean spread, corn, avocado, and green onion. Garnish and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † The chipotle sauce we use is a blend of chipotle peppers with water, vinegar, and spices. It's a deep red-coloured sauce. Some chipotle sauces are mayo-based, and we do not recommend using these versions in this recipe.",
+    "Storage The spread can be stored separately from the bread and the toppings in an airtight container in the fridge for up to 4 days."
+  ]
+}

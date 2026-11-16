@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-baiser-meringue-selbermachen",
+  "recipes": [
+    {
+      "name": "Veganes Baiser (Meringue) selbermachen",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-baiser-meringue-selbermachen",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganes-baiser-meringue-selbermachen#recipe-27d64152-902d-5e09-b424-6da9b66f879d",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT140M",
+      "ingredients": [
+        "100 g Aquafaba (Kichererbsenwasser aus der Dose)",
+        "1 TL Zitronensaft",
+        "5 g (1 TL) Weinstein-Backpulver",
+        "1 TL Vanillepaste",
+        "100 g Puderzucker"
+      ],
+      "instructions": [
+        "Aquafaba ca. 10 Minuten auf höchster Stufe aufschlagen, bis eine fluffige, weiße Masse entsteht.",
+        "Tipp: Wir haben das Aquafaba in der „Kenwood Cooking Chef XL“ zubereitet, mit der wir ganz einfach alle Zutaten in der Maschine wiegen konnten. Um das Aquafaba aufzuschlagen, haben wir das Programm „Eischnee schlagen“ verwendet und hatten so alle Hände frei, um die nächsten Schritte vorzubereiten.",
+        "In der Zwischenzeit eine Spritztülle vorbereiten, in die ihr das geschlagene Aquafaba im Anschluss direkt füllen könnt. Auch das Backblech (bzw. die Bleche eures Dörrautomats) könnt ihr in der Zwischenzeit schon mal mit Backpapier auslegen.",
+        "Zurück zum Aquafaba: Die Küchenmaschine weiter aufschlagen lassen und nun Zitronensaft, Weinstein Backpulver und Vanillepaste hinzugeben. Den Puderzucker esslöffelweise dazugeben und das Aquafaba noch ein paar Minuten länger aufschlagen.",
+        "Die Masse anschließend in den vorbereiteten Spritzbeutel füllen und kleine Tupfen auf dem Backpapier platzieren.",
+        "Den Ofen auf Ober- und Unterhitze stellen und das vegane Baiser bei 70°C ca. 90-120 Minuten backen. Dabei immer wieder die Ofentür öffnen, damit die Feuchtigkeit entweichen kann und die Meringue austrocknen können. Im Dörrautomat eignet sich ebenfalls eine Temperatur von 70°C für 90-120 Minuten.",
+        "Die Meringue im Anschluss abkühlen lassen und unbedingt luftdicht verschließen, da sie sonst wieder Flüssigkeit ziehen können."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

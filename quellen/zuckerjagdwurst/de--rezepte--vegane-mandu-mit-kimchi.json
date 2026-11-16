@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mandu-mit-kimchi",
+  "recipes": [
+    {
+      "name": "Koreanische Mandus",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mandu-mit-kimchi",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-mandu-mit-kimchi#recipe-0cd9d333-b649-5758-a39e-5bbfd4b3aa3c",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "40 Mandus (4 Portionen)",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT90M",
+      "ingredients": [
+        "Teig",
+        "300 g Mehl",
+        "1/2 TL Salz",
+        "ca. 150 ml Wasser",
+        "Füllung",
+        "300 g Tofu",
+        "200 g veganer Kimchi",
+        "4 Frühlingszwiebeln",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "30 g frischer Ingwer",
+        "1 El Sesamöl",
+        "2 EL Sojasauce",
+        "2 EL Tomatenmark",
+        "1/2 TL Salz",
+        "1/2 TL Pfeffer",
+        "Servieren",
+        "Sojasauce",
+        "Sesamöl",
+        "heller & dunkler Sesam",
+        "Frühlingszwiebeln"
+      ],
+      "instructions": [
+        "Für den Teig Mehl, Salz und Wasser vermengen und lange kneten, bis ihr einen geschmeidigen Teig erhaltet. Den Teig 20 Minuten ruhen lassen.",
+        "In der Zwischenzeit die Füllung vorbereiten. Dafür die Frühlingszwiebel waschen und sehr fein schneiden. Zwiebel, Ingwer und Knoblauch schälen und fein würfeln.",
+        "Den Kimchi zerkleinern und den Tofu in einer großen Schüssel zerkrümeln. Nun alle restlichen Zutaten für die Füllung mit in die Schüssel geben und gut mit den Händen vermengen und bei Seite stellen.",
+        "Den Teig auf einer bemehlten Unterfläche ausrollen, mit Gläsern (oder Ausstechern) Kreise ausstechen und 1 TL Füllung auf den Teigkreisen verteilen. Den Rand mit Wasser befeuchten, zu klappen und nur auf einer Seite falten. Dabei die Teigtaschen etwas andrücken und gut verschließen.",
+        "In einer Pfanne Kokosöl erhitzen und die Mandus darin platzieren. Für 3-4 Minuten knusprig anbraten. Der Boden der Mandus sollte knusprig braun werden.",
+        "Anschließend die Temperatur des Herdes auf die niedrigste Stufe stellen und die Pfanne etwas abkühlen lassen. Nun etwa 100 ml Wasser vorsichtig dazugeben, sodass der Boden leicht mit Wasser bedeckt ist. Einen Deckel auf die Pfanne setzen und die Teigtaschen nochmals 4-5 Minuten darin dämpfen bei mittlerer Hitzezufuhr. Somit werden die Dumplings nicht nur gebraten, sondern auch gedämpft.",
+        "Mit Sojasauce, Sesam und frischen Frühlingszwiebeln servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

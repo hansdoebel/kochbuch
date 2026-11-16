@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/focaccia-pizza-with-tahini-balsamic-drizzle-233",
+  "recipes": [
+    {
+      "name": "Ciabatta Pizza with Tahini Balsamic Drizzle",
+      "source_url": "https://www.pickuplimes.com/recipe/focaccia-pizza-with-tahini-balsamic-drizzle-233",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": "PT10M",
+      "cook_time": "PT20M",
+      "total_time": "PT30M",
+      "ingredients": [
+        "1 cup passata sauce",
+        "¼ cup tomato paste",
+        "2 garlic clove",
+        "1 Tbsp nutritional yeast flakes",
+        "1 tsp dried oregano",
+        "1 tsp Italian seasoning",
+        "1 pinch ground black pepper",
+        "1 large ciabatta",
+        "¾ cup cherry tomatoes",
+        "⅓ cup kalamata olives",
+        "2.646 oz button mushrooms",
+        "½ red bell pepper",
+        "¼ small red onion",
+        "1 cup arugula",
+        "2 Tbsp tahini",
+        "2 Tbsp water",
+        "2 tsp balsamic vinegar"
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F (180°C)*. Mix together the pizza sauce ingredients in a medium bowl.",
+        "Slice the ciabatta open and place it on a baking tray. Spread this sauce onto the bread.",
+        "Arrange the veggies, except for the arugula, on top. Bake for 20 to 25 minutes, or until the vegetables are cooked to your liking.",
+        "Meanwhile, combine the tahini, water, and balsamic in a small bowl.",
+        "Drizzle the tahini sauce over the cooked pizza, top with arugula, slice, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes † Passata is a smooth, thick tomato sauce made from strained tomatoes without added seasonings, herbs, or spices. * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Enjoy immediately. If leftovers remain, reheat in the oven (without the arugula) before serving again. You can also make this recipe in advance and freeze (without the arugula or tahini balsamic sauce). To prepare, simply defrost and bake in the oven; when finished add the drizzle and arugula."
+  ]
+}

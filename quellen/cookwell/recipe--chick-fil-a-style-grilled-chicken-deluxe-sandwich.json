@@ -1,0 +1,52 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/chick-fil-a-style-grilled-chicken-deluxe-sandwich",
+  "recipes": [
+    {
+      "name": "Chick-Fil-A Style Grilled Chicken Deluxe Sandwich",
+      "source_url": "https://app.cookwell.com/recipe/chick-fil-a-style-grilled-chicken-deluxe-sandwich",
+      "recipe_id": "https://app.cookwell.com/recipe/chick-fil-a-style-grilled-chicken-deluxe-sandwich",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT35M",
+      "ingredients": [
+        "Chicken Breasts, 2",
+        "Garlic, 1 clove",
+        "Lemon zest, 1/2 lemon",
+        "Salt, a sprinkle",
+        "Mayonnaise, a spoonful",
+        "Thyme, a pinch",
+        "Black Pepper, a sprinkle",
+        "Brioche Bun, 2",
+        "Bacon, 2-4 slices",
+        "Colby Jack Cheese, 2 slices",
+        "Lettuce",
+        "Tomatoes",
+        "Pickled onions",
+        "Mayonnaise, 2 parts",
+        "Barbecue Sauce, 2 parts",
+        "Honey, 1 part",
+        "Dijon Mustard, 1 part",
+        "Black Pepper, a few sprinkles",
+        "Salt, a pinch"
+      ],
+      "instructions": [
+        "Butterfly the chicken breast and cut it into two pieces (one slightly larger piece for the sandwich). Add mayo, lemon zest, thyme, black pepper, salt and garlic to the chicken and mix together to ensure even coverage.",
+        "To a medium-hot griddle or cast iron pan, sear the chicken for 3 to 4 minutes on each side until browned. Cook the chicken until the internal temp reaches 150 to 155° F - 68°C. Let rest for 5 minutes before serving. Meanwhile, cook the slices of bacon for the sandwich.",
+        "Combine all the honey mustard bbq sauce toppings together in a small container and stir to combine. This sauce can be kept in the refrigerator to use for other sandwiches & wraps Prepare any other toppings for the sandwich - lettuce, tomato, cheese. Toast a bun on the griddle.",
+        "Place some sauce on the toasted bun, along with lettuce, tomato, pickled onions, grilled chicken, bacon, Colby jack, and more sauce on top. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

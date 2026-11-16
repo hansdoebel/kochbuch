@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.recipetineats.com/10-classic-chinese-dishes-1-amazing-sauce/",
+  "recipes": [
+    {
+      "name": "CHICKEN CHOW MEIN",
+      "source_url": "https://www.recipetineats.com/10-classic-chinese-dishes-1-amazing-sauce/",
+      "recipe_id": "https://www.recipetineats.com/10-classic-chinese-dishes-1-amazing-sauce/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "200 g/7oz fresh chow mein egg noodles",
+        "2 cups Chinese cabbage (, shredded)",
+        "1 cup carrot (, shredded)",
+        "100 g/4oz chicken ((or beef or pork) sliced against the grain)",
+        "2 shallot/scallion stems (, cut into 2″/4cm slices)",
+        "3 garlic cloves (, minced)",
+        "1 1/2 tbsp oil",
+        "¼ cup Real Chinese All Purpose Stir Fry Sauce",
+        "½ cup water"
+      ],
+      "instructions": [
+        "Prepare noodles according to packet instructions.",
+        "Heat oil in wok over high heat. Add garlic and sauté for 10 seconds, then add the chicken and sauté until just cooked and nicely browned.",
+        "Add the cabbage and carrot, stir fry for 30 seconds, then add the Sauce and water and let it cook for 30 seconds until the Sauce starts to thicken.",
+        "Then add the noodles and shallots and toss to coat with the sauce, then serve immediately."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: Note: if you are using dried noodles, you may need more water as the noodles will absorb more liquid. The noodles are ready when most of the liquid is cooked out/absorbed. Serve immediately."
+  ]
+}

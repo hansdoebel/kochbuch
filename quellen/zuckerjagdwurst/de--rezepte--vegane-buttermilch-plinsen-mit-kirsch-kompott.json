@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-buttermilch-plinsen-mit-kirsch-kompott",
+  "recipes": [
+    {
+      "name": "Vegane Buttermilch-Plinsen mit Kirsch-Kompott",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-buttermilch-plinsen-mit-kirsch-kompott",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-buttermilch-plinsen-mit-kirsch-kompott#recipe-bb10d582-334b-5061-9d15-bc03b125ca4a",
+      "authors": [
+        "Katja Hansen"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "10 Plinsen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "Für das Kirsch-Kompott:",
+        "350 g Kirschen",
+        "1 Zitrone (Abrieb)",
+        "Für die Plinsen:",
+        "300 ml pflanzliche Milch",
+        "35 ml Zitronensaft",
+        "150 g Mehl Typ 405",
+        "1.5 EL Zucker",
+        "8 g (1.5 TL) Vanillezucker",
+        "5 g (1 TL) Backpulver",
+        "3 g (0.5 TL) Natron",
+        "1 Prise Salz",
+        "vegane Butter zum Braten",
+        "Für die gesalzene Karamell-Soße:",
+        "50 g Zucker",
+        "35 ml Kokosmilch",
+        "ca. 15 ml Wasser",
+        "1.5 EL Butter",
+        "Salz"
+      ],
+      "instructions": [
+        "Kirschen waschen, entkernen und vierteln. Anschließend in einen Topf geben und mind. 20 Minuten bei mittlerer Hitze einköcheln lassen. Kurz vor Schluss den Zitronenabrieb hinzugeben. Immer wieder umrühren, damit die Kirschen nicht anbrennen.",
+        "Währenddessen die vegane Buttermilch vorbereiten. Dazu pflanzliche Milch und Zitronensaft in eine Schüssel geben und mind. 10 Minuten stehen lassen, bis sich Flöckchen gebildet haben.",
+        "Für die gesalzene Karamell-Soße den Zucker in einem Topf warm werden lassen. Sobald er flüssig wird, langsam Kokosmilch und Wasser hinzugeben. Zum Schluss kommen Butter und eine Prise Salz hinzu. Sollte die Konsistenz zu fest sein, einfach noch etwas pflanzliche Milch oder Wasser hinzugeben. Die Karamell-Masse so lange bei niedriger Hitze köcheln lassen, bis sie bernsteinfarben ist. Dabei konstant verrühren, damit nichts anbrennt.",
+        "Für den Plinsenteig Mehl, Zucker, Vanillezucker, Backpulver, Natron und Salz in einer Schüssel vermischen. Die vegane Buttermilch dazugeben und alles gut mit einem Schneebesen verrühren.",
+        "Eine Pfanne bei mittlerer Hitze auf dem Herd erwärmen. Vegane Butter in die Pfanne geben und die Plinsen nacheinander darin von beiden Seiten ausbacken, bis sie goldbraun sind.",
+        "Plinsen mit Kirschkompott und gesalzenem Karamell anrichten und servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

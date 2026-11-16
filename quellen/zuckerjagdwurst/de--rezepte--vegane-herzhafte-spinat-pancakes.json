@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-herzhafte-spinat-pancakes",
+  "recipes": [
+    {
+      "name": "Vegane Spinat-Pancakes",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-herzhafte-spinat-pancakes",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-herzhafte-spinat-pancakes#recipe-421d18e4-4563-5ae9-8758-436ca30e1092",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 15 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT35M",
+      "ingredients": [
+        "Für die Pancakes",
+        "150 g frischer Spinat",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "150 g Weizenmehl",
+        "75 g Reismehl",
+        "1 TL Backpulver",
+        "1 EL Pflanzenöl",
+        "1 Prise Salz",
+        "0.5 Zitrone (Abrieb)",
+        "250 ml Wasser",
+        "Salz",
+        "Pfeffer",
+        "Muskat",
+        "Pflanzenöl zum Braten",
+        "Zum Servieren",
+        "Kresse",
+        "rote Zwiebel",
+        "vegane Sour Cream (oder veganer Quark)",
+        "Pinienenkerne"
+      ],
+      "instructions": [
+        "Zwiebel und Knoblauch schälen und in grobe Würfel schneiden. Pflanzenöl in einer Pfanne erhitzen und die Zwiebel- und Knoblauchwürfel auf kleiner Hitze ca. 10 Minuten anschwitzen. Die Zwiebel sollte glasig werden.",
+        "Spinat, angeschwitzte Zwiebel- und Knoblauch, Weizenmehl, Reismehl, Backpulver, Pflanzenöl, Salz, Zitronenabrieb und Wasser in einem Standmixer oder mit dem Pürierstab mixen, bis eine glatte, grüne Teigmischung entsteht. Kräftig mit Salz, Pfeffer und Muskat abschmecken. Den Teig ca. 10 Minuten stehen lassen.",
+        "Etwas Pflanzenöl in einer Pfanne erhitzen und die Spinat-Pancakes nacheinander von beiden Seiten ausbacken.",
+        "Parallel Pinienkerne in einer fettfreien Pfanne goldbraun anrösten und eine kleine rote Zwiebel in feine Würfel schneiden. Die Spinat-Pancakes mit einem Klecks veganer Sour Cream servieren und mit Kresse, roten Zwiebelwürfeln und gerösteten Pinienkernen bestreuen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

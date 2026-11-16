@@ -1,0 +1,128 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/chamchi-jjigae",
+  "recipes": [
+    {
+      "name": "Spicy tuna stew (Chamchi-jjigae: 참치찌개)",
+      "source_url": "https://www.maangchi.com/recipe/chamchi-jjigae",
+      "recipe_id": "/recipe/chamchi-jjigae#sso/recipe/88992",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 pound of canned tuna (2 large Korean canned tuna tins, or 4 regular-sized tins)",
+        "1 large onion (about 10 ounces), cut into chunks",
+        "2 large long hot green chili peppers (or 4 to 5 normal-sized green chili peppers), sliced",
+        "2 to 3 tablespoons gochujang (Korean hot pepper paste)",
+        "2 tablespoons gochu-garu (Korean hot pepper flakes)",
+        "1 tablespoon soy sauce",
+        "4 garlic cloves, minced",
+        "2 green onions, chopped",
+        "lettuce",
+        "apple ssamjang"
+      ],
+      "instructions": [
+        "Spread the onion on the bottom of a shallow pan. Add half of the sliced green chili peppers over top.",
+        "Add the tuna, hot pepper paste, hot pepper flakes, soy sauce, and 1½ cup of water.",
+        "Cover and cook for 10 minutes over medium high heat. After 5 minutes, uncover, stir well, and cover again.",
+        "Open and stir it with a wooden spoon to mix it up.",
+        "Stir in the garlic, green onion, and the rest of the chopped green chili pepper.",
+        "Let it cook another 3 to 5 minutes uncovered, to thicken the stew.",
+        "Remove from the heat and serve right away with rice, lettuce, and ssamjang."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 4"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound of canned tuna (2 large Korean canned tuna tins, or 4 regular-sized tins)"
+        },
+        {
+          "tag": "li",
+          "text": "1 large onion (about 10 ounces), cut into chunks"
+        },
+        {
+          "tag": "li",
+          "text": "2 large long hot green chili peppers (or 4 to 5 normal-sized green chili peppers), sliced"
+        },
+        {
+          "tag": "li",
+          "text": "2 to 3 tablespoons gochujang (Korean hot pepper paste)"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons gochu-garu (Korean hot pepper flakes)"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "4 garlic cloves, minced"
+        },
+        {
+          "tag": "li",
+          "text": "2 green onions, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "lettuce"
+        },
+        {
+          "tag": "li",
+          "text": "apple ssamjang"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Spread the onion on the bottom of a shallow pan. Add half of the sliced green chili peppers over top."
+        },
+        {
+          "tag": "li",
+          "text": "Add the tuna, hot pepper paste, hot pepper flakes, soy sauce, and 1½ cup of water."
+        },
+        {
+          "tag": "li",
+          "text": "Cover and cook for 10 minutes over medium high heat. After 5 minutes, uncover, stir well, and cover again."
+        },
+        {
+          "tag": "li",
+          "text": "Open and stir it with a wooden spoon to mix it up."
+        },
+        {
+          "tag": "li",
+          "text": "Stir in the garlic, green onion, and the rest of the chopped green chili pepper."
+        },
+        {
+          "tag": "li",
+          "text": "Let it cook another 3 to 5 minutes uncovered, to thicken the stew."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the heat and serve right away with rice, lettuce, and ssamjang."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

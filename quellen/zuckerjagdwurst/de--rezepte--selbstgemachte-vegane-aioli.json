@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/selbstgemachte-vegane-aioli",
+  "recipes": [
+    {
+      "name": "Selbstgemachte vegane Aioli",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/selbstgemachte-vegane-aioli",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/selbstgemachte-vegane-aioli#recipe-7c18c639-a41c-5fea-8d5b-81fb04f7ccad",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "250 ml vegane Aioli",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "Für die Basic-Aioli:",
+        "0.5 Zitrone",
+        "1-2 Knoblauchzehen",
+        "100 ml Soja- oder Nussmilch (zimmerwarm)",
+        "0.5 TL Senf (optional)",
+        "100 ml Rapsöl",
+        "50 ml Olivenöl",
+        "Salz",
+        "Je nach Geschmack:",
+        "0.5 TL Chilipulver",
+        "3 g Petersilie",
+        "0.25 Zitrone",
+        "Zum Servieren:",
+        "WASA Tasty Snacks Rosemary & Sea Salt"
+      ],
+      "instructions": [
+        "Den Saft einer halben Zitrone auspressen und Knoblauch schälen. In ein hohes Gefäß, das im besten Fall nur minimal größer ist als der Pürierstab, Sojamilch, Zitronensaft, Knoblauch und optional Senf geben.",
+        "Die Masse pürieren und nach und nach beide Öle hinzugeben. Geht hier wirklich langsam vor und lasst den Pürierstab dabei am Boden des Gefäßes. Sobald ihr merkt, dass die Aioli am Boden andickt, könnt ihr den Pürierstab langsam hochziehen und auch den Rest pürieren.",
+        "Die Aioli mit Salz abschmecken und je nach Wunsch mit Chilipulver, frischer Petersilie oder mehr Zitronensaft abschmecken. Mit Crackern oder Knäckebrot servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

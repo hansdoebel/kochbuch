@@ -1,0 +1,108 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/chamchi-kimchi-jjigae",
+  "recipes": [
+    {
+      "name": "Kimchi stew with tuna (Chamchi-kimchi-jjigae: 참치김치찌개)",
+      "source_url": "https://www.maangchi.com/recipe/chamchi-kimchi-jjigae",
+      "recipe_id": "/recipe/chamchi-kimchi-jjigae#sso/recipe/82555",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 or 2 cans of tuna",
+        "1 pound fermented kimchi, cut into 2 inch long pieces",
+        "¼ cup kimchi brine, optional",
+        "1 medium onion (about 1 cup), sliced",
+        "2 green onion, one cut diagonally into pieces and one chopped up into small pieces",
+        "1 teaspoon kosher salt",
+        "2 teaspoons Korean hot pepper flakes",
+        "2 teaspoons Turbinado sugar (or white or brown sugar)",
+        "2 teaspoons toasted sesame oil",
+        "8 ounces tofu (about 1 cup), sliced into bite size pieces"
+      ],
+      "instructions": [
+        "Place the kimchi in a shallow, heavy pot or pan. Add kimchi brine, onion, green onion, kosher salt, hot pepper flakes, sugar, and toasted sesame oil. Add 2½ cups water and cover. Cook for 25 minutes over medium high heat. If it boils over, crack the lid a little and if the water boils out, add more so that the kimchi and all the ingredients are always submerged.",
+        "Stir the stew with a wooden spoon and add tuna and tofu. Continue to cook for another 5 minutes until the tofu turns soft.",
+        "Sprinkle with the chopped green onion and serve right away with rice and more side dishes if you desire."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "Serves 4"
+        },
+        {
+          "tag": "li",
+          "text": "1 or 2 cans of tuna"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound fermented kimchi, cut into 2 inch long pieces"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup kimchi brine, optional"
+        },
+        {
+          "tag": "li",
+          "text": "1 medium onion (about 1 cup), sliced"
+        },
+        {
+          "tag": "li",
+          "text": "2 green onion, one cut diagonally into pieces and one chopped up into small pieces"
+        },
+        {
+          "tag": "li",
+          "text": "1 teaspoon kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons Korean hot pepper flakes"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons Turbinado sugar (or white or brown sugar)"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "8 ounces tofu (about 1 cup), sliced into bite size pieces"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Place the kimchi in a shallow, heavy pot or pan. Add kimchi brine, onion, green onion, kosher salt, hot pepper flakes, sugar, and toasted sesame oil. Add 2½ cups water and cover. Cook for 25 minutes over medium high heat. If it boils over, crack the lid a little and if the water boils out, add more so that the kimchi and all the ingredients are always submerged."
+        },
+        {
+          "tag": "li",
+          "text": "Stir the stew with a wooden spoon and add tuna and tofu. Continue to cook for another 5 minutes until the tofu turns soft."
+        },
+        {
+          "tag": "li",
+          "text": "Sprinkle with the chopped green onion and serve right away with rice and more side dishes if you desire."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

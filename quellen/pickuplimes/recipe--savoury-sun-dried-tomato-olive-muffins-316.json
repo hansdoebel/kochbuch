@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/savoury-sun-dried-tomato-olive-muffins-316",
+  "recipes": [
+    {
+      "name": "Savoury Sun-Dried Tomato & Olive Muffins",
+      "source_url": "https://www.pickuplimes.com/recipe/savoury-sun-dried-tomato-olive-muffins-316",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "12 muffins",
+      "prep_time": "PT10M",
+      "cook_time": "PT35M",
+      "total_time": "PT45M",
+      "ingredients": [
+        "1 tsp olive oil",
+        "1 large onion",
+        "4 garlic clove",
+        "1 tsp dried basil",
+        "1 tsp dried oregano",
+        "1 tsp dried parsley",
+        "1 tsp dried thyme",
+        "¾ cup oil-packed sun-dried tomatoes",
+        "⅔ cup green olives",
+        "1⅓ cup all-purpose flour",
+        "1⅓ cup chickpea flour",
+        "2 tsp baking powder",
+        "½ tsp salt",
+        "1 cup cold water",
+        "½ cup olive oil",
+        "1½ tsp apple cider vinegar"
+      ],
+      "instructions": [
+        "Heat the oil in a medium pan over medium-high heat. Cook the onion and garlic for 3 to 5 minutes.",
+        "Add the basil, parsley, oregano, and thyme, and cook for 3 minutes. Then add the sun-dried tomatoes and olives, cooking for another minute before removing from the heat. Let cool slightly.",
+        "Lightly grease a muffin pan and preheat the oven to 400°F (200°C)*.",
+        "In a large bowl, combine both flours, baking powder, and salt. Mix well. Then add the water, olive oil, and vinegar. Mix until partly combined.",
+        "Then add the onion and sun-dried tomato mixture from the pan to the bowl and gently fold in until just combined. Careful not to over-mix.",
+        "Divide the batter between the muffin tin wells. Place an olive on top if desired and bake on the center rack of the oven for 22 to 25 minutes, or until a toothpick inserted into the centre comes out clean.",
+        "Let the muffins cool slightly before transferring to a cooling rack to cool completely. Enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Notes * We used top and bottom heating (not fan-assisted/convection).",
+    "Storage Store in an airtight container in the fridge for up to 3 day, or in the freezer for up to 1 month. We recommend re-heating before enjoying."
+  ]
+}

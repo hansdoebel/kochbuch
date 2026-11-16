@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-bratapfel-crumble-mit-marzipanstreuseln",
+  "recipes": [
+    {
+      "name": "Veganer Bratapfel-Crumble mit Marzipanstreuseln",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-bratapfel-crumble-mit-marzipanstreuseln",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/veganer-bratapfel-crumble-mit-marzipanstreuseln#recipe-a1026e4f-f1c7-5208-9aae-3a78334b0acf",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT50M",
+      "ingredients": [
+        "4 Äpfel",
+        "1 EL gemahlener Zimt",
+        "1 TL gemahlener Kardamom",
+        "2 EL gemahlene Mandeln",
+        "1 EL Zitronensaft",
+        "1 EL Orangensaft",
+        "50 g getrocknete Cranberrys",
+        "Vanilleeis zum Servieren",
+        "Für die Streusel:",
+        "100 g Marzipan",
+        "50 g Haferflocken",
+        "1 EL Zucker",
+        "3 EL gemahlene Mandeln",
+        "1 EL vegane Butter",
+        "0.25 TL Salz"
+      ],
+      "instructions": [
+        "Backofen auf 180°C vorheizen. Die Äpfel schälen und nach eurem Belieben in Würfel, Stückchen oder Scheiben schneiden. Anschließend in eine Back- oder Auflaufform geben, mit Zimt, Kardamom und gemahlenen Mandeln bestreuen und mit Zitronensaft und Orangensaft beträufeln. Jetzt noch die getrockneten Cranberrys dazugeben und alles vermengen.",
+        "Die Äpfel ohne Streusel ca. 20 Minuten in den Backofen schieben.",
+        "In der Zwischenzeit für die Streusel Marzipan, Haferflocken, Zucker, gemahlene Mandeln, vegane Butter und Salz in einer großen Schüssel vermengen, bis ein streuseliger Teig entsteht.",
+        "Sobald die Äpfel schon im Backofen weich geworden sind, die Form vorsichtig aus dem Backofen nehmen und die Streusel als Schicht darauf verteilen. Jetzt nochmal ca. 10 Minuten weiterbacken, bis die Streuselschicht schön gebräunt ist.",
+        "Aus dem Backofen nehmen und am besten noch warm mit veganem Vanilleeis servieren!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

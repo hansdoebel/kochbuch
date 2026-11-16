@@ -1,0 +1,36 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/four-ingredient-flour-tortillas",
+  "recipes": [
+    {
+      "name": "Four Ingredient Flour Tortillas",
+      "source_url": "https://app.cookwell.com/recipe/four-ingredient-flour-tortillas",
+      "recipe_id": "https://app.cookwell.com/recipe/four-ingredient-flour-tortillas",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "10 large or 30 small tortillas",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Bread flour, 450 g",
+        "Water, 250 g",
+        "Lard, 80 g",
+        "Salt, 5 g"
+      ],
+      "instructions": [
+        "Add the flour to a bowl and rub in the lard (or butter/vegetable oil) using your fingertips until broken up. Dissolve the salt in the warm water. Gradually add the water and mix it into the flour mixture to see how much it will absorb. You might not need to use all of the water, especially once you start kneading it together. Turn the dough onto a flat surface and work it into a cohesive dough, then knead for about 5 minutes. You’re done kneading when the dough is fairly smooth and not sticking to your hands.",
+        "For larger flour tortillas (breakfast burrito size), divide the dough into 10 pieces around ~80 g each. For small taco-sized tortillas, you can do ~25 g pieces (about the size of a ping pong ball), which should yield around 30 tortillas. Roll each piece into a very smooth ball with your hands. Cover all rolled balls with plastic wrap and let rest for at least 20 minutes or up to 2 hours to let the gluten relax.",
+        "Heat a large griddle or cast iron pan over medium heat. Flatten each tortilla ball with a rolling pin to your desired thinness. For burrito tortillas, go as thin as you can — the dough should be almost translucent. For tacos, the dough can be a bit thicker. Cook a few different thicknesses to find your ideal width. Lay the tortilla on the hot griddle and cook for 10-20 seconds, then flip to the other side to cook for another 10-20 seconds. The tortillas might puff a bit during cooking and become lightly charred in spots, which is desired. Be careful not to overcook the tortilla or else they will become hard instead of soft and pliable. Immediately, stack the tortillas in a large cloth or clean kitchen towel to steam and stay warm until you are ready for serving."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

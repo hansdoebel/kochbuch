@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schneller-zitrussalat-mit-blutorangen-vinaigrette",
+  "recipes": [
+    {
+      "name": "Schneller Zitrussalat mit Blutorangendressing",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/schneller-zitrussalat-mit-blutorangen-vinaigrette",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/schneller-zitrussalat-mit-blutorangen-vinaigrette#recipe-560dfb79-039f-5d80-8125-75778826acd1",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "4 Portionen",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT20M",
+      "ingredients": [
+        "Für den Salat:",
+        "3 Blutorangen",
+        "2 Orangen",
+        "1 Grapefruit",
+        "0.5 Radicchio",
+        "0.5 Lollo Rosso",
+        "Für die Vinaigrette:",
+        "3 EL Olivenöl",
+        "3 EL Blutorangensaft",
+        "1 TL Ahornsirup",
+        "1 TL Senf",
+        "Salz",
+        "Pfeffer",
+        "####Zum Servieren:",
+        "Dill",
+        "Kürbiskerne"
+      ],
+      "instructions": [
+        "Blutorangen, normale Orangen und Grapefruit schälen und in mundgerechte Stücke oder Scheiben schneiden. Radicchio und Lollo Rosso klein schneiden.",
+        "Für die Vinaigrette Olivenöl, Blutorangensaft, Ahornsirup und Senf in ein Schraubglas geben und kräftig schütteln oder umrühren, bis sie vermengt sind. Mit Salz und Pfeffer abschmecken.",
+        "Die Kürbiskerne in einer fettfreien Pfanne kurz anrösten.",
+        "Radicchio und Zitrusfrüchte auf einem Salatteller anrichten und mit der Vinaigrette vermengen. Mit Dill und gerösteten Kürbiskernen toppen."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.pickuplimes.com/recipe/balsamic-dijon-dressing-442",
+  "recipes": [
+    {
+      "name": "Balsamic Dijon Dressing",
+      "source_url": "https://www.pickuplimes.com/recipe/balsamic-dijon-dressing-442",
+      "recipe_id": null,
+      "authors": [
+        "Pick Up Limes"
+      ],
+      "publisher": "Pick Up Limes",
+      "language": "en",
+      "yield": "6 servings",
+      "prep_time": "PT05M",
+      "cook_time": "",
+      "total_time": "PT05M",
+      "ingredients": [
+        "⅓ cup balsamic vinegar",
+        "¼ cup extra-virgin olive oil",
+        "2 Tbsp Dijon mustard",
+        "2 garlic clove",
+        "1 Tbsp agave syrup",
+        "2 tsp onion powder",
+        "⅛ tsp ground black pepper"
+      ],
+      "instructions": [
+        "Whisk all the ingredients together in a jar.",
+        "Pour over your favourite salad, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Storage Store in an airtight container in the fridge for up to 4 days."
+  ]
+}

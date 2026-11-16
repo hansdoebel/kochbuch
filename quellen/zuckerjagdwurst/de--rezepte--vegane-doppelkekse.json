@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-doppelkekse",
+  "recipes": [
+    {
+      "name": "Vegane Doppelkekse",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-doppelkekse",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-doppelkekse#recipe-c532133e-f827-5296-8a5c-7a2016f00c5a",
+      "authors": [
+        "Julia Justus"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "ca. 10-15 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT125M",
+      "ingredients": [
+        "Für die Kekse:",
+        "250 g Weizenmehl",
+        "150 g pflanzliche Butter",
+        "75 g Puderzucker",
+        "1 TL Vanillearoma",
+        "Salz",
+        "Für die Biscoff-Creme:",
+        "50 g vegane weiche Butter oder Margarine",
+        "100 g Puderzucker",
+        "25 g Biscoff-Aufstrich (oder Erdnussbutter, Nussbutter, Tahin)",
+        "Für die Schokoladen-Creme:",
+        "100 g Zartbitterschokolade",
+        "1 TL Kokosöl",
+        "2 EL kalte pflanzliche Milch",
+        "Salz"
+      ],
+      "instructions": [
+        "Weizenmehl, Zucker und Salz in einer großen Schüssel mixen. Vanillearoma und die kalte pflanzliche Butter in Flocken dazu geben und mit kalten Händen verkneten, bis ein geschmeidiger Teig entsteht.",
+        "Den Teig in Frischhaltefolie wickeln und ca. 30-60 Minuten im Kühlschrank kühlen lassen.",
+        "Eine Arbeitsfläche mit Mehl bestäuben und den Teig ca 5 mm dick ausrollen. Kreise in einer beliebigen Größe ausstechen. Den überschüssigen Teig wieder ausrollen und weiter ausstechen, bis er aufgebraucht ist. Die Teigkreise mit einer Gabel einstechen, nebeneinander auf einer großen Platte oder einem Teller verteilen und erneut ca. 15 Minuten in den Kühlschrank oder sogar ins Gefrierfach legen.",
+        "Backofen auf 180°C vorheizen. Erst wenn der Ofen heiß genug ist, die Ausstecher auf ein Backblech mit Backpapier legen und ca. 10 Minuten backen, bis die Kekse am Rand leicht braun werden. Aus dem Ofen nehmen und die Kekse komplett abkühlen lassen.",
+        "In der Zwischenzeit für die Schokoladen-Creme Zartbitterschokolade grob hacken und über dem Wasserbad zusammen mit Kokosöl schmelzen lassen. Die geschmolzene Schokolade vom Herd nehmen und kalte pflanzliche Milch einrühren – die Schokolade wird direkt andicken. Bei Zimmertemperatur abkühlen lassen, bis die Creme eine streichfähige Konsistenz hat. Mit einer Spritztüte oder einem Löffel auf den abgekühlten Keksen verteilen und mit einem weiteren Keks bedecken und leicht andrücken.",
+        "Für die Biscoff-Creme vegane Butter, Biscoff-Creme und Puderzucker in einer Schüssel zu einer Buttercreme aufschlagen. Sollte sie zu weich sein, die Creme kurz in den Kühlschrank stellen. Sobald sie streichfähig ist, mit einer Spritztüte oder einem Löffel auf den abgekühlten Keksen verteilen und mit einem weiteren Keks bedecken und leicht andrücken.",
+        "Die Kekse halten sich bei Raumtemperatur und werden mit der Zeit etwas weicher – daher schmecken sie in den ersten Tagen nach dem Backen am besten."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

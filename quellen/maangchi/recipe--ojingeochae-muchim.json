@@ -1,0 +1,88 @@
+{
+  "source_url": "https://www.maangchi.com/recipe/ojingeochae-muchim",
+  "recipes": [
+    {
+      "name": "Seasoned dried shredded squid (Ojingeochae-muchim)",
+      "source_url": "https://www.maangchi.com/recipe/ojingeochae-muchim",
+      "recipe_id": "/recipe/ojingeochae-muchim#sso/recipe/6247",
+      "authors": [
+        "Maangchi"
+      ],
+      "publisher": "Maangchi",
+      "language": "en_US",
+      "yield": null,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": null,
+      "ingredients": [
+        "1 package of dried shredded squid (1 pound), hot pepper paste, garlic, olive oil, corn syrup (or rice syrup), toasted sesame oil, roasted toasted sesame seeds."
+      ],
+      "instructions": [
+        "Cut 1 pound of dried shredded squid into bite sized pieces and set aside.",
+        "Make seasoning sauce by mixing ½ cup hot pepper paste, 4 cloves minced garlic, ⅓ cup olive oil (or vegetable oil), mulyeot (either rice syrup or corn syrup) ⅓ cup, 2 tbs toasted sesame oil in a large bowl with a wooden spoon until it becomes a shiny red sauce.",
+        "Put the squid strips into the seasoning sauce and mix it with a spoon.",
+        "Transfer it in an air-tight container and keep in the refrigerator"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "h2",
+          "text": "Ingredients"
+        },
+        {
+          "tag": "p",
+          "text": "1 package of dried shredded squid (1 pound), hot pepper paste, garlic, olive oil, corn syrup (or rice syrup), toasted sesame oil, roasted toasted sesame seeds."
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "h2",
+          "text": "Directions"
+        },
+        {
+          "tag": "li",
+          "text": "Cut 1 pound of dried shredded squid into bite sized pieces and set aside."
+        },
+        {
+          "tag": "li",
+          "text": "Make seasoning sauce by mixing ½ cup hot pepper paste, 4 cloves minced garlic, ⅓ cup olive oil (or vegetable oil), mulyeot (either rice syrup or corn syrup) ⅓ cup, 2 tbs toasted sesame oil in a large bowl with a wooden spoon until it becomes a shiny red sauce."
+        },
+        {
+          "tag": "li",
+          "text": "Put the squid strips into the seasoning sauce and mix it with a spoon."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer it in an air-tight container and keep in the refrigerator"
+        },
+        {
+          "tag": "p",
+          "text": "You could serve it with rice as side dish. Sprinkle some roasted sesame seeds just before serving."
+        },
+        {
+          "tag": "p",
+          "text": "Let’s prepare a lunchbox with the ojingeochae muchim that we learned today!"
+        },
+        {
+          "tag": "p",
+          "text": "Cut a sheet of kim (seaweed) in half with scissors and place a spoonful of rice on it."
+        },
+        {
+          "tag": "p",
+          "text": "Spread thinly, then roll it. Cut into smaller pieces, and you have cigarette gimbap!"
+        },
+        {
+          "tag": "h3",
+          "text": "Wanna learn these 2 other side dishes?"
+        },
+        {
+          "tag": "p",
+          "text": "Korean rolled omelet side dish It’s called gyeran mal yee (or gyeran mari) in Korean. Enjoy the recipes!"
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

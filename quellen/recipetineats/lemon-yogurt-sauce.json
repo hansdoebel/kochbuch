@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.recipetineats.com/lemon-yogurt-sauce/",
+  "recipes": [
+    {
+      "name": "Lemon Yogurt Sauce",
+      "source_url": "https://www.recipetineats.com/lemon-yogurt-sauce/",
+      "recipe_id": "https://www.recipetineats.com/lemon-yogurt-sauce/#recipe",
+      "authors": [
+        "Nagi"
+      ],
+      "publisher": "RecipeTin Eats",
+      "language": "en",
+      "yield": [
+        "1",
+        "1 cup"
+      ],
+      "prep_time": "PT5M",
+      "cook_time": null,
+      "total_time": "PT5M",
+      "ingredients": [
+        "1 cup plain yogurt (, preferably full-fat (I use Greek-style, greek or regular plain works))",
+        "1/4 tsp finely grated garlic (1/2 clove)",
+        "1 tbsp lemon juice ((sub half the amount with apple cider vinegar, or other clear vinegar))",
+        "1 tbsp extra-virgin olive oil (, plus more to thin if desired)",
+        "1/4 tsp cooking salt/kosher salt ((halve for fine table salt, +50% for flakes))",
+        "Pinch black or white pepper (, optional)",
+        "Extra water or olive oil to thin (, if needed (use with caution, taste and add extra salt if needed))"
+      ],
+      "instructions": [
+        "Mix the ingredients in a bowl and set aside for at least 20 minutes to let the flavours meld.",
+        "Loosen - If you want to thin it slightly (for drizzling) add water or olive oil 1 tablespoon at a time, taste and add more salt if needed. Use for dipping, drizzling, dolloping, smearing (see in post for so many ideas!)"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": [
+    "Recipe Notes: Keeps 3 days in the fridge – it’s even better on day 2 when the flavours have mellowed! Nutrition for whole batch."
+  ]
+}

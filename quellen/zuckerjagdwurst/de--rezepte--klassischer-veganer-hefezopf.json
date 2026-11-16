@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/klassischer-veganer-hefezopf",
+  "recipes": [
+    {
+      "name": "Klassischer veganer Hefezopf",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/klassischer-veganer-hefezopf",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/klassischer-veganer-hefezopf#recipe-b19a3fc3-f0ae-57fb-88d4-10c39dbbc197",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "1 Hefezopf",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT135M",
+      "ingredients": [
+        "Für den Hefeteig:",
+        "200 ml Soja-Vanillemilch oder ein anderer pflanzlicher Drink",
+        "70 g Zucker",
+        "7 g frische Hefe",
+        "400 g Mehl (Type 405 oder 630)",
+        "1 TL Salz",
+        "100 g vegane Butter",
+        "Für das Topping:",
+        "vegane Sahne zum Bestreichen",
+        "Hagelzucker",
+        "Marmelade zum Servieren"
+      ],
+      "instructions": [
+        "Pflanzliche Milch leicht erwärmen – sie sollte lauwarm sein, also circa 37 °C, aber auf keinen Fall heiß, sonst stirbt die Hefe ab. Hefe und den gesamten Zucker in der Milch auflösen und circa 10 Minuten stehen lassen, bis die Mischung leicht schäumt.",
+        "Mehl, Salz und zimmerwarme vegane Butter hinzufügen und alles zu einem glatten, elastischen Teig kneten – circa 10 Minuten von Hand oder 5–7 Minuten mit der Küchenmaschine. Der Teig sollte sich vom Schüsselrand lösen und nicht mehr kleben.",
+        "Schüssel mit einem sauberen Küchentuch abdecken und den Teig an einem warmen Ort circa 60 Minuten gehen lassen, bis er sich etwa verdoppelt hat.",
+        "Teig auf einer leicht bemehlten Arbeitsfläche kurz durchkneten und in vier gleich schwere Stücke teilen. Jedes Stück zu einem langen Strang ausrollen.",
+        "Die vier Stränge oben zusammendrücken und zu einem Zopf flechten, die Enden gut festdrücken. Hier findet ihr eine gute Anleitung dafür. Den Zopf auf ein mit Backpapier belegtes Backblech legen, erneut abdecken und circa 30 Minuten gehen lassen.",
+        "Ofen auf 180 °C (Ober-/Unterhitze) vorheizen. Zopf mit etwas veganer Sahne bestreichen und großzügig mit Hagelzucker bestreuen. Im vorgeheizten Ofen 25–30 Minuten backen, bis er goldbraun ist. Direkt nach dem Backen nochmals mit veganer Sahne bestreichen. Klingt der Boden beim Klopfen hohl, ist er perfekt durchgebacken. Mit Marmelade servieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

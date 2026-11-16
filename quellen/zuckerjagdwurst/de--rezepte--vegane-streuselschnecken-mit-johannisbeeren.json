@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-streuselschnecken-mit-johannisbeeren",
+  "recipes": [
+    {
+      "name": "Vegane Streuselschnecken wie vom Bäcker",
+      "source_url": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-streuselschnecken-mit-johannisbeeren",
+      "recipe_id": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-streuselschnecken-mit-johannisbeeren#recipe-7db28842-7f95-5832-9cb2-0b7ff76598be",
+      "authors": [
+        "Isa Zucker"
+      ],
+      "publisher": "Zucker & Jagdwurst",
+      "language": "de",
+      "yield": "6 Stück",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT235M",
+      "ingredients": [
+        "Für den Teig:",
+        "125 ml pflanzliche Milch",
+        "4 g Trockenhefe",
+        "40 g Zucker",
+        "250 g Weizenmehl (Type 405)",
+        "35 ml neutrales Pflanzenöl",
+        "1 Prise Salz",
+        "Für die Streusel:",
+        "125 g Weizenmehl (Type 405)",
+        "85 g vegane Butter",
+        "30 g Zucker",
+        "1 Prise Salz",
+        "Zum Belegen (optional):",
+        "Johannisbeeren",
+        "Blaubeeren",
+        "Kirschen",
+        "Pflaumen",
+        "Für den Zuckerguss:",
+        "ca. 100 g Puderzucker",
+        "Wasser"
+      ],
+      "instructions": [
+        "Die pflanzliche Milch erwärmen, bis sie lauwarm ist. Anschließend in einer Schüssel mit Trockenhefe und einem Löffel vom Zucker vermengen. Die Mischung circa 10 Minuten stehen lassen, bis sich Bläschen auf der Oberfläche bilden. Danach den restlichen Zucker, Weizenmehl, Pflanzenöl und Salz hinzugeben und alles zu einem glatten Teig kneten. Nach Bedarf mehr Mehl oder pflanzliche Milch dazugeben. Den Teig abgedeckt entweder zwei Stunden bei Raumtemperatur oder über Nacht im Kühlschrank gehen lassen.",
+        "Tipp: Wenn sich nach der Ruhezeit keine Bläschen auf der Oberfläche bilden, ist die Hefe wahrscheinlich abgelaufen und nicht mehr aktiv. In diesem Fall solltet ihr den Schritt nochmal mit neuer Hefe beginnen.",
+        "In der Zwischenzeit für die Streusel Weizenmehl, kalte vegane Butter, Zucker und Salz verkneten, bis ein Streuselteig entsteht. Das Obst waschen, trocknen und Stiele und Kerne entfernen.",
+        "Den Teig nach der Ruhezeit aus der Schüssel nehmen. Ein oder zwei Backbleche mit Backpapier belegen. Aus dem Teig sechs gleich große Kugeln formen (je circa 75 Gramm) und diese zu dünnen Fladen ausrollen. Mit ausreichend Abstand auf die Backbleche legen und mit dem jeweiligen Obst und den Streuseln belegen (dabei nicht zu viel Rand freilassen, sonst wird er beim Backen zu trocken). So erneut 30 Minuten bei Raumtemperatur gehen lassen.",
+        "Den Ofen auf 180 °C (Ober-/Unterhitze) vorheizen und die Streuselschnecken nach der Ruhezeit circa 25 Minuten backen. Danach aus dem Ofen nehmen und abkühlen lassen.",
+        "Tipp: Die Schnecken mit Alufolie abdecken, wenn die Streuselschnecken zu schnell braun werden.",
+        "Während die Streuselschnecken abkühlen, den Zuckerguss vorbereiten. Dafür Puderzucker mit ein paar Tropfen Wasser Schritt für Schritt zu einem dickflüssigen Zuckerguss verrühren. Danach die abgekühlten Streuselschnecken großzügig mit dem Zuckerguss dekorieren."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

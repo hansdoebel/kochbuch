@@ -1,0 +1,53 @@
+{
+  "source_url": "https://app.cookwell.com/recipe/high-protein-chicken-guacamole-bowl",
+  "recipes": [
+    {
+      "name": "Healthy Chicken Guacamole Bowl",
+      "source_url": "https://app.cookwell.com/recipe/high-protein-chicken-guacamole-bowl",
+      "recipe_id": "https://app.cookwell.com/recipe/high-protein-chicken-guacamole-bowl",
+      "authors": [
+        "Ethan Chlebowski"
+      ],
+      "publisher": "Cook Well",
+      "language": "en",
+      "yield": "2-3 servings",
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT45M",
+      "ingredients": [
+        "Avocados, 1-2",
+        "Garlic, 2 cloves",
+        "Cilantro, a handful",
+        "Lime juice, 1/2 lime",
+        "Salt, to taste",
+        "Corn, 2-3 ears",
+        "Cilantro, 1 bunch",
+        "Cherry tomatoes, a handful",
+        "Red Onions, 1/2",
+        "Habanero Peppers, 1/2",
+        "Lime juice, 1/2 lime",
+        "Salt, to taste",
+        "Chicken Breasts, 2",
+        "Smoked Paprika, a sprinkle",
+        "Chili Powder, a sprinkle",
+        "Salt, a sprinkle",
+        "Cooking oil, a drizzle",
+        "Tortilla Chips, to taste",
+        "Queso Fresco, to taste"
+      ],
+      "instructions": [
+        "Thin out or butterfly the chicken breasts with a knife until they an even thickness. Generously cover with an even sprinkle of salt. If you have the time, dry brine these ahead of time for up to 24 hours. Before cooking, season with an even layer of the spices. These will help make a nice crust on the chicken. Set a griddle or pan over high heat. Once the pan is ripping hot, add drizzle of oil and place the chicken breast down to sear.",
+        "Once one side has developed a nice sear and some color, flip the breasts over. Continue searing until the internal temperature reaches 155°F/68°C. Thinned out chicken breasts should take around 5-7 minutes to reach this temp. Remove from the heat and set aside to rest before dicing up the chicken for serving.",
+        "Slice off the corn kernels from the cob. Prep & dice the red onion, habanero, and tomato. Chop the stem half off a bunch of cilantro, then chop that into a fine dice. Set the leafy half aside for the guac. To a ripping hot griddle or pan (can be the same one used to cook the chicken), spread the corn kernels in an even layer. Let those sear undisturbed for a few minutes to develop some charring on one side. Remove from the pan into a mixing bowl or container. Mix the prepped onion, tomato, cilantro, habanero into the charred corn. Add salt and lime juice to taste.",
+        "Mince a handful of reserved cilantro leaves. Add the garlic cloves to a mortar & pestle and pound until broken down into a paste. Add the flesh of the avocado and crush until you’ve reached your desired consistency. Mix in the cilantro leaves and lime juice. Taste and adjust with salt and more lime juice, if needed.",
+        "Dice the cooked chicken into bite sized pieces. To plate, add a layer of guac, chicken, corn salsa, and garnish with crumbled queso fresco. Serve with tortilla chips."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "restricted_card_count": 0,
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

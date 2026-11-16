@@ -1,0 +1,92 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-homemade-sauerkraut-recipe",
+  "recipes": [
+    {
+      "name": "How To Make The Easiest Homemade Sauerkraut",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-homemade-sauerkraut-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "8",
+      "prep_time": "20 minutes",
+      "cook_time": "2 weeks (fermentation)",
+      "total_time": "2 weeks",
+      "ingredients": [
+        "Green Cabbage",
+        "2% kosher salt"
+      ],
+      "instructions": [
+        "Cut cabbage in half, and then in quarters.",
+        "Slice out the core.",
+        "Slice thinly as possible",
+        "Weigh on scale, then multiply the total weight of cabbage by .02 to determine the salt needed.",
+        "Bruise cabbage so it releases a lot of liquid. This is about a 2-5 minute process.",
+        "When transferring into a tight container, include the liquid. Firmly press down so that the liquid covers the top of the product.",
+        "Cover with crumpled plastic wrap with a weight inside.",
+        "Use airlock to let air out. If not, burp daily. Do not screw way too tight or it will explode.",
+        "Check product after 2 weeks.",
+        "Reserve in fridge, and use as needed."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Ratio: 2% salt from total weight of cabbage"
+        },
+        {
+          "tag": "li",
+          "text": "Green Cabbage"
+        },
+        {
+          "tag": "li",
+          "text": "2% kosher salt"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Cut cabbage in half, and then in quarters."
+        },
+        {
+          "tag": "li",
+          "text": "Slice out the core."
+        },
+        {
+          "tag": "li",
+          "text": "Slice thinly as possible"
+        },
+        {
+          "tag": "li",
+          "text": "Weigh on scale, then multiply the total weight of cabbage by .02 to determine the salt needed."
+        },
+        {
+          "tag": "li",
+          "text": "Bruise cabbage so it releases a lot of liquid. This is about a 2-5 minute process."
+        },
+        {
+          "tag": "li",
+          "text": "When transferring into a tight container, include the liquid. Firmly press down so that the liquid covers the top of the product."
+        },
+        {
+          "tag": "li",
+          "text": "Cover with crumpled plastic wrap with a weight inside."
+        },
+        {
+          "tag": "li",
+          "text": "Use airlock to let air out. If not, burp daily. Do not screw way too tight or it will explode."
+        },
+        {
+          "tag": "li",
+          "text": "Check product after 2 weeks."
+        },
+        {
+          "tag": "li",
+          "text": "Reserve in fridge, and use as needed."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

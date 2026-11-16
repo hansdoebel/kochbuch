@@ -1,0 +1,72 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/simple-charcoal-grilled-steak-recipe",
+  "recipes": [
+    {
+      "name": "Simple Charcoal Grilled Steak",
+      "source_url": "https://www.joshuaweissman.com/recipes/simple-charcoal-grilled-steak-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        "1 steak",
+        "1 Tbsp (15g) kosher salt",
+        "1 tsp (3g) fresh cracked black pepper"
+      ],
+      "instructions": [
+        "Preheat the grill by lighting charcoal. Allow the coals to stop burning and turn white. This should take about 10-15 minutes.",
+        "In a small mixing bowl, whisk together salt and black pepper until fully incorporated.",
+        "On a plate or wire rack-lined baking tray, season steak with spice mixture on all sides.",
+        "Place steak on the grill and cook for 1-2 minutes, then turn 45 degrees, and cook for another 1-2 minutes.",
+        "Flip the steak and cook for 1-2 minutes, then turn 45 degrees, and cook for an additional 1-2 minutes. The internal temperature of the steak should reach 125°F (50°C)."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 steak"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) fresh cracked black pepper"
+        },
+        {
+          "tag": "p",
+          "text": "‍"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Preheat the grill by lighting charcoal. Allow the coals to stop burning and turn white. This should take about 10-15 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "In a small mixing bowl, whisk together salt and black pepper until fully incorporated."
+        },
+        {
+          "tag": "li",
+          "text": "On a plate or wire rack-lined baking tray, season steak with spice mixture on all sides."
+        },
+        {
+          "tag": "li",
+          "text": "Place steak on the grill and cook for 1-2 minutes, then turn 45 degrees, and cook for another 1-2 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Flip the steak and cook for 1-2 minutes, then turn 45 degrees, and cook for an additional 1-2 minutes. The internal temperature of the steak should reach 125°F (50°C)."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

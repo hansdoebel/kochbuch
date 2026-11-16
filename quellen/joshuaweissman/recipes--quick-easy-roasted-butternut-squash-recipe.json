@@ -1,0 +1,78 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/quick-easy-roasted-butternut-squash-recipe",
+  "recipes": [
+    {
+      "name": "Quick & Easy Roasted Butternut Squash",
+      "source_url": "https://www.joshuaweissman.com/recipes/quick-easy-roasted-butternut-squash-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "10",
+      "prep_time": "10 minutes",
+      "cook_time": "30 minutes ",
+      "total_time": "40 minutes",
+      "ingredients": [
+        "1-2 large butternut squash, peeled, ends trimmed and seeded",
+        "Extra-virgin olive oil",
+        "Vadouvan spice, for seasoning",
+        "Kosher salt and freshly ground black pepper, to taste"
+      ],
+      "instructions": [
+        "Preheat the oven to 450°F (232°C).",
+        "Cut the squash into 1” (2.5cm) cubes and transfer into a large bowl.",
+        "Drizzle enough oil to fully coat the squash then season with vadouvan, salt and pepper, to taste. Toss until evenly coated and seasoned.",
+        "Transfer to an aluminum foil-lined baking sheet and spread into an even layer.",
+        "Bake in the oven for 30 minutes or until cooked through and lightly caramelized.",
+        "Remove from the oven and set aside to keep warm."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1-2 large butternut squash, peeled, ends trimmed and seeded"
+        },
+        {
+          "tag": "li",
+          "text": "Extra-virgin olive oil"
+        },
+        {
+          "tag": "li",
+          "text": "Vadouvan spice, for seasoning"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt and freshly ground black pepper, to taste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Preheat the oven to 450°F (232°C)."
+        },
+        {
+          "tag": "li",
+          "text": "Cut the squash into 1” (2.5cm) cubes and transfer into a large bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Drizzle enough oil to fully coat the squash then season with vadouvan, salt and pepper, to taste. Toss until evenly coated and seasoned."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer to an aluminum foil-lined baking sheet and spread into an even layer."
+        },
+        {
+          "tag": "li",
+          "text": "Bake in the oven for 30 minutes or until cooked through and lightly caramelized."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the oven and set aside to keep warm."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

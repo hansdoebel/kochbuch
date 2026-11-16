@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.babi.sh/recipes/chicken-schnitzel-with-kohlrabi-slaw",
+  "recipes": [
+    {
+      "name": "Chicken Schnitzel with Kohlrabi Slaw",
+      "source_url": "https://www.babi.sh/recipes/chicken-schnitzel-with-kohlrabi-slaw",
+      "recipe_id": null,
+      "authors": [
+        "bingingwithbabish"
+      ],
+      "publisher": "Babish",
+      "language": "en",
+      "yield": "",
+      "prep_time": "PT0S",
+      "cook_time": "PT0S",
+      "total_time": "PT0S",
+      "ingredients": [
+        "For the schnitzel",
+        "1 chicken breast",
+        "1 cup breadcrumbs",
+        "1 cup flour",
+        "2 large eggs",
+        "1 tbsp heavy cream",
+        "1 1/2 cup ghee/clarified butter (or enough to reach 1\" high in pan",
+        "For the slaw:",
+        "1/2 Kohlrabi",
+        "1/2 Green apple",
+        "4 red radishes",
+        "2 tbsp mint (or a small bunch)",
+        "2 tbsp tarragon (or a small bunch)",
+        "1/2 lemon"
+      ],
+      "instructions": [
+        "For the Schnitzel:",
+        "Butterfly a chicken breast by pounding it out with a mallet between two sheets of parchment paper or cling film. Stop when it is about 1\" thick.",
+        "Place flour in one plate, two eggs and cream, beaten, in another, and breadcrumbs in another, and spread out evenly.",
+        "Dredge chicken breast in flour, coating it on both sides, and shake off excess. Make sure the flour gets in all the little crevices.",
+        "Dredge both sides of chicken in egg and cream mixture, shaking the plate to fully coat it. Let excess drip back into plate.",
+        "Dredge chicken breast in breadcrumbs, pressing breadcrumbs into both sides until it is fully coated on both sides. Set aside.",
+        "Melt ghee in high-walled sauté pan, heat temp until 350F. Carefully place chicken in the pan (laying it away from you to prevent the butter splashing) and cook until crisp on one side, about 2-3 minutes. Flip and cook on other side until chicken's internal temperature reaches 165F. Remove, place on a wired rack and salt.",
+        "For the Kohlrabi Slaw",
+        "Julienne kohlrabi, green apple, and radish. Combine in bowl.",
+        "Finely chop mint, tarragon, add to slaw.",
+        "Squeeze lemon over top, and mix to combine.",
+        "Plate schnitzel with slaw and jam, if desired, and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": []
+    }
+  ],
+  "page_recipe_notes": []
+}

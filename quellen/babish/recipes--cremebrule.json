@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.babi.sh/recipes/cremebrule",
+  "recipes": [
+    {
+      "name": "Crème Brûlée inspired by Amelie",
+      "source_url": "https://www.babi.sh/recipes/cremebrule",
+      "recipe_id": null,
+      "authors": [
+        "bingingwithbabish"
+      ],
+      "publisher": "Babish",
+      "language": "en",
+      "yield": "",
+      "prep_time": "PT0S",
+      "cook_time": "PT0S",
+      "total_time": "PT0S",
+      "ingredients": [
+        "granulated sugar",
+        "2 vanilla beans, divided",
+        "2 cups heavy cream",
+        "6 egg yolks",
+        "raw sugar (for caramelizing)"
+      ],
+      "instructions": [
+        "In a food processor, add sugar (amount to taste). Split one vanilla bean lengthwise, scrape out the seeds, and add them to the processor. Pulse until fully combined and fragrant. - granulated sugar - 2 vanilla beans divided",
+        "In a medium saucepan, combine 75 g of the vanilla sugar mix and add heavy cream. Split the second vanilla bean, scrape out the seeds, and add both the seeds and bean to the pot. - 2 cups heavy cream - 2 vanilla beans divided",
+        "Heat over medium until it begins to simmer, stirring occasionally. Once shimmering, strain the mixture through a fine-mesh strainer to remove the vanilla bean and seeds, then set aside to cool for 15 minutes.",
+        "In a mixing bowl, separate and whisk the egg yolks. Slowly pour the slightly cooled vanilla cream into the yolks, whisking continuously to prevent curdling. - 6 egg yolks",
+        "Place a damp kitchen towel at the bottom of a deep casserole or baking dish. Pour the vanilla cream and egg mixture into the ramekins, filling each evenly. - granulated sugar - 2 vanilla beans divided - 2 cups heavy cream - 6 egg yolks",
+        "Arrange the ramekins on top of the towel in the casserole dish, and fill the dish with boiling water until it reaches about two-thirds of the way up the sides of the ramekins.",
+        "Preheat the oven to 300° F. Place the casserole dish in the oven and bake for 24-40 minutes, depending on the size and depth of your ramekins.",
+        "The custards should reach an internal temperature of 175° F and be just set, with a slight jiggle in the center.",
+        "Remove from the oven and let the ramekins cool for about 1 hour to room temperature. Once cooled, place them on a baking sheet, cover, and refrigerate for at least 4 hours.",
+        "After chilling, sprinkle a thin layer of raw sugar on top of each crème brûlée. - raw sugar (for caramelizing)",
+        "Using a kitchen torch, slowly torch the sugar until it melts, caramelizes, and forms a hard, glassy layer.",
+        "After caramelizing, refrigerate the ramekins for another 45 minutes to ensure a perfect chilled contrast between the creamy custard and caramelized top. Serve and enjoy!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": []
+    }
+  ],
+  "page_recipe_notes": []
+}

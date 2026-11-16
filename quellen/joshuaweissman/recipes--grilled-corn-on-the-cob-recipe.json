@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/grilled-corn-on-the-cob-recipe",
+  "recipes": [
+    {
+      "name": "Perfect Grilled Corn On The Cob",
+      "source_url": "https://www.joshuaweissman.com/recipes/grilled-corn-on-the-cob-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "15 minutes",
+      "cook_time": "5 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        "4 ears of corn, shucked",
+        "½ cup (112g) unsalted butter",
+        "Flaky salt, to taste"
+      ],
+      "instructions": [
+        "Light a charcoal or gas grill to medium-high heat, or if indoors heat a large grill pan to medium-high heat.",
+        "While your grill is heating, to a small saucepan over medium heat, add your butter and cook until fully melted. Allow your butter to cook swirling and stirring occasionally until the butter smells nutty and is a deep golden brown. Be aware that the butter may continue to brown a little bit from the residual heat left in the pan even after the heat has been turned off, so try to cut it off slightly earlier than necessary to avoid burning the butter. Cut off the heat and set to the side.",
+        "Place the corn on the hottest part of your grill and cook for 1-2 minutes or until the corn is hot and lightly charred. Give each ear of corn a quarter turn and cook for 1-2 more minutes until all sides are lightly charred and heated through.",
+        "To serve, brush each piece of corn generously with your browned butter, and season all over with flakey salt. Serve and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "4 ears of corn, shucked"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (112g) unsalted butter"
+        },
+        {
+          "tag": "li",
+          "text": "Flaky salt, to taste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Light a charcoal or gas grill to medium-high heat, or if indoors heat a large grill pan to medium-high heat."
+        },
+        {
+          "tag": "li",
+          "text": "While your grill is heating, to a small saucepan over medium heat, add your butter and cook until fully melted. Allow your butter to cook swirling and stirring occasionally until the butter smells nutty and is a deep golden brown. Be aware that the butter may continue to brown a little bit from the residual heat left in the pan even after the heat has been turned off, so try to cut it off slightly earlier than necessary to avoid burning the butter. Cut off the heat and set to the side."
+        },
+        {
+          "tag": "li",
+          "text": "Place the corn on the hottest part of your grill and cook for 1-2 minutes or until the corn is hot and lightly charred. Give each ear of corn a quarter turn and cook for 1-2 more minutes until all sides are lightly charred and heated through."
+        },
+        {
+          "tag": "li",
+          "text": "To serve, brush each piece of corn generously with your browned butter, and season all over with flakey salt. Serve and enjoy."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

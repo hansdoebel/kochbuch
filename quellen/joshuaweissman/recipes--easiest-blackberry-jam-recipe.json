@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/easiest-blackberry-jam-recipe",
+  "recipes": [
+    {
+      "name": "The Easiest Blackberry Jam (3 Ingredients)",
+      "source_url": "https://www.joshuaweissman.com/recipes/easiest-blackberry-jam-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "5 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "15 minutes",
+      "ingredients": [
+        "1 quart (2 pints) fresh blackberries",
+        "¾ cup (150g) granulated sugar",
+        "¼ cup (60g) water",
+        "1-2 Tbsp (15-30g) lemon juice"
+      ],
+      "instructions": [
+        "Combine blackberries and sugar in a medium saucepan. Smash the berries using your hands or a fork to break them down and macerate them with the sugar.",
+        "Add the water and bring to a boil over medium-high heat. Reduce to a simmer and cook for 15-20 minutes or until the liquid is reduced and thickened, stirring occasionally. You can check the thickness by pouring about 1 teaspoon, or 4 grams, on a small plate, and placing it in the fridge for 1 minute. If after one minute it forms a sticky string when rubbed between two fingers, it’s done.",
+        "Once the jam has thickened, stir in the lemon juice to taste. Pass the jam through a fine-mesh strainer and let it cool completely. Serve and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 quart (2 pints) fresh blackberries"
+        },
+        {
+          "tag": "li",
+          "text": "¾ cup (150g) granulated sugar"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup (60g) water"
+        },
+        {
+          "tag": "li",
+          "text": "1-2 Tbsp (15-30g) lemon juice"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Combine blackberries and sugar in a medium saucepan. Smash the berries using your hands or a fork to break them down and macerate them with the sugar."
+        },
+        {
+          "tag": "li",
+          "text": "Add the water and bring to a boil over medium-high heat. Reduce to a simmer and cook for 15-20 minutes or until the liquid is reduced and thickened, stirring occasionally. You can check the thickness by pouring about 1 teaspoon, or 4 grams, on a small plate, and placing it in the fridge for 1 minute. If after one minute it forms a sticky string when rubbed between two fingers, it’s done."
+        },
+        {
+          "tag": "li",
+          "text": "Once the jam has thickened, stir in the lemon juice to taste. Pass the jam through a fine-mesh strainer and let it cool completely. Serve and enjoy."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

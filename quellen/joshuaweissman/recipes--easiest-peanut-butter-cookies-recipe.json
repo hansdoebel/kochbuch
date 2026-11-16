@@ -1,0 +1,72 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/easiest-peanut-butter-cookies-recipe",
+  "recipes": [
+    {
+      "name": "The Easiest Peanut Butter Cookies (3 Ingredients)",
+      "source_url": "https://www.joshuaweissman.com/recipes/easiest-peanut-butter-cookies-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "8",
+      "prep_time": "10 minutes",
+      "cook_time": "12 minutes",
+      "total_time": "22 minutes",
+      "ingredients": [
+        "1 cup (256g) creamy peanut butter",
+        "1 cup (200g) granulated sugar",
+        "1 whole egg"
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F (176°C).",
+        "Beat together the peanut butter and sugar in a large mixing bowl, using a hand mixer. Stop when the mixture is creamy, about 2-3 minutes.",
+        "Add the egg and continue to mix for another minute until fully incorporated.",
+        "Using a tablespoon or regular spoon, scoop cookie dough and form into balls. Place them evenly on a parchment paper-lined cookie sheet, about 8 cookies per cookie sheet. Press each round down with a fork twice in the shape of a plus sign to form a pattern.",
+        "Bake the cookies for 10-12 minutes. Allow them to cool before serving."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 cup (256g) creamy peanut butter"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup (200g) granulated sugar"
+        },
+        {
+          "tag": "li",
+          "text": "1 whole egg"
+        },
+        {
+          "tag": "p",
+          "text": "‍"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Preheat the oven to 350°F (176°C)."
+        },
+        {
+          "tag": "li",
+          "text": "Beat together the peanut butter and sugar in a large mixing bowl, using a hand mixer. Stop when the mixture is creamy, about 2-3 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Add the egg and continue to mix for another minute until fully incorporated."
+        },
+        {
+          "tag": "li",
+          "text": "Using a tablespoon or regular spoon, scoop cookie dough and form into balls. Place them evenly on a parchment paper-lined cookie sheet, about 8 cookies per cookie sheet. Press each round down with a fork twice in the shape of a plus sign to form a pattern."
+        },
+        {
+          "tag": "li",
+          "text": "Bake the cookies for 10-12 minutes. Allow them to cool before serving."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

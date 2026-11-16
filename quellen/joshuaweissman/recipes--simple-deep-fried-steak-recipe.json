@@ -1,0 +1,68 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/simple-deep-fried-steak-recipe",
+  "recipes": [
+    {
+      "name": "Simple Deep Fried Steak",
+      "source_url": "https://www.joshuaweissman.com/recipes/simple-deep-fried-steak-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        "1 steak",
+        "2 quarts (2L) vegetable oil",
+        "1 Tbsp (15g) kosher salt",
+        "1 tsp (3g) fresh cracked black pepper"
+      ],
+      "instructions": [
+        "In a heavy bottomed pot, heat vegetable oil to 350°F (175°C)",
+        "In a small mixing bowl, whisk together salt and black pepper until fully incorporated. Season the steak on all sides.",
+        "Once the oil is hot, gently lay the steak into the hot oil and cook for 5-8 minutes. The internal temperature should read 125°F (50°C).",
+        "Transfer the steak to a wire rack lined baking tray to drain. Allow the steak to rest for 3-5 minutes."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 steak"
+        },
+        {
+          "tag": "li",
+          "text": "2 quarts (2L) vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) fresh cracked black pepper"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "In a heavy bottomed pot, heat vegetable oil to 350°F (175°C)"
+        },
+        {
+          "tag": "li",
+          "text": "In a small mixing bowl, whisk together salt and black pepper until fully incorporated. Season the steak on all sides."
+        },
+        {
+          "tag": "li",
+          "text": "Once the oil is hot, gently lay the steak into the hot oil and cook for 5-8 minutes. The internal temperature should read 125°F (50°C)."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer the steak to a wire rack lined baking tray to drain. Allow the steak to rest for 3-5 minutes."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.babi.sh/recipes/archer-margarita",
+  "recipes": [
+    {
+      "name": "Margaritas inspired by Archer",
+      "source_url": "https://www.babi.sh/recipes/archer-margarita",
+      "recipe_id": null,
+      "authors": [
+        "bingingwithbabish"
+      ],
+      "publisher": "Babish",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT0S",
+      "cook_time": "PT7200S",
+      "total_time": "PT7200S",
+      "ingredients": [
+        "For the Archer’s Margarita",
+        "Pre made Margarita Sour Mix",
+        "Tequila",
+        "Ice",
+        "For the True Margarita",
+        "1 1/2 oz freshly squeezed lime juice",
+        "3 oz agave tequila",
+        "1 1/2 oz Cointreau",
+        "Ice",
+        "Limes, for garnish (optional)",
+        "Salt, for garnish (optional)"
+      ],
+      "instructions": [
+        "For the Archer’s Margarita",
+        "In a cocktail glass, fill to the brim with ice and add 4 parts margarita mix to 1 part tequila. - Pre made Margarita Sour Mix - Tequila - Ice",
+        "Stir using a bar spoon or any stirring utensil until everything is fully incorporated.",
+        "For the True Margarita",
+        "If a salted rim is preferred, start by cutting a lime in half then rubbing the lime on the rim of the glass before dipping glass down into kosher salt. - freshly squeezed lime juice - Salt for garnish (optional)",
+        "In a shaker, add agave tequila, Cointreau, and freshly squeezed lime juice. - 3 oz agave tequila - 1 ½ oz Cointreau - 1 ½ oz freshly squeezed lime juice",
+        "Pour into a shaker and shake vigorously before pouring into the salt-rimmed glass full of ice. - Ice",
+        "Garnish with a slice of lime on the side of the glass. - Limes for garnish (optional)"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": []
+    }
+  ],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-fried-brussels-sprouts-recipe",
+  "recipes": [
+    {
+      "name": "Make Fried Brussels Sprouts Like a Chef",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-fried-brussels-sprouts-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "3",
+      "prep_time": "5 minutes",
+      "cook_time": "5 minutes",
+      "total_time": "10 minutes",
+      "ingredients": [
+        "½ lb (225g) Brussels sprouts",
+        "Kosher salt and pepper to taste"
+      ],
+      "instructions": [
+        "Begin by preheating canola oil in a heavy bottomed pot or Dutch oven to 350°F (176°C). Prepare the Brussels sprouts for frying by halving or quartering them depending on size.",
+        "Working a small handful at a time, gently lower the Brussels sprouts into the oil using a spider. Be careful when adding the Brussels sprouts to the oil as they will “spit” hot oil when first added. Cook the sprouts until golden brown and crispy.",
+        "Remove the cooked sprouts from the hot oil using a spider. Add the cooked sprouts to a mixing bowl and begin to toss while seasoning with salt and pepper to taste.",
+        "Serve immediately."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "½ lb (225g) Brussels sprouts"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt and pepper to taste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Begin by preheating canola oil in a heavy bottomed pot or Dutch oven to 350°F (176°C). Prepare the Brussels sprouts for frying by halving or quartering them depending on size."
+        },
+        {
+          "tag": "li",
+          "text": "Working a small handful at a time, gently lower the Brussels sprouts into the oil using a spider. Be careful when adding the Brussels sprouts to the oil as they will “spit” hot oil when first added. Cook the sprouts until golden brown and crispy."
+        },
+        {
+          "tag": "li",
+          "text": "Remove the cooked sprouts from the hot oil using a spider. Add the cooked sprouts to a mixing bowl and begin to toss while seasoning with salt and pepper to taste."
+        },
+        {
+          "tag": "li",
+          "text": "Serve immediately."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

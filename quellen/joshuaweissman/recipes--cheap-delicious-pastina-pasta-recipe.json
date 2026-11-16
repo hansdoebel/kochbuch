@@ -1,0 +1,84 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/cheap-delicious-pastina-pasta-recipe",
+  "recipes": [
+    {
+      "name": "Cheap & Delicious Pastina Pasta",
+      "source_url": "https://www.joshuaweissman.com/recipes/cheap-delicious-pastina-pasta-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "10 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        "1 qt (950ml) chicken stock",
+        "1 cup (120g) pastina",
+        "¼ cup (60g) unsalted butter",
+        "¾ cup (60g) freshly grated Pecorino Romano or Parmigiano Reggiano",
+        "Kosher salt and pepper to taste"
+      ],
+      "instructions": [
+        "In a 2 qt saucepan, add chicken stock and bring to a boil over medium high heat. Once boiling, add pastina and cook for 8 to 10 minutes or until al dente. At this point the majority of the liquid should be evaporated or absorbed by the pasta.",
+        "Turn off the heat and add your butter, stirring constantly until it's completely melted and emulsified. Add your Pecorino Romano or Parmigiano Reggiano (or both), and mix until fully combined. Season to your taste with salt if needed.",
+        "Plate onto a shallow dish and optionally top with more freshly grated cheese of your choice and freshly cracked black pepper."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Total cost: $16.26"
+        },
+        {
+          "tag": "p",
+          "text": "Cost of Ingredients Used: $6.19"
+        },
+        {
+          "tag": "p",
+          "text": "Cost Per Serving: $1.55"
+        },
+        {
+          "tag": "p",
+          "text": "Ingredients:"
+        },
+        {
+          "tag": "li",
+          "text": "1 qt (950ml) chicken stock"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup (120g) pastina"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup (60g) unsalted butter"
+        },
+        {
+          "tag": "li",
+          "text": "¾ cup (60g) freshly grated Pecorino Romano or Parmigiano Reggiano"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt and pepper to taste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "In a 2 qt saucepan, add chicken stock and bring to a boil over medium high heat. Once boiling, add pastina and cook for 8 to 10 minutes or until al dente. At this point the majority of the liquid should be evaporated or absorbed by the pasta."
+        },
+        {
+          "tag": "li",
+          "text": "Turn off the heat and add your butter, stirring constantly until it's completely melted and emulsified. Add your Pecorino Romano or Parmigiano Reggiano (or both), and mix until fully combined. Season to your taste with salt if needed."
+        },
+        {
+          "tag": "li",
+          "text": "Plate onto a shallow dish and optionally top with more freshly grated cheese of your choice and freshly cracked black pepper."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

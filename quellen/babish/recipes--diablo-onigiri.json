@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.babi.sh/recipes/diablo-onigiri",
+  "recipes": [
+    {
+      "name": "Diablo Onigiri",
+      "source_url": "https://www.babi.sh/recipes/diablo-onigiri",
+      "recipe_id": null,
+      "authors": [
+        "bingingwithbabish"
+      ],
+      "publisher": "Babish",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "PT0S",
+      "cook_time": "PT5400S",
+      "total_time": "PT5400S",
+      "ingredients": [
+        "2 cups cooked short grain rice",
+        "2 bone in, skin on chicken breasts",
+        "2 carrots, peeled",
+        "2 celery stalks",
+        "4 chipotles in adobo, with 1 tbsp of sauce",
+        "1 onion",
+        "3 cloves garlic, minced",
+        "2 roma tomatoes, diced",
+        "2 sheets of nori",
+        "2 tbsp Shichimi togarashi",
+        "2 tsp dried mexican oregano"
+      ],
+      "instructions": [
+        "Remove skin from chicken and set aside. Place chicken in pot or sauté pan with enough water to cover it. Add your peeled carrots, half of a peeled onion left whole, and your celery stalks. Bring to a simmer and poach for 40-45 minutes. Strain broth and reserve chicken in fridge to cool.",
+        "Place the chicken skin flat on a nonstick or well-seasoned pan, and turn on low heat. As fat begins to render, turn heat to medium low and continue to cook, flipping often to crisp both sides. When skin has turned a golden brown color, remove to paper towel-lined plate and salt. Reserve rendered chicken fat, and set aside crispy skin to cool.",
+        "In the reserved chicken fat, sauté half of an onion, diced, along with the garlic and tomatoes until softened. Season with salt, pepper and optionally, Mexican oregano. Add chipotles along with their adobo sauce and cook until fragrant, about 2-3 minutes. Add 2 cups of reserved chicken poaching liquid, and allow to come to a simmer.",
+        "Blend the liquid in either an immersion blender or upright blender until desired consistency is achieved. Continue to simmer on medium heat until sauce is thick enough to drag a spoon and leave a trail.",
+        "Shred your cooled chicken by tearing it from the bone. Once desired shred is achieved, add chicken back into sauce and mix to coat. Cook until chicken is heated through, then set aside to cool.",
+        "Carefully toast the nori sheet over a low flame until brittle and dry. In a spice grinder or mortar and pestle, combine the chicken skin, togarashi, and toasted nori, until a fairly coarse but uniform mixture is achieved. Add to rice and mix to combine.",
+        "Add one layer of rice to an onigiri mold and flatten. Add a small amount of Tinga, followed by the second layer of rice. Press to combine, and then remove from mold. Wrap with a small strip of nori, if desired."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": []
+    }
+  ],
+  "page_recipe_notes": []
+}

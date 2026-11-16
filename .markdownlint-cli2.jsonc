@@ -1,0 +1,9 @@
+{
+  "config": {
+    "default": true,
+    // Zutaten und Arbeitsschritte dürfen ohne künstliche Umbrüche lang sein.
+    "MD013": false,
+    // Das YAML-Feld title ist Metadatum; der sichtbare Titel bleibt eine H1.
+    "MD025": { "front_matter_title": "" }
+  }
+}

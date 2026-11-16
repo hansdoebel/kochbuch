@@ -1,0 +1,221 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/the-best-grilled-cheese-recipe",
+  "recipes": [
+    {
+      "name": "Finding The Best Way To Make A Grilled Cheese",
+      "source_url": "https://www.joshuaweissman.com/recipes/the-best-grilled-cheese-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "6",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        "American sliced cheese",
+        "White bread",
+        "Butter",
+        "Sourdough Bread",
+        "Butter",
+        "Cheddar",
+        "Gouda",
+        "Raclette",
+        "2 Apples, peeled and chopped",
+        "3.5 Tbsp (44 g) Granulated Sugar",
+        "Salt",
+        "Cheddar Cheese",
+        "Brie",
+        "Brioche Bread"
+      ],
+      "instructions": [
+        "Start by buttering (sub mayo if wanted) both slices of bread.",
+        "Place a slice onto a cold pan topped with cheese and top slice but side facing up.",
+        "Toast 3-6 minutes over medium heat. Flip and repeat.",
+        "Start by buttering (sub mayo if wanted) both slices of bread.",
+        "Grate all three cheeses and mix together in a bowl.",
+        "Place a slice onto a cold pan topped with cheese and top slice but side facing up.",
+        "Toast 5-8 minutes over medium heat. Flip and repeat.",
+        "Start by peeling and cheek each apple then cut into bite size pieces.",
+        "In a small pot, toss the apples together with granulated sugar and a pinch of salt.",
+        "Let sit for 20 minutes.",
+        "Set over medium-high heat and bring to a boil. Reduce the heat to a simmer for 20-30 minutes.",
+        "Slice brioche bread into slices.",
+        "Butter both slices of bread.",
+        "Place a slice onto a cold pan topped with caramelized apples, grated cheddar cheese, and brie topped with the top slice but side facing up.",
+        "Toast 5-8 minutes over medium heat. Flip and repeat."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "American Style:"
+        },
+        {
+          "tag": "p",
+          "text": "Prep Time: 30 minutes"
+        },
+        {
+          "tag": "p",
+          "text": "Cook Time: 6 minutes"
+        },
+        {
+          "tag": "li",
+          "text": "American sliced cheese"
+        },
+        {
+          "tag": "li",
+          "text": "White bread"
+        },
+        {
+          "tag": "li",
+          "text": "Butter"
+        },
+        {
+          "tag": "p",
+          "text": "Sourdough Grilled Cheese:"
+        },
+        {
+          "tag": "p",
+          "text": "Prep Time: 30 minutes"
+        },
+        {
+          "tag": "p",
+          "text": "Cook Time: 8 minutes"
+        },
+        {
+          "tag": "li",
+          "text": "Sourdough Bread"
+        },
+        {
+          "tag": "li",
+          "text": "Butter"
+        },
+        {
+          "tag": "li",
+          "text": "Cheddar"
+        },
+        {
+          "tag": "li",
+          "text": "Gouda"
+        },
+        {
+          "tag": "li",
+          "text": "Raclette"
+        },
+        {
+          "tag": "p",
+          "text": "Caramelized Apple & Brie:"
+        },
+        {
+          "tag": "p",
+          "text": "Prep Time: 30 minutes"
+        },
+        {
+          "tag": "p",
+          "text": "Cook Time: 30 minutes"
+        },
+        {
+          "tag": "li",
+          "text": "2 Apples, peeled and chopped"
+        },
+        {
+          "tag": "li",
+          "text": "3.5 Tbsp (44 g) Granulated Sugar"
+        },
+        {
+          "tag": "li",
+          "text": "Salt"
+        },
+        {
+          "tag": "li",
+          "text": "Cheddar Cheese"
+        },
+        {
+          "tag": "li",
+          "text": "Brie"
+        },
+        {
+          "tag": "li",
+          "text": "Brioche Bread"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "p",
+          "text": "American Style Method:"
+        },
+        {
+          "tag": "li",
+          "text": "Start by buttering (sub mayo if wanted) both slices of bread."
+        },
+        {
+          "tag": "li",
+          "text": "Place a slice onto a cold pan topped with cheese and top slice but side facing up."
+        },
+        {
+          "tag": "li",
+          "text": "Toast 3-6 minutes over medium heat. Flip and repeat."
+        },
+        {
+          "tag": "p",
+          "text": "Sourdough Method:"
+        },
+        {
+          "tag": "li",
+          "text": "Start by buttering (sub mayo if wanted) both slices of bread."
+        },
+        {
+          "tag": "li",
+          "text": "Grate all three cheeses and mix together in a bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Place a slice onto a cold pan topped with cheese and top slice but side facing up."
+        },
+        {
+          "tag": "li",
+          "text": "Toast 5-8 minutes over medium heat. Flip and repeat."
+        },
+        {
+          "tag": "p",
+          "text": "Caramelized Apple and Brie Method:"
+        },
+        {
+          "tag": "li",
+          "text": "Start by peeling and cheek each apple then cut into bite size pieces."
+        },
+        {
+          "tag": "li",
+          "text": "In a small pot, toss the apples together with granulated sugar and a pinch of salt."
+        },
+        {
+          "tag": "li",
+          "text": "Let sit for 20 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Set over medium-high heat and bring to a boil. Reduce the heat to a simmer for 20-30 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Slice brioche bread into slices."
+        },
+        {
+          "tag": "li",
+          "text": "Butter both slices of bread."
+        },
+        {
+          "tag": "li",
+          "text": "Place a slice onto a cold pan topped with caramelized apples, grated cheddar cheese, and brie topped with the top slice but side facing up."
+        },
+        {
+          "tag": "li",
+          "text": "Toast 5-8 minutes over medium heat. Flip and repeat."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

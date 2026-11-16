@@ -1,0 +1,120 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/tomato-sauce-recipe",
+  "recipes": [
+    {
+      "name": "Tomato Sauce",
+      "source_url": "https://www.joshuaweissman.com/recipes/tomato-sauce-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "5 min",
+      "cook_time": "55 min",
+      "total_time": "1 hr",
+      "ingredients": [
+        "28 oz (794g) can crushed tomatoes",
+        "2 Tbsp (30mL) extra virgin olive oil",
+        "3 cloves garlic",
+        "½ tsp (3g) sugar",
+        "2.5 tsp (13g) kosher salt",
+        "1 28 oz (794g) can of San Marzano peeled tomatoes",
+        "5 Tbsp (70g) unsalted butter",
+        "1 yellow onion, halved and peeled",
+        "Kosher salt, to taste"
+      ],
+      "instructions": [
+        "Combine all the ingredients in a blender or food processor. Blend until completely smooth. Adjust salt levels if needed. You can also use a hand blender if you don’t have a regular blender or food processor.",
+        "To a medium-sized saucepot, add the can of tomatoes, butter, and onion. Season to taste with salt. Fill the tomato can with about a cup of water then swirl to loosen any solids left behind in the can and add to the pot as well.",
+        "Set over medium heat and bring to a boil. Once boiling, reduce the heat to low and let simmer, uncovered, stirring occasionally, until nicely thickened, about 45 minutes. Crush any large chunks of tomato with the back of a spoon for a better consistency. Season again to taste with salt then remove and discard the onion. Serve and enjoy!"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Raw Version:"
+        },
+        {
+          "tag": "p",
+          "text": "Ingredients:"
+        },
+        {
+          "tag": "li",
+          "text": "28 oz (794g) can crushed tomatoes"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp (30mL) extra virgin olive oil"
+        },
+        {
+          "tag": "li",
+          "text": "3 cloves garlic"
+        },
+        {
+          "tag": "li",
+          "text": "½ tsp (3g) sugar"
+        },
+        {
+          "tag": "li",
+          "text": "2.5 tsp (13g) kosher salt"
+        },
+        {
+          "tag": "p",
+          "text": "Cooked Version (Marcella Hazan recipe):"
+        },
+        {
+          "tag": "p",
+          "text": "Ingredients:"
+        },
+        {
+          "tag": "li",
+          "text": "1 28 oz (794g) can of San Marzano peeled tomatoes"
+        },
+        {
+          "tag": "li",
+          "text": "5 Tbsp (70g) unsalted butter"
+        },
+        {
+          "tag": "li",
+          "text": "1 yellow onion, halved and peeled"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt, to taste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "p",
+          "text": "Raw Version:"
+        },
+        {
+          "tag": "p",
+          "text": "Directions:"
+        },
+        {
+          "tag": "li",
+          "text": "Combine all the ingredients in a blender or food processor. Blend until completely smooth. Adjust salt levels if needed. You can also use a hand blender if you don’t have a regular blender or food processor."
+        },
+        {
+          "tag": "p",
+          "text": "Cooked Version (Marcella Hazan recipe):"
+        },
+        {
+          "tag": "p",
+          "text": "Directions:"
+        },
+        {
+          "tag": "li",
+          "text": "To a medium-sized saucepot, add the can of tomatoes, butter, and onion. Season to taste with salt. Fill the tomato can with about a cup of water then swirl to loosen any solids left behind in the can and add to the pot as well."
+        },
+        {
+          "tag": "li",
+          "text": "Set over medium heat and bring to a boil. Once boiling, reduce the heat to low and let simmer, uncovered, stirring occasionally, until nicely thickened, about 45 minutes. Crush any large chunks of tomato with the back of a spoon for a better consistency. Season again to taste with salt then remove and discard the onion. Serve and enjoy!"
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

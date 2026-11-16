@@ -1,0 +1,66 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/quick-easy-fettuccine-al-burro-recipe",
+  "recipes": [
+    {
+      "name": "The Easiest Fettuccine Al Burro (3 Ingredients)",
+      "source_url": "https://www.joshuaweissman.com/recipes/quick-easy-fettuccine-al-burro-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "5 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "15 minutes",
+      "ingredients": [
+        "1 lb (453g) Fettuccine",
+        "½ cup (112g) Salted Butter, cubed",
+        "1 cup (118g) Parmigiano Reggiano, finely grated",
+        "Kosher salt to taste"
+      ],
+      "instructions": [
+        "Place fettuccine in a large 6-8 quart pot of boiling water that has been seasoned generously with salt. Cook according to package instructions or until cooked al dente, about 7 minutes. Drain the pasta but reserve ½ cup of the pasta water.",
+        "Return the pasta to the pot, and add the butter, tossing vigorously and continuously until emulsified. You can adjust with leftover pasta water as needed. Once emulsified, add the Parmigiano Reggiano, toss to combine, and turn off the heat. Add some of the cooking water if needed. Season with salt to taste and add more butter and cheese as needed. Serve and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 lb (453g) Fettuccine"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (112g) Salted Butter, cubed"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup (118g) Parmigiano Reggiano, finely grated"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt to taste"
+        },
+        {
+          "tag": "p",
+          "text": "‍"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Place fettuccine in a large 6-8 quart pot of boiling water that has been seasoned generously with salt. Cook according to package instructions or until cooked al dente, about 7 minutes. Drain the pasta but reserve ½ cup of the pasta water."
+        },
+        {
+          "tag": "li",
+          "text": "Return the pasta to the pot, and add the butter, tossing vigorously and continuously until emulsified. You can adjust with leftover pasta water as needed. Once emulsified, add the Parmigiano Reggiano, toss to combine, and turn off the heat. Add some of the cooking water if needed. Season with salt to taste and add more butter and cheese as needed. Serve and enjoy."
+        },
+        {
+          "tag": "p",
+          "text": "‍"
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

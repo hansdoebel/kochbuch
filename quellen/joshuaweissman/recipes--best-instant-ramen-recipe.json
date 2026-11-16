@@ -1,0 +1,100 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-instant-ramen-recipe",
+  "recipes": [
+    {
+      "name": "Joshua Weissman’s Favorite Ramen",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-instant-ramen-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "5 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "25 minutes",
+      "ingredients": [
+        "2 slices bacon",
+        "4 fresh Shiitake mushrooms, thinly sliced",
+        "2 green onion, thinly sliced",
+        "1 clove garlic, thinly sliced",
+        "1 egg",
+        "1 pack (100g) Nissin Raoh Tonkotsu Flavor Ramen (use noodles and seasoning packet)",
+        "2 cups (300ml) water",
+        "1 tablespoon (15g) heavy cream",
+        "¼ teaspoon (1g) toasted sesame oil"
+      ],
+      "instructions": [
+        "In a medium non-stick sauté pan set over medium heat, add the slices of bacon and cook until browned and crispy, about 5 - 6 minutes. Set aside, reserving the rendered fat in the pan.",
+        "Place the pan back on the heat and add sliced mushrooms and green onions, sauté until soft, about 3 - 4 minutes. Once the mushrooms are softened, add in the garlic to cook for a minute until fragrant. Set aside.",
+        "Add more oil to the pan if needed, and fry the egg to your liking. I recommend sunny side up, which I fry for 2 - 3 minutes.",
+        "To the pan add water and scrape up any leftover fond and flavor. Cook ramen according to package directions and add the seasoning packets. Once finished stir in heavy cream.",
+        "To serve, top creamy ramen with bacon, fried egg, mushrooms, green onion, and a light drizzle of toasted sesame oil. Serve and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "2 slices bacon"
+        },
+        {
+          "tag": "li",
+          "text": "4 fresh Shiitake mushrooms, thinly sliced"
+        },
+        {
+          "tag": "li",
+          "text": "2 green onion, thinly sliced"
+        },
+        {
+          "tag": "li",
+          "text": "1 clove garlic, thinly sliced"
+        },
+        {
+          "tag": "li",
+          "text": "1 egg"
+        },
+        {
+          "tag": "li",
+          "text": "1 pack (100g) Nissin Raoh Tonkotsu Flavor Ramen (use noodles and seasoning packet)"
+        },
+        {
+          "tag": "li",
+          "text": "2 cups (300ml) water"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon (15g) heavy cream"
+        },
+        {
+          "tag": "li",
+          "text": "¼ teaspoon (1g) toasted sesame oil"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "In a medium non-stick sauté pan set over medium heat, add the slices of bacon and cook until browned and crispy, about 5 - 6 minutes. Set aside, reserving the rendered fat in the pan."
+        },
+        {
+          "tag": "li",
+          "text": "Place the pan back on the heat and add sliced mushrooms and green onions, sauté until soft, about 3 - 4 minutes. Once the mushrooms are softened, add in the garlic to cook for a minute until fragrant. Set aside."
+        },
+        {
+          "tag": "li",
+          "text": "Add more oil to the pan if needed, and fry the egg to your liking. I recommend sunny side up, which I fry for 2 - 3 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "To the pan add water and scrape up any leftover fond and flavor. Cook ramen according to package directions and add the seasoning packets. Once finished stir in heavy cream."
+        },
+        {
+          "tag": "li",
+          "text": "To serve, top creamy ramen with bacon, fried egg, mushrooms, green onion, and a light drizzle of toasted sesame oil. Serve and enjoy."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

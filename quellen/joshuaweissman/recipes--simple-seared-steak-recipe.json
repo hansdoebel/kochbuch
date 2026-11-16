@@ -1,0 +1,83 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/simple-seared-steak-recipe",
+  "recipes": [
+    {
+      "name": "Simple Seared Steak",
+      "source_url": "https://www.joshuaweissman.com/recipes/simple-seared-steak-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        "1 steak",
+        "1 Tbsp (15g) vegetable oil",
+        "1 Tbsp (15g) unsalted butter",
+        "1 Tbsp (15g) kosher salt",
+        "1 tsp (3g) fresh cracked black pepper"
+      ],
+      "instructions": [
+        "Preheat a cast iron pan over medium high heat.",
+        "In a small mixing bowl, whisk together salt and black pepper until fully incorporated.",
+        "Place steak on a wire rack-lined baking tray and season all sides of the steak.",
+        "Add vegetable oil to the heated pan and sear for 2-3 minutes per side.",
+        "Flip the steak, then add the butter to the pan. Using a large spoon baste the steak with butter for an additional 2-3 minutes.",
+        "Transfer the steak back onto a wire rack-lined baking tray and allow to rest for 5-8 minutes."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 steak"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) unsalted butter"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) fresh cracked black pepper"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Preheat a cast iron pan over medium high heat."
+        },
+        {
+          "tag": "li",
+          "text": "In a small mixing bowl, whisk together salt and black pepper until fully incorporated."
+        },
+        {
+          "tag": "li",
+          "text": "Place steak on a wire rack-lined baking tray and season all sides of the steak."
+        },
+        {
+          "tag": "li",
+          "text": "Add vegetable oil to the heated pan and sear for 2-3 minutes per side."
+        },
+        {
+          "tag": "li",
+          "text": "Flip the steak, then add the butter to the pan. Using a large spoon baste the steak with butter for an additional 2-3 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer the steak back onto a wire rack-lined baking tray and allow to rest for 5-8 minutes."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

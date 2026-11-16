@@ -1,0 +1,68 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/simple-roasted-steak-recipe",
+  "recipes": [
+    {
+      "name": "Simple Roasted Steak",
+      "source_url": "https://www.joshuaweissman.com/recipes/simple-roasted-steak-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        "1 steak",
+        "1 Tbsp (15g) kosher salt",
+        "1 tsp (3g) fresh cracked black pepper"
+      ],
+      "instructions": [
+        "Preheat the oven to 450°F (230°C).",
+        "In a small mixing bowl, whisk together salt and black pepper until fully incorporated.",
+        "Place steaks on a wire rack-lined baking tray, and season all sides.",
+        "Place the tray in the oven. Cook for 20-25 minutes. The internal temperature should be 125°F (50°C).",
+        "Remove the steak from the oven, and allow it to rest for 5-8 minutes."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 steak"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) fresh cracked black pepper"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Preheat the oven to 450°F (230°C)."
+        },
+        {
+          "tag": "li",
+          "text": "In a small mixing bowl, whisk together salt and black pepper until fully incorporated."
+        },
+        {
+          "tag": "li",
+          "text": "Place steaks on a wire rack-lined baking tray, and season all sides."
+        },
+        {
+          "tag": "li",
+          "text": "Place the tray in the oven. Cook for 20-25 minutes. The internal temperature should be 125°F (50°C)."
+        },
+        {
+          "tag": "li",
+          "text": "Remove the steak from the oven, and allow it to rest for 5-8 minutes."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

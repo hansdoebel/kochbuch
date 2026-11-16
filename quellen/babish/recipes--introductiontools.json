@@ -1,0 +1,29 @@
+{
+  "source_url": "https://www.babi.sh/recipes/introductiontools",
+  "recipes": [
+    {
+      "name": "INTRODUCTION/TOOLS",
+      "source_url": "https://www.babi.sh/recipes/introductiontools",
+      "recipe_id": null,
+      "authors": [
+        "bingingwithbabish"
+      ],
+      "publisher": "Babish",
+      "language": "en",
+      "yield": "",
+      "prep_time": "PT0S",
+      "cook_time": "PT0S",
+      "total_time": "PT0S",
+      "ingredients": [],
+      "instructions": [],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": [
+        "ingredients",
+        "instructions"
+      ]
+    }
+  ],
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

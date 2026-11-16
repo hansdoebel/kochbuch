@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.babi.sh/recipes/kitchencare",
+  "recipes": [
+    {
+      "name": "KITCHEN CARE",
+      "source_url": "https://www.babi.sh/recipes/kitchencare",
+      "recipe_id": null,
+      "authors": [
+        "bingingwithbabish"
+      ],
+      "publisher": "Babish",
+      "language": "en",
+      "yield": "",
+      "prep_time": "PT0S",
+      "cook_time": "PT0S",
+      "total_time": "PT0S",
+      "ingredients": [],
+      "instructions": [
+        "for the Cleaning & Seasoning Cast Iron",
+        "Give your cast iron skillet a good rinse using soap and hot water, but instead of a sponge, use some steel wool. Make sure you scrub it everywhere and that you scrub it very well.",
+        "Evenly coat it with vegetable oil. The whole thing. The handle, the backside, all of it.",
+        "Preheat your oven to 375°F and place your cast iron in there for 1 hour.",
+        "Remove, let cool, and you’re ready to go.",
+        "for the Knives",
+        "You can use a small sharpener for quick touch ups every now and again, but you really need a whetstone.",
+        "Make sure your whetstone has a grit level of 1000 on one side, and 6000 on the other.",
+        "Soak your whetstone for 10 minutes.",
+        "Remove from the water and place on a non slip surface.",
+        "You want to hit an angle between 17° and 20° when sharpening.",
+        "Using the 6000 grit side first, start from the bottom of the knife and working towards the tip, you’re going to slide it diagonally across the stone. Make sure you do both sides of the knife and DO NOT clean off the grey stuff that accumulates on the whetstone. It helps with the sharpening process.",
+        "Flip the the 1000 grit side and do the same thing. Be sure to re wet the stone before proceeding. You don’t need to soak it again, just pour some water on it.",
+        "You can also use a honing rod to straighten the edge of your knife.",
+        "To straighten the knife with a honing rod, simply run the length of the knife down the length of the steel as though you’re slicing a piece off keeping the blade at about 15° while doing about 10 passes (5 on each side)",
+        "Sharpen 1-2 times a year, hone 1-2 times a week.",
+        "for the Stainless Steel Pans",
+        "Using Bar Keepers Friend, create a paste with the powder and water and scrub using a paper towel. Be sure to clean going in circles and also wear gloves because it can be rough on your hands.",
+        "Use some elbow grease to really get in there.",
+        "Rinse with hot water and then clean with regular dish soap.",
+        "for the Cleaning wood",
+        "Using a 1:1 ratio of water to plain white vinegar, spray your wood work surface down and and wipe dry with a paper towel.",
+        "If your wood is dried out, use some food grade mineral oil that you can order online and find in stores. Once your surface is cleaned, liberally apply the mineral oil and rub deep into the grain of the wood and then let it dry overnight.",
+        "Optionally you can use Boos Block Board Cream to help moisturize and seal your wood blocks and cutting boards."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": [
+        "ingredients"
+      ]
+    }
+  ],
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.babi.sh/recipes/classicpancakes",
+  "recipes": [
+    {
+      "name": "Classic Pancakes inspired by Uncle Buck",
+      "source_url": "https://www.babi.sh/recipes/classicpancakes",
+      "recipe_id": null,
+      "authors": [
+        "bingingwithbabish"
+      ],
+      "publisher": "Babish",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT0S",
+      "cook_time": "PT2400S",
+      "total_time": "PT2400S",
+      "ingredients": [
+        "10 ounces flour",
+        "3 tbsp sugar",
+        "4 tsp baking powder",
+        "1/2 tsp baking soda",
+        "1 tsp salt",
+        "2 large eggs",
+        "1/4 cup vegetable oil, plus more for the pan",
+        "1 1/2 cups whole milk",
+        "1/2 tsp vanilla extract (optional) or vanilla paste, doubled",
+        "butter and syrup for serving"
+      ],
+      "instructions": [
+        "In one bowl, combine dry ingredients: flour, sugar, baking powder, baking soda, and salt. Whisk to combine. - 10 ounces flour - 3 tbsp sugar - 4 tsp baking powder - ½ tsp baking soda - 1 tsp salt",
+        "In another bowl, combine eggs, vegetable oil, and whole milk. Optional: you can also add vanilla extract orpaste here. Whisk to combine. - 2 large eggs - ¼ cup vegetable oil plus more for the pan - 1 ½ cups whole milk - ½ tsp vanilla extract (optional) or vanilla paste doubled",
+        "Combine the two bowls and mix together gently with a rubber spatula. The batter should still be lumpy with a few dry streaks of flour. Don’t overmix the pancakes!",
+        "Cover the batter and let it rest at room temperature for 10 minutes.",
+        "Heat vegetable oil in a nonstick skillet. - 1 tsp vegetable oil plus more for the pan",
+        "Ladle one scoop of batter into the skillet and cook for a few minutes. Once bubbles appear on the surface and around the edge of the pancake, cook and flip for a few minutes more.",
+        "Stack your pancakes up and serve with syrup and butter if desired. Enjoy! - butter and syrup for serving"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": []
+    }
+  ],
+  "page_recipe_notes": []
+}

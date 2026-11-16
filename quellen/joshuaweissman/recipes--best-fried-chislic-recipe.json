@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-fried-chislic-recipe",
+  "recipes": [
+    {
+      "name": "How to Make Fried Chislic Like a Chef",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-fried-chislic-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        "1 lb (450g) lamb steaks",
+        "2 quarts (2L) canola oil",
+        "Kosher salt and pepper to taste"
+      ],
+      "instructions": [
+        "Begin by preheating canola oil in a heavy bottomed pot or Dutch oven to 350°F (176°C). Cut the lamb steaks into 1 inch cubes. Place about 4 cubes of meat onto each skewer.",
+        "On a wire rack-lined baking tray, season the lamb skewers with salt and pepper to taste.",
+        "Working 3 skewers at a time, place the skewers into the hot oil and fry until golden brown.",
+        "Remove the cooked skewers from the oil and drain on a wire rack-lined baking tray."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 lb (450g) lamb steaks"
+        },
+        {
+          "tag": "li",
+          "text": "2 quarts (2L) canola oil"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt and pepper to taste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Begin by preheating canola oil in a heavy bottomed pot or Dutch oven to 350°F (176°C). Cut the lamb steaks into 1 inch cubes. Place about 4 cubes of meat onto each skewer."
+        },
+        {
+          "tag": "li",
+          "text": "On a wire rack-lined baking tray, season the lamb skewers with salt and pepper to taste."
+        },
+        {
+          "tag": "li",
+          "text": "Working 3 skewers at a time, place the skewers into the hot oil and fry until golden brown."
+        },
+        {
+          "tag": "li",
+          "text": "Remove the cooked skewers from the oil and drain on a wire rack-lined baking tray."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

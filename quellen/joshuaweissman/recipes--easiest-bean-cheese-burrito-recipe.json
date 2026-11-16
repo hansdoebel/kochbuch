@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/easiest-bean-cheese-burrito-recipe",
+  "recipes": [
+    {
+      "name": "The Easiest Bean and Cheese Burrito (3 Ingredients)",
+      "source_url": "https://www.joshuaweissman.com/recipes/easiest-bean-cheese-burrito-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "5 minutes",
+      "cook_time": "6 minutes",
+      "total_time": "11 minutes",
+      "ingredients": [
+        "¼ - ½ cup (57-114g) beans, leftover from your favorite Mexican spot (I used refried black beans)",
+        "1 cup (90g) Monterey Jack cheese, freshly grated",
+        "1 Large burrito-size flour tortilla"
+      ],
+      "instructions": [
+        "Heat the tortilla over an open flame for 30 seconds per side to soften.",
+        "Lay down the tortilla and place the beans on the lower third. Cover with cheese. Fold in the edges and roll from the bottom tightly.",
+        "Heat a 10-inch skillet over medium heat add your burrito seam side down, heat for 2-3 minutes or until toasted.",
+        "Flip and toast the other side for 2-3 minutes, or until heated through. Serve and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "¼ - ½ cup (57-114g) beans, leftover from your favorite Mexican spot (I used refried black beans)"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup (90g) Monterey Jack cheese, freshly grated"
+        },
+        {
+          "tag": "li",
+          "text": "1 Large burrito-size flour tortilla"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Heat the tortilla over an open flame for 30 seconds per side to soften."
+        },
+        {
+          "tag": "li",
+          "text": "Lay down the tortilla and place the beans on the lower third. Cover with cheese. Fold in the edges and roll from the bottom tightly."
+        },
+        {
+          "tag": "li",
+          "text": "Heat a 10-inch skillet over medium heat add your burrito seam side down, heat for 2-3 minutes or until toasted."
+        },
+        {
+          "tag": "li",
+          "text": "Flip and toast the other side for 2-3 minutes, or until heated through. Serve and enjoy."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

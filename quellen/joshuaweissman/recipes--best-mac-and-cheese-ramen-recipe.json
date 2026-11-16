@@ -1,0 +1,95 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-mac-and-cheese-ramen-recipe",
+  "recipes": [
+    {
+      "name": "Mac and Cheese Instant Ramen",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-mac-and-cheese-ramen-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        "¼ cup (60g) unsalted butter, softened",
+        "¼ cup (31g) all-purpose flour",
+        "½ cup (118ml) heavy cream",
+        "1.5 cups (355ml) whole milk",
+        "1 cup (113g) American cheese, shredded or finely chopped",
+        "1 cup (113g) cheddar cheese, grated",
+        "½ cup (57g) Gruyere cheese, grated",
+        "3 packages (390g) Shin Black Ramen (use 3 noodle disks, use 1-2 red and gold seasoning packets, discard the dried vegetable packet)",
+        "Kosher salt to taste"
+      ],
+      "instructions": [
+        "Bring a large pot of salted water to a boil.",
+        "In a deep saucepot, melt the butter over medium heat. Whisk in flour, stir and cook constantly for about 1-2 minutes. Slowly pour in milk and heavy cream and whisk. Once smooth and lightly thickened and starting to simmer, cut off the heat and add cheddar, American and Gruyere. Mix until fully melted and incorporated, 2 - 4 minutes.",
+        "Cook ramen according to package directions for 3 - 4 minutes. Then drain.",
+        "Fold ramen into your cheese sauce until fully coated. Season with 1-2 ramen seasoning packets, serve immediately and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "¼ cup (60g) unsalted butter, softened"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup (31g) all-purpose flour"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (118ml) heavy cream"
+        },
+        {
+          "tag": "li",
+          "text": "1.5 cups (355ml) whole milk"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup (113g) American cheese, shredded or finely chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup (113g) cheddar cheese, grated"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (57g) Gruyere cheese, grated"
+        },
+        {
+          "tag": "li",
+          "text": "3 packages (390g) Shin Black Ramen (use 3 noodle disks, use 1-2 red and gold seasoning packets, discard the dried vegetable packet)"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt to taste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Bring a large pot of salted water to a boil."
+        },
+        {
+          "tag": "li",
+          "text": "In a deep saucepot, melt the butter over medium heat. Whisk in flour, stir and cook constantly for about 1-2 minutes. Slowly pour in milk and heavy cream and whisk. Once smooth and lightly thickened and starting to simmer, cut off the heat and add cheddar, American and Gruyere. Mix until fully melted and incorporated, 2 - 4 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Cook ramen according to package directions for 3 - 4 minutes. Then drain."
+        },
+        {
+          "tag": "li",
+          "text": "Fold ramen into your cheese sauce until fully coated. Season with 1-2 ramen seasoning packets, serve immediately and enjoy."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

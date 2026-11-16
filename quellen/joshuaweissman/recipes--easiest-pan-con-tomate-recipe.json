@@ -1,0 +1,66 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/easiest-pan-con-tomate-recipe",
+  "recipes": [
+    {
+      "name": "The Easiest Pan Con Tomate (3 Ingredients)",
+      "source_url": "https://www.joshuaweissman.com/recipes/easiest-pan-con-tomate-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "5 minutes",
+      "cook_time": "5 minutes",
+      "total_time": "10 minutes",
+      "ingredients": [
+        "1 slice sourdough bread, sliced 1-1 ½ inches thick",
+        "1 garlic clove, peeled",
+        "1 small Roma tomato"
+      ],
+      "instructions": [
+        "In a toaster or your oven, toast your bread until crisp and golden brown.",
+        "Slice the top off the garlic clove and rub the hot toasted bread with the garlic to infuse the bread with garlic flavor.",
+        "Cut off the end of the tomato and rub it on the bread flesh side down, letting the tomato break apart on the bread. It will soak the bread in tomato, leaving behind some of its flesh and all of its flavor. Season with salt. Serve and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 slice sourdough bread, sliced 1-1 ½ inches thick"
+        },
+        {
+          "tag": "li",
+          "text": "1 garlic clove, peeled"
+        },
+        {
+          "tag": "li",
+          "text": "1 small Roma tomato"
+        },
+        {
+          "tag": "p",
+          "text": "‍"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "In a toaster or your oven, toast your bread until crisp and golden brown."
+        },
+        {
+          "tag": "li",
+          "text": "Slice the top off the garlic clove and rub the hot toasted bread with the garlic to infuse the bread with garlic flavor."
+        },
+        {
+          "tag": "li",
+          "text": "Cut off the end of the tomato and rub it on the bread flesh side down, letting the tomato break apart on the bread. It will soak the bread in tomato, leaving behind some of its flesh and all of its flavor. Season with salt. Serve and enjoy."
+        },
+        {
+          "tag": "p",
+          "text": "‍"
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

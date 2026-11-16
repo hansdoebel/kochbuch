@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.babi.sh/recipes/baressentials",
+  "recipes": [
+    {
+      "name": "BAR ESSENTIALS",
+      "source_url": "https://www.babi.sh/recipes/baressentials",
+      "recipe_id": null,
+      "authors": [
+        "bingingwithbabish"
+      ],
+      "publisher": "Babish",
+      "language": "en",
+      "yield": "",
+      "prep_time": "PT0S",
+      "cook_time": "PT0S",
+      "total_time": "PT0S",
+      "ingredients": [
+        "Angostura Bitters",
+        "Limes",
+        "Oranges",
+        "Gin",
+        "Tonic water",
+        "Simple syrup",
+        "Vodka",
+        "Ginger beer",
+        "Sweet vermouth",
+        "Campari",
+        "Olive juice",
+        "Olives",
+        "Bourbon",
+        "Salt",
+        "Tequila",
+        "Triple Sec",
+        "Mint",
+        "Sugar",
+        "White rum",
+        "Soda water/club soda"
+      ],
+      "instructions": [],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": [
+        "instructions"
+      ]
+    }
+  ],
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

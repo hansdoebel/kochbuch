@@ -1,0 +1,65 @@
+{
+  "source_url": "https://www.babi.sh/recipes/jiggly-souffle-omelette-inspired-by-food-wars!",
+  "recipes": [
+    {
+      "name": "Jiggly Souffle Omelette inspired by Food Wars!",
+      "source_url": "https://www.babi.sh/recipes/jiggly-souffle-omelette-inspired-by-food-wars!",
+      "recipe_id": null,
+      "authors": [
+        "bingingwithbabish"
+      ],
+      "publisher": "Babish",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "PT0S",
+      "cook_time": "PT0S",
+      "total_time": "PT0S",
+      "ingredients": [
+        "For the Tomato Sauce",
+        "4 ripe plum tomatoes",
+        "Ice, for ice bath",
+        "1 clove garlic, minced",
+        "1 tbsp vegetable oil",
+        "1 tsp chicken stock powder",
+        "Splash of red wine",
+        "For the Souffle Omelette",
+        "4 large eggs, separated",
+        "1 1/2 tbsp heavy cream",
+        "1 tbsp unsalted butter",
+        "Salt and pepper, to taste",
+        "Freshly chopped parsley, for garnish"
+      ],
+      "instructions": [
+        "For the Tomato Sauce and garnish",
+        "Begin by cutting crosshatches into the tops of tomatoes using a paring knife. This will make the skin easier to remove after blanching. - 4 ripe plum tomatoes",
+        "Bring a large pot of water to boil. Add the tomatoes and blanche for about 1 minute. - 4 ripe plum tomatoes",
+        "Using a slotted spoon, transfer the tomatoes into an ice bath and stir rapidly to stop the cooking process and make the peeling process quick and easy. - Ice for ice bath",
+        "Once cool, peel the tomatoes by starting at the crosshatches you cut earlier. - 4 ripe plum tomatoes",
+        "Dice the peeled tomatoes into small chunks and set aside. - 4 ripe plum tomatoes",
+        "Mince garlic. To create a smooth garlic paste, use a chef's knife to scrape the minced garlic against the cutting board repeatedly until it forms a paste. - 1 clove garlic minced",
+        "Heat vegetable oil in a medium skillet over medium heat. Add the garlic paste and sauté until fragrant, about 1 minute. - 1 tbsp vegetable oil - 1 clove garlic minced",
+        "Add the diced tomatoes to the skillet, along with chicken stock powder and a splash of red wine. - 4 ripe plum tomatoes - 1 tsp chicken stock powder - Splash of red wine",
+        "Simmer the sauce on low heat until thickened, about 10 minutes. Set aside.",
+        "Chop desired amount of fresh parsley. Set aside.",
+        "For the Omelette",
+        "Separate the eggs into yolks and whites, placing them in separate mixing bowls. - 4 large eggs separated",
+        "Add heavy cream to the yolks and beat with a hand mixer until the mixture is pale and fluffy, about 2-3 minutes. - 1 ½ tbsp heavy cream",
+        "Using clean beaters, beat the egg whites until they reach soft peaks, about 4-5 minutes.",
+        "Begin adding a small amount of the beaten egg whites to the yolk mixture, gently folding them together with a rubber spatula. This \"sacrifice\" helps lighten the yolks, making it easier to fold in the remaining egg whites without deflating the mixture.",
+        "Gradually fold in the remaining egg whites, being careful not to overmix and deflate the batter.",
+        "Heat unsalted butter in medium skillet over medium-low heat until it begins to sizzle. - 1 tbsp unsalted butter",
+        "Pour the egg mixture into the skillet all at once, smoothing the top with the rubber spatuala.",
+        "Cover the skillet with a lid and cook for 5 minutes, allowing the bottom to become golden and crispy while the top remains light and fluffy.",
+        "Once the omelette is cooked through, carefully slide it onto a plate.",
+        "Spoon the tomato sauce down the center of the omelette, like Soma from Food Wars, and garnish with freshly chopped parsley. - Freshly chopped parsley for garnish",
+        "Season with salt and pepper to taste. - Salt and pepper to taste",
+        "Serve immediately."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": [],
+      "missing_fields": []
+    }
+  ],
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

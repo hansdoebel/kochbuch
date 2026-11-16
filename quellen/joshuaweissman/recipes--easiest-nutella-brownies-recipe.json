@@ -1,0 +1,71 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/easiest-nutella-brownies-recipe",
+  "recipes": [
+    {
+      "name": "The Easiest Nutella Brownies (3 Ingredients)",
+      "source_url": "https://www.joshuaweissman.com/recipes/easiest-nutella-brownies-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "8",
+      "prep_time": "5 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "25 minutes",
+      "ingredients": [
+        "1 lb (453g) Nutella",
+        "3 large eggs",
+        "¾ cup (112g) all purpose flour",
+        "Pinch of kosher salt"
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F (176°C).",
+        "In a large bowl whisk together the Nutella and eggs. Stir in the flour and salt until fully combined.",
+        "Into an 8x8 non-stick baking dish, pour your batter and bake for 14-16 minutes until set or until a toothpick inserted comes out clean. Let cool to room temp before cutting. Serve and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 lb (453g) Nutella"
+        },
+        {
+          "tag": "li",
+          "text": "3 large eggs"
+        },
+        {
+          "tag": "li",
+          "text": "¾ cup (112g) all purpose flour"
+        },
+        {
+          "tag": "li",
+          "text": "Pinch of kosher salt"
+        },
+        {
+          "tag": "p",
+          "text": "‍"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Preheat the oven to 350°F (176°C)."
+        },
+        {
+          "tag": "li",
+          "text": "In a large bowl whisk together the Nutella and eggs. Stir in the flour and salt until fully combined."
+        },
+        {
+          "tag": "li",
+          "text": "Into an 8x8 non-stick baking dish, pour your batter and bake for 14-16 minutes until set or until a toothpick inserted comes out clean. Let cool to room temp before cutting. Serve and enjoy."
+        },
+        {
+          "tag": "p",
+          "text": "‍"
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

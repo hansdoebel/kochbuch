@@ -1,0 +1,83 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/simple-sous-vide-steak-recipe",
+  "recipes": [
+    {
+      "name": "Simple Sous Vide Steak",
+      "source_url": "https://www.joshuaweissman.com/recipes/simple-sous-vide-steak-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        "1 steak",
+        "1 Tbsp (15g) vegetable oil",
+        "1 Tbsp (15g) kosher salt",
+        "1 tsp (3g) fresh cracked black pepper"
+      ],
+      "instructions": [
+        "Preheat sous vide to 54°C.",
+        "In a small mixing bowl, whisk together kosher salt and black pepper until fully incorporated.",
+        "On a wire rack-lined baking tray, season steak on all sides.",
+        "In a vacuum sealed bag, add in seasoned steak. Seal the bag, and add to sous vide. Cook steak for 60 minutes.",
+        "Remove steak from vacuum bag and pat dry.",
+        "Preheat a cast iron pan over medium high heat, then add vegetable oil to the pan until it begins to smoke.",
+        "Season steak with salt and pepper, then add to the pan and sear for 1-2 minutes on each side."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 steak"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) fresh cracked black pepper"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Preheat sous vide to 54°C."
+        },
+        {
+          "tag": "li",
+          "text": "In a small mixing bowl, whisk together kosher salt and black pepper until fully incorporated."
+        },
+        {
+          "tag": "li",
+          "text": "On a wire rack-lined baking tray, season steak on all sides."
+        },
+        {
+          "tag": "li",
+          "text": "In a vacuum sealed bag, add in seasoned steak. Seal the bag, and add to sous vide. Cook steak for 60 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Remove steak from vacuum bag and pat dry."
+        },
+        {
+          "tag": "li",
+          "text": "Preheat a cast iron pan over medium high heat, then add vegetable oil to the pan until it begins to smoke."
+        },
+        {
+          "tag": "li",
+          "text": "Season steak with salt and pepper, then add to the pan and sear for 1-2 minutes on each side."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

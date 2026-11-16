@@ -1,0 +1,83 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/easiest-pizza-3-ingredients-recipe",
+  "recipes": [
+    {
+      "name": "The Easiest Pizza (3 Ingredients)",
+      "source_url": "https://www.joshuaweissman.com/recipes/easiest-pizza-3-ingredients-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        "1 can (28oz) whole peeled San Marzano tomatoes, strained juice discarded",
+        "1 ball pre-made pizza dough (Trader Joe’s recommended)",
+        "4 cups (360g) low moisture mozzarella, freshly grated"
+      ],
+      "instructions": [
+        "Preheat an outdoor pizza oven to 700°F (370°C). If using a home oven, place a baking stone or overturned baking sheet into a cold oven. Preheat the oven to its maximum temperature for 30 minutes.",
+        "To a blender, add your strained tomatoes. Make sure to only use the flesh, not the juice from the can, or your sauce will be too watery. Blend on low until pureed and as smooth as possible.",
+        "Place your dough on the pizza peel. Press your fist into the center of the dough and begin to stretch the dough, leaving a border around the perimeter which will become the crust. Quarter turn the dough after each stretch, until you get roughly a 10-12 inch circle.",
+        "Spread the pureed tomato sauce evenly over the dough, stopping short of the perimeter. Evenly cover the sauce with your cheese.",
+        "Place pizza in the oven using the pizza peel.",
+        "If using an outdoor pizza oven, cook for 20-30 seconds until one side begins to char. Quickly turn the pizza 180 degrees and cook for another 20-30 seconds. Do a quarter turn on the pizza and cook for 15 more seconds.",
+        "If using a home oven, place the pizza onto the baking stone or baking sheet and bake for 8-10 minutes.",
+        "Remove from the oven, season with salt and let sit for 1-2 minutes to set, then slice and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 can (28oz) whole peeled San Marzano tomatoes, strained juice discarded"
+        },
+        {
+          "tag": "li",
+          "text": "1 ball pre-made pizza dough (Trader Joe’s recommended)"
+        },
+        {
+          "tag": "li",
+          "text": "4 cups (360g) low moisture mozzarella, freshly grated"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Preheat an outdoor pizza oven to 700°F (370°C). If using a home oven, place a baking stone or overturned baking sheet into a cold oven. Preheat the oven to its maximum temperature for 30 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "To a blender, add your strained tomatoes. Make sure to only use the flesh, not the juice from the can, or your sauce will be too watery. Blend on low until pureed and as smooth as possible."
+        },
+        {
+          "tag": "li",
+          "text": "Place your dough on the pizza peel. Press your fist into the center of the dough and begin to stretch the dough, leaving a border around the perimeter which will become the crust. Quarter turn the dough after each stretch, until you get roughly a 10-12 inch circle."
+        },
+        {
+          "tag": "li",
+          "text": "Spread the pureed tomato sauce evenly over the dough, stopping short of the perimeter. Evenly cover the sauce with your cheese."
+        },
+        {
+          "tag": "li",
+          "text": "Place pizza in the oven using the pizza peel."
+        },
+        {
+          "tag": "li",
+          "text": "If using an outdoor pizza oven, cook for 20-30 seconds until one side begins to char. Quickly turn the pizza 180 degrees and cook for another 20-30 seconds. Do a quarter turn on the pizza and cook for 15 more seconds."
+        },
+        {
+          "tag": "li",
+          "text": "If using a home oven, place the pizza onto the baking stone or baking sheet and bake for 8-10 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the oven, season with salt and let sit for 1-2 minutes to set, then slice and enjoy."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/easiest-caprese-salad-recipe",
+  "recipes": [
+    {
+      "name": "The Easiest Caprese Salad (3 Ingredients)",
+      "source_url": "https://www.joshuaweissman.com/recipes/easiest-caprese-salad-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "2",
+      "prep_time": "5 minutes",
+      "cook_time": "0 minutes",
+      "total_time": "5 minutes ",
+      "ingredients": [
+        "2 heirloom tomatoes, sliced into ¼-inch thick slices",
+        "1 lb (453g) fresh mozzarella, sliced ¼-inch thick slices",
+        "Basil oil, to taste",
+        "Kosher salt, to taste"
+      ],
+      "instructions": [
+        "Slice the tomatoes and mozzarella into the same width and layer them on a plate. Generously dress them with your basil oil and salt. Serve and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "2 heirloom tomatoes, sliced into ¼-inch thick slices"
+        },
+        {
+          "tag": "li",
+          "text": "1 lb (453g) fresh mozzarella, sliced ¼-inch thick slices"
+        },
+        {
+          "tag": "li",
+          "text": "Basil oil, to taste"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt, to taste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Slice the tomatoes and mozzarella into the same width and layer them on a plate. Generously dress them with your basil oil and salt. Serve and enjoy."
+        },
+        {
+          "tag": "p",
+          "text": "‍"
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

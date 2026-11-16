@@ -1,0 +1,163 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-charcoal-grilled-burger-recipe",
+  "recipes": [
+    {
+      "name": "Charcoal Grilled Burger",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-charcoal-grilled-burger-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        "6 oz (170g) 75/25 ground beef",
+        "1 tsp (3g) black pepper",
+        "1 tsp (3g) kosher salt",
+        "1 slice American cheese",
+        "1 hamburger bun",
+        "½ cup (145g) ketchup",
+        "½ cup (145g) mustard",
+        "¾ cup (217g) mayonnaise",
+        "2 tsp (30g) Worcestershire",
+        "Kosher salt to taste",
+        "Pepper to taste"
+      ],
+      "instructions": [
+        "Preheat your grill with charcoal for at least 15 minutes before cooking.",
+        "Weigh the portion of ground beef and shape into a patty.",
+        "Season both sides of the patty with salt and pepper.",
+        "When the coals have turned white, they are ready. Spread the coals evenly across the bottom.",
+        "Place the patty on the grill for 4-5 minutes per side or until it reaches your desired level of doneness.",
+        "During the last minute of cooking, add a slice of cheese to the patty and let it melt.",
+        "In a small bowl combine all ingredients. Use a whisk to mix thoroughly.",
+        "Toast buns.",
+        "Spread the sauce on the bottom half of each bun.",
+        "Add a patty with melted cheese on top.",
+        "Spread sauce on the top bun.",
+        "Finish with the top half of the bun."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Burger:"
+        },
+        {
+          "tag": "li",
+          "text": "6 oz (170g) 75/25 ground beef"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) black pepper"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 slice American cheese"
+        },
+        {
+          "tag": "li",
+          "text": "1 hamburger bun"
+        },
+        {
+          "tag": "p",
+          "text": "Burger Sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (145g) ketchup"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (145g) mustard"
+        },
+        {
+          "tag": "li",
+          "text": "¾ cup (217g) mayonnaise"
+        },
+        {
+          "tag": "li",
+          "text": "2 tsp (30g) Worcestershire"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt to taste"
+        },
+        {
+          "tag": "li",
+          "text": "Pepper to taste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "p",
+          "text": "Burger:"
+        },
+        {
+          "tag": "li",
+          "text": "Preheat your grill with charcoal for at least 15 minutes before cooking."
+        },
+        {
+          "tag": "li",
+          "text": "Weigh the portion of ground beef and shape into a patty."
+        },
+        {
+          "tag": "li",
+          "text": "Season both sides of the patty with salt and pepper."
+        },
+        {
+          "tag": "li",
+          "text": "When the coals have turned white, they are ready. Spread the coals evenly across the bottom."
+        },
+        {
+          "tag": "li",
+          "text": "Place the patty on the grill for 4-5 minutes per side or until it reaches your desired level of doneness."
+        },
+        {
+          "tag": "li",
+          "text": "During the last minute of cooking, add a slice of cheese to the patty and let it melt."
+        },
+        {
+          "tag": "p",
+          "text": "Burger Sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "In a small bowl combine all ingredients. Use a whisk to mix thoroughly."
+        },
+        {
+          "tag": "p",
+          "text": "Assembly:"
+        },
+        {
+          "tag": "li",
+          "text": "Toast buns."
+        },
+        {
+          "tag": "li",
+          "text": "Spread the sauce on the bottom half of each bun."
+        },
+        {
+          "tag": "li",
+          "text": "Add a patty with melted cheese on top."
+        },
+        {
+          "tag": "li",
+          "text": "Spread sauce on the top bun."
+        },
+        {
+          "tag": "li",
+          "text": "Finish with the top half of the bun."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

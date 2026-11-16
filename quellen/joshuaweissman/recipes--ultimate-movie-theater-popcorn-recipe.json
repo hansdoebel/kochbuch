@@ -1,0 +1,99 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/ultimate-movie-theater-popcorn-recipe",
+  "recipes": [
+    {
+      "name": "Ultimate Movie Theater Popcorn",
+      "source_url": "https://www.joshuaweissman.com/recipes/ultimate-movie-theater-popcorn-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "10 min",
+      "cook_time": "10 min",
+      "total_time": "20 min",
+      "ingredients": [
+        "¼ cup (40g) kosher salt",
+        "1 Tbsp (12g) granulated sugar",
+        "½ Tbsp (5g) MSG",
+        "1 cup (240g) popcorn kernels",
+        "4 Tbsp (60g) clarified butter, or ghee",
+        "1 tsp (2g) turmeric",
+        "1 Tbsp (10g) popcorn seasoning, *above",
+        "Extra butter, melted for drizzling, *optional"
+      ],
+      "instructions": [
+        "Add the salt, sugar, and MSG to the base on a blender then blend on high until completely powderized, about 1 minute. Transfer to a bowl then reserve until ready to use.",
+        "In a large pot over medium, add the clarified butter and let it melt. Once hot, toss in the turmeric and popcorn kernels, stirring until evenly distributed. Cover and wait for the popping to begin.",
+        "Once popping, shake constantly back and forth until the popping subsides. Turn off the heat, remove the lid, then season the popcorn to taste with about a tablespoon of the blended popcorn seasoning. Drizzle with extra melted butter if desired. Serve and enjoy!"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Popcorn Seasoning:"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup (40g) kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (12g) granulated sugar"
+        },
+        {
+          "tag": "li",
+          "text": "½ Tbsp (5g) MSG"
+        },
+        {
+          "tag": "p",
+          "text": "Popcorn:"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup (240g) popcorn kernels"
+        },
+        {
+          "tag": "li",
+          "text": "4 Tbsp (60g) clarified butter, or ghee"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (2g) turmeric"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (10g) popcorn seasoning, *above"
+        },
+        {
+          "tag": "li",
+          "text": "Extra butter, melted for drizzling, *optional"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "p",
+          "text": "Popcorn Seasoning:"
+        },
+        {
+          "tag": "li",
+          "text": "Add the salt, sugar, and MSG to the base on a blender then blend on high until completely powderized, about 1 minute. Transfer to a bowl then reserve until ready to use."
+        },
+        {
+          "tag": "p",
+          "text": "Popcorn:"
+        },
+        {
+          "tag": "li",
+          "text": "In a large pot over medium, add the clarified butter and let it melt. Once hot, toss in the turmeric and popcorn kernels, stirring until evenly distributed. Cover and wait for the popping to begin."
+        },
+        {
+          "tag": "li",
+          "text": "Once popping, shake constantly back and forth until the popping subsides. Turn off the heat, remove the lid, then season the popcorn to taste with about a tablespoon of the blended popcorn seasoning. Drizzle with extra melted butter if desired. Serve and enjoy!"
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

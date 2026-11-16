@@ -6,7 +6,20 @@ Diese Regeln gelten für Menschen und Agenten, die ein Rezept ergänzen. Ziel: j
 
 Rezepte sind auf Deutsch. Österreichische und deutsche Bezeichnungen bleiben so, wie sie in der Quelle stehen. Nicht stillschweigend umbenennen: Staubzucker bleibt Staubzucker (nicht Puderzucker), Mehl glatt bleibt Mehl glatt, Zwetschkenröster bleibt Zwetschkenröster, Feinkristallzucker bleibt Feinkristallzucker, Germ bleibt Germ, Topfen bleibt Topfen, Paradeiser bleibt Paradeiser. Eine kurze Glosse darf in `## Tipps` stehen.
 
+`quellen/` enthält ausdrücklich unveränderte Rezeptdaten in der Originalsprache als Grundlage für die spätere Übertragung. Diese Rohdaten sind noch keine deutschen Kochbuch-Rezepte und gehören erst nach Prüfung, Übersetzung und Mengenabgleich nach `rezepte/` und `db/seed.sql`. Nur Rezeptkarten und ihre Notizen archivieren, keine Bilder, Werbetexte, Kommentare oder vollständigen Webseiten. Die Manifeste dokumentieren entdeckte Seiten, Rezeptkarten, Seiten ohne Rezept und fehlgeschlagene Abrufe.
+
 Mengen, die die Quelle in Gramm angibt, bleiben in Gramm, auch bei Milch oder Rum.
+
+## Quellen sind Pflicht
+
+Jedes neue oder aus einer Quelle ergänzte Rezept braucht die korrekte, überprüfte Herkunft. Vor dem Import die konkrete Original-Rezeptseite öffnen und Zutaten, Portionen und Schritte mit der Rezeptkarte abgleichen. Suchtreffer, Startseiten, Sammelartikel und Bilddateien ersetzen die Originalquelle nicht.
+
+- In `source` stehen Urheber oder Urheberin, Website und die vollständige kanonische Rezept-URL als einfache Zeichenkette. Genau denselben Wert in `recipes.source` in `db/seed.sql` verwenden.
+- Direkt unter dem Titel die Quelle mit einem normalen Markdown-Link nennen, zum Beispiel `Quelle: [Nisha Vora – Rainbow Plant Life](https://rainbowplantlife.com/vegan-red-lentil-curry/).`
+- Titel und Autor anhand der Originalseite prüfen; bei mehreren Rezeptkarten die richtige auswählen. Keine URL oder Urheberschaft erraten. Wenn die Quelle nicht erreichbar oder unklar ist, das Rezept nicht als verifizierten Import aufnehmen.
+- Übersetzungen, Mengenentscheidungen, Umrechnungen und inhaltliche Abweichungen in `## Tipps` sowie `recipes.notes` kennzeichnen. Metrische Angaben der Quelle bevorzugen. US-Cups nur mit offengelegter Volumen-Umrechnung übernehmen; keine Grammgewichte aus einer angenommenen Dichte erfinden.
+- Bei eigenen Rezepten oder nicht öffentlichen Quellen stattdessen die tatsächliche Herkunft nennen (etwa `Eigenes Rezept von …` oder `Foto von …, erhalten am …`). Keine öffentliche URL erfinden. Ein vorhandenes Rezept ohne belegbare Original-URL nicht mit einem vermeintlich passenden Link versehen; fehlenden Nachweis offen benennen.
+- Vor dem Commit prüfen, dass Frontmatter, sichtbarer Quellenlink und Datenbank dieselbe Herkunft nennen. Bilder und ganze Webseiten werden nicht eingecheckt.
 
 ## Einheiten
 
@@ -51,14 +64,14 @@ YAML-Frontmatter mit genau diesen flachen Schlüsseln, danach CommonMark. Tags a
 
 ```yaml
 ---
-title: Kaiserschmarrn
-slug: kaiserschmarrn
-servings: 2
-servings_label: Personen
-prep_minutes: 20
-cook_minutes: 15
-source: Demel via Kurier TV
-tags: Mehlspeise, Süßspeise, Österreichisch, Demel
+title: Rotes Linsen-Curry
+slug: rotes-linsen-curry
+servings: 4
+servings_label: Portionen
+prep_minutes: 10
+cook_minutes: 35
+source: Nisha Vora – Rainbow Plant Life – https://rainbowplantlife.com/vegan-red-lentil-curry/
+tags: Vegan, Hauptgericht, Rainbow Plant Life
 ---
 ```
 

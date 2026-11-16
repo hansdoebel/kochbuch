@@ -1,0 +1,78 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/perfect-lemon-potatoes-recipe",
+  "recipes": [
+    {
+      "name": "Perfect Lemon Potatoes",
+      "source_url": "https://www.joshuaweissman.com/recipes/perfect-lemon-potatoes-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        "2 lbs (900g) yukon gold potatoes",
+        "1.5 cups (360ml) chicken stock",
+        "½ cup (120ml) olive oil",
+        "⅓ cup (80ml) lemon juice",
+        "5 garlic cloves",
+        "1 Tbsp (15g) kosher salt"
+      ],
+      "instructions": [
+        "Preheat the oven to 400°F (204°C). Peel and cut potatoes into ½ inch thick wedges. Place the potatoes into a roasting pan with all ingredients.",
+        "Place the roasting pan into the oven and cook the potatoes for 20 minutes. Then flip the potatoes and cook for an additional 25-30 minutes. At this point, most of the liquid should have been absorbed by the potatoes.",
+        "Remove the potatoes from the pan and skim as much of the fat from the liquid as possible. Then return the pan to the oven and cook down the liquid for 5-10 minutes.",
+        "Pour liquid from the pan over the potatoes."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "2 lbs (900g) yukon gold potatoes"
+        },
+        {
+          "tag": "li",
+          "text": "1.5 cups (360ml) chicken stock"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (120ml) olive oil"
+        },
+        {
+          "tag": "li",
+          "text": "⅓ cup (80ml) lemon juice"
+        },
+        {
+          "tag": "li",
+          "text": "5 garlic cloves"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) kosher salt"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Preheat the oven to 400°F (204°C). Peel and cut potatoes into ½ inch thick wedges. Place the potatoes into a roasting pan with all ingredients."
+        },
+        {
+          "tag": "li",
+          "text": "Place the roasting pan into the oven and cook the potatoes for 20 minutes. Then flip the potatoes and cook for an additional 25-30 minutes. At this point, most of the liquid should have been absorbed by the potatoes."
+        },
+        {
+          "tag": "li",
+          "text": "Remove the potatoes from the pan and skim as much of the fat from the liquid as possible. Then return the pan to the oven and cook down the liquid for 5-10 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Pour liquid from the pan over the potatoes."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

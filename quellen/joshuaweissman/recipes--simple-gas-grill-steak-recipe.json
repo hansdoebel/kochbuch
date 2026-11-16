@@ -1,0 +1,68 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/simple-gas-grill-steak-recipe",
+  "recipes": [
+    {
+      "name": "Simple Gas Grill Steak",
+      "source_url": "https://www.joshuaweissman.com/recipes/simple-gas-grill-steak-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        "1 steak",
+        "1 Tbsp (15g) kosher salt",
+        "1 tsp (3g) fresh cracked black pepper"
+      ],
+      "instructions": [
+        "Begin by preheating the grill until it reaches a temperature between 400-450°F (200-230°C).",
+        "In a small mixing bowl, whisk together salt and black pepper until fully incorporated. Season the steak on all sides.",
+        "Once the grill has preheated, place the seasoned steak on the grill and sear for 2-3 then do a quarter turn and cook for another 2-3 minutes.",
+        "Flip the steak and repeat the previous step.",
+        "Once the steak has reached an internal temperature of 125°F (50°C), transfer to a wire rack-lined baking tray and rest for 5-8 minutes."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 steak"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) fresh cracked black pepper"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Begin by preheating the grill until it reaches a temperature between 400-450°F (200-230°C)."
+        },
+        {
+          "tag": "li",
+          "text": "In a small mixing bowl, whisk together salt and black pepper until fully incorporated. Season the steak on all sides."
+        },
+        {
+          "tag": "li",
+          "text": "Once the grill has preheated, place the seasoned steak on the grill and sear for 2-3 then do a quarter turn and cook for another 2-3 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Flip the steak and repeat the previous step."
+        },
+        {
+          "tag": "li",
+          "text": "Once the steak has reached an internal temperature of 125°F (50°C), transfer to a wire rack-lined baking tray and rest for 5-8 minutes."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

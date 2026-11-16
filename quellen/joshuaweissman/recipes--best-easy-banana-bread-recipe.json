@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-easy-banana-bread-recipe",
+  "recipes": [
+    {
+      "name": "The Easiest Banana Bread (3 Ingredients)",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-easy-banana-bread-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "8",
+      "prep_time": "10 minutes",
+      "cook_time": "55 minutes",
+      "total_time": "1 hour, 5 minutes",
+      "ingredients": [
+        "3 very ripe bananas",
+        "2 large eggs",
+        "1 box, fancy yellow cake mix"
+      ],
+      "instructions": [
+        "Preheat your oven to 350°F (176°C). In a large mixing bowl, mash the bananas with a handheld mixer. Add the eggs and mix until combined, then whisk in the cake mix until fully combined.",
+        "Into a parchment paper-lined 9” x 5” non-stick loaf pan, pour in the batter and bake for 45-50 minutes, or until a toothpick or cake tester comes out clean. Let the cake cool and then slice and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "3 very ripe bananas"
+        },
+        {
+          "tag": "li",
+          "text": "2 large eggs"
+        },
+        {
+          "tag": "li",
+          "text": "1 box, fancy yellow cake mix"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Preheat your oven to 350°F (176°C). In a large mixing bowl, mash the bananas with a handheld mixer. Add the eggs and mix until combined, then whisk in the cake mix until fully combined."
+        },
+        {
+          "tag": "li",
+          "text": "Into a parchment paper-lined 9” x 5” non-stick loaf pan, pour in the batter and bake for 45-50 minutes, or until a toothpick or cake tester comes out clean. Let the cake cool and then slice and enjoy."
+        },
+        {
+          "tag": "p",
+          "text": "‍"
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

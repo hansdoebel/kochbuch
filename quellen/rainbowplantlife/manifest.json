@@ -1,0 +1,2280 @@
+{
+  "publisher": "Rainbow Plant Life",
+  "sitemap_url": "https://rainbowplantlife.com/sitemap_index.xml",
+  "scraped_at": "2026-11-16T21:59:38.525430+00:00",
+  "scope": "Öffentliche Rezeptkarten in Beitrags- und Seitensitemaps; kein Paywall-/Buchinhalt.",
+  "page_count": 403,
+  "recipe_count": 329,
+  "pages": [
+    {
+      "url": "https://rainbowplantlife.com/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/1-more-step/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/10-healthy-vegan-chocolate-desserts/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/10-healthy-vegan-comfort-foods-for-fall/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/10-healthy-vegan-comfort-foods-for-winter/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/10-healthy-vegan-dinner-recipes/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/10-healthy-vegan-lentil-recipes/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/10-ingredient-roasted-eggplant-pasta/",
+      "status": "recipe",
+      "file": "10-ingredient-roasted-eggplant-pasta.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/10-ingredient-vegan-red-lentil-bolognese/",
+      "status": "recipe",
+      "file": "10-ingredient-vegan-red-lentil-bolognese.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/10-tips-for-a-successful-veganuary/",
+      "status": "recipe",
+      "file": "10-tips-for-a-successful-veganuary.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/10-vegan-chocolate-desserts-valentines-day/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/12-incredible-vegan-super-bowl-recipes/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/15-easy-vegan-pantry-recipes/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/15-easy-vegan-recipes-for-4th-july/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/20-minute-broccoli-and-zaatar-chickpeas-with-yogurt-sauce/",
+      "status": "recipe",
+      "file": "20-minute-broccoli-and-zaatar-chickpeas-with-yogurt-sauce.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/20-minute-high-protein-vegan-meals/",
+      "status": "recipe",
+      "file": "20-minute-high-protein-vegan-meals.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/20-minute-vegan-meals/",
+      "status": "recipe",
+      "file": "20-minute-vegan-meals.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/25-easy-kid-friendly-vegan-recipes/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/3-delicious-vegan-salads-for-summer/",
+      "status": "recipe",
+      "file": "3-delicious-vegan-salads-for-summer.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/30-easy-vegan-recipes-for-veganuary/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/30-vegan-thanksgiving-recipes-and-ideas/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/31-days-of-vegan-recap/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/31-days-of-vegan/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/40-fantastic-vegan-breakfast-recipes/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/40-fantastic-vegan-indian-recipes/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/40-fantastic-vegan-instant-pot-recipes/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/45-seasonal-recipes-to-make-in-august/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/5-ingredient-vegan-recipes/",
+      "status": "recipe",
+      "file": "5-ingredient-vegan-recipes.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/a-guide-to-vegan-egg-substitutes-in-baking/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/about-my-new-cookbook/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/about-nisha/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/about/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/accessibility-statement/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/add-more-hygge-to-your-life/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/air-fryer-tofu/",
+      "status": "recipe",
+      "file": "air-fryer-tofu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/aloo-gobi/",
+      "status": "recipe",
+      "file": "aloo-gobi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/amazing-vegan-salad-recipes/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/anti-inflammatory-turmeric-tonic/",
+      "status": "recipe",
+      "file": "anti-inflammatory-turmeric-tonic.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/apple-cinnamon-french-toast/",
+      "status": "recipe",
+      "file": "apple-cinnamon-french-toast.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/avocado-crema/",
+      "status": "recipe",
+      "file": "avocado-crema.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/baingan-bharta/",
+      "status": "recipe",
+      "file": "baingan-bharta.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/baked-japanese-sweet-potatoes-with-miso-tahini-butter/",
+      "status": "recipe",
+      "file": "baked-japanese-sweet-potatoes-with-miso-tahini-butter.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/baked-peanut-tofu/",
+      "status": "recipe",
+      "file": "baked-peanut-tofu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/baked-tofu/",
+      "status": "recipe",
+      "file": "baked-tofu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/baked-vegan-chocolate-cheesecake/",
+      "status": "recipe",
+      "file": "baked-vegan-chocolate-cheesecake.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/balsamic-vinaigrette/",
+      "status": "recipe",
+      "file": "balsamic-vinaigrette.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/banh-mi/",
+      "status": "recipe",
+      "file": "banh-mi.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/bbq-tempeh/",
+      "status": "recipe",
+      "file": "bbq-tempeh.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/beet-hummus/",
+      "status": "recipe",
+      "file": "beet-hummus.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/best-bean-recipes/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/best-books-and-shows-2025/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/best-easy-vegan-banana-bread/",
+      "status": "recipe",
+      "file": "best-easy-vegan-banana-bread.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/best-vegan-desserts/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/bigveganflavor/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/blood-orange-upside-down-cake/",
+      "status": "recipe",
+      "file": "blood-orange-upside-down-cake.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/blueberry-lemon-poppy-seed-muffins/",
+      "status": "recipe",
+      "file": "blueberry-lemon-poppy-seed-muffins.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/braised-indian-chickpea-stew/",
+      "status": "recipe",
+      "file": "braised-indian-chickpea-stew.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/braised-tofu/",
+      "status": "recipe",
+      "file": "braised-tofu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/budget-friendly-vegan-lunches-for-the-week/",
+      "status": "recipe",
+      "file": "budget-friendly-vegan-lunches-for-the-week.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/buffalo-jackfruit-vegan-grilled-cheese/",
+      "status": "recipe",
+      "file": "buffalo-jackfruit-vegan-grilled-cheese.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/butternut-squash-soup-with-crispy-lentils/",
+      "status": "recipe",
+      "file": "butternut-squash-soup-with-crispy-lentils.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/cabbage-curry/",
+      "status": "recipe",
+      "file": "cabbage-curry.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/cabbage-soup/",
+      "status": "recipe",
+      "file": "cabbage-soup.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/cauliflower-steaks-with-caramelized-shallots/",
+      "status": "recipe",
+      "file": "cauliflower-steaks-with-caramelized-shallots.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/charred-corn-salad-with-white-beans/",
+      "status": "recipe",
+      "file": "charred-corn-salad-with-white-beans.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/charred-green-beans-with-herby-lemon-salsa/",
+      "status": "recipe",
+      "file": "charred-green-beans-with-herby-lemon-salsa.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/cheesy-baked-butternut-squash-vegan/",
+      "status": "recipe",
+      "file": "cheesy-baked-butternut-squash-vegan.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/chewy-vegan-chai-spiced-cookies/",
+      "status": "recipe",
+      "file": "chewy-vegan-chai-spiced-cookies.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/chickpea-curry/",
+      "status": "recipe",
+      "file": "chickpea-curry.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/chickpea-salad-sandwich/",
+      "status": "recipe",
+      "file": "chickpea-salad-sandwich.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/chickpea-salad/",
+      "status": "recipe",
+      "file": "chickpea-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/chickpea-tacos/",
+      "status": "recipe",
+      "file": "chickpea-tacos.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/chinese-takeout-style-tofu-and-broccoli/",
+      "status": "recipe",
+      "file": "chinese-takeout-style-tofu-and-broccoli.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/classic-thanksgiving-stuffing-vegan/",
+      "status": "recipe",
+      "file": "classic-thanksgiving-stuffing-vegan.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/confited-tomatoes/",
+      "status": "recipe",
+      "file": "confited-tomatoes.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/contact/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/cookbook/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/cranberry-sauce/",
+      "status": "recipe",
+      "file": "cranberry-sauce.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/creamy-avocado-pea-gazpacho/",
+      "status": "recipe",
+      "file": "creamy-avocado-pea-gazpacho.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/creamy-chipotle-sweet-potato-pasta/",
+      "status": "recipe",
+      "file": "creamy-chipotle-sweet-potato-pasta.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/creamy-coconut-rice-with-five-spice-tofu/",
+      "status": "recipe",
+      "file": "creamy-coconut-rice-with-five-spice-tofu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/creamy-lemon-asparagus-pasta/",
+      "status": "recipe",
+      "file": "creamy-lemon-asparagus-pasta.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/creamy-lentil-stuffed-butternut-squash/",
+      "status": "recipe",
+      "file": "creamy-lentil-stuffed-butternut-squash.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/creamy-lentil-winter-bake/",
+      "status": "recipe",
+      "file": "creamy-lentil-winter-bake.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/creamy-mushroom-and-black-beluga-lentil-stew/",
+      "status": "recipe",
+      "file": "creamy-mushroom-and-black-beluga-lentil-stew.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/creamy-mushroom-smashed-avocado-toast/",
+      "status": "recipe",
+      "file": "creamy-mushroom-smashed-avocado-toast.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/creamy-umami-noodle-soup-with-crispy-mushrooms/",
+      "status": "recipe",
+      "file": "creamy-umami-noodle-soup-with-crispy-mushrooms.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/creamy-vegan-cauliflower-soup-with-sausage-and-kale/",
+      "status": "recipe",
+      "file": "creamy-vegan-cauliflower-soup-with-sausage-and-kale.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/creamy-vegan-mushroom-stroganoff/",
+      "status": "recipe",
+      "file": "creamy-vegan-mushroom-stroganoff.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/creamy-vegan-potato-leek-soup/",
+      "status": "recipe",
+      "file": "creamy-vegan-potato-leek-soup.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/creamy-vegan-protein-mocha-latte/",
+      "status": "recipe",
+      "file": "creamy-vegan-protein-mocha-latte.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/creamy-vegan-pumpkin-mac-and-cheese/",
+      "status": "recipe",
+      "file": "creamy-vegan-pumpkin-mac-and-cheese.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/creamy-vegan-spiced-eggnog/",
+      "status": "recipe",
+      "file": "creamy-vegan-spiced-eggnog.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/creamy-vegan-zucchini-pesto-pasta/",
+      "status": "recipe",
+      "file": "creamy-vegan-zucchini-pesto-pasta.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/creamy-white-bean-soup-with-kale-and-gremolata/",
+      "status": "recipe",
+      "file": "creamy-white-bean-soup-with-kale-and-gremolata.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/creamy-white-beans-with-kale-and-wild-rice/",
+      "status": "recipe",
+      "file": "creamy-white-beans-with-kale-and-wild-rice.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/crispy-baked-vegan-mac-and-cheese/",
+      "status": "recipe",
+      "file": "crispy-baked-vegan-mac-and-cheese.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/crispy-black-bean-tacos/",
+      "status": "recipe",
+      "file": "crispy-black-bean-tacos.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/crispy-lentils-with-rice/",
+      "status": "recipe",
+      "file": "crispy-lentils-with-rice.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/crispy-roasted-mushrooms/",
+      "status": "recipe",
+      "file": "crispy-roasted-mushrooms.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/crispy-sesame-tofu-and-mushroom-lettuce-wraps/",
+      "status": "recipe",
+      "file": "crispy-sesame-tofu-and-mushroom-lettuce-wraps.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/crispy-smashed-potatoes-with-ginger-tahini-dressing/",
+      "status": "recipe",
+      "file": "crispy-smashed-potatoes-with-ginger-tahini-dressing.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/crispy-spicy-cauliflower-tacos-with-jicama-carrot-slaw/",
+      "status": "recipe",
+      "file": "crispy-spicy-cauliflower-tacos-with-jicama-carrot-slaw.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/crispy-zucchini-and-corn-casserole/",
+      "status": "recipe",
+      "file": "crispy-zucchini-and-corn-casserole.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/dal-palak/",
+      "status": "recipe",
+      "file": "dal-palak.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/double-decker-black-bean-and-corn-salad-tacos/",
+      "status": "recipe",
+      "file": "double-decker-black-bean-and-corn-salad-tacos.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/easy-mango-avocado-salsa/",
+      "status": "recipe",
+      "file": "easy-mango-avocado-salsa.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/easy-vegan-tacos-with-smoky-cashew-crema/",
+      "status": "recipe",
+      "file": "easy-vegan-tacos-with-smoky-cashew-crema.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/edamame-salad/",
+      "status": "recipe",
+      "file": "edamame-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/eggy-tofu-scramble/",
+      "status": "recipe",
+      "file": "eggy-tofu-scramble.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/every-way-to-use-a-can-of-chickpeas/",
+      "status": "recipe",
+      "file": "every-way-to-use-a-can-of-chickpeas.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/fattoush/",
+      "status": "recipe",
+      "file": "fattoush.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/fennel-orange-salad/",
+      "status": "recipe",
+      "file": "fennel-orange-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/fermented-cashew-cheese/",
+      "status": "recipe",
+      "file": "fermented-cashew-cheese.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/fig-tart-with-coconut-cashew-cream-vegan-gluten-free/",
+      "status": "recipe",
+      "file": "fig-tart-with-coconut-cashew-cream-vegan-gluten-free.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/five-course-vegan-thanksgiving-menu-gourmet-easy/",
+      "status": "recipe",
+      "file": "five-course-vegan-thanksgiving-menu-gourmet-easy.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/fluffy-vegan-gingerbread-cake/",
+      "status": "recipe",
+      "file": "fluffy-vegan-gingerbread-cake.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/fried-tofu/",
+      "status": "recipe",
+      "file": "fried-tofu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/ginger-orange-vegan-cheesecake/",
+      "status": "recipe",
+      "file": "ginger-orange-vegan-cheesecake.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/gobi-manchurian/",
+      "status": "recipe",
+      "file": "gobi-manchurian.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/gochujang-noodles/",
+      "status": "recipe",
+      "file": "gochujang-noodles.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/greek-style-vegan-feta/",
+      "status": "recipe",
+      "file": "greek-style-vegan-feta.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/gremolata/",
+      "status": "recipe",
+      "file": "gremolata.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/grilled-corn-salad/",
+      "status": "recipe",
+      "file": "grilled-corn-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/grilled-tofu-skewers/",
+      "status": "recipe",
+      "file": "grilled-tofu-skewers.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/guide-to-making-the-best-cashew-cream/",
+      "status": "recipe",
+      "file": "guide-to-making-the-best-cashew-cream.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/guide-to-tempeh/",
+      "status": "recipe",
+      "file": "guide-to-tempeh.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/guide-to-tofu/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/healthy-blackberry-basil-lemonade/",
+      "status": "recipe",
+      "file": "healthy-blackberry-basil-lemonade.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/healthy-vegan-breakfast-cookies/",
+      "status": "recipe",
+      "file": "healthy-vegan-breakfast-cookies.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/healthy-vegan-gingerbread-hot-chocolate/",
+      "status": "recipe",
+      "file": "healthy-vegan-gingerbread-hot-chocolate.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/healthy-vegan-lentil-shepherds-pie/",
+      "status": "recipe",
+      "file": "healthy-vegan-lentil-shepherds-pie.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/healthy-vegan-strawberry-rhubarb-salad/",
+      "status": "recipe",
+      "file": "healthy-vegan-strawberry-rhubarb-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/herbed-vegan-potato-salad/",
+      "status": "recipe",
+      "file": "herbed-vegan-potato-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/holiday-survival-guide-for-vegans/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/how-to-bake-a-cheesecake-in-the-instant-pot/",
+      "status": "recipe",
+      "file": "how-to-bake-a-cheesecake-in-the-instant-pot.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/how-to-cook-beans-in-the-instant-pot/",
+      "status": "recipe",
+      "file": "how-to-cook-beans-in-the-instant-pot.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/how-to-cook-beans/",
+      "status": "recipe",
+      "file": "how-to-cook-beans.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/how-to-cook-lentils-in-the-instant-pot/",
+      "status": "recipe",
+      "file": "how-to-cook-lentils-in-the-instant-pot.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/how-to-cook-tofu/",
+      "status": "recipe",
+      "file": "how-to-cook-tofu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/how-to-eat-well-on-a-budget/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/how-to-make-a-dessert-charcuterie-board/",
+      "status": "recipe",
+      "file": "how-to-make-a-dessert-charcuterie-board.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/how-to-make-amazing-hummus-at-home/",
+      "status": "recipe",
+      "file": "how-to-make-amazing-hummus-at-home.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/how-to-make-and-use-preserved-lemons/",
+      "status": "recipe",
+      "file": "how-to-make-and-use-preserved-lemons.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/how-to-make-canned-beans-taste-better/",
+      "status": "recipe",
+      "file": "how-to-make-canned-beans-taste-better.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/how-to-make-lilac-sugar/",
+      "status": "recipe",
+      "file": "how-to-make-lilac-sugar.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/how-to-make-the-best-vegan-mashed-potatoes/",
+      "status": "recipe",
+      "file": "how-to-make-the-best-vegan-mashed-potatoes.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/how-to-make-the-perfect-smoothie/",
+      "status": "recipe",
+      "file": "how-to-make-the-perfect-smoothie.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/how-to-make-vegan-pesto/",
+      "status": "recipe",
+      "file": "how-to-make-vegan-pesto.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/indian-chickpea-sweet-potato-stew-vegan-gluten-free/",
+      "status": "recipe",
+      "file": "indian-chickpea-sweet-potato-stew-vegan-gluten-free.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/instant-pot-burrito-bowl-stuffed-peppers/",
+      "status": "recipe",
+      "file": "instant-pot-burrito-bowl-stuffed-peppers.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/instant-pot-butternut-squash-lentil-curry/",
+      "status": "recipe",
+      "file": "instant-pot-butternut-squash-lentil-curry.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/instant-pot-butternut-squash-risotto/",
+      "status": "recipe",
+      "file": "instant-pot-butternut-squash-risotto.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/instant-pot-cauliflower-soup/",
+      "status": "recipe",
+      "file": "instant-pot-cauliflower-soup.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/instant-pot-chana-masala/",
+      "status": "recipe",
+      "file": "instant-pot-chana-masala.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/instant-pot-cheesy-buffalo-cauliflower-dip/",
+      "status": "recipe",
+      "file": "instant-pot-cheesy-buffalo-cauliflower-dip.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/instant-pot-chickpea-orzo-soup/",
+      "status": "recipe",
+      "file": "instant-pot-chickpea-orzo-soup.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/instant-pot-jackfruit-curry/",
+      "status": "recipe",
+      "file": "instant-pot-jackfruit-curry.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/instant-pot-lentil-soup/",
+      "status": "recipe",
+      "file": "instant-pot-lentil-soup.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/instant-pot-pear-and-date-spiced-oatmeal/",
+      "status": "recipe",
+      "file": "instant-pot-pear-and-date-spiced-oatmeal.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/instant-pot-pumpkin-lasagna-soup/",
+      "status": "recipe",
+      "file": "instant-pot-pumpkin-lasagna-soup.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/instant-pot-spiced-red-lentil-sweet-potato-soup/",
+      "status": "recipe",
+      "file": "instant-pot-spiced-red-lentil-sweet-potato-soup.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/instant-pot-vegan-banana-bread/",
+      "status": "recipe",
+      "file": "instant-pot-vegan-banana-bread.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/instant-pot-vegan-bolognese/",
+      "status": "recipe",
+      "file": "instant-pot-vegan-bolognese.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/instant-pot-vegan-chocolate-cake/",
+      "status": "recipe",
+      "file": "instant-pot-vegan-chocolate-cake.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/instant-pot-vegan-farro-risotto-with-saucy-cherry-tomatoes/",
+      "status": "recipe",
+      "file": "instant-pot-vegan-farro-risotto-with-saucy-cherry-tomatoes.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/instant-pot-vegan-pho-vietnamese-noodle-soup/",
+      "status": "recipe",
+      "file": "instant-pot-vegan-pho-vietnamese-noodle-soup.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/instant-pot-vegan-white-bean-quinoa-chili/",
+      "status": "recipe",
+      "file": "instant-pot-vegan-white-bean-quinoa-chili.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/instant-pot-wild-rice-mushroom-soup-vegan/",
+      "status": "recipe",
+      "file": "instant-pot-wild-rice-mushroom-soup-vegan.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/introducing-rainbow-plant-life-meal-plans/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/introducing-the-rpl-recipe-club/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/kale-and-brussels-sprouts-winter-salad/",
+      "status": "recipe",
+      "file": "kale-and-brussels-sprouts-winter-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/kitchen-equipment/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/laab/",
+      "status": "recipe",
+      "file": "laab.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/lemon-olive-oil-cake/",
+      "status": "recipe",
+      "file": "lemon-olive-oil-cake.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/lemon-orzo-pasta-salad/",
+      "status": "recipe",
+      "file": "lemon-orzo-pasta-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/lemon-tahini-dressing/",
+      "status": "recipe",
+      "file": "lemon-tahini-dressing.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/lemony-chickpea-soup/",
+      "status": "recipe",
+      "file": "lemony-chickpea-soup.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/lemony-white-bean-dip/",
+      "status": "recipe",
+      "file": "lemony-white-bean-dip.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/lentil-salad/",
+      "status": "recipe",
+      "file": "lentil-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/lentil-soup/",
+      "status": "recipe",
+      "file": "lentil-soup.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/lentil-tacos/",
+      "status": "recipe",
+      "file": "lentil-tacos.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/livornese-stewed-beans/",
+      "status": "recipe",
+      "file": "livornese-stewed-beans.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/low-fodmap-sesame-tempeh-rice-bowl/",
+      "status": "recipe",
+      "file": "low-fodmap-sesame-tempeh-rice-bowl.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/malaysian-curry-noodle-soup/",
+      "status": "recipe",
+      "file": "malaysian-curry-noodle-soup.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/maple-roasted-carrots/",
+      "status": "recipe",
+      "file": "maple-roasted-carrots.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/marinated-tofu/",
+      "status": "recipe",
+      "file": "marinated-tofu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/mastery/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/may-2023-recipe-club/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/mediterranean-lentil-and-grain-bowls/",
+      "status": "recipe",
+      "file": "mediterranean-lentil-and-grain-bowls.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/mexican-black-beans/",
+      "status": "recipe",
+      "file": "mexican-black-beans.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/miso-dressing/",
+      "status": "recipe",
+      "file": "miso-dressing.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/mp-terms-and-conditions/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/muhammara/",
+      "status": "recipe",
+      "file": "muhammara.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/my-vegan-pantry-essentials-part-iii/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/napa-cabbage-salad/",
+      "status": "recipe",
+      "file": "napa-cabbage-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/no-bake-cookie-dough-bars/",
+      "status": "recipe",
+      "file": "no-bake-cookie-dough-bars.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/no-bake-nutella-fudge-bars/",
+      "status": "recipe",
+      "file": "no-bake-nutella-fudge-bars.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/no-bake-vegan-nutella-cake/",
+      "status": "recipe",
+      "file": "no-bake-vegan-nutella-cake.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/no-bake-vegan-peanut-butter-and-jelly-bars/",
+      "status": "recipe",
+      "file": "no-bake-vegan-peanut-butter-and-jelly-bars.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/noodle-salad-with-rainbow-veggies/",
+      "status": "recipe",
+      "file": "noodle-salad-with-rainbow-veggies.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/nut-free-vegan-cheese-sauce/",
+      "status": "recipe",
+      "file": "nut-free-vegan-cheese-sauce.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/one-pot-pumpkin-pasta/",
+      "status": "recipe",
+      "file": "one-pot-pumpkin-pasta.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/one-pot-vegan-chili-mac/",
+      "status": "recipe",
+      "file": "one-pot-vegan-chili-mac.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/peach-panzanella-salad/",
+      "status": "recipe",
+      "file": "peach-panzanella-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/peaches-and-cream-puff-pastry-tart/",
+      "status": "recipe",
+      "file": "peaches-and-cream-puff-pastry-tart.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/peanut-noodles/",
+      "status": "recipe",
+      "file": "peanut-noodles.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/pina-colada-cheesecake-bars/",
+      "status": "recipe",
+      "file": "pina-colada-cheesecake-bars.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/pomegranate-glazed-gingerbread-bundt-cake/",
+      "status": "recipe",
+      "file": "pomegranate-glazed-gingerbread-bundt-cake.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/privacy-policy/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/pumpkin-cream-tart-with-gingersnap-crust/",
+      "status": "recipe",
+      "file": "pumpkin-cream-tart-with-gingersnap-crust.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/pumpkin-miso-tart-vegan-gluten-free/",
+      "status": "recipe",
+      "file": "pumpkin-miso-tart-vegan-gluten-free.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/pumpkin-salad/",
+      "status": "recipe",
+      "file": "pumpkin-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/quinoa-salad/",
+      "status": "recipe",
+      "file": "quinoa-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/rajma-masala/",
+      "status": "recipe",
+      "file": "rajma-masala.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/recipe-index/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/red-lentil-soup/",
+      "status": "recipe",
+      "file": "red-lentil-soup.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/red-wine-vinaigrette/",
+      "status": "recipe",
+      "file": "red-wine-vinaigrette.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/restaurant-style-vegan-dal-tadka/",
+      "status": "recipe",
+      "file": "restaurant-style-vegan-dal-tadka.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/restaurant-style-vegan-malai-kofta/",
+      "status": "recipe",
+      "file": "restaurant-style-vegan-malai-kofta.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/rice-salad/",
+      "status": "recipe",
+      "file": "rice-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/roasted-beet-and-fennel-salad/",
+      "status": "recipe",
+      "file": "roasted-beet-and-fennel-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/roasted-beets/",
+      "status": "recipe",
+      "file": "roasted-beets.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/roasted-butternut-squash-and-cabbage-salad/",
+      "status": "recipe",
+      "file": "roasted-butternut-squash-and-cabbage-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/roasted-carrots-and-dates/",
+      "status": "recipe",
+      "file": "roasted-carrots-and-dates.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/roasted-pepitas/",
+      "status": "recipe",
+      "file": "roasted-pepitas.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/roasted-red-pepper-hummus/",
+      "status": "recipe",
+      "file": "roasted-red-pepper-hummus.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/roasted-walnuts/",
+      "status": "recipe",
+      "file": "roasted-walnuts.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/rpl-at-home-april-2026/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/rpl-at-home-january-2026/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/rpl-at-home-july-2025/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/rpl-at-home-june-2026/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/rpl-at-home-october-2025/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/rpl-at-home-september-2026/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/saag-aloo/",
+      "status": "recipe",
+      "file": "saag-aloo.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/salted-chocolate-cream-tart-vegan-gluten-free/",
+      "status": "recipe",
+      "file": "salted-chocolate-cream-tart-vegan-gluten-free.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/sausage-fennel-pasta-with-crushed-tomato-sauce/",
+      "status": "recipe",
+      "file": "sausage-fennel-pasta-with-crushed-tomato-sauce.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/savory-asparagus-galette-with-vegan-ricotta/",
+      "status": "recipe",
+      "file": "savory-asparagus-galette-with-vegan-ricotta.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/savory-oatmeal/",
+      "status": "recipe",
+      "file": "savory-oatmeal.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/sesame-noodles/",
+      "status": "recipe",
+      "file": "sesame-noodles.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/shaved-cauliflower-salad-with-lime-dressing/",
+      "status": "recipe",
+      "file": "shaved-cauliflower-salad-with-lime-dressing.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/shop/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/silky-beet-dip/",
+      "status": "recipe",
+      "file": "silky-beet-dip.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/simple-vegan-french-toast/",
+      "status": "recipe",
+      "file": "simple-vegan-french-toast.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/smoky-sweet-potato-and-pinto-bean-chili/",
+      "status": "recipe",
+      "file": "smoky-sweet-potato-and-pinto-bean-chili.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/sofritas/",
+      "status": "recipe",
+      "file": "sofritas.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/spicy-cucumber-salad/",
+      "status": "recipe",
+      "file": "spicy-cucumber-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/spicy-instant-pot-carrot-harissa-soup/",
+      "status": "recipe",
+      "file": "spicy-instant-pot-carrot-harissa-soup.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/spinach-pesto/",
+      "status": "recipe",
+      "file": "spinach-pesto.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/stuffed-breakfast-sweet-potatoes-five-recipes/",
+      "status": "recipe",
+      "file": "stuffed-breakfast-sweet-potatoes-five-recipes.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/subscribe/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/sweet-and-spicy-almond-butter-date-latte/",
+      "status": "recipe",
+      "file": "sweet-and-spicy-almond-butter-date-latte.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/sweet-and-spicy-smashed-cucumber-salad/",
+      "status": "recipe",
+      "file": "sweet-and-spicy-smashed-cucumber-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/tahini-pasta/",
+      "status": "recipe",
+      "file": "tahini-pasta.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/tandoori-chickpea-stuffed-sweet-potatoes/",
+      "status": "recipe",
+      "file": "tandoori-chickpea-stuffed-sweet-potatoes.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/tempeh-bacon/",
+      "status": "recipe",
+      "file": "tempeh-bacon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/tempeh-kecap/",
+      "status": "recipe",
+      "file": "tempeh-kecap.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/tempeh-tacos/",
+      "status": "recipe",
+      "file": "tempeh-tacos.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/tempeh-walnut-falafel-vegan-tzatziki-sauce/",
+      "status": "recipe",
+      "file": "tempeh-walnut-falafel-vegan-tzatziki-sauce.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/terms-of-service/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/thai-butternut-squash-chickpea-curry/",
+      "status": "recipe",
+      "file": "thai-butternut-squash-chickpea-curry.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/thai-green-curry-paste/",
+      "status": "recipe",
+      "file": "thai-green-curry-paste.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/thai-pumpkin-soup/",
+      "status": "recipe",
+      "file": "thai-pumpkin-soup.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/thai-red-curry-sweet-potato-soup/",
+      "status": "recipe",
+      "file": "thai-red-curry-sweet-potato-soup.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/the-5-best-vegan-protein-sources/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/the-7-day-vegan-challenge/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/the-absolute-best-vegan-brownies/",
+      "status": "recipe",
+      "file": "the-absolute-best-vegan-brownies.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/the-best-lentil-recipes/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/the-best-vegan-breakfast-burritos/",
+      "status": "recipe",
+      "file": "the-best-vegan-breakfast-burritos.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/the-best-vegan-cheese-substitutes-store-bought-and-recipes/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/the-best-vegan-cornbread-youll-ever-eat/",
+      "status": "recipe",
+      "file": "the-best-vegan-cornbread-youll-ever-eat.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/the-best-vegan-crunchwrap-supreme/",
+      "status": "recipe",
+      "file": "the-best-vegan-crunchwrap-supreme.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/the-best-vegan-pasta-recipes/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/the-best-vegan-pumpkin-spice-bread/",
+      "status": "recipe",
+      "file": "the-best-vegan-pumpkin-spice-bread.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/the-best-vegan-queso-ever/",
+      "status": "recipe",
+      "file": "the-best-vegan-queso-ever.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/the-best-vegan-wellington-vegan-mushroom-wellington/",
+      "status": "recipe",
+      "file": "the-best-vegan-wellington-vegan-mushroom-wellington.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/the-complete-guide-to-vegan-grilling/",
+      "status": "recipe",
+      "file": "the-complete-guide-to-vegan-grilling.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/the-top-15-recipes-from-big-vegan-flavor/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/the-vegan-everything-cookie/",
+      "status": "recipe",
+      "file": "the-vegan-everything-cookie.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/the-vegan-instant-pot-cookbook/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/tips-for-meal-prepping-on-a-budget/",
+      "status": "recipe",
+      "file": "tips-for-meal-prepping-on-a-budget.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/tofu-curry/",
+      "status": "recipe",
+      "file": "tofu-curry.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/tofu-recipes/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/tofu-sandwich/",
+      "status": "recipe",
+      "file": "tofu-sandwich.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/tofu-stir-fry/",
+      "status": "recipe",
+      "file": "tofu-stir-fry.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/tofu-tenders/",
+      "status": "recipe",
+      "file": "tofu-tenders.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/tofu-tikka-masala/",
+      "status": "recipe",
+      "file": "tofu-tikka-masala.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/tomato-and-white-bean-casserole/",
+      "status": "recipe",
+      "file": "tomato-and-white-bean-casserole.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/tomato-fennel-braised-chickpeas/",
+      "status": "recipe",
+      "file": "tomato-fennel-braised-chickpeas.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/ultimate-crispy-roasted-potatoes/",
+      "status": "recipe",
+      "file": "ultimate-crispy-roasted-potatoes.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-aioli/",
+      "status": "recipe",
+      "file": "vegan-aioli.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-apple-cinnamon-bundt-cake/",
+      "status": "recipe",
+      "file": "vegan-apple-cinnamon-bundt-cake.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-apple-crisp/",
+      "status": "recipe",
+      "file": "vegan-apple-crisp.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-banana-muffins/",
+      "status": "recipe",
+      "file": "vegan-banana-muffins.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-banana-pancakes/",
+      "status": "recipe",
+      "file": "vegan-banana-pancakes.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-bbq-pulled-pork/",
+      "status": "recipe",
+      "file": "vegan-bbq-pulled-pork.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-bbq-recipes/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-bbq-sauce/",
+      "status": "recipe",
+      "file": "vegan-bbq-sauce.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-blackberry-galette/",
+      "status": "recipe",
+      "file": "vegan-blackberry-galette.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-blueberry-muffins/",
+      "status": "recipe",
+      "file": "vegan-blueberry-muffins.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-broccoli-salad/",
+      "status": "recipe",
+      "file": "vegan-broccoli-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-broccoli-soup/",
+      "status": "recipe",
+      "file": "vegan-broccoli-soup.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-brown-butter-peach-cobbler/",
+      "status": "recipe",
+      "file": "vegan-brown-butter-peach-cobbler.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-brown-butter-sweet-potato-casserole/",
+      "status": "recipe",
+      "file": "vegan-brown-butter-sweet-potato-casserole.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-brussels-sprouts-and-mushroom-lasagna/",
+      "status": "recipe",
+      "file": "vegan-brussels-sprouts-and-mushroom-lasagna.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-buffalo-cauliflower/",
+      "status": "recipe",
+      "file": "vegan-buffalo-cauliflower.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-buffalo-chickpea-quesadillas/",
+      "status": "recipe",
+      "file": "vegan-buffalo-chickpea-quesadillas.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-burrito-bowl/",
+      "status": "recipe",
+      "file": "vegan-burrito-bowl.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-butternut-mushroom-lasgna-tofu-ricotta/",
+      "status": "recipe",
+      "file": "vegan-butternut-mushroom-lasgna-tofu-ricotta.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-cake-recipes/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-caramelized-onion-pasta/",
+      "status": "recipe",
+      "file": "vegan-caramelized-onion-pasta.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-cashew-ricotta/",
+      "status": "recipe",
+      "file": "vegan-cashew-ricotta.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-ceviche-tacos-with-guacamole/",
+      "status": "recipe",
+      "file": "vegan-ceviche-tacos-with-guacamole.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-chili-garlic-noodles/",
+      "status": "recipe",
+      "file": "vegan-chili-garlic-noodles.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-chili/",
+      "status": "recipe",
+      "file": "vegan-chili.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-chocolate-chip-cookies/",
+      "status": "recipe",
+      "file": "vegan-chocolate-chip-cookies.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-chocolate-chip-muffins/",
+      "status": "recipe",
+      "file": "vegan-chocolate-chip-muffins.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-chocolate-layer-cake-with-hibiscus-frosting/",
+      "status": "recipe",
+      "file": "vegan-chocolate-layer-cake-with-hibiscus-frosting.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-chocolate-mousse/",
+      "status": "recipe",
+      "file": "vegan-chocolate-mousse.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-chocolate-sweet-potato-milkshake/",
+      "status": "recipe",
+      "file": "vegan-chocolate-sweet-potato-milkshake.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-chocolate-truffles/",
+      "status": "recipe",
+      "file": "vegan-chocolate-truffles.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-christmas-recipes/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-cinnamon-roll-cake/",
+      "status": "recipe",
+      "file": "vegan-cinnamon-roll-cake.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-cupcakes/",
+      "status": "recipe",
+      "file": "vegan-cupcakes.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-curry-with-tofu/",
+      "status": "recipe",
+      "file": "vegan-curry-with-tofu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-dal-makhani/",
+      "status": "recipe",
+      "file": "vegan-dal-makhani.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-dips/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-egg-salad/",
+      "status": "recipe",
+      "file": "vegan-egg-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-french-toast/",
+      "status": "recipe",
+      "file": "vegan-french-toast.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-fudge/",
+      "status": "recipe",
+      "file": "vegan-fudge.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-gift-guide/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-gluten-free-recipes/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-golden-milk-turmeric-latte/",
+      "status": "recipe",
+      "file": "vegan-golden-milk-turmeric-latte.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-gravy/",
+      "status": "recipe",
+      "file": "vegan-gravy.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-green-bean-casserole/",
+      "status": "recipe",
+      "file": "vegan-green-bean-casserole.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-green-goddess-grilled-cheese/",
+      "status": "recipe",
+      "file": "vegan-green-goddess-grilled-cheese.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-green-goddess-soup/",
+      "status": "recipe",
+      "file": "vegan-green-goddess-soup.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-grocery-list/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-guide-to-melbourne/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-hot-chocolate/",
+      "status": "recipe",
+      "file": "vegan-hot-chocolate.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-instant-pot-cookbook/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-instant-pot-corn-chowder/",
+      "status": "recipe",
+      "file": "vegan-instant-pot-corn-chowder.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-instant-pot-fennel-chickpea-stew/",
+      "status": "recipe",
+      "file": "vegan-instant-pot-fennel-chickpea-stew.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-instant-pot-lasagna/",
+      "status": "recipe",
+      "file": "vegan-instant-pot-lasagna.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-instant-pot-lentil-cabbage-soup/",
+      "status": "recipe",
+      "file": "vegan-instant-pot-lentil-cabbage-soup.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-instant-pot-mexican-rice-and-beans/",
+      "status": "recipe",
+      "file": "vegan-instant-pot-mexican-rice-and-beans.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-instant-pot-nectarine-berry-crisp/",
+      "status": "recipe",
+      "file": "vegan-instant-pot-nectarine-berry-crisp.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-instant-pot-peanut-butter-banana-oatmeal/",
+      "status": "recipe",
+      "file": "vegan-instant-pot-peanut-butter-banana-oatmeal.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-instant-pot-white-bean-stew/",
+      "status": "recipe",
+      "file": "vegan-instant-pot-white-bean-stew.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-italian-white-bean-and-pasta-stew/",
+      "status": "recipe",
+      "file": "vegan-italian-white-bean-and-pasta-stew.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-lemon-cake/",
+      "status": "recipe",
+      "file": "vegan-lemon-cake.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-lemon-poppy-seed-layer-cake/",
+      "status": "recipe",
+      "file": "vegan-lemon-poppy-seed-layer-cake.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-lilac-lemon-cake/",
+      "status": "recipe",
+      "file": "vegan-lilac-lemon-cake.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-lunches-from-monday-through-friday/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-miso-butter-mushroom-risotto/",
+      "status": "recipe",
+      "file": "vegan-miso-butter-mushroom-risotto.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-moussaka/",
+      "status": "recipe",
+      "file": "vegan-moussaka.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-mushroom-soup/",
+      "status": "recipe",
+      "file": "vegan-mushroom-soup.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-naan/",
+      "status": "recipe",
+      "file": "vegan-naan.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-nachos/",
+      "status": "recipe",
+      "file": "vegan-nachos.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-nutella-espresso-cheesecake-mousse/",
+      "status": "recipe",
+      "file": "vegan-nutella-espresso-cheesecake-mousse.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-palak-paneer-with-tofu/",
+      "status": "recipe",
+      "file": "vegan-palak-paneer-with-tofu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-pancakes/",
+      "status": "recipe",
+      "file": "vegan-pancakes.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-pantry-pasta/",
+      "status": "recipe",
+      "file": "vegan-pantry-pasta.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-pasta-recipes-for-summer/",
+      "status": "recipe",
+      "file": "vegan-pasta-recipes-for-summer.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-pasta-salad/",
+      "status": "recipe",
+      "file": "vegan-pasta-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-pumpkin-cheesecake-bars/",
+      "status": "recipe",
+      "file": "vegan-pumpkin-cheesecake-bars.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-pumpkin-curry-with-tofu/",
+      "status": "recipe",
+      "file": "vegan-pumpkin-curry-with-tofu.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-pumpkin-pancakes/",
+      "status": "recipe",
+      "file": "vegan-pumpkin-pancakes.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-pumpkin-recipes/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-pumpkin-ricotta-stuffed-shells/",
+      "status": "recipe",
+      "file": "vegan-pumpkin-ricotta-stuffed-shells.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-pumpkin-sheet-pancakes/",
+      "status": "recipe",
+      "file": "vegan-pumpkin-sheet-pancakes.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-quesadillas-with-mushroom-bacon/",
+      "status": "recipe",
+      "file": "vegan-quesadillas-with-mushroom-bacon.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-quesadillas-with-smoky-cheese-and-refried-beans/",
+      "status": "recipe",
+      "file": "vegan-quesadillas-with-smoky-cheese-and-refried-beans.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-quinoa-buckwheat-pancakes/",
+      "status": "recipe",
+      "file": "vegan-quinoa-buckwheat-pancakes.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-raita-indian-yogurt-dip/",
+      "status": "recipe",
+      "file": "vegan-raita-indian-yogurt-dip.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-ranch-dressing/",
+      "status": "recipe",
+      "file": "vegan-ranch-dressing.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-raspberry-crumble-bars/",
+      "status": "recipe",
+      "file": "vegan-raspberry-crumble-bars.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-red-lentil-curry/",
+      "status": "recipe",
+      "file": "vegan-red-lentil-curry.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-sausage-stuffed-butternut-squash/",
+      "status": "recipe",
+      "file": "vegan-sausage-stuffed-butternut-squash.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-scalloped-potatoes/",
+      "status": "recipe",
+      "file": "vegan-scalloped-potatoes.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-sesame-cashew-soba-noodle-salad/",
+      "status": "recipe",
+      "file": "vegan-sesame-cashew-soba-noodle-salad.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-soup-recipes/",
+      "status": "no_recipe"
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-spiced-blueberry-breakfast-cake/",
+      "status": "recipe",
+      "file": "vegan-spiced-blueberry-breakfast-cake.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-spinach-artichoke-dip/",
+      "status": "recipe",
+      "file": "vegan-spinach-artichoke-dip.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-strawberry-streusel-muffins/",
+      "status": "recipe",
+      "file": "vegan-strawberry-streusel-muffins.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-tacos/",
+      "status": "recipe",
+      "file": "vegan-tacos.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-tagine-with-chickpeas/",
+      "status": "recipe",
+      "file": "vegan-tagine-with-chickpeas.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-tahini-brownies-fudgy-and-gluten-free/",
+      "status": "recipe",
+      "file": "vegan-tahini-brownies-fudgy-and-gluten-free.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-thai-green-curry/",
+      "status": "recipe",
+      "file": "vegan-thai-green-curry.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-thai-kabocha-squash-curry/",
+      "status": "recipe",
+      "file": "vegan-thai-kabocha-squash-curry.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-thanksgiving-mushroom-stuffing/",
+      "status": "recipe",
+      "file": "vegan-thanksgiving-mushroom-stuffing.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-triple-chocolate-cookies/",
+      "status": "recipe",
+      "file": "vegan-triple-chocolate-cookies.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-tuna-salad-sandwich/",
+      "status": "recipe",
+      "file": "vegan-tuna-salad-sandwich.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-tzatziki/",
+      "status": "recipe",
+      "file": "vegan-tzatziki.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-vanilla-layer-cake-with-raspberry-jam/",
+      "status": "recipe",
+      "file": "vegan-vanilla-layer-cake-with-raspberry-jam.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-west-african-peanut-stew/",
+      "status": "recipe",
+      "file": "vegan-west-african-peanut-stew.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-wild-rice-stuffed-squash/",
+      "status": "recipe",
+      "file": "vegan-wild-rice-stuffed-squash.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/vegan-zucchini-fritters/",
+      "status": "recipe",
+      "file": "vegan-zucchini-fritters.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/warm-lentil-salad-with-delicata-squash-and-cilantro-cashew-cream/",
+      "status": "recipe",
+      "file": "warm-lentil-salad-with-delicata-squash-and-cilantro-cashew-cream.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/watermelon-cucumber-salad-with-mint-and-basil/",
+      "status": "recipe",
+      "file": "watermelon-cucumber-salad-with-mint-and-basil.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/white-bean-soup/",
+      "status": "recipe",
+      "file": "white-bean-soup.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/zaatar-white-bean-stuffed-sweet-potatoes/",
+      "status": "recipe",
+      "file": "zaatar-white-bean-stuffed-sweet-potatoes.json",
+      "recipe_count": 1
+    },
+    {
+      "url": "https://rainbowplantlife.com/zucchini-salad/",
+      "status": "recipe",
+      "file": "zucchini-salad.json",
+      "recipe_count": 1
+    }
+  ]
+}

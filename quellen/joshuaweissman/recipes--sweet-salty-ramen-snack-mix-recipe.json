@@ -1,0 +1,83 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/sweet-salty-ramen-snack-mix-recipe",
+  "recipes": [
+    {
+      "name": "Sweet & Salty Instant Ramen Snack Mix",
+      "source_url": "https://www.joshuaweissman.com/recipes/sweet-salty-ramen-snack-mix-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "5 minutes",
+      "cook_time": "5 minutes",
+      "total_time": "10 minutes",
+      "ingredients": [
+        "Vegetable or peanut oil for frying",
+        "2 packages (260g) Shin Black Ramen, (use 2 noodles, use seasoning packets but omit the vegetable packets)",
+        "1 cup (140g) toasted salted cashews",
+        "1 cup (140g) candied pecans",
+        "1 cup (170g) M&M’s",
+        "2 cups (72g) salted kettle cooked potato chips",
+        "1 cup (42g) mini pretzel sticks"
+      ],
+      "instructions": [
+        "Fill a Dutch oven or heavy-bottomed pan halfway with vegetable oil and heat to 350°F (176°C).",
+        "Fry dry ramen noodles in chunks, stirring as they fry up and get golden and crunchy, about 1-2 minutes.",
+        "Season with seasoning packets immediately after frying so the seasoning adheres. Pick and choose your seasoning. I used 1 package each of the red and gold, then let the fried ramen noodle chunks cool completely.",
+        "Combine and toss everything together. Serve and enjoy!"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "Vegetable or peanut oil for frying"
+        },
+        {
+          "tag": "li",
+          "text": "2 packages (260g) Shin Black Ramen, (use 2 noodles, use seasoning packets but omit the vegetable packets)"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup (140g) toasted salted cashews"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup (140g) candied pecans"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup (170g) M&M’s"
+        },
+        {
+          "tag": "li",
+          "text": "2 cups (72g) salted kettle cooked potato chips"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup (42g) mini pretzel sticks"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Fill a Dutch oven or heavy-bottomed pan halfway with vegetable oil and heat to 350°F (176°C)."
+        },
+        {
+          "tag": "li",
+          "text": "Fry dry ramen noodles in chunks, stirring as they fry up and get golden and crunchy, about 1-2 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Season with seasoning packets immediately after frying so the seasoning adheres. Pick and choose your seasoning. I used 1 package each of the red and gold, then let the fried ramen noodle chunks cool completely."
+        },
+        {
+          "tag": "li",
+          "text": "Combine and toss everything together. Serve and enjoy!"
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

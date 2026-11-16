@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/easiest-spicy-avocado-toast-recipe",
+  "recipes": [
+    {
+      "name": "The Easiest Spicy Avocado Toast (3 Ingredients)",
+      "source_url": "https://www.joshuaweissman.com/recipes/easiest-spicy-avocado-toast-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "2",
+      "prep_time": "2 minutes",
+      "cook_time": "3 minutes",
+      "total_time": "5 minutes",
+      "ingredients": [
+        "1 ripe avocado, pit removed, thinly sliced",
+        "Kosher salt to taste",
+        "2 slices sourdough boule, sliced ½-inch thick and toasted",
+        "Spicy chili crisp, to taste"
+      ],
+      "instructions": [
+        "Toast two slices of your favorite bread until golden.",
+        "Halve your avocado, remove the pit, and cut into fourths. Using your fingers, peel off the skins and thinly slice. Let your knife slice through and don’t press down on the avocado or it will mash and bruise.",
+        "Fan out the avocado on top of your toasted bread, season with salt and drizzle as much chili crisp as you can handle. Serve and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 ripe avocado, pit removed, thinly sliced"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt to taste"
+        },
+        {
+          "tag": "li",
+          "text": "2 slices sourdough boule, sliced ½-inch thick and toasted"
+        },
+        {
+          "tag": "li",
+          "text": "Spicy chili crisp, to taste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Toast two slices of your favorite bread until golden."
+        },
+        {
+          "tag": "li",
+          "text": "Halve your avocado, remove the pit, and cut into fourths. Using your fingers, peel off the skins and thinly slice. Let your knife slice through and don’t press down on the avocado or it will mash and bruise."
+        },
+        {
+          "tag": "li",
+          "text": "Fan out the avocado on top of your toasted bread, season with salt and drizzle as much chili crisp as you can handle. Serve and enjoy."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

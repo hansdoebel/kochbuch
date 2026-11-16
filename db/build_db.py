@@ -156,9 +156,10 @@ def check(conn: sqlite3.Connection) -> None:
     fk = list(conn.execute("PRAGMA foreign_key_check"))
     if fk:
         raise SystemExit(f"Fremdschlüssel verletzt: {fk}")
-    count = conn.execute("SELECT COUNT(*) AS n FROM recipe_ingredients").fetchone()["n"]
+    check_recipe_files(conn)
+    count = conn.execute("SELECT COUNT(*) AS n FROM recipe_ingredients WHERE recipe_id = 1").fetchone()["n"]
     if count != 13:
-        raise SystemExit(f"recipe_ingredients hat {count} Zeilen, erwartet 13.")
+        raise SystemExit(f"Kaiserschmarrn hat {count} Zutatenzeilen, erwartet 13.")
     lemon = conn.execute(
         """
         SELECT amount_text, preparation
@@ -199,6 +200,53 @@ def check(conn: sqlite3.Connection) -> None:
     if left != 1:
         raise SystemExit("Prüf-Eintrag für 4 Portionen ist in der Datenbank hängen geblieben.")
     print("\nPrüfung in Ordnung: Mengen, Summe des Zuckers (80 g), Vorrat, Skalierung auf 4 Portionen.")
+
+
+def check_recipe_files(conn: sqlite3.Connection, directory: Path | None = None) -> None:
+    """Alle Rezepte prüfen; das Beispielrezept darf weitere Rezepte nicht blockieren."""
+    directory = directory or ROOT.parent / "rezepte"
+    recipes = {row["slug"]: row for row in conn.execute("SELECT * FROM recipes")}
+    files = {path.stem: path for path in directory.glob("*.md")}
+    if files.keys() != recipes.keys():
+        raise SystemExit("Markdown-Dateien und recipes.slug stimmen nicht überein.")
+    for slug, path in files.items():
+        text = path.read_text(encoding="utf-8")
+        parts = text.split("---", 2)
+        if len(parts) != 3 or parts[0].strip():
+            raise SystemExit(f"{slug}: YAML-Frontmatter fehlt.")
+        fields = dict(line.split(": ", 1) for line in parts[1].strip().splitlines())
+        recipe = recipes[slug]
+        for key in ("title", "slug", "servings", "servings_label", "prep_minutes", "cook_minutes", "source"):
+            if fields.get(key) != str(recipe[key]):
+                raise SystemExit(f"{slug}: {key} weicht zwischen Markdown und Datenbank ab.")
+        source = fields.get("source", "").strip()
+        if not source:
+            raise SystemExit(f"{slug}: Quelle fehlt.")
+        for url in re.findall(r"https?://\S+", source):
+            if f"]({url})" not in parts[2]:
+                raise SystemExit(f"{slug}: sichtbarer Link zur Originalquelle fehlt.")
+        tags = {row[0] for row in conn.execute(
+            "SELECT t.name FROM tags t JOIN recipe_tags rt ON rt.tag_id = t.id WHERE rt.recipe_id = ?",
+            (recipe["id"],),
+        )}
+        if tags != {tag.strip() for tag in fields.get("tags", "").split(",")}:
+            raise SystemExit(f"{slug}: Tags weichen ab.")
+        ingredients_text = parts[2].split("## Zutaten", 1)[1].split("## Zubereitung", 1)[0]
+        lines, group = [], None
+        for line in ingredients_text.splitlines():
+            if line.startswith("### "):
+                group = line[4:]
+            elif line.startswith("- "):
+                lines.append((group, line[2:]))
+        rows = list(conn.execute(
+            "SELECT ingredient_group, amount_text FROM recipe_ingredients WHERE recipe_id = ? ORDER BY sort_order",
+            (recipe["id"],),
+        ))
+        if len(lines) != len(rows) or any(g != row[0] for (g, _), row in zip(lines, rows)):
+            raise SystemExit(f"{slug}: Zutatenzahl oder Gruppen weichen ab.")
+        # Neue Importe behalten jede übersetzte Mengenzeile zusätzlich in amount_text.
+        if "https://rainbowplantlife.com/" in source and any(line != row[1] for (_, line), row in zip(lines, rows)):
+            raise SystemExit(f"{slug}: Zutatenzeilen weichen zwischen Markdown und Datenbank ab.")
 
 
 def main(argv: list[str]) -> None:

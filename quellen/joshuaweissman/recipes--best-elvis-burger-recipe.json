@@ -1,0 +1,150 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-elvis-burger-recipe",
+  "recipes": [
+    {
+      "name": "Elvis Burger",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-elvis-burger-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "25 minutes",
+      "ingredients": [
+        "6 oz (170g) 75/25 ground beef",
+        "1 tsp (3g) black pepper",
+        "1 tsp (3g) kosher salt",
+        "1 banana, sliced lengthwise",
+        "1 Tbsp (16g) brown sugar",
+        "1.5 Tbsp (25g) peanut butter",
+        "2 slices bacon",
+        "1 slice American cheese",
+        "1 hamburger bun"
+      ],
+      "instructions": [
+        "To prepare the bananas for cooking, begin by peeling them. Cut each banana in half crosswise, and then slice each half lengthwise so that you have 4 pieces in total.",
+        "Coat a large nonstick pan with cooking spray and place the banana pieces in the pan. Sprinkle the brown sugar on top of the bananas.",
+        "Cook the bananas over medium heat for 5 minutes without flipping them. Once the 5 minutes are up, remove the pan from the heat and cover the top with a lid. Let the bananas sit while you cook the burgers.",
+        "Preheat your cast iron grill over medium-high heat.",
+        "Weigh your portion of ground beef and shape into a patty. Season both sides of the patty with salt and pepper.",
+        "Place the patty on the grill or skillet and cook for 3-4 minutes per side or until it reaches your desired level of doneness.",
+        "During the last minute of cooking, add a slice of cheese to the patty and let it melt.",
+        "Toast buns.",
+        "Place the bun heel on plate.",
+        "Add the patty on top.",
+        "Add bananas and bacon.",
+        "Spread peanut butter over top bun.",
+        "Finish with the top half of the bun."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "6 oz (170g) 75/25 ground beef"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) black pepper"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 banana, sliced lengthwise"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (16g) brown sugar"
+        },
+        {
+          "tag": "li",
+          "text": "1.5 Tbsp (25g) peanut butter"
+        },
+        {
+          "tag": "li",
+          "text": "2 slices bacon"
+        },
+        {
+          "tag": "li",
+          "text": "1 slice American cheese"
+        },
+        {
+          "tag": "li",
+          "text": "1 hamburger bun"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "p",
+          "text": "Bananas:"
+        },
+        {
+          "tag": "li",
+          "text": "To prepare the bananas for cooking, begin by peeling them. Cut each banana in half crosswise, and then slice each half lengthwise so that you have 4 pieces in total."
+        },
+        {
+          "tag": "li",
+          "text": "Coat a large nonstick pan with cooking spray and place the banana pieces in the pan. Sprinkle the brown sugar on top of the bananas."
+        },
+        {
+          "tag": "li",
+          "text": "Cook the bananas over medium heat for 5 minutes without flipping them. Once the 5 minutes are up, remove the pan from the heat and cover the top with a lid. Let the bananas sit while you cook the burgers."
+        },
+        {
+          "tag": "p",
+          "text": "Burger:"
+        },
+        {
+          "tag": "li",
+          "text": "Preheat your cast iron grill over medium-high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Weigh your portion of ground beef and shape into a patty. Season both sides of the patty with salt and pepper."
+        },
+        {
+          "tag": "li",
+          "text": "Place the patty on the grill or skillet and cook for 3-4 minutes per side or until it reaches your desired level of doneness."
+        },
+        {
+          "tag": "li",
+          "text": "During the last minute of cooking, add a slice of cheese to the patty and let it melt."
+        },
+        {
+          "tag": "p",
+          "text": "Assembly:"
+        },
+        {
+          "tag": "li",
+          "text": "Toast buns."
+        },
+        {
+          "tag": "li",
+          "text": "Place the bun heel on plate."
+        },
+        {
+          "tag": "li",
+          "text": "Add the patty on top."
+        },
+        {
+          "tag": "li",
+          "text": "Add bananas and bacon."
+        },
+        {
+          "tag": "li",
+          "text": "Spread peanut butter over top bun."
+        },
+        {
+          "tag": "li",
+          "text": "Finish with the top half of the bun."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

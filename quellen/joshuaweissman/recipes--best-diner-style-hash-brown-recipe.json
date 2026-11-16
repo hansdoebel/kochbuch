@@ -1,0 +1,72 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-diner-style-hash-brown-recipe",
+  "recipes": [
+    {
+      "name": "Diner-Style Hash Brown",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-diner-style-hash-brown-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        "2 russet potatoes, peeled, shredded",
+        "3 Tbsp (45g) clarified unsalted butter",
+        "Kosher salt and pepper to taste"
+      ],
+      "instructions": [
+        "Place shredded potatoes in a large bowl of cold water. Stir by hand or using a spatula until the water becomes cloudy. Drain the potatoes and repeat this step.",
+        "Place drained potatoes into a towel and squeeze out excess moisture.",
+        "Begin to heat clarified butter over medium heat. Once the butter is hot, add shredded potatoes into the pan in an even layer and season with salt and pepper.",
+        "Cook the potatoes for 5-8 minutes, or until a golden brown crust has formed on the bottom. Flip the potatoes and cook for an additional 5-8 minutes.",
+        "Transfer cooked potatoes to a plate to serve."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "2 russet potatoes, peeled, shredded"
+        },
+        {
+          "tag": "li",
+          "text": "3 Tbsp (45g) clarified unsalted butter"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt and pepper to taste"
+        },
+        {
+          "tag": "p",
+          "text": "‍"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Place shredded potatoes in a large bowl of cold water. Stir by hand or using a spatula until the water becomes cloudy. Drain the potatoes and repeat this step."
+        },
+        {
+          "tag": "li",
+          "text": "Place drained potatoes into a towel and squeeze out excess moisture."
+        },
+        {
+          "tag": "li",
+          "text": "Begin to heat clarified butter over medium heat. Once the butter is hot, add shredded potatoes into the pan in an even layer and season with salt and pepper."
+        },
+        {
+          "tag": "li",
+          "text": "Cook the potatoes for 5-8 minutes, or until a golden brown crust has formed on the bottom. Flip the potatoes and cook for an additional 5-8 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer cooked potatoes to a plate to serve."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-easy-rice-krispies-treats-recipe",
+  "recipes": [
+    {
+      "name": "The Easiest Brown Butter Rice Krispies Treats (3 Ingredients)",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-easy-rice-krispies-treats-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "10",
+      "prep_time": "1 hour",
+      "cook_time": "8 minutes",
+      "total_time": "1 hour",
+      "ingredients": [
+        "1 cup (224g) salted butter, plus extra for greasing the pan",
+        "2 (40 oz) bags mini marshmallows",
+        "8.5 cups (238g) crispy rice cereal (Rice Krispies preferred)"
+      ],
+      "instructions": [
+        "In a large stock pot set over medium heat, brown the butter, stirring often and watching closely so it does not burn, about 8-10 minutes.",
+        "Once the butter is browned, stir in the marshmallows a few handfuls at a time. Make sure each batch is melted and emulsified before adding the next handful.",
+        "Fold in the crispy rice cereal and make sure to evenly coat the cereal with the brown butter marshmallows.",
+        "Generously grease a non-stick 9x13 baking pan. Press the marshmallow-rice cereal mixture into the pan and set aside to cool, about an hour, and then slice and serve."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 cup (224g) salted butter, plus extra for greasing the pan"
+        },
+        {
+          "tag": "li",
+          "text": "2 (40 oz) bags mini marshmallows"
+        },
+        {
+          "tag": "li",
+          "text": "8.5 cups (238g) crispy rice cereal (Rice Krispies preferred)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "In a large stock pot set over medium heat, brown the butter, stirring often and watching closely so it does not burn, about 8-10 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Once the butter is browned, stir in the marshmallows a few handfuls at a time. Make sure each batch is melted and emulsified before adding the next handful."
+        },
+        {
+          "tag": "li",
+          "text": "Fold in the crispy rice cereal and make sure to evenly coat the cereal with the brown butter marshmallows."
+        },
+        {
+          "tag": "li",
+          "text": "Generously grease a non-stick 9x13 baking pan. Press the marshmallow-rice cereal mixture into the pan and set aside to cool, about an hour, and then slice and serve."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

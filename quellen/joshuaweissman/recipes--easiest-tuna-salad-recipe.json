@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/easiest-tuna-salad-recipe",
+  "recipes": [
+    {
+      "name": "The Easiest Tuna Salad (3 Ingredients)",
+      "source_url": "https://www.joshuaweissman.com/recipes/easiest-tuna-salad-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "5 minutes",
+      "cook_time": "0 minutes",
+      "total_time": "5 minutes",
+      "ingredients": [
+        "1 can (7oz or 198g) Albacore tuna, drained",
+        "Creamy dill salad dressing, to taste",
+        "1-2 small dill pickles, finely chopped (gherkins recommended)"
+      ],
+      "instructions": [
+        "Place your tuna into a medium mixing bowl. Using a fork, finely shred the tuna as finely as possible.",
+        "Add in your pickles and dressing and mix together until combined.",
+        "Season to taste with salt and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 can (7oz or 198g) Albacore tuna, drained"
+        },
+        {
+          "tag": "li",
+          "text": "Creamy dill salad dressing, to taste"
+        },
+        {
+          "tag": "li",
+          "text": "1-2 small dill pickles, finely chopped (gherkins recommended)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Place your tuna into a medium mixing bowl. Using a fork, finely shred the tuna as finely as possible."
+        },
+        {
+          "tag": "li",
+          "text": "Add in your pickles and dressing and mix together until combined."
+        },
+        {
+          "tag": "li",
+          "text": "Season to taste with salt and enjoy."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

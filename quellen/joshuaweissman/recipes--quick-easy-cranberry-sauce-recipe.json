@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/quick-easy-cranberry-sauce-recipe",
+  "recipes": [
+    {
+      "name": "Quick & Easy Cranberry Sauce",
+      "source_url": "https://www.joshuaweissman.com/recipes/quick-easy-cranberry-sauce-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "10",
+      "prep_time": "3-5 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "25 minutes",
+      "ingredients": [
+        "1 (12oz/340g) package of fresh cranberries, or frozen and thawed",
+        "1 cup (130g) granulated sugar",
+        "1 orange or lemon, zested and juiced"
+      ],
+      "instructions": [
+        "In a medium saucepan, add the cranberries, sugar, 1/2 cup (120 ml) filtered water, and the orange or lemon zest and juice. Stir to combine.",
+        "Heat over medium-high and bring to a boil, stirring occasionally. Reduce the heat to low and simmer for 15 minutes until the cranberries have popped and the liquid has evaporated to create a thick, syrupy sauce (the sauce will also thicken as it cools.).",
+        "Set aside to cool completely then pour into a serving bowl or into an airtight container to store in the fridge until ready to use."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 (12oz/340g) package of fresh cranberries, or frozen and thawed"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup (130g) granulated sugar"
+        },
+        {
+          "tag": "li",
+          "text": "1 orange or lemon, zested and juiced"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "In a medium saucepan, add the cranberries, sugar, 1/2 cup (120 ml) filtered water, and the orange or lemon zest and juice. Stir to combine."
+        },
+        {
+          "tag": "li",
+          "text": "Heat over medium-high and bring to a boil, stirring occasionally. Reduce the heat to low and simmer for 15 minutes until the cranberries have popped and the liquid has evaporated to create a thick, syrupy sauce (the sauce will also thicken as it cools.)."
+        },
+        {
+          "tag": "li",
+          "text": "Set aside to cool completely then pour into a serving bowl or into an airtight container to store in the fridge until ready to use."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

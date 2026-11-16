@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/perfectly-crispy-fried-shallots-recipe",
+  "recipes": [
+    {
+      "name": "Perfectly Crispy Fried Shallots",
+      "source_url": "https://www.joshuaweissman.com/recipes/perfectly-crispy-fried-shallots-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "5 min",
+      "cook_time": "10 min",
+      "total_time": "15 min",
+      "ingredients": [
+        "4 medium shallots, peeled and sliced into ¼” (.6cm) thick rounds",
+        "Vegetable oil, for frying",
+        "Kosher salt, to taste"
+      ],
+      "instructions": [
+        "Place the shallots in a cold medium-sized saucepot and add just enough vegetable oil to completely submerge the shallots. Set over medium heat and slowly bring to a gentle simmer, stirring constantly. Continue to cook and stir until the bubbling subsides and the shallots are light golden brown, about 5-8 minutes.",
+        "Using a spider or fine-mesh strainer, drain briefly over the pot then immediately transfer the shallots to a paper towel-lined baking sheet. Spread the shallots out in a single layer to prevent them from becoming soggy. Season to taste with salt while still hot.",
+        "Let cool completely at room temperature before serving. Store in an airtight container at room temperature for 1-2 days."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "4 medium shallots, peeled and sliced into ¼” (.6cm) thick rounds"
+        },
+        {
+          "tag": "li",
+          "text": "Vegetable oil, for frying"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt, to taste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Place the shallots in a cold medium-sized saucepot and add just enough vegetable oil to completely submerge the shallots. Set over medium heat and slowly bring to a gentle simmer, stirring constantly. Continue to cook and stir until the bubbling subsides and the shallots are light golden brown, about 5-8 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Using a spider or fine-mesh strainer, drain briefly over the pot then immediately transfer the shallots to a paper towel-lined baking sheet. Spread the shallots out in a single layer to prevent them from becoming soggy. Season to taste with salt while still hot."
+        },
+        {
+          "tag": "li",
+          "text": "Let cool completely at room temperature before serving. Store in an airtight container at room temperature for 1-2 days."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-easy-homemade-flour-recipe",
+  "recipes": [
+    {
+      "name": "How To Make Your Own Flour At Home",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-easy-homemade-flour-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "5 minutes",
+      "cook_time": "0 minutes",
+      "total_time": "5 minutes",
+      "ingredients": [
+        "Flour Mill",
+        "Thermometer",
+        "Grain"
+      ],
+      "instructions": [
+        "Place your choice of grain into the flour mill and set it at the finest setting. Make sure your flour does not go above 110℉ when milling.",
+        "Once your flour is ground, sift through a fine mesh sifter to remove any bran."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Items Used:"
+        },
+        {
+          "tag": "li",
+          "text": "Flour Mill"
+        },
+        {
+          "tag": "li",
+          "text": "Thermometer"
+        },
+        {
+          "tag": "p",
+          "text": "Ingredients:"
+        },
+        {
+          "tag": "li",
+          "text": "Grain"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Place your choice of grain into the flour mill and set it at the finest setting. Make sure your flour does not go above 110℉ when milling."
+        },
+        {
+          "tag": "li",
+          "text": "Once your flour is ground, sift through a fine mesh sifter to remove any bran."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

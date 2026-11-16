@@ -1,0 +1,78 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-easy-fruit-jam-recipes",
+  "recipes": [
+    {
+      "name": "The Easiest Way To Make Any Homemade Fruit Jam (feat. Krewella)",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-easy-fruit-jam-recipes",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "6",
+      "prep_time": "5 minutes",
+      "cook_time": "15-20 minutes",
+      "total_time": "20-25 minutes",
+      "ingredients": [
+        "¼ cup (52g) - ⅔ cup (136g) granulated sugar per pound (450g) of fruit",
+        "½ teaspoon (2ml) acid per pound of fruit (lemon, vinegar, other citrus juice)"
+      ],
+      "instructions": [
+        "Peel fruit then cut into small pieces. Toss in sugar, leave for 1-2 hours or overnight in the fridge wrapped in plastic to macerate. Start at 52g sugar per pound of fruit. Add more after the macerating process if necessary.",
+        "*Simmering time will vary based on the amount of fruit used. For 1 pound of fruit expect it to take around 15-20 minutes. Optional for raspberries: ½ cup (104g) sugar for every pound of fruit.",
+        "Put macerated fruit in a pot, add 2 Tbsp of acid to activate pectin, the chemical that activates the thickening of fruit.",
+        "Cool in a metal bowl and ice bath set up.",
+        "OPTIONAL: Strain seedy berry jams through sieve or chinois if needed",
+        "Store and use as needed."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Guideline: Any fruit at any amount."
+        },
+        {
+          "tag": "p",
+          "text": "Basic sugar to fruit ratio:"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup (52g) - ⅔ cup (136g) granulated sugar per pound (450g) of fruit"
+        },
+        {
+          "tag": "li",
+          "text": "½ teaspoon (2ml) acid per pound of fruit (lemon, vinegar, other citrus juice)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Peel fruit then cut into small pieces. Toss in sugar, leave for 1-2 hours or overnight in the fridge wrapped in plastic to macerate. Start at 52g sugar per pound of fruit. Add more after the macerating process if necessary."
+        },
+        {
+          "tag": "li",
+          "text": "*Simmering time will vary based on the amount of fruit used. For 1 pound of fruit expect it to take around 15-20 minutes. Optional for raspberries: ½ cup (104g) sugar for every pound of fruit."
+        },
+        {
+          "tag": "li",
+          "text": "Put macerated fruit in a pot, add 2 Tbsp of acid to activate pectin, the chemical that activates the thickening of fruit."
+        },
+        {
+          "tag": "li",
+          "text": "Cool in a metal bowl and ice bath set up."
+        },
+        {
+          "tag": "li",
+          "text": "OPTIONAL: Strain seedy berry jams through sieve or chinois if needed"
+        },
+        {
+          "tag": "li",
+          "text": "Store and use as needed."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

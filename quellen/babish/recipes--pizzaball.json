@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.babi.sh/recipes/pizzaball",
+  "recipes": [
+    {
+      "name": "Pizza Ball inspired by The Eric Andre Show",
+      "source_url": "https://www.babi.sh/recipes/pizzaball",
+      "recipe_id": null,
+      "authors": [
+        "bingingwithbabish"
+      ],
+      "publisher": "Babish",
+      "language": "en",
+      "yield": "4 servings",
+      "prep_time": "PT0S",
+      "cook_time": "PT3600S",
+      "total_time": "PT3600S",
+      "ingredients": [
+        "Prepared Pizza Dough (homemade or store bought)",
+        "Flour (for work surface)",
+        "Pepperoni",
+        "Mozzarella Cheese, cubed",
+        "Vegetable Oil",
+        "Parmesan Cheese (the powdered kind the jar)",
+        "Oregano",
+        "Red Pepper Flakes",
+        "Marinara Sauce"
+      ],
+      "instructions": [
+        "Start by rolling out your pizza dough on a liberally floured work surface. Cut into 1 inch squares. - Flour (for work surface) - Prepared Pizza Dough (homemade or store bought)",
+        "Add some pepperoni and one cube of mozzarella cheese to the square of dough. Wrap each corner up and around the mozzarella clockwise, being sure to pinch all gaps closed. - Pepperoni - Mozzarella Cheese cubed",
+        "In a cast iron skillet, heat 1 inch of vegetable oil to 350°F and add your pizza balls. Flip and fry for about 5 minutes until they are deeply golden brown. - Vegetable Oil",
+        "In a separate bowl combine: parmesan cheese, a few healthy dashes of oregano, and red pepper flakes. - Parmesan Cheese (the powdered kind the jar) - Oregano - Red Pepper Flakes",
+        "Remove pizza balls from the cast iron and toss them in the parmesan mixture.",
+        "Serve with a side of warm marinara sauce and enjoy! - Marinara Sauce"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": []
+    }
+  ],
+  "page_recipe_notes": []
+}

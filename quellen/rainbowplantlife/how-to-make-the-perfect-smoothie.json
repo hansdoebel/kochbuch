@@ -1,0 +1,35 @@
+{
+  "source_url": "https://rainbowplantlife.com/how-to-make-the-perfect-smoothie/",
+  "recipes": [
+    {
+      "name": "Raspberry Tahini Smoothie",
+      "source_url": "https://rainbowplantlife.com/how-to-make-the-perfect-smoothie/",
+      "recipe_id": "https://rainbowplantlife.com/how-to-make-the-perfect-smoothie/#recipe",
+      "authors": [
+        "Nisha Vora"
+      ],
+      "publisher": "Rainbow Plant Life",
+      "language": "en",
+      "yield": [
+        "1"
+      ],
+      "prep_time": "PT5M",
+      "cook_time": "PT2M",
+      "total_time": "PT7M",
+      "ingredients": [
+        "1 cup coconut milk (from a carton, not a can)",
+        "1 large frozen banana",
+        "1 cup frozen raspberries",
+        "1/2 cup frozen zucchini or cauliflower ((optional))",
+        "2 tablespoons tahini",
+        "1/2 cup silken soft tofu",
+        "1 teaspoon ground cinnamon",
+        "1 tablespoons flaxseed meal"
+      ],
+      "instructions": [
+        "Add all ingredients to a blender. Blend until smooth."
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

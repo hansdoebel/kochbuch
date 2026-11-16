@@ -1,0 +1,68 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/homemade-quick-easy-turkey-stock-recipe",
+  "recipes": [
+    {
+      "name": "Homemade Quick & Easy Turkey Stock",
+      "source_url": "https://www.joshuaweissman.com/recipes/homemade-quick-easy-turkey-stock-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "5-10 minutes",
+      "cook_time": "3.5 hours",
+      "total_time": "3.5 hours",
+      "ingredients": [
+        "1 raw turkey spine",
+        "1 raw turkey neck",
+        "1 yellow or white onion, roughly chopped",
+        "1 large carrot, roughly chopped",
+        "1 rib of Celery, roughly chopped"
+      ],
+      "instructions": [
+        "In a large saucepan, add all ingredients and cover with 6 cups (1.4L) of cold water, or enough to completely cover the bones.",
+        "Bring to a boil over medium-high heat. As soon as the stock reaches a boil, reduce the heat to low and simmer for 3 hours.",
+        "Skim the broth scum that’s settled at the top of the stock then strain over a fine mesh sieve into a clean pot. Discard the solids and reserve the stock for stuffing."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 raw turkey spine"
+        },
+        {
+          "tag": "li",
+          "text": "1 raw turkey neck"
+        },
+        {
+          "tag": "li",
+          "text": "1 yellow or white onion, roughly chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 large carrot, roughly chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 rib of Celery, roughly chopped"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "In a large saucepan, add all ingredients and cover with 6 cups (1.4L) of cold water, or enough to completely cover the bones."
+        },
+        {
+          "tag": "li",
+          "text": "Bring to a boil over medium-high heat. As soon as the stock reaches a boil, reduce the heat to low and simmer for 3 hours."
+        },
+        {
+          "tag": "li",
+          "text": "Skim the broth scum that’s settled at the top of the stock then strain over a fine mesh sieve into a clean pot. Discard the solids and reserve the stock for stuffing."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

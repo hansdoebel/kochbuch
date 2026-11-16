@@ -1,0 +1,48 @@
+{
+  "source_url": "https://rainbowplantlife.com/banh-mi/",
+  "recipes": [
+    {
+      "name": "Tofu Bánh Mì",
+      "source_url": "https://rainbowplantlife.com/banh-mi/",
+      "recipe_id": "https://rainbowplantlife.com/banh-mi/#recipe",
+      "authors": [
+        "Nisha Vora"
+      ],
+      "publisher": "Rainbow Plant Life",
+      "language": "en",
+      "yield": [
+        "4",
+        "4 to 6"
+      ],
+      "prep_time": "PT60M",
+      "cook_time": "PT20M",
+      "total_time": "PT80M",
+      "ingredients": [
+        "Pickled Daikon and Carrots ((aka Đồ Chua, see 2nd recipe card))",
+        "Vegan Pâté ((optional but recommended, see 3rd recipe card))",
+        "Chili-Lemongrass Glazed Tofu ((see 4th recipe card))",
+        "4 to 6 Vietnamese baguette-style rolls, (French or Italian loaves/rolls, ciabatta rolls, or hoagie rolls (see Note 1))",
+        "¾ cup (168g) vegan mayo ((see Note 2) )",
+        "1 ½ teaspoons Bragg’s liquid aminos ((for alternatives, see Note 3))",
+        "~15 twists of freshly cracked black pepper",
+        "Several handfuls of cilantro sprigs ((remove tough stems))",
+        "A few handfuls of fresh mint leaves ((optional but delicious))",
+        "Jalapeños, serranos, or Fresno peppers, (sliced (for a kick!))",
+        "Sliced cucumber spears ((optional))"
+      ],
+      "instructions": [
+        "Make the Pickled Daikon and Carrots (Đồ Chua) at least 1 hour in advance (or a few days in advance). Make the Vegan Pâté (up to a few days in advance). Make the Chili-Glazed Tofu.",
+        "Make the Simple Umami Mayo: In a bowl, use a fork to whisk together the mayo, liquid aminos, and black pepper until smooth and well combined. Taste and add more black pepper or liquid aminos as desired. Refrigerate until ready to use.",
+        "Lightly toast the bread: Preheat the oven to 325ºF/160ºC. Add the bread to the oven rack and toast for 3 to 5 minutes or until lightly crisp. Allow to cool (so it doesn’t melt the mayo or pâté).",
+        "Slice the bread: Lay the baguette or roll flat on a cutting board, seam side down if there is one. Using a serrated knife, slice along the length of the bread, but stop before cutting all the way through, leaving the back edge intact so the two halves stay connected (i.e., cut the bread \"hot dog style\").If there’s a lot of dough inside, scoop out a bit of the soft interior to make room for fillings.",
+        "Assemble: Spread the Simple Umami Mayo across both sides of the bread. Top with the Vegan Pâté on both sides (I like to be generous with it). Add the Chili-Glazed Tofu followed by the Pickled Daikon and Carrots. Top with cilantro sprigs and other optional toppings. Close the sandwiches, then slice in half for easier eating."
+      ]
+    }
+  ],
+  "page_recipe_notes": [
+    "Notes Bánh Mì is best with softer, less artisanal breads. Don’t use something very crusty like sourdough or anything too chewy/dense. For vegan mayo brands, we love JUST Mayo, as well as Follow Your Heart Vegenaise. If you aren’t making the pâté, you may want to increase the umami mayo quantity so you have enough spread for the sandwiches: start with 1 cup (225g) vegan mayo, 2 teaspoons Bragg’s liquid seasoning, and ~20 twists of black pepper. Maggi seasoning is traditionally used so you can use that if you prefer (start slowly), but Bragg’s liquid aminos is a pretty good substitute (both are rich, salty umami-rich products made via hydrolyzed proteins). It’s NOT the same as coconut aminos, which is quite sweet. If not available, use soy sauce (though you’ll likely want to use more than the amount listed, as it’s milder in effect). As always nutritional calculations are automatically calculated and should be used only as an estimate. The calculations do not include the optional pâté.",
+    "Notes You can find daikon radish at well-stocked supermarkets as well as Asian grocers. It brings a juicy, subtle radish flavor and a nice crunch. If it’s not available, you can try substituting with white turnips (a bit earthier) or jicama (sweeter, with no bite). I would avoid “regular” red radishes, as they’re too peppery and assertive. Thicker pieces will take longer to pickle but will have more bite/crunch. To speed things up a bit, you can use a julienne peeler, or a julienne blade on a mandoline or food processor; these may yield thinner pieces, which won’t have as much bite/crunch.",
+    "Notes If you don’t have canned lentils , you could also use canned chickpeas, though the flavor will be a bit less earthy/savory. Or, cook dried green or brown lentils until soft (you’ll only need to cook a heaping 1/3 cup / 80g of dried lentils).",
+    "Notes If your tofu blocks weighs more, I recommend slicing off excess so that you use no more than 24 oz (680g), as this is the maximum amount of tofu that will fit in a large frying pan. You can use more tofu, but you’ll need to fry it in two batches. If using a stainless steel pan : Heat the pan over medium-high for a few minutes, or until a droplet of water glides across the pan ( see video explainer ). Then add the oil, slightly lowering the heat to prevent the oil from smoking. Add the tofu and cook undisturbed until it’s time to flip. Don’t try to flip the tofu early, as it will stick!"
+  ]
+}

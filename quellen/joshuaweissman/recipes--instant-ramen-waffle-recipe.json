@@ -1,0 +1,68 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/instant-ramen-waffle-recipe",
+  "recipes": [
+    {
+      "name": "Instant Ramen Waffle",
+      "source_url": "https://www.joshuaweissman.com/recipes/instant-ramen-waffle-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "5 minutes",
+      "cook_time": "5 minutes",
+      "total_time": "10 minutes",
+      "ingredients": [
+        "1 packet (185g) Prima Taste Laksa La Mian Noodles (use noodles and seasoning packets, to taste)",
+        "1 egg, beaten",
+        "Nonstick cooking spray"
+      ],
+      "instructions": [
+        "Preheat waffle iron.",
+        "Cook ramen to package directions in boiling water. Once cooked, drain the noodles, add to a large mixing bowl, and season to taste with spice packets. Toss until combined and set aside.",
+        "Crack 1 egg into the cooked noodles and mix thoroughly.",
+        "Spray the preheated waffle iron with cooking spray. Place noodles in the iron and close the lid. Cook until golden brown, 2 to 3 minutes.",
+        "Plate and garnish with the topping(s) of your choice."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 packet (185g) Prima Taste Laksa La Mian Noodles (use noodles and seasoning packets, to taste)"
+        },
+        {
+          "tag": "li",
+          "text": "1 egg, beaten"
+        },
+        {
+          "tag": "li",
+          "text": "Nonstick cooking spray"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Preheat waffle iron."
+        },
+        {
+          "tag": "li",
+          "text": "Cook ramen to package directions in boiling water. Once cooked, drain the noodles, add to a large mixing bowl, and season to taste with spice packets. Toss until combined and set aside."
+        },
+        {
+          "tag": "li",
+          "text": "Crack 1 egg into the cooked noodles and mix thoroughly."
+        },
+        {
+          "tag": "li",
+          "text": "Spray the preheated waffle iron with cooking spray. Place noodles in the iron and close the lid. Cook until golden brown, 2 to 3 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Plate and garnish with the topping(s) of your choice."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

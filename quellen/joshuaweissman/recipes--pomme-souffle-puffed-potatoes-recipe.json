@@ -1,0 +1,82 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/pomme-souffle-puffed-potatoes-recipe",
+  "recipes": [
+    {
+      "name": "Pomme Souffle | Puffed Potatoes",
+      "source_url": "https://www.joshuaweissman.com/recipes/pomme-souffle-puffed-potatoes-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        "2.5 quarts (2.5L) Vegetable oil for frying",
+        "2 russet potatoes",
+        "1.5 Tbsp (30g) corn starch",
+        "Kosher salt to taste"
+      ],
+      "instructions": [
+        "Heat vegetable oil in a 7 quart pot until 325°F (160°C).",
+        "Peel and slice your potatoes about ⅛ inch thick.",
+        "Dust half of your potato sheets with cornstarch, ensuring to brush off excess starch, and lay the second half of your slices over the dusted ones.",
+        "Cut each double layer using a 5cm ring cutter, yield should be 3-4 discs per slice depending on size, and pat dry using a paper towel",
+        "Fry discs in hot oil for 20 seconds then flip over and cook for another 20 seconds, season potatoes with salt and reserve on a wire rack or anything that excess oil can drip or be absorbed on",
+        "Serve hot and enjoy!"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "2.5 quarts (2.5L) Vegetable oil for frying"
+        },
+        {
+          "tag": "li",
+          "text": "2 russet potatoes"
+        },
+        {
+          "tag": "li",
+          "text": "1.5 Tbsp (30g) corn starch"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt to taste"
+        },
+        {
+          "tag": "p",
+          "text": "‍"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Heat vegetable oil in a 7 quart pot until 325°F (160°C)."
+        },
+        {
+          "tag": "li",
+          "text": "Peel and slice your potatoes about ⅛ inch thick."
+        },
+        {
+          "tag": "li",
+          "text": "Dust half of your potato sheets with cornstarch, ensuring to brush off excess starch, and lay the second half of your slices over the dusted ones."
+        },
+        {
+          "tag": "li",
+          "text": "Cut each double layer using a 5cm ring cutter, yield should be 3-4 discs per slice depending on size, and pat dry using a paper towel"
+        },
+        {
+          "tag": "li",
+          "text": "Fry discs in hot oil for 20 seconds then flip over and cook for another 20 seconds, season potatoes with salt and reserve on a wire rack or anything that excess oil can drip or be absorbed on"
+        },
+        {
+          "tag": "li",
+          "text": "Serve hot and enjoy!"
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

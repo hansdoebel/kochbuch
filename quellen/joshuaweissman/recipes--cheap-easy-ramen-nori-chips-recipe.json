@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/cheap-easy-ramen-nori-chips-recipe",
+  "recipes": [
+    {
+      "name": "Cheap & Easy Ramen Nori Chips",
+      "source_url": "https://www.joshuaweissman.com/recipes/cheap-easy-ramen-nori-chips-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "5 minutes",
+      "cook_time": "5 minutes",
+      "total_time": "10 minutes",
+      "ingredients": [
+        "10 sheets nori, cut into 3-4” (7.5-10cm) squares",
+        "Vegetable or olive oil, for brushing",
+        "2 packets ramen seasoning of your choice, from packaged ramen"
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F (175°C).",
+        "Lightly brush both sides of each square of nori with vegetable oil and then lightly sprinkle both sides with the ramen seasoning.",
+        "Lay the seasoned sheets onto a baking sheet and bake in the oven for 4-5 minutes, or until very crispy.",
+        "Cool the chips on a cooling rack for 10 minutes and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "10 sheets nori, cut into 3-4” (7.5-10cm) squares"
+        },
+        {
+          "tag": "li",
+          "text": "Vegetable or olive oil, for brushing"
+        },
+        {
+          "tag": "li",
+          "text": "2 packets ramen seasoning of your choice, from packaged ramen"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Preheat the oven to 350°F (175°C)."
+        },
+        {
+          "tag": "li",
+          "text": "Lightly brush both sides of each square of nori with vegetable oil and then lightly sprinkle both sides with the ramen seasoning."
+        },
+        {
+          "tag": "li",
+          "text": "Lay the seasoned sheets onto a baking sheet and bake in the oven for 4-5 minutes, or until very crispy."
+        },
+        {
+          "tag": "li",
+          "text": "Cool the chips on a cooling rack for 10 minutes and enjoy."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

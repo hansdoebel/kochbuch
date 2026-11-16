@@ -1,0 +1,93 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/instant-ramen-pizza-recipe",
+  "recipes": [
+    {
+      "name": "Instant Ramen Pizza",
+      "source_url": "https://www.joshuaweissman.com/recipes/instant-ramen-pizza-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "5 minutes",
+      "cook_time": "25 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        "2 packages (260g) Shin Black Ramen (use both noodles and 1-2 seasoning packets to taste)",
+        "3 Tbsp (44ml) extra virgin olive oil",
+        "¾ cup (177ml) homemade or store-bought pizza sauce",
+        "4 oz (118g) grated low moisture mozzarella",
+        "2 oz (59g) grated Parmigiano Reggiano cheese",
+        "10-12 (25-30g) pepperoni slices"
+      ],
+      "instructions": [
+        "Adjust oven rack to center position and preheat oven to 400°F (204°C).",
+        "Bring a large pot of salted water to a boil. Add noodles and cook until flexible but not completely softened, about 2 minutes. Drain carefully.",
+        "Add your noodles to a large mixing bowl and toss with 1 each of the red and gold seasoning packets, or to taste.",
+        "Add noodles to a 10-inch cast iron skillet and press down into an even layer that completely covers the bottom of the skillet. Drizzle olive oil around the edges of the pan to help the ramen brown and get crispy. Spread the sauce evenly over the noodles leaving a bit of a border around the edges.",
+        "Top with the cheeses and pepperoni slices.",
+        "Bake until the top is browned and bubbly, about 20 minutes.",
+        "Allow to cool slightly, then use a thin metal spatula to loosen edges from the skillet. Carefully slide pizza out onto the cutting board. Slice and serve immediately."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "2 packages (260g) Shin Black Ramen (use both noodles and 1-2 seasoning packets to taste)"
+        },
+        {
+          "tag": "li",
+          "text": "3 Tbsp (44ml) extra virgin olive oil"
+        },
+        {
+          "tag": "li",
+          "text": "¾ cup (177ml) homemade or store-bought pizza sauce"
+        },
+        {
+          "tag": "li",
+          "text": "4 oz (118g) grated low moisture mozzarella"
+        },
+        {
+          "tag": "li",
+          "text": "2 oz (59g) grated Parmigiano Reggiano cheese"
+        },
+        {
+          "tag": "li",
+          "text": "10-12 (25-30g) pepperoni slices"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Adjust oven rack to center position and preheat oven to 400°F (204°C)."
+        },
+        {
+          "tag": "li",
+          "text": "Bring a large pot of salted water to a boil. Add noodles and cook until flexible but not completely softened, about 2 minutes. Drain carefully."
+        },
+        {
+          "tag": "li",
+          "text": "Add your noodles to a large mixing bowl and toss with 1 each of the red and gold seasoning packets, or to taste."
+        },
+        {
+          "tag": "li",
+          "text": "Add noodles to a 10-inch cast iron skillet and press down into an even layer that completely covers the bottom of the skillet. Drizzle olive oil around the edges of the pan to help the ramen brown and get crispy. Spread the sauce evenly over the noodles leaving a bit of a border around the edges."
+        },
+        {
+          "tag": "li",
+          "text": "Top with the cheeses and pepperoni slices."
+        },
+        {
+          "tag": "li",
+          "text": "Bake until the top is browned and bubbly, about 20 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Allow to cool slightly, then use a thin metal spatula to loosen edges from the skillet. Carefully slide pizza out onto the cutting board. Slice and serve immediately."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

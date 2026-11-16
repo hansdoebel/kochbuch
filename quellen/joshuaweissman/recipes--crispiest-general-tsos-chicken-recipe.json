@@ -1,0 +1,204 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/crispiest-general-tsos-chicken-recipe",
+  "recipes": [
+    {
+      "name": "General Tso’s Chicken",
+      "source_url": "https://www.joshuaweissman.com/recipes/crispiest-general-tsos-chicken-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "10 minutes",
+      "cook_time": "5 minutes",
+      "total_time": "15 minutes",
+      "ingredients": [
+        "1.5 lbs (675g) boneless skinless chicken thighs, cut into 1” (2.5cm) pieces",
+        "2 tsp (8g) kosher salt, plus more to tate",
+        "1 Tbsp (15g) soy sauce",
+        "1 Tbsp (15g) Shaoxing wine",
+        "1” (2.5cm) knob fresh ginger, peeled and finely chopped",
+        "2 cloves garlic, finely chopped",
+        "½ cup (60g) cornstarch",
+        "½ cup (70g) all-purpose flour",
+        "3.5 quarts (3.3L) vegetable oil, for frying",
+        "1 Tbsp (15g) cornstarch",
+        "1.5 Tbsp (22g) white distilled vinegar",
+        "2 Tbsp (30g) vegetable oil",
+        "2” (5cm) knob ginger, peeled and finely chopped",
+        "4 cloves garlic, finely chopped",
+        "5 dried red Korean chili peppers",
+        "1 tsp (4g) Sichuan chili flakes",
+        "3 Tbsp (45g) granulated sugar",
+        "½ cup (120ml) chicken stock",
+        "3 Tbsp (45g) soy sauce",
+        "1 Tbsp (15g) Shaoxing wine",
+        "Toasted white sesame seeds, for garnish",
+        "Thinly sliced green onions, for garnish"
+      ],
+      "instructions": [
+        "In a large mixing bowl combine the chicken, salt, soy sauce, Shaoxing wine, ginger, and garlic and toss by hand to fully coat the chicken in the marinade. Cover and refrigerate at least 1 hour, ideally overnight.",
+        "Fill a 7-8 quart (6.6-7.5L) heavy bottomed pot just over halfway with oil. Heat to 350℉ (175℃). Line a baking sheet with a cooling rack and paper towels and place that next to the hot oil.",
+        "While the oil is heating, make the dredge. In a large mixing bowl combine the cornstarch, flour and salt, to taste. Add the marinated chicken to the dredge and toss by hand to fully coat, making sure you shake any excess starch from the chicken before frying.",
+        "Once the oil is hot, fry 3-5 minutes or until the chicken is golden brown and cooked through. Using a spider, transfer the cooked chicken to a paper towel-lined baking sheet to drain of excess oil. Season lightly with salt.",
+        "Heat a wok over medium-high heat. Add the oil and swirl to coat.",
+        "While the wok heats, make a slurry by adding cornstarch and vinegar to a small bowl and mixing until combined. Set aside.",
+        "Into the hot wok, add the ginger, garlic, dried chili pepper, and chili flakes and saute just until the chiles begin to toast, around 10-30 seconds. Add the sugar, chicken stock, soy sauce, and Shaoxing wine, and bring to a boil.",
+        "Add half of the reserved slurry and stir into the sauce to thicken, adding more slurry, as needed. The sauce should be very thick, like an extra-thick teriyaki sauce.",
+        "Add the chicken and constantly toss until every piece of chicken is coated.",
+        "Transfer to a serving bowl and garnish with toasted sesame seeds and thinly sliced green onion. Serve and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Chicken:"
+        },
+        {
+          "tag": "li",
+          "text": "1.5 lbs (675g) boneless skinless chicken thighs, cut into 1” (2.5cm) pieces"
+        },
+        {
+          "tag": "li",
+          "text": "2 tsp (8g) kosher salt, plus more to tate"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) Shaoxing wine"
+        },
+        {
+          "tag": "li",
+          "text": "1” (2.5cm) knob fresh ginger, peeled and finely chopped"
+        },
+        {
+          "tag": "li",
+          "text": "2 cloves garlic, finely chopped"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (60g) cornstarch"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (70g) all-purpose flour"
+        },
+        {
+          "tag": "li",
+          "text": "3.5 quarts (3.3L) vegetable oil, for frying"
+        },
+        {
+          "tag": "p",
+          "text": "‍Sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) cornstarch"
+        },
+        {
+          "tag": "li",
+          "text": "1.5 Tbsp (22g) white distilled vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp (30g) vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "2” (5cm) knob ginger, peeled and finely chopped"
+        },
+        {
+          "tag": "li",
+          "text": "4 cloves garlic, finely chopped"
+        },
+        {
+          "tag": "li",
+          "text": "5 dried red Korean chili peppers"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (4g) Sichuan chili flakes"
+        },
+        {
+          "tag": "li",
+          "text": "3 Tbsp (45g) granulated sugar"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (120ml) chicken stock"
+        },
+        {
+          "tag": "li",
+          "text": "3 Tbsp (45g) soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) Shaoxing wine"
+        },
+        {
+          "tag": "li",
+          "text": "Toasted white sesame seeds, for garnish"
+        },
+        {
+          "tag": "li",
+          "text": "Thinly sliced green onions, for garnish"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "p",
+          "text": "Chicken:"
+        },
+        {
+          "tag": "li",
+          "text": "In a large mixing bowl combine the chicken, salt, soy sauce, Shaoxing wine, ginger, and garlic and toss by hand to fully coat the chicken in the marinade. Cover and refrigerate at least 1 hour, ideally overnight."
+        },
+        {
+          "tag": "li",
+          "text": "Fill a 7-8 quart (6.6-7.5L) heavy bottomed pot just over halfway with oil. Heat to 350℉ (175℃). Line a baking sheet with a cooling rack and paper towels and place that next to the hot oil."
+        },
+        {
+          "tag": "li",
+          "text": "While the oil is heating, make the dredge. In a large mixing bowl combine the cornstarch, flour and salt, to taste. Add the marinated chicken to the dredge and toss by hand to fully coat, making sure you shake any excess starch from the chicken before frying."
+        },
+        {
+          "tag": "li",
+          "text": "Once the oil is hot, fry 3-5 minutes or until the chicken is golden brown and cooked through. Using a spider, transfer the cooked chicken to a paper towel-lined baking sheet to drain of excess oil. Season lightly with salt."
+        },
+        {
+          "tag": "p",
+          "text": "Sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "Heat a wok over medium-high heat. Add the oil and swirl to coat."
+        },
+        {
+          "tag": "li",
+          "text": "While the wok heats, make a slurry by adding cornstarch and vinegar to a small bowl and mixing until combined. Set aside."
+        },
+        {
+          "tag": "li",
+          "text": "Into the hot wok, add the ginger, garlic, dried chili pepper, and chili flakes and saute just until the chiles begin to toast, around 10-30 seconds. Add the sugar, chicken stock, soy sauce, and Shaoxing wine, and bring to a boil."
+        },
+        {
+          "tag": "li",
+          "text": "Add half of the reserved slurry and stir into the sauce to thicken, adding more slurry, as needed. The sauce should be very thick, like an extra-thick teriyaki sauce."
+        },
+        {
+          "tag": "li",
+          "text": "Add the chicken and constantly toss until every piece of chicken is coated."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer to a serving bowl and garnish with toasted sesame seeds and thinly sliced green onion. Serve and enjoy."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

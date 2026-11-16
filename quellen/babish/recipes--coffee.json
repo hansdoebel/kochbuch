@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.babi.sh/recipes/coffee",
+  "recipes": [
+    {
+      "name": "COFFEE",
+      "source_url": "https://www.babi.sh/recipes/coffee",
+      "recipe_id": null,
+      "authors": [
+        "bingingwithbabish"
+      ],
+      "publisher": "Babish",
+      "language": "en",
+      "yield": "",
+      "prep_time": "PT0S",
+      "cook_time": "PT600S",
+      "total_time": "PT600S",
+      "ingredients": [
+        "whole Coffee Beans"
+      ],
+      "instructions": [
+        "For the French Press Coffee",
+        "Grind coffee beans to a coarse texture, similar to kosher salt. Remember that it’s a 1:12 ratio, so for every 1 gram of coffee you use, use 12 grams of water. - whole Coffee Beans",
+        "Add ground coffee to the french press. Heat water to 200°F (just before boiling) and pour over the grounds. Make sure that the grounds and water are well combined.",
+        "Let the grounds soak for 4 minutes before pushing down the plunger. Pour and serve!",
+        "For the Chemex Coffee",
+        "Put the filter into your Chemex, making a cone with 3 layers on one side and 1 layer on the other side. Align the side with 3 layers with the side of the Chemex with the spout.",
+        "Pour hot water onto the filter and into the Chemex to preheat the Chemex and also moisten the filter.",
+        "Grind coffee beans to a fine texture. You want 37 grams of coffee for 500 grams of water. - whole Coffee Beans",
+        "Add ground coffee to the filter. Pour the first 250 grams of 200°F water on top of the grounds. Wait until it drains and then add the second 250 grams of water.",
+        "Once the water has gone through the grounds, remove the filter. Pour and serve!",
+        "For the AeroPress Coffee",
+        "Caution: the AeroPress method is much easier to follow by watching the video above!",
+        "Wet the AeroPress filter and then place in the filter holder and screw into place.",
+        "Grind your coffee to a fine texture and heat your water to 200°F. You should have twice as much water than you do grounds (i.e. for 15 grams coffee, 30 grams of water). Put the coffee grounds into the AeroPress chamber. - whole Coffee Beans",
+        "Then pour water into the AeroPress. Let it steep for 20-40 seconds.",
+        "Flip the entire AeroPress over onto the coffee mug and push the plunger down until you have pushed all the air out."
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": []
+    }
+  ],
+  "page_recipe_notes": []
+}

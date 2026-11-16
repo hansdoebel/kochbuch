@@ -1,0 +1,178 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/sous-vide-burger",
+  "recipes": [
+    {
+      "name": "Sous Vide Burger",
+      "source_url": "https://www.joshuaweissman.com/recipes/sous-vide-burger",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "10 minutes",
+      "cook_time": "1-2 hours",
+      "total_time": "1-2 hours ",
+      "ingredients": [
+        "6 oz (170g) 75/25 ground beef",
+        "1 tsp (3g) black pepper",
+        "1 tsp (3g) kosher salt",
+        "1 slice American cheese",
+        "1 hamburger bun",
+        "½ cup (145g) ketchup",
+        "½ cup (145g) mustard",
+        "¾ cup (217g) mayonnaise",
+        "2 tsp (30g) Worcestershire",
+        "Kosher salt to taste",
+        "Pepper to taste"
+      ],
+      "instructions": [
+        "Set up a water bath of 8 quarts of water. Turn the immersion circulator on to 132°F (55.6°C). Make sure there is enough room for the water to flow around the bath.",
+        "Weigh your portion of ground beef and shape into a patty.",
+        "Sprinkle a generous amount of salt and pepper onto both sides of each beef patty.",
+        "Put each patty into a separate plastic zipper-lock bag.",
+        "Push all the air out of the bag by sealing it almost all the way, then slowly lower the bag into a pot of hot water that has been preheated to the right temperature.",
+        "Finish closing the bag completely just before it fully sinks into the water.",
+        "Leave in the water for at least 45 minutes and at most 2 hours.",
+        "Remove the patty and rest for at least 10 minutes.",
+        "Preheat the cast iron pan to a medium high heat.",
+        "Place the patties on the grill or skillet and cook for 3-4 minutes per side or until they reach your desired level of doneness. During the last minute of cooking, add a slice of cheese to each patty and let it melt.",
+        "In a small bowl combine all ingredients. Use a whisk to mix thoroughly.",
+        "Toast buns.",
+        "Spread the sauce on the bottom half of each bun.",
+        "Add a patty with melted cheese on top.",
+        "Finish with the top half of the bun."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Burger:"
+        },
+        {
+          "tag": "li",
+          "text": "6 oz (170g) 75/25 ground beef"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) black pepper"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 slice American cheese"
+        },
+        {
+          "tag": "li",
+          "text": "1 hamburger bun"
+        },
+        {
+          "tag": "p",
+          "text": "Burger Sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (145g) ketchup"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (145g) mustard"
+        },
+        {
+          "tag": "li",
+          "text": "¾ cup (217g) mayonnaise"
+        },
+        {
+          "tag": "li",
+          "text": "2 tsp (30g) Worcestershire"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt to taste"
+        },
+        {
+          "tag": "li",
+          "text": "Pepper to taste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "p",
+          "text": "Burger:"
+        },
+        {
+          "tag": "li",
+          "text": "Set up a water bath of 8 quarts of water. Turn the immersion circulator on to 132°F (55.6°C). Make sure there is enough room for the water to flow around the bath."
+        },
+        {
+          "tag": "li",
+          "text": "Weigh your portion of ground beef and shape into a patty."
+        },
+        {
+          "tag": "li",
+          "text": "Sprinkle a generous amount of salt and pepper onto both sides of each beef patty."
+        },
+        {
+          "tag": "li",
+          "text": "Put each patty into a separate plastic zipper-lock bag."
+        },
+        {
+          "tag": "li",
+          "text": "Push all the air out of the bag by sealing it almost all the way, then slowly lower the bag into a pot of hot water that has been preheated to the right temperature."
+        },
+        {
+          "tag": "li",
+          "text": "Finish closing the bag completely just before it fully sinks into the water."
+        },
+        {
+          "tag": "li",
+          "text": "Leave in the water for at least 45 minutes and at most 2 hours."
+        },
+        {
+          "tag": "li",
+          "text": "Remove the patty and rest for at least 10 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Preheat the cast iron pan to a medium high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Place the patties on the grill or skillet and cook for 3-4 minutes per side or until they reach your desired level of doneness. During the last minute of cooking, add a slice of cheese to each patty and let it melt."
+        },
+        {
+          "tag": "p",
+          "text": "Burger Sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "In a small bowl combine all ingredients. Use a whisk to mix thoroughly."
+        },
+        {
+          "tag": "p",
+          "text": "Assembly:"
+        },
+        {
+          "tag": "li",
+          "text": "Toast buns."
+        },
+        {
+          "tag": "li",
+          "text": "Spread the sauce on the bottom half of each bun."
+        },
+        {
+          "tag": "li",
+          "text": "Add a patty with melted cheese on top."
+        },
+        {
+          "tag": "li",
+          "text": "Finish with the top half of the bun."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

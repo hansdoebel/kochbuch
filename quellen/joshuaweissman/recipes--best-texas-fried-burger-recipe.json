@@ -1,0 +1,158 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-texas-fried-burger-recipe",
+  "recipes": [
+    {
+      "name": "Texas Fried Burger",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-texas-fried-burger-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "10 minutes",
+      "cook_time": "8 minutes",
+      "total_time": "18 minutes",
+      "ingredients": [
+        "6 oz (170g) 75/25 ground beef",
+        "1 tsp (3g) black pepper",
+        "1 tsp (3g) kosher salt",
+        "1 slice American cheese",
+        "1 hamburger bun",
+        "1 cup (150g) all-purpose flour",
+        "½ cup (145g) ketchup",
+        "½ cup (145g) mustard",
+        "¾ cup (217g) mayonnaise",
+        "2 tsp (30g) Worcestershire",
+        "Kosher salt to taste",
+        "Pepper to taste"
+      ],
+      "instructions": [
+        "Preheat your cast iron grill over medium-high heat.",
+        "Weigh your portion of ground beef and shape into a patty. Season both sides of the patty with salt and pepper.",
+        "Place flour in a sheet tray or plate and coat the burger patty in the flour, making sure to cover all surfaces.",
+        "Place the patty on the grill or skillet and cook for 3-4 minutes per side or until they reach your desired level of doneness.",
+        "During the last minute of cooking, add a slice of cheese to each patty and let it melt.",
+        "In a small bowl combine all ingredients. Use a whisk to mix thoroughly.",
+        "Place the bun heel on plate.",
+        "Add the patty with cheese on top.",
+        "Spread burger sauce over the top bun.",
+        "Finish with the top half of the bun."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Burger:"
+        },
+        {
+          "tag": "li",
+          "text": "6 oz (170g) 75/25 ground beef"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) black pepper"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 slice American cheese"
+        },
+        {
+          "tag": "li",
+          "text": "1 hamburger bun"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup (150g) all-purpose flour"
+        },
+        {
+          "tag": "p",
+          "text": "Burger Sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (145g) ketchup"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (145g) mustard"
+        },
+        {
+          "tag": "li",
+          "text": "¾ cup (217g) mayonnaise"
+        },
+        {
+          "tag": "li",
+          "text": "2 tsp (30g) Worcestershire"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt to taste"
+        },
+        {
+          "tag": "li",
+          "text": "Pepper to taste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "p",
+          "text": "Burger:"
+        },
+        {
+          "tag": "li",
+          "text": "Preheat your cast iron grill over medium-high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Weigh your portion of ground beef and shape into a patty. Season both sides of the patty with salt and pepper."
+        },
+        {
+          "tag": "li",
+          "text": "Place flour in a sheet tray or plate and coat the burger patty in the flour, making sure to cover all surfaces."
+        },
+        {
+          "tag": "li",
+          "text": "Place the patty on the grill or skillet and cook for 3-4 minutes per side or until they reach your desired level of doneness."
+        },
+        {
+          "tag": "li",
+          "text": "During the last minute of cooking, add a slice of cheese to each patty and let it melt."
+        },
+        {
+          "tag": "p",
+          "text": "Burger Sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "In a small bowl combine all ingredients. Use a whisk to mix thoroughly."
+        },
+        {
+          "tag": "p",
+          "text": "Assembly:"
+        },
+        {
+          "tag": "li",
+          "text": "Place the bun heel on plate."
+        },
+        {
+          "tag": "li",
+          "text": "Add the patty with cheese on top."
+        },
+        {
+          "tag": "li",
+          "text": "Spread burger sauce over the top bun."
+        },
+        {
+          "tag": "li",
+          "text": "Finish with the top half of the bun."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

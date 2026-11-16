@@ -1,0 +1,68 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/fancy-pommes-puree-potatoes-recipe",
+  "recipes": [
+    {
+      "name": "Pommes Puree | Fancy French Potatoes",
+      "source_url": "https://www.joshuaweissman.com/recipes/fancy-pommes-puree-potatoes-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        "3.5 lbs (1.6kg) small yukon gold potatoes",
+        "1 lb (450g) cold unsalted butter, cut into ½ inch cubes",
+        "¼ cup (60ml) whole milk",
+        "Kosher salt to taste"
+      ],
+      "instructions": [
+        "Place your whole unpeeled potatoes into boiling water and boil for 25-30 minutes or until just cooked through.",
+        "Using a paring knife, peel the skins off of your potatoes while still hot. Immediately run your hot potatoes through a food mill or potato ricer. Place into a medium sized pot with plenty of stirring room and set over medium heat.",
+        "Using a heat-proof spatula, gently stir your potatoes constantly, adding a small handful of butter, stirring allowing it to melt and emulsify into your potatoes. Once combined, add more butter, and repeat that process until you’ve added all of your butter.",
+        "Whisk in your whole milk until homogenous, season to taste with kosher salt, and serve immediately."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "3.5 lbs (1.6kg) small yukon gold potatoes"
+        },
+        {
+          "tag": "li",
+          "text": "1 lb (450g) cold unsalted butter, cut into ½ inch cubes"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup (60ml) whole milk"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt to taste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Place your whole unpeeled potatoes into boiling water and boil for 25-30 minutes or until just cooked through."
+        },
+        {
+          "tag": "li",
+          "text": "Using a paring knife, peel the skins off of your potatoes while still hot. Immediately run your hot potatoes through a food mill or potato ricer. Place into a medium sized pot with plenty of stirring room and set over medium heat."
+        },
+        {
+          "tag": "li",
+          "text": "Using a heat-proof spatula, gently stir your potatoes constantly, adding a small handful of butter, stirring allowing it to melt and emulsify into your potatoes. Once combined, add more butter, and repeat that process until you’ve added all of your butter."
+        },
+        {
+          "tag": "li",
+          "text": "Whisk in your whole milk until homogenous, season to taste with kosher salt, and serve immediately."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

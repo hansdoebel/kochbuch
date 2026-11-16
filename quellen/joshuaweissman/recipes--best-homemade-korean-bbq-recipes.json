@@ -1,0 +1,417 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-homemade-korean-bbq-recipes",
+  "recipes": [
+    {
+      "name": "Making Authentic Korean BBQ At Home",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-homemade-korean-bbq-recipes",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "45 minutes",
+      "cook_time": "10-30 minutes",
+      "total_time": "1 hour",
+      "ingredients": [
+        "Korean BBQ Grill",
+        "¼ cup (55g) brown sugar",
+        "Pinch ground white pepper",
+        "4 tsp (18g) toasted sesame oil",
+        "4 Tbsp (48g) mirin",
+        "3 Tbsp (64g) honey",
+        "1 Asian pear, peeled, cored and blended till puree",
+        "½ cup (120ml) soy sauce",
+        "6 cloves garlic, finely chopped",
+        "6 green onions, thinly sliced",
+        "3 lbs (1 ⅓ kg) ribeye, thinly sliced",
+        "Same marinade as Bulgogi beef",
+        "4 cross-cut short ribs",
+        "2 green onions, very finely chopped",
+        "Juice of 1 lemon",
+        "2 Tbsp (40g) gochujang",
+        "2 Tbsp (42g) honey",
+        "2 Tbsp (36g) soy sauce",
+        "1 Tbsp (15g) of rice vinegar",
+        "1 tsp (5g) toasted sesame oil",
+        "2 lbs (900g) skinless pork belly ⅓” thick slices",
+        "Vegetable Oil for cooking",
+        "1 lb (454g) baby potatoes, cut into 1-inch chunks",
+        "Kosher salt to taste",
+        "1 Tbsp (9g) brown sugar",
+        "1 Tbsp (14g) mirin",
+        "2 Tbsp (36g) soy sauce",
+        "2 Tbsp (36g) dark soy sauce",
+        "2 Tbsp (30g) rice wine vinegar",
+        "2 tsp (14g) honey",
+        "Splash water",
+        "Toasted sesame seeds",
+        "2 green onions, thinly sliced",
+        "1 seedless English cucumber, cut into ½ inch coins",
+        "2 Tbsp (30g) spicy chili crisp",
+        "Juice from 1 lemon",
+        "Salt to taste",
+        "Pinch of mushroom salt (optional)",
+        "½ cup (103g) gochujang",
+        "⅓ cup (113g) honey",
+        "3 Tbsp (42g) toasted sesame oil",
+        "2 Tbsps (22g) toasted sesame seeds",
+        "¾ cup (150g) doenjang",
+        "4 green onions, thinly sliced",
+        "5 cloves garlic, grated",
+        "3 cloves garlic, grated",
+        "1 Tbsp (11g) flakey salt",
+        "¼ cup (56g) toasted sesame oil",
+        "4 cups (820g) of steamed rice",
+        "1 jar Kimchi",
+        "1 pack of nori snacks",
+        "Bowl of toasted sesame seeds",
+        "flakey salt",
+        "1 head Boston lettuce"
+      ],
+      "instructions": [
+        "In a medium-size bowl, add brown sugar, white pepper, sesame oil, mirin, honey, blended Asian pear, soy sauce, and garlic; mix it till combined, then stir in green onions.",
+        "To the sliced beef, add ¾ of your marinade, cover with plastic wrap and let it marinate for 15 min.",
+        "In a medium-size bowl, add your ribs and pour the rest of your Bulgogi marinade; cover with plastic wrap and let marinate for 15 min.",
+        "In a medium-size bowl, add green onions, lemon juice, gochujang, honey, soy sauce, rice vinegar, and sesame oil; mix till homogenous.",
+        "Mix in your belly, cover with plastic wrap, and let it marinate for 15 min.",
+        "Heat a 12” skillet over medium-high, add enough oil to coat the bottom, then add potatoes, season with salt, give them a toss; once they start getting some crispy golden brown color on a few sides, add brown sugar, mirin, soy sauce, dark soy sauce, rice wine vinegar, honey, and water.",
+        "Toss the potatoes to mix and coat, let them get to a simmer, and light simmer, tossing occasionally for 8 to 10 minutes or until all the braising liquid is reduced.",
+        "Score your cucumber coins in a crossed hatched patterned only on one side, cut them into quarters, place them on a medium-size bowl, season with salt and let them sit for 5 minutes. Then drain the water extracted from them, rinse and drain once again.",
+        "To your cucumbers, add spicy chili crisp, lemon zest, and juice; stir and season with mushroom salt.",
+        "In a medium-size bowl, add all ingredients and mix until thoroughly combined.",
+        "In a medium-size bowl, add all ingredients and mix until thoroughly combined."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Items Used:"
+        },
+        {
+          "tag": "li",
+          "text": "Korean BBQ Grill"
+        },
+        {
+          "tag": "p",
+          "text": "Bulgogi Beef:"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup (55g) brown sugar"
+        },
+        {
+          "tag": "li",
+          "text": "Pinch ground white pepper"
+        },
+        {
+          "tag": "li",
+          "text": "4 tsp (18g) toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "4 Tbsp (48g) mirin"
+        },
+        {
+          "tag": "li",
+          "text": "3 Tbsp (64g) honey"
+        },
+        {
+          "tag": "li",
+          "text": "1 Asian pear, peeled, cored and blended till puree"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (120ml) soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "6 cloves garlic, finely chopped"
+        },
+        {
+          "tag": "li",
+          "text": "6 green onions, thinly sliced"
+        },
+        {
+          "tag": "li",
+          "text": "3 lbs (1 ⅓ kg) ribeye, thinly sliced"
+        },
+        {
+          "tag": "p",
+          "text": "Kalbi:"
+        },
+        {
+          "tag": "li",
+          "text": "Same marinade as Bulgogi beef"
+        },
+        {
+          "tag": "li",
+          "text": "4 cross-cut short ribs"
+        },
+        {
+          "tag": "p",
+          "text": "Pork Belly:"
+        },
+        {
+          "tag": "li",
+          "text": "2 green onions, very finely chopped"
+        },
+        {
+          "tag": "li",
+          "text": "Juice of 1 lemon"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp (40g) gochujang"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp (42g) honey"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp (36g) soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) of rice vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (5g) toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "2 lbs (900g) skinless pork belly ⅓” thick slices"
+        },
+        {
+          "tag": "p",
+          "text": "Gamja Potatoes:"
+        },
+        {
+          "tag": "li",
+          "text": "Vegetable Oil for cooking"
+        },
+        {
+          "tag": "li",
+          "text": "1 lb (454g) baby potatoes, cut into 1-inch chunks"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt to taste"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (9g) brown sugar"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (14g) mirin"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp (36g) soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp (36g) dark soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp (30g) rice wine vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "2 tsp (14g) honey"
+        },
+        {
+          "tag": "li",
+          "text": "Splash water"
+        },
+        {
+          "tag": "li",
+          "text": "Toasted sesame seeds"
+        },
+        {
+          "tag": "li",
+          "text": "2 green onions, thinly sliced"
+        },
+        {
+          "tag": "p",
+          "text": "Cucumbers:"
+        },
+        {
+          "tag": "li",
+          "text": "1 seedless English cucumber, cut into ½ inch coins"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp (30g) spicy chili crisp"
+        },
+        {
+          "tag": "li",
+          "text": "Juice from 1 lemon"
+        },
+        {
+          "tag": "li",
+          "text": "Salt to taste"
+        },
+        {
+          "tag": "li",
+          "text": "Pinch of mushroom salt (optional)"
+        },
+        {
+          "tag": "p",
+          "text": "Ssamjang Sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (103g) gochujang"
+        },
+        {
+          "tag": "li",
+          "text": "⅓ cup (113g) honey"
+        },
+        {
+          "tag": "li",
+          "text": "3 Tbsp (42g) toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsps (22g) toasted sesame seeds"
+        },
+        {
+          "tag": "li",
+          "text": "¾ cup (150g) doenjang"
+        },
+        {
+          "tag": "li",
+          "text": "4 green onions, thinly sliced"
+        },
+        {
+          "tag": "li",
+          "text": "5 cloves garlic, grated"
+        },
+        {
+          "tag": "p",
+          "text": "Sesame Garlic Sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "3 cloves garlic, grated"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (11g) flakey salt"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup (56g) toasted sesame oil"
+        },
+        {
+          "tag": "p",
+          "text": "Assembly Additions:"
+        },
+        {
+          "tag": "li",
+          "text": "4 cups (820g) of steamed rice"
+        },
+        {
+          "tag": "li",
+          "text": "1 jar Kimchi"
+        },
+        {
+          "tag": "li",
+          "text": "1 pack of nori snacks"
+        },
+        {
+          "tag": "li",
+          "text": "Bowl of toasted sesame seeds"
+        },
+        {
+          "tag": "li",
+          "text": "flakey salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 head Boston lettuce"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "p",
+          "text": "Bulgogi Beef:"
+        },
+        {
+          "tag": "li",
+          "text": "In a medium-size bowl, add brown sugar, white pepper, sesame oil, mirin, honey, blended Asian pear, soy sauce, and garlic; mix it till combined, then stir in green onions."
+        },
+        {
+          "tag": "li",
+          "text": "To the sliced beef, add ¾ of your marinade, cover with plastic wrap and let it marinate for 15 min."
+        },
+        {
+          "tag": "p",
+          "text": "Kalbi:"
+        },
+        {
+          "tag": "li",
+          "text": "In a medium-size bowl, add your ribs and pour the rest of your Bulgogi marinade; cover with plastic wrap and let marinate for 15 min."
+        },
+        {
+          "tag": "p",
+          "text": "Pork Belly:"
+        },
+        {
+          "tag": "li",
+          "text": "In a medium-size bowl, add green onions, lemon juice, gochujang, honey, soy sauce, rice vinegar, and sesame oil; mix till homogenous."
+        },
+        {
+          "tag": "li",
+          "text": "Mix in your belly, cover with plastic wrap, and let it marinate for 15 min."
+        },
+        {
+          "tag": "p",
+          "text": "Gamja Potatoes:"
+        },
+        {
+          "tag": "li",
+          "text": "Heat a 12” skillet over medium-high, add enough oil to coat the bottom, then add potatoes, season with salt, give them a toss; once they start getting some crispy golden brown color on a few sides, add brown sugar, mirin, soy sauce, dark soy sauce, rice wine vinegar, honey, and water."
+        },
+        {
+          "tag": "li",
+          "text": "Toss the potatoes to mix and coat, let them get to a simmer, and light simmer, tossing occasionally for 8 to 10 minutes or until all the braising liquid is reduced."
+        },
+        {
+          "tag": "p",
+          "text": "Cucumbers:"
+        },
+        {
+          "tag": "li",
+          "text": "Score your cucumber coins in a crossed hatched patterned only on one side, cut them into quarters, place them on a medium-size bowl, season with salt and let them sit for 5 minutes. Then drain the water extracted from them, rinse and drain once again."
+        },
+        {
+          "tag": "li",
+          "text": "To your cucumbers, add spicy chili crisp, lemon zest, and juice; stir and season with mushroom salt."
+        },
+        {
+          "tag": "p",
+          "text": "Sesame Garlic Sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "In a medium-size bowl, add all ingredients and mix until thoroughly combined."
+        },
+        {
+          "tag": "p",
+          "text": "Ssamjang Sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "In a medium-size bowl, add all ingredients and mix until thoroughly combined."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

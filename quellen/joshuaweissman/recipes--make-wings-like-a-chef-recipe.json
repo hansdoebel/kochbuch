@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/make-wings-like-a-chef-recipe",
+  "recipes": [
+    {
+      "name": "Make Wings Like a Chef",
+      "source_url": "https://www.joshuaweissman.com/recipes/make-wings-like-a-chef-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "3",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        "1 lb (450g) party wings",
+        "Kosher salt and pepper to taste"
+      ],
+      "instructions": [
+        "Begin by preheating canola oil in a heavy bottomed pot or Dutch oven to 350°F (176°C). While the oil is heating, season the wings in a large mixing bowl with salt and pepper.",
+        "Gently add wings to the frying oil, being careful to not add too much at one time so that the oil does not boil over. Be sure to constantly stir wings while frying to ensure they do not stick together and cook evenly.",
+        "Fry the wings for 8-10 minutes, or until golden brown and crispy. Once cooked, transfer to a mixing bowl using spider, and season with salt and pepper to taste. Serve immediately."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 lb (450g) party wings"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt and pepper to taste"
+        },
+        {
+          "tag": "p",
+          "text": "‍"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Begin by preheating canola oil in a heavy bottomed pot or Dutch oven to 350°F (176°C). While the oil is heating, season the wings in a large mixing bowl with salt and pepper."
+        },
+        {
+          "tag": "li",
+          "text": "Gently add wings to the frying oil, being careful to not add too much at one time so that the oil does not boil over. Be sure to constantly stir wings while frying to ensure they do not stick together and cook evenly."
+        },
+        {
+          "tag": "li",
+          "text": "Fry the wings for 8-10 minutes, or until golden brown and crispy. Once cooked, transfer to a mixing bowl using spider, and season with salt and pepper to taste. Serve immediately."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

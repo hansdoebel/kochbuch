@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/easiest-garlic-cabbage-side-dish-recipe",
+  "recipes": [
+    {
+      "name": "The Easiest Garlic Cabbage Side Dish (3 Ingredients)",
+      "source_url": "https://www.joshuaweissman.com/recipes/easiest-garlic-cabbage-side-dish-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "10 minutes",
+      "cook_time": "5 minutes",
+      "total_time": "15 minutes",
+      "ingredients": [
+        "¼ cup (53g) garlic oil",
+        "3 cups green cabbage, quartered, cored and thinly sliced",
+        "1 lemon, juice and zest",
+        "Kosher salt to taste"
+      ],
+      "instructions": [
+        "In a large saute pan set over high heat, add the garlic oil. Once hot, add the sliced cabbage. Toss to coat and char cabbage until brown, about 5-6 minutes.",
+        "Season with salt, lemon juice, and lemon zest. Taste and add more garlic oil if desired.",
+        "To serve, use a carving fork and twist the cabbage as you would pasta and plate."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "¼ cup (53g) garlic oil"
+        },
+        {
+          "tag": "li",
+          "text": "3 cups green cabbage, quartered, cored and thinly sliced"
+        },
+        {
+          "tag": "li",
+          "text": "1 lemon, juice and zest"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt to taste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "In a large saute pan set over high heat, add the garlic oil. Once hot, add the sliced cabbage. Toss to coat and char cabbage until brown, about 5-6 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Season with salt, lemon juice, and lemon zest. Taste and add more garlic oil if desired."
+        },
+        {
+          "tag": "li",
+          "text": "To serve, use a carving fork and twist the cabbage as you would pasta and plate."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

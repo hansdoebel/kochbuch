@@ -1,0 +1,78 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/perfect-hollandaise-sauce-recipe",
+  "recipes": [
+    {
+      "name": "Perfect Hollandaise Sauce",
+      "source_url": "https://www.joshuaweissman.com/recipes/perfect-hollandaise-sauce-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        "4 egg yolks",
+        "1 cup (240g) unsalted butter",
+        "1 Tbsp (14g) lemon juice",
+        "Pinch of cayenne pepper",
+        "Kosher salt to taste"
+      ],
+      "instructions": [
+        "In a large mixing bowl, whisk together egg yolks and lemon juice until the eggs turn pale and double in volume.",
+        "Set egg mixture over a saucepan with water that is just below a boil. Ensure the hot water is not touching the bottom of the bowl.",
+        "Continue to whisk eggs until the mixture begins to thicken and become lighter in color.",
+        "Slowly stream in melted butter until sauce has reached desired consistency. Adding a splash of warm water as necessary to adjust consistency.",
+        "Season sauce with salt to taste and a pinch of cayenne."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "4 egg yolks"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup (240g) unsalted butter"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (14g) lemon juice"
+        },
+        {
+          "tag": "li",
+          "text": "Pinch of cayenne pepper"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt to taste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "In a large mixing bowl, whisk together egg yolks and lemon juice until the eggs turn pale and double in volume."
+        },
+        {
+          "tag": "li",
+          "text": "Set egg mixture over a saucepan with water that is just below a boil. Ensure the hot water is not touching the bottom of the bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Continue to whisk eggs until the mixture begins to thicken and become lighter in color."
+        },
+        {
+          "tag": "li",
+          "text": "Slowly stream in melted butter until sauce has reached desired consistency. Adding a splash of warm water as necessary to adjust consistency."
+        },
+        {
+          "tag": "li",
+          "text": "Season sauce with salt to taste and a pinch of cayenne."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

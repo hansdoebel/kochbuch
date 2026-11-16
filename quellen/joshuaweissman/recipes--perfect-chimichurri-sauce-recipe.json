@@ -1,0 +1,78 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/perfect-chimichurri-sauce-recipe",
+  "recipes": [
+    {
+      "name": "Perfect Chimichurri Sauce",
+      "source_url": "https://www.joshuaweissman.com/recipes/perfect-chimichurri-sauce-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        "4 garlic cloves, fine dice",
+        "2 bunches parsley, chopped",
+        "1 shallot, fine dice",
+        "1 fresno chili, finely diced",
+        "¾ cup (90ml) extra virgin olive oil",
+        "3 Tbsp (40g) red wine vinegar",
+        "Kosher salt and pepper to taste"
+      ],
+      "instructions": [
+        "In a medium mixing bowl, combine parsley, garlic, shallot, fresno chile, vinegar, and olive oil.",
+        "Stir well to combine and season with salt and pepper to taste.",
+        "Transfer to a storage container and allow to sit for at least 1 hour."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "4 garlic cloves, fine dice"
+        },
+        {
+          "tag": "li",
+          "text": "2 bunches parsley, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 shallot, fine dice"
+        },
+        {
+          "tag": "li",
+          "text": "1 fresno chili, finely diced"
+        },
+        {
+          "tag": "li",
+          "text": "¾ cup (90ml) extra virgin olive oil"
+        },
+        {
+          "tag": "li",
+          "text": "3 Tbsp (40g) red wine vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt and pepper to taste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "In a medium mixing bowl, combine parsley, garlic, shallot, fresno chile, vinegar, and olive oil."
+        },
+        {
+          "tag": "li",
+          "text": "Stir well to combine and season with salt and pepper to taste."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer to a storage container and allow to sit for at least 1 hour."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

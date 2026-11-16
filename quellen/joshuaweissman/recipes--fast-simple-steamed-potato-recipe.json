@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/fast-simple-steamed-potato-recipe",
+  "recipes": [
+    {
+      "name": "Fast & Simple Steamed Potato",
+      "source_url": "https://www.joshuaweissman.com/recipes/fast-simple-steamed-potato-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        "1 large russet potato",
+        "1 quart (1000ml) water",
+        "Kosher salt to taste"
+      ],
+      "instructions": [
+        "Bring water to a boil over high heat, and once to a boil reduce heat to a simmer. Place the steaming basket onto the pot.",
+        "Season the boiling water generously with kosher salt, and place the potato into the steam basket.",
+        "Steam the potato until fork tender, about 50-60 minutes."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 large russet potato"
+        },
+        {
+          "tag": "li",
+          "text": "1 quart (1000ml) water"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt to taste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Bring water to a boil over high heat, and once to a boil reduce heat to a simmer. Place the steaming basket onto the pot."
+        },
+        {
+          "tag": "li",
+          "text": "Season the boiling water generously with kosher salt, and place the potato into the steam basket."
+        },
+        {
+          "tag": "li",
+          "text": "Steam the potato until fork tender, about 50-60 minutes."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

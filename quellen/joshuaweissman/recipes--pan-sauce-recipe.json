@@ -1,0 +1,86 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/pan-sauce-recipe",
+  "recipes": [
+    {
+      "name": "Pan Sauce",
+      "source_url": "https://www.joshuaweissman.com/recipes/pan-sauce-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "2",
+      "prep_time": "10 min",
+      "cook_time": "5 min",
+      "total_time": "15 min",
+      "ingredients": [
+        "1 small shallot, finely chopped",
+        "2 cloves garlic, thinly sliced",
+        "Kosher salt, to taste",
+        "½ cup (120mL) chicken stock",
+        "Balsamic vinegar, or lemon juice, to taste",
+        "1 Tbsp (5g) fresh parsley, finely chopped",
+        "1 Tbsp (14g) unsalted butter, cold"
+      ],
+      "instructions": [
+        "Turn the heat to medium low on the same pan you used to cook your protein of choice. Add the shallot and garlic, season to taste with salt, and saute until softened and fragrant, about 1–2 minutes.",
+        "Deglaze the pan with the chicken stock, scraping up any browned bits from the bottom of the pan. Let the liquid simmer and reduce slightly. Season to taste with the balsamic vinegar, or lemon juice, and continue to simmer until the sauce reduces to a slightly syrupy consistency.",
+        "Turn off the heat then stir in fresh chopped parsley. Add the butter and swirl until glossy and emulsified. Season to taste with salt and acid if needed. Serve and enjoy!"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Ingredients:"
+        },
+        {
+          "tag": "li",
+          "text": "1 small shallot, finely chopped"
+        },
+        {
+          "tag": "li",
+          "text": "2 cloves garlic, thinly sliced"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt, to taste"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (120mL) chicken stock"
+        },
+        {
+          "tag": "li",
+          "text": "Balsamic vinegar, or lemon juice, to taste"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (5g) fresh parsley, finely chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (14g) unsalted butter, cold"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "p",
+          "text": "Directions:"
+        },
+        {
+          "tag": "li",
+          "text": "Turn the heat to medium low on the same pan you used to cook your protein of choice. Add the shallot and garlic, season to taste with salt, and saute until softened and fragrant, about 1–2 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Deglaze the pan with the chicken stock, scraping up any browned bits from the bottom of the pan. Let the liquid simmer and reduce slightly. Season to taste with the balsamic vinegar, or lemon juice, and continue to simmer until the sauce reduces to a slightly syrupy consistency."
+        },
+        {
+          "tag": "li",
+          "text": "Turn off the heat then stir in fresh chopped parsley. Add the butter and swirl until glossy and emulsified. Season to taste with salt and acid if needed. Serve and enjoy!"
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

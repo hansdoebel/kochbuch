@@ -1,0 +1,68 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-sous-vide-potatoes-recipe",
+  "recipes": [
+    {
+      "name": "Sous Vide Potatoes",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-sous-vide-potatoes-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        "1 lb (450g) new potatoes",
+        "2 Tbsp (30g) unsalted butter",
+        "Kosher salt and pepper to taste",
+        "1 sprig rosemary",
+        "2 sprigs thyme"
+      ],
+      "instructions": [
+        "Set the circulator to 87°C. While the circulator is heating, add all ingredients to the vacuum seal bag and seal the bag shut using a vacuum sealer.",
+        "Place the potatoes into the hot water, and cook for 1 hour. The potatoes should be easy to smash by pressing with your finger.",
+        "Remove the bag from the water and the potatoes from the bag. Serve immediately."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 lb (450g) new potatoes"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp (30g) unsalted butter"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt and pepper to taste"
+        },
+        {
+          "tag": "li",
+          "text": "1 sprig rosemary"
+        },
+        {
+          "tag": "li",
+          "text": "2 sprigs thyme"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Set the circulator to 87°C. While the circulator is heating, add all ingredients to the vacuum seal bag and seal the bag shut using a vacuum sealer."
+        },
+        {
+          "tag": "li",
+          "text": "Place the potatoes into the hot water, and cook for 1 hour. The potatoes should be easy to smash by pressing with your finger."
+        },
+        {
+          "tag": "li",
+          "text": "Remove the bag from the water and the potatoes from the bag. Serve immediately."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

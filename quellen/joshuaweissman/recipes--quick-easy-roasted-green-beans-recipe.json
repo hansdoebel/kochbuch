@@ -1,0 +1,83 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/quick-easy-roasted-green-beans-recipe",
+  "recipes": [
+    {
+      "name": "Quick & Easy Roasted Green Beans",
+      "source_url": "https://www.joshuaweissman.com/recipes/quick-easy-roasted-green-beans-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "8",
+      "prep_time": "5 minutes",
+      "cook_time": "20 minutes ",
+      "total_time": "25 minutes",
+      "ingredients": [
+        "1.5-2lbs green beans, stem ends trimmed",
+        "Extra-virgin olive oil",
+        "Kosher salt and freshly ground black pepper, to taste",
+        "1 lemon",
+        "Flaky salt"
+      ],
+      "instructions": [
+        "Preheat the oven to 450°F (232°C).",
+        "Add the green beans to an aluminum foil-lined baking sheet.",
+        "Drizzle with enough olive oil to fully coat then season with salt and pepper.",
+        "Roast in the oven for 20 minutes until tender.",
+        "Remove from the oven and finish with a squeeze of fresh lemon juice and a sprinkle of flaky salt.",
+        "Set aside to keep warm."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1.5-2lbs green beans, stem ends trimmed"
+        },
+        {
+          "tag": "li",
+          "text": "Extra-virgin olive oil"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt and freshly ground black pepper, to taste"
+        },
+        {
+          "tag": "li",
+          "text": "1 lemon"
+        },
+        {
+          "tag": "li",
+          "text": "Flaky salt"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Preheat the oven to 450°F (232°C)."
+        },
+        {
+          "tag": "li",
+          "text": "Add the green beans to an aluminum foil-lined baking sheet."
+        },
+        {
+          "tag": "li",
+          "text": "Drizzle with enough olive oil to fully coat then season with salt and pepper."
+        },
+        {
+          "tag": "li",
+          "text": "Roast in the oven for 20 minutes until tender."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the oven and finish with a squeeze of fresh lemon juice and a sprinkle of flaky salt."
+        },
+        {
+          "tag": "li",
+          "text": "Set aside to keep warm."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

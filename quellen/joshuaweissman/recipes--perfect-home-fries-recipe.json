@@ -1,0 +1,62 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/perfect-home-fries-recipe",
+  "recipes": [
+    {
+      "name": "Perfect Home Fries",
+      "source_url": "https://www.joshuaweissman.com/recipes/perfect-home-fries-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        "3 red potatoes, medium diced",
+        "3 Tbsp unsalted butter",
+        "1 Tbsp Montreal Steak Seasoning"
+      ],
+      "instructions": [
+        "Rinse diced potatoes in cold water, drain well, and pat dry using a paper towel. While potatoes are drying begin to melt butter in a large cast iron pan.",
+        "Place potatoes into the pan, and season to taste with salt and pepper. Cook potatoes over medium heat for 10-12 minutes, or the potatoes become fork tender.",
+        "Remove the lid from the pan, and increase the heat to medium high. Sear and turn potatoes until they have browned and are roasted on all sides."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "3 red potatoes, medium diced"
+        },
+        {
+          "tag": "li",
+          "text": "3 Tbsp unsalted butter"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp Montreal Steak Seasoning"
+        },
+        {
+          "tag": "p",
+          "text": "‍"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Rinse diced potatoes in cold water, drain well, and pat dry using a paper towel. While potatoes are drying begin to melt butter in a large cast iron pan."
+        },
+        {
+          "tag": "li",
+          "text": "Place potatoes into the pan, and season to taste with salt and pepper. Cook potatoes over medium heat for 10-12 minutes, or the potatoes become fork tender."
+        },
+        {
+          "tag": "li",
+          "text": "Remove the lid from the pan, and increase the heat to medium high. Sear and turn potatoes until they have browned and are roasted on all sides."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

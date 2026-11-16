@@ -1,0 +1,71 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/homemade-pesto-recipe",
+  "recipes": [
+    {
+      "name": "Homemade Pesto",
+      "source_url": "https://www.joshuaweissman.com/recipes/homemade-pesto-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "10 min",
+      "cook_time": "5 min",
+      "total_time": "15 min",
+      "ingredients": [
+        "2 cups (100g) fresh basil",
+        "¾ cup (75g) pine nuts, toasted",
+        "1 cup (90g) Parmigiano Reggiano, grated",
+        "3 garlic cloves",
+        "Kosher salt, to taste",
+        "1 cup (240mL) extra-virgin olive oil"
+      ],
+      "instructions": [
+        "In the bowl of a food processor, combine the basil, pine nuts, and Parmigiano Reggiano. Pulse lightly until roughly chopped. Add in the garlic cloves then continue to process until everything is finely chopped. Season to taste with salt then while pulsing, add in the olive oil and process until incorporated."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Ingredients:"
+        },
+        {
+          "tag": "li",
+          "text": "2 cups (100g) fresh basil"
+        },
+        {
+          "tag": "li",
+          "text": "¾ cup (75g) pine nuts, toasted"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup (90g) Parmigiano Reggiano, grated"
+        },
+        {
+          "tag": "li",
+          "text": "3 garlic cloves"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt, to taste"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup (240mL) extra-virgin olive oil"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "p",
+          "text": "Directions:"
+        },
+        {
+          "tag": "li",
+          "text": "In the bowl of a food processor, combine the basil, pine nuts, and Parmigiano Reggiano. Pulse lightly until roughly chopped. Add in the garlic cloves then continue to process until everything is finely chopped. Season to taste with salt then while pulsing, add in the olive oil and process until incorporated."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

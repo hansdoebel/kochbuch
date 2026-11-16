@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-colombian-salt-crusted-potatoes-recipe",
+  "recipes": [
+    {
+      "name": "Colombian Salt Crusted Potatoes",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-colombian-salt-crusted-potatoes-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        "2 lbs (900g) small new potatoes, rinsed",
+        "½ cup (120g) kosher salt"
+      ],
+      "instructions": [
+        "Place potatoes in a medium sauce pot, and cover with water. Bring the water to a boil over high heat. While the water is coming to a boil add salt and stir to dissolve.",
+        "Once the water comes to a boil, reduce the heat to a simmer, and cook the potatoes until all of the liquid has evaporated, about 5 minutes.",
+        "Let the potatoes rest in the pot for about 5 minutes, then toss in the pan and serve."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "2 lbs (900g) small new potatoes, rinsed"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (120g) kosher salt"
+        },
+        {
+          "tag": "p",
+          "text": "‍"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Place potatoes in a medium sauce pot, and cover with water. Bring the water to a boil over high heat. While the water is coming to a boil add salt and stir to dissolve."
+        },
+        {
+          "tag": "li",
+          "text": "Once the water comes to a boil, reduce the heat to a simmer, and cook the potatoes until all of the liquid has evaporated, about 5 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Let the potatoes rest in the pot for about 5 minutes, then toss in the pan and serve."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

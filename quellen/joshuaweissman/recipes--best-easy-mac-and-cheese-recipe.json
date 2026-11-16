@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-easy-mac-and-cheese-recipe",
+  "recipes": [
+    {
+      "name": "The Easiest Mac and Cheese (3 Ingredients)",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-easy-mac-and-cheese-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "5 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        "4 cups (950mL) half and half",
+        "1 cup (240ml) water",
+        "1 lb (453g) elbow macaroni",
+        "2 cups (180g) cheddar cheese, freshly grated"
+      ],
+      "instructions": [
+        "In a 6-8 quart stock pot, bring the half and half and water to a boil and season with salt. Add the elbow macaroni and cook until al dente per package directions, about 7-9 minutes.",
+        "Turn off the heat and add in the shredded cheese, stirring to melt the cheese and coat the pasta. Check seasoning, add salt to taste if necessary, and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "4 cups (950mL) half and half"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup (240ml) water"
+        },
+        {
+          "tag": "li",
+          "text": "1 lb (453g) elbow macaroni"
+        },
+        {
+          "tag": "li",
+          "text": "2 cups (180g) cheddar cheese, freshly grated"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "In a 6-8 quart stock pot, bring the half and half and water to a boil and season with salt. Add the elbow macaroni and cook until al dente per package directions, about 7-9 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Turn off the heat and add in the shredded cheese, stirring to melt the cheese and coat the pasta. Check seasoning, add salt to taste if necessary, and enjoy."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

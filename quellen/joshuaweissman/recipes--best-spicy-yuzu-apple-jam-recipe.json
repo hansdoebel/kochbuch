@@ -1,0 +1,73 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-spicy-yuzu-apple-jam-recipe",
+  "recipes": [
+    {
+      "name": "Spicy Yuzu Apple Jam",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-spicy-yuzu-apple-jam-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "8",
+      "prep_time": "30 minutes",
+      "cook_time": "25 minutes",
+      "total_time": "55 minutes",
+      "ingredients": [
+        "4 lbs (1.8kg) Fuji apples, peeled and cut into ½-inch chunks",
+        "2 cups (420g) granulated sugar",
+        "3 Thai chilies, finely chopped",
+        "½ cup (120ml) water",
+        "3 Tbsp (35g) yuzu juice"
+      ],
+      "instructions": [
+        "Place apples in a large saucepan and stir in the sugar until combined. Let macerate for 10 minutes.",
+        "Stir in the chilies, water and yuzu juice and place the saucepan over medium high heat. Bring the mixture to a boil.",
+        "Once at a boil, reduce to a simmer and cook, stirring often, until the apples are translucent and glossy and the liquid has thickened into a syrup.",
+        "Cool completely and serve in a bowl."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "4 lbs (1.8kg) Fuji apples, peeled and cut into ½-inch chunks"
+        },
+        {
+          "tag": "li",
+          "text": "2 cups (420g) granulated sugar"
+        },
+        {
+          "tag": "li",
+          "text": "3 Thai chilies, finely chopped"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (120ml) water"
+        },
+        {
+          "tag": "li",
+          "text": "3 Tbsp (35g) yuzu juice"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Place apples in a large saucepan and stir in the sugar until combined. Let macerate for 10 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Stir in the chilies, water and yuzu juice and place the saucepan over medium high heat. Bring the mixture to a boil."
+        },
+        {
+          "tag": "li",
+          "text": "Once at a boil, reduce to a simmer and cook, stirring often, until the apples are translucent and glossy and the liquid has thickened into a syrup."
+        },
+        {
+          "tag": "li",
+          "text": "Cool completely and serve in a bowl."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

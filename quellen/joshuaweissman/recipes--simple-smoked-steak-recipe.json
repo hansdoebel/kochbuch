@@ -1,0 +1,78 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/simple-smoked-steak-recipe",
+  "recipes": [
+    {
+      "name": "Simple Smoked Steak",
+      "source_url": "https://www.joshuaweissman.com/recipes/simple-smoked-steak-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        "1 steak",
+        "1 Tbsp (15g) kosher salt",
+        "1 tsp (3g) fresh cracked black pepper"
+      ],
+      "instructions": [
+        "Preheat the smoker to 225°F (105°C).",
+        "In a small mixing bowl, whisk together salt, and black pepper until fully incorporated.",
+        "Place steak on a wire rack-lined baking tray and season with the spice mixture onto all sides of the steak.",
+        "Place the steak on the smoker grates and smoke for about 45 minutes to 1 hour, or until it reaches an internal temperature of 125°F (50°C).",
+        "Remove steak from the smoker and heat a cast iron pan over medium-high.",
+        "Add vegetable oil to the pan, and allow it to begin smoking. Then add the steak to the pan and sear on high heat for 30-45 seconds on each side.",
+        "Transfer steak to a cutting board, and allow to rest for 5-8 minutes."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 steak"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) fresh cracked black pepper"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Preheat the smoker to 225°F (105°C)."
+        },
+        {
+          "tag": "li",
+          "text": "In a small mixing bowl, whisk together salt, and black pepper until fully incorporated."
+        },
+        {
+          "tag": "li",
+          "text": "Place steak on a wire rack-lined baking tray and season with the spice mixture onto all sides of the steak."
+        },
+        {
+          "tag": "li",
+          "text": "Place the steak on the smoker grates and smoke for about 45 minutes to 1 hour, or until it reaches an internal temperature of 125°F (50°C)."
+        },
+        {
+          "tag": "li",
+          "text": "Remove steak from the smoker and heat a cast iron pan over medium-high."
+        },
+        {
+          "tag": "li",
+          "text": "Add vegetable oil to the pan, and allow it to begin smoking. Then add the steak to the pan and sear on high heat for 30-45 seconds on each side."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer steak to a cutting board, and allow to rest for 5-8 minutes."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

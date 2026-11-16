@@ -1,0 +1,105 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/vinaigrette-recipe",
+  "recipes": [
+    {
+      "name": "Vinaigrette",
+      "source_url": "https://www.joshuaweissman.com/recipes/vinaigrette-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "8",
+      "prep_time": "5 min",
+      "cook_time": "5 min",
+      "total_time": "10 min",
+      "ingredients": [
+        "2 Tbsp (30g) Dijon mustard",
+        "½ cup (120mL) rice vinegar *see Notes*",
+        "½ cup (120mL) extra-virgin olive oil",
+        "2 tsp (10g) honey, *optional",
+        "Kosher salt, to taste"
+      ],
+      "instructions": [
+        "Add the Dijon mustard, rice vinegar, olive oil, honey (if using), and a pinch of kosher salt to a jar with a tight-fitting lid.",
+        "Seal the jar and shake vigorously for 15–30 seconds, or until the dressing is fully emulsified and slightly thickened.",
+        "Taste and adjust salt as needed before serving.",
+        "In a medium bowl, combine the Dijon mustard, rice vinegar, honey (if using), and a pinch of kosher salt. Whisk until the mixture is smooth and uniform.",
+        "Slowly drizzle in the olive oil while whisking constantly to create an emulsion. Continue whisking until the dressing is thickened and fully combined. Taste and adjust seasoning with additional salt if needed.",
+        "Add the Dijon mustard, rice vinegar, honey (if using), and a pinch of kosher salt to a blender. Blend on low speed to combine.",
+        "With the blender running on medium speed, slowly stream in the olive oil. Blend until the dressing is fully emulsified and slightly thickened. Taste and adjust salt as needed before serving.",
+        "The ratio of acid to oil is totally up to you - it just depends what your application and taste preferences are!"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Ingredients:"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp (30g) Dijon mustard"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (120mL) rice vinegar *see Notes*"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (120mL) extra-virgin olive oil"
+        },
+        {
+          "tag": "li",
+          "text": "2 tsp (10g) honey, *optional"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt, to taste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "p",
+          "text": "Directions:"
+        },
+        {
+          "tag": "li",
+          "text": "Add the Dijon mustard, rice vinegar, olive oil, honey (if using), and a pinch of kosher salt to a jar with a tight-fitting lid."
+        },
+        {
+          "tag": "li",
+          "text": "Seal the jar and shake vigorously for 15–30 seconds, or until the dressing is fully emulsified and slightly thickened."
+        },
+        {
+          "tag": "li",
+          "text": "Taste and adjust salt as needed before serving."
+        },
+        {
+          "tag": "li",
+          "text": "In a medium bowl, combine the Dijon mustard, rice vinegar, honey (if using), and a pinch of kosher salt. Whisk until the mixture is smooth and uniform."
+        },
+        {
+          "tag": "li",
+          "text": "Slowly drizzle in the olive oil while whisking constantly to create an emulsion. Continue whisking until the dressing is thickened and fully combined. Taste and adjust seasoning with additional salt if needed."
+        },
+        {
+          "tag": "li",
+          "text": "Add the Dijon mustard, rice vinegar, honey (if using), and a pinch of kosher salt to a blender. Blend on low speed to combine."
+        },
+        {
+          "tag": "li",
+          "text": "With the blender running on medium speed, slowly stream in the olive oil. Blend until the dressing is fully emulsified and slightly thickened. Taste and adjust salt as needed before serving."
+        },
+        {
+          "tag": "p",
+          "text": "Notes:"
+        },
+        {
+          "tag": "li",
+          "text": "The ratio of acid to oil is totally up to you - it just depends what your application and taste preferences are!"
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

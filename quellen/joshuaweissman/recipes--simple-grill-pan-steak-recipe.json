@@ -1,0 +1,73 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/simple-grill-pan-steak-recipe",
+  "recipes": [
+    {
+      "name": "Simple Grill Pan Steak",
+      "source_url": "https://www.joshuaweissman.com/recipes/simple-grill-pan-steak-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        "1 steak",
+        "1 Tbsp (15g) vegetable oil",
+        "1 Tbsp (15g) kosher salt",
+        "1 tsp (3g) fresh cracked black pepper"
+      ],
+      "instructions": [
+        "Preheat a cast iron grill pan over medium heat. Once hot, add vegetable oil to the pan.",
+        "In a small mixing bowl, whisk together salt and black pepper until fully incorporated.",
+        "Place steaks on a wire rack-lined baking tray and season the steak on all sides.",
+        "Add vegetable oil to the pan.",
+        "Place steak on the grill pan and cook for 2-3 minutes, then do a quarter turn and cook for another 2-3 minutes. Flip the steak and repeat this step. The total cook time should be 8-12 minutes, or an internal temperature of 125°F (50°C)."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 steak"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) fresh cracked black pepper"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Preheat a cast iron grill pan over medium heat. Once hot, add vegetable oil to the pan."
+        },
+        {
+          "tag": "li",
+          "text": "In a small mixing bowl, whisk together salt and black pepper until fully incorporated."
+        },
+        {
+          "tag": "li",
+          "text": "Place steaks on a wire rack-lined baking tray and season the steak on all sides."
+        },
+        {
+          "tag": "li",
+          "text": "Add vegetable oil to the pan."
+        },
+        {
+          "tag": "li",
+          "text": "Place steak on the grill pan and cook for 2-3 minutes, then do a quarter turn and cook for another 2-3 minutes. Flip the steak and repeat this step. The total cook time should be 8-12 minutes, or an internal temperature of 125°F (50°C)."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,66 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/bechamel-recipe",
+  "recipes": [
+    {
+      "name": "Bechamel",
+      "source_url": "https://www.joshuaweissman.com/recipes/bechamel-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "5 min",
+      "cook_time": "10 min",
+      "total_time": "15 min",
+      "ingredients": [
+        "¼ cup (56g) unsalted butter",
+        "¼ cup (38g) all-purpose flour",
+        "2 cups (480mL) whole milk, warmed to about 100°F (38°C)",
+        "Kosher salt, to taste"
+      ],
+      "instructions": [
+        "In a medium saucepan set over medium heat, add the unsalted butter and wait until fully melted. Next add the flour and whisk together until it forms a cohesive paste. Let cook for 1-2 minutes to cook out the remaining starchy floury taste.",
+        "Add the milk in batches to the roux, whisking in between to make sure everything is incorporated. Once all of the milk is added, let it sit and simmer to allow the flour to fully thicken. Season to taste with salt. Serve and enjoy!"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Ingredients:"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup (56g) unsalted butter"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup (38g) all-purpose flour"
+        },
+        {
+          "tag": "li",
+          "text": "2 cups (480mL) whole milk, warmed to about 100°F (38°C)"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt, to taste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "p",
+          "text": "Directions:"
+        },
+        {
+          "tag": "li",
+          "text": "In a medium saucepan set over medium heat, add the unsalted butter and wait until fully melted. Next add the flour and whisk together until it forms a cohesive paste. Let cook for 1-2 minutes to cook out the remaining starchy floury taste."
+        },
+        {
+          "tag": "li",
+          "text": "Add the milk in batches to the roux, whisking in between to make sure everything is incorporated. Once all of the milk is added, let it sit and simmer to allow the flour to fully thicken. Season to taste with salt. Serve and enjoy!"
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

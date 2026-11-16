@@ -1,0 +1,62 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/ultimate-broiled-potatoes-recipe",
+  "recipes": [
+    {
+      "name": "Ultimate Broiled Potatoes",
+      "source_url": "https://www.joshuaweissman.com/recipes/ultimate-broiled-potatoes-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        "1 large russet potato",
+        "1 tsp (4g) vegetable oil",
+        "Kosher salt and pepper to taste"
+      ],
+      "instructions": [
+        "Turn the oven to broil on the high setting. Slice the potatoes into ¼ inch rounds.",
+        "Toss sliced potatoes in vegetable oil and season with kosher salt and pepper.",
+        "Place potatoes onto a parchment-lined baking tray. Broil the potatoes for 4-6 minutes, then flip and broil for an additional 4-6 minutes."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 large russet potato"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (4g) vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt and pepper to taste"
+        },
+        {
+          "tag": "p",
+          "text": "‍"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Turn the oven to broil on the high setting. Slice the potatoes into ¼ inch rounds."
+        },
+        {
+          "tag": "li",
+          "text": "Toss sliced potatoes in vegetable oil and season with kosher salt and pepper."
+        },
+        {
+          "tag": "li",
+          "text": "Place potatoes onto a parchment-lined baking tray. Broil the potatoes for 4-6 minutes, then flip and broil for an additional 4-6 minutes."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

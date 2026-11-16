@@ -1,0 +1,305 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/easy-classic-donuts-recipes",
+  "recipes": [
+    {
+      "name": "Making Easy Classic Donuts At Home",
+      "source_url": "https://www.joshuaweissman.com/recipes/easy-classic-donuts-recipes",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "15",
+      "prep_time": "1 hour, 30 minutes",
+      "cook_time": "30 minutes",
+      "total_time": "2 hours",
+      "ingredients": [
+        "Pyrex Measuring Cup",
+        "Kitchen Stand Mixer",
+        "1 cup (237) whole milk",
+        "2.5 tsp (7g) instant yeast",
+        "2 eggs",
+        "½ cup (113g) unsalted butter, melted cooled",
+        "3 Tbsp (40g) granulated sugar",
+        "1 Tbsp (16g) light brown",
+        "1.5 tsp (6g) fine sea salt",
+        "4 cups (560g) all purpose flour",
+        "High heat neutral oil for frying. 2 - 3 qts",
+        "1 ⅓ cup (175g) powdered sugar",
+        "3 heaping tbsp (26g) cocoa powder",
+        "½ tsp kosher salt",
+        "2 Tbsp water",
+        "2.5 cups (350g) cake flour",
+        "2 tsp (10g) baking powder",
+        "2 tsp (8g) kosher salt",
+        "½ cup (105g) granulated sugar",
+        "2 Tbsp (28g) unsalted butter, room temp",
+        "3/4 cup (175g) sour cream",
+        "2 -3 egg yolks",
+        "2.5 cups (360g) powdered sugar",
+        "¼ cup (60ml) whole milk",
+        "½ vanilla bean pod"
+      ],
+      "instructions": [
+        "Start by mixing milk and instant yeast and set to the side for 10 minutes.",
+        "Into the bowl of a stand mixer, add and combine all dry ingredients until incorporated. Pour half the mixture into a separate bowl.",
+        "Crack and whisk the eggs into a small bowl.",
+        "Add the beaten eggs, instant yeast mixture, and melted butter to the dry ingredients while whisking on medium-low speed.",
+        "Mix until homogeneous before adding the rest of the flour mixture. Continue mixing until a dough forms.",
+        "Knead dough on a countertop surface for a minute until smooth and form into a taut ball.",
+        "Place in a greased bowl, cover with a damp towel and let rise at room temperature for 1 hour.",
+        "On a lightly floured surface, flour the dough and roll out until ½’ thick and cut out as many pieces as possible using a biscuit cutter.",
+        "In the center of each piece, cut out using a 1” biscuit cutter.",
+        "Place onto a lightly floured baking sheet, cover with a damp towel and let rise for 45-60 minutes.",
+        "Preheat frying oil to 350F in a heavy bottom pot. Fry each side for 2-3 minutes. Cool on a wire rack.",
+        "Dunk donut into the desired icing and let drip dry on a wire rack.",
+        "Start by combining cake flour, baking powder, and sea salt. Whisk together.",
+        "In the bowl of a stand mixer, add in unsalted butter and while whisking vigorously add in granulated sugar.",
+        "Using the paddle attachment, whisk on medium-low speed. Add in egg yolks one at a time until smooth.",
+        "Add in the sour cream along with the flour mixture in batches. Mix until smooth.",
+        "Dump into a bowl, cover with plastic wrap and refrigerate for 1 hour.",
+        "On a lightly floured surface, dump out the flour and roll out to a ½” thickness and cut out as many pieces using a biscuit cutter.",
+        "In the center of each piece, cut out using a 1” biscuit cutter.",
+        "Place onto a lightly floured baking sheet, cover with plastic wrap and fridge to chill just before frying.",
+        "Preheat frying oil to 350℉ in a heavy bottom pot. Fry each side for 2 - 3 minutes. Cool on a wire rack.",
+        "Dunk donut into the desired icing and let drip dry on a wire rack.",
+        "In a medium bowl, mix together sugar, cocoa powder, and salt. Add water little by little until it forms into a nice consistency.",
+        "In a separate bowl, add and combine powdered sugar with milk. Whisk to combine. Optionally whisk in vanilla pod beans with a pinch of salt."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Items Used:"
+        },
+        {
+          "tag": "li",
+          "text": "Pyrex Measuring Cup"
+        },
+        {
+          "tag": "li",
+          "text": "Kitchen Stand Mixer"
+        },
+        {
+          "tag": "p",
+          "text": "Traditional Yeasted Donuts:"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup (237) whole milk"
+        },
+        {
+          "tag": "li",
+          "text": "2.5 tsp (7g) instant yeast"
+        },
+        {
+          "tag": "li",
+          "text": "2 eggs"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (113g) unsalted butter, melted cooled"
+        },
+        {
+          "tag": "li",
+          "text": "3 Tbsp (40g) granulated sugar"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (16g) light brown"
+        },
+        {
+          "tag": "li",
+          "text": "1.5 tsp (6g) fine sea salt"
+        },
+        {
+          "tag": "li",
+          "text": "4 cups (560g) all purpose flour"
+        },
+        {
+          "tag": "li",
+          "text": "High heat neutral oil for frying. 2 - 3 qts"
+        },
+        {
+          "tag": "p",
+          "text": "‍Chocolate glaze:"
+        },
+        {
+          "tag": "li",
+          "text": "1 ⅓ cup (175g) powdered sugar"
+        },
+        {
+          "tag": "li",
+          "text": "3 heaping tbsp (26g) cocoa powder"
+        },
+        {
+          "tag": "li",
+          "text": "½ tsp kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp water"
+        },
+        {
+          "tag": "p",
+          "text": "‍Sour Cream Donuts:"
+        },
+        {
+          "tag": "li",
+          "text": "2.5 cups (350g) cake flour"
+        },
+        {
+          "tag": "li",
+          "text": "2 tsp (10g) baking powder"
+        },
+        {
+          "tag": "li",
+          "text": "2 tsp (8g) kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (105g) granulated sugar"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp (28g) unsalted butter, room temp"
+        },
+        {
+          "tag": "li",
+          "text": "3/4 cup (175g) sour cream"
+        },
+        {
+          "tag": "li",
+          "text": "2 -3 egg yolks"
+        },
+        {
+          "tag": "p",
+          "text": "Glaze:"
+        },
+        {
+          "tag": "li",
+          "text": "2.5 cups (360g) powdered sugar"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup (60ml) whole milk"
+        },
+        {
+          "tag": "li",
+          "text": "½ vanilla bean pod"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "p",
+          "text": "Traditional:"
+        },
+        {
+          "tag": "li",
+          "text": "Start by mixing milk and instant yeast and set to the side for 10 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Into the bowl of a stand mixer, add and combine all dry ingredients until incorporated. Pour half the mixture into a separate bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Crack and whisk the eggs into a small bowl."
+        },
+        {
+          "tag": "li",
+          "text": "Add the beaten eggs, instant yeast mixture, and melted butter to the dry ingredients while whisking on medium-low speed."
+        },
+        {
+          "tag": "li",
+          "text": "Mix until homogeneous before adding the rest of the flour mixture. Continue mixing until a dough forms."
+        },
+        {
+          "tag": "li",
+          "text": "Knead dough on a countertop surface for a minute until smooth and form into a taut ball."
+        },
+        {
+          "tag": "li",
+          "text": "Place in a greased bowl, cover with a damp towel and let rise at room temperature for 1 hour."
+        },
+        {
+          "tag": "li",
+          "text": "On a lightly floured surface, flour the dough and roll out until ½’ thick and cut out as many pieces as possible using a biscuit cutter."
+        },
+        {
+          "tag": "li",
+          "text": "In the center of each piece, cut out using a 1” biscuit cutter."
+        },
+        {
+          "tag": "li",
+          "text": "Place onto a lightly floured baking sheet, cover with a damp towel and let rise for 45-60 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Preheat frying oil to 350F in a heavy bottom pot. Fry each side for 2-3 minutes. Cool on a wire rack."
+        },
+        {
+          "tag": "li",
+          "text": "Dunk donut into the desired icing and let drip dry on a wire rack."
+        },
+        {
+          "tag": "p",
+          "text": "‍Sour Cream:"
+        },
+        {
+          "tag": "li",
+          "text": "Start by combining cake flour, baking powder, and sea salt. Whisk together."
+        },
+        {
+          "tag": "li",
+          "text": "In the bowl of a stand mixer, add in unsalted butter and while whisking vigorously add in granulated sugar."
+        },
+        {
+          "tag": "li",
+          "text": "Using the paddle attachment, whisk on medium-low speed. Add in egg yolks one at a time until smooth."
+        },
+        {
+          "tag": "li",
+          "text": "Add in the sour cream along with the flour mixture in batches. Mix until smooth."
+        },
+        {
+          "tag": "li",
+          "text": "Dump into a bowl, cover with plastic wrap and refrigerate for 1 hour."
+        },
+        {
+          "tag": "li",
+          "text": "On a lightly floured surface, dump out the flour and roll out to a ½” thickness and cut out as many pieces using a biscuit cutter."
+        },
+        {
+          "tag": "li",
+          "text": "In the center of each piece, cut out using a 1” biscuit cutter."
+        },
+        {
+          "tag": "li",
+          "text": "Place onto a lightly floured baking sheet, cover with plastic wrap and fridge to chill just before frying."
+        },
+        {
+          "tag": "li",
+          "text": "Preheat frying oil to 350℉ in a heavy bottom pot. Fry each side for 2 - 3 minutes. Cool on a wire rack."
+        },
+        {
+          "tag": "li",
+          "text": "Dunk donut into the desired icing and let drip dry on a wire rack."
+        },
+        {
+          "tag": "p",
+          "text": "‍Glaze:"
+        },
+        {
+          "tag": "li",
+          "text": "In a medium bowl, mix together sugar, cocoa powder, and salt. Add water little by little until it forms into a nice consistency."
+        },
+        {
+          "tag": "li",
+          "text": "In a separate bowl, add and combine powdered sugar with milk. Whisk to combine. Optionally whisk in vanilla pod beans with a pinch of salt."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

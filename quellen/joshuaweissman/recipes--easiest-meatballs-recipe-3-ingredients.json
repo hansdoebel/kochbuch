@@ -1,0 +1,81 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/easiest-meatballs-recipe-3-ingredients",
+  "recipes": [
+    {
+      "name": "The Easiest Meatballs (3 Ingredients)",
+      "source_url": "https://www.joshuaweissman.com/recipes/easiest-meatballs-recipe-3-ingredients",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "8",
+      "prep_time": "10 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        "Large Bowl",
+        "Parchment Lined Sheet Tray",
+        "1 lb (453g) 70% Lean Ground Beef",
+        "2 Tbsp (15g) dry mushroom soup mix",
+        "1 slice stale bread, chopped",
+        "Water, splash"
+      ],
+      "instructions": [
+        "Preheat the oven to 450°F (230°C).",
+        "In a large bowl mix together the ground beef, soup mix, stale bread, and a splash of water until fully combined. Divide the mixture into 8 portions and roll into balls. Place on a parchment paper-lined sheet tray.",
+        "Bake for 15-20 minutes, or until the meatballs are cooked through and nicely browned on the outside."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Items Used:"
+        },
+        {
+          "tag": "li",
+          "text": "Large Bowl"
+        },
+        {
+          "tag": "li",
+          "text": "Parchment Lined Sheet Tray"
+        },
+        {
+          "tag": "p",
+          "text": "Meatballs:"
+        },
+        {
+          "tag": "li",
+          "text": "1 lb (453g) 70% Lean Ground Beef"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp (15g) dry mushroom soup mix"
+        },
+        {
+          "tag": "li",
+          "text": "1 slice stale bread, chopped"
+        },
+        {
+          "tag": "li",
+          "text": "Water, splash"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Preheat the oven to 450°F (230°C)."
+        },
+        {
+          "tag": "li",
+          "text": "In a large bowl mix together the ground beef, soup mix, stale bread, and a splash of water until fully combined. Divide the mixture into 8 portions and roll into balls. Place on a parchment paper-lined sheet tray."
+        },
+        {
+          "tag": "li",
+          "text": "Bake for 15-20 minutes, or until the meatballs are cooked through and nicely browned on the outside."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

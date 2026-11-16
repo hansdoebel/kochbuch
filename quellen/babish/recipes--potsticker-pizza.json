@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.babi.sh/recipes/potsticker-pizza",
+  "recipes": [
+    {
+      "name": "Potsticker Pizza",
+      "source_url": "https://www.babi.sh/recipes/potsticker-pizza",
+      "recipe_id": null,
+      "authors": [
+        "bingingwithbabish"
+      ],
+      "publisher": "Babish",
+      "language": "en",
+      "yield": "",
+      "prep_time": "PT0S",
+      "cook_time": "PT0S",
+      "total_time": "PT0S",
+      "ingredients": [
+        "1 lb ground pork",
+        "1 shredded carrot",
+        "1 cup shredded cabbage",
+        "3 cloves garlic, grated",
+        "1 inch piece ginger, grated",
+        "2 tbsp toasted sesame oil",
+        "2 tbsp mirin",
+        "1/4 cup dark soy sauce",
+        "Salt and pepper, to taste",
+        "525 g pizza dough (store bought or homemade)",
+        "Cornmeal (for dusting) Béchamel sauce",
+        "2 cups shredded low moisture mozzarella cheese",
+        "Chili crisp (for garnish)",
+        "Scallions, chopped (for garnish)",
+        "Sesame seeds (for garnish"
+      ],
+      "instructions": [
+        "Cook 1 lb of ground pork in a skillet until browned. Drain the pork on paper towels and set it aside.",
+        "In the reserved pork fat, sauté 1 shredded carrot and 1 cup of shredded cabbage. Add 3 grated garlic cloves and 1 inch of grated ginger. Cook until fragrant.",
+        "Stir in 2 tablespoons of toasted sesame oil, 2 tablespoons of mirin, and ¼ cup of dark soy sauce. Season with salt and pepper to taste, then let the mixture cool.",
+        "Stretch 525g of pizza dough into a 22-inch round. Transfer it to a pizza peel generously dusted with cornmeal.",
+        "Spread béchamel sauce over the dough. Sprinkle with shredded low-moisture mozzarella, then top generously with the cooled potsticker filling.",
+        "Preheat a pizza oven to 550-600°F. Cook the pizza for 3-5 minutes, turning it occasionally until it's done.",
+        "Drizzle and brush the cooked pizza with chili crisp. Scatter chopped scallions and sesame seeds on top.",
+        "Slice and enjoy your potsticker pizza!"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": []
+    }
+  ],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,68 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/easiest-kettle-corn-recipe",
+  "recipes": [
+    {
+      "name": "The Easiest Kettle Corn (3 Ingredients)",
+      "source_url": "https://www.joshuaweissman.com/recipes/easiest-kettle-corn-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "2",
+      "prep_time": "5 minutes",
+      "cook_time": "5 minutes",
+      "total_time": "10 minutes",
+      "ingredients": [
+        "Kosher salt, to taste",
+        "3 Tbsp (36g) granulated sugar",
+        "2 Tbsp (30g) vegetable oil",
+        "¼ cup (56g) corn kernels"
+      ],
+      "instructions": [
+        "To a blender, add the desired amount of kosher salt and the sugar and blend on high speed until it turns to powder.",
+        "To a 6-quart pot set over medium-high heat, add the vegetable oil and heat until just smoking. Add the popcorn kernels and sugar/salt mixture and top with a lid.",
+        "Continuously and vigorously shake the pot, holding the lid down, until the popping begins to subside, about 3-4 minutes.",
+        "Pour into a serving bowl and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "Kosher salt, to taste"
+        },
+        {
+          "tag": "li",
+          "text": "3 Tbsp (36g) granulated sugar"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp (30g) vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup (56g) corn kernels"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "To a blender, add the desired amount of kosher salt and the sugar and blend on high speed until it turns to powder."
+        },
+        {
+          "tag": "li",
+          "text": "To a 6-quart pot set over medium-high heat, add the vegetable oil and heat until just smoking. Add the popcorn kernels and sugar/salt mixture and top with a lid."
+        },
+        {
+          "tag": "li",
+          "text": "Continuously and vigorously shake the pot, holding the lid down, until the popping begins to subside, about 3-4 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Pour into a serving bowl and enjoy."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

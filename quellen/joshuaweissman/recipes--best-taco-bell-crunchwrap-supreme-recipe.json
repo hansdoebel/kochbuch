@@ -1,0 +1,346 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-taco-bell-crunchwrap-supreme-recipe",
+  "recipes": [
+    {
+      "name": "Making The Taco Bell Crunchwrap Supreme At Home | But Better",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-taco-bell-crunchwrap-supreme-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "6",
+      "prep_time": "1 hour, 15 minutes",
+      "cook_time": "1 hour",
+      "total_time": "2 hours, 15 minutes",
+      "ingredients": [
+        "Cast Iron Skillet",
+        "Pyrex Measuring Cup",
+        "Food Scale",
+        "2.5 cups (360g) all purpose flour",
+        "1 tsp (8g) baking powder",
+        "2 tsp (7g) kosher salt",
+        "½ cup (100g) pork fat",
+        "⅔ cup (160ml) hot water",
+        "2 split bone in chicken breast, small dice",
+        "1 bunch parsley",
+        "2 heads of garlic",
+        "Orange slices",
+        "Olive oil for drizzling",
+        "Kosher salt and pepper to taste",
+        "½ cup (125g) sour cream",
+        "2 Tbsp (25g) mayonnaise",
+        "2 Tbsp (25g) jalapeño salsa",
+        "2 tsp (4g) garlic powder",
+        "1.5 tsp (2g) chipotle",
+        "2 tsp (3g) Spanish sweet paprika",
+        "Juice of 1 lemon",
+        "Kosher salt to taste",
+        "½ head iceberg lettuce, thinly sliced",
+        "½ bunch cilantro, rough chopped",
+        "Zest of 1 orange",
+        "2 Heirloom tomatoes",
+        "Kosher salt to taste",
+        "2 Tortillas, 1 burrito size, 1 regular size",
+        "Roast Chicken",
+        "Spicy Crema sauce",
+        "¼ cup cheddar cheese, grated",
+        "Tostada shell",
+        "Herb Salad",
+        "Diced Tomatoes"
+      ],
+      "instructions": [
+        "To a bowl, combine and whisk together all the dry ingredients.",
+        "Add in the pork fat and incorporate using two forks.",
+        "Add hot water and mix together until a dough forms.",
+        "Knead until smooth. Place back into a covered bowl and rest for 30-60 minutes.",
+        "Divide the dough into 5-6 balls and on a well floured surface and roll out as thin as possible.",
+        "Heat a cast iron skillet over medium-high heat, place tortilla into the skillet for 30 seconds or slightly charred. Flip and repeat with the remaining batch.",
+        "Homemade or store bought tortillas",
+        "Fry in 350℉ oil for 2-3 minutes flipping occasionally.",
+        "Pull from oil and transfer to a wire rack and immediately season with salt.",
+        "In a 10” skillet, add in the parsley, sliced garlic, orange or lemon slices, and drizzle with olive oil.",
+        "Generously season the chicken breast with salt and pepper and pat dry. Place in pan.",
+        "Place chicken and herbs into 450℉ oven for 30-40 minutes, or until 165℉ internal temperature is reached.",
+        "In a medium bowl, add sour cream, mayo, jalapeno sauce, garlic powder, chipotle powder, sweet paprika, juice of a lemon, and salt to taste. Whisk to combine.",
+        "Into a large bowl, add finely chopped iceberg lettuce, chopped cilantro, and zest of an orange.",
+        "Toss to combine.",
+        "Dice heirloom tomatoes. Place into a bowl, season with salt, and let sit until ready to use.",
+        "Using a warm tortilla as the base, layer with diced chicken topped with crema sauce and shredded cheese.",
+        "Top with a tostada shell and topped with the herb salad and diced tomatoes. Drizzle with crema sauce.",
+        "Add a smaller tortilla on top then fold the base tortilla around that.",
+        "Place on a pan set over medium heat. Heat until crispy and stays together. Flip and repeat. 2-3 minutes per side."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Items Used:"
+        },
+        {
+          "tag": "li",
+          "text": "Cast Iron Skillet"
+        },
+        {
+          "tag": "li",
+          "text": "Pyrex Measuring Cup"
+        },
+        {
+          "tag": "li",
+          "text": "Food Scale"
+        },
+        {
+          "tag": "p",
+          "text": "Tortilla:"
+        },
+        {
+          "tag": "li",
+          "text": "2.5 cups (360g) all purpose flour"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (8g) baking powder"
+        },
+        {
+          "tag": "li",
+          "text": "2 tsp (7g) kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (100g) pork fat"
+        },
+        {
+          "tag": "li",
+          "text": "⅔ cup (160ml) hot water"
+        },
+        {
+          "tag": "p",
+          "text": "Roast Chicken:"
+        },
+        {
+          "tag": "li",
+          "text": "2 split bone in chicken breast, small dice"
+        },
+        {
+          "tag": "li",
+          "text": "1 bunch parsley"
+        },
+        {
+          "tag": "li",
+          "text": "2 heads of garlic"
+        },
+        {
+          "tag": "li",
+          "text": "Orange slices"
+        },
+        {
+          "tag": "li",
+          "text": "Olive oil for drizzling"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt and pepper to taste"
+        },
+        {
+          "tag": "p",
+          "text": "Spicy Crema Sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (125g) sour cream"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp (25g) mayonnaise"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp (25g) jalapeño salsa"
+        },
+        {
+          "tag": "li",
+          "text": "2 tsp (4g) garlic powder"
+        },
+        {
+          "tag": "li",
+          "text": "1.5 tsp (2g) chipotle"
+        },
+        {
+          "tag": "li",
+          "text": "2 tsp (3g) Spanish sweet paprika"
+        },
+        {
+          "tag": "li",
+          "text": "Juice of 1 lemon"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt to taste"
+        },
+        {
+          "tag": "p",
+          "text": "Herb Salad and Diced Tomatoes:"
+        },
+        {
+          "tag": "li",
+          "text": "½ head iceberg lettuce, thinly sliced"
+        },
+        {
+          "tag": "li",
+          "text": "½ bunch cilantro, rough chopped"
+        },
+        {
+          "tag": "li",
+          "text": "Zest of 1 orange"
+        },
+        {
+          "tag": "li",
+          "text": "2 Heirloom tomatoes"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt to taste"
+        },
+        {
+          "tag": "p",
+          "text": "Assembly:"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tortillas, 1 burrito size, 1 regular size"
+        },
+        {
+          "tag": "li",
+          "text": "Roast Chicken"
+        },
+        {
+          "tag": "li",
+          "text": "Spicy Crema sauce"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup cheddar cheese, grated"
+        },
+        {
+          "tag": "li",
+          "text": "Tostada shell"
+        },
+        {
+          "tag": "li",
+          "text": "Herb Salad"
+        },
+        {
+          "tag": "li",
+          "text": "Diced Tomatoes"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "p",
+          "text": "Tortilla:"
+        },
+        {
+          "tag": "li",
+          "text": "To a bowl, combine and whisk together all the dry ingredients."
+        },
+        {
+          "tag": "li",
+          "text": "Add in the pork fat and incorporate using two forks."
+        },
+        {
+          "tag": "li",
+          "text": "Add hot water and mix together until a dough forms."
+        },
+        {
+          "tag": "li",
+          "text": "Knead until smooth. Place back into a covered bowl and rest for 30-60 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Divide the dough into 5-6 balls and on a well floured surface and roll out as thin as possible."
+        },
+        {
+          "tag": "li",
+          "text": "Heat a cast iron skillet over medium-high heat, place tortilla into the skillet for 30 seconds or slightly charred. Flip and repeat with the remaining batch."
+        },
+        {
+          "tag": "p",
+          "text": "Tostadas:"
+        },
+        {
+          "tag": "li",
+          "text": "Homemade or store bought tortillas"
+        },
+        {
+          "tag": "li",
+          "text": "Fry in 350℉ oil for 2-3 minutes flipping occasionally."
+        },
+        {
+          "tag": "li",
+          "text": "Pull from oil and transfer to a wire rack and immediately season with salt."
+        },
+        {
+          "tag": "p",
+          "text": "Chicken:"
+        },
+        {
+          "tag": "li",
+          "text": "In a 10” skillet, add in the parsley, sliced garlic, orange or lemon slices, and drizzle with olive oil."
+        },
+        {
+          "tag": "li",
+          "text": "Generously season the chicken breast with salt and pepper and pat dry. Place in pan."
+        },
+        {
+          "tag": "li",
+          "text": "Place chicken and herbs into 450℉ oven for 30-40 minutes, or until 165℉ internal temperature is reached."
+        },
+        {
+          "tag": "p",
+          "text": "Spicy Crema Sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "In a medium bowl, add sour cream, mayo, jalapeno sauce, garlic powder, chipotle powder, sweet paprika, juice of a lemon, and salt to taste. Whisk to combine."
+        },
+        {
+          "tag": "p",
+          "text": "Herb Salad & Diced Tomatoes:"
+        },
+        {
+          "tag": "li",
+          "text": "Into a large bowl, add finely chopped iceberg lettuce, chopped cilantro, and zest of an orange."
+        },
+        {
+          "tag": "li",
+          "text": "Toss to combine."
+        },
+        {
+          "tag": "li",
+          "text": "Dice heirloom tomatoes. Place into a bowl, season with salt, and let sit until ready to use."
+        },
+        {
+          "tag": "p",
+          "text": "Assembly:"
+        },
+        {
+          "tag": "li",
+          "text": "Using a warm tortilla as the base, layer with diced chicken topped with crema sauce and shredded cheese."
+        },
+        {
+          "tag": "li",
+          "text": "Top with a tostada shell and topped with the herb salad and diced tomatoes. Drizzle with crema sauce."
+        },
+        {
+          "tag": "li",
+          "text": "Add a smaller tortilla on top then fold the base tortilla around that."
+        },
+        {
+          "tag": "li",
+          "text": "Place on a pan set over medium heat. Heat until crispy and stays together. Flip and repeat. 2-3 minutes per side."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

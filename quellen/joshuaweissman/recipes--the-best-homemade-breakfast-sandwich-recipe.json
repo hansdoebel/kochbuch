@@ -1,0 +1,234 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/the-best-homemade-breakfast-sandwich-recipe",
+  "recipes": [
+    {
+      "name": "The Best Breakfast Sandwich at Home",
+      "source_url": "https://www.joshuaweissman.com/recipes/the-best-homemade-breakfast-sandwich-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "25 minutes",
+      "cook_time": "30 minutes",
+      "total_time": "55 minutes",
+      "ingredients": [
+        "8 large eggs",
+        "1.5 tsp (5g) kosher salt",
+        "¼ cup (60mL) heavy whipping cream",
+        "¼ cup (60mL) whole milk",
+        "Cooking spray, for greasing",
+        "1.5 lbs (680g) Russet potatoes, peeled and coarsely grated",
+        "2 cups (480mL) duck fat, or fat of your choosing (lard, tallow, etc.)",
+        "Kosher salt, to taste",
+        "2 Tbsp (20g) cornstarch, plus more if needed",
+        "2.5 qts (2.4L) neutral oil (canola, avocado, peanut, etc.), for frying",
+        "½ cup (100g) Kewpie mayo",
+        "1 Tbsp (15g) ketchup",
+        "2.5 tsp (8g) gochujang, *see Notes*",
+        "1 tsp (3g) smoked paprika, *optional",
+        "1 tsp (3g) cayenne pepper",
+        "1 clove garlic, grated",
+        "Kosher salt and freshly ground black pepper, to taste",
+        "½ lb (227g) mortadella, very thinly sliced",
+        "4 brioche buns, St. Pierre brand preferred",
+        "Unsalted butter, for toasting",
+        "4 slices American cheese, *see Notes*"
+      ],
+      "instructions": [
+        "Preheat the oven to 300°F (149°C). Crack the eggs into a quart container, or medium-sized mixing bowl. Add the salt, heavy cream, and milk, then use an immersion blender, or whisk, to beat the mixture until homogeneous.",
+        "Lightly grease an 8x8” (20x20 cm) baking dish with cooking spray. Transfer the beaten eggs into the pan, optionally passing them through a fine mesh strainer for a smoother consistency. Place the 8x8” pan inside a 9x13” (23x33 cm) baking dish. Carefully pour boiling water into the 9x13” pan so that it reaches about halfway up the sides of the 8x8” pan. Tent the entire setup loosely, then transfer to the preheated oven. Bake for 25-30 minutes, or until fully set. Let cool slightly then flip onto a cutting board and slice into four 4x4” (10x10 cm) squares.",
+        "Place the grated potatoes in a clean dish towel then wring out as much excess water as possible over the sink.",
+        "Transfer the potatoes to a cold medium-sized sauce pot. Add the duck fat and set over medium heat. Cook gently, stirring occasionally, until the potatoes are about 80% cooked (think al dente pasta), about 10 minutes. Strain off the fat and reserve for future use. Transfer the potatoes to a large mixing bowl. Season to taste with salt, then fold in the cornstarch one half at a time. The mixture should come together and hold its shape when pressed.",
+        "Divide into four evenly sized balls and shape into circles about the same diameter as your buns *see Notes*. Transfer to the fridge or freezer to finish cooling, about 2–3 hours, or fry immediately if fully cooled.",
+        "Heat the neutral oil to 350°F (177°C) in a large heavy bottomed pot, making sure not to fill the pot beyond halfway full with oil. Gently drop in a hashbrown or two and fry until golden brown and crispy, about 3-4 minutes. Transfer to a paper towel lined wire rack set over a baking sheet and let cool slightly before serving. Repeat with the rest of your hash browns.",
+        "In a small mixing bowl, add the Kewpie mayo, ketchup, gochujang, paprika, cayenne, and garlic. Season to taste with salt and pepper then whisk until combined.",
+        "In a large nonstick skillet heated over medium heat, create four piles of 6-7 slices of mortadella each, laid in the shape of your buns. You want the mortadella to fold onto itself so that you get a nice mixture of caramelized crispy edges and tender juicy meat. Sear until lightly browned, about 2 minutes, then flip and continue to cook until heated through. Keep warm until ready to serve. Toast your buns cut side down in a generously buttered skillet over medium heat, rotating often, until golden brown, about 1-2 minutes. Alternatively, use a conventional toaster.",
+        "To assemble, spread a thin layer of the spicy mayo across the entire surface of the toasted bottom bun. Top with a hash brown, seared mortadella, a square of egg, and a slice of American cheese. Spread mayo on your top bun then crown your king. Serve and enjoy!",
+        "The gochujang can be replaced with Sriracha if you have that and not gochujang. It won’t taste the same, but it will still taste good!",
+        "You can use sharp provolone if American cheese is not desired.",
+        "If you don’t want to make the steamed eggs you can totally just replace them with your preferred eggs of your choice (scrambled, fried, etc.).",
+        "If you want to make them perfectly shaped, use a 4” (10 cm) ring mold."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Steamed Egg:"
+        },
+        {
+          "tag": "li",
+          "text": "8 large eggs"
+        },
+        {
+          "tag": "li",
+          "text": "1.5 tsp (5g) kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup (60mL) heavy whipping cream"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup (60mL) whole milk"
+        },
+        {
+          "tag": "li",
+          "text": "Cooking spray, for greasing"
+        },
+        {
+          "tag": "p",
+          "text": "Hash Brown:"
+        },
+        {
+          "tag": "li",
+          "text": "1.5 lbs (680g) Russet potatoes, peeled and coarsely grated"
+        },
+        {
+          "tag": "li",
+          "text": "2 cups (480mL) duck fat, or fat of your choosing (lard, tallow, etc.)"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt, to taste"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp (20g) cornstarch, plus more if needed"
+        },
+        {
+          "tag": "li",
+          "text": "2.5 qts (2.4L) neutral oil (canola, avocado, peanut, etc.), for frying"
+        },
+        {
+          "tag": "p",
+          "text": "Spicy Mayo:"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (100g) Kewpie mayo"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) ketchup"
+        },
+        {
+          "tag": "li",
+          "text": "2.5 tsp (8g) gochujang, *see Notes*"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) smoked paprika, *optional"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) cayenne pepper"
+        },
+        {
+          "tag": "li",
+          "text": "1 clove garlic, grated"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt and freshly ground black pepper, to taste"
+        },
+        {
+          "tag": "p",
+          "text": "Assembly:"
+        },
+        {
+          "tag": "li",
+          "text": "½ lb (227g) mortadella, very thinly sliced"
+        },
+        {
+          "tag": "li",
+          "text": "4 brioche buns, St. Pierre brand preferred"
+        },
+        {
+          "tag": "li",
+          "text": "Unsalted butter, for toasting"
+        },
+        {
+          "tag": "li",
+          "text": "4 slices American cheese, *see Notes*"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "p",
+          "text": "Steamed Egg: *see Notes*"
+        },
+        {
+          "tag": "li",
+          "text": "Preheat the oven to 300°F (149°C). Crack the eggs into a quart container, or medium-sized mixing bowl. Add the salt, heavy cream, and milk, then use an immersion blender, or whisk, to beat the mixture until homogeneous."
+        },
+        {
+          "tag": "li",
+          "text": "Lightly grease an 8x8” (20x20 cm) baking dish with cooking spray. Transfer the beaten eggs into the pan, optionally passing them through a fine mesh strainer for a smoother consistency. Place the 8x8” pan inside a 9x13” (23x33 cm) baking dish. Carefully pour boiling water into the 9x13” pan so that it reaches about halfway up the sides of the 8x8” pan. Tent the entire setup loosely, then transfer to the preheated oven. Bake for 25-30 minutes, or until fully set. Let cool slightly then flip onto a cutting board and slice into four 4x4” (10x10 cm) squares."
+        },
+        {
+          "tag": "p",
+          "text": "Hash Brown:"
+        },
+        {
+          "tag": "li",
+          "text": "Place the grated potatoes in a clean dish towel then wring out as much excess water as possible over the sink."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer the potatoes to a cold medium-sized sauce pot. Add the duck fat and set over medium heat. Cook gently, stirring occasionally, until the potatoes are about 80% cooked (think al dente pasta), about 10 minutes. Strain off the fat and reserve for future use. Transfer the potatoes to a large mixing bowl. Season to taste with salt, then fold in the cornstarch one half at a time. The mixture should come together and hold its shape when pressed."
+        },
+        {
+          "tag": "li",
+          "text": "Divide into four evenly sized balls and shape into circles about the same diameter as your buns *see Notes*. Transfer to the fridge or freezer to finish cooling, about 2–3 hours, or fry immediately if fully cooled."
+        },
+        {
+          "tag": "li",
+          "text": "Heat the neutral oil to 350°F (177°C) in a large heavy bottomed pot, making sure not to fill the pot beyond halfway full with oil. Gently drop in a hashbrown or two and fry until golden brown and crispy, about 3-4 minutes. Transfer to a paper towel lined wire rack set over a baking sheet and let cool slightly before serving. Repeat with the rest of your hash browns."
+        },
+        {
+          "tag": "p",
+          "text": "Spicy Mayo:"
+        },
+        {
+          "tag": "li",
+          "text": "In a small mixing bowl, add the Kewpie mayo, ketchup, gochujang, paprika, cayenne, and garlic. Season to taste with salt and pepper then whisk until combined."
+        },
+        {
+          "tag": "p",
+          "text": "Assembly:"
+        },
+        {
+          "tag": "li",
+          "text": "In a large nonstick skillet heated over medium heat, create four piles of 6-7 slices of mortadella each, laid in the shape of your buns. You want the mortadella to fold onto itself so that you get a nice mixture of caramelized crispy edges and tender juicy meat. Sear until lightly browned, about 2 minutes, then flip and continue to cook until heated through. Keep warm until ready to serve. Toast your buns cut side down in a generously buttered skillet over medium heat, rotating often, until golden brown, about 1-2 minutes. Alternatively, use a conventional toaster."
+        },
+        {
+          "tag": "li",
+          "text": "To assemble, spread a thin layer of the spicy mayo across the entire surface of the toasted bottom bun. Top with a hash brown, seared mortadella, a square of egg, and a slice of American cheese. Spread mayo on your top bun then crown your king. Serve and enjoy!"
+        },
+        {
+          "tag": "p",
+          "text": "*Notes:"
+        },
+        {
+          "tag": "li",
+          "text": "The gochujang can be replaced with Sriracha if you have that and not gochujang. It won’t taste the same, but it will still taste good!"
+        },
+        {
+          "tag": "li",
+          "text": "You can use sharp provolone if American cheese is not desired."
+        },
+        {
+          "tag": "li",
+          "text": "If you don’t want to make the steamed eggs you can totally just replace them with your preferred eggs of your choice (scrambled, fried, etc.)."
+        },
+        {
+          "tag": "li",
+          "text": "If you want to make them perfectly shaped, use a 4” (10 cm) ring mold."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

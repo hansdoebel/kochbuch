@@ -1,0 +1,228 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-homemade-beer-recipe",
+  "recipes": [
+    {
+      "name": "How To Brew Your First Homemade Beer",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-homemade-beer-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "30",
+      "prep_time": "5 weeks",
+      "cook_time": "N/A",
+      "total_time": "5 weeks",
+      "ingredients": [
+        "Full Brewing Kit",
+        "Full Equipment and Ingredient List",
+        "Cheesecloth",
+        "Butcher’s Twine",
+        "Priming Sugar",
+        "1.5 lb (680g) Belgian pilsen",
+        "12 oz (340g) German wheat",
+        "12 oz (340g) aromatic wheat",
+        "8 oz (226g) special roast (lovibond 50)",
+        "4 oz (113g) caramunich malt",
+        "5 lb (2.25kilo) pilsen light liquid malt extract",
+        "½ oz (14g) Sorachi hops",
+        "1 oz (28g) Styrian goldings hops",
+        "65g fresh galangal or ginger, peeled and sliced into coins",
+        "10g coriander seeds, toasted",
+        "3g grains of paradise, toasted",
+        "1 bag Wyeast 3711 French Saison Premium Liquid Yeast"
+      ],
+      "instructions": [
+        "To a large saucepan with high sides, add 3 gallons (11.5L) of water and heat over medium-high to 160℉ (71℃), lowering or raising the heat, as needed to maintain this water temperature.",
+        "Fill the grain sack with the assorted grains. Tie a knot at the top of the sack, to seal, and submerge into the pot of water to steep for 1 hour. Check the water temperature every 10 minutes.",
+        "While the grains are steeping, sanitize the carboy and airlocks.",
+        "Once the grains are done steeping, lift the grain sack out of the water and pour 4 cups (950ml) of hot water through the bag until it stops dripping. Discard the grains and bring the liquid to a boil over medium-high heat. Add in the Pilsen light liquid malt extract and stir to completely dissolve. Bring to a boil. This sugary liquid is now known as the “wort.”",
+        "As soon as the wort comes to a boil, add the Sorachi hops and boil for 1 hour.",
+        "While the wort is boiling, wrap the galangal or ginger, coriander seeds and grains of paradise in cheesecloth and create a pouch, tying it closed with butcher’s twine.",
+        "With 20 minutes remaining in the boil, add the cheesecloth pouch of aromatics to the wort.",
+        "With 10 minutes remaining in the boil, add the Styrian Goulding’s hops.",
+        "After 1 hour of boiling, turn off the heat and allow the wort to cool to 80℉ (27℃). For faster cooling, you can fill your sink with ice water and allow the pot to sit in the ice bath. You can also add salt to the ice which will slow down how quickly the ice melts.",
+        "It is very important to note that the wort is now at its most fragile state. Only sanitized equipment can be used from this point forward.",
+        "Once cooled to 80℉ (27℃), pour the wort from the pot through the sanitized funnel into the sanitized carboy. Top it off with enough filtered water to reach the 5 gallon (19L) mark.",
+        "The next step is recommended but not required. To determine the end-result alcoholic content of the wort, use the hydrometer to measure the specific gravity. Follow the directions that accompany the hydrometer if you choose to do this step. If so, the starting specific gravity should be around 1.050.",
+        "Sanitize both the bag of yeast and a pair of scissors. Pour the entire bag of liquid yeast directly into the wort.",
+        "Apply the sanitized airlock and its stopper to the carboy. Make sure it’s fully locked down into the carboy.",
+        "Allow the wort to ferment at room temperature in a dark area with no sunlight for 14 days.",
+        "After 14 days, sanitize the beer bottles, bottle caps and bottle capper as well as prime them with priming sugar (conditioning tablets are easier, about 4-5 per bottle).",
+        "Using a sanitized auto siphon and bottle filler, attach the racking cane to the siphon and the other end to a bottle filler. Carefully place the siphon in the beer and begin pumping the beer through the siphon into the bottom of a beer bottle, being very careful to not touch any of the yeast cake settled at the bottom of the carboy. Once you’ve reached the top of the bottle, pull the siphon out. Repeat with the remaining bottles.",
+        "Using a bottle capper, cap the bottles and place them back in a dark place; letting them condition at room temperature for 3 weeks.",
+        "After 3 weeks, place and store the beer bottles in the refrigerator to chill for at least 24 hours before enjoying."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Items Used:"
+        },
+        {
+          "tag": "li",
+          "text": "Full Brewing Kit"
+        },
+        {
+          "tag": "li",
+          "text": "Full Equipment and Ingredient List"
+        },
+        {
+          "tag": "li",
+          "text": "Cheesecloth"
+        },
+        {
+          "tag": "li",
+          "text": "Butcher’s Twine"
+        },
+        {
+          "tag": "li",
+          "text": "Priming Sugar"
+        },
+        {
+          "tag": "p",
+          "text": "Grain Sack:"
+        },
+        {
+          "tag": "li",
+          "text": "1.5 lb (680g) Belgian pilsen"
+        },
+        {
+          "tag": "li",
+          "text": "12 oz (340g) German wheat"
+        },
+        {
+          "tag": "li",
+          "text": "12 oz (340g) aromatic wheat"
+        },
+        {
+          "tag": "li",
+          "text": "8 oz (226g) special roast (lovibond 50)"
+        },
+        {
+          "tag": "li",
+          "text": "4 oz (113g) caramunich malt"
+        },
+        {
+          "tag": "p",
+          "text": "‍The Wort:"
+        },
+        {
+          "tag": "li",
+          "text": "5 lb (2.25kilo) pilsen light liquid malt extract"
+        },
+        {
+          "tag": "li",
+          "text": "½ oz (14g) Sorachi hops"
+        },
+        {
+          "tag": "li",
+          "text": "1 oz (28g) Styrian goldings hops"
+        },
+        {
+          "tag": "li",
+          "text": "65g fresh galangal or ginger, peeled and sliced into coins"
+        },
+        {
+          "tag": "li",
+          "text": "10g coriander seeds, toasted"
+        },
+        {
+          "tag": "li",
+          "text": "3g grains of paradise, toasted"
+        },
+        {
+          "tag": "li",
+          "text": "1 bag Wyeast 3711 French Saison Premium Liquid Yeast"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "p",
+          "text": "Important Sanitation Note:"
+        },
+        {
+          "tag": "p",
+          "text": "Using a food grade liquid star sanitizer (diluted according to package instructions), thoroughly sanitize every single piece of equipment that the finished “wort/beer” will touch during the brewing process."
+        },
+        {
+          "tag": "li",
+          "text": "To a large saucepan with high sides, add 3 gallons (11.5L) of water and heat over medium-high to 160℉ (71℃), lowering or raising the heat, as needed to maintain this water temperature."
+        },
+        {
+          "tag": "li",
+          "text": "Fill the grain sack with the assorted grains. Tie a knot at the top of the sack, to seal, and submerge into the pot of water to steep for 1 hour. Check the water temperature every 10 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "While the grains are steeping, sanitize the carboy and airlocks."
+        },
+        {
+          "tag": "li",
+          "text": "Once the grains are done steeping, lift the grain sack out of the water and pour 4 cups (950ml) of hot water through the bag until it stops dripping. Discard the grains and bring the liquid to a boil over medium-high heat. Add in the Pilsen light liquid malt extract and stir to completely dissolve. Bring to a boil. This sugary liquid is now known as the “wort.”"
+        },
+        {
+          "tag": "li",
+          "text": "As soon as the wort comes to a boil, add the Sorachi hops and boil for 1 hour."
+        },
+        {
+          "tag": "li",
+          "text": "While the wort is boiling, wrap the galangal or ginger, coriander seeds and grains of paradise in cheesecloth and create a pouch, tying it closed with butcher’s twine."
+        },
+        {
+          "tag": "li",
+          "text": "With 20 minutes remaining in the boil, add the cheesecloth pouch of aromatics to the wort."
+        },
+        {
+          "tag": "li",
+          "text": "With 10 minutes remaining in the boil, add the Styrian Goulding’s hops."
+        },
+        {
+          "tag": "li",
+          "text": "After 1 hour of boiling, turn off the heat and allow the wort to cool to 80℉ (27℃). For faster cooling, you can fill your sink with ice water and allow the pot to sit in the ice bath. You can also add salt to the ice which will slow down how quickly the ice melts."
+        },
+        {
+          "tag": "li",
+          "text": "It is very important to note that the wort is now at its most fragile state. Only sanitized equipment can be used from this point forward."
+        },
+        {
+          "tag": "li",
+          "text": "Once cooled to 80℉ (27℃), pour the wort from the pot through the sanitized funnel into the sanitized carboy. Top it off with enough filtered water to reach the 5 gallon (19L) mark."
+        },
+        {
+          "tag": "li",
+          "text": "The next step is recommended but not required. To determine the end-result alcoholic content of the wort, use the hydrometer to measure the specific gravity. Follow the directions that accompany the hydrometer if you choose to do this step. If so, the starting specific gravity should be around 1.050."
+        },
+        {
+          "tag": "li",
+          "text": "Sanitize both the bag of yeast and a pair of scissors. Pour the entire bag of liquid yeast directly into the wort."
+        },
+        {
+          "tag": "li",
+          "text": "Apply the sanitized airlock and its stopper to the carboy. Make sure it’s fully locked down into the carboy."
+        },
+        {
+          "tag": "li",
+          "text": "Allow the wort to ferment at room temperature in a dark area with no sunlight for 14 days."
+        },
+        {
+          "tag": "li",
+          "text": "After 14 days, sanitize the beer bottles, bottle caps and bottle capper as well as prime them with priming sugar (conditioning tablets are easier, about 4-5 per bottle)."
+        },
+        {
+          "tag": "li",
+          "text": "Using a sanitized auto siphon and bottle filler, attach the racking cane to the siphon and the other end to a bottle filler. Carefully place the siphon in the beer and begin pumping the beer through the siphon into the bottom of a beer bottle, being very careful to not touch any of the yeast cake settled at the bottom of the carboy. Once you’ve reached the top of the bottle, pull the siphon out. Repeat with the remaining bottles."
+        },
+        {
+          "tag": "li",
+          "text": "Using a bottle capper, cap the bottles and place them back in a dark place; letting them condition at room temperature for 3 weeks."
+        },
+        {
+          "tag": "li",
+          "text": "After 3 weeks, place and store the beer bottles in the refrigerator to chill for at least 24 hours before enjoying."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

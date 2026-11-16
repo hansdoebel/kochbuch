@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/easiest-bacon-sausage-date-bites-recipe",
+  "recipes": [
+    {
+      "name": "The Easiest Bacon-Wrapped Sausage Date Bites (3 Ingredients)",
+      "source_url": "https://www.joshuaweissman.com/recipes/easiest-bacon-sausage-date-bites-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "15 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "35 minutes",
+      "ingredients": [
+        "½ lb (226g) Longanisa sausage, removed from the casings",
+        "12 oz (340g) dates, pitted and split on one side",
+        "8-10 bacon slices"
+      ],
+      "instructions": [
+        "Stuff each date with a spoonful of the sausage.",
+        "Wrap each date with a slice of bacon. Pin the bacon shut by threading a toothpick through the date and the bacon.",
+        "Into an aluminum foiled-lined air fryer set at 325°F (163°C), place the dates seam side down and air fry for 15-20 minutes, or until bacon is cooked and crispy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "½ lb (226g) Longanisa sausage, removed from the casings"
+        },
+        {
+          "tag": "li",
+          "text": "12 oz (340g) dates, pitted and split on one side"
+        },
+        {
+          "tag": "li",
+          "text": "8-10 bacon slices"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Stuff each date with a spoonful of the sausage."
+        },
+        {
+          "tag": "li",
+          "text": "Wrap each date with a slice of bacon. Pin the bacon shut by threading a toothpick through the date and the bacon."
+        },
+        {
+          "tag": "li",
+          "text": "Into an aluminum foiled-lined air fryer set at 325°F (163°C), place the dates seam side down and air fry for 15-20 minutes, or until bacon is cooked and crispy."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

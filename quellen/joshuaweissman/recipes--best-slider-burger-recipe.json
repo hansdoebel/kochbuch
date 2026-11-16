@@ -1,0 +1,121 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-slider-burger-recipe",
+  "recipes": [
+    {
+      "name": "Slider Burger",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-slider-burger-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        "3 oz (85g) 75/25 ground beef",
+        "1 tsp (3g) black pepper",
+        "1 tsp (3g) kosher salt",
+        "½ cup (67g) white onion, sliced thinly",
+        "1 slice American cheese",
+        "3 pickles",
+        "1 slider bun"
+      ],
+      "instructions": [
+        "Preheat a griddle or large skillet over medium-high heat.",
+        "Shape beef into a small ball, about 2-3 inches in diameter.",
+        "Once the griddle or skillet is hot, place the patty on it.",
+        "Season with salt and pepper. Use the back of the spatula to quickly press down the patty into a thin shape. Cook for about 2-3 minutes, or until browned on one side.",
+        "Using a spatula, quickly flip the patty and sprinkle sliced onions on top. Cook for an additional 1-2 minutes.",
+        "Pour beef broth on the griddle or skillet and quickly cover it with cheese and the top bun to create steam. Let the sliders steam for about 30 seconds to 1 minute.",
+        "Toast bun.",
+        "Place the bun heel on plate.",
+        "Add the patty on top.",
+        "Finish with the top half of the bun."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "3 oz (85g) 75/25 ground beef"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) black pepper"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (67g) white onion, sliced thinly"
+        },
+        {
+          "tag": "li",
+          "text": "1 slice American cheese"
+        },
+        {
+          "tag": "li",
+          "text": "3 pickles"
+        },
+        {
+          "tag": "li",
+          "text": "1 slider bun"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "p",
+          "text": "Burger:"
+        },
+        {
+          "tag": "li",
+          "text": "Preheat a griddle or large skillet over medium-high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Shape beef into a small ball, about 2-3 inches in diameter."
+        },
+        {
+          "tag": "li",
+          "text": "Once the griddle or skillet is hot, place the patty on it."
+        },
+        {
+          "tag": "li",
+          "text": "Season with salt and pepper. Use the back of the spatula to quickly press down the patty into a thin shape. Cook for about 2-3 minutes, or until browned on one side."
+        },
+        {
+          "tag": "li",
+          "text": "Using a spatula, quickly flip the patty and sprinkle sliced onions on top. Cook for an additional 1-2 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Pour beef broth on the griddle or skillet and quickly cover it with cheese and the top bun to create steam. Let the sliders steam for about 30 seconds to 1 minute."
+        },
+        {
+          "tag": "p",
+          "text": "Assembly:"
+        },
+        {
+          "tag": "li",
+          "text": "Toast bun."
+        },
+        {
+          "tag": "li",
+          "text": "Place the bun heel on plate."
+        },
+        {
+          "tag": "li",
+          "text": "Add the patty on top."
+        },
+        {
+          "tag": "li",
+          "text": "Finish with the top half of the bun."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,140 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-quick-chicken-noodle-soup-recipe",
+  "recipes": [
+    {
+      "name": "30 Minute Homemade Chicken Noodle Soup",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-quick-chicken-noodle-soup-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "10 minutes",
+      "cook_time": "30 minutes",
+      "total_time": "40 minutes",
+      "ingredients": [
+        "1 yellow onion, medium dice",
+        "3 carrots, sliced",
+        "4 celery rib, sliced",
+        "2.5 Tbsp (34g) oil",
+        "1 parsley bunch, use stems only",
+        "½ fresh thyme bunch",
+        "½ fresh sage bunch",
+        "2 pounds (1 kilo) chicken (breast, thigh, or both/ optionally skin on)",
+        "1 Tbsp (14g) unsalted butter",
+        "2.5 qt (2.3 liters) good chicken stock",
+        "½ lb (226g) pasta of choice",
+        "Kosher salt and pepper to taste"
+      ],
+      "instructions": [
+        "Heat oil in a 5-6 quart stock pot over medium high heat until nearly smoking. Sear all pieces of chicken for 3 minutes per side or till golden brown and place to the side. The chicken will still be raw in the center, don’t worry.",
+        "Once all the chicken has been seared, add butter to the pot and cook for 2-3 minutes or until lightly browned.",
+        "Add your onion, carrots, and celery, and saute for 3 minutes or just until the onions begin to turn translucent. Add chicken stock",
+        "Turn the heat to high, and as soon as it begins to come to a boil immediately reduce the heat to low and bring to a simmer.",
+        "Wrap your thyme, parsley stems, and sage in a piece of cheese cloth secured by a piece of kitchen twine. Add the herbs to the simmering stock along with all the pieces of chicken and the juices accumulated.",
+        "Simmer for 20 minutes or until chicken is cooked through.",
+        "Remove chicken from the pot and place to the side.",
+        "Bring a separate pot of generously salted water to a boil. Add the pasta and cook for 2–3 minutes less than the time listed on the package instructions",
+        "Once your chicken is cool enough to handle, shred it by hand and add it back to the stock along with the cooked noodles. Season to taste with salt and pepper.",
+        "Serve hot, and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 yellow onion, medium dice"
+        },
+        {
+          "tag": "li",
+          "text": "3 carrots, sliced"
+        },
+        {
+          "tag": "li",
+          "text": "4 celery rib, sliced"
+        },
+        {
+          "tag": "li",
+          "text": "2.5 Tbsp (34g) oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 parsley bunch, use stems only"
+        },
+        {
+          "tag": "li",
+          "text": "½ fresh thyme bunch"
+        },
+        {
+          "tag": "li",
+          "text": "½ fresh sage bunch"
+        },
+        {
+          "tag": "li",
+          "text": "2 pounds (1 kilo) chicken (breast, thigh, or both/ optionally skin on)"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (14g) unsalted butter"
+        },
+        {
+          "tag": "li",
+          "text": "2.5 qt (2.3 liters) good chicken stock"
+        },
+        {
+          "tag": "li",
+          "text": "½ lb (226g) pasta of choice"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt and pepper to taste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Heat oil in a 5-6 quart stock pot over medium high heat until nearly smoking. Sear all pieces of chicken for 3 minutes per side or till golden brown and place to the side. The chicken will still be raw in the center, don’t worry."
+        },
+        {
+          "tag": "li",
+          "text": "Once all the chicken has been seared, add butter to the pot and cook for 2-3 minutes or until lightly browned."
+        },
+        {
+          "tag": "li",
+          "text": "Add your onion, carrots, and celery, and saute for 3 minutes or just until the onions begin to turn translucent. Add chicken stock"
+        },
+        {
+          "tag": "li",
+          "text": "Turn the heat to high, and as soon as it begins to come to a boil immediately reduce the heat to low and bring to a simmer."
+        },
+        {
+          "tag": "li",
+          "text": "Wrap your thyme, parsley stems, and sage in a piece of cheese cloth secured by a piece of kitchen twine. Add the herbs to the simmering stock along with all the pieces of chicken and the juices accumulated."
+        },
+        {
+          "tag": "li",
+          "text": "Simmer for 20 minutes or until chicken is cooked through."
+        },
+        {
+          "tag": "li",
+          "text": "Remove chicken from the pot and place to the side."
+        },
+        {
+          "tag": "li",
+          "text": "Bring a separate pot of generously salted water to a boil. Add the pasta and cook for 2–3 minutes less than the time listed on the package instructions"
+        },
+        {
+          "tag": "li",
+          "text": "Once your chicken is cool enough to handle, shred it by hand and add it back to the stock along with the cooked noodles. Season to taste with salt and pepper."
+        },
+        {
+          "tag": "li",
+          "text": "Serve hot, and enjoy."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

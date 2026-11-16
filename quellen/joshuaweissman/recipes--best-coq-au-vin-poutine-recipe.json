@@ -1,0 +1,238 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-coq-au-vin-poutine-recipe",
+  "recipes": [
+    {
+      "name": "Joshua’s Recipe for Julia Child’s “Coq Au Vin Poutine”",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-coq-au-vin-poutine-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "10-15 minutes",
+      "cook_time": "40-50 minutes",
+      "total_time": "1 hour",
+      "ingredients": [
+        "4 chicken leg quarters",
+        "3 Tbsp (12g) fresh sage, finely chopped",
+        "3 Tbsp (12g) fresh parsley, finely chopped",
+        "Zest of 1 lemon",
+        "1 clove garlic, finely chopped",
+        "1 Tbsp (15g) dijon mustard",
+        "1 Tbsp (15g) olive oil",
+        "2 Tbsp (30g) vegetable oil",
+        "4 chicken leg quarter ballotine",
+        "2 oz (56g) guanciale or bacon, diced",
+        "20 pearl onions, depending on size",
+        "3 shallots, quartered",
+        "4 cloves garlic, finely chopped",
+        "2 Tbsp (30g) tomato paste",
+        "¼ cup (60g) Bourbon",
+        "3 Tbsp (45g) unsalted butter",
+        "3 Tbsp (30g) all-purpose flour",
+        "2 cups (480ml) red wine",
+        "2 cups (480ml) chicken stock",
+        "1 Tbsp (15g) molasses",
+        "2 Tbsp (30g) red wine vinegar",
+        "3 carrots, cut into 1 inch chunks",
+        "4 oz (113g) maitake mushrooms, broken into bite-sized clusters",
+        "4 oz (113g) shiitake mushrooms, stems removed, halved or quartered depending on size",
+        "4 sprigs fresh thyme",
+        "3 quarts (2.8L) vegetable oil",
+        "1 pound (450g) frozen french fries *see notes*",
+        "4 oz (113g) fresh cheese curds *see notes*"
+      ],
+      "instructions": [
+        "To make the ballotine, debone 4 chicken legs with the thigh and drumsticks attached, and remove tendons.",
+        "To a small bowl add finely chopped sage and parsley, lemon zest, garlic, mustard, olive oil, and salt and pepper to taste. Mix until well combined.",
+        "On a sheet pan lay out your deboned chicken legs, meat side up, and evenly spread your herb paste among all the chicken and season to taste with salt and pepper. Roll each leg as tightly as possible, and using butcher's twine, tie each leg at three intervals. Season all your chicken legs with salt to taste.",
+        "Heat a 5-quart Dutch oven or heavy-bottomed pot over medium-high heat. Add oil to the hot pan and sear chicken ballotines on all sides, 2-3 minutes per side or until golden brown.",
+        "Remove the chicken from the pot and reduce the heat to medium. Add the guanciale to the pot and cook, stirring often until golden brown, 3-4 minutes.",
+        "Add pearl onions, shallots, and garlic to the pot and season lightly with salt. Add tomato paste and cook until paste deepens in color, 30-45 seconds. Deglaze with Bourbon and reduce until most of the liquid is gone.",
+        "Fully melt butter in the pot. Add flour and cook for one minute, stirring occasionally. Add wine and chicken stock and season lightly with salt. Add molasses, red wine vinegar, and carrots. Increase heat to medium-high, cover, and bring to a boil.",
+        "As soon as the pot comes to a boil, reduce the heat to low. Add your chicken back to the pot, followed by your maitake and shiitake mushrooms and thyme. Cover and braise for 20-30 minutes.",
+        "For the french fries: While the coq au vin is cooking, fill a 6 quart Dutch oven or heavy-bottomed pot with vegetable oil and heat to 350°F (175°C). Once the oil is hot, add your French fries, working in batches, and fry, stirring occasionally, for 4-5 minutes or until golden brown. Using a spider, remove the fries and allow a moment to drain off excess oil before adding to a large mixing bowl and immediately seasoning to taste with salt. Toss while seasoning to get an even coating.",
+        "To a serving bowl, add a large handful of French fries, top with cheese curds, sauce and vegetables from your coq au vin, and one sliced ballotine followed by additional sauce. Serve and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Ballotine Chicken:"
+        },
+        {
+          "tag": "li",
+          "text": "4 chicken leg quarters"
+        },
+        {
+          "tag": "li",
+          "text": "3 Tbsp (12g) fresh sage, finely chopped"
+        },
+        {
+          "tag": "li",
+          "text": "3 Tbsp (12g) fresh parsley, finely chopped"
+        },
+        {
+          "tag": "li",
+          "text": "Zest of 1 lemon"
+        },
+        {
+          "tag": "li",
+          "text": "1 clove garlic, finely chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) dijon mustard"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) olive oil"
+        },
+        {
+          "tag": "p",
+          "text": "Assembly:"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp (30g) vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "4 chicken leg quarter ballotine"
+        },
+        {
+          "tag": "li",
+          "text": "2 oz (56g) guanciale or bacon, diced"
+        },
+        {
+          "tag": "li",
+          "text": "20 pearl onions, depending on size"
+        },
+        {
+          "tag": "li",
+          "text": "3 shallots, quartered"
+        },
+        {
+          "tag": "li",
+          "text": "4 cloves garlic, finely chopped"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp (30g) tomato paste"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup (60g) Bourbon"
+        },
+        {
+          "tag": "li",
+          "text": "3 Tbsp (45g) unsalted butter"
+        },
+        {
+          "tag": "li",
+          "text": "3 Tbsp (30g) all-purpose flour"
+        },
+        {
+          "tag": "li",
+          "text": "2 cups (480ml) red wine"
+        },
+        {
+          "tag": "li",
+          "text": "2 cups (480ml) chicken stock"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) molasses"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp (30g) red wine vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "3 carrots, cut into 1 inch chunks"
+        },
+        {
+          "tag": "li",
+          "text": "4 oz (113g) maitake mushrooms, broken into bite-sized clusters"
+        },
+        {
+          "tag": "li",
+          "text": "4 oz (113g) shiitake mushrooms, stems removed, halved or quartered depending on size"
+        },
+        {
+          "tag": "li",
+          "text": "4 sprigs fresh thyme"
+        },
+        {
+          "tag": "li",
+          "text": "3 quarts (2.8L) vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "1 pound (450g) frozen french fries *see notes*"
+        },
+        {
+          "tag": "li",
+          "text": "4 oz (113g) fresh cheese curds *see notes*"
+        },
+        {
+          "tag": "p",
+          "text": "* Notes: I want to mention that you can totally make this recipe without the French fries. I know poutine seems a bit overboard but I’ll be honest with you, it’s not only fun but an incredibly unique and delicious way to enjoy this dish. That said, if you make it without the fries and instead serve it traditionally with mashed potatoes or vegetables. Really enjoy it however you like."
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "p",
+          "text": "Ballotine Chicken:"
+        },
+        {
+          "tag": "li",
+          "text": "To make the ballotine, debone 4 chicken legs with the thigh and drumsticks attached, and remove tendons."
+        },
+        {
+          "tag": "li",
+          "text": "To a small bowl add finely chopped sage and parsley, lemon zest, garlic, mustard, olive oil, and salt and pepper to taste. Mix until well combined."
+        },
+        {
+          "tag": "li",
+          "text": "On a sheet pan lay out your deboned chicken legs, meat side up, and evenly spread your herb paste among all the chicken and season to taste with salt and pepper. Roll each leg as tightly as possible, and using butcher's twine, tie each leg at three intervals. Season all your chicken legs with salt to taste."
+        },
+        {
+          "tag": "p",
+          "text": "Assembly:"
+        },
+        {
+          "tag": "li",
+          "text": "Heat a 5-quart Dutch oven or heavy-bottomed pot over medium-high heat. Add oil to the hot pan and sear chicken ballotines on all sides, 2-3 minutes per side or until golden brown."
+        },
+        {
+          "tag": "li",
+          "text": "Remove the chicken from the pot and reduce the heat to medium. Add the guanciale to the pot and cook, stirring often until golden brown, 3-4 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Add pearl onions, shallots, and garlic to the pot and season lightly with salt. Add tomato paste and cook until paste deepens in color, 30-45 seconds. Deglaze with Bourbon and reduce until most of the liquid is gone."
+        },
+        {
+          "tag": "li",
+          "text": "Fully melt butter in the pot. Add flour and cook for one minute, stirring occasionally. Add wine and chicken stock and season lightly with salt. Add molasses, red wine vinegar, and carrots. Increase heat to medium-high, cover, and bring to a boil."
+        },
+        {
+          "tag": "li",
+          "text": "As soon as the pot comes to a boil, reduce the heat to low. Add your chicken back to the pot, followed by your maitake and shiitake mushrooms and thyme. Cover and braise for 20-30 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "For the french fries: While the coq au vin is cooking, fill a 6 quart Dutch oven or heavy-bottomed pot with vegetable oil and heat to 350°F (175°C). Once the oil is hot, add your French fries, working in batches, and fry, stirring occasionally, for 4-5 minutes or until golden brown. Using a spider, remove the fries and allow a moment to drain off excess oil before adding to a large mixing bowl and immediately seasoning to taste with salt. Toss while seasoning to get an even coating."
+        },
+        {
+          "tag": "li",
+          "text": "To a serving bowl, add a large handful of French fries, top with cheese curds, sauce and vegetables from your coq au vin, and one sliced ballotine followed by additional sauce. Serve and enjoy."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,130 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-ramen-okonomiyaki-pancake-recipe",
+  "recipes": [
+    {
+      "name": "Okonomiyaki Instant Ramen Recipe",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-ramen-okonomiyaki-pancake-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        "1 packet (120g) Spicy Seafood Neoguri Ramen (use both noodles and seasoning packets)",
+        "3.5 tablespoons (28g) potato starch",
+        "2 tablespoons (25g) all-purpose flour",
+        "1 whole egg",
+        "¼ cup (59g) water",
+        "1 carrot, finely julienned",
+        "½ cup (64g) kimchi, finely chopped",
+        "½ cup (64g) thinly sliced Napa cabbage",
+        "2 green onions, thinly sliced, plus more for garnish",
+        "1 tablespoon (15g) vegetable oil",
+        "2 teaspoons (9g) toasted sesame oil",
+        "Okonomiyaki sauce for serving, store bought or homemade",
+        "Kewpie mayonnaise for serving",
+        "Bonito flakes for serving"
+      ],
+      "instructions": [
+        "Cook ramen to package directions then drain.",
+        "In a separate large mixing bowl whisk together flour, potato starch, water, and egg. Mix in green onions, kimchi, cabbage and carrots. Add in the ramen noodles and using tongs mix well.",
+        "Heat a large non-stick pan over medium-high heat, add vegetable oil. Once hot, add the pancake mixture, pressing down to cover the pan and evenly distribute the vegetables, cook 2-3 minutes.",
+        "Carefully slide the cooked side of the pancake onto a plate, cooked side down, and then flip back into the pan, uncooked side down into the pan.",
+        "Drizzle sesame oil down the sides and continue to cook until browned about 2-3 minutes.",
+        "Plate and serve with nice drizzles of okonomiyaki sauce and kewpie mayo. Finish with bonito flakes and green onions and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 packet (120g) Spicy Seafood Neoguri Ramen (use both noodles and seasoning packets)"
+        },
+        {
+          "tag": "li",
+          "text": "3.5 tablespoons (28g) potato starch"
+        },
+        {
+          "tag": "li",
+          "text": "2 tablespoons (25g) all-purpose flour"
+        },
+        {
+          "tag": "li",
+          "text": "1 whole egg"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup (59g) water"
+        },
+        {
+          "tag": "li",
+          "text": "1 carrot, finely julienned"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (64g) kimchi, finely chopped"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (64g) thinly sliced Napa cabbage"
+        },
+        {
+          "tag": "li",
+          "text": "2 green onions, thinly sliced, plus more for garnish"
+        },
+        {
+          "tag": "li",
+          "text": "1 tablespoon (15g) vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "2 teaspoons (9g) toasted sesame oil"
+        },
+        {
+          "tag": "li",
+          "text": "Okonomiyaki sauce for serving, store bought or homemade"
+        },
+        {
+          "tag": "li",
+          "text": "Kewpie mayonnaise for serving"
+        },
+        {
+          "tag": "li",
+          "text": "Bonito flakes for serving"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Cook ramen to package directions then drain."
+        },
+        {
+          "tag": "li",
+          "text": "In a separate large mixing bowl whisk together flour, potato starch, water, and egg. Mix in green onions, kimchi, cabbage and carrots. Add in the ramen noodles and using tongs mix well."
+        },
+        {
+          "tag": "li",
+          "text": "Heat a large non-stick pan over medium-high heat, add vegetable oil. Once hot, add the pancake mixture, pressing down to cover the pan and evenly distribute the vegetables, cook 2-3 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Carefully slide the cooked side of the pancake onto a plate, cooked side down, and then flip back into the pan, uncooked side down into the pan."
+        },
+        {
+          "tag": "li",
+          "text": "Drizzle sesame oil down the sides and continue to cook until browned about 2-3 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Plate and serve with nice drizzles of okonomiyaki sauce and kewpie mayo. Finish with bonito flakes and green onions and enjoy."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

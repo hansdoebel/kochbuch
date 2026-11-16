@@ -1,0 +1,73 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/mayonnaise-recipe",
+  "recipes": [
+    {
+      "name": "Easy Mayonnaise",
+      "source_url": "https://www.joshuaweissman.com/recipes/mayonnaise-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "16",
+      "prep_time": "5 min",
+      "cook_time": "1 min",
+      "total_time": "6 min",
+      "ingredients": [
+        "2 large egg yolks",
+        "1.5 Tbsp (23g) Dijon mustard",
+        "1 Tbsp (15mL) lemon juice",
+        "2 Tbsp (30mL) water",
+        "Kosher salt, to taste",
+        "1 cup (240mL) neutral oil (canola, avocado, vegetable)"
+      ],
+      "instructions": [
+        "Add the egg yolks, Dijon mustard, lemon juice, water, and salt to a tall, narrow quart container. Pour the neutral oil over top and allow it to settle for a few seconds.",
+        "Place an immersion blender at the very bottom of the container. Blend without moving the blender until the mixture at the bottom becomes thick, creamy, and emulsified, about 10-15 seconds.",
+        "With the blender still running, slowly lift it toward the surface to incorporate the remaining oil. Continue blending until completely smooth and emulsified. Season to taste with additional salt, if needed."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "2 large egg yolks"
+        },
+        {
+          "tag": "li",
+          "text": "1.5 Tbsp (23g) Dijon mustard"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15mL) lemon juice"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp (30mL) water"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt, to taste"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup (240mL) neutral oil (canola, avocado, vegetable)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Add the egg yolks, Dijon mustard, lemon juice, water, and salt to a tall, narrow quart container. Pour the neutral oil over top and allow it to settle for a few seconds."
+        },
+        {
+          "tag": "li",
+          "text": "Place an immersion blender at the very bottom of the container. Blend without moving the blender until the mixture at the bottom becomes thick, creamy, and emulsified, about 10-15 seconds."
+        },
+        {
+          "tag": "li",
+          "text": "With the blender still running, slowly lift it toward the surface to incorporate the remaining oil. Continue blending until completely smooth and emulsified. Season to taste with additional salt, if needed."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

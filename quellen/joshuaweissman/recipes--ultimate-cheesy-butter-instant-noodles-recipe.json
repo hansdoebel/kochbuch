@@ -1,0 +1,77 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/ultimate-cheesy-butter-instant-noodles-recipe",
+  "recipes": [
+    {
+      "name": "Cheesy Butter Instant Noodles",
+      "source_url": "https://www.joshuaweissman.com/recipes/ultimate-cheesy-butter-instant-noodles-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "5 minutes",
+      "cook_time": "5 minutes",
+      "total_time": "10 minutes",
+      "ingredients": [
+        "1 pack (130g) Shin Black ramen (use noodles and seasoning packets)",
+        "1 large egg, broken into a small bowl but not beaten",
+        "½ tsp (2g) unsalted butter",
+        "2 slices American cheese",
+        "¼ tsp (1g) toasted sesame seeds",
+        "½ scallion, green part only, thinly sliced on the bias"
+      ],
+      "instructions": [
+        "Bring 2.5 cups of water to a boil in a small saucepan. Add the noodles and cook for 2 minutes. Add in the seasoning packet, stir, and continue to cook for another 30 seconds.",
+        "Remove the pan from the heat and carefully add the egg. Do not stir; pull the noodles over the egg and let sit for one minute to poach.",
+        "Carefully transfer everything to a serving bowl. Add the butter, cheese and sesame seeds and mix. Garnish with the scallions and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Adapted from: NY Times Recipe from Roy Choi, adapted by Jeff Gordinier"
+        },
+        {
+          "tag": "li",
+          "text": "1 pack (130g) Shin Black ramen (use noodles and seasoning packets)"
+        },
+        {
+          "tag": "li",
+          "text": "1 large egg, broken into a small bowl but not beaten"
+        },
+        {
+          "tag": "li",
+          "text": "½ tsp (2g) unsalted butter"
+        },
+        {
+          "tag": "li",
+          "text": "2 slices American cheese"
+        },
+        {
+          "tag": "li",
+          "text": "¼ tsp (1g) toasted sesame seeds"
+        },
+        {
+          "tag": "li",
+          "text": "½ scallion, green part only, thinly sliced on the bias"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Bring 2.5 cups of water to a boil in a small saucepan. Add the noodles and cook for 2 minutes. Add in the seasoning packet, stir, and continue to cook for another 30 seconds."
+        },
+        {
+          "tag": "li",
+          "text": "Remove the pan from the heat and carefully add the egg. Do not stir; pull the noodles over the egg and let sit for one minute to poach."
+        },
+        {
+          "tag": "li",
+          "text": "Carefully transfer everything to a serving bowl. Add the butter, cheese and sesame seeds and mix. Garnish with the scallions and enjoy."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

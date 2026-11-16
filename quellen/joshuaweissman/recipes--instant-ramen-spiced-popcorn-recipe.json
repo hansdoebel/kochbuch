@@ -1,0 +1,73 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/instant-ramen-spiced-popcorn-recipe",
+  "recipes": [
+    {
+      "name": "Instant Ramen-Spiced Popcorn",
+      "source_url": "https://www.joshuaweissman.com/recipes/instant-ramen-spiced-popcorn-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "5 minutes",
+      "cook_time": "5 minutes",
+      "total_time": "10 minutes",
+      "ingredients": [
+        "2 packets ramen seasoning packets (I used Shin Black Ramen seasoning packets)",
+        "3/4 tsp (11g) curry powder, or to taste",
+        "1/4 tsp (4g) cumin powder, or to taste",
+        "1/2 cup (90g) dried corn kernels",
+        "3 Tbsp (45g) olive oil"
+      ],
+      "instructions": [
+        "In a small bowl, combine the ramen flavor packet, curry powder, and cumin powder. Mix together well and adjust seasoning to your liking. Set aside.",
+        "Add vegetable oil to a large pot (at least 6 qts) and heat over medium heat until just smoking.",
+        "Add in the popcorn kernels and top with a lid. Continuously and vigorously shake the pot, holding the lid down, until kernels begin to pop.",
+        "Turn off the heat and remove the lid. Toss with the seasoning mixture, serve immediately and enjoy!"
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "2 packets ramen seasoning packets (I used Shin Black Ramen seasoning packets)"
+        },
+        {
+          "tag": "li",
+          "text": "3/4 tsp (11g) curry powder, or to taste"
+        },
+        {
+          "tag": "li",
+          "text": "1/4 tsp (4g) cumin powder, or to taste"
+        },
+        {
+          "tag": "li",
+          "text": "1/2 cup (90g) dried corn kernels"
+        },
+        {
+          "tag": "li",
+          "text": "3 Tbsp (45g) olive oil"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "In a small bowl, combine the ramen flavor packet, curry powder, and cumin powder. Mix together well and adjust seasoning to your liking. Set aside."
+        },
+        {
+          "tag": "li",
+          "text": "Add vegetable oil to a large pot (at least 6 qts) and heat over medium heat until just smoking."
+        },
+        {
+          "tag": "li",
+          "text": "Add in the popcorn kernels and top with a lid. Continuously and vigorously shake the pot, holding the lid down, until kernels begin to pop."
+        },
+        {
+          "tag": "li",
+          "text": "Turn off the heat and remove the lid. Toss with the seasoning mixture, serve immediately and enjoy!"
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

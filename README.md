@@ -19,6 +19,7 @@ AGENTS.md                Regeln für neue Rezepte
 ## Rezept hinzufügen
 
 1. `rezepte/<slug>.md` nach `AGENTS.md` anlegen.
+   Die Original-Rezeptseite prüfen; Urheber, Website und direkte URL identisch in `source` und `recipes.source` erfassen. Unter dem Titel einen sichtbaren Quellenlink setzen. Bei nicht öffentlichen Quellen die tatsächliche Herkunft nennen, keine URL erfinden.
 2. Dieselben Angaben in `db/seed.sql` ergänzen: Rezept, Zutatenzeilen, Tags. Vorhandene Zutaten wiederverwenden.
 3. Datenbank neu bauen und die Einkaufsliste prüfen:
 
@@ -48,3 +49,29 @@ Ein Eintrag im Wochenplan nennt Datum, Mahlzeit, Rezept und die gewünschten Por
 Der hinterlegte Plan enthält Kaiserschmarrn für 2 Personen am 16. November 2026. Feinkristallzucker steht zweimal im Rezept (30 g im Teig, 50 g zum Karamellisieren) und erscheint auf der Liste als 80 g.
 
 Schema, Einheiten, nicht numerische Angaben und der Umzug auf Postgres (zum Beispiel Neon) stehen in `db/README.md`.
+
+## Öffentliche Rezeptarchive
+
+Die Original-Rezeptdaten von Rainbow Plant Life, Babish und Joshua Weissman stehen unter `quellen/`. Abdeckung, Unterschiede zu den deutschen Kochbuch-Rezepten und die Wiederholung des Abrufs sind in [quellen/README.md](quellen/README.md) dokumentiert. Die ersten fünf Rainbow-Plant-Life-Rezepte sind außerdem auf Deutsch in `rezepte/` und in der Zutaten-Datenbank erfasst.
+
+Offline prüfen:
+
+```bash
+python3 scripts/check_sources.py
+python3 -m unittest discover -s scripts -v
+python3 db/build_db.py --check
+```
+
+## Automatische Rezeptprüfung
+
+GitHub Actions führt bei jedem Pull Request und bei Änderungen auf `main` vier unabhängige Prüfungen parallel aus: Markdown-Formatierung mit `markdownlint-cli2`, Rezeptformat samt Quellen und Datenbankabgleich, Integrität des Quellenarchivs und Regressionstests. Fehler in einem Job brechen die anderen nicht ab. Diese Regeln werden vom Code durchgesetzt und benötigen keine Agenten- oder Skill-Anweisungen. Husky-Hooks sind nicht nötig.
+
+Node.js 24 und Python 3.10+ genügen für dieselben Prüfungen lokal:
+
+```bash
+npm ci --ignore-scripts
+npm run lint
+npm test
+```
+
+`npm run lint` führt die drei Linter parallel aus und meldet einen Fehler, sobald mindestens eine Prüfung fehlschlägt. Einzeln laufen sie über `npm run lint:markdown`, `npm run lint:recipes` und `npm run lint:sources`. Die Markdown-Regeln stehen in `.markdownlint-cli2.jsonc`; das Rezeptformat wird in `scripts/lint_recipes.py` geprüft. Online-Rezepte brauchen eine direkte HTTPS-Quelle und denselben sichtbaren Link. Eigene Rezepte, Fotos und Familienrezepte müssen ihre nicht öffentliche Herkunft ausdrücklich nennen. Die vorhandene Kaiserschmarrn-Transkription hat eine eng begrenzte Ausnahme für ihre belegte Quelle ohne nachweisbare URL.

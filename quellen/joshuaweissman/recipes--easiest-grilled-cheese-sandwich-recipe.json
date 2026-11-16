@@ -1,0 +1,68 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/easiest-grilled-cheese-sandwich-recipe",
+  "recipes": [
+    {
+      "name": "The Easiest Grilled Cheese Sandwich (3 Ingredients)",
+      "source_url": "https://www.joshuaweissman.com/recipes/easiest-grilled-cheese-sandwich-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "2 minutes",
+      "cook_time": "8 minutes",
+      "total_time": "10 minutes",
+      "ingredients": [
+        "2 slices milk bread (or your favorite white bread)",
+        "2 Tbsp (28g) unsalted butter, room temperature",
+        "2 slices American cheese"
+      ],
+      "instructions": [
+        "Set a 10-inch nonstick pan over medium heat. Once hot, add one tablespoon of butter. Place one slice of bread in the butter to toast, making sure it’s fully coated.",
+        "Top with both slices of American cheese and your second slice of bread.",
+        "Reduce the heat to medium-low and toast until the bottom slice of bread is golden brown, about 2-3 minutes.",
+        "Add the remaining butter to the pan. Once melted, flip the sandwich and toast until golden brown, another 2-3 minutes. You can flip the sandwich again if you want the bread even darker or add a lid if you find the cheese isn’t melting enough for your liking.",
+        "Remove your sandwich from the plan, slice on the diagonal, and serve and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "2 slices milk bread (or your favorite white bread)"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp (28g) unsalted butter, room temperature"
+        },
+        {
+          "tag": "li",
+          "text": "2 slices American cheese"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Set a 10-inch nonstick pan over medium heat. Once hot, add one tablespoon of butter. Place one slice of bread in the butter to toast, making sure it’s fully coated."
+        },
+        {
+          "tag": "li",
+          "text": "Top with both slices of American cheese and your second slice of bread."
+        },
+        {
+          "tag": "li",
+          "text": "Reduce the heat to medium-low and toast until the bottom slice of bread is golden brown, about 2-3 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Add the remaining butter to the pan. Once melted, flip the sandwich and toast until golden brown, another 2-3 minutes. You can flip the sandwich again if you want the bread even darker or add a lid if you find the cheese isn’t melting enough for your liking."
+        },
+        {
+          "tag": "li",
+          "text": "Remove your sandwich from the plan, slice on the diagonal, and serve and enjoy."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

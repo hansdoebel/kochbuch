@@ -1,0 +1,106 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-juicy-lucy-burger-recipe",
+  "recipes": [
+    {
+      "name": "Juicy Lucy Burger",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-juicy-lucy-burger-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        "2 x 3 (2x 85g) oz 75/25 ground beef",
+        "1 tsp (3g) black pepper",
+        "1 tsp (3g) kosher salt",
+        "1 sliced American cheese",
+        "1 hamburger bun"
+      ],
+      "instructions": [
+        "Weigh your portion of ground beef and shape each portion into a thin patty, about 1/4 inch thick.",
+        "Season both sides of the patties with salt and pepper. Place a slice of American cheese in the center of the patties.",
+        "Top the cheese-topped patty with another patty and press the edges together to seal the cheese inside.",
+        "Heat a grill, grill pan, or skillet over medium-high heat. Add the patty and cook for about 4-5 minutes per side, or until it is cooked to your desired level of doneness. If the burger starts to puff, use a toothpick to release the air building up in the center of the patty.",
+        "Toast buns.",
+        "Place the bun heel on plate.",
+        "Add the patty on top.",
+        "Finish with the top half of the bun.",
+        "When you cut into the burger, the melted cheese should ooze out."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "2 x 3 (2x 85g) oz 75/25 ground beef"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) black pepper"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 sliced American cheese"
+        },
+        {
+          "tag": "li",
+          "text": "1 hamburger bun"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "p",
+          "text": "Burger:"
+        },
+        {
+          "tag": "li",
+          "text": "Weigh your portion of ground beef and shape each portion into a thin patty, about 1/4 inch thick."
+        },
+        {
+          "tag": "li",
+          "text": "Season both sides of the patties with salt and pepper. Place a slice of American cheese in the center of the patties."
+        },
+        {
+          "tag": "li",
+          "text": "Top the cheese-topped patty with another patty and press the edges together to seal the cheese inside."
+        },
+        {
+          "tag": "li",
+          "text": "Heat a grill, grill pan, or skillet over medium-high heat. Add the patty and cook for about 4-5 minutes per side, or until it is cooked to your desired level of doneness. If the burger starts to puff, use a toothpick to release the air building up in the center of the patty."
+        },
+        {
+          "tag": "p",
+          "text": "Assembly:"
+        },
+        {
+          "tag": "li",
+          "text": "Toast buns."
+        },
+        {
+          "tag": "li",
+          "text": "Place the bun heel on plate."
+        },
+        {
+          "tag": "li",
+          "text": "Add the patty on top."
+        },
+        {
+          "tag": "li",
+          "text": "Finish with the top half of the bun."
+        },
+        {
+          "tag": "li",
+          "text": "When you cut into the burger, the melted cheese should ooze out."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

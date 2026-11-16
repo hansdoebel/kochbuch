@@ -1,0 +1,68 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/zested-up-shin-black-ramen-recipe",
+  "recipes": [
+    {
+      "name": "Zested Up Shin Black Ramen",
+      "source_url": "https://www.joshuaweissman.com/recipes/zested-up-shin-black-ramen-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "5 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "15 minutes",
+      "ingredients": [
+        "1 package (130g) Shin Black Ramen (use noodles and seasoning packet)",
+        "1-2 green onions, thinly sliced",
+        "6 minute soft boiled egg",
+        "½ cup (112g) leftover meat (I used cooked ground pork)",
+        "Toasted sesame oil, for garnish"
+      ],
+      "instructions": [
+        "Cook the ramen to package directions.",
+        "To make the 6 minute egg, boil an egg for 6 minutes, shock it in an ice bath, and then peel it before slicing carefully and placing on your ramen.",
+        "Top your ramen with thinly sliced green onion and the cooked protein of your choice. I used reheated leftover sautéed ground pork."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 package (130g) Shin Black Ramen (use noodles and seasoning packet)"
+        },
+        {
+          "tag": "li",
+          "text": "1-2 green onions, thinly sliced"
+        },
+        {
+          "tag": "li",
+          "text": "6 minute soft boiled egg"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (112g) leftover meat (I used cooked ground pork)"
+        },
+        {
+          "tag": "li",
+          "text": "Toasted sesame oil, for garnish"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Cook the ramen to package directions."
+        },
+        {
+          "tag": "li",
+          "text": "To make the 6 minute egg, boil an egg for 6 minutes, shock it in an ice bath, and then peel it before slicing carefully and placing on your ramen."
+        },
+        {
+          "tag": "li",
+          "text": "Top your ramen with thinly sliced green onion and the cooked protein of your choice. I used reheated leftover sautéed ground pork."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

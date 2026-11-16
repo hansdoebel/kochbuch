@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/easiest-jalapeno-poppers-recipe",
+  "recipes": [
+    {
+      "name": "The Easiest Jalapeno Poppers (3 Ingredients)",
+      "source_url": "https://www.joshuaweissman.com/recipes/easiest-jalapeno-poppers-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "15 minutes",
+      "cook_time": "25 minutes",
+      "total_time": "40 minutes",
+      "ingredients": [
+        "15 large jalapeños, de-stemmed, halved, seeds and ribs removed",
+        "1 lb (453g) creamy herbed goat cheese (recommended Boursin)",
+        "2 lbs bacon (906g), cut in half"
+      ],
+      "instructions": [
+        "Preheat the oven to 450°F (232°C).",
+        "Stuff each jalapeño half with roughly 2 teaspoons of cheese. Wrap the stuffed pepper in a piece of bacon, twisting it up and around the jalapeño while trying to keep the bacon in a single layer. Trim any excess bacon if necessary.",
+        "Place the wrapped jalapeños, stuffed side up, on a parchment lined sheet tray and bake for 20-25 minutes, or until the bacon is crispy and cooked through. Let them cool enough to handle, then serve and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "15 large jalapeños, de-stemmed, halved, seeds and ribs removed"
+        },
+        {
+          "tag": "li",
+          "text": "1 lb (453g) creamy herbed goat cheese (recommended Boursin)"
+        },
+        {
+          "tag": "li",
+          "text": "2 lbs bacon (906g), cut in half"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Preheat the oven to 450°F (232°C)."
+        },
+        {
+          "tag": "li",
+          "text": "Stuff each jalapeño half with roughly 2 teaspoons of cheese. Wrap the stuffed pepper in a piece of bacon, twisting it up and around the jalapeño while trying to keep the bacon in a single layer. Trim any excess bacon if necessary."
+        },
+        {
+          "tag": "li",
+          "text": "Place the wrapped jalapeños, stuffed side up, on a parchment lined sheet tray and bake for 20-25 minutes, or until the bacon is crispy and cooked through. Let them cool enough to handle, then serve and enjoy."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,81 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-simple-yogurt-recipe-2-ingredients",
+  "recipes": [
+    {
+      "name": "How To Make Your Own Yogurt With 2 Ingredients",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-simple-yogurt-recipe-2-ingredients",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "10 minutes",
+      "cook_time": "6-12 hours",
+      "total_time": "6-12 hours",
+      "ingredients": [
+        "Mason Jars",
+        "1 quart (946ml) whole milk",
+        "3.5 Tbsp (52g) yogurt with live and active cultures"
+      ],
+      "instructions": [
+        "Add one quart of whole milk into a medium-sized saucepan and heat it over medium heat until it reaches 182 degrees Fahrenheit. Make sure to stir intermittently so it doesn;t develop a skin or burn on the bottom.",
+        "Once you’ve hit your temperature, remove from the stove and let it cool down to 115 degrees Fahrenheit.",
+        "Make sure your mixture does not drop below 110 degrees Fahrenheit.",
+        "To do this, you can wrap your jars in towels and place them in the oven with the light on.",
+        "Let these sit out for 6-12 hours to let thicken.",
+        "**To make a greek yogurt, take a strainer lined with cheesecloth and pour your mixture through it. Let it drip for one hour in the refrigerator."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Items Used:"
+        },
+        {
+          "tag": "li",
+          "text": "Mason Jars"
+        },
+        {
+          "tag": "p",
+          "text": "Ingredients:"
+        },
+        {
+          "tag": "li",
+          "text": "1 quart (946ml) whole milk"
+        },
+        {
+          "tag": "li",
+          "text": "3.5 Tbsp (52g) yogurt with live and active cultures"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Add one quart of whole milk into a medium-sized saucepan and heat it over medium heat until it reaches 182 degrees Fahrenheit. Make sure to stir intermittently so it doesn;t develop a skin or burn on the bottom."
+        },
+        {
+          "tag": "li",
+          "text": "Once you’ve hit your temperature, remove from the stove and let it cool down to 115 degrees Fahrenheit."
+        },
+        {
+          "tag": "li",
+          "text": "Make sure your mixture does not drop below 110 degrees Fahrenheit."
+        },
+        {
+          "tag": "li",
+          "text": "To do this, you can wrap your jars in towels and place them in the oven with the light on."
+        },
+        {
+          "tag": "li",
+          "text": "Let these sit out for 6-12 hours to let thicken."
+        },
+        {
+          "tag": "li",
+          "text": "**To make a greek yogurt, take a strainer lined with cheesecloth and pour your mixture through it. Let it drip for one hour in the refrigerator."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

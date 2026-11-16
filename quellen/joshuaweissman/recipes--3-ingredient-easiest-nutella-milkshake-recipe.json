@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/3-ingredient-easiest-nutella-milkshake-recipe",
+  "recipes": [
+    {
+      "name": "The Easiest Nutella Milkshake (3 Ingredients)",
+      "source_url": "https://www.joshuaweissman.com/recipes/3-ingredient-easiest-nutella-milkshake-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "5 minutes",
+      "cook_time": "0 minutes",
+      "total_time": "5 minutes",
+      "ingredients": [
+        "2 cups (360g) vanilla ice cream",
+        "¼ cup (70g) Nutella, plus more for garnish",
+        "2 pretzel rods - 1 in the milkshake, 1 for garnish"
+      ],
+      "instructions": [
+        "In a blender, combine the ice cream, one pretzel rod, and your Nutella and blend. Start on low until it begins to come together and then increase the speed to high until combined.",
+        "Pour the milkshake into a glass. Dip your other pretzel rod into your container of Nutella and place it, Nutella side down, into the milkshake for a nice surprise. Serve and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "2 cups (360g) vanilla ice cream"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup (70g) Nutella, plus more for garnish"
+        },
+        {
+          "tag": "li",
+          "text": "2 pretzel rods - 1 in the milkshake, 1 for garnish"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "In a blender, combine the ice cream, one pretzel rod, and your Nutella and blend. Start on low until it begins to come together and then increase the speed to high until combined."
+        },
+        {
+          "tag": "li",
+          "text": "Pour the milkshake into a glass. Dip your other pretzel rod into your container of Nutella and place it, Nutella side down, into the milkshake for a nice surprise. Serve and enjoy."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

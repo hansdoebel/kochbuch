@@ -1,0 +1,83 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/simple-reverse-sear-steak-recipe",
+  "recipes": [
+    {
+      "name": "Simple Reverse Sear Steak",
+      "source_url": "https://www.joshuaweissman.com/recipes/simple-reverse-sear-steak-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        "1 steak",
+        "1 Tbsp (15g) kosher salt",
+        "1 tsp (3g) fresh cracked black pepper",
+        "1 Tbsp (15g) vegetable oil"
+      ],
+      "instructions": [
+        "Preheat the oven to 200°F (110°C)",
+        "In a small mixing bowl, whisk together salt and black pepper until fully incorporated.",
+        "Place steak on a wire rack-lined baking tray and season on all sides.",
+        "Cook for 25-30 minutes. The internal temperature should read 125°F (50°C).",
+        "Remove steak from the oven and begin heating a cast iron pan over medium-high heat.",
+        "Add vegetable oil to the pan and allow it to begin smoking. Then add the steak to the pan and sear on high heat for 30 seconds on each side.",
+        "Transfer steak to a cutting board and allow to rest for 5-8 minutes."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 steak"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) fresh cracked black pepper"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) vegetable oil"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Preheat the oven to 200°F (110°C)"
+        },
+        {
+          "tag": "li",
+          "text": "In a small mixing bowl, whisk together salt and black pepper until fully incorporated."
+        },
+        {
+          "tag": "li",
+          "text": "Place steak on a wire rack-lined baking tray and season on all sides."
+        },
+        {
+          "tag": "li",
+          "text": "Cook for 25-30 minutes. The internal temperature should read 125°F (50°C)."
+        },
+        {
+          "tag": "li",
+          "text": "Remove steak from the oven and begin heating a cast iron pan over medium-high heat."
+        },
+        {
+          "tag": "li",
+          "text": "Add vegetable oil to the pan and allow it to begin smoking. Then add the steak to the pan and sear on high heat for 30 seconds on each side."
+        },
+        {
+          "tag": "li",
+          "text": "Transfer steak to a cutting board and allow to rest for 5-8 minutes."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,85 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-spicy-instant-ramen-recipe",
+  "recipes": [
+    {
+      "name": "Spicy Chili Oil Instant Ramen",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-spicy-instant-ramen-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "5 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "15 minutes",
+      "ingredients": [
+        "1 cup (240ml) vegetable oil",
+        "3 Tbsp (54g) gochugaru",
+        "2 stalks green onion, finely chopped, extra for garnish",
+        "2 clove garlic, finely chopped",
+        "1 tsp Chinese black vinegar",
+        "4 packages (480g) Nongshim Neoguri Spicy Seafood Ramen (use all the noodles and all the spice packets)"
+      ],
+      "instructions": [
+        "In a small saucepan, heat vegetable oil to 350°F (176°C).",
+        "Separately, bring a large pot filled with water to a boil.",
+        "Add your 4 packages of dry noodles to the boiling water and cook according to package directions (without the seasoning packets). Drain and set aside.",
+        "In a heat proof mixing bowl add all seasoning and sauce packets from your 4 ramen packages plus the gochugaru, green onion and garlic. Mix to combine. Then carefully pour hot oil into the mixing bowl, stirring until fully combined. The mixture will bubble aggressively, so be careful not to burn yourself.",
+        "Toss your drained noodles with the hot chili oil. Transfer to a plate and garnish with green onions and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 cup (240ml) vegetable oil"
+        },
+        {
+          "tag": "li",
+          "text": "3 Tbsp (54g) gochugaru"
+        },
+        {
+          "tag": "li",
+          "text": "2 stalks green onion, finely chopped, extra for garnish"
+        },
+        {
+          "tag": "li",
+          "text": "2 clove garlic, finely chopped"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp Chinese black vinegar"
+        },
+        {
+          "tag": "li",
+          "text": "4 packages (480g) Nongshim Neoguri Spicy Seafood Ramen (use all the noodles and all the spice packets)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "In a small saucepan, heat vegetable oil to 350°F (176°C)."
+        },
+        {
+          "tag": "li",
+          "text": "Separately, bring a large pot filled with water to a boil."
+        },
+        {
+          "tag": "li",
+          "text": "Add your 4 packages of dry noodles to the boiling water and cook according to package directions (without the seasoning packets). Drain and set aside."
+        },
+        {
+          "tag": "li",
+          "text": "In a heat proof mixing bowl add all seasoning and sauce packets from your 4 ramen packages plus the gochugaru, green onion and garlic. Mix to combine. Then carefully pour hot oil into the mixing bowl, stirring until fully combined. The mixture will bubble aggressively, so be careful not to burn yourself."
+        },
+        {
+          "tag": "li",
+          "text": "Toss your drained noodles with the hot chili oil. Transfer to a plate and garnish with green onions and enjoy."
+        }
+      ],
+      "missing_fields": []
+    }
+  ],
+  "extraction_warnings": [],
+  "page_recipe_notes": []
+}

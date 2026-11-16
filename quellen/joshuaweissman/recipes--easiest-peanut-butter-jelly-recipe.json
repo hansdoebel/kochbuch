@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/easiest-peanut-butter-jelly-recipe",
+  "recipes": [
+    {
+      "name": "The Easiest PB&J (3 Ingredients)",
+      "source_url": "https://www.joshuaweissman.com/recipes/easiest-peanut-butter-jelly-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "4 minutes",
+      "cook_time": "0 minutes",
+      "total_time": "4 minutes",
+      "ingredients": [
+        "2 slices white bread (Sunbeam preferred)",
+        "2-3 Tbsp (32-48g) creamy peanut butter (or crunchy if you prefer)",
+        "2 Tbsp (40g) strawberry jelly or jam (Bonne Maman preferred)"
+      ],
+      "instructions": [
+        "Take your favorite white bread, your favorite peanut butter, and your best strawberry jam, and layer them up.",
+        "Slice on the diagonal, serve and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "2 slices white bread (Sunbeam preferred)"
+        },
+        {
+          "tag": "li",
+          "text": "2-3 Tbsp (32-48g) creamy peanut butter (or crunchy if you prefer)"
+        },
+        {
+          "tag": "li",
+          "text": "2 Tbsp (40g) strawberry jelly or jam (Bonne Maman preferred)"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Take your favorite white bread, your favorite peanut butter, and your best strawberry jam, and layer them up."
+        },
+        {
+          "tag": "li",
+          "text": "Slice on the diagonal, serve and enjoy."
+        },
+        {
+          "tag": "p",
+          "text": "‍"
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

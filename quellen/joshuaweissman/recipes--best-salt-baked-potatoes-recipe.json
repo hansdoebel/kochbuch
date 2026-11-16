@@ -1,0 +1,68 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-salt-baked-potatoes-recipe",
+  "recipes": [
+    {
+      "name": "Salt-Baked Potatoes",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-salt-baked-potatoes-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        "2 lbs (900g) small new potatoes, rinsed",
+        "700g kosher salt",
+        "⅓ cup (80ml) water"
+      ],
+      "instructions": [
+        "Preheat the oven to 400°F (205°C)",
+        "In a large mixing combine kosher salt, and water. Mix by hand until fully incorporated. The mixture should resemble packable snow.",
+        "On a baking tray lay down some of your salt mixture. Enough area to cradle the potatoes. Then place the potatoes into the salt.",
+        "Encase the potatoes in the rest of the salt and place into the oven to bake for 35-40 minutes.",
+        "Use a mallet to break the salt then crust. Then delicately remove the salt from the potatoes using an offset spatula."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "2 lbs (900g) small new potatoes, rinsed"
+        },
+        {
+          "tag": "li",
+          "text": "700g kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "⅓ cup (80ml) water"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Preheat the oven to 400°F (205°C)"
+        },
+        {
+          "tag": "li",
+          "text": "In a large mixing combine kosher salt, and water. Mix by hand until fully incorporated. The mixture should resemble packable snow."
+        },
+        {
+          "tag": "li",
+          "text": "On a baking tray lay down some of your salt mixture. Enough area to cradle the potatoes. Then place the potatoes into the salt."
+        },
+        {
+          "tag": "li",
+          "text": "Encase the potatoes in the rest of the salt and place into the oven to bake for 35-40 minutes."
+        },
+        {
+          "tag": "li",
+          "text": "Use a mallet to break the salt then crust. Then delicately remove the salt from the potatoes using an offset spatula."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,185 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/fried-chicken-better-than-kfc-recipe",
+  "recipes": [
+    {
+      "name": "Making Fried Chicken better than KFC",
+      "source_url": "https://www.joshuaweissman.com/recipes/fried-chicken-better-than-kfc-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "6",
+      "prep_time": "Overnight",
+      "cook_time": "25 minutes",
+      "total_time": "12 hours",
+      "ingredients": [
+        "3-4 bone-in chicken drumsticks",
+        "3-4 bone-in chicken thighs",
+        "3-4 whole chicken wings",
+        "2.5 cups (593ml) buttermilk",
+        "1.5 Tbsp (23g) garlic powder",
+        "2 tsp (10g) onion powder",
+        "1 Tbsp (15g) celery powder",
+        "1 Tbsp (15g) cayenne powder",
+        "1 Tbsp (15g) white pepper powder",
+        "2.5 Tbsp (38g) kosher salt",
+        "1.5 tsp (6g) MSG",
+        "2.5 tsp (13g) smoked paprika",
+        "2.5 cups (375g) all-purpose flour",
+        "½ cup (96g) potato starch",
+        "2.5 Tbsp (38g) kosher salt, plus more to taste",
+        "1 Tbsp (15g) mushroom soup base powder",
+        "1 Tbsp (15g) garlic powder",
+        "1 tsp (5g) white pepper powder",
+        "1 tsp (5g) celery powder",
+        "2 tsp (10g) cayenne powder",
+        "1 tsp (5g) smoked paprika",
+        "1 tsp (5g) dried thyme, crushed between fingers",
+        "Fresh cracked black pepper, for finishing",
+        "3 quarts (2.8L) vegetable oil"
+      ],
+      "instructions": [
+        "To make the marinade, in a large mixing bowl combine all the marinade ingredients except the chicken pieces, and whisk until fully incorporated. Add your chicken, toss together and make sure some marinade gets under the skin. Cover with plastic wrap and refrigerate for a minimum of 30 minutes or ideally overnight.",
+        "Once your chicken is marinated, fill a 6-8 quart heavy-bottomed pot or Dutch oven with vegetable oil, making sure that your pot does not fill beyond around the halfway point, and heat to 350°F (176°C).",
+        "For your dredge, in a separate large mixing bowl, combine all ingredients and whisk until fully incorporated. Drizzle a few tablespoons of your marinade into the flour mixture, and toss to create little balls of dredge. This is not mandatory but it will create the extra crispy flakes on the outside of your fried chicken.",
+        "Remove the chicken from the marinade and toss in your dredge. Press the chicken into the dredge aggressively to coat it thoroughly. Once completely coated, shake off the excess and place on a baking sheet that has been dusted with the dredge. Repeat with the rest of your chicken.",
+        "Once the oil is at temperature, gently add the chicken in batches (3 pieces per batch maximum), and fry, stirring occasionally, for about 5-8 minutes or until golden brown and the internal temperature reads 165°F (73°C). Using tongs or a spider, transfer your cooked chicken to a wire rack or paper towel-lined baking tray to drain off excess oil and season very lightly with salt and fresh cracked black pepper to taste. Serve and enjoy."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Marinade:"
+        },
+        {
+          "tag": "li",
+          "text": "3-4 bone-in chicken drumsticks"
+        },
+        {
+          "tag": "li",
+          "text": "3-4 bone-in chicken thighs"
+        },
+        {
+          "tag": "li",
+          "text": "3-4 whole chicken wings"
+        },
+        {
+          "tag": "li",
+          "text": "2.5 cups (593ml) buttermilk"
+        },
+        {
+          "tag": "li",
+          "text": "1.5 Tbsp (23g) garlic powder"
+        },
+        {
+          "tag": "li",
+          "text": "2 tsp (10g) onion powder"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) celery powder"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) cayenne powder"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) white pepper powder"
+        },
+        {
+          "tag": "li",
+          "text": "2.5 Tbsp (38g) kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1.5 tsp (6g) MSG"
+        },
+        {
+          "tag": "li",
+          "text": "2.5 tsp (13g) smoked paprika"
+        },
+        {
+          "tag": "p",
+          "text": "Dredge:"
+        },
+        {
+          "tag": "li",
+          "text": "2.5 cups (375g) all-purpose flour"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (96g) potato starch"
+        },
+        {
+          "tag": "li",
+          "text": "2.5 Tbsp (38g) kosher salt, plus more to taste"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) mushroom soup base powder"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (15g) garlic powder"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (5g) white pepper powder"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (5g) celery powder"
+        },
+        {
+          "tag": "li",
+          "text": "2 tsp (10g) cayenne powder"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (5g) smoked paprika"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (5g) dried thyme, crushed between fingers"
+        },
+        {
+          "tag": "li",
+          "text": "Fresh cracked black pepper, for finishing"
+        },
+        {
+          "tag": "p",
+          "text": "Fried Chicken"
+        },
+        {
+          "tag": "li",
+          "text": "3 quarts (2.8L) vegetable oil"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "To make the marinade, in a large mixing bowl combine all the marinade ingredients except the chicken pieces, and whisk until fully incorporated. Add your chicken, toss together and make sure some marinade gets under the skin. Cover with plastic wrap and refrigerate for a minimum of 30 minutes or ideally overnight."
+        },
+        {
+          "tag": "li",
+          "text": "Once your chicken is marinated, fill a 6-8 quart heavy-bottomed pot or Dutch oven with vegetable oil, making sure that your pot does not fill beyond around the halfway point, and heat to 350°F (176°C)."
+        },
+        {
+          "tag": "li",
+          "text": "For your dredge, in a separate large mixing bowl, combine all ingredients and whisk until fully incorporated. Drizzle a few tablespoons of your marinade into the flour mixture, and toss to create little balls of dredge. This is not mandatory but it will create the extra crispy flakes on the outside of your fried chicken."
+        },
+        {
+          "tag": "li",
+          "text": "Remove the chicken from the marinade and toss in your dredge. Press the chicken into the dredge aggressively to coat it thoroughly. Once completely coated, shake off the excess and place on a baking sheet that has been dusted with the dredge. Repeat with the rest of your chicken."
+        },
+        {
+          "tag": "li",
+          "text": "Once the oil is at temperature, gently add the chicken in batches (3 pieces per batch maximum), and fry, stirring occasionally, for about 5-8 minutes or until golden brown and the internal temperature reads 165°F (73°C). Using tongs or a spider, transfer your cooked chicken to a wire rack or paper towel-lined baking tray to drain off excess oil and season very lightly with salt and fresh cracked black pepper to taste. Serve and enjoy."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

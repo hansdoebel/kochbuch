@@ -1,0 +1,69 @@
+{
+  "source_url": "https://www.babi.sh/recipes/sourdough-bread",
+  "recipes": [
+    {
+      "name": "SOURDOUGH BREAD",
+      "source_url": "https://www.babi.sh/recipes/sourdough-bread",
+      "recipe_id": null,
+      "authors": [
+        "bingingwithbabish"
+      ],
+      "publisher": "Babish",
+      "language": "en",
+      "yield": "2 loaves",
+      "prep_time": "PT0S",
+      "cook_time": "PT86400S",
+      "total_time": "PT86400S",
+      "ingredients": [
+        "For the Prep (Day One)",
+        "For the Levain",
+        "35 g bread flour",
+        "35 g whole wheat flour",
+        "35 g mature starter",
+        "70 g filtered water",
+        "For the Dough",
+        "810 g bread flour",
+        "90 g whole wheat flour",
+        "680 g filtered water (90°F)",
+        "18 g fine sea salt (adjust to taste, note changes in hydration)",
+        "extra flour for dusting",
+        "rice flour for dusting"
+      ],
+      "instructions": [
+        "For Recipe:",
+        "For the Prep (Day One)",
+        "For the Levain",
+        "In a bowl, combine the bread flour, whole wheat flour, mature starter, and water. Mix until smooth, then cover and place in a warm area (70-80°F) for 5 hours, or until doubled in size. - 35 g bread flour - 35 g whole wheat flour - 35 g mature starter - 70 g filtered water",
+        "For the Dough",
+        "1 hour before your levain is ready, mix together the bread flour and whole wheat flour in a separate bowl. Add 630 ml of the water (reserve 50 g) and mix until no dry spots remain. Cover and rest for 1 hour. - 810 g bread flour - 90 g whole wheat flour - 680 g filtered water (90°F)",
+        "Once the dough is rested and the levain has doubled in size, add the levain to the autolysed dough, along with a bit of the reserved water to help incorporate. Mix until combined. Rest for 20 minutes. - For the Levain - For the Dough",
+        "Mix in the salt with the remaining reserved water, then slap and fold for 2-4 minutes or until your dough is smooth. Rest 15 minutes in the same warm area you placed your starter. - 18 g fine sea salt (adjust to taste note changes in hydration) - 680 g filtered water (90°F)",
+        "For the Stretching and Folding",
+        "Perform 6 sets of stretch and folds.",
+        "First 3 sets: 15 minutes between sets",
+        "Last 3 sets: 30 minutes between sets",
+        "Rest in a warm area between sets",
+        "After the last fold, rest the dough for an additional 1.5 hours or until it doubles in size. If you have a cooler kitchen, extend the rest to 4-5 hours.",
+        "For the Shaping and Fermentation",
+        "Gently turn the dough onto a floured surface and divide into 2 equal pieces. Pre-shape each into a boule and let it rest for 5-10 minutes. - extra flour for dusting - For the Dough",
+        "Shape the dough into batards and place into Bannetons dusted with rice flour. Cover and refrigerate for 12-24 hours. For more sour flavor, extend to 36 hours. - rice flour for dusting",
+        "For the Baking (Day Two)",
+        "Place a cast iron combo cooker or Dutch oven in your oven and preheat to 500°F for 1 hour.",
+        "Carefully transfer one loaf into the preheated pan, score the top, and cover with the lid. Bake for 20 minutes at 500°F. - For the Dough",
+        "Remove the lid, reduce the oven temperature to 450°F, and continue baking for another 20-30 minutes, or until deep brown.",
+        "Remove the loaf and cool on a wire rack. Repeat with the second loaf.",
+        "For Estimated Schedule:",
+        "9:00 am: Mix levain",
+        "1:00 pm: Autolyse dough",
+        "2:00 pm: Mix levain & dough",
+        "2:15 pm: Mix in salt",
+        "2:30 pm: First fold",
+        "4:30 pm: Last fold, rest for 1.5 hrs",
+        "6:00 pm: Shape and refrigerate"
+      ],
+      "ingredient_sections": [],
+      "instruction_sections": []
+    }
+  ],
+  "page_recipe_notes": []
+}

@@ -1,0 +1,158 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-deep-fried-burger-recipe",
+  "recipes": [
+    {
+      "name": "Deep Fried Burger",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-deep-fried-burger-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "1",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        "5 oz (142g) 75/25 ground beef",
+        "1 tsp (3g) black pepper",
+        "1 tsp (3g) kosher salt",
+        "1 slice American cheese",
+        "1 hamburger bun",
+        "2 quarts (2L) vegetable oil",
+        "½ cup (145g) ketchup",
+        "½ cup (145g) mustard",
+        "¾ cup (217g) mayonnaise",
+        "2 tsp (30g) Worcestershire",
+        "Kosher salt to taste",
+        "Pepper to taste"
+      ],
+      "instructions": [
+        "Heat oil in a deep fryer or a large pot over medium-high heat. The oil should be heated to around 375°F (190°C).",
+        "Weigh your portion of ground beef and shape into a patty. Season both sides of the patty with salt and pepper.",
+        "Carefully place the patty into the hot oil using a slotted spoon or tongs. Fry the patty for 3-4 minutes on each side or until it is golden brown and crispy.",
+        "Use a slotted spoon or tongs to carefully remove the patty from the oil and place it onto a paper towel-lined plate to drain off excess oil.",
+        "Add a slice of cheese and optionally use a torch to melt the cheese.",
+        "In a small bowl combine all ingredients. Use a whisk to mix thoroughly.",
+        "Toast buns.",
+        "Spread the sauce on the bottom half of each bun.",
+        "Add a patty with melted cheese on top.",
+        "Finish with the top half of the bun."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Burger:"
+        },
+        {
+          "tag": "li",
+          "text": "5 oz (142g) 75/25 ground beef"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) black pepper"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (3g) kosher salt"
+        },
+        {
+          "tag": "li",
+          "text": "1 slice American cheese"
+        },
+        {
+          "tag": "li",
+          "text": "1 hamburger bun"
+        },
+        {
+          "tag": "li",
+          "text": "2 quarts (2L) vegetable oil"
+        },
+        {
+          "tag": "p",
+          "text": "Burger Sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (145g) ketchup"
+        },
+        {
+          "tag": "li",
+          "text": "½ cup (145g) mustard"
+        },
+        {
+          "tag": "li",
+          "text": "¾ cup (217g) mayonnaise"
+        },
+        {
+          "tag": "li",
+          "text": "2 tsp (30g) Worcestershire"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt to taste"
+        },
+        {
+          "tag": "li",
+          "text": "Pepper to taste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "p",
+          "text": "Burger:"
+        },
+        {
+          "tag": "li",
+          "text": "Heat oil in a deep fryer or a large pot over medium-high heat. The oil should be heated to around 375°F (190°C)."
+        },
+        {
+          "tag": "li",
+          "text": "Weigh your portion of ground beef and shape into a patty. Season both sides of the patty with salt and pepper."
+        },
+        {
+          "tag": "li",
+          "text": "Carefully place the patty into the hot oil using a slotted spoon or tongs. Fry the patty for 3-4 minutes on each side or until it is golden brown and crispy."
+        },
+        {
+          "tag": "li",
+          "text": "Use a slotted spoon or tongs to carefully remove the patty from the oil and place it onto a paper towel-lined plate to drain off excess oil."
+        },
+        {
+          "tag": "li",
+          "text": "Add a slice of cheese and optionally use a torch to melt the cheese."
+        },
+        {
+          "tag": "p",
+          "text": "Burger Sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "In a small bowl combine all ingredients. Use a whisk to mix thoroughly."
+        },
+        {
+          "tag": "p",
+          "text": "Assembly:"
+        },
+        {
+          "tag": "li",
+          "text": "Toast buns."
+        },
+        {
+          "tag": "li",
+          "text": "Spread the sauce on the bottom half of each bun."
+        },
+        {
+          "tag": "li",
+          "text": "Add a patty with melted cheese on top."
+        },
+        {
+          "tag": "li",
+          "text": "Finish with the top half of the bun."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

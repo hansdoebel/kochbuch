@@ -1,0 +1,109 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-easiest-cold-brew-recipe",
+  "recipes": [
+    {
+      "name": "The Easiest Cold Brew Ever | 2 Ways",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-easiest-cold-brew-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "8",
+      "prep_time": "5 minutes",
+      "cook_time": "12-24 hours",
+      "total_time": "12-24 hours",
+      "ingredients": [
+        "Coffee Sock",
+        "64oz Half Gallon Jars",
+        "Pyrex Measuring Cup",
+        "Chemex 6-Cup Pour Over",
+        "1.5 cups (80g) dark roasted coffee beans (Ideally espresso beans, coarse grind, something like coarse cornmeal)",
+        "6 cups (1400g) water"
+      ],
+      "instructions": [
+        "Grind 1 ½ cups of coffee beans, leaving it relatively coarse. Add to a ½ gallon container.",
+        "Add 6 cups of water, stir and leave in the fridge for 12-24 hours.",
+        "Remove from the fridge and strainer through a fine mesh strainer covered with cheesecloth. OR Pour through the filter of a pour-over.",
+        "Grind 1 ½ cups of coffee beans, leaving it relatively coarse. Add to a ½ gallon container.",
+        "Add 2 cups of hot water, stir and let it sit for 1 minute. Add remaining 4 cups of cold water.",
+        "Stir, and leave in the fridge for 12-24 hours.",
+        "Remove from the fridge and strainer through a fine mesh strainer covered with cheesecloth. OR Pour through the filter of a pour-over."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Items Used:"
+        },
+        {
+          "tag": "li",
+          "text": "Coffee Sock"
+        },
+        {
+          "tag": "li",
+          "text": "64oz Half Gallon Jars"
+        },
+        {
+          "tag": "li",
+          "text": "Pyrex Measuring Cup"
+        },
+        {
+          "tag": "li",
+          "text": "Chemex 6-Cup Pour Over"
+        },
+        {
+          "tag": "p",
+          "text": "Ingredients:"
+        },
+        {
+          "tag": "li",
+          "text": "1.5 cups (80g) dark roasted coffee beans (Ideally espresso beans, coarse grind, something like coarse cornmeal)"
+        },
+        {
+          "tag": "li",
+          "text": "6 cups (1400g) water"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "p",
+          "text": "First Method:"
+        },
+        {
+          "tag": "li",
+          "text": "Grind 1 ½ cups of coffee beans, leaving it relatively coarse. Add to a ½ gallon container."
+        },
+        {
+          "tag": "li",
+          "text": "Add 6 cups of water, stir and leave in the fridge for 12-24 hours."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the fridge and strainer through a fine mesh strainer covered with cheesecloth. OR Pour through the filter of a pour-over."
+        },
+        {
+          "tag": "p",
+          "text": "Second Method:"
+        },
+        {
+          "tag": "li",
+          "text": "Grind 1 ½ cups of coffee beans, leaving it relatively coarse. Add to a ½ gallon container."
+        },
+        {
+          "tag": "li",
+          "text": "Add 2 cups of hot water, stir and let it sit for 1 minute. Add remaining 4 cups of cold water."
+        },
+        {
+          "tag": "li",
+          "text": "Stir, and leave in the fridge for 12-24 hours."
+        },
+        {
+          "tag": "li",
+          "text": "Remove from the fridge and strainer through a fine mesh strainer covered with cheesecloth. OR Pour through the filter of a pour-over."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

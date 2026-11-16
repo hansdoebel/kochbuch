@@ -1,0 +1,328 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/best-taco-bell-mexican-pizza-recipe",
+  "recipes": [
+    {
+      "name": "Making The Last Taco Bell Mexican Pizza At Home | But Better",
+      "source_url": "https://www.joshuaweissman.com/recipes/best-taco-bell-mexican-pizza-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "4",
+      "prep_time": "45 minutes",
+      "cook_time": "45 minutes",
+      "total_time": "1 hour, 30 minutes",
+      "ingredients": [
+        "Blowtorch",
+        "Induction Cooktop",
+        "6 ancho chilies",
+        "5 guajillo chilies",
+        "3 Roma tomatoes",
+        "1 onion",
+        "5 cloves garlic",
+        "1 Tbsp fresh oregano",
+        "3 Tbsp oil",
+        "¼ cup white vinegar or acid of choice",
+        "1 Tbsp (14g) panela grated",
+        "Kosher salt to taste",
+        "3 Tbsp (42g) unsalted butter",
+        "1 onion",
+        "4 cloves garlic",
+        "2 jalapeños",
+        "2 cans black beans",
+        "1.5 cup chicken stock",
+        "Kosher salt and pepper to taste",
+        "1 lb ground beef",
+        "3 cloves garlic",
+        "1 Tbsp soy sauce",
+        "Seasonings/spices of choice (chili pepper powders work great here)",
+        "Salt to taste",
+        "1 cup grated cheddar",
+        "1 cup grated Monterey jack",
+        "⅔ cup crumbled cotija cheese",
+        "Pickled red onions",
+        "Fresh cilantro leaves"
+      ],
+      "instructions": [
+        "In a 12” skillet over medium heat, add in the chilies and dry toast for 30-40 seconds or until fragrant. Remove from pan.",
+        "Separately, in an oiled pan set over medium-high heat char the onions and tomatoes cut side down in batches.",
+        "Once charred, chop onions and add back to the pan with the tomatoes, chopped garlic, chopped oregano and saute for 1 minute before adding the dried chilis.",
+        "Add just enough water to cover and bring to a light simmer. Simmer until all the vegetables are soft and the chilis tear easily.",
+        "Drain all the solids out and place into a blender and blend on high speed.",
+        "While blending add in white vinegar and additional cooking liquid to loosen.",
+        "Once smooth, stream in neutral tasting oil and blend until emulsified then season with salt and grated panela.",
+        "In a medium-size saucepot, melt unsalted butter over medium heat.",
+        "Once bubbling, add in sliced jalapenos, diced onions, roughly chopped garlic, and kosher salt. Saute for 3-4 minutes or softened.",
+        "Add black beans and chicken stock. Bring to a simmer and simmer until completely soft.",
+        "Drain out the beans. Reserve the bean juice.",
+        "Add beans to the blender and blend until smooth. Adjust salt levels.",
+        "In a dry stainless pan set over medium-high heat, press in ground beef, season with salt, and sear until brown. Flip and sear the other side.",
+        "Using a handheld masher, mash the beef until fine.",
+        "Continue cooking while the fat renders out and the beef is brown and crispy.",
+        "Add desired seasoning like soy sauce, and roughly chopped garlic. Mix together.",
+        "Fill a large pot with canola oil and heat to 350℉.",
+        "One at a time slowly drop in the tortillas. Fry for 1-2 minutes. Flip and repeat.",
+        "Drain over a wire rack set in a rimmed baking sheet. Immediately season with salt.",
+        "On a fried tortilla, spread on the black beans topped with the chili sauce.",
+        "Add on the ground beef and top with another tortilla.",
+        "Top with a generous amount of grated mixed cheese (cheddar & monterey jack) and place under a broiler to melt.",
+        "Add another drizzle of chili sauce followed by crumbled cotija cheese, pickled red onions, and garnished with cilantro leaves."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "p",
+          "text": "Items Used:"
+        },
+        {
+          "tag": "li",
+          "text": "Blowtorch"
+        },
+        {
+          "tag": "li",
+          "text": "Induction Cooktop"
+        },
+        {
+          "tag": "p",
+          "text": "Mexican Pizza Sauce (enchilada style):"
+        },
+        {
+          "tag": "li",
+          "text": "6 ancho chilies"
+        },
+        {
+          "tag": "li",
+          "text": "5 guajillo chilies"
+        },
+        {
+          "tag": "li",
+          "text": "3 Roma tomatoes"
+        },
+        {
+          "tag": "li",
+          "text": "1 onion"
+        },
+        {
+          "tag": "li",
+          "text": "5 cloves garlic"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp fresh oregano"
+        },
+        {
+          "tag": "li",
+          "text": "3 Tbsp oil"
+        },
+        {
+          "tag": "li",
+          "text": "¼ cup white vinegar or acid of choice"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp (14g) panela grated"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt to taste"
+        },
+        {
+          "tag": "p",
+          "text": "Beans:"
+        },
+        {
+          "tag": "li",
+          "text": "3 Tbsp (42g) unsalted butter"
+        },
+        {
+          "tag": "li",
+          "text": "1 onion"
+        },
+        {
+          "tag": "li",
+          "text": "4 cloves garlic"
+        },
+        {
+          "tag": "li",
+          "text": "2 jalapeños"
+        },
+        {
+          "tag": "li",
+          "text": "2 cans black beans"
+        },
+        {
+          "tag": "li",
+          "text": "1.5 cup chicken stock"
+        },
+        {
+          "tag": "li",
+          "text": "Kosher salt and pepper to taste"
+        },
+        {
+          "tag": "p",
+          "text": "Ground Beef:"
+        },
+        {
+          "tag": "li",
+          "text": "1 lb ground beef"
+        },
+        {
+          "tag": "li",
+          "text": "3 cloves garlic"
+        },
+        {
+          "tag": "li",
+          "text": "1 Tbsp soy sauce"
+        },
+        {
+          "tag": "li",
+          "text": "Seasonings/spices of choice (chili pepper powders work great here)"
+        },
+        {
+          "tag": "li",
+          "text": "Salt to taste"
+        },
+        {
+          "tag": "p",
+          "text": "Assembly:"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup grated cheddar"
+        },
+        {
+          "tag": "li",
+          "text": "1 cup grated Monterey jack"
+        },
+        {
+          "tag": "li",
+          "text": "⅔ cup crumbled cotija cheese"
+        },
+        {
+          "tag": "li",
+          "text": "Pickled red onions"
+        },
+        {
+          "tag": "li",
+          "text": "Fresh cilantro leaves"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "p",
+          "text": "Sauce:"
+        },
+        {
+          "tag": "li",
+          "text": "In a 12” skillet over medium heat, add in the chilies and dry toast for 30-40 seconds or until fragrant. Remove from pan."
+        },
+        {
+          "tag": "li",
+          "text": "Separately, in an oiled pan set over medium-high heat char the onions and tomatoes cut side down in batches."
+        },
+        {
+          "tag": "li",
+          "text": "Once charred, chop onions and add back to the pan with the tomatoes, chopped garlic, chopped oregano and saute for 1 minute before adding the dried chilis."
+        },
+        {
+          "tag": "li",
+          "text": "Add just enough water to cover and bring to a light simmer. Simmer until all the vegetables are soft and the chilis tear easily."
+        },
+        {
+          "tag": "li",
+          "text": "Drain all the solids out and place into a blender and blend on high speed."
+        },
+        {
+          "tag": "li",
+          "text": "While blending add in white vinegar and additional cooking liquid to loosen."
+        },
+        {
+          "tag": "li",
+          "text": "Once smooth, stream in neutral tasting oil and blend until emulsified then season with salt and grated panela."
+        },
+        {
+          "tag": "p",
+          "text": "Beans:"
+        },
+        {
+          "tag": "li",
+          "text": "In a medium-size saucepot, melt unsalted butter over medium heat."
+        },
+        {
+          "tag": "li",
+          "text": "Once bubbling, add in sliced jalapenos, diced onions, roughly chopped garlic, and kosher salt. Saute for 3-4 minutes or softened."
+        },
+        {
+          "tag": "li",
+          "text": "Add black beans and chicken stock. Bring to a simmer and simmer until completely soft."
+        },
+        {
+          "tag": "li",
+          "text": "Drain out the beans. Reserve the bean juice."
+        },
+        {
+          "tag": "li",
+          "text": "Add beans to the blender and blend until smooth. Adjust salt levels."
+        },
+        {
+          "tag": "p",
+          "text": "Meat:"
+        },
+        {
+          "tag": "li",
+          "text": "In a dry stainless pan set over medium-high heat, press in ground beef, season with salt, and sear until brown. Flip and sear the other side."
+        },
+        {
+          "tag": "li",
+          "text": "Using a handheld masher, mash the beef until fine."
+        },
+        {
+          "tag": "li",
+          "text": "Continue cooking while the fat renders out and the beef is brown and crispy."
+        },
+        {
+          "tag": "li",
+          "text": "Add desired seasoning like soy sauce, and roughly chopped garlic. Mix together."
+        },
+        {
+          "tag": "p",
+          "text": "Tostados:"
+        },
+        {
+          "tag": "li",
+          "text": "Fill a large pot with canola oil and heat to 350℉."
+        },
+        {
+          "tag": "li",
+          "text": "One at a time slowly drop in the tortillas. Fry for 1-2 minutes. Flip and repeat."
+        },
+        {
+          "tag": "li",
+          "text": "Drain over a wire rack set in a rimmed baking sheet. Immediately season with salt."
+        },
+        {
+          "tag": "p",
+          "text": "Assembly:"
+        },
+        {
+          "tag": "li",
+          "text": "On a fried tortilla, spread on the black beans topped with the chili sauce."
+        },
+        {
+          "tag": "li",
+          "text": "Add on the ground beef and top with another tortilla."
+        },
+        {
+          "tag": "li",
+          "text": "Top with a generous amount of grated mixed cheese (cheddar & monterey jack) and place under a broiler to melt."
+        },
+        {
+          "tag": "li",
+          "text": "Add another drizzle of chili sauce followed by crumbled cotija cheese, pickled red onions, and garnished with cilantro leaves."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

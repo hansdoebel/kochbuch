@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.joshuaweissman.com/recipes/perfect-baked-potato-recipe",
+  "recipes": [
+    {
+      "name": "Perfect Baked Potato",
+      "source_url": "https://www.joshuaweissman.com/recipes/perfect-baked-potato-recipe",
+      "recipe_id": null,
+      "authors": [
+        "Joshua Weissman"
+      ],
+      "publisher": "Joshua Weissman",
+      "language": "en",
+      "yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        "1 large russet potato",
+        "1 tsp (4g) olive oil",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Preheat the oven to 425°F (218°C). While the oven is preheating, use a fork to poke holes into the potato.",
+        "Brush the potato with olive oil and season with kosher salt and pepper. Once seasoned, place the potato onto a wire rack-lined baking tray.",
+        "Place the tray into the oven and cook the potato for 40-50 minutes. The potato should be crispy on the outside and fork tender on the inside.",
+        "Once cooked, remove the potato from the oven. Cut the potato open lengthwise down the middle. Fluff the insides and serve."
+      ],
+      "ingredient_sections": [
+        {
+          "tag": "li",
+          "text": "1 large russet potato"
+        },
+        {
+          "tag": "li",
+          "text": "1 tsp (4g) olive oil"
+        },
+        {
+          "tag": "li",
+          "text": "Salt and pepper to taste"
+        }
+      ],
+      "instruction_sections": [
+        {
+          "tag": "li",
+          "text": "Preheat the oven to 425°F (218°C). While the oven is preheating, use a fork to poke holes into the potato."
+        },
+        {
+          "tag": "li",
+          "text": "Brush the potato with olive oil and season with kosher salt and pepper. Once seasoned, place the potato onto a wire rack-lined baking tray."
+        },
+        {
+          "tag": "li",
+          "text": "Place the tray into the oven and cook the potato for 40-50 minutes. The potato should be crispy on the outside and fork tender on the inside."
+        },
+        {
+          "tag": "li",
+          "text": "Once cooked, remove the potato from the oven. Cut the potato open lengthwise down the middle. Fluff the insides and serve."
+        }
+      ]
+    }
+  ],
+  "page_recipe_notes": []
+}

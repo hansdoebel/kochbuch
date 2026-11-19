@@ -28,6 +28,14 @@ export interface NutritionProfile {
   sourceUrl: string;
   reviewedAt: string;
   nutrients: Nutrients;
+  calculation?: {
+    totalLines: number;
+    knownLines: number;
+    coverage: Partial<Record<keyof Nutrients, { known: number; total: number }>>;
+    missing: { ingredient: string; reason: string }[];
+    sources: { foodId: string; name: string; dataset: string; sourceUrl: string; note: string }[];
+    warnings: string[];
+  };
 }
 export interface RecipeSummary {
   id: string;
@@ -97,6 +105,8 @@ export interface Analysis {
   verifiedCount: number;
   totals: Nutrients;
   coverage: Record<string, number>;
+  completeCoverage: Record<string, number>;
+  partialRecipes: string[];
   missingRecipes: string[];
 }
 export interface CatalogMeta {

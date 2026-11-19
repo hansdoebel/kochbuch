@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "aliases": [
+    {"food_id":"bls-4.0:H730000","names":["red lentils","dry red lentils","dried red lentils"]},
+    {"food_id":"bls-4.0:C133000","names":["rolled oats","old fashioned rolled oats","old-fashioned rolled oats","oat flakes"]},
+    {"food_id":"bls-4.0:H120100","names":["walnuts","raw walnuts","walnut halves"]},
+    {"food_id":"bls-4.0:H160100","names":["pecans","raw pecans","pecan halves"]},
+    {"food_id":"bls-4.0:H861000","names":["firm tofu","tofu"]},
+    {"food_id":"bls-4.0:C214100","names":["all-purpose flour","all purpose flour","plain flour"]},
+    {"food_id":"bls-4.0:S111000","names":["granulated sugar","white sugar"]},
+    {"food_id":"bls-4.0:S111100","names":["powdered sugar","icing sugar","confectioners sugar"]},
+    {"food_id":"bls-4.0:H212800","names":["almond butter","unsweetened almond butter"]},
+    {"food_id":"bls-4.0:Q901000","names":["tahini","sesame paste"]},
+    {"food_id":"bls-4.0:Q120000","names":["olive oil","extra virgin olive oil","extra-virgin olive oil"]},
+    {"food_id":"bls-4.0:Q550000","names":["coconut oil"]},
+    {"food_id":"bls-4.0:S151100","names":["maple syrup","pure maple syrup"]},
+    {"food_id":"bls-4.0:H410400","names":["ground flaxseed","ground flaxseeds","flaxseed meal"]}
+  ]
+}

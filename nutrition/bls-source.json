@@ -1,0 +1,13 @@
+{
+  "id": "bls-4.0",
+  "publisher": "Max Rubner-Institut",
+  "version": "4.0 (2025)",
+  "source_url": "https://blsdb.de/download",
+  "download_url": "https://blsdb.de/assets/uploads/BLS_4_0_2025_DE.zip",
+  "license": "CC-BY-4.0",
+  "citation": "Max Rubner-Institut (2025): Bundeslebensmittelschlüssel (BLS), Version 4.0 — Deutsche Nährstoffdatenbank. Karlsruhe. DOI: 10.25826/Data20251217-134202-0",
+  "retrieved_on": "2026-11-19",
+  "sha256": "12b7a6ba62807ec9b301eb276f897dc85f99b2292311618dec3749a12d984c91",
+  "archive_bytes": 14263306,
+  "expected_food_count": 7140
+}

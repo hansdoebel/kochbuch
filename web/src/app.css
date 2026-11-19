@@ -1328,3 +1328,60 @@
     overflow-y: auto;
   }
 }
+.nutrition-database,
+.weekly-planner {
+  margin-top: 1.25rem;
+}
+.nutrition-table-scroll {
+  overflow-x: auto;
+  margin-block: 1rem;
+}
+.nutrition-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+  font-size: 0.875rem;
+}
+.nutrition-table caption {
+  text-align: left;
+  margin-bottom: 0.75rem;
+  color: var(--muted-foreground);
+}
+.nutrition-table td,
+.nutrition-table th {
+  padding: 0.75rem;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+.nutrition-table th {
+  font-weight: 600;
+}
+.nutrition-table small {
+  display: block;
+  color: var(--muted-foreground);
+  margin-top: 0.25rem;
+}
+.food-detail-link {
+  text-align: left;
+  color: var(--primary);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.nutrition-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+}
+.food-facts-detail {
+  margin-top: 1rem;
+  border-top: 1px solid var(--border);
+  padding-top: 1rem;
+}
+.planner-check {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+}

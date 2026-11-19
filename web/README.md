@@ -26,7 +26,7 @@ Für UI-Entwicklung: in einem Terminal `bun run dev` (API mit Watch-Modus), in e
 - Bis zu 24 Rezepte auswählen, kuratierte Portionen anpassen, Vorrat und optionale Zutaten berücksichtigen, Liste abhaken und PDF/Typst/JSON herunterladen.
 - Archivrezepte behalten ihre Originalmengen. Ihre Zutaten werden separat pro Rezept angezeigt. Es werden keine US-Cups oder unbekannten Portionen stillschweigend skaliert oder in Gramm umgerechnet.
 - Auswahl, Design, persönliche Nährwertziele und tatsächlicher Verzehr bleiben in `localStorage`. Geplante Portionen werden nicht automatisch als gegessen protokolliert. Der lokale Speicher kann über die Browser-Einstellungen gelöscht werden.
-- Die Ernährungsansicht unterstützt Energie, Protein, Ballaststoffe, Kohlenhydrate und weitere Makro-/Mikronährstoffe. Sie zeigt derzeit keine erfundenen Werte: Die analysierten Profile sind noch leer. Datenformat und nächster Schritt stehen in [nutrition/README.md](../nutrition/README.md).
+- Die Ernährungsansicht unterstützt Energie, Protein, Ballaststoffe, Kohlenhydrate und weitere Makro-/Mikronährstoffe. Die Werte werden aus versionierten BLS-Lebensmitteln und freigegebenen Zutatenzuordnungen berechnet; Lücken bleiben als Teilsummen sichtbar. Eine durchsuchbare Tabelle zeigt Referenzwerte pro 100 g samt Herkunft. Der Wochenplan-Vorschlag berücksichtigt Zeit, Abwechslung und gemeinsame Zutaten; Nährwertziele nur bei vollständiger Abdeckung. Datenformat und nächster Schritt stehen in [nutrition/README.md](../nutrition/README.md).
 
 ## Prüfung und Leistung
 

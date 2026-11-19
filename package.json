@@ -6,7 +6,9 @@
     "lint:markdown": "markdownlint-cli2 \"rezepte/**/*.md\"",
     "lint:recipes": "python3 scripts/lint_recipes.py",
     "lint:sources": "python3 scripts/check_sources.py",
-    "test": "python3 -m unittest discover -s scripts -v"
+    "test": "python3 -m unittest discover -s scripts -v",
+    "lint:nutrition": "python3 nutrition/check.py",
+    "nutrition:report": "python3 nutrition/check.py --report .cache/nutrition/review.json"
   },
   "devDependencies": {
     "markdownlint-cli2": "0.24.1"

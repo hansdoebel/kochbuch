@@ -1,0 +1,270 @@
+{
+  "version": 1,
+  "matches": [
+    {
+      "ingredient_id": 1,
+      "ingredient_name": "Eier",
+      "food_id": "bls-4.0:E111100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Ganzes Hühnerei roh; ohne Schale. Stückgewicht muss gewogen werden."
+    },
+    {
+      "ingredient_id": 2,
+      "ingredient_name": "Feinkristallzucker",
+      "food_id": "bls-4.0:S111000",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Feinkristallzucker entspricht weißem Raffinadezucker."
+    },
+    {
+      "ingredient_id": 4,
+      "ingredient_name": "Mehl glatt",
+      "food_id": "bls-4.0:C214100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Referenz: glattes Weizenmehl Type 405; tatsächliche Mehltype kann abweichen."
+    },
+    {
+      "ingredient_id": 5,
+      "ingredient_name": "Salz",
+      "food_id": "bls-4.0:R111000",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Unjodiertes Speisesalz als Referenz; keine Jod-Anreicherung annehmen."
+    },
+    {
+      "ingredient_id": 7,
+      "ingredient_name": "Vanillezucker",
+      "food_id": "bls-4.0:S114000",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Vanillezucker, keine reine Vanille."
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Rosinen",
+      "food_id": "bls-4.0:F840100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Getrocknete Weinbeere/Rosine."
+    },
+    {
+      "ingredient_id": 10,
+      "ingredient_name": "Butter",
+      "food_id": "bls-4.0:Q611000",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Ungesalzene, mild gesäuerte Butter als generische Referenz."
+    },
+    {
+      "ingredient_id": 11,
+      "ingredient_name": "Staubzucker",
+      "food_id": "bls-4.0:S111100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Österreichischer Staubzucker = Puderzucker."
+    },
+    {
+      "ingredient_id": 13,
+      "ingredient_name": "Kokosöl",
+      "food_id": "bls-4.0:Q550000",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Kokosöl ohne alternative Öle."
+    },
+    {
+      "ingredient_id": 14,
+      "ingredient_name": "Knoblauchzehen",
+      "food_id": "bls-4.0:G490100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Roher Knoblauch; keine pauschale Grammzahl je Zehe."
+    },
+    {
+      "ingredient_id": 15,
+      "ingredient_name": "Ingwer",
+      "food_id": "bls-4.0:R211200",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Frischer Ingwer, keine Stück-/Längen-Gewichtsannahme."
+    },
+    {
+      "ingredient_id": 24,
+      "ingredient_name": "Rote Linsen",
+      "food_id": "bls-4.0:H730000",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Rote Linse reif/trocken; nicht gekochte Linsen verwenden."
+    },
+    {
+      "ingredient_id": 26,
+      "ingredient_name": "Tomaten aus der Dose",
+      "food_id": "bls-4.0:G560900",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Tomaten aus der Dose, ungewürzt, als generische Referenz."
+    },
+    {
+      "ingredient_id": 27,
+      "ingredient_name": "Kokosmilch",
+      "food_id": "bls-4.0:H154000",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Kokosmilch als generische Referenz; Fettgehalt produktabhängig."
+    },
+    {
+      "ingredient_id": 28,
+      "ingredient_name": "Mandelmus",
+      "food_id": "bls-4.0:H212800",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Mandelmus ohne weitere Zutaten."
+    },
+    {
+      "ingredient_id": 31,
+      "ingredient_name": "Olivenöl",
+      "food_id": "bls-4.0:Q120000",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Olivenöl."
+    },
+    {
+      "ingredient_id": 32,
+      "ingredient_name": "Zwiebel",
+      "food_id": "bls-4.0:G480100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Rohe Speisezwiebel; kein Stückgewicht angenommen."
+    },
+    {
+      "ingredient_id": 35,
+      "ingredient_name": "Tomatenmark",
+      "food_id": "bls-4.0:R160000",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Tomatenmark; Konzentration produktabhängig."
+    },
+    {
+      "ingredient_id": 37,
+      "ingredient_name": "Walnüsse",
+      "food_id": "bls-4.0:H120100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Essbarer Walnusskern, ohne Schale."
+    },
+    {
+      "ingredient_id": 38,
+      "ingredient_name": "Pasta",
+      "food_id": "bls-4.0:E401000",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Trockene eifreie Pasta; nicht gekochte Teigwaren."
+    },
+    {
+      "ingredient_id": 39,
+      "ingredient_name": "Balsamico",
+      "food_id": "bls-4.0:R125000",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Balsamicoessig; keine Balsamico-Creme."
+    },
+    {
+      "ingredient_id": 41,
+      "ingredient_name": "Tofu fest",
+      "food_id": "bls-4.0:H861000",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Generischer Tofu, nicht Seidentofu; Produktwerte können abweichen."
+    },
+    {
+      "ingredient_id": 48,
+      "ingredient_name": "Tahin",
+      "food_id": "bls-4.0:Q901000",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Tahin/Sesammus."
+    },
+    {
+      "ingredient_id": 49,
+      "ingredient_name": "Hefeflocken",
+      "food_id": "bls-4.0:K762400",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Hefeflocken/Nährhefe ohne angenommene Vitamin-Anreicherung."
+    },
+    {
+      "ingredient_id": 51,
+      "ingredient_name": "Lauch",
+      "food_id": "bls-4.0:G470100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Roher Lauch/Porree."
+    },
+    {
+      "ingredient_id": 56,
+      "ingredient_name": "Weizenmehl",
+      "food_id": "bls-4.0:C214100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Referenz Weizenmehl Type 405; Mehltype bei Bedarf präzisieren."
+    },
+    {
+      "ingredient_id": 60,
+      "ingredient_name": "Äpfel",
+      "food_id": "bls-4.0:F110100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Roher Apfel mit Schale; abweichende essbare Menge separat erfassen."
+    },
+    {
+      "ingredient_id": 61,
+      "ingredient_name": "Zitronensaft",
+      "food_id": "bls-4.0:F601600",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Zitronensaft; keine ganze Zitrone."
+    },
+    {
+      "ingredient_id": 62,
+      "ingredient_name": "Ahornsirup",
+      "food_id": "bls-4.0:S151100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Ahornsirup."
+    },
+    {
+      "ingredient_id": 70,
+      "ingredient_name": "Pekannüsse",
+      "food_id": "bls-4.0:H160100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Pekannusskern ohne Schale."
+    },
+    {
+      "ingredient_id": 71,
+      "ingredient_name": "Haferflocken",
+      "food_id": "bls-4.0:C133000",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Trockene Haferflocken."
+    },
+    {
+      "ingredient_id": 72,
+      "ingredient_name": "Rohrzucker",
+      "food_id": "bls-4.0:S112000",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Brauner Rohzucker als Referenz; tatsächliches Produkt kann abweichen."
+    },
+    {
+      "ingredient_id": 73,
+      "ingredient_name": "Leinsamen geschrotet",
+      "food_id": "bls-4.0:H410400",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Geschrotete Leinsamen."
+    }
+  ],
+  "weights": []
+}

@@ -560,7 +560,14 @@
     {:else}
       {#await import('./NutritionPanel.svelte')}<div class="empty-state">
           <LoaderCircle size={28} class="animate-spin" />Analyse wird geladen …
-        </div>{:then module}<module.default {basket} {meta} />{:catch}<p role="alert" class="error">
+        </div>{:then module}<module.default
+          {basket}
+          {meta}
+          onUsePlan={(items) => {
+            basket = items;
+            view = 'shopping';
+          }}
+        />{:catch}<p role="alert" class="error">
           Die Ernährungsansicht konnte nicht geladen werden.
         </p>{/await}
     {/if}
@@ -702,6 +709,29 @@
               Nährwertquelle
             </a>
           </p>
+          {#if detail.nutrition.calculation}
+            <p>
+              <strong>
+                Bekannte Zutaten: {detail.nutrition.calculation.knownLines}/{detail.nutrition
+                  .calculation.totalLines}
+              </strong>
+            </p>
+            <p>Geschätzte Zutatenbilanz; unvollständige Werte sind Teilsummen.</p>
+            <details class="micros">
+              <summary>Berechnung, Lücken und Quellen</summary>
+              {#each detail.nutrition.calculation.warnings as warning}<p>{warning}</p>{/each}
+              <ul>
+                {#each detail.nutrition.calculation.missing as missing}<li>
+                    {missing.ingredient}: {missing.reason}
+                  </li>{/each}
+              </ul>
+              {#each detail.nutrition.calculation.sources as source}<p>
+                  <a class="source-link" href={source.sourceUrl} target="_blank" rel="noreferrer">
+                    {source.name} ({source.foodId})
+                  </a><br />{source.note}<br />{source.dataset}
+                </p>{/each}
+            </details>
+          {/if}
         </div>
       {/if}
       {#if detail.missingFields.length}<p class="notice">

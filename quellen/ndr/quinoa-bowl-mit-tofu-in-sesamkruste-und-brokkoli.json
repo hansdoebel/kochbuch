@@ -1,0 +1,71 @@
+{
+  "source_url": "https://www.ndr.de/ratgeber/kochen/rezepte/Quinoa-Bowl-mit-Tofu-in-Sesamkruste-und-Brokkoli,rezept2868.html",
+  "recipes": [
+    {
+      "name": "Quinoa-Bowl mit Tofu in Sesamkruste und Brokkoli",
+      "source_url": "https://www.ndr.de/ratgeber/kochen/rezepte/Quinoa-Bowl-mit-Tofu-in-Sesamkruste-und-Brokkoli,rezept2868.html",
+      "recipe_id": "https://www.ndr.de/ratgeber/kochen/rezepte/Quinoa-Bowl-mit-Tofu-in-Sesamkruste-und-Brokkoli,rezept2868.html",
+      "authors": [
+        "ndr.de"
+      ],
+      "publisher": "NDR",
+      "language": "de",
+      "yield": 2,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "200 g Quinoa",
+        "200 g Naturtofu",
+        "2 EL heller Sesam",
+        "2 EL scharzer Sesam",
+        "2 EL Kokosöl",
+        "200 g Brokkoli",
+        "1 kleiner Fenchel",
+        "6 (z.B. Shiitake oder Champignons) Pilze",
+        "4 Blatt Mangold",
+        "1 Handvoll Rucola",
+        "40 g gehobelte Mandeln",
+        "2 EL Hefeflocken",
+        "1 Handvoll Sprossen",
+        "1 rote Chili-Schote",
+        "2 Stängel Petersilie",
+        "1 EL Rapsöl",
+        "2 TL Sojasoße",
+        "alternativ: Tamani",
+        "1 Limette",
+        "1 TL flüssiger Honig",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Quinoa in doppelter Wassermenge 15 Minuten garen, danach mindestens 5 Minuten quellen lassen. Brokkoli putzen und dämpfen.",
+        "Tofu in Scheiben schneiden, im gemischten Sesam wenden und im Kokosöl beidseitig etwa 5 Minuten knusprig braten.",
+        "Fenchel, Pilze und Mangold klein schneiden und im übrigen Öl etwa 5 Minuten braten. Kräuter und Chili hacken.",
+        "Limettensaft mit den Dressingzutaten in der warmen Pfanne vermengen. Alle Komponenten mit Mandeln, Sprossen und Hefeflocken anrichten und Dressing zugeben."
+      ],
+      "missing_fields": [],
+      "publisher_nutrition": {
+        "basis": "per_serving",
+        "origin": "publisher_estimate",
+        "sourceUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Quinoa-Bowl-mit-Tofu-in-Sesamkruste-und-Brokkoli,rezept2868.html",
+        "nutrients": {
+          "energy_kcal": 990.0,
+          "protein_g": 51.0,
+          "fat_g": 49.0,
+          "publisher_carbohydrates_g": 86.0,
+          "fiber_g": 21.0
+        },
+        "note": "NDR-Schätzung pro veröffentlichter Portion; Kohlenhydratdefinition nicht unabhängig geprüft. Nicht mit BLS-Teilsummen verrechnen.",
+        "reviewedAt": "2026-11-19"
+      },
+      "instruction_representation": "editorial_summary"
+    }
+  ],
+  "page_recipe_notes": [
+    "Zubereitung redaktionell gekürzt und neu formuliert; keine wörtliche Volltextkopie."
+  ],
+  "extraction_warnings": [
+    "Sichtbare Zutaten statt verlustbehaftetem JSON-LD; Alternativen bleiben ausdrücklich erhalten."
+  ],
+  "reviewed_source_digest": "129a40c760540ed5b4da19deeb7522c1292ba2c1bb148cbb88bbf3e98b0b882d"
+}

@@ -1,6 +1,6 @@
 # NDR: kuratierte Fitness-Auswahl
 
-Acht ausdrücklich ausgewählte öffentliche NDR-Rezeptkarten, geprüft am 19. November 2026. **Kein Crawl des gesamten NDR-Archivs.** Die Auswahl steht in `selection.json`, mit konkreter URL, Begründung, Prüfdatum und Fingerabdruck des geprüften Karteninhalts.
+Elf ausdrücklich ausgewählte öffentliche NDR-Rezeptkarten, geprüft am 19. November 2026. **Kein Crawl des gesamten NDR-Archivs.** Die Auswahl steht in `selection.json`, mit konkreter URL, Begründung, Prüfdatum und Fingerabdruck des geprüften Karteninhalts.
 
 | Rezept | Urheber laut Karte | Portionen | Gesamtzeit | NDR-Schätzung pro Portion |
 | --- | --- | ---: | ---: | --- |
@@ -12,8 +12,11 @@ Acht ausdrücklich ausgewählte öffentliche NDR-Rezeptkarten, geprüft am 19. N
 | [Lachs-Päckchen mit Gemüse und Feta](https://www.ndr.de/ratgeber/kochen/rezepte/Lachs-Paeckchen-mit-Gemuese-und-Feta,rezept2548.html) | ndr.de | 2 | 30 Min. | 473 kcal · 42 g Protein · 6 g Ballaststoffe |
 | [Strammer Max vegetarisch](https://www.ndr.de/ratgeber/kochen/rezepte/Strammer-Max-vegetarisch,strammermax132.html) | ndr.de | 1 | 15 Min. | 410 kcal · 32 g Protein · 6 g Ballaststoffe; ohne Salat |
 | [Quarkfrühstück mit Gemüse und Obst („Doc-Klasen-Spezial“)](https://www.ndr.de/ratgeber/kochen/rezepte/Quarkfruehstueck-mit-Gemuese-und-Obst-Doc-Klasen-Fruehstueck,fruehstueck2230.html) | Jörn Klasen | 1 | 10 Min. | 653 kcal · 33 g Protein · 17 g Ballaststoffe |
+| [Gebratener Tofu mit Pfannengemüse und Pilzen](https://www.ndr.de/ratgeber/kochen/rezepte/Tofu-mit-Pfannengemuese-und-Pilzen,tofupfanne114.html) | Tarik Rose | 4 | 30 Min. + Marinieren | 385 kcal · 28 g Protein · 10 g Ballaststoffe |
+| [Bohnenpfanne mit Tofu](https://www.ndr.de/ratgeber/kochen/rezepte/bohnenpfanne-mit-tofu,bohnenpfanne-100.html) | Uwe Behrends | 2 | 30 Min. | 482 kcal · 28 g Protein · 8 g Ballaststoffe |
+| [Quinoa-Bowl mit Tofu in Sesamkruste und Brokkoli](https://www.ndr.de/ratgeber/kochen/rezepte/Quinoa-Bowl-mit-Tofu-in-Sesamkruste-und-Brokkoli,rezept2868.html) | ndr.de | 2 | 40 Min. | 990 kcal · 51 g Protein · 21 g Ballaststoffe |
 
-Alle acht stehen auch als gekürzte, neu formulierte Kochbuchfassungen unter `rezepte/` und in `db/seed.sql`. Damit funktionieren Suche, skalierbare Einkaufsliste und Wochenplan unmittelbar. Ein Original wird nicht doppelt als Archivkarte angezeigt.
+Alle elf stehen auch als gekürzte, neu formulierte Kochbuchfassungen unter `rezepte/` und in `db/seed.sql`. Damit funktionieren Suche, skalierbare Einkaufsliste und Wochenplan unmittelbar. Ein Original wird nicht doppelt als Archivkarte angezeigt.
 
 ## Erfassung und Wiederholung
 
@@ -35,7 +38,7 @@ Für neue Einträge: Originalseite öffnen, die vollständige Karte prüfen, Aus
 - Kichererbsen: 150 g Abtropfgewicht. Kidneybohnen im Chili: 400 g einschließlich Bohnenwasser. Nicht dieselbe Gramm-Basis für Nährwerte verwenden.
 - Handvoll, Stück und Volumen erhalten keine erfundenen essbaren Grammgewichte. Geprüfte BLS-Zuordnungen ergänzen die Zutatenbilanz, aber verbleibende Gewichte bleiben offen.
 - Die Quelle nennt nur Gesamtzeiten. `total_minutes` speichert diese unverändert; getrennte Vorbereitungs-/Garzeiten bleiben NULL beziehungsweise `unbekannt` im Markdown.
-- Die UI zeigt NDR-Schätzwerte mit Quelle getrennt von der BLS-Zutatenbilanz. Es werden weder fehlende Mikronährwerte mit Null aufgefüllt noch NDR-Makros mit BLS-Teilsummen vermischt. Die Kohlenhydratdefinition ist als Herausgeberangabe gekennzeichnet. Diese Schätzwerte schalten keine Ernährungs-Zieloptimierung für unvollständige Zutatenprofile frei.
+- Die UI zeigt NDR-Schätzwerte mit Quelle getrennt von der BLS-Zutatenbilanz. Es werden weder fehlende Mikronährwerte mit Null aufgefüllt noch NDR-Makros mit BLS-Teilsummen vermischt. Die Kohlenhydratdefinition ist als Herausgeberangabe gekennzeichnet. Diese Schätzwerte vervollständigen keine BLS-Profile. Für die Portionsanpassung können sie ausdrücklich als getrennte Schätzbasis gewählt werden; eine automatische Umschaltung gibt es nicht.
 
 Andere recherchierte Websites bleiben in [der Forschungsdatei](../../docs/fitness-recipes-and-preferences.md) und [der Metadaten-Shortlist](../../docs/fitness-recipe-shortlist.json) vorgemerkt; sie werden nicht importiert.
 
@@ -47,3 +50,12 @@ Fünf weitere Karten wurden einzeln geprüft, statt eine Sitemap zu übernehmen:
 - Basilikum-Tofu, Räuchertofu, Krabben und die unbestimmte Nussmischung erhalten keine erfundene Produktzuordnung. Bei der Gemüsepfanne sind Hülsenfrüchte ein Ersatz, keine zusätzliche Zutat.
 - Scheibe, Schuss und Spritzer sind qualitative Einheiten ohne Grammdichte. Optionale Sojasoße wird nicht automatisch als bekannte Masse berechnet.
 - Der Parser erkennt zusätzlich ältere NDR-Überschriften und bewahrt Zusätze wie „ohne Salat“. Die bisherigen drei Quell-Fingerabdrücke bleiben unverändert.
+
+## Asiatisch beeinflusste Tofu-Auswahl
+
+Drei weitere Karten einzeln geprüft: Sesam-/Quinoa-Bowl, Bohnenpfanne und marinierter Tofu mit Gemüse und Pilzen. Mengen und Schritte bleiben nachvollziehbar; die volle Seite bleibt außerhalb des Repositories. Der Parser unterstützt Rezepturheber als JSON-LD-Liste.
+
+- Honig macht Stir-fry und Bowl vegetarisch statt vegan. Bei der Bohnenpfanne sind Curry-/Teriyaki-Produkte unbestimmt; keine pauschale Vegan-Markierung.
+- Der marinierte Tofu braucht mehrere Stunden oder eine Nacht zusätzlich zu 30 Minuten. Der Wochenplan verlangt dafür eine ausdrückliche Freigabe von Vorabend-Vorbereitung.
+- Die 990-kcal-Bowl kann per Portion skaliert werden; „Fitness“ bedeutet kein automatisch energiearmes Essen.
+- „scharzer Sesam“ wird mit Hinweis berichtigt. Die unklare Quellalternative „Tamani“ ersetzt keine eigenständige geprüfte Zutat. Frische Sojabohnen mit unklarer Schotenbasis und unbestimmte Pilze werden nicht zwangsgematcht.

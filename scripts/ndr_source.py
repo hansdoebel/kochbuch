@@ -77,7 +77,8 @@ def extract_ndr(html,url):
     servings=node.get('recipeYield')
     if not isinstance(servings,int) or isinstance(servings,bool) or servings<=0 or str(servings)!=p.servings:raise ValueError('NDR serving counts missing or disagree')
     a=node.get('author')
-    authors=[clean(a.get('name',''))] if isinstance(a,dict) else []
+    author_nodes=[a] if isinstance(a,dict) else a if isinstance(a,list) else []
+    authors=[clean(v['name']) for v in author_nodes if isinstance(v,dict) and isinstance(v.get('name'),str) and clean(v['name'])]
     if not authors or not authors[0]:raise ValueError('NDR author missing; never use image/video credits')
     instructions=[]
     for item in node.get('recipeInstructions',[]):

@@ -4,8 +4,12 @@
   import { Input } from '$lib/components/ui/input';
   import { api, localDate, readLocal, writeLocal } from '$lib/client';
   import type { BasketItem } from '$lib/types';
+  import type { DietPreferences } from '$lib/diet';
   import type { WeeklyPlan } from './server/planner';
-  let { onUsePlan }: { onUsePlan: (items: BasketItem[]) => void } = $props();
+  let {
+    onUsePlan,
+    preferences,
+  }: { preferences: DietPreferences; onUsePlan: (items: BasketItem[]) => void } = $props();
   let start = $state(localDate()),
     maxMinutes = $state(90),
     servings = $state(1),
@@ -15,6 +19,8 @@
     fiber = $state<number | undefined>(undefined),
     busy = $state(false),
     error = $state('');
+  let useDiet = $state(false),
+    allowAdvancePrep = $state(false);
   let mainOnly = $state(true);
   let maxRepeats = $state(3);
   let plan = $state<WeeklyPlan | null>(null);
@@ -36,7 +42,9 @@
         days: 7,
         servings,
         maxMinutes,
-        vegan,
+        vegan: useDiet ? false : vegan,
+        allowAdvancePrep,
+        diet: useDiet ? preferences : undefined,
         mainOnly,
         maxRepeats,
         targetsPerMeal: { energy_kcal: energy, protein_g: protein, fiber_g: fiber },
@@ -73,11 +81,11 @@
   >
     <div class="goal-fields">
       <label>Ab Datum<Input type="date" bind:value={start} required /></label><label>
-        Portionen je Mahlzeit<Input
+        {useDiet ? 'Personen mit demselben Tagesziel' : 'Portionen je Mahlzeit'}<Input
           type="number"
-          min="0.1"
+          min={useDiet ? 1 : 0.1}
           max="10"
-          step="0.1"
+          step={useDiet ? 1 : 0.1}
           bind:value={servings}
           required
         />
@@ -104,24 +112,38 @@
       <input type="checkbox" bind:checked={mainOnly} /> Nur Hauptgerichte
     </label>
     <label class="planner-check">
-      <input type="checkbox" bind:checked={vegan} /> Nur als vegan markierte Rezepte
+      <input type="checkbox" bind:checked={useDiet} /> Tagesprofile verwenden und persönliche Portionen
+      anpassen
     </label>
-    <details class="micros">
-      <summary>Optionale Nährwertziele je geplanter Mahlzeit</summary>
-      <p class="muted-copy">
-        Für die gesamte geplante Portionenmenge. Nur vollständige Werte werden für den Zielvergleich
-        genutzt.
-      </p>
-      <div class="goal-fields">
-        <label>
-          Energie (kcal)<Input type="number" min="1" max="5000" bind:value={energy} />
-        </label><label>
-          Protein (g)<Input type="number" min="1" max="300" bind:value={protein} />
-        </label><label>
-          Ballaststoffe (g)<Input type="number" min="1" max="150" bind:value={fiber} />
-        </label>
-      </div>
-    </details>
+    {#if useDiet}<p class="notice">
+        Verwendet Training/Ruhetag, Ernährungsweise und ausgeschlossene Zutaten aus deinen
+        Einstellungen. {preferences.source === 'publisher_estimate'
+          ? 'Herausgeber-Schätzungen ausdrücklich gewählt.'
+          : 'Nur vollständige Zutatenwerte für alle Ziele.'} Anteil der Mahlzeit am Tagesziel vorher festlegen.
+        Die Personenanzahl vergrößert nur die Kochmenge.
+      </p>{/if}
+    <label class="planner-check">
+      <input type="checkbox" bind:checked={allowAdvancePrep} /> Rezepte mit Vorbereitung am Vortag erlauben
+    </label>
+    <label class="planner-check">
+      <input type="checkbox" disabled={useDiet} bind:checked={vegan} /> Nur als vegan markierte Rezepte
+    </label>
+    {#if !useDiet}<details class="micros">
+        <summary>Optionale Nährwertziele je geplanter Mahlzeit</summary>
+        <p class="muted-copy">
+          Für die gesamte geplante Portionenmenge. Nur vollständige Werte werden für den
+          Zielvergleich genutzt.
+        </p>
+        <div class="goal-fields">
+          <label>
+            Energie (kcal)<Input type="number" min="1" max="5000" bind:value={energy} />
+          </label><label>
+            Protein mindestens (g)<Input type="number" min="1" max="300" bind:value={protein} />
+          </label><label>
+            Ballaststoffe mindestens (g)<Input type="number" min="1" max="150" bind:value={fiber} />
+          </label>
+        </div>
+      </details>{/if}
     <Button type="submit" disabled={busy}>{busy ? 'Wird geplant …' : '7 Tage vorschlagen'}</Button>
   </form>
   {#if error}<p role="alert" class="error">{error}</p>{/if}
@@ -132,18 +154,39 @@
         </thead><tbody>
           {#each plan.entries as entry}<tr>
               <td>{entry.date}</td><td>{entry.title}<small>{entry.minutes} Min.</small></td><td>
-                {entry.servings}
+                {new Intl.NumberFormat('de-DE', { maximumFractionDigits: 2 }).format(
+                  entry.servings
+                )}
+                {#if entry.adaptation?.servings}<small>
+                    {entry.adaptation.servings.toFixed(2)} pro Person · {entry.profile ===
+                    'training'
+                      ? 'Training'
+                      : 'Ruhetag'}
+                  </small>{/if}
               </td><td>
-                {entry.nutritionUsed
-                  ? 'Nährwertziele berücksichtigt'
-                  : entry.analysis.profiledCount
-                    ? 'Geschätzte Teilwerte'
-                    : 'Nicht analysiert'}
+                {#if entry.adaptation}<span>
+                    {entry.adaptation.status === 'fits'
+                      ? 'Zielbereiche erreicht'
+                      : 'Näherung, Ziele nicht alle erfüllt'} · {entry.adaptation.source ===
+                    'publisher_estimate'
+                      ? 'Herausgeber-Schätzung'
+                      : 'Zutatenbilanz'}
+                  </span>{:else}{entry.nutritionUsed
+                    ? 'Nährwertziele berücksichtigt'
+                    : entry.analysis.profiledCount
+                      ? 'Geschätzte Teilwerte'
+                      : 'Nicht analysiert'}{/if}
+                {#each entry.adaptation?.violations ?? [] as v}<small>
+                    {v.key}: {v.value.toFixed(1)} · Ziel {v.min ?? 'offen'}–{v.max ?? 'offen'}
+                  </small>{/each}
               </td>
             </tr>{/each}
         </tbody>
       </table>
     </div>
+    {#if plan.unplannedDates?.length}<p class="notice">
+        Ohne Vorschlag: {plan.unplannedDates.join(', ')}
+      </p>{/if}
     {#each plan.warnings as warning}<p class="notice">{warning}</p>{/each}<Button
       disabled={!plan.entries.length}
       onclick={usePlan}

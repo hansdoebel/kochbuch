@@ -3,6 +3,7 @@ import { z } from 'zod';
 import { Catalog } from './catalog';
 import { nutritionFoods, nutritionStatus } from './nutrition';
 import { suggestPlan } from './planner';
+import { adaptRecipe, adaptSchema } from './adaptation';
 import { shoppingList, selectionSchema, analyse } from './shopping';
 import { typstSource, pdfExport, typstBinary } from './export';
 const inputSchema = z.object({
@@ -14,6 +15,20 @@ export function createApp(catalog: Catalog, dist = resolve(import.meta.dir, '../
   return async function handle(req: Request): Promise<Response> {
     const url = new URL(req.url);
     try {
+      if (url.pathname === '/api/diet/options' && req.method === 'GET')
+        return Response.json({
+          recipes: catalog.readyRecipes().map(({ id, title, source, ready, servings, tags }) => ({
+            id,
+            title,
+            source,
+            ready,
+            servings,
+            tags,
+          })),
+          ingredients: catalog.nutritionDB
+            .query('SELECT id,name FROM ingredients ORDER BY name')
+            .all(),
+        });
       if (url.pathname === '/api/nutrition/status' && req.method === 'GET')
         return Response.json(nutritionStatus(catalog.nutritionDB));
       if (url.pathname === '/api/nutrition/foods' && req.method === 'GET') {
@@ -48,9 +63,13 @@ export function createApp(catalog: Catalog, dist = resolve(import.meta.dir, '../
           : Response.json({ error: 'Rezept nicht gefunden.' }, { status: 404 });
       }
       if (
-        ['/api/shopping', '/api/analysis', '/api/export', '/api/plan/suggest'].includes(
-          url.pathname
-        ) &&
+        [
+          '/api/shopping',
+          '/api/analysis',
+          '/api/export',
+          '/api/plan/suggest',
+          '/api/diet/adapt',
+        ].includes(url.pathname) &&
         req.method === 'POST'
       ) {
         const origin = req.headers.get('origin');
@@ -62,6 +81,12 @@ export function createApp(catalog: Catalog, dist = resolve(import.meta.dir, '../
         const raw = await req.text();
         if (raw.length > 16_384)
           return Response.json({ error: 'Auswahl zu groß.' }, { status: 413 });
+        if (url.pathname === '/api/diet/adapt') {
+          const input = adaptSchema.parse(JSON.parse(raw));
+          const recipe = catalog.get(input.id);
+          if (!recipe) return Response.json({ error: 'Rezept nicht gefunden.' }, { status: 404 });
+          return Response.json(adaptRecipe(input, recipe));
+        }
         if (url.pathname === '/api/plan/suggest') {
           const recipes = catalog.readyRecipes();
           return Response.json(suggestPlan(JSON.parse(raw), recipes));

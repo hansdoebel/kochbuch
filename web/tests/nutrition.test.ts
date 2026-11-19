@@ -91,7 +91,11 @@ describe('BLS reference database', () => {
     db.exec(
       `INSERT INTO shopping_categories VALUES (1,'Food',1);INSERT INTO units VALUES (1,'g','g','mass','g',1);INSERT INTO ingredients VALUES (1,'A',1,1,0),(2,'B',1,1,0);INSERT INTO recipes VALUES (1,'test','Test',2,'Portionen',1,1,NULL,NULL,NULL);INSERT INTO recipe_ingredients VALUES (1,1,1,200,1,NULL,NULL,'Food',NULL,0,1),(2,1,2,NULL,NULL,'Unbekannt',NULL,'Food',NULL,0,2);INSERT INTO nutrition_datasets VALUES ('test','test','1','https://example.org','CC0','test','2026-11-19','${'a'.repeat(64)}');INSERT INTO nutrition_nutrients VALUES ('protein_g','Protein','g','P');INSERT INTO nutrition_foods VALUES ('test:A','test','A','A',NULL,'https://example.org');INSERT INTO nutrition_facts VALUES ('test:A','protein_g',10,'Analyse',NULL,NULL,'P');INSERT INTO ingredient_nutrition_matches VALUES (1,'test:A','reviewed','2026-11-19','Reviewed');`
     );
+    db.exec(
+      `INSERT INTO nutrition_datasets VALUES ('unrelated','other','1','https://example.org/other','CC0','unrelated','2026-12-31','${'b'.repeat(64)}');`
+    );
     const p = calculatedProfile(db, 1, 'test')!;
+    expect(p.reviewedAt).toBe('2026-11-19');
     expect(p.nutrients.protein_g).toBe(10);
     expect(p.calculation?.coverage.protein_g).toEqual({ known: 1, total: 2 });
     expect(p.calculation?.missing[0].ingredient).toBe('B');

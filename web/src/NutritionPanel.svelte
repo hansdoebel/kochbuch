@@ -16,8 +16,17 @@
   import { Badge } from '$lib/components/ui/badge';
   import NutritionDatabase from './NutritionDatabase.svelte';
   import WeeklyPlanner from './WeeklyPlanner.svelte';
+  import DietPlan from './DietPlan.svelte';
+  import {
+    dietTargetsSchema,
+    dietPreferencesSchema,
+    migrateLegacyGoals,
+    targetsForDate,
+    goalLabel,
+    type DietTargets,
+  } from '$lib/diet';
   import { api, readLocal, writeLocal, localDate } from '$lib/client';
-  import type { Analysis, BasketItem, CatalogMeta, Nutrients } from '$lib/types';
+  import type { Analysis, BasketItem, CatalogMeta } from '$lib/types';
   let {
     basket,
     meta,
@@ -40,11 +49,28 @@
         )
       : []
   );
-  let goals = $state<Partial<Record<keyof Nutrients, number>>>(readLocal('goals:v1', {}));
+  const storedPrefs = dietPreferencesSchema.safeParse(readLocal('diet-preferences:v1', null));
+  let preferences = $state(
+    storedPrefs.success ? storedPrefs.data : migrateLegacyGoals(readLocal('goals:v1', {}))
+  );
+  const storedHistory = readLocal<Record<string, unknown>>('daily-goals:v1', {});
+  let goalHistory = $state<Record<string, DietTargets>>(
+    Object.fromEntries(
+      Object.entries(
+        storedHistory && typeof storedHistory === 'object' ? storedHistory : {}
+      ).filter(
+        ([date, targets]) =>
+          /^\d{4}-\d{2}-\d{2}$/.test(date) && dietTargetsSchema.safeParse(targets).success
+      )
+    ) as Record<string, DietTargets>
+  );
   let scope = $state<'selection' | 'eaten'>('selection'),
     day = $state(localDate()),
     logRecipe = $state(''),
     logServings = $state(1);
+  const goals = $derived(
+    scope === 'eaten' && goalHistory[day] ? goalHistory[day] : targetsForDate(preferences, day)
+  );
   let analysis = $state<Analysis | null>(null),
     error = $state(''),
     busy = $state(false);
@@ -82,7 +108,8 @@
     writeLocal('meals:v1', meals);
   });
   $effect(() => {
-    writeLocal('goals:v1', goals);
+    writeLocal('diet-preferences:v1', preferences);
+    writeLocal('daily-goals:v1', goalHistory);
   });
   $effect(() => {
     if (!basket.some((r) => r.id === logRecipe)) logRecipe = basket[0]?.id ?? '';
@@ -102,16 +129,14 @@
       });
     return () => controller.abort();
   });
-  function setGoal(key: keyof Nutrients, raw: string) {
-    const next = { ...goals };
-    const value = Number(raw);
-    if (!raw || !Number.isFinite(value) || value <= 0) delete next[key];
-    else next[key] = value;
-    goals = next;
-  }
   function logMeal() {
     const recipe = basket.find((r) => r.id === logRecipe);
     if (!recipe || !Number.isFinite(logServings) || logServings <= 0 || logServings > 100) return;
+    if (!goalHistory[day])
+      goalHistory = {
+        ...goalHistory,
+        [day]: structuredClone($state.snapshot(targetsForDate(preferences, day))),
+      };
     meals = [
       ...meals,
       {
@@ -145,7 +170,14 @@
     </button>
   </div>
   {#if scope === 'eaten'}<label class="date-label">
-      Tag<Input type="date" bind:value={day} aria-label="Tag des Verzehrs" />
+      Tag<Input
+        type="date"
+        value={day}
+        oninput={(e) => {
+          if (/^\d{4}-\d{2}-\d{2}$/.test(e.currentTarget.value)) day = e.currentTarget.value;
+        }}
+        aria-label="Tag des Verzehrs"
+      />
     </label>{/if}
 </div>
 <div class="analytics-note">
@@ -165,7 +197,8 @@
   {#each macros as metric}
     {@const value = analysis?.totals[metric.key]}
     {@const known = analysis?.coverage[metric.key] ?? 0}
-    {@const goal = goals[metric.key]}
+    {@const range = goals[metric.key]}
+    {@const goal = range?.min || range?.max}
     <Card class="metric-card">
       <div class="metric-top"><span>{metric.name}</span><metric.icon size={19} /></div>
       <div class="metric-value">
@@ -182,12 +215,12 @@
           value={Math.min(100, (value / goal) * 100)}
           aria-label={metric.name + ' im Verhältnis zu deinem Ziel'}
         />
-        <p class="goal-caption">Bekannte Teilsumme · Ziel {fmt(goal)} {metric.unit}</p>{:else}<div
-          class="unknown-progress"
-          aria-hidden="true"
-        ></div>
         <p class="goal-caption">
-          {goal ? 'Ziel ' + fmt(goal) + ' ' + metric.unit : 'Noch kein persönliches Ziel'}
+          Bekannte Teilsumme · Ziel {goalLabel(range)}
+          {metric.unit}
+        </p>{:else}<div class="unknown-progress" aria-hidden="true"></div>
+        <p class="goal-caption">
+          {goal ? 'Ziel ' + goalLabel(range) + ' ' + metric.unit : 'Noch kein persönliches Ziel'}
         </p>{/if}
     </Card>
   {/each}
@@ -280,7 +313,16 @@
             bind:value={logServings}
             required
           />
-        </label><label>Datum<Input type="date" bind:value={day} required /></label>
+        </label><label>
+          Datum<Input
+            type="date"
+            value={day}
+            oninput={(e) => {
+              if (/^\d{4}-\d{2}-\d{2}$/.test(e.currentTarget.value)) day = e.currentTarget.value;
+            }}
+            required
+          />
+        </label>
       </div>
       <Button type="submit" disabled={!logRecipe || !logServings || logServings <= 0}>
         <Plus size={16} />Verzehr speichern
@@ -302,25 +344,11 @@
       </div>{/if}
   </Card>
 </div>
-<Card class="analytics-card goals-card">
-  <h2>Deine Tagesziele</h2>
-  <p class="muted-copy">
-    Optional und von dir festgelegt. Ziele helfen beim Vergleichen, ersetzen aber keine
-    vollständigen Nährwertdaten.
-  </p>
-  <div class="goal-fields">
-    {#each macros as metric}<label>
-        {metric.name} ({metric.unit})<Input
-          type="number"
-          min="1"
-          step="1"
-          placeholder="Ziel festlegen"
-          value={goals[metric.key] ?? ''}
-          oninput={(e) => setGoal(metric.key, e.currentTarget.value)}
-        />
-      </label>{/each}
-  </div>
-</Card>
-
-<WeeklyPlanner {onUsePlan} />
+<p class="muted-copy">
+  Tagesziele für {day}. Beim ersten Verzehr wird der damalige Zielstand für diesen Tag gespeichert;
+  spätere Änderungen gelten für neue Tage. Alte Einträge ohne Zielstand verwenden das aktuelle
+  Profil.
+</p>
+<DietPlan {preferences} onChange={(p) => (preferences = p)} {onUsePlan} />
+<WeeklyPlanner {preferences} {onUsePlan} />
 <NutritionDatabase />

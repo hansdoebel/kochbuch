@@ -1,0 +1,66 @@
+{
+  "source_url": "https://www.ndr.de/ratgeber/kochen/rezepte/bohnenpfanne-mit-tofu,bohnenpfanne-100.html",
+  "recipes": [
+    {
+      "name": "Bohnenpfanne mit Tofu",
+      "source_url": "https://www.ndr.de/ratgeber/kochen/rezepte/bohnenpfanne-mit-tofu,bohnenpfanne-100.html",
+      "recipe_id": "https://www.ndr.de/ratgeber/kochen/rezepte/bohnenpfanne-mit-tofu,bohnenpfanne-100.html",
+      "authors": [
+        "Uwe Behrends"
+      ],
+      "publisher": "NDR",
+      "language": "de",
+      "yield": 2,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "1 Zucchini",
+        "200 g Champignons",
+        "200 g geräucherter Tofu",
+        "0.5 rote Zwiebel",
+        "1 Zehe Knoblauch",
+        "2 EL Rapsöl",
+        "200 g (TK) grüne Brechbohnen",
+        "Pfeffer",
+        "Salz",
+        "100 ml Kokosmilch",
+        "100 ml Soja Cuisine",
+        "0.5 TL Senf",
+        "1 TL Tomatenmark",
+        "1 TL gelbe Currypaste",
+        "1 EL Teriyaki-Soße",
+        "1 EL Sojasoße",
+        "1 TL Sesam"
+      ],
+      "instructions": [
+        "Zucchini und Pilze in Scheiben, Tofu in Würfel schneiden. Zwiebel und Knoblauch hacken und im Rapsöl anschwitzen.",
+        "Tofu, Zucchini und Pilze hinzufügen, würzen und etwa 10 Minuten braten.",
+        "Kokosmilch, Soja Cuisine und Würzsaucen verrühren. Mit den TK-Bohnen zugeben, aufkochen und weitere 10 Minuten köcheln. Mit Sesam servieren."
+      ],
+      "missing_fields": [],
+      "publisher_nutrition": {
+        "basis": "per_serving",
+        "origin": "publisher_estimate",
+        "sourceUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/bohnenpfanne-mit-tofu,bohnenpfanne-100.html",
+        "nutrients": {
+          "energy_kcal": 482.0,
+          "protein_g": 28.0,
+          "fat_g": 33.0,
+          "publisher_carbohydrates_g": 18.0,
+          "fiber_g": 8.0
+        },
+        "note": "NDR-Schätzung pro veröffentlichter Portion; Kohlenhydratdefinition nicht unabhängig geprüft. Nicht mit BLS-Teilsummen verrechnen.",
+        "reviewedAt": "2026-11-19"
+      },
+      "instruction_representation": "editorial_summary"
+    }
+  ],
+  "page_recipe_notes": [
+    "Zubereitung redaktionell gekürzt und neu formuliert; keine wörtliche Volltextkopie."
+  ],
+  "extraction_warnings": [
+    "Sichtbare Zutaten statt verlustbehaftetem JSON-LD; Alternativen bleiben ausdrücklich erhalten."
+  ],
+  "reviewed_source_digest": "3e63d9db941abd8586d26c40c13b223dcda55e5e8ae8a9b65a7b7b293ba1ce67"
+}

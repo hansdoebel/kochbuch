@@ -174,9 +174,11 @@ export function calculatedProfile(db: Database, id: number, slug: string): Nutri
       `SELECT DISTINCT f.id AS foodId,f.name,d.citation AS dataset,f.source_url AS sourceUrl,m.note FROM v_recipe_nutrition_lines l JOIN ingredient_nutrition_matches m ON m.ingredient_id=l.ingredient_id JOIN nutrition_foods f ON f.id=m.food_id JOIN nutrition_datasets d ON d.id=f.dataset_id WHERE l.recipe_id=? AND l.optional=0 AND l.edible_grams IS NOT NULL ORDER BY f.id`
     )
     .all(id) as NonNullable<NutritionProfile['calculation']>['sources'];
-  const date = db.query('SELECT MAX(retrieved_on) AS day FROM nutrition_datasets').get() as {
-    day: string;
-  };
+  const date = db
+    .query(
+      `SELECT MAX(d.retrieved_on) AS day FROM nutrition_datasets d JOIN nutrition_foods f ON f.dataset_id=d.id WHERE f.id IN (SELECT value FROM json_each(?))`
+    )
+    .get(JSON.stringify(sources.map((s) => s.foodId))) as { day: string };
   return {
     recipeId: 'ready:' + slug,
     basis: 'per_serving',
@@ -353,9 +355,11 @@ export function archiveProfile(
       });
   }
   if (!Object.keys(totals).length) return null;
-  const date = db.query('SELECT MAX(retrieved_on) AS day FROM nutrition_datasets').get() as {
-    day: string;
-  };
+  const date = db
+    .query(
+      `SELECT MAX(d.retrieved_on) AS day FROM nutrition_datasets d JOIN nutrition_foods f ON f.dataset_id=d.id WHERE f.id IN (SELECT value FROM json_each(?))`
+    )
+    .get(JSON.stringify(sources.map((s) => s.foodId))) as { day: string };
   return {
     recipeId,
     basis: 'per_serving',

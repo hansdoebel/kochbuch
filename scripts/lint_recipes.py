@@ -32,12 +32,16 @@ def lint_text(text, slug):
         # unquotierte Skalare. Verschachteltes YAML ist hier nicht zulässig.
         if value.startswith(("[", "{", "|", ">", "&", "*", "!", "\"", "'")) or ": " in value or " #" in value:
             errors.append(f"{key}: nur einfacher unquotierter Skalar erlaubt")
-    if fields.keys() != KEYS:
-        errors.append("Frontmatter braucht exakt: " + ", ".join(sorted(KEYS)))
+    if not KEYS <= fields.keys() or fields.keys() - KEYS - {"total_minutes"}:
+        errors.append("Frontmatter braucht diese Pflichtfelder (optional total_minutes): " + ", ".join(sorted(KEYS)))
     for key in ("servings", "prep_minutes", "cook_minutes"):
         value = fields.get(key, "")
+        if key != "servings" and value == "unbekannt":
+            continue
         if not re.fullmatch(r"\d+", value) or (key == "servings" and int(value) == 0):
             errors.append(f"{key}: ganze {'positive' if key == 'servings' else 'nicht negative'} Zahl erforderlich")
+    if "total_minutes" in fields and not re.fullmatch(r"\d+",fields["total_minutes"]):
+        errors.append("total_minutes: nicht negative ganze Zahl erforderlich")
     if fields.get("slug") != slug:
         errors.append("Frontmatter-Slug und Dateiname weichen ab")
     body = match[2]

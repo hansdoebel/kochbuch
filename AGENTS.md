@@ -60,7 +60,7 @@ Beispiele: `kaiserschmarrn.md`, `kaesespaetzle.md`, `marillenknodel.md`. `recipe
 
 ## Markdown-Aufbau
 
-YAML-Frontmatter mit genau diesen flachen Schlüsseln, danach CommonMark. Tags als Kommastring, keine YAML-Liste, keine verschachtelten Objekte, keine mehrzeiligen `|`-Blöcke:
+YAML-Frontmatter mit diesen verpflichtenden flachen Schlüsseln, danach CommonMark. Tags als Kommastring, keine YAML-Liste, keine verschachtelten Objekte, keine mehrzeiligen `|`-Blöcke:
 
 ```yaml
 ---
@@ -74,6 +74,8 @@ source: Nisha Vora – Rainbow Plant Life – https://rainbowplantlife.com/vegan
 tags: Vegan, Hauptgericht, Rainbow Plant Life
 ---
 ```
+
+Optional ist zusätzlich `total_minutes` als nicht negative ganze Zahl erlaubt, wenn die Quelle eine Gesamtzeit nennt. Nicht separat veröffentlichte `prep_minutes` oder `cook_minutes` stehen als einfacher Skalar `unbekannt` im Frontmatter und als NULL in der Datenbank. Keine Gesamtzeit als vermeintliche Garzeit oder eine unbekannte Dauer als 0 ausgeben.
 
 Danach diese Abschnitte, in dieser Reihenfolge:
 

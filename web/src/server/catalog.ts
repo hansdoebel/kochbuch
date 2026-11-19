@@ -10,7 +10,13 @@ import {
   readFoodAliases,
   archiveProfile,
 } from './nutrition';
-import type { Recipe, RecipeSummary, Ingredient, NutritionProfile } from '../lib/types';
+import type {
+  Recipe,
+  RecipeSummary,
+  Ingredient,
+  NutritionProfile,
+  PublisherNutrition,
+} from '../lib/types';
 
 export const REPO_ROOT = resolve(import.meta.dir, '../../..');
 const nutrientKeys = [
@@ -68,6 +74,22 @@ export function readProfiles(root = REPO_ROOT): Map<string, NutritionProfile> {
   }
   return result;
 }
+const publisherNutritionSchema = z.object({
+  basis: z.literal('per_serving'),
+  origin: z.literal('publisher_estimate'),
+  sourceUrl: z.url().refine((url) => new URL(url).origin === 'https://www.ndr.de'),
+  reviewedAt: z.iso.date(),
+  note: z.string().min(1),
+  nutrients: z
+    .object({
+      energy_kcal: z.number().finite().nonnegative(),
+      protein_g: z.number().finite().nonnegative(),
+      fat_g: z.number().finite().nonnegative(),
+      publisher_carbohydrates_g: z.number().finite().nonnegative(),
+      fiber_g: z.number().finite().nonnegative(),
+    })
+    .strict(),
+});
 const urlIn = (text: string) => text.match(/https?:\/\/[^\s]+/)?.[0] ?? null;
 const minuteCount = (value: unknown): number | null => {
   const m = String(value ?? '').match(/^PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?$/);
@@ -120,7 +142,7 @@ export class Catalog {
     this.nutritionDB = seed;
     const files = collectFiles(root);
     const fingerprint = createHash('sha256')
-      .update('web-catalog-v4-nutrition')
+      .update('web-catalog-v5-ndr')
       .update(
         files
           .map((f) => {
@@ -145,6 +167,20 @@ export class Catalog {
       return;
     const profiles = readProfiles(root);
     const aliases = readFoodAliases(seed, root);
+    const publisherProfiles = new Map<string, PublisherNutrition>();
+    for (const file of files.filter(
+      (f) =>
+        f.startsWith(join(root, 'quellen', 'ndr') + sep) &&
+        f.endsWith('.json') &&
+        !f.endsWith('manifest.json')
+    )) {
+      const data = JSON.parse(readFileSync(file, 'utf8'));
+      if (data.recipes?.[0]?.publisher_nutrition)
+        publisherProfiles.set(
+          data.source_url,
+          publisherNutritionSchema.parse(data.recipes[0].publisher_nutrition)
+        );
+    }
 
     this.db.transaction(() => {
       this.db.run('DROP TABLE IF EXISTS search; DROP TABLE IF EXISTS cards;');
@@ -161,6 +197,7 @@ export class Catalog {
           instructions,
           notes,
           nutrition,
+          publisherNutrition,
           ...summary
         } = r;
         insert.run(
@@ -211,7 +248,11 @@ export class Catalog {
         const nutrition = profiles.get(id) ?? calculatedProfile(seed, row.id, row.slug);
         const host = sourceUrl ? new URL(sourceUrl).hostname.replace(/^www\./, '') : null;
         const publisher =
-          host === 'rainbowplantlife.com' ? 'Rainbow Plant Life' : (host ?? row.source);
+          host === 'rainbowplantlife.com'
+            ? 'Rainbow Plant Life'
+            : host === 'ndr.de'
+              ? 'NDR'
+              : (host ?? row.source);
         add({
           authors: [
             String(row.source)
@@ -225,7 +266,11 @@ export class Catalog {
           ready: true,
           servings: row.servings,
           servingsText: `${row.servings} ${row.servings_label}`,
-          minutes: row.prep_minutes + row.cook_minutes,
+          minutes:
+            row.total_minutes ??
+            (row.prep_minutes !== null && row.cook_minutes !== null
+              ? row.prep_minutes + row.cook_minutes
+              : null),
           ingredientCount: rows.length,
           language: 'de',
           hasNutrition: !!nutrition,
@@ -242,6 +287,7 @@ export class Catalog {
           instructions,
           notes,
           nutrition,
+          publisherNutrition: sourceUrl ? publisherProfiles.get(sourceUrl) : undefined,
         });
       }
       for (const file of files.filter(
@@ -285,6 +331,7 @@ export class Catalog {
             instructions: card.instructions,
             notes: [...(data.page_recipe_notes ?? []), ...(data.extraction_warnings ?? [])],
             nutrition,
+            publisherNutrition: publisherProfiles.get(data.source_url),
           });
         }
       }

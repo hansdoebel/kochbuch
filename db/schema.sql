@@ -56,7 +56,9 @@ CREATE TABLE recipes (
   prep_minutes INTEGER CHECK (prep_minutes IS NULL OR prep_minutes >= 0),
   cook_minutes INTEGER CHECK (cook_minutes IS NULL OR cook_minutes >= 0),
   source TEXT,
-  notes TEXT
+  notes TEXT,
+  -- Bei Quellen ohne Aufteilung nach Vorbereitungs-/Garzeit.
+  total_minutes INTEGER CHECK (total_minutes IS NULL OR total_minutes >= 0)
 );
 
 CREATE TABLE tags (

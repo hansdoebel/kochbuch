@@ -1,6 +1,6 @@
 # Fitness-Rezepte und persönliche Einstellungen
 
-Recherche und Codeprüfung vom 19. November 2026. Ergebnis: gezielte Rezeptauswahl und persönliche Trainings-/Ruhetagsprofile sind sinnvoll. Diese Änderung dokumentiert die Auswahl und das Umsetzungskonzept; sie importiert keine Rezepttexte und implementiert noch keine persönlichen Einstellungen.
+Recherche und Codeprüfung vom 19. November 2026. Ergebnis: gezielte Rezeptauswahl und persönliche Trainings-/Ruhetagsprofile sind sinnvoll. Die NDR-Auswahl wird inzwischen gezielt umgesetzt: [NDR-Import und Rezeptliste](../quellen/ndr/README.md). Die übrigen Quellen bleiben Recherchekandidaten ohne Importfreigabe. Persönliche Trainings-/Ruhetagseinstellungen sind weiterhin ein Umsetzungskonzept.
 
 ## Quellen nach konkreten Rezepten bewerten
 
@@ -28,7 +28,7 @@ Die folgenden Original-Rezeptseiten wurden geöffnet und ihre Zutaten, Portionsb
 | [Lemony chicken lentils](https://www.bbcgoodfood.com/recipes/lemony-chicken-lentils), Ailsa Burt | 507 | 35 g | 9 g | Bedingt vormerken: Resteverwertung, vier Portionen. Gegartes Huhn vorausgesetzt; 10 g gesättigte Fettsäuren und 2,2 g Salz pro Portion mitbetrachten. |
 | [Easy Quinoa Salad](https://www.eatingbirdfood.com/easy-quinoa-salad/), Brittany Mullins | 316 | 8 g | 7 g | Nur Beilage. Die Herausgeberin kennzeichnet die Werte als automatisch berechnete Näherung; keine Hauptmahlzeit allein aufgrund der Zutatenbezeichnung. |
 
-Maschinenlesbare Metadaten ohne Zutaten-/Anleitungstexte: [fitness-recipe-shortlist.json](fitness-recipe-shortlist.json). „Kandidat“ bedeutet keine Importfreigabe. Eine Website insgesamt wird nicht als gesund oder trainingsgeeignet freigegeben.
+Maschinenlesbare Metadaten ohne Zutaten-/Anleitungstexte: [fitness-recipe-shortlist.json](fitness-recipe-shortlist.json). Nur der inzwischen umgesetzte NDR-Eintrag hat eine explizite Freigabe. „Kandidat“ bei den übrigen Quellen bedeutet keine Importfreigabe. Eine Website insgesamt wird nicht als gesund oder trainingsgeeignet freigegeben.
 
 ## Auswahlregeln für weitere Recherche und Importe
 

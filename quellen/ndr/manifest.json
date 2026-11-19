@@ -1,0 +1,34 @@
+{
+  "publisher": "NDR",
+  "sitemap_url": null,
+  "scraped_at": "2026-11-19T17:45:11.166728+00:00",
+  "scope": "Ausschließlich einzeln geprüfte Fitness-Rezepte; kein Sitemap-/Vollarchiv-Import.",
+  "page_count": 3,
+  "recipe_count": 3,
+  "pages": [
+    {
+      "url": "https://www.ndr.de/ratgeber/kochen/rezepte/Chili-sin-Carne-mit-Sojageschnetzeltem,chilisincarne112.html",
+      "status": "recipe",
+      "file": "chili-sin-carne-mit-sojageschnetzeltem.json",
+      "recipe_count": 1,
+      "sha256": "282858bc1d7758f62a78a4e7281b5d9516f06802147f5e2f8d1f8aa32ee3fb97"
+    },
+    {
+      "url": "https://www.ndr.de/ratgeber/kochen/rezepte/bunte-quinoa-pfanne-mit-haehnchen-gemuese,quinoapfanne-100.html",
+      "status": "recipe",
+      "file": "bunte-quinoa-pfanne-mit-haehnchen.json",
+      "recipe_count": 1,
+      "sha256": "a9893779cd4fd788767569a959dca1687ac2f773ad011e66809673871f938379"
+    },
+    {
+      "url": "https://www.ndr.de/ratgeber/kochen/rezepte/gesunde-protein-bowl-mit-linsen-und-kichererbsen,proteinbowl-102.html",
+      "status": "recipe",
+      "file": "protein-bowl-mit-linsen-und-kichererbsen.json",
+      "recipe_count": 1,
+      "sha256": "47fbb0747bd27543cda02009436d6004e66b5f5b47bc128538f2179490d11dde"
+    }
+  ],
+  "selection_file": "selection.json",
+  "selection_sha256": "34f0004a93aa2f0fd5aefae8d44717032e01db41fa9c5ed5482cd2eae09ab330",
+  "completed": true
+}

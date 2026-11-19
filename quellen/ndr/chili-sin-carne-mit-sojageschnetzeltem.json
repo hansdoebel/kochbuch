@@ -1,0 +1,69 @@
+{
+  "source_url": "https://www.ndr.de/ratgeber/kochen/rezepte/Chili-sin-Carne-mit-Sojageschnetzeltem,chilisincarne112.html",
+  "recipes": [
+    {
+      "name": "Chili sin Carne mit Sojageschnetzeltem",
+      "source_url": "https://www.ndr.de/ratgeber/kochen/rezepte/Chili-sin-Carne-mit-Sojageschnetzeltem,chilisincarne112.html",
+      "recipe_id": "https://www.ndr.de/ratgeber/kochen/rezepte/Chili-sin-Carne-mit-Sojageschnetzeltem,chilisincarne112.html",
+      "authors": [
+        "ndr.de"
+      ],
+      "publisher": "NDR",
+      "language": "de",
+      "yield": 4,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "300 g feine Sojaschnetzel",
+        "1 l Gemüsebrühe",
+        "2 Zwiebeln",
+        "2 Zehen Knoblauch",
+        "1 rote Paprika",
+        "1 gelbe Paprika",
+        "1 grüne Paprika",
+        "3 EL Bratöl",
+        "1 TL Kräuter der Provence",
+        "alternativ: italienische Kräuter",
+        "0.5 TL geräuchertes Paprikapulver",
+        "1 EL dunkler Balsamico-Essig",
+        "400 g (aus der Dose) stückige Tomaten",
+        "400 g (aus der Dose, nicht abgetropft) Kidneybohnen",
+        "1 TL edelsüßes Paprikapulver",
+        "2 Lorbeerblätter",
+        "Salz",
+        "Pfeffer",
+        "nach Belieben: Chilipulver",
+        "alternativ: scharfes Paprikapulver"
+      ],
+      "instructions": [
+        "Sojaschnetzel mit dem Großteil der heißen Brühe nach Packungsangabe quellen lassen; bei Bedarf ausdrücken.",
+        "Zwiebeln und Knoblauch hacken, Paprika würfeln. Öl erhitzen; Soja und Zwiebeln mit Kräutern und Rauchpaprika anrösten.",
+        "Restliche Brühe, Essig, Gemüse, Bohnen samt Flüssigkeit und Gewürze zugeben. Zugedeckt rund 10 Minuten sanft köcheln und abschmecken."
+      ],
+      "missing_fields": [],
+      "publisher_nutrition": {
+        "basis": "per_serving",
+        "origin": "publisher_estimate",
+        "sourceUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Chili-sin-Carne-mit-Sojageschnetzeltem,chilisincarne112.html",
+        "nutrients": {
+          "energy_kcal": 484.0,
+          "protein_g": 46.0,
+          "fat_g": 15.0,
+          "publisher_carbohydrates_g": 35.0,
+          "fiber_g": 23.0
+        },
+        "note": "NDR-Schätzung pro veröffentlichter Portion; Kohlenhydratdefinition nicht unabhängig geprüft. Nicht mit BLS-Teilsummen verrechnen.",
+        "reviewedAt": "2026-11-19"
+      },
+      "instruction_representation": "editorial_summary"
+    }
+  ],
+  "page_recipe_notes": [
+    "Zubereitung redaktionell gekürzt und neu formuliert; keine wörtliche Volltextkopie."
+  ],
+  "extraction_warnings": [
+    "Sichtbare Zutaten statt verlustbehaftetem JSON-LD; Alternativen bleiben ausdrücklich erhalten."
+  ],
+  "reviewed_source_digest": "da48e3a9137bb20774fa5f73c920a09e836335d6ff0050eac1df63a88d247ccf"
+}

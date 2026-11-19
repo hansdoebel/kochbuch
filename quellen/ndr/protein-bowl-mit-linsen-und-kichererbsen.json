@@ -1,0 +1,67 @@
+{
+  "source_url": "https://www.ndr.de/ratgeber/kochen/rezepte/gesunde-protein-bowl-mit-linsen-und-kichererbsen,proteinbowl-102.html",
+  "recipes": [
+    {
+      "name": "Protein-Bowl mit Linsen und Kichererbsen",
+      "source_url": "https://www.ndr.de/ratgeber/kochen/rezepte/gesunde-protein-bowl-mit-linsen-und-kichererbsen,proteinbowl-102.html",
+      "recipe_id": "https://www.ndr.de/ratgeber/kochen/rezepte/gesunde-protein-bowl-mit-linsen-und-kichererbsen,proteinbowl-102.html",
+      "authors": [
+        "Team Ernährungs-Docs"
+      ],
+      "publisher": "NDR",
+      "language": "de",
+      "yield": 2,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "100 g Beluga-Linsen",
+        "150 g (Abtropfgewicht aus Dose/Glas) Kichererbsen",
+        "1 TL Olivenöl",
+        "gemahlener Kreuzkümmel",
+        "1 große Möhre",
+        "1 gelbe Paprika",
+        "0.5 Gurke",
+        "2 Handvoll Rucola",
+        "alternativ: Blattspinat",
+        "80 g Feta",
+        "2 EL Leinöl",
+        "2 EL Zitronensaft",
+        "20 g Haselnussmus",
+        "1 Prise Muskatnuss",
+        "0.5 TL Zimt",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Linsen spülen und in reichlich Wasser etwa 20 Minuten bissfest kochen; abgießen.",
+        "Abgetropfte Kichererbsen in Olivenöl mit Kreuzkümmel rösten. Gemüse vorbereiten, Feta würfeln.",
+        "Leinöl, Zitronensaft, Haselnussmus und wenig Wasser verrühren und würzen.",
+        "Alles auf zwei Schalen verteilen; Dressing erst zum Servieren zugeben."
+      ],
+      "missing_fields": [],
+      "publisher_nutrition": {
+        "basis": "per_serving",
+        "origin": "publisher_estimate",
+        "sourceUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/gesunde-protein-bowl-mit-linsen-und-kichererbsen,proteinbowl-102.html",
+        "nutrients": {
+          "energy_kcal": 590.0,
+          "protein_g": 28.0,
+          "fat_g": 32.0,
+          "publisher_carbohydrates_g": 45.0,
+          "fiber_g": 18.0
+        },
+        "note": "NDR-Schätzung pro veröffentlichter Portion; Kohlenhydratdefinition nicht unabhängig geprüft. Nicht mit BLS-Teilsummen verrechnen.",
+        "reviewedAt": "2026-11-19"
+      },
+      "instruction_representation": "editorial_summary"
+    }
+  ],
+  "page_recipe_notes": [
+    "Zubereitung redaktionell gekürzt und neu formuliert; keine wörtliche Volltextkopie."
+  ],
+  "extraction_warnings": [
+    "Sichtbare Zutaten statt verlustbehaftetem JSON-LD; Alternativen bleiben ausdrücklich erhalten."
+  ],
+  "reviewed_source_digest": "cbcec2160e68144a5ba391925ed4822e5477cae3f2d4fe886358ec85954942ac"
+}

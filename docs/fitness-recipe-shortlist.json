@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "scope": "Metadata-only research; no recipe text or import approval. Publisher carbohydrate definitions are not normalized to BLS CHO.",
+  "scope": "Metadata-only research. Only the specifically implemented NDR entry is approved; all other sources remain deferred. Publisher carbohydrate definitions are not normalized to BLS CHO.",
   "items": [
     {
       "id": "ndr-protein-bowl",
@@ -9,10 +9,10 @@
       "author": "Team Ernährungs-Docs",
       "source_url": "https://www.ndr.de/ratgeber/kochen/rezepte/gesunde-protein-bowl-mit-linsen-und-kichererbsen,proteinbowl-102.html",
       "reviewed_on": "2026-11-19",
-      "decision": "candidate",
-      "import_approved": false,
+      "decision": "implemented",
+      "import_approved": true,
       "nutrition_origin": "publisher_estimate",
-      "nutrition_basis": "Published per portion; confirm default batch yield before import.",
+      "nutrition_basis": "Published per portion; batch yield of two confirmed against recipe JSON-LD and visible serving control.",
       "publisher_nutrients": {
         "energy_kcal": 590,
         "protein_g": 28,
@@ -22,8 +22,10 @@
       "published_minutes": 30,
       "review_notes": [
         "Metric ingredients; vegetarian legume/vegetable meal.",
-        "Some edible piece weights remain to be resolved."
-      ]
+        "Some edible piece weights remain to be resolved.",
+        "Imported selectively after explicit user choice of NDR; other sources remain deferred."
+      ],
+      "recipe_slug": "protein-bowl-mit-linsen-und-kichererbsen"
     },
     {
       "id": "fitmencook-green-chile-soup",

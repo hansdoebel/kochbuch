@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Sichert Rezeptkarten, keine Bilder/Artikel. Python-Standardbibliothek + curl.
 
+python3 scripts/scrape_recipes.py --source ndr  # nur einzeln geprüfte Auswahl
 python3 scripts/scrape_recipes.py --source rainbowplantlife
 python3 scripts/scrape_recipes.py --source babish
 python3 scripts/scrape_recipes.py --source joshuaweissman --refresh
@@ -10,6 +11,7 @@ import argparse
 import hashlib
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
+from ndr_source import extract_ndr, read_selection, reviewed_card
 from html import unescape
 from html.parser import HTMLParser
 import json
@@ -26,6 +28,7 @@ ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "quellen" / "rainbowplantlife"
 NS = {"s": "http://www.sitemaps.org/schemas/sitemap/0.9"}
 SOURCES = {
+    "ndr": ("https://www.ndr.de/", "NDR"),
     "rainbowplantlife": ("https://rainbowplantlife.com/", "Rainbow Plant Life"),
     "babish": ("https://www.babi.sh/", "Babish"),
     "joshuaweissman": ("https://www.joshuaweissman.com/", "Joshua Weissman"),
@@ -42,7 +45,7 @@ def download(url):
     if not same_site(url):
         raise ValueError(f"Fremde URL: {url}")
     result = subprocess.run(
-        ["curl", "--fail", "--silent", "--show-error", "--location",
+        ["curl", "--user-agent", "KochbuchRecipeArchiver/1.0", "--fail", "--silent", "--show-error", "--location",
          "--proto", "=https", "--proto-redir", "=https", "--max-time", "45",
          "--retry", "2", "--retry-delay", "3", url],
         check=True, capture_output=True, text=True,
@@ -126,6 +129,8 @@ class RecipePage(HTMLParser):
 
 
 def extract(page, url):
+    if PUBLISHER == "NDR":
+        return extract_ndr(page, url)
     parser = RecipePage()
     parser.feed(page)
     nodes = []
@@ -229,7 +234,13 @@ def main():
             raise
         robots.parse([])  # HTTP 404: keine robots.txt vorhanden.
     manifest_path = OUTPUT / "manifest.json"
-    if args.retry_errors:
+    selection = read_selection() if args.source == "ndr" else None
+    selected = {r['url']: r for r in selection['recipes']} if selection else {}
+    if args.source == "ndr":
+        if args.retry_errors and args.refresh:ap.error("--retry-errors und --refresh nicht kombinieren")
+        sitemap_url = None
+        urls = sorted(selected)
+    elif args.retry_errors:
         if args.refresh:
             ap.error("--retry-errors und --refresh nicht kombinieren")
         previous = json.loads(manifest_path.read_text())
@@ -265,23 +276,34 @@ def main():
                if p["status"] in {"recipe", "incomplete", "no_recipe", "disallowed"}}
 
     def process(url):
-        if not same_site(url) or not robots.can_fetch("*", url):
+        if not same_site(url) or not robots.can_fetch("KochbuchRecipeArchiver" if args.source == "ndr" else "*", url):
             return {"url": url, "status": "disallowed"}
         cached = old.get(url)
+        if cached and args.source == 'ndr':
+            cached_file = OUTPUT / cached.get('file','missing')
+            if not cached_file.is_file():
+                cached = None
+            else:
+                saved = json.loads(cached_file.read_text())
+                if (saved.get('reviewed_source_digest') != selected[url]['source_digest'] or saved['recipes'][0]['instructions'] != selected[url]['editorial_instructions'] or saved['recipes'][0]['publisher_nutrition']['reviewedAt'] != selected[url]['reviewed_on'] or cached.get('sha256') != hashlib.sha256(cached_file.read_bytes()).hexdigest()):
+                    cached = None
         if cached and (cached["status"] not in {"recipe", "incomplete"} or (OUTPUT / cached["file"]).exists()):
             return cached
         time.sleep(max(1, robots.crawl_delay("*") or 0))
         try:
             data = extract(download(url), url)
+            if args.source == "ndr":data = reviewed_card(data, selected[url])
             if not data["recipes"]:
                 return {"url": url, "status": "no_recipe"}
             slug = urlparse(url).path.strip("/").replace("/", "--") or "index"
             if not re.fullmatch(r"[a-zA-Z0-9_-]+", slug):
                 slug = re.sub(r"[^a-zA-Z0-9_-]+", "-", slug).strip("-") + "-" + hashlib.sha256(url.encode()).hexdigest()[:10]
-            file = slug + ".json"
+            file = (selected[url]["slug"] if args.source == "ndr" else slug) + ".json"
             (OUTPUT / file).write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
             status = "incomplete" if any(r["missing_fields"] for r in data["recipes"]) else "recipe"
-            return {"url": url, "status": status, "file": file, "recipe_count": len(data["recipes"])}
+            result = {"url": url, "status": status, "file": file, "recipe_count": len(data["recipes"])}
+            if args.source == "ndr":result['sha256'] = hashlib.sha256((OUTPUT/file).read_bytes()).hexdigest()
+            return result
         except (ValueError, OSError, subprocess.SubprocessError) as exc:
             detail = getattr(exc, "stderr", None) or str(exc)
             return {"url": url, "status": "error", "error": detail.strip()}
@@ -299,8 +321,10 @@ def main():
         "page_count": len(pages), "recipe_count": sum(p.get("recipe_count", 0) for p in pages),
         "pages": pages,
     }
+    if args.source == "ndr":
+        manifest.update(scope=selection['scope'],selection_file='selection.json',selection_sha256=hashlib.sha256((OUTPUT/'selection.json').read_bytes()).hexdigest(),completed=all(p['status']=='recipe' for p in pages))
     manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    errors = [p for p in pages if p["status"] == "error"]
+    errors = [p for p in pages if p["status"] == "error" or (args.source == "ndr" and p["status"] != "recipe")]
     print(f'{manifest["recipe_count"]} Rezeptkarten; {len(errors)} Fehler. {manifest_path}')
     if errors:
         raise SystemExit(1)

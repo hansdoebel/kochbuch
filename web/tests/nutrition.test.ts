@@ -215,7 +215,9 @@ describe('weekly planning', () => {
 describe('curated NDR recipes', () => {
   test('deduplicates original cards, preserves time and separates publisher nutrition', () => {
     const items = catalog.search({ source: 'NDR' }).items;
-    expect(items).toHaveLength(3);
+    expect(items).toHaveLength(
+      JSON.parse(readFileSync('../quellen/ndr/selection.json', 'utf8')).recipes.length
+    );
     expect(items.every((r) => r.ready)).toBe(true);
     const bowl = catalog.get('ready:protein-bowl-mit-linsen-und-kichererbsen')!;
     expect(bowl.servings).toBe(2);
@@ -259,5 +261,47 @@ describe('curated NDR recipes', () => {
       catalog.get('ready:bunte-quinoa-pfanne-mit-haehnchen')!,
     ]);
     expect(plan.entries).toHaveLength(7);
+  });
+});
+
+describe('expanded NDR selection', () => {
+  test('publisher basis, breakfast tags and food alternatives remain distinct', () => {
+    const max = catalog.get('ready:strammer-max-vegetarisch')!;
+    expect(max.publisherNutrition?.note).toContain('ohne Salat');
+    expect(max.tags).toContain('Vegetarisch');
+    expect(max.tags).not.toContain('Vegan');
+    const list = shoppingList([{ id: max.id, servings: 2 }], (id) => catalog.get(id));
+    const rows = list.groups.flatMap((g) => g.items);
+    expect(rows.find((i) => i.text.includes('Eiweißbrot'))?.quantity).toBe(2);
+    expect(rows.find((i) => i.text.includes('Eiweißbrot'))?.unit).toBe('Scheibe');
+    expect(rows.some((i) => /Vollkornbrot|Salat/.test(i.text))).toBe(false);
+    const breakfast = catalog.get('ready:quarkfruehstueck-doc-klasen')!;
+    expect(breakfast.authors.join(' ')).toContain('Jörn Klasen');
+    expect(breakfast.tags).toContain('Frühstück');
+    expect(breakfast.tags).not.toContain('Hauptgericht');
+    expect(breakfast.nutrition?.calculation?.missing.some((m) => m.ingredient === 'Nüsse')).toBe(
+      true
+    );
+  });
+  test('qualitative amounts scale without assumed masses and optional sauce stays optional', () => {
+    const id = 'ready:gemuesepfanne-mit-tofu';
+    const list = shoppingList([{ id, servings: 2 }], (id) => catalog.get(id));
+    const rows = list.groups.flatMap((g) => g.items);
+    expect(rows.find((i) => i.text.includes('Basilikum-Tofu'))?.quantity).toBe(300);
+    const sauce = rows.find((i) => i.text.includes('Sojasoße'))!;
+    expect(sauce.quantity).toBe(2);
+    expect(sauce.unit).toBe('Schuss');
+    expect(sauce.optional).toBe(true);
+    expect(rows.some((i) => i.text.includes('Hülsenfrüchte'))).toBe(false);
+    expect(
+      shoppingList([{ id, servings: 2 }], (id) => catalog.get(id), { includeOptional: false })
+        .groups.flatMap((g) => g.items)
+        .some((i) => i.text.includes('Sojasoße'))
+    ).toBe(false);
+    expect(
+      catalog
+        .get('ready:lachs-paeckchen-mit-gemuese-und-feta')!
+        .structuredIngredients.some((i) => i.name === 'Shrimps')
+    ).toBe(false);
   });
 });

@@ -1,0 +1,62 @@
+{
+  "source_url": "https://www.ndr.de/ratgeber/kochen/rezepte/Blumenkohl-Curry-mit-Tofu,rezept5548.html",
+  "recipes": [
+    {
+      "name": "Blumenkohl-Curry mit Tofu",
+      "source_url": "https://www.ndr.de/ratgeber/kochen/rezepte/Blumenkohl-Curry-mit-Tofu,rezept5548.html",
+      "recipe_id": "https://www.ndr.de/ratgeber/kochen/rezepte/Blumenkohl-Curry-mit-Tofu,rezept5548.html",
+      "authors": [
+        "ndr.de"
+      ],
+      "publisher": "NDR",
+      "language": "de",
+      "yield": 4,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "750 g Blumenkohl",
+        "1 Zwiebel",
+        "2 Zehen Knoblauch",
+        "2 kleine, rote Chilischoten",
+        "2 EL Rapsöl",
+        "1 TL Meersalz",
+        "2 EL Currypulver",
+        "1 TL Kurkuma",
+        "500 ml Gemüsebrühe",
+        "250 g Zuckerschoten",
+        "400 g Tofu natur",
+        "2 EL Zitronensaft",
+        "1 EL Kokosflocken"
+      ],
+      "instructions": [
+        "Blumenkohl samt Strunk klein schneiden; Zwiebel, Knoblauch und entkernte Chilis hacken.",
+        "Öl erhitzen, Aromaten und Gewürze 3 Minuten anrösten. Brühe und Blumenkohl zugeben und zugedeckt etwa 25 Minuten leise garen.",
+        "Zuckerschoten putzen, Tofu in Streifen schneiden; beides die letzten 3 Minuten mitgaren. Mit Zitronensaft und Kokosflocken fertigstellen."
+      ],
+      "missing_fields": [],
+      "publisher_nutrition": {
+        "basis": "per_serving",
+        "origin": "publisher_estimate",
+        "sourceUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Blumenkohl-Curry-mit-Tofu,rezept5548.html",
+        "nutrients": {
+          "energy_kcal": 360.0,
+          "protein_g": 26.0,
+          "fat_g": 17.0,
+          "publisher_carbohydrates_g": 20.0,
+          "fiber_g": 12.0
+        },
+        "note": "NDR-Schätzung pro veröffentlichter Portion; Kohlenhydratdefinition nicht unabhängig geprüft. Nicht mit BLS-Teilsummen verrechnen. Nährwertbasis laut Quelle: Nährwerte (pro Portion):",
+        "reviewedAt": "2026-11-19"
+      },
+      "instruction_representation": "editorial_summary"
+    }
+  ],
+  "page_recipe_notes": [
+    "Zubereitung redaktionell gekürzt und neu formuliert; keine wörtliche Volltextkopie."
+  ],
+  "extraction_warnings": [
+    "Sichtbare Zutaten statt verlustbehaftetem JSON-LD; Alternativen bleiben ausdrücklich erhalten."
+  ],
+  "reviewed_source_digest": "207e4947ee07b6327bce84a885c9df792cf60b185070040a625b9c8e4bfc8774"
+}

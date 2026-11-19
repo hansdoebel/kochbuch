@@ -38,6 +38,64 @@
         "Geflügel vollständig durchbraten und beiseitestellen. Gemüse schneiden, im restlichen Öl bissfest braten; Erbsen gegen Ende zugeben.",
         "Quinoa und Hähnchen untermischen. Abschmecken, mit Feta und Petersilie servieren."
       ]
+    },
+    {
+      "url": "https://www.ndr.de/ratgeber/kochen/rezepte/Blumenkohl-Curry-mit-Tofu,rezept5548.html",
+      "slug": "blumenkohl-curry-mit-tofu",
+      "reviewed_on": "2026-11-19",
+      "reason": "Einzeln geprüfte Fitness-Erweiterung; NDR pro Portion 26 g Protein und 12 g Ballaststoffe. Alltagstaugliche Mahlzeit mit Gemüse.",
+      "source_digest": "207e4947ee07b6327bce84a885c9df792cf60b185070040a625b9c8e4bfc8774",
+      "editorial_instructions": [
+        "Blumenkohl samt Strunk klein schneiden; Zwiebel, Knoblauch und entkernte Chilis hacken.",
+        "Öl erhitzen, Aromaten und Gewürze 3 Minuten anrösten. Brühe und Blumenkohl zugeben und zugedeckt etwa 25 Minuten leise garen.",
+        "Zuckerschoten putzen, Tofu in Streifen schneiden; beides die letzten 3 Minuten mitgaren. Mit Zitronensaft und Kokosflocken fertigstellen."
+      ]
+    },
+    {
+      "url": "https://www.ndr.de/ratgeber/kochen/rezepte/Gemuesepfanne-mit-Tofu,rezept3014.html",
+      "slug": "gemuesepfanne-mit-tofu",
+      "reviewed_on": "2026-11-19",
+      "reason": "Einzeln geprüfte Fitness-Erweiterung; NDR pro Portion 26 g Protein und 7 g Ballaststoffe. Alltagstaugliche Mahlzeit mit Gemüse.",
+      "source_digest": "1670b3d110673678c5cedefdb1c2e22fcc19fe50b0e07ac86dc5208f72925e94",
+      "editorial_instructions": [
+        "Gemüse putzen und klein schneiden; Lauchzwiebel in Ringe, Tofu in Würfel teilen.",
+        "Gemüse im Olivenöl bei mittlerer Hitze braten. Salzen, mit Kräutern und nach Wunsch Sojasoße würzen; Tofu zuletzt kurz mitbraten."
+      ]
+    },
+    {
+      "url": "https://www.ndr.de/ratgeber/kochen/rezepte/Lachs-Paeckchen-mit-Gemuese-und-Feta,rezept2548.html",
+      "slug": "lachs-paeckchen-mit-gemuese-und-feta",
+      "reviewed_on": "2026-11-19",
+      "reason": "Einzeln geprüfte Fitness-Erweiterung; NDR pro Portion 42 g Protein und 6 g Ballaststoffe. Alltagstaugliche Mahlzeit mit Gemüse.",
+      "source_digest": "f4987adea2fc44a7efcb8d7bd0acf9652ee01f9312dd0dfc3f537ce6925f66ab",
+      "editorial_instructions": [
+        "Ofen auf 180 °C vorheizen. Für jede Portion Pergamentpapier und Küchengarn vorbereiten.",
+        "Gemüse putzen und schneiden; küchenfertigen Lachs würfeln, Schafskäse zerbröseln. Mit Krabben, Gewürzen und Zitronensaft vermengen.",
+        "Portionsweise in das Papier einschlagen, die Enden zubinden und auf einem Blech 10–15 Minuten garen."
+      ]
+    },
+    {
+      "url": "https://www.ndr.de/ratgeber/kochen/rezepte/Strammer-Max-vegetarisch,strammermax132.html",
+      "slug": "strammer-max-vegetarisch",
+      "reviewed_on": "2026-11-19",
+      "reason": "Einzeln geprüfte Fitness-Erweiterung; NDR pro Portion 32 g Protein und 6 g Ballaststoffe. Alltagstaugliche Mahlzeit mit Gemüse.",
+      "source_digest": "713fe046507395cf1a82ee8fc9ee3f3256f57c36fa2966c39d338bdc14030ae5",
+      "editorial_instructions": [
+        "Tofu trocken pressen, in Scheiben schneiden und im Bratöl knusprig braten. Anschließend die Eier als Spiegeleier zubereiten und würzen.",
+        "Tomate in Scheiben schneiden. Brot mit Tofu, Tomate und Eiern belegen; eine zusätzliche Salatbeilage bei Bedarf separat einplanen."
+      ]
+    },
+    {
+      "url": "https://www.ndr.de/ratgeber/kochen/rezepte/Quarkfruehstueck-mit-Gemuese-und-Obst-Doc-Klasen-Fruehstueck,fruehstueck2230.html",
+      "slug": "quarkfruehstueck-doc-klasen",
+      "reviewed_on": "2026-11-19",
+      "reason": "Einzeln geprüfte Fitness-Erweiterung; NDR pro Portion 33 g Protein und 17 g Ballaststoffe. Frühstück statt Hauptgericht.",
+      "source_digest": "755e98d87f0ce7059a6c6a98a1c11604b1dbdf2b79126d8152287b10932849ab",
+      "editorial_instructions": [
+        "Skyr, Quark, Leinöl und Haferflocken verrühren; bei Bedarf mit Wasser oder Haferdrink lockern.",
+        "Gemüse raspeln beziehungsweise fein schneiden, Obst in dünne Stücke teilen und auf der Quarkbasis anrichten.",
+        "Heidelbeeren, Granatapfelkerne, Kürbiskerne und Nüsse darübergeben."
+      ]
     }
   ]
 }

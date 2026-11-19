@@ -1,0 +1,67 @@
+{
+  "source_url": "https://www.ndr.de/ratgeber/kochen/rezepte/Quarkfruehstueck-mit-Gemuese-und-Obst-Doc-Klasen-Fruehstueck,fruehstueck2230.html",
+  "recipes": [
+    {
+      "name": "Quarkfrühstück mit Gemüse und Obst (\"Doc-Klasen-Spezial\")",
+      "source_url": "https://www.ndr.de/ratgeber/kochen/rezepte/Quarkfruehstueck-mit-Gemuese-und-Obst-Doc-Klasen-Fruehstueck,fruehstueck2230.html",
+      "recipe_id": "https://www.ndr.de/ratgeber/kochen/rezepte/Quarkfruehstueck-mit-Gemuese-und-Obst-Doc-Klasen-Fruehstueck,fruehstueck2230.html",
+      "authors": [
+        "Jörn Klasen"
+      ],
+      "publisher": "NDR",
+      "language": "de",
+      "yield": 1,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT10M",
+      "ingredients": [
+        "3 EL Skyr",
+        "1 EL Magerquark",
+        "1 EL Leinöl",
+        "40 g Haferflocken",
+        "optional: Haferdrink",
+        "30 g Kohlrabi",
+        "30 g Pastinake",
+        "30 g Rote Bete",
+        "30 g Fenchel",
+        "0.5 Möhre",
+        "0.25 Paprika",
+        "0.25 Apfel",
+        "0.25 Birne",
+        "0.5 Pflaume",
+        "1 EL Heidelbeeren",
+        "1 EL Granatapfelkerne",
+        "1 EL Kürbiskerne",
+        "25 g Nüsse"
+      ],
+      "instructions": [
+        "Skyr, Quark, Leinöl und Haferflocken verrühren; bei Bedarf mit Wasser oder Haferdrink lockern.",
+        "Gemüse raspeln beziehungsweise fein schneiden, Obst in dünne Stücke teilen und auf der Quarkbasis anrichten.",
+        "Heidelbeeren, Granatapfelkerne, Kürbiskerne und Nüsse darübergeben."
+      ],
+      "missing_fields": [],
+      "publisher_nutrition": {
+        "basis": "per_serving",
+        "origin": "publisher_estimate",
+        "sourceUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Quarkfruehstueck-mit-Gemuese-und-Obst-Doc-Klasen-Fruehstueck,fruehstueck2230.html",
+        "nutrients": {
+          "energy_kcal": 653.0,
+          "protein_g": 33.0,
+          "fat_g": 31.0,
+          "publisher_carbohydrates_g": 62.0,
+          "fiber_g": 17.0
+        },
+        "note": "NDR-Schätzung pro veröffentlichter Portion; Kohlenhydratdefinition nicht unabhängig geprüft. Nicht mit BLS-Teilsummen verrechnen.",
+        "reviewedAt": "2026-11-19"
+      },
+      "instruction_representation": "editorial_summary"
+    }
+  ],
+  "page_recipe_notes": [
+    "Zubereitung redaktionell gekürzt und neu formuliert; keine wörtliche Volltextkopie."
+  ],
+  "extraction_warnings": [
+    "Sichtbare Zutaten statt verlustbehaftetem JSON-LD; Alternativen bleiben ausdrücklich erhalten."
+  ],
+  "reviewed_source_digest": "755e98d87f0ce7059a6c6a98a1c11604b1dbdf2b79126d8152287b10932849ab"
+}

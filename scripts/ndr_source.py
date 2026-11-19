@@ -6,6 +6,7 @@ from html.parser import HTMLParser
 import json
 from pathlib import Path
 import re
+import unicodedata
 from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -13,7 +14,7 @@ VOID = {'area','base','br','col','embed','hr','img','input','link','meta','param
 
 
 def clean(text):
-    return re.sub(r'\s+', ' ', unescape(text)).strip()
+    return re.sub(r'\s+', ' ', unicodedata.normalize('NFC', unescape(text))).strip()
 
 
 def ndr_url(url):
@@ -26,7 +27,7 @@ class NdrPage(HTMLParser):
         super().__init__()
         self.stack=[]; self.script=None; self.scripts=[]; self.canonical=None
         self.ingredients=[]; self.active=None; self.nutrition_section=False; self.paragraph=None; self.nutrition_text=[]
-        self.servings=None
+        self.servings=None; self.heading=None; self.nutrition_heading=None
 
     def handle_starttag(self, tag, attrs):
         attrs=dict(attrs)
@@ -35,10 +36,14 @@ class NdrPage(HTMLParser):
         if tag=='input' and attrs.get('id')=='currentServing': self.servings=attrs.get('data-previous') or attrs.get('value')
         if tag not in VOID:self.stack.append(tag)
         if tag=='li' and 'ingredient' in attrs.get('class','').split(): self.active=(len(self.stack),[])
-        if tag=='h2': self.nutrition_section=attrs.get('id')=='Naehrwerte-pro-Portion'
+        if tag=='h2':
+            self.nutrition_section=bool(re.fullmatch(r'(?:Naehrwerte|Nahrwerte|Nährwerte)-pro-Portion(?:-.*)?',attrs.get('id','')))
+            self.heading=[] if self.nutrition_section else None
         if tag=='p' and self.nutrition_section:self.paragraph=(len(self.stack),[])
 
     def handle_endtag(self, tag):
+        if tag=='h2' and self.heading is not None:
+            self.nutrition_heading=clean(''.join(self.heading));self.heading=None
         if tag=='script' and self.script is not None:self.scripts.append(''.join(self.script));self.script=None
         if self.active and tag=='li' and len(self.stack)==self.active[0]:
             self.ingredients.append(clean(''.join(self.active[1])));self.active=None
@@ -49,6 +54,7 @@ class NdrPage(HTMLParser):
 
     def handle_data(self,text):
         if self.script is not None:self.script.append(text)
+        if self.heading is not None:self.heading.append(text)
         if self.active:self.active[1].append(text)
         if self.paragraph:self.paragraph[1].append(text)
 
@@ -84,6 +90,8 @@ def extract_ndr(html,url):
     if len(values)!=len(fields):raise ValueError('NDR nutrition fields missing')
     card={'name':clean(node.get('name','')),'source_url':p.canonical,'recipe_id':p.canonical,'authors':authors,'publisher':'NDR','language':'de','yield':servings,'prep_time':None,'cook_time':None,'total_time':node.get('totalTime'),'ingredients':p.ingredients,'instructions':instructions,'missing_fields':[],
           'publisher_nutrition':{'basis':'per_serving','origin':'publisher_estimate','sourceUrl':p.canonical,'nutrients':values,'note':'NDR-Schätzung pro veröffentlichter Portion; Kohlenhydratdefinition nicht unabhängig geprüft. Nicht mit BLS-Teilsummen verrechnen.'}}
+    if p.nutrition_heading and '(' in p.nutrition_heading:
+        card['publisher_nutrition']['note'] += ' Nährwertbasis laut Quelle: '+p.nutrition_heading
     if not card['name'] or not re.fullmatch(r'PT\d+M',card['total_time'] or ''):raise ValueError('NDR title or total time missing')
     return {'source_url':p.canonical,'recipes':[card],'page_recipe_notes':[],'extraction_warnings':['Sichtbare Zutaten statt verlustbehaftetem JSON-LD; Alternativen bleiben ausdrücklich erhalten.']}
 

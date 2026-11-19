@@ -2,7 +2,7 @@
 
 Die JSON-Dateien sichern die öffentlichen Rezeptkarten von [Rainbow Plant Life](https://rainbowplantlife.com/), [Babish](https://www.babi.sh/recipes) und [Joshua Weissman](https://www.joshuaweissman.com/recipes). Jede Karte nennt ihre konkrete Original-URL und die Urheberangabe aus der Quelle. Die Rechte verbleiben bei den jeweiligen Urhebern.
 
-Das Archiv enthält Originaltexte auf Englisch, Originalmengen und Quellzeiten. Es ist die Grundlage für die weitere Übertragung ins Kochbuch. Die fünf bereits übersetzten Rainbow-Plant-Life-Rezepte und drei gezielt ausgewählte NDR-Rezepte stehen zusätzlich unter `rezepte/` und in `db/seed.sql`; die übrigen Archivkarten sind noch nicht in der Einkaufslisten-Datenbank. Keine automatischen Übersetzungen oder stillen Umrechnungen: vor der Übernahme die Regeln in `AGENTS.md` anwenden.
+Das Archiv enthält Originaltexte auf Englisch, Originalmengen und Quellzeiten. Es ist die Grundlage für die weitere Übertragung ins Kochbuch. Die fünf bereits übersetzten Rainbow-Plant-Life-Rezepte und acht gezielt ausgewählte NDR-Rezepte stehen zusätzlich unter `rezepte/` und in `db/seed.sql`; die übrigen Archivkarten sind noch nicht in der Einkaufslisten-Datenbank. Keine automatischen Übersetzungen oder stillen Umrechnungen: vor der Übernahme die Regeln in `AGENTS.md` anwenden.
 
 ## Umfang
 
@@ -48,4 +48,4 @@ python3 -m unittest discover -s scripts -v
 
 ## Gezielte NDR-Erweiterung
 
-Zusätzlich stehen drei einzeln geprüfte Fitness-Rezepte unter [`ndr/`](ndr/README.md). Diese Auswahl folgt ausschließlich der geprüften URL-Liste, keinem vollständigen Sitemap-Import. Alle drei sind auch nach `rezepte/` und `db/seed.sql` normalisiert. Details zu Quellenprüfung, Alternativen, Portionen und getrennten NDR-/BLS-Nährwerten stehen in der NDR-Dokumentation. Die Umfangstabelle oben beschreibt weiterhin den ursprünglichen Vollarchiv-Import vom 16. November.
+Zusätzlich stehen acht einzeln geprüfte Fitness-Rezepte unter [`ndr/`](ndr/README.md). Diese Auswahl folgt ausschließlich der geprüften URL-Liste, keinem vollständigen Sitemap-Import. Alle acht sind auch nach `rezepte/` und `db/seed.sql` normalisiert. Details zu Quellenprüfung, Alternativen, Portionen und getrennten NDR-/BLS-Nährwerten stehen in der NDR-Dokumentation. Die Umfangstabelle oben beschreibt weiterhin den ursprünglichen Vollarchiv-Import vom 16. November.

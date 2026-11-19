@@ -1,17 +1,52 @@
 {
   "publisher": "NDR",
   "sitemap_url": null,
-  "scraped_at": "2026-11-19T17:45:11.166728+00:00",
+  "scraped_at": "2026-11-19T18:36:21.370983+00:00",
   "scope": "Ausschließlich einzeln geprüfte Fitness-Rezepte; kein Sitemap-/Vollarchiv-Import.",
-  "page_count": 3,
-  "recipe_count": 3,
+  "page_count": 8,
+  "recipe_count": 8,
   "pages": [
+    {
+      "url": "https://www.ndr.de/ratgeber/kochen/rezepte/Blumenkohl-Curry-mit-Tofu,rezept5548.html",
+      "status": "recipe",
+      "file": "blumenkohl-curry-mit-tofu.json",
+      "recipe_count": 1,
+      "sha256": "7742db6d91a229d706d70058f44415c690a807f07ee490843ce4c249502298a4"
+    },
     {
       "url": "https://www.ndr.de/ratgeber/kochen/rezepte/Chili-sin-Carne-mit-Sojageschnetzeltem,chilisincarne112.html",
       "status": "recipe",
       "file": "chili-sin-carne-mit-sojageschnetzeltem.json",
       "recipe_count": 1,
       "sha256": "282858bc1d7758f62a78a4e7281b5d9516f06802147f5e2f8d1f8aa32ee3fb97"
+    },
+    {
+      "url": "https://www.ndr.de/ratgeber/kochen/rezepte/Gemuesepfanne-mit-Tofu,rezept3014.html",
+      "status": "recipe",
+      "file": "gemuesepfanne-mit-tofu.json",
+      "recipe_count": 1,
+      "sha256": "e46ff1a5cd8c7cfa974bfe192a01e6c1d56d61e30be8823186aa8ee789454f09"
+    },
+    {
+      "url": "https://www.ndr.de/ratgeber/kochen/rezepte/Lachs-Paeckchen-mit-Gemuese-und-Feta,rezept2548.html",
+      "status": "recipe",
+      "file": "lachs-paeckchen-mit-gemuese-und-feta.json",
+      "recipe_count": 1,
+      "sha256": "74e652e1b87cb7d5c3db368af88f0112a46447934bcbf3b824346220add1ca69"
+    },
+    {
+      "url": "https://www.ndr.de/ratgeber/kochen/rezepte/Quarkfruehstueck-mit-Gemuese-und-Obst-Doc-Klasen-Fruehstueck,fruehstueck2230.html",
+      "status": "recipe",
+      "file": "quarkfruehstueck-doc-klasen.json",
+      "recipe_count": 1,
+      "sha256": "8ffcf95f4deb7ead9425d721f3bba407e123c56aef173274527eda7efc960758"
+    },
+    {
+      "url": "https://www.ndr.de/ratgeber/kochen/rezepte/Strammer-Max-vegetarisch,strammermax132.html",
+      "status": "recipe",
+      "file": "strammer-max-vegetarisch.json",
+      "recipe_count": 1,
+      "sha256": "b2fe6396d70371bbd86102b245ea6f3cf7d49fac11d2e213568c7b7568375059"
     },
     {
       "url": "https://www.ndr.de/ratgeber/kochen/rezepte/bunte-quinoa-pfanne-mit-haehnchen-gemuese,quinoapfanne-100.html",
@@ -29,6 +64,6 @@
     }
   ],
   "selection_file": "selection.json",
-  "selection_sha256": "34f0004a93aa2f0fd5aefae8d44717032e01db41fa9c5ed5482cd2eae09ab330",
+  "selection_sha256": "4e0acb229fca2e09ef4a8140740386f04fe8b6754a50931dcf5519279ce86f15",
   "completed": true
 }

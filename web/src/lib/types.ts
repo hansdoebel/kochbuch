@@ -64,7 +64,22 @@ export interface Ingredient {
   variant: string | null;
   ingredientId: number | null;
 }
+export interface PublisherNutrition {
+  basis: 'per_serving';
+  origin: 'publisher_estimate';
+  sourceUrl: string;
+  reviewedAt: string;
+  nutrients: {
+    energy_kcal: number;
+    protein_g: number;
+    fat_g: number;
+    publisher_carbohydrates_g: number;
+    fiber_g: number;
+  };
+  note: string;
+}
 export interface Recipe extends RecipeSummary {
+  publisherNutrition?: PublisherNutrition;
   authors: string[];
   ingredients: string[];
   structuredIngredients: Ingredient[];

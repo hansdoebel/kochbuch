@@ -89,7 +89,7 @@ describe('BLS reference database', () => {
     db.exec('PRAGMA foreign_keys=ON');
     db.exec(readFileSync('../db/schema.sql', 'utf8'));
     db.exec(
-      `INSERT INTO shopping_categories VALUES (1,'Food',1);INSERT INTO units VALUES (1,'g','g','mass','g',1);INSERT INTO ingredients VALUES (1,'A',1,1,0),(2,'B',1,1,0);INSERT INTO recipes VALUES (1,'test','Test',2,'Portionen',1,1,NULL,NULL);INSERT INTO recipe_ingredients VALUES (1,1,1,200,1,NULL,NULL,'Food',NULL,0,1),(2,1,2,NULL,NULL,'Unbekannt',NULL,'Food',NULL,0,2);INSERT INTO nutrition_datasets VALUES ('test','test','1','https://example.org','CC0','test','2026-11-19','${'a'.repeat(64)}');INSERT INTO nutrition_nutrients VALUES ('protein_g','Protein','g','P');INSERT INTO nutrition_foods VALUES ('test:A','test','A','A',NULL,'https://example.org');INSERT INTO nutrition_facts VALUES ('test:A','protein_g',10,'Analyse',NULL,NULL,'P');INSERT INTO ingredient_nutrition_matches VALUES (1,'test:A','reviewed','2026-11-19','Reviewed');`
+      `INSERT INTO shopping_categories VALUES (1,'Food',1);INSERT INTO units VALUES (1,'g','g','mass','g',1);INSERT INTO ingredients VALUES (1,'A',1,1,0),(2,'B',1,1,0);INSERT INTO recipes VALUES (1,'test','Test',2,'Portionen',1,1,NULL,NULL,NULL);INSERT INTO recipe_ingredients VALUES (1,1,1,200,1,NULL,NULL,'Food',NULL,0,1),(2,1,2,NULL,NULL,'Unbekannt',NULL,'Food',NULL,0,2);INSERT INTO nutrition_datasets VALUES ('test','test','1','https://example.org','CC0','test','2026-11-19','${'a'.repeat(64)}');INSERT INTO nutrition_nutrients VALUES ('protein_g','Protein','g','P');INSERT INTO nutrition_foods VALUES ('test:A','test','A','A',NULL,'https://example.org');INSERT INTO nutrition_facts VALUES ('test:A','protein_g',10,'Analyse',NULL,NULL,'P');INSERT INTO ingredient_nutrition_matches VALUES (1,'test:A','reviewed','2026-11-19','Reviewed');`
     );
     const p = calculatedProfile(db, 1, 'test')!;
     expect(p.nutrients.protein_g).toBe(10);
@@ -209,5 +209,55 @@ describe('weekly planning', () => {
     );
     const plan = await (await app(request({ startDate: '2026-11-19' }))).json();
     expect(plan.entries.length).toBeGreaterThan(0);
+  });
+});
+
+describe('curated NDR recipes', () => {
+  test('deduplicates original cards, preserves time and separates publisher nutrition', () => {
+    const items = catalog.search({ source: 'NDR' }).items;
+    expect(items).toHaveLength(3);
+    expect(items.every((r) => r.ready)).toBe(true);
+    const bowl = catalog.get('ready:protein-bowl-mit-linsen-und-kichererbsen')!;
+    expect(bowl.servings).toBe(2);
+    expect(bowl.minutes).toBe(30);
+    expect(bowl.tags).toContain('Vegetarisch');
+    expect(bowl.tags).not.toContain('Vegan');
+    expect(bowl.publisherNutrition?.nutrients.protein_g).toBe(28);
+    expect(bowl.publisherNutrition?.origin).toBe('publisher_estimate');
+    expect(bowl.nutrition?.calculation?.missing.length).toBeGreaterThan(0);
+    expect(bowl.nutrition?.sourceUrl).toContain('blsdb.de');
+    const analysis = analyse([{ id: bowl.id, servings: 1 }], (id) => catalog.get(id));
+    expect(analysis.completeCoverage.protein_g ?? 0).toBe(0); // publisher values cannot fill BLS gaps
+    expect(items[0]).not.toHaveProperty('publisherNutrition');
+    const quinoa = catalog.get('ready:bunte-quinoa-pfanne-mit-haehnchen')!;
+    expect(quinoa.sourceUrl).toContain('haehnchen-gemuese,quinoapfanne-100.html');
+    expect(quinoa.minutes).toBe(40);
+  });
+  test('shopping scales portions without doubling alternatives or draining the chili beans', () => {
+    const bowl = shoppingList(
+      [{ id: 'ready:protein-bowl-mit-linsen-und-kichererbsen', servings: 4 }],
+      (id) => catalog.get(id)
+    );
+    const rows = bowl.groups.flatMap((g) => g.items);
+    expect(rows.find((i) => i.text.includes('Kichererbsen'))?.quantity).toBe(300);
+    expect(rows.find((i) => i.text.includes('Rucola'))?.quantity).toBe(4);
+    expect(rows.some((i) => i.text.includes('Spinat'))).toBe(false);
+    const chili = catalog.get('ready:chili-sin-carne-mit-sojageschnetzeltem')!;
+    expect(chili.authors.join(' ')).toContain('ndr.de');
+    expect(
+      chili.structuredIngredients.find((i) => i.name.includes('Kidneybohnen'))?.text
+    ).toContain('nicht abgetropft');
+    const noOptional = shoppingList([{ id: chili.id, servings: 4 }], (id) => catalog.get(id), {
+      includeOptional: false,
+    });
+    expect(
+      noOptional.groups.flatMap((g) => g.items).some((i) => i.text.includes('Chilipulver'))
+    ).toBe(false);
+    const plan = suggestPlan({ startDate: '2026-11-23', vegan: false, maxMinutes: 40 }, [
+      catalog.get('ready:protein-bowl-mit-linsen-und-kichererbsen')!,
+      chili,
+      catalog.get('ready:bunte-quinoa-pfanne-mit-haehnchen')!,
+    ]);
+    expect(plan.entries).toHaveLength(7);
   });
 });

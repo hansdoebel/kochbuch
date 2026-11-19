@@ -221,8 +221,11 @@ def check_recipe_files(conn: sqlite3.Connection, directory: Path | None = None) 
         fields = dict(line.split(": ", 1) for line in parts[1].strip().splitlines())
         recipe = recipes[slug]
         for key in ("title", "slug", "servings", "servings_label", "prep_minutes", "cook_minutes", "source"):
-            if fields.get(key) != str(recipe[key]):
+            expected = "unbekannt" if recipe[key] is None and key in {"prep_minutes", "cook_minutes"} else str(recipe[key])
+            if fields.get(key) != expected:
                 raise SystemExit(f"{slug}: {key} weicht zwischen Markdown und Datenbank ab.")
+        if "total_minutes" in fields and fields['total_minutes'] != str(recipe['total_minutes']):
+            raise SystemExit(f"{slug}: Gesamtzeit weicht zwischen Markdown und Datenbank ab.")
         source = fields.get("source", "").strip()
         if not source:
             raise SystemExit(f"{slug}: Quelle fehlt.")

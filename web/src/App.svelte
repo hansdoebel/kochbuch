@@ -693,6 +693,29 @@
         >
           Originalrezept öffnen<ExternalLink size={14} />
         </a>{/if}
+      {#if detail.publisherNutrition}
+        <div class="notice">
+          <Badge variant="secondary">NDR-Schätzwerte pro Portion</Badge>
+          <p class="mt-2">
+            {detail.publisherNutrition.nutrients.energy_kcal} kcal · Protein {detail
+              .publisherNutrition.nutrients.protein_g} g · Ballaststoffe {detail.publisherNutrition
+              .nutrients.fiber_g} g
+          </p>
+          <p>
+            Kohlenhydrate laut Quelle {detail.publisherNutrition.nutrients
+              .publisher_carbohydrates_g} g · Fett {detail.publisherNutrition.nutrients.fat_g} g
+          </p>
+          <p>{detail.publisherNutrition.note}</p>
+          <a
+            class="source-link"
+            href={detail.publisherNutrition.sourceUrl}
+            target="_blank"
+            rel="noreferrer"
+          >
+            NDR-Rezeptkarte · geprüft am {detail.publisherNutrition.reviewedAt}
+          </a>
+        </div>
+      {/if}
       {#if detail.nutrition}
         <div class="notice">
           <Badge variant="secondary">

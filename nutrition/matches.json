@@ -264,6 +264,126 @@
       "method": "reviewed",
       "reviewed_on": "2026-11-19",
       "note": "Geschrotete Leinsamen."
+    },
+    {
+      "ingredient_id": 76,
+      "ingredient_name": "Beluga-Linsen",
+      "food_id": "bls-4.0:H725100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Generische trockene reife Linse als Referenz für Beluga-Linsen; Sorte kann abweichen."
+    },
+    {
+      "ingredient_id": 77,
+      "ingredient_name": "Kichererbsen abgetropft",
+      "food_id": "bls-4.0:H720902",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Kichererbsen aus Konserve, ausdrücklich abgetropft."
+    },
+    {
+      "ingredient_id": 78,
+      "ingredient_name": "Möhre",
+      "food_id": "bls-4.0:G620100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Rohe Möhre; Stückgewicht bleibt offen."
+    },
+    {
+      "ingredient_id": 80,
+      "ingredient_name": "Gurke",
+      "food_id": "bls-4.0:G520100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Rohe Gurke; keine pauschale Stückmasse."
+    },
+    {
+      "ingredient_id": 81,
+      "ingredient_name": "Rucola",
+      "food_id": "bls-4.0:G130100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Rucola roh; Handvoll wird nicht in Gramm geschätzt."
+    },
+    {
+      "ingredient_id": 82,
+      "ingredient_name": "Feta",
+      "food_id": "bls-4.0:M012200",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Generischer Feta, mind. 45 % Fett i. Tr.; produktabhängige Werte."
+    },
+    {
+      "ingredient_id": 83,
+      "ingredient_name": "Leinöl",
+      "food_id": "bls-4.0:Q160000",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Leinöl; EL nicht über eine angenommene Dichte umrechnen."
+    },
+    {
+      "ingredient_id": 84,
+      "ingredient_name": "Haselnussmus",
+      "food_id": "bls-4.0:H130800",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Haselnussmus als generische Referenz."
+    },
+    {
+      "ingredient_id": 85,
+      "ingredient_name": "Sojaschnetzel",
+      "food_id": "bls-4.0:H765000",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Texturiertes Sojageschnetzel trocken; Gewicht vor dem Quellen."
+    },
+    {
+      "ingredient_id": 91,
+      "ingredient_name": "Quinoa",
+      "food_id": "bls-4.0:C118100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Tricolore-Quinoa roh; nicht gekochte Quinoa."
+    },
+    {
+      "ingredient_id": 92,
+      "ingredient_name": "Hähnchenbrust",
+      "food_id": "bls-4.0:V416100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Hähnchen-Brustfilet roh; essbare Masse vor dem Garen."
+    },
+    {
+      "ingredient_id": 93,
+      "ingredient_name": "Zucchini",
+      "food_id": "bls-4.0:G582100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Rohe Zucchini; Stückmasse bleibt offen."
+    },
+    {
+      "ingredient_id": 94,
+      "ingredient_name": "Karotte",
+      "food_id": "bls-4.0:G620100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Rohe Karotte; Quellbezeichnung bleibt erhalten."
+    },
+    {
+      "ingredient_id": 95,
+      "ingredient_name": "TK-Erbsen",
+      "food_id": "bls-4.0:G760200",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Grüne Erbsen tiefgefroren, ungegart."
+    },
+    {
+      "ingredient_id": 96,
+      "ingredient_name": "Petersilie frisch",
+      "food_id": "bls-4.0:G250100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Frische Petersilienblätter; fehlende Menge bleibt offen."
     }
   ],
   "weights": []

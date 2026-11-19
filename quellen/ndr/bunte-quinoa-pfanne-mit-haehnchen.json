@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.ndr.de/ratgeber/kochen/rezepte/bunte-quinoa-pfanne-mit-haehnchen-gemuese,quinoapfanne-100.html",
+  "recipes": [
+    {
+      "name": "Bunte Quinoa-Pfanne mit Hähnchen",
+      "source_url": "https://www.ndr.de/ratgeber/kochen/rezepte/bunte-quinoa-pfanne-mit-haehnchen-gemuese,quinoapfanne-100.html",
+      "recipe_id": "https://www.ndr.de/ratgeber/kochen/rezepte/bunte-quinoa-pfanne-mit-haehnchen-gemuese,quinoapfanne-100.html",
+      "authors": [
+        "Team Ernährungs-Docs"
+      ],
+      "publisher": "NDR",
+      "language": "de",
+      "yield": 2,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT40M",
+      "ingredients": [
+        "100 g bunte (Tricolore) Quinoa",
+        "200 g Hähnchenbrust",
+        "0.25 TL Salz",
+        "0.25 TL Pfeffer",
+        "1 TL Paprikapulver",
+        "0.25 TL Knoblauchpulver",
+        "2 EL Olivenöl",
+        "1 rote Paprika",
+        "1 Zucchini",
+        "1 Karotte",
+        "75 g TK-Erbsen",
+        "optional: Zitronensaft",
+        "80 g Feta",
+        "frische, gehackte Petersilie"
+      ],
+      "instructions": [
+        "Quinoa spülen und nach Packungsangabe garen. Hähnchen würfeln, mit Gewürzen und der Hälfte des Öls 10–15 Minuten marinieren.",
+        "Geflügel vollständig durchbraten und beiseitestellen. Gemüse schneiden, im restlichen Öl bissfest braten; Erbsen gegen Ende zugeben.",
+        "Quinoa und Hähnchen untermischen. Abschmecken, mit Feta und Petersilie servieren."
+      ],
+      "missing_fields": [],
+      "publisher_nutrition": {
+        "basis": "per_serving",
+        "origin": "publisher_estimate",
+        "sourceUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/bunte-quinoa-pfanne-mit-haehnchen-gemuese,quinoapfanne-100.html",
+        "nutrients": {
+          "energy_kcal": 582.0,
+          "protein_g": 42.0,
+          "fat_g": 24.0,
+          "publisher_carbohydrates_g": 47.0,
+          "fiber_g": 11.0
+        },
+        "note": "NDR-Schätzung pro veröffentlichter Portion; Kohlenhydratdefinition nicht unabhängig geprüft. Nicht mit BLS-Teilsummen verrechnen.",
+        "reviewedAt": "2026-11-19"
+      },
+      "instruction_representation": "editorial_summary"
+    }
+  ],
+  "page_recipe_notes": [
+    "Zubereitung redaktionell gekürzt und neu formuliert; keine wörtliche Volltextkopie."
+  ],
+  "extraction_warnings": [
+    "Sichtbare Zutaten statt verlustbehaftetem JSON-LD; Alternativen bleiben ausdrücklich erhalten."
+  ],
+  "reviewed_source_digest": "88da8077476da67d4b59cdc02c644880eae6e5a3f79bd7efbc832f9717fc1872"
+}

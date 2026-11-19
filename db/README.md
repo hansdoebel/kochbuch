@@ -39,3 +39,7 @@ Dieselbe Textfassung ist der Ausgangspunkt für einen verwalteten Postgres, zum 
 ## Nährwerttabellen
 
 `nutrition_facts` enthält je Lebensmittel und Nährstoff die Menge pro 100 g essbaren Anteil mit BLS-Code und Provenienz. `nutrition_datasets` und `nutrition_foods` halten Version und Lizenz. `ingredient_nutrition_matches` verknüpft Zutaten mit Referenzlebensmitteln; `recipe_nutrition_weights` erlaubt belegte Gewichte einzelner Rezeptzeilen. `build_db.py` lädt die Snapshots automatisch. Aufbau, Erweiterung und Prüfbefehle: [nutrition/README.md](../nutrition/README.md). Die Python-/Bun-Importer verwenden SQLite; ein Postgres-Umzug muss auch diese JSON-Loader anpassen.
+
+## Quellen ohne getrennte Zeitangaben
+
+`recipes.total_minutes` speichert eine veröffentlichte Gesamtzeit unabhängig von `prep_minutes` und `cook_minutes`. Bei den NDR-Rezepten bleiben diese beiden Felder NULL, weil die Quelle sie nicht aufschlüsselt; im Markdown steht `unbekannt`. Der Webkatalog bevorzugt die Gesamtzeit und addiert nur bei zwei bekannten Einzelzeiten. Bestehende Rezepte ohne `total_minutes` funktionieren unverändert.

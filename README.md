@@ -75,3 +75,17 @@ npm test
 ```
 
 `npm run lint` führt die drei Linter parallel aus und meldet einen Fehler, sobald mindestens eine Prüfung fehlschlägt. Einzeln laufen sie über `npm run lint:markdown`, `npm run lint:recipes` und `npm run lint:sources`. Die Markdown-Regeln stehen in `.markdownlint-cli2.jsonc`; das Rezeptformat wird in `scripts/lint_recipes.py` geprüft. Online-Rezepte brauchen eine direkte HTTPS-Quelle und denselben sichtbaren Link. Eigene Rezepte, Fotos und Familienrezepte müssen ihre nicht öffentliche Herkunft ausdrücklich nennen. Die vorhandene Kaiserschmarrn-Transkription hat eine eng begrenzte Ausnahme für ihre belegte Quelle ohne nachweisbare URL.
+
+## Weboberfläche
+
+Unter [`web/`](web/README.md) liegt eine Svelte-5-/shadcn-svelte-Oberfläche mit Bun-API. Sie durchsucht die vorhandenen Rezeptarchive und kuratierten Rezepte, speichert eine Rezeptauswahl lokal und exportiert Einkaufslisten über eine mobile Typst-Vorlage als PDF, eigenständige `.typ`-Datei oder JSON. Light/Dark Mode und eine Ernährungsansicht mit persönlichen Zielen und getrenntem Verzehrprotokoll sind enthalten.
+
+```bash
+cd web
+bun install --frozen-lockfile
+bun run setup:typst
+bun run build
+bun run start
+```
+
+Danach `http://127.0.0.1:3000` öffnen. Für Details, Entwicklung und Prüfungen siehe [web/README.md](web/README.md). Kuratierte Zutaten sind skalierbar; Archivrezepte behalten ihre Originalmengen. Nährwertprofile sind noch nicht analysiert und werden nicht als Nullwerte ausgegeben. Der nächste Schritt zur Zutatenanalyse ist in [nutrition/README.md](nutrition/README.md) beschrieben. Die [Open-Source-Recherche](docs/webui-research.md) dokumentiert die Auswahl der Architektur.

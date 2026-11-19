@@ -36,4 +36,8 @@
 
 __pycache__/
 node_modules/
+web/dist/
+.cache/
+.tools/
+web/.svelte-kit/
 .DS_Store

@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "scope": "Metadata-only research; no recipe text or import approval. Publisher carbohydrate definitions are not normalized to BLS CHO.",
+  "items": [
+    {
+      "id": "ndr-protein-bowl",
+      "title": "Protein-Bowl mit Linsen und Kichererbsen",
+      "publisher": "NDR / Ernährungs-Docs",
+      "author": "Team Ernährungs-Docs",
+      "source_url": "https://www.ndr.de/ratgeber/kochen/rezepte/gesunde-protein-bowl-mit-linsen-und-kichererbsen,proteinbowl-102.html",
+      "reviewed_on": "2026-11-19",
+      "decision": "candidate",
+      "import_approved": false,
+      "nutrition_origin": "publisher_estimate",
+      "nutrition_basis": "Published per portion; confirm default batch yield before import.",
+      "publisher_nutrients": {
+        "energy_kcal": 590,
+        "protein_g": 28,
+        "publisher_carbohydrates_g": 45,
+        "fiber_g": 18
+      },
+      "published_minutes": 30,
+      "review_notes": [
+        "Metric ingredients; vegetarian legume/vegetable meal.",
+        "Some edible piece weights remain to be resolved."
+      ]
+    },
+    {
+      "id": "fitmencook-green-chile-soup",
+      "title": "Green Chile Chicken Soup with White Beans",
+      "publisher": "Fit Men Cook",
+      "author": "Kevin Curry",
+      "source_url": "https://fitmencook.com/recipes/green-chile-chicken-soup/",
+      "reviewed_on": "2026-11-19",
+      "decision": "conditional",
+      "import_approved": false,
+      "nutrition_origin": "publisher_estimate",
+      "nutrition_basis": "Published per 411 g serving; six servings.",
+      "publisher_nutrients": {
+        "energy_kcal": 340,
+        "protein_g": 35,
+        "publisher_carbohydrates_g": 39,
+        "fiber_g": 8
+      },
+      "published_minutes": 30,
+      "review_notes": [
+        "780 mg sodium per serving.",
+        "Do not inherit Low Carb/Keto tag: published carbohydrates are 39 g per serving.",
+        "Already cooked rotisserie chicken is a prerequisite; the stated 30 minutes excludes cooking it from raw.",
+        "Do not reuse the publisher five-to-seven-day refrigerator advice; review against USDA FSIS three-to-four-day leftover guidance and freezing."
+      ]
+    },
+    {
+      "id": "pickuplimes-alfredo",
+      "title": "Creamy Alfredo-Style High Protein Pasta",
+      "publisher": "Pick Up Limes",
+      "author": null,
+      "source_url": "https://www.pickuplimes.com/recipe/creamy-alfredo-style-high-protein-pasta-2417",
+      "reviewed_on": "2026-11-19",
+      "decision": "existing_archive_candidate",
+      "import_approved": false,
+      "nutrition_origin": "publisher_estimate",
+      "nutrition_basis": "Published per serving; four servings.",
+      "publisher_nutrients": {
+        "energy_kcal": 725,
+        "protein_g": 35.3,
+        "publisher_carbohydrates_g": 103.8,
+        "fiber_g": 11.7
+      },
+      "published_minutes": 35,
+      "review_notes": [
+        "Already included in archive PR #3; reuse canonical URL, no duplicate scrape.",
+        "Confirm byline, optional toppings, fortified soy milk and carbohydrate definition before normalization."
+      ]
+    },
+    {
+      "id": "skinnytaste-turkey-taco",
+      "title": "Ground Turkey Taco Skillet",
+      "publisher": "Skinnytaste",
+      "author": "Gina Homolka",
+      "source_url": "https://www.skinnytaste.com/turkey-taco-skillet/",
+      "reviewed_on": "2026-11-19",
+      "decision": "conditional",
+      "import_approved": false,
+      "nutrition_origin": "publisher_estimate",
+      "nutrition_basis": "Published per 1.5 cup serving.",
+      "publisher_nutrients": {
+        "energy_kcal": 503,
+        "protein_g": 37,
+        "publisher_carbohydrates_g": 43.5,
+        "fiber_g": 5.5
+      },
+      "published_minutes": 30,
+      "review_notes": [
+        "1081 mg sodium per serving.",
+        "Edible serving mass and side-dish combination need review."
+      ]
+    },
+    {
+      "id": "realfood-teriyaki",
+      "title": "Sheet Pan Teriyaki Chicken",
+      "publisher": "The Real Food Dietitians",
+      "author": "Ana Ankeny",
+      "source_url": "https://therealfooddietitians.com/sheet-pan-teriyaki-chicken/",
+      "reviewed_on": "2026-11-19",
+      "decision": "component",
+      "import_approved": false,
+      "nutrition_origin": "publisher_estimate",
+      "nutrition_basis": "Published per quarter recipe, explicitly WITHOUT RICE.",
+      "publisher_nutrients": {
+        "energy_kcal": 255,
+        "protein_g": 29,
+        "publisher_carbohydrates_g": 25,
+        "fiber_g": 3
+      },
+      "published_minutes": 40,
+      "review_notes": [
+        "Side dish must be counted separately.",
+        "Recipe developer byline is Ana Ankeny; do not attribute the recipe to the whole dietitian team."
+      ]
+    },
+    {
+      "id": "goodfood-lemony-chicken",
+      "title": "Lemony chicken lentils",
+      "publisher": "Good Food",
+      "author": "Ailsa Burt",
+      "source_url": "https://www.bbcgoodfood.com/recipes/lemony-chicken-lentils",
+      "reviewed_on": "2026-11-19",
+      "decision": "conditional",
+      "import_approved": false,
+      "nutrition_origin": "publisher_estimate",
+      "nutrition_basis": "Published per serving; four servings; assumes leftover roasted chicken.",
+      "publisher_nutrients": {
+        "energy_kcal": 507,
+        "protein_g": 35,
+        "publisher_carbohydrates_g": 18,
+        "fiber_g": 9
+      },
+      "published_minutes": 35,
+      "review_notes": [
+        "35 minutes excludes roasting the prerequisite chicken.",
+        "10 g saturated fat and 2.2 g salt per serving; salt is not sodium."
+      ]
+    },
+    {
+      "id": "eatingbirdfood-quinoa",
+      "title": "Easy Quinoa Salad",
+      "publisher": "Eating Bird Food",
+      "author": "Brittany Mullins",
+      "source_url": "https://www.eatingbirdfood.com/easy-quinoa-salad/",
+      "reviewed_on": "2026-11-19",
+      "decision": "side_only",
+      "import_approved": false,
+      "nutrition_origin": "publisher_estimate",
+      "nutrition_basis": "Published per quarter recipe; four servings.",
+      "publisher_nutrients": {
+        "energy_kcal": 316,
+        "protein_g": 8,
+        "publisher_carbohydrates_g": 23,
+        "fiber_g": 7
+      },
+      "published_minutes": 25,
+      "review_notes": [
+        "Publisher explicitly calls nutrition automatically calculated and approximate.",
+        "Not selected as a high-protein main meal: 8 g protein per published serving."
+      ]
+    }
+  ]
+}

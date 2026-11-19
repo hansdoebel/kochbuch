@@ -1,0 +1,4 @@
+dist/
+public/catalog.json
+android/gradle/wrapper/gradle-wrapper.jar
+android/.idea/

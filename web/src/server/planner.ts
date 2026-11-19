@@ -1,6 +1,6 @@
 import { z } from 'zod';
 import type { Recipe, Selection, Nutrients } from '../lib/types';
-import { analyse } from './shopping';
+import { analyse } from '../lib/analysis';
 import { adaptRecipe, type Adaptation } from './adaptation';
 import {
   dietPreferencesSchema,

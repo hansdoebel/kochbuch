@@ -1,0 +1,161 @@
+:root {
+  font:
+    16px/1.5 system-ui,
+    sans-serif;
+  color-scheme: light dark;
+  --bg: #faf8f2;
+  --card: white;
+  --ink: #192e23;
+  --accent: #246046;
+  --border: #c7d0c6;
+  --soft: #e4eee5;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+}
+header,
+main,
+nav {
+  margin: auto;
+  max-width: 46rem;
+  padding: 1rem 1.2rem;
+}
+header {
+  padding-top: max(1rem, env(safe-area-inset-top));
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--border);
+}
+header strong,
+h1,
+h2,
+.recipe strong {
+  font-family: Georgia, serif;
+}
+h1 {
+  font-size: 2.35rem;
+  line-height: 1.1;
+}
+h2 {
+  font-size: 1.45rem;
+}
+main {
+  padding-bottom: 8rem;
+}
+label {
+  display: block;
+  margin: 0.7rem 0;
+}
+input,
+select,
+button {
+  font: inherit;
+  color: inherit;
+}
+input,
+select {
+  width: 100%;
+  padding: 0.7rem;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+}
+button {
+  cursor: pointer;
+  padding: 0.6rem 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: 0.6rem;
+  background: var(--card);
+  min-height: 44px;
+}
+button:disabled {
+  opacity: 0.55;
+}
+section,
+.recipe {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 0.8rem;
+  padding: 1rem;
+  margin: 0.65rem 0;
+}
+.recipe {
+  width: 100%;
+  text-align: left;
+  display: grid;
+  gap: 0.25rem;
+}
+.recipe strong {
+  font-size: 1.25rem;
+}
+.source,
+small,
+a {
+  color: var(--accent);
+}
+.actions,
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+.row {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--border);
+}
+.link {
+  text-align: left;
+  border: 0;
+}
+.notice {
+  background: var(--soft);
+  padding: 0.75rem;
+}
+.check {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  margin: 0.4rem;
+}
+.check input {
+  width: auto;
+}
+nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-around;
+  background: var(--card);
+  border-top: 1px solid var(--border);
+  padding: 0.5rem 0.3rem max(0.5rem, env(safe-area-inset-bottom));
+}
+nav button {
+  border: 0;
+  background: none;
+}
+nav .active,
+button[aria-pressed="true"] {
+  background: var(--soft);
+  color: var(--accent);
+}
+li {
+  margin: 0.5rem 0;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #142019;
+    --card: #1d2a22;
+    --ink: #eef1e9;
+    --accent: #a9dfb6;
+    --border: #48564a;
+    --soft: #304839;
+  }
+}

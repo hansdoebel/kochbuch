@@ -1,6 +1,6 @@
 # Datenbank
 
-Die Fassung im Git sind `schema.sql` und `seed.sql`. `build_db.py` baut daraus `kochbuch.sqlite`. Die SQLite-Datei ist ein Binärformat und ein reines Erzeugnis, deshalb steht sie in `.gitignore` und wird nicht mitversioniert. Nach jeder Änderung an Rezept oder Seed neu bauen.
+Die Fassung im Git sind `schema.sql`, `seed.sql` und die versionierten Textdaten unter `nutrition/`. `build_db.py` baut daraus `kochbuch.sqlite`. Die SQLite-Datei ist ein Binärformat und ein reines Erzeugnis, deshalb steht sie in `.gitignore` und wird nicht mitversioniert. Nach jeder Änderung an Rezept oder Seed neu bauen.
 
 ## Wofür die Tabellen da sind
 
@@ -35,3 +35,7 @@ Dieselbe Textfassung ist der Ausgangspunkt für einen verwalteten Postgres, zum 
 6. `DATABASE_URL` nicht ins Repo legen.
 
 `REAL` reicht für Küchenmengen; die Abfrage rundet auf zwei Stellen. In Postgres kann die Spalte später `NUMERIC` werden, wenn exakte Dezimalwerte gebraucht werden. SQLite würde ein deklariertes `NUMERIC` intern trotzdem als Integer oder Gleitkommazahl speichern, deshalb bleibt die gemeinsame Fassung bei `REAL`.
+
+## Nährwerttabellen
+
+`nutrition_facts` enthält je Lebensmittel und Nährstoff die Menge pro 100 g essbaren Anteil mit BLS-Code und Provenienz. `nutrition_datasets` und `nutrition_foods` halten Version und Lizenz. `ingredient_nutrition_matches` verknüpft Zutaten mit Referenzlebensmitteln; `recipe_nutrition_weights` erlaubt belegte Gewichte einzelner Rezeptzeilen. `build_db.py` lädt die Snapshots automatisch. Aufbau, Erweiterung und Prüfbefehle: [nutrition/README.md](../nutrition/README.md). Die Python-/Bun-Importer verwenden SQLite; ein Postgres-Umzug muss auch diese JSON-Loader anpassen.

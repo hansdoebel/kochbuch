@@ -1,6 +1,8 @@
 import { resolve, sep } from 'node:path';
 import { z } from 'zod';
 import { Catalog } from './catalog';
+import { nutritionFoods, nutritionStatus } from './nutrition';
+import { suggestPlan } from './planner';
 import { shoppingList, selectionSchema, analyse } from './shopping';
 import { typstSource, pdfExport, typstBinary } from './export';
 const inputSchema = z.object({
@@ -12,6 +14,15 @@ export function createApp(catalog: Catalog, dist = resolve(import.meta.dir, '../
   return async function handle(req: Request): Promise<Response> {
     const url = new URL(req.url);
     try {
+      if (url.pathname === '/api/nutrition/status' && req.method === 'GET')
+        return Response.json(nutritionStatus(catalog.nutritionDB));
+      if (url.pathname === '/api/nutrition/foods' && req.method === 'GET') {
+        const q = url.searchParams.get('q') ?? '';
+        const offset = Number(url.searchParams.get('offset') ?? 0);
+        if (q.length > 200 || !Number.isSafeInteger(offset) || offset < 0)
+          return Response.json({ error: 'Ungültige Suche.' }, { status: 400 });
+        return Response.json(nutritionFoods(catalog.nutritionDB, q, offset));
+      }
       if (url.pathname === '/api/meta' && req.method === 'GET')
         return Response.json({ ...catalog.meta(), pdfAvailable: !!typstBinary() });
       if (url.pathname === '/api/recipes' && req.method === 'GET') {
@@ -37,7 +48,9 @@ export function createApp(catalog: Catalog, dist = resolve(import.meta.dir, '../
           : Response.json({ error: 'Rezept nicht gefunden.' }, { status: 404 });
       }
       if (
-        ['/api/shopping', '/api/analysis', '/api/export'].includes(url.pathname) &&
+        ['/api/shopping', '/api/analysis', '/api/export', '/api/plan/suggest'].includes(
+          url.pathname
+        ) &&
         req.method === 'POST'
       ) {
         const origin = req.headers.get('origin');
@@ -49,6 +62,10 @@ export function createApp(catalog: Catalog, dist = resolve(import.meta.dir, '../
         const raw = await req.text();
         if (raw.length > 16_384)
           return Response.json({ error: 'Auswahl zu groß.' }, { status: 413 });
+        if (url.pathname === '/api/plan/suggest') {
+          const recipes = catalog.readyRecipes();
+          return Response.json(suggestPlan(JSON.parse(raw), recipes));
+        }
         const input = inputSchema.parse(JSON.parse(raw));
         if (url.pathname === '/api/analysis')
           return Response.json(analyse(input.selections, (id) => catalog.get(id)));

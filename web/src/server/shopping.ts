@@ -128,6 +128,8 @@ export function analyse(selections: Selection[], get: (id: string) => Recipe | n
   const totals: Nutrients = {};
   const coverage: Record<string, number> = {};
   const missingRecipes: string[] = [];
+  const partialRecipes: string[] = [];
+  const completeCoverage: Record<string, number> = {};
   let profiledCount = 0,
     verifiedCount = 0;
   for (const { recipe, servings } of selected) {
@@ -137,10 +139,18 @@ export function analyse(selections: Selection[], get: (id: string) => Recipe | n
     }
     profiledCount++;
     if (recipe.nutrition.quality === 'verified') verifiedCount++;
+    if (
+      recipe.nutrition.calculation &&
+      Object.values(recipe.nutrition.calculation.coverage).some((c) => c && c.known < c.total)
+    )
+      partialRecipes.push(recipe.title);
     for (const [key, value] of Object.entries(recipe.nutrition.nutrients))
       if (value !== null && value !== undefined) {
         totals[key as keyof Nutrients] = (totals[key as keyof Nutrients] ?? 0) + value * servings;
         coverage[key] = (coverage[key] ?? 0) + 1;
+        const c = recipe.nutrition.calculation?.coverage[key as keyof Nutrients];
+        if (!recipe.nutrition.calculation || (c && c.total > 0 && c.known === c.total))
+          completeCoverage[key] = (completeCoverage[key] ?? 0) + 1;
       }
   }
   return {
@@ -150,5 +160,7 @@ export function analyse(selections: Selection[], get: (id: string) => Recipe | n
     totals,
     coverage,
     missingRecipes,
+    partialRecipes,
+    completeCoverage,
   };
 }

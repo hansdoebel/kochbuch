@@ -29,6 +29,8 @@ jobs:
             script: lint:recipes
           - name: Source archive integrity
             script: lint:sources
+          - name: Nutrition reference integrity
+            script: lint:nutrition
           - name: Regression tests
             script: test
     steps:

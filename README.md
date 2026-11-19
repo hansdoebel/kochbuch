@@ -89,3 +89,7 @@ bun run start
 ```
 
 Danach `http://127.0.0.1:3000` öffnen. Für Details, Entwicklung und Prüfungen siehe [web/README.md](web/README.md). Kuratierte Zutaten sind skalierbar; Archivrezepte behalten ihre Originalmengen. Nährwertprofile sind noch nicht analysiert und werden nicht als Nullwerte ausgegeben. Der nächste Schritt zur Zutatenanalyse ist in [nutrition/README.md](nutrition/README.md) beschrieben. Die [Open-Source-Recherche](docs/webui-research.md) dokumentiert die Auswahl der Architektur.
+
+## Nährwerte und Wochenplanung
+
+Die Ernährungsansicht verwendet versionierte Referenzdaten des Max Rubner-Instituts: BLS 4.0 (CC BY 4.0), 7.140 Lebensmittel und 17 Nährstoffe pro 100 g. Freigegebene Zutatenzuordnungen erzeugen automatisch geschätzte Rezeptprofile; fehlende Mengen bleiben als Teilsummen erkennbar. Die Lebensmittel-Tabelle zeigt Herkunft und Lizenz. Ein Wochenvorschlag berücksichtigt Zeit, Abwechslung und gemeinsame Zutaten und lässt sich als Einkaufsliste exportieren. Erweiterung und regelmäßige Prüfung: [nutrition/README.md](nutrition/README.md).

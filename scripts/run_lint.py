@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Führt die drei unabhängigen Lint-Prüfungen parallel aus; jeder Fehler zählt."""
+"""Führt die unabhängigen Lint-Prüfungen parallel aus; jeder Fehler zählt."""
 
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
@@ -7,6 +7,7 @@ import subprocess
 
 ROOT = Path(__file__).resolve().parents[1]
 CHECKS = {
+    "Nährwertdaten": ["python3", "nutrition/check.py"],
     "Markdown": ["npm", "run", "lint:markdown"],
     "Rezeptdaten": ["python3", "scripts/lint_recipes.py"],
     "Quellenarchiv": ["python3", "scripts/check_sources.py"],

@@ -20,7 +20,8 @@ describe('catalog and indexed search', () => {
     const meta = catalog.meta();
     expect(meta.count).toBeGreaterThan(1700);
     expect(meta.readyCount).toBeGreaterThanOrEqual(6);
-    expect(meta.nutritionCount).toBe(readProfiles().size);
+    expect(meta.nutritionCount).toBeGreaterThanOrEqual(meta.readyCount);
+    expect(meta.nutritionCount).toBeGreaterThanOrEqual(readProfiles().size);
     expect(catalog.search({ q: 'linsen', ready: true }).items.map((r) => r.id)).toContain(
       'ready:rotes-linsen-curry'
     );

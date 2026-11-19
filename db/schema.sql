@@ -115,6 +115,102 @@ CREATE INDEX idx_recipe_ingredients_ingredient ON recipe_ingredients (ingredient
 CREATE INDEX idx_meal_plan_entries_date ON meal_plan_entries (plan_date);
 CREATE INDEX idx_meal_plan_entries_recipe ON meal_plan_entries (recipe_id);
 
+-- Versionierte Referenzdaten, immer je 100 g essbarer Anteil. Originalwerte
+-- und deren Herkunft bleiben getrennt von Zutatenzuordnungen und Schätzungen.
+CREATE TABLE nutrition_datasets (
+  id TEXT PRIMARY KEY,
+  publisher TEXT NOT NULL,
+  version TEXT NOT NULL,
+  source_url TEXT NOT NULL,
+  license TEXT NOT NULL,
+  citation TEXT NOT NULL,
+  retrieved_on DATE NOT NULL,
+  sha256 TEXT NOT NULL CHECK (length(sha256) = 64)
+);
+
+CREATE TABLE nutrition_nutrients (
+  code TEXT PRIMARY KEY,
+  name TEXT NOT NULL,
+  unit TEXT NOT NULL CHECK (unit IN ('kcal', 'g', 'mg', 'ug')),
+  source_code TEXT NOT NULL
+);
+
+CREATE TABLE nutrition_foods (
+  id TEXT PRIMARY KEY,
+  dataset_id TEXT NOT NULL REFERENCES nutrition_datasets (id),
+  source_food_code TEXT NOT NULL,
+  name TEXT NOT NULL,
+  name_en TEXT,
+  source_url TEXT NOT NULL,
+  UNIQUE (dataset_id, source_food_code)
+);
+
+CREATE TABLE nutrition_facts (
+  food_id TEXT NOT NULL REFERENCES nutrition_foods (id),
+  nutrient_code TEXT NOT NULL REFERENCES nutrition_nutrients (code),
+  amount_per_100g REAL CHECK (amount_per_100g IS NULL OR amount_per_100g >= 0),
+  -- Original-Herkunftskategorie und gegebenenfalls Literaturverweis des BLS.
+  derivation TEXT,
+  reference TEXT,
+  qualifier TEXT,
+  source_nutrient_code TEXT NOT NULL,
+  PRIMARY KEY (food_id, nutrient_code)
+);
+
+CREATE TABLE ingredient_nutrition_matches (
+  ingredient_id INTEGER PRIMARY KEY REFERENCES ingredients (id),
+  food_id TEXT NOT NULL REFERENCES nutrition_foods (id),
+  method TEXT NOT NULL CHECK (method IN ('reviewed', 'exact')),
+  reviewed_on DATE NOT NULL,
+  note TEXT NOT NULL
+);
+
+-- Gewogene essbare Mengen pro konkreter Rezeptzeile, etwa Zitronenschale.
+-- Keine globale Stück-/Volumen-Dichte erfinden oder Einkaufsmenge verändern.
+CREATE TABLE recipe_nutrition_weights (
+  recipe_ingredient_id INTEGER PRIMARY KEY REFERENCES recipe_ingredients (id),
+  edible_grams REAL NOT NULL CHECK (edible_grams >= 0),
+  source_url TEXT NOT NULL,
+  reviewed_on DATE NOT NULL,
+  note TEXT NOT NULL
+);
+
+CREATE INDEX idx_nutrition_foods_name ON nutrition_foods (name);
+CREATE INDEX idx_nutrition_matches_food ON ingredient_nutrition_matches (food_id);
+
+CREATE VIEW v_recipe_nutrition_lines AS
+SELECT ri.id AS recipe_ingredient_id, ri.recipe_id, ri.ingredient_id,
+  i.name AS ingredient_name, ri.optional, m.food_id,
+  CASE
+    WHEN w.edible_grams IS NOT NULL THEN w.edible_grams
+    WHEN ri.quantity IS NULL THEN NULL
+    WHEN iuc.base_unit_code = 'g' THEN ri.quantity * iuc.factor_to_base
+    WHEN u.base_unit_code = 'g' THEN ri.quantity * u.factor_to_base
+    ELSE NULL
+  END AS edible_grams,
+  CASE WHEN w.edible_grams IS NOT NULL THEN w.note
+       WHEN iuc.base_unit_code = 'g' THEN iuc.note ELSE NULL END AS weight_note
+FROM recipe_ingredients ri
+JOIN ingredients i ON i.id = ri.ingredient_id
+LEFT JOIN units u ON u.id = ri.unit_id
+LEFT JOIN ingredient_unit_conversions iuc ON iuc.ingredient_id = ri.ingredient_id AND iuc.unit_id = ri.unit_id
+LEFT JOIN ingredient_nutrition_matches m ON m.ingredient_id = ri.ingredient_id
+LEFT JOIN recipe_nutrition_weights w ON w.recipe_ingredient_id = ri.id;
+
+-- Bekannte Teilsummen; erst known_lines = total_lines ist vollständig.
+-- Optionale Zutaten zählen nicht zum Basisrezept. Keine Garverlustannahmen.
+CREATE VIEW v_recipe_nutrition AS
+SELECT r.id AS recipe_id, r.slug, n.code AS nutrient_code,
+  SUM(CASE WHEN l.edible_grams IS NOT NULL AND f.amount_per_100g IS NOT NULL
+      THEN l.edible_grams * f.amount_per_100g / 100.0 / r.servings ELSE NULL END) AS amount_per_serving,
+  COUNT(l.recipe_ingredient_id) AS total_lines,
+  SUM(CASE WHEN l.edible_grams IS NOT NULL AND f.amount_per_100g IS NOT NULL THEN 1 ELSE 0 END) AS known_lines
+FROM recipes r
+CROSS JOIN nutrition_nutrients n
+LEFT JOIN v_recipe_nutrition_lines l ON l.recipe_id = r.id AND l.optional = 0
+LEFT JOIN nutrition_facts f ON f.food_id = l.food_id AND f.nutrient_code = n.code
+GROUP BY r.id, r.slug, r.servings, n.code;
+
 -- Eine Zeile pro Zutat eines Planeintrags, schon auf die gewünschten Portionen skaliert.
 -- Die Summierung über den Zeitraum macht db/shopping_list.sql, damit das Datum
 -- vor dem GROUP BY gefiltert werden kann.

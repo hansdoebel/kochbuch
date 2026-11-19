@@ -50,6 +50,10 @@ def build() -> sqlite3.Connection:
     conn.execute("PRAGMA foreign_keys = ON")
     conn.executescript(SCHEMA.read_text(encoding="utf-8"))
     conn.executescript(SEED.read_text(encoding="utf-8"))
+    # Optional reference data stays in attributed text snapshots, never a binary DB.
+    sys.path.insert(0, str(ROOT.parent))
+    from nutrition.store import load_nutrition
+    load_nutrition(conn)
     conn.commit()
     return conn
 

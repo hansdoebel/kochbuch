@@ -14,9 +14,16 @@
   import { Input } from '$lib/components/ui/input';
   import { Progress } from '$lib/components/ui/progress';
   import { Badge } from '$lib/components/ui/badge';
+  import NutritionDatabase from './NutritionDatabase.svelte';
+  import WeeklyPlanner from './WeeklyPlanner.svelte';
   import { api, readLocal, writeLocal, localDate } from '$lib/client';
   import type { Analysis, BasketItem, CatalogMeta, Nutrients } from '$lib/types';
-  let { basket, meta }: { basket: BasketItem[]; meta: CatalogMeta | null } = $props();
+  let {
+    basket,
+    meta,
+    onUsePlan,
+  }: { basket: BasketItem[]; meta: CatalogMeta | null; onUsePlan: (items: BasketItem[]) => void } =
+    $props();
   type Meal = { entryId: string; id: string; title: string; servings: number; date: string };
   const stored = readLocal<Meal[]>('meals:v1', []);
   let meals = $state<Meal[]>(
@@ -148,8 +155,8 @@
       {meta?.nutritionCount ?? 0} von {meta?.count ?? '…'} Rezepten mit Nährwertprofil
     </strong>
     <p>
-      Die bisherigen Archive enthalten noch keine analysierten Nährwerte. Fehlende Angaben bleiben
-      unbekannt. Persönliche Ziele legst du selbst fest.
+      Die Zutatenbilanz nutzt BLS-Referenzdaten. Unvollständige Analysen bleiben als Teilsummen
+      erkennbar. Persönliche Ziele legst du selbst fest.
     </p>
   </div>
 </div>
@@ -168,14 +175,14 @@
       </div>
       <p class="metric-caption">
         {known
-          ? `${known} von ${analysis?.selectedCount} Rezepten erfasst`
+          ? `${analysis?.completeCoverage[metric.key] ?? 0}/${analysis?.selectedCount ?? 0} Rezepte vollständig · ${known} mit Teilwerten`
           : 'Noch keine Nährwerte erfasst'}
       </p>
       {#if known && goal && value !== null && value !== undefined}<Progress
           value={Math.min(100, (value / goal) * 100)}
           aria-label={metric.name + ' im Verhältnis zu deinem Ziel'}
         />
-        <p class="goal-caption">Bekannte Menge · Ziel {fmt(goal)} {metric.unit}</p>{:else}<div
+        <p class="goal-caption">Bekannte Teilsumme · Ziel {fmt(goal)} {metric.unit}</p>{:else}<div
           class="unknown-progress"
           aria-hidden="true"
         ></div>
@@ -222,16 +229,20 @@
         {analysis.profiledCount} Rezepte mit Profil, davon {analysis.verifiedCount} verifiziert. Unbekannte
         Nährwerte fehlen in der Summe; Teilsummen sind keine vollständige Tagesbilanz.
       </p>{/if}
+    {#if analysis?.partialRecipes.length}<p class="notice">
+        Teilweise erfasste Zutaten: {analysis.partialRecipes.join(', ')}. Die angezeigten Mengen
+        sind bekannte Teilsummen.
+      </p>{/if}
     <details class="micros" open={!!analysis?.profiledCount}>
       <summary>Weitere Makro- und Mikronährstoffe</summary>
       <table>
-        <thead><tr><th>Nährstoff</th><th>Bekannte Menge</th><th>Erfasst</th></tr></thead><tbody>
+        <thead><tr><th>Nährstoff</th><th>Bekannte Menge</th><th>Vollständig</th></tr></thead><tbody>
           {#each micros as [key, label, unit]}<tr>
               <td>{label}</td><td>
                 {analysis?.coverage[key]
                   ? fmt(analysis.totals[key]!) + ' ' + unit
                   : 'Nicht analysiert'}
-              </td><td>{analysis?.coverage[key] ?? 0}/{analysis?.selectedCount ?? 0}</td>
+              </td><td>{analysis?.completeCoverage[key] ?? 0}/{analysis?.selectedCount ?? 0}</td>
             </tr>{/each}
         </tbody>
       </table>
@@ -310,3 +321,6 @@
       </label>{/each}
   </div>
 </Card>
+
+<WeeklyPlanner {onUsePlan} />
+<NutritionDatabase />

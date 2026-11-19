@@ -3,6 +3,13 @@ import { createHash } from 'node:crypto';
 import { readFileSync, readdirSync, mkdirSync, statSync } from 'node:fs';
 import { resolve, join, sep } from 'node:path';
 import { z } from 'zod';
+import {
+  nutritionFiles,
+  loadNutrition,
+  calculatedProfile,
+  readFoodAliases,
+  archiveProfile,
+} from './nutrition';
 import type { Recipe, RecipeSummary, Ingredient, NutritionProfile } from '../lib/types';
 
 export const REPO_ROOT = resolve(import.meta.dir, '../../..');
@@ -77,6 +84,7 @@ function collectFiles(root: string): string[] {
   const files = ['db/schema.sql', 'db/seed.sql', 'nutrition/recipe-profiles.json'].map((f) =>
     join(root, f)
   );
+  files.push(...nutritionFiles(root));
   files.push(
     ...readdirSync(join(root, 'rezepte'))
       .filter((f) => f.endsWith('.md'))
@@ -99,13 +107,20 @@ function collectFiles(root: string): string[] {
 }
 export class Catalog {
   db: Database;
+  nutritionDB: Database;
   constructor(
     public root = REPO_ROOT,
     cache = true
   ) {
+    const seed = new Database(':memory:');
+    seed.exec('PRAGMA foreign_keys=ON');
+    seed.exec(readFileSync(join(root, 'db/schema.sql'), 'utf8'));
+    seed.exec(readFileSync(join(root, 'db/seed.sql'), 'utf8'));
+    loadNutrition(seed, root);
+    this.nutritionDB = seed;
     const files = collectFiles(root);
     const fingerprint = createHash('sha256')
-      .update('web-catalog-v3')
+      .update('web-catalog-v4-nutrition')
       .update(
         files
           .map((f) => {
@@ -129,9 +144,8 @@ export class Catalog {
     )
       return;
     const profiles = readProfiles(root);
-    const seed = new Database(':memory:');
-    seed.exec(readFileSync(join(root, 'db/schema.sql'), 'utf8'));
-    seed.exec(readFileSync(join(root, 'db/seed.sql'), 'utf8'));
+    const aliases = readFoodAliases(seed, root);
+
     this.db.transaction(() => {
       this.db.run('DROP TABLE IF EXISTS search; DROP TABLE IF EXISTS cards;');
       this.db.run(
@@ -194,6 +208,7 @@ export class Catalog {
         const sourceUrl = urlIn(row.source ?? '');
         if (sourceUrl) curatedUrls.add(sourceUrl);
         const id = 'ready:' + row.slug;
+        const nutrition = profiles.get(id) ?? calculatedProfile(seed, row.id, row.slug);
         const host = sourceUrl ? new URL(sourceUrl).hostname.replace(/^www\./, '') : null;
         const publisher =
           host === 'rainbowplantlife.com' ? 'Rainbow Plant Life' : (host ?? row.source);
@@ -213,7 +228,7 @@ export class Catalog {
           minutes: row.prep_minutes + row.cook_minutes,
           ingredientCount: rows.length,
           language: 'de',
-          hasNutrition: profiles.has(id),
+          hasNutrition: !!nutrition,
           missingFields: [],
           tags: (
             seed
@@ -226,7 +241,7 @@ export class Catalog {
           structuredIngredients: structured,
           instructions,
           notes,
-          nutrition: profiles.get(id) ?? null,
+          nutrition,
         });
       }
       for (const file of files.filter(
@@ -245,6 +260,9 @@ export class Catalog {
               .digest('hex')
               .slice(0, 24);
           if (this.db.query('SELECT id FROM cards WHERE id=?').get(id)) continue;
+          const nutrition =
+            profiles.get(id) ??
+            archiveProfile(seed, id, card.ingredients, servingCount(card.yield), aliases);
           add({
             authors: card.authors ?? [],
             id,
@@ -259,14 +277,14 @@ export class Catalog {
             minutes: minuteCount(card.total_time),
             ingredientCount: card.ingredients.length,
             language: card.language ?? 'en',
-            hasNutrition: profiles.has(id),
+            hasNutrition: !!nutrition,
             missingFields: card.missing_fields ?? [],
             tags: [],
             ingredients: card.ingredients,
             structuredIngredients: [],
             instructions: card.instructions,
             notes: [...(data.page_recipe_notes ?? []), ...(data.extraction_warnings ?? [])],
-            nutrition: profiles.get(id) ?? null,
+            nutrition,
           });
         }
       }
@@ -277,7 +295,13 @@ export class Catalog {
         .query('INSERT OR REPLACE INTO cache_meta VALUES (?,?)')
         .run('fingerprint', fingerprint);
     })();
-    seed.close();
+  }
+  readyRecipes(): Recipe[] {
+    return (
+      this.db.query('SELECT detail FROM cards WHERE ready=1 ORDER BY id').all() as {
+        detail: string;
+      }[]
+    ).map((r) => JSON.parse(r.detail));
   }
   get(id: string): Recipe | null {
     const row = this.db.query('SELECT detail FROM cards WHERE id=?').get(id) as {
@@ -344,5 +368,6 @@ export class Catalog {
   }
   close() {
     this.db.close();
+    this.nutritionDB.close();
   }
 }

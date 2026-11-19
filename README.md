@@ -96,3 +96,5 @@ Die Ernährungsansicht verwendet versionierte Referenzdaten des Max Rubner-Insti
 
 
 Die Ernährungsansicht bietet Trainings-/Ruhetagsprofile, Zutatenfilter, automatische proportionale Portionenvorschläge und acht quellenverlinkte Ernährungsstrategien. Persönliche Zielportionen und Haushaltsmenge sind getrennt; unvollständige Zutatenwerte blockieren die Anpassung, bis ausdrücklich eine verfügbare Herausgeber-Schätzung als separate Basis gewählt wird. [Prüfung und Bedienung](docs/nutrition-audit-and-diet-plans.md).
+
+Die [Android-App](mobile/README.md) bringt den Rezeptkatalog offline mit und unterstützt Synchronisierung, Wochenplanung, Verzehranalyse und persönliche Tagesprofile.

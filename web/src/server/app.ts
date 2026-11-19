@@ -1,5 +1,6 @@
 import { resolve, sep } from 'node:path';
 import { z } from 'zod';
+import { mobileSnapshot } from './mobile-snapshot';
 import { Catalog } from './catalog';
 import { nutritionFoods, nutritionStatus } from './nutrition';
 import { suggestPlan } from './planner';
@@ -12,9 +13,22 @@ const inputSchema = z.object({
   includeOptional: z.boolean().optional(),
 });
 export function createApp(catalog: Catalog, dist = resolve(import.meta.dir, '../../dist')) {
+  let snapshot: ReturnType<typeof mobileSnapshot> | undefined;
   return async function handle(req: Request): Promise<Response> {
     const url = new URL(req.url);
     try {
+      if (url.pathname === '/api/mobile/catalog' && req.method === 'GET') {
+        snapshot ??= mobileSnapshot(catalog);
+        const headers = {
+          ETag: snapshot.etag,
+          'Cache-Control': 'no-cache',
+          'Content-Type': 'application/json',
+          'Content-Encoding': 'gzip',
+        };
+        if (req.headers.get('if-none-match') === snapshot.etag)
+          return new Response(null, { status: 304, headers });
+        return new Response(snapshot.gzip, { headers });
+      }
       if (url.pathname === '/api/diet/options' && req.method === 'GET')
         return Response.json({
           recipes: catalog.readyRecipes().map(({ id, title, source, ready, servings, tags }) => ({

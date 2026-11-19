@@ -343,6 +343,13 @@ export class Catalog {
         .run('fingerprint', fingerprint);
     })();
   }
+  mobileRecipes(): Recipe[] {
+    return (
+      this.db.query('SELECT detail FROM cards ORDER BY ready DESC,title,id').all() as {
+        detail: string;
+      }[]
+    ).map((row) => JSON.parse(row.detail));
+  }
   readyRecipes(): Recipe[] {
     return (
       this.db.query('SELECT detail FROM cards WHERE ready=1 ORDER BY id').all() as {

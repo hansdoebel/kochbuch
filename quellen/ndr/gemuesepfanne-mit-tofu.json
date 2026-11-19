@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.ndr.de/ratgeber/kochen/rezepte/Gemuesepfanne-mit-Tofu,rezept3014.html",
+  "recipes": [
+    {
+      "name": "Gemüsepfanne mit Tofu",
+      "source_url": "https://www.ndr.de/ratgeber/kochen/rezepte/Gemuesepfanne-mit-Tofu,rezept3014.html",
+      "recipe_id": "https://www.ndr.de/ratgeber/kochen/rezepte/Gemuesepfanne-mit-Tofu,rezept3014.html",
+      "authors": [
+        "ndr.de"
+      ],
+      "publisher": "NDR",
+      "language": "de",
+      "yield": 1,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "1 Karotte",
+        "0.5 Zucchini",
+        "1 kleine Spitzpaprika",
+        "1 Lauchzwiebel",
+        "150 g Basilikum-Tofu",
+        "alternativ: gekochte Hülsenfrüchte",
+        "1 TL Olivenöl",
+        "1 Prise Salz",
+        "1 Schuss Sojasoße",
+        "1 TL getrocknete italienische Kräuter"
+      ],
+      "instructions": [
+        "Gemüse putzen und klein schneiden; Lauchzwiebel in Ringe, Tofu in Würfel teilen.",
+        "Gemüse im Olivenöl bei mittlerer Hitze braten. Salzen, mit Kräutern und nach Wunsch Sojasoße würzen; Tofu zuletzt kurz mitbraten."
+      ],
+      "missing_fields": [],
+      "publisher_nutrition": {
+        "basis": "per_serving",
+        "origin": "publisher_estimate",
+        "sourceUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Gemuesepfanne-mit-Tofu,rezept3014.html",
+        "nutrients": {
+          "energy_kcal": 296.0,
+          "protein_g": 26.0,
+          "fat_g": 14.0,
+          "publisher_carbohydrates_g": 15.0,
+          "fiber_g": 7.0
+        },
+        "note": "NDR-Schätzung pro veröffentlichter Portion; Kohlenhydratdefinition nicht unabhängig geprüft. Nicht mit BLS-Teilsummen verrechnen.",
+        "reviewedAt": "2026-11-19"
+      },
+      "instruction_representation": "editorial_summary"
+    }
+  ],
+  "page_recipe_notes": [
+    "Zubereitung redaktionell gekürzt und neu formuliert; keine wörtliche Volltextkopie."
+  ],
+  "extraction_warnings": [
+    "Sichtbare Zutaten statt verlustbehaftetem JSON-LD; Alternativen bleiben ausdrücklich erhalten."
+  ],
+  "reviewed_source_digest": "1670b3d110673678c5cedefdb1c2e22fcc19fe50b0e07ac86dc5208f72925e94"
+}

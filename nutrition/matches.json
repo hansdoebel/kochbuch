@@ -384,6 +384,206 @@
       "method": "reviewed",
       "reviewed_on": "2026-11-19",
       "note": "Frische Petersilienblätter; fehlende Menge bleibt offen."
+    },
+    {
+      "ingredient_id": 97,
+      "ingredient_name": "Blumenkohl",
+      "food_id": "bls-4.0:G311100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Blumenkohl roh vor dem Garen; keine Garverluste pauschal angesetzt."
+    },
+    {
+      "ingredient_id": 99,
+      "ingredient_name": "Rapsöl",
+      "food_id": "bls-4.0:Q180000",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Rapsöl als Referenz; EL bleiben ohne angenommene Dichte."
+    },
+    {
+      "ingredient_id": 100,
+      "ingredient_name": "Meersalz",
+      "food_id": "bls-4.0:R111000",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Unjodiertes Speisesalz als generische Referenz; Produkt und Jodgehalt können abweichen."
+    },
+    {
+      "ingredient_id": 101,
+      "ingredient_name": "Zuckerschoten",
+      "food_id": "bls-4.0:G761100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Frische Zuckererbsenschoten roh; nicht reife Erbsen oder gegarte Zuckererbsen."
+    },
+    {
+      "ingredient_id": 102,
+      "ingredient_name": "Tofu natur",
+      "food_id": "bls-4.0:H861000",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Generischer Naturtofu vor dem Garen; keine Gleichsetzung mit Seidentofu, Räucher- oder Basilikum-Tofu."
+    },
+    {
+      "ingredient_id": 103,
+      "ingredient_name": "Kokosflocken",
+      "food_id": "bls-4.0:H150400",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Geraspeltes getrocknetes Kokosfruchtfleisch; Esslöffelgewicht bleibt offen."
+    },
+    {
+      "ingredient_id": 105,
+      "ingredient_name": "Lauchzwiebel",
+      "food_id": "bls-4.0:G482100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Rohe Lauchzwiebel; Stückgewicht bleibt offen."
+    },
+    {
+      "ingredient_id": 109,
+      "ingredient_name": "Frühlingszwiebeln",
+      "food_id": "bls-4.0:G482100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Rohe Frühlingszwiebeln; Bund erhält kein angenommenes Gewicht."
+    },
+    {
+      "ingredient_id": 107,
+      "ingredient_name": "Sojasoße",
+      "food_id": "bls-4.0:R143000",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Generische Sojasoße; Marke, Salzgehalt und Gewicht je Schuss sind unbekannt."
+    },
+    {
+      "ingredient_id": 110,
+      "ingredient_name": "Zucchino",
+      "food_id": "bls-4.0:G582100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Rohe Zucchini; originale Einzahl Zucchino beibehalten."
+    },
+    {
+      "ingredient_id": 111,
+      "ingredient_name": "Champignons",
+      "food_id": "bls-4.0:K701100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Champignons roh, geputzte essbare Menge."
+    },
+    {
+      "ingredient_id": 112,
+      "ingredient_name": "Lachsfilet",
+      "food_id": "bls-4.0:T410100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Generischer roher Lachs als Referenz für küchenfertiges Filet; Herkunft und Fettgehalt können abweichen."
+    },
+    {
+      "ingredient_id": 117,
+      "ingredient_name": "Eiweißbrot",
+      "food_id": "bls-4.0:B881100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Generisches Proteinbrot; Scheibenmasse und konkretes Produkt bleiben offen."
+    },
+    {
+      "ingredient_id": 119,
+      "ingredient_name": "Skyr",
+      "food_id": "bls-4.0:M710100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Generischer naturbelassener Skyr; EL werden nicht in Gramm umgerechnet."
+    },
+    {
+      "ingredient_id": 120,
+      "ingredient_name": "Magerquark",
+      "food_id": "bls-4.0:M713100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Speisequark Magerstufe; keine Grammannahme je EL."
+    },
+    {
+      "ingredient_id": 122,
+      "ingredient_name": "Kohlrabi",
+      "food_id": "bls-4.0:G331100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Kohlrabi roh als geraspelte Frühstückszutat."
+    },
+    {
+      "ingredient_id": 123,
+      "ingredient_name": "Pastinake",
+      "food_id": "bls-4.0:G640100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Pastinake roh; keine gekochte Referenz."
+    },
+    {
+      "ingredient_id": 124,
+      "ingredient_name": "Rote Bete",
+      "food_id": "bls-4.0:G613100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Rote Bete roh; keine gekochte oder eingelegte Ware."
+    },
+    {
+      "ingredient_id": 125,
+      "ingredient_name": "Fenchel",
+      "food_id": "bls-4.0:G430100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Gemüsefenchel roh, nicht Fenchelblatt oder Gewürzfenchel."
+    },
+    {
+      "ingredient_id": 126,
+      "ingredient_name": "Apfel",
+      "food_id": "bls-4.0:F110100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Roher Apfel mit Schale; Gewicht je Viertel nicht angenommen."
+    },
+    {
+      "ingredient_id": 127,
+      "ingredient_name": "Birne",
+      "food_id": "bls-4.0:F130100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Rohe Birne; Viertel bleiben ohne pauschale Grammzahl."
+    },
+    {
+      "ingredient_id": 128,
+      "ingredient_name": "Pflaume",
+      "food_id": "bls-4.0:F220100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Rohe Pflaume; keine Umbenennung in Zwetschke."
+    },
+    {
+      "ingredient_id": 129,
+      "ingredient_name": "Heidelbeeren",
+      "food_id": "bls-4.0:F304100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Frische rohe Heidelbeeren; Gewicht je EL bleibt offen."
+    },
+    {
+      "ingredient_id": 130,
+      "ingredient_name": "Granatapfelkerne",
+      "food_id": "bls-4.0:F506100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Essbarer Anteil von rohem Granatapfel, ohne Schale; EL-Gewicht bleibt offen."
+    },
+    {
+      "ingredient_id": 131,
+      "ingredient_name": "Kürbiskerne",
+      "food_id": "bls-4.0:H310100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Kürbiskerne ohne Schale, nicht zusätzlich geröstet; EL-Gewicht bleibt offen."
     }
   ],
   "weights": []

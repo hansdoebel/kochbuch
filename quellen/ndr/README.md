@@ -1,14 +1,19 @@
 # NDR: kuratierte Fitness-Auswahl
 
-Drei ausdrücklich ausgewählte öffentliche NDR-Rezeptkarten, geprüft am 19. November 2026. **Kein Crawl des gesamten NDR-Archivs.** Die Auswahl steht in `selection.json`, mit konkreter URL, Begründung, Prüfdatum und Fingerabdruck des geprüften Karteninhalts.
+Acht ausdrücklich ausgewählte öffentliche NDR-Rezeptkarten, geprüft am 19. November 2026. **Kein Crawl des gesamten NDR-Archivs.** Die Auswahl steht in `selection.json`, mit konkreter URL, Begründung, Prüfdatum und Fingerabdruck des geprüften Karteninhalts.
 
 | Rezept | Urheber laut Karte | Portionen | Gesamtzeit | NDR-Schätzung pro Portion |
 | --- | --- | ---: | ---: | --- |
 | [Protein-Bowl mit Linsen und Kichererbsen](https://www.ndr.de/ratgeber/kochen/rezepte/gesunde-protein-bowl-mit-linsen-und-kichererbsen,proteinbowl-102.html) | Team Ernährungs-Docs | 2 | 30 Min. | 590 kcal · 28 g Protein · 18 g Ballaststoffe |
 | [Chili sin Carne mit Sojageschnetzeltem](https://www.ndr.de/ratgeber/kochen/rezepte/Chili-sin-Carne-mit-Sojageschnetzeltem,chilisincarne112.html) | ndr.de (Organisation; keine persönliche Byline) | 4 | 40 Min. | 484 kcal · 46 g Protein · 23 g Ballaststoffe |
 | [Bunte Quinoa-Pfanne mit Hähnchen](https://www.ndr.de/ratgeber/kochen/rezepte/bunte-quinoa-pfanne-mit-haehnchen-gemuese,quinoapfanne-100.html) | Team Ernährungs-Docs | 2 | 40 Min. | 582 kcal · 42 g Protein · 11 g Ballaststoffe |
+| [Blumenkohl-Curry mit Tofu](https://www.ndr.de/ratgeber/kochen/rezepte/Blumenkohl-Curry-mit-Tofu,rezept5548.html) | ndr.de | 4 | 30 Min. | 360 kcal · 26 g Protein · 12 g Ballaststoffe |
+| [Gemüsepfanne mit Tofu](https://www.ndr.de/ratgeber/kochen/rezepte/Gemuesepfanne-mit-Tofu,rezept3014.html) | ndr.de | 1 | 15 Min. | 296 kcal · 26 g Protein · 7 g Ballaststoffe |
+| [Lachs-Päckchen mit Gemüse und Feta](https://www.ndr.de/ratgeber/kochen/rezepte/Lachs-Paeckchen-mit-Gemuese-und-Feta,rezept2548.html) | ndr.de | 2 | 30 Min. | 473 kcal · 42 g Protein · 6 g Ballaststoffe |
+| [Strammer Max vegetarisch](https://www.ndr.de/ratgeber/kochen/rezepte/Strammer-Max-vegetarisch,strammermax132.html) | ndr.de | 1 | 15 Min. | 410 kcal · 32 g Protein · 6 g Ballaststoffe; ohne Salat |
+| [Quarkfrühstück mit Gemüse und Obst („Doc-Klasen-Spezial“)](https://www.ndr.de/ratgeber/kochen/rezepte/Quarkfruehstueck-mit-Gemuese-und-Obst-Doc-Klasen-Fruehstueck,fruehstueck2230.html) | Jörn Klasen | 1 | 10 Min. | 653 kcal · 33 g Protein · 17 g Ballaststoffe |
 
-Alle drei stehen auch als gekürzte, neu formulierte Kochbuchfassungen unter `rezepte/` und in `db/seed.sql`. Damit funktionieren Suche, skalierbare Einkaufsliste und Wochenplan unmittelbar. Ein Original wird nicht doppelt als Archivkarte angezeigt.
+Alle acht stehen auch als gekürzte, neu formulierte Kochbuchfassungen unter `rezepte/` und in `db/seed.sql`. Damit funktionieren Suche, skalierbare Einkaufsliste und Wochenplan unmittelbar. Ein Original wird nicht doppelt als Archivkarte angezeigt.
 
 ## Erfassung und Wiederholung
 
@@ -33,3 +38,12 @@ Für neue Einträge: Originalseite öffnen, die vollständige Karte prüfen, Aus
 - Die UI zeigt NDR-Schätzwerte mit Quelle getrennt von der BLS-Zutatenbilanz. Es werden weder fehlende Mikronährwerte mit Null aufgefüllt noch NDR-Makros mit BLS-Teilsummen vermischt. Die Kohlenhydratdefinition ist als Herausgeberangabe gekennzeichnet. Diese Schätzwerte schalten keine Ernährungs-Zieloptimierung für unvollständige Zutatenprofile frei.
 
 Andere recherchierte Websites bleiben in [der Forschungsdatei](../../docs/fitness-recipes-and-preferences.md) und [der Metadaten-Shortlist](../../docs/fitness-recipe-shortlist.json) vorgemerkt; sie werden nicht importiert.
+
+## Zweite Auswahlcharge
+
+Fünf weitere Karten wurden einzeln geprüft, statt eine Sitemap zu übernehmen: zwei pflanzliche Gemüsegerichte, ein Fischgericht, eine vegetarische Ei-/Tofu-Mahlzeit und ein Frühstück. Alle erreichen laut Herausgeber mindestens 26 g Protein und 6 g Ballaststoffe pro Portion. Diese Quellenwerte bleiben Schätzungen, keine unabhängige Nährwertprüfung.
+
+- Das Eiweißbrot kann laut Quelle durch Vollkornbrot ersetzt werden; dies verändert die Nährwerte. Die zusätzliche Salatbeilage bleibt ausdrücklich außerhalb der veröffentlichten Portion.
+- Basilikum-Tofu, Räuchertofu, Krabben und die unbestimmte Nussmischung erhalten keine erfundene Produktzuordnung. Bei der Gemüsepfanne sind Hülsenfrüchte ein Ersatz, keine zusätzliche Zutat.
+- Scheibe, Schuss und Spritzer sind qualitative Einheiten ohne Grammdichte. Optionale Sojasoße wird nicht automatisch als bekannte Masse berechnet.
+- Der Parser erkennt zusätzlich ältere NDR-Überschriften und bewahrt Zusätze wie „ohne Salat“. Die bisherigen drei Quell-Fingerabdrücke bleiben unverändert.

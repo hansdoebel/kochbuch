@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.ndr.de/ratgeber/kochen/rezepte/Strammer-Max-vegetarisch,strammermax132.html",
+  "recipes": [
+    {
+      "name": "Strammer Max vegetarisch",
+      "source_url": "https://www.ndr.de/ratgeber/kochen/rezepte/Strammer-Max-vegetarisch,strammermax132.html",
+      "recipe_id": "https://www.ndr.de/ratgeber/kochen/rezepte/Strammer-Max-vegetarisch,strammermax132.html",
+      "authors": [
+        "ndr.de"
+      ],
+      "publisher": "NDR",
+      "language": "de",
+      "yield": 1,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT15M",
+      "ingredients": [
+        "80 g geräucherter Tofu",
+        "1 TL Bratöl",
+        "1 große Scheibe Eiweißbrot",
+        "alternativ: Vollkornbrot",
+        "1 Tomate",
+        "2 (Größe S) Eier",
+        "Salz",
+        "Pfeffer"
+      ],
+      "instructions": [
+        "Tofu trocken pressen, in Scheiben schneiden und im Bratöl knusprig braten. Anschließend die Eier als Spiegeleier zubereiten und würzen.",
+        "Tomate in Scheiben schneiden. Brot mit Tofu, Tomate und Eiern belegen; eine zusätzliche Salatbeilage bei Bedarf separat einplanen."
+      ],
+      "missing_fields": [],
+      "publisher_nutrition": {
+        "basis": "per_serving",
+        "origin": "publisher_estimate",
+        "sourceUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Strammer-Max-vegetarisch,strammermax132.html",
+        "nutrients": {
+          "energy_kcal": 410.0,
+          "protein_g": 32.0,
+          "fat_g": 26.0,
+          "publisher_carbohydrates_g": 13.0,
+          "fiber_g": 6.0
+        },
+        "note": "NDR-Schätzung pro veröffentlichter Portion; Kohlenhydratdefinition nicht unabhängig geprüft. Nicht mit BLS-Teilsummen verrechnen. Nährwertbasis laut Quelle: Nährwerte pro Portion (ohne Salat):",
+        "reviewedAt": "2026-11-19"
+      },
+      "instruction_representation": "editorial_summary"
+    }
+  ],
+  "page_recipe_notes": [
+    "Zubereitung redaktionell gekürzt und neu formuliert; keine wörtliche Volltextkopie."
+  ],
+  "extraction_warnings": [
+    "Sichtbare Zutaten statt verlustbehaftetem JSON-LD; Alternativen bleiben ausdrücklich erhalten."
+  ],
+  "reviewed_source_digest": "713fe046507395cf1a82ee8fc9ee3f3256f57c36fa2966c39d338bdc14030ae5"
+}

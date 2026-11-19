@@ -23,6 +23,14 @@ class NdrTests(unittest.TestCase):
         self.assertEqual(card['publisher_nutrition']['nutrients']['publisher_carbohydrates_g'],45)
         self.assertEqual(card['publisher_nutrition']['origin'],'publisher_estimate')
 
+    def test_heading_variants_preserve_an_excluded_side(self):
+        html=page().replace('id="Naehrwerte-pro-Portion"','id="Naehrwerte-pro-Portion-ohne-Salat"').replace('Nährwerte pro Portion</h2>','Nährwerte pro Portion (ohne Salat)</h2>')
+        nutrition=extract_ndr(html,URL)['recipes'][0]['publisher_nutrition']
+        self.assertEqual(nutrition['nutrients']['protein_g'],28)
+        self.assertIn('ohne Salat',nutrition['note'])
+        decomposed=page().replace('id="Naehrwerte-pro-Portion"','id="Nahrwerte-pro-Portion"').replace('Nährwerte pro Portion</h2>','Nährwerte pro Portion</h2>')
+        self.assertEqual(extract_ndr(decomposed,URL)['recipes'][0]['publisher_nutrition']['nutrients']['fiber_g'],18)
+
     def test_canonical_host_and_serving_disagreement_fail(self):
         with self.assertRaises(ValueError):extract_ndr(page().replace(URL,'https://other.example/test'),URL)
         with self.assertRaises(ValueError):extract_ndr(page(servings=4),URL)

@@ -1,0 +1,80 @@
+{
+  "source_url": "https://www.ndr.de/ratgeber/kochen/rezepte/Tofu-mit-Pfannengemuese-und-Pilzen,tofupfanne114.html",
+  "recipes": [
+    {
+      "name": "Gebratener Tofu mit Pfannengemüse und Pilzen",
+      "source_url": "https://www.ndr.de/ratgeber/kochen/rezepte/Tofu-mit-Pfannengemuese-und-Pilzen,tofupfanne114.html",
+      "recipe_id": "https://www.ndr.de/ratgeber/kochen/rezepte/Tofu-mit-Pfannengemuese-und-Pilzen,tofupfanne114.html",
+      "authors": [
+        "Tarik Rose"
+      ],
+      "publisher": "NDR",
+      "language": "de",
+      "yield": 4,
+      "prep_time": null,
+      "cook_time": null,
+      "total_time": "PT30M",
+      "ingredients": [
+        "2 Scheiben Natur-Tofu",
+        "1 TL Honig",
+        "1 Chilischote",
+        "2.5 EL gute Sojasoße",
+        "3 Kaffir-Limettenblätter",
+        "2 rote Zwiebeln",
+        "150 g frische Sojabohnen",
+        "2 Möhren",
+        "4 Stängel Stangen-Brokkoli",
+        "alternativ: normaler Brokkoli",
+        "4 Stangen grüner Spargel",
+        "1 kleines Stück Blumenkohl",
+        "2 Stangen Staudensellerie",
+        "1 Stück Ingwer",
+        "2 Zehen Knoblauch",
+        "1 Limette",
+        "Olivenöl",
+        "Salz",
+        "Pfeffer",
+        "2 EL gerösteter Sesam",
+        "1 Bund Koriander",
+        "100 g Shiitake-Pilze",
+        "100 g andere Pilze",
+        "1 Zehe Knoblauch",
+        "1 Stück Ingwer",
+        "1 Limette",
+        "Salz",
+        "Pfeffer",
+        "Olivenöl",
+        "Sojasoße"
+      ],
+      "instructions": [
+        "Tofu in Scheiben schneiden. Mit Honig, Chili, Sojasoße und Limettenblättern mehrere Stunden, besser über Nacht, marinieren.",
+        "Gemüse putzen und klein schneiden, Sojabohnen aus den Schoten lösen; Ingwer und Knoblauch hacken.",
+        "Gemüse außer Spargel und Bohnen im Öl bissfest braten; Spargel und Bohnen in den letzten Minuten zugeben. Mit Knoblauch, Ingwer und Limette würzen, Tofu und etwas Marinade bei mäßiger Hitze zugeben.",
+        "Shiitake-Stiele entfernen. Pilze in einer zweiten Pfanne anbraten, mit Knoblauch, Ingwer, Limette und Sojasoße würzen. Mit Gemüse und Tofu anrichten; Sesam und Koriander darübergeben."
+      ],
+      "missing_fields": [],
+      "publisher_nutrition": {
+        "basis": "per_serving",
+        "origin": "publisher_estimate",
+        "sourceUrl": "https://www.ndr.de/ratgeber/kochen/rezepte/Tofu-mit-Pfannengemuese-und-Pilzen,tofupfanne114.html",
+        "nutrients": {
+          "energy_kcal": 385.0,
+          "protein_g": 28.0,
+          "fat_g": 19.0,
+          "publisher_carbohydrates_g": 22.0,
+          "fiber_g": 10.0
+        },
+        "note": "NDR-Schätzung pro veröffentlichter Portion; Kohlenhydratdefinition nicht unabhängig geprüft. Nicht mit BLS-Teilsummen verrechnen. Nährwertbasis laut Quelle: Nährwerte (pro Portion):",
+        "reviewedAt": "2026-11-19"
+      },
+      "instruction_representation": "editorial_summary"
+    }
+  ],
+  "page_recipe_notes": [
+    "Zubereitung redaktionell gekürzt und neu formuliert; keine wörtliche Volltextkopie."
+  ],
+  "extraction_warnings": [
+    "Sichtbare Zutaten statt verlustbehaftetem JSON-LD; Alternativen bleiben ausdrücklich erhalten."
+  ],
+  "reviewed_source_digest": "c1a88b2128845f17e2ec2019342e3c43ffe1f84a16c81228bbba652ccbd2611e"
+}

@@ -58,3 +58,8 @@ class NdrTests(unittest.TestCase):
         self.assertEqual(lint_text(text,p.stem),[])
         self.assertTrue(lint_text(text.replace('total_minutes: 30','total_minutes: -1'),p.stem))
         self.assertTrue(lint_text(text.replace('cook_minutes: unbekannt','cook_minutes: -1'),p.stem))
+
+    def test_author_array_preserves_recipe_byline(self):
+        card=extract_ndr(page(author=[{'@type':'Person','name':'Tarik Rose'}]),URL)['recipes'][0]
+        self.assertEqual(card['authors'],['Tarik Rose'])
+        with self.assertRaises(ValueError):extract_ndr(page(author=[{'@type':'ImageObject','url':'https://example.com'}]),URL)

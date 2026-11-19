@@ -1,10 +1,10 @@
 {
   "publisher": "NDR",
   "sitemap_url": null,
-  "scraped_at": "2026-11-19T18:36:21.370983+00:00",
+  "scraped_at": "2026-11-19T19:37:08.163195+00:00",
   "scope": "Ausschließlich einzeln geprüfte Fitness-Rezepte; kein Sitemap-/Vollarchiv-Import.",
-  "page_count": 8,
-  "recipe_count": 8,
+  "page_count": 11,
+  "recipe_count": 11,
   "pages": [
     {
       "url": "https://www.ndr.de/ratgeber/kochen/rezepte/Blumenkohl-Curry-mit-Tofu,rezept5548.html",
@@ -42,11 +42,32 @@
       "sha256": "8ffcf95f4deb7ead9425d721f3bba407e123c56aef173274527eda7efc960758"
     },
     {
+      "url": "https://www.ndr.de/ratgeber/kochen/rezepte/Quinoa-Bowl-mit-Tofu-in-Sesamkruste-und-Brokkoli,rezept2868.html",
+      "status": "recipe",
+      "file": "quinoa-bowl-mit-tofu-in-sesamkruste-und-brokkoli.json",
+      "recipe_count": 1,
+      "sha256": "654d753bcf87cd168b7b6bd3da7567af3cba8cc4c0437d146de0420001feef76"
+    },
+    {
       "url": "https://www.ndr.de/ratgeber/kochen/rezepte/Strammer-Max-vegetarisch,strammermax132.html",
       "status": "recipe",
       "file": "strammer-max-vegetarisch.json",
       "recipe_count": 1,
       "sha256": "b2fe6396d70371bbd86102b245ea6f3cf7d49fac11d2e213568c7b7568375059"
+    },
+    {
+      "url": "https://www.ndr.de/ratgeber/kochen/rezepte/Tofu-mit-Pfannengemuese-und-Pilzen,tofupfanne114.html",
+      "status": "recipe",
+      "file": "gebratener-tofu-mit-pfannengemuese-und-pilzen.json",
+      "recipe_count": 1,
+      "sha256": "32686b9c0205b56e69041cfeae2a765bf592a72190d8419667bfb858d4625845"
+    },
+    {
+      "url": "https://www.ndr.de/ratgeber/kochen/rezepte/bohnenpfanne-mit-tofu,bohnenpfanne-100.html",
+      "status": "recipe",
+      "file": "bohnenpfanne-mit-tofu.json",
+      "recipe_count": 1,
+      "sha256": "7a46cec3723849f011c093c9ec40a773edf655855ab3ebf91c318406883ae2d5"
     },
     {
       "url": "https://www.ndr.de/ratgeber/kochen/rezepte/bunte-quinoa-pfanne-mit-haehnchen-gemuese,quinoapfanne-100.html",
@@ -64,6 +85,6 @@
     }
   ],
   "selection_file": "selection.json",
-  "selection_sha256": "4e0acb229fca2e09ef4a8140740386f04fe8b6754a50931dcf5519279ce86f15",
+  "selection_sha256": "117fd7b18bf7c9b1a1117e4a497f52be8754733d074384b88b0c7e50b1c9567f",
   "completed": true
 }

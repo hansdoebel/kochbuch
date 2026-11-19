@@ -93,3 +93,6 @@ Danach `http://127.0.0.1:3000` öffnen. Für Details, Entwicklung und Prüfungen
 ## Nährwerte und Wochenplanung
 
 Die Ernährungsansicht verwendet versionierte Referenzdaten des Max Rubner-Instituts: BLS 4.0 (CC BY 4.0), 7.140 Lebensmittel und 17 Nährstoffe pro 100 g. Freigegebene Zutatenzuordnungen erzeugen automatisch geschätzte Rezeptprofile; fehlende Mengen bleiben als Teilsummen erkennbar. Die Lebensmittel-Tabelle zeigt Herkunft und Lizenz. Ein Wochenvorschlag berücksichtigt Zeit, Abwechslung und gemeinsame Zutaten und lässt sich als Einkaufsliste exportieren. Erweiterung und regelmäßige Prüfung: [nutrition/README.md](nutrition/README.md).
+
+
+Die Ernährungsansicht bietet Trainings-/Ruhetagsprofile, Zutatenfilter, automatische proportionale Portionenvorschläge und acht quellenverlinkte Ernährungsstrategien. Persönliche Zielportionen und Haushaltsmenge sind getrennt; unvollständige Zutatenwerte blockieren die Anpassung, bis ausdrücklich eine verfügbare Herausgeber-Schätzung als separate Basis gewählt wird. [Prüfung und Bedienung](docs/nutrition-audit-and-diet-plans.md).

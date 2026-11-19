@@ -584,6 +584,38 @@
       "method": "reviewed",
       "reviewed_on": "2026-11-19",
       "note": "Kürbiskerne ohne Schale, nicht zusätzlich geröstet; EL-Gewicht bleibt offen."
+    },
+    {
+      "ingredient_id": 144,
+      "ingredient_name": "Shiitake-Pilze",
+      "food_id": "bls-4.0:K724100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Frische Shiitake, ungegartes essbares Zutatengewicht; entfernte Stiele und Garverluste nicht zusätzlich berechnet."
+    },
+    {
+      "ingredient_id": 153,
+      "ingredient_name": "Brokkoli",
+      "food_id": "bls-4.0:G312100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Frischer Brokkoli roh: ungegartes essbares Zutatengewicht, keine Vermischung mit gekochten 100-g-Werten."
+    },
+    {
+      "ingredient_id": 155,
+      "ingredient_name": "Mandeln",
+      "food_id": "bls-4.0:H210100",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Generische süße Mandeln; gehobelte Mandeln ohne Angabe einer Blanchierung. Produkt kann abweichen."
+    },
+    {
+      "ingredient_id": 146,
+      "ingredient_name": "Grüne Brechbohnen tiefgekühlt",
+      "food_id": "bls-4.0:G710200",
+      "method": "reviewed",
+      "reviewed_on": "2026-11-19",
+      "note": "Grüne Bohnen tiefgefroren, ungegartes TK-Zutatengewicht wie in der Quelle; keine Konserven- oder gegarte Bezugsbasis."
     }
   ],
   "weights": []

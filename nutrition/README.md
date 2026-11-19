@@ -51,3 +51,6 @@ Ein monatlicher GitHub-Action-Lauf prüft die aktuelle Download-Liste auf eine n
 | `vitamin_b12_ug`, `vitamin_d_ug`, `folate_ug`, `iodine_ug`, `selenium_ug` | µg |
 
 BLS CHO sind verfügbare Kohlenhydrate, FOLFD ist Folat, ID ist Iodid. Selen wird von diesem Import nicht bereitgestellt. Bei Datenlücken zeigt das Dashboard Teilsummen und Abdeckung je Nährstoff. Ziele setzt der Nutzer; Vorschläge werden niemals automatisch als gegessen protokolliert.
+
+
+Persönliche Trainings-/Ruhetagsziele, Portionenanpassung und die erneute Prüfung sind in [nutrition-audit-and-diet-plans.md](../docs/nutrition-audit-and-diet-plans.md) dokumentiert. Herausgeber-Schätzwerte können ausdrücklich als separate Makrobasis gewählt werden; fehlende BLS-Werte werden damit nicht aufgefüllt.

@@ -42,3 +42,11 @@ Mit installiertem Typst testet die Suite auch echte PDF-Erzeugung und das eigens
 Lokaler Suchbenchmark auf dem Stand mit 5.679 indexierten Rezepten: Median 1,25 ms, p95 5,46 ms für serverseitige Suchabfragen, ohne Netzwerk und Browser. Der erste Indexaufbau dauerte in diesem Lauf etwa 0,9 Sekunden. Werte hängen von Datenbestand und Hardware ab. `bun run bench` misst den jeweiligen Checkout. Die Datenbank in `.cache/web.sqlite` ist abgeleitet und kann jederzeit gelöscht werden.
 
 Svelte-/TypeScript-, API-, Mengen-, Nährwert-Abdeckungs- und PDF-Prüfungen werden automatisiert ausgeführt. Eine visuelle Browserprüfung war in der bereitgestellten Umgebung mangels Browser-QA-Werkzeug nicht möglich. Responsivität, Tastaturbedienung und Light/Dark Mode sollten zusätzlich im Zielbrowser geprüft werden.
+
+## Tagesprofile und Portionenanpassung
+
+Unter Ernährung eigene Zielbereiche für Trainings- und Ruhetage festlegen, Wochentage oder Datumsausnahmen wählen und einen ausdrücklichen Mahlzeitenanteil am Tagesziel setzen. Protein und Ballaststoffe können Mindestziele sein. Personenanzahl und persönliche Portionen bleiben getrennt. Vorschläge skalieren die Zutaten proportional, zeigen nicht erreichbare Grenzen und können als Auswahl in die mobile Einkaufsliste übernommen werden.
+
+Standardmäßig blockieren unvollständige Zutatenwerte die Anpassung. NDR-Herausgeber-Schätzungen sind eine ausdrücklich wählbare, getrennte Basis. Die BLS-Analyse wird dadurch nicht vervollständigt. Rezeptverhältnisse werden nicht automatisch umgebaut. Quellen und Details zur erneuten Prüfung sowie acht verbreitete Ernährungsstrategien stehen in [nutrition-audit-and-diet-plans.md](../docs/nutrition-audit-and-diet-plans.md).
+
+API: `GET /api/diet/options` liefert normalisierte Rezepte und Zutatenfilter. `POST /api/diet/adapt` nimmt Rezept-ID, Zielbereiche, Nährwertbasis, Portionsgrenzen und optionale Zutaten-/Ernährungsfilter an. `POST /api/plan/suggest` akzeptiert zusätzlich `diet` mit Tagesprofilen und `allowAdvancePrep`. Keine externe KI oder zusätzliche Datenbank nötig; Einstellungen werden lokal gespeichert.

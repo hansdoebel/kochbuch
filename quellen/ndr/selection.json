@@ -96,6 +96,44 @@
         "Gemüse raspeln beziehungsweise fein schneiden, Obst in dünne Stücke teilen und auf der Quarkbasis anrichten.",
         "Heidelbeeren, Granatapfelkerne, Kürbiskerne und Nüsse darübergeben."
       ]
+    },
+    {
+      "url": "https://www.ndr.de/ratgeber/kochen/rezepte/Tofu-mit-Pfannengemuese-und-Pilzen,tofupfanne114.html",
+      "slug": "gebratener-tofu-mit-pfannengemuese-und-pilzen",
+      "reviewed_on": "2026-11-19",
+      "reason": "Asiatisch beeinflusste Tofu-Mahlzeit; NDR pro Portion 28 g Protein und 10 g Ballaststoffe. Honig und mögliche tierische Würzsaucen nicht als vegan übergehen.",
+      "source_digest": "c1a88b2128845f17e2ec2019342e3c43ffe1f84a16c81228bbba652ccbd2611e",
+      "editorial_instructions": [
+        "Tofu in Scheiben schneiden. Mit Honig, Chili, Sojasoße und Limettenblättern mehrere Stunden, besser über Nacht, marinieren.",
+        "Gemüse putzen und klein schneiden, Sojabohnen aus den Schoten lösen; Ingwer und Knoblauch hacken.",
+        "Gemüse außer Spargel und Bohnen im Öl bissfest braten; Spargel und Bohnen in den letzten Minuten zugeben. Mit Knoblauch, Ingwer und Limette würzen, Tofu und etwas Marinade bei mäßiger Hitze zugeben.",
+        "Shiitake-Stiele entfernen. Pilze in einer zweiten Pfanne anbraten, mit Knoblauch, Ingwer, Limette und Sojasoße würzen. Mit Gemüse und Tofu anrichten; Sesam und Koriander darübergeben."
+      ]
+    },
+    {
+      "url": "https://www.ndr.de/ratgeber/kochen/rezepte/bohnenpfanne-mit-tofu,bohnenpfanne-100.html",
+      "slug": "bohnenpfanne-mit-tofu",
+      "reviewed_on": "2026-11-19",
+      "reason": "Asiatisch beeinflusste Tofu-Mahlzeit; NDR pro Portion 28 g Protein und 8 g Ballaststoffe. Honig und mögliche tierische Würzsaucen nicht als vegan übergehen.",
+      "source_digest": "3e63d9db941abd8586d26c40c13b223dcda55e5e8ae8a9b65a7b7b293ba1ce67",
+      "editorial_instructions": [
+        "Zucchini und Pilze in Scheiben, Tofu in Würfel schneiden. Zwiebel und Knoblauch hacken und im Rapsöl anschwitzen.",
+        "Tofu, Zucchini und Pilze hinzufügen, würzen und etwa 10 Minuten braten.",
+        "Kokosmilch, Soja Cuisine und Würzsaucen verrühren. Mit den TK-Bohnen zugeben, aufkochen und weitere 10 Minuten köcheln. Mit Sesam servieren."
+      ]
+    },
+    {
+      "url": "https://www.ndr.de/ratgeber/kochen/rezepte/Quinoa-Bowl-mit-Tofu-in-Sesamkruste-und-Brokkoli,rezept2868.html",
+      "slug": "quinoa-bowl-mit-tofu-in-sesamkruste-und-brokkoli",
+      "reviewed_on": "2026-11-19",
+      "reason": "Asiatisch beeinflusste Tofu-Mahlzeit; NDR pro Portion 51 g Protein und 21 g Ballaststoffe. Honig und mögliche tierische Würzsaucen nicht als vegan übergehen.",
+      "source_digest": "129a40c760540ed5b4da19deeb7522c1292ba2c1bb148cbb88bbf3e98b0b882d",
+      "editorial_instructions": [
+        "Quinoa in doppelter Wassermenge 15 Minuten garen, danach mindestens 5 Minuten quellen lassen. Brokkoli putzen und dämpfen.",
+        "Tofu in Scheiben schneiden, im gemischten Sesam wenden und im Kokosöl beidseitig etwa 5 Minuten knusprig braten.",
+        "Fenchel, Pilze und Mangold klein schneiden und im übrigen Öl etwa 5 Minuten braten. Kräuter und Chili hacken.",
+        "Limettensaft mit den Dressingzutaten in der warmen Pfanne vermengen. Alle Komponenten mit Mandeln, Sprossen und Hefeflocken anrichten und Dressing zugeben."
+      ]
     }
   ]
 }
